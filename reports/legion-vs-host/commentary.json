@@ -1,0 +1,1074 @@
+{
+  "title": "Battle of the Acropolis",
+  "armies": [
+    {
+      "name": "Legatus's Legion",
+      "faction": "Iron Imperium"
+    },
+    {
+      "name": "Spahbed's Host",
+      "faction": "Atashid Empire"
+    }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Two 200-RP armies, both commanded by the game's AI, fight over ACROPOLIS's three objectives. The Legion takes the early lead with its Primary Mission and one strong melee pair, but it loses a unit nearly every round while the Host keeps reinforcing. From Round 6 the Legion has nothing left to hold the ground with.",
+  "result_line": "Spahbed's Host wins on Victory Points in Battle Round 8",
+  "deployment": "<p>The Legion sets up across its back row. The <b>Legatus</b>, leading the <b>Ironthunder Vanguard</b>, deploys on the right with the <b>Fulminator Squad</b>. Legionnaire Squad 1 stands centre-right and Squad 2 on the left, with the <b>Speculatores</b> on the far left and the <b>Earthshaker Mortar</b> behind them. The Host deploys along the top edge. The <b>Spahbed</b> leads the <b>Aswaran</b> cavalry on the left (as the board is drawn), the <b>Mobad</b> leads the <b>Javidan Immortals</b> on the right, and two <b>Shieldbearer</b> squads, the <b>Adur Furnace Guard</b> and the <b>Sagdid Hound-Keepers</b> fill the line between them.</p><p>The objectives are worth 2 (left), 3 (centre) and 2 (right). The Legion has 7 units and 2 COMMAND sources, so 2 CP a round. The Host has 8 units and 3 COMMAND sources, so 3 CP a round. That gap matters from Round 2 on.</p>",
+  "rounds": {
+    "1": {
+      "title": "The Speculatores never fire a shot",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Primaries are revealed. The Legion holds <b>STRATEGICAL DISRUPTION</b>: 1 VP for an enemy SUPPRESSED or destroyed in an Objective Area, plus 2 VP whenever the Host's Primary scores nothing. The Host holds <b>RECONNAISSANCE OPERATION</b>, which pays for enemies held at MARKED or DESIGNATED. The Legion spends 1 CP on a Scouting Order for Legionnaire Squad 2 and keeps PUSH FORWARD. The Host keeps OBJECTIVE RELAY and banks its 3 CP."
+        },
+        {
+          "phase": "Movement",
+          "text": "Both AIs ADVANCE almost everything. The Legatus pair heads for the right objective and Legionnaire Squad 2 for the left. The Speculatores cross into the open at (6,9). Facing them, the Aswaran cavalry reaches the left objective and the Javidan–Mobad pair the right. The only Legion unit that doesn't advance is the Mortar, which shuffles one square and so can't fire its STATIONARY shell this round."
+        },
+        {
+          "phase": "Action",
+          "text": "The Aswaran open up with Ember Storm-Carbines on the exposed <b>Speculatores</b>: 6 damage, all three models down. The Legion's only RECCE unit dies before acting, and so does any chance of spotting for the Mortar."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "Each side holds a flank objective: 2 VP apiece. <b>2 – 2.</b>"
+        }
+      ]
+    },
+    "2": {
+      "title": "The Legion's best round, and its costliest",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Legion spends all 3 CP on the Legatus: Double Time and a Scouting Order. The Host spends 6: Secure Objective on the Spahbed, a <b>Troop Requisition</b> for a fresh Shieldbearer squad at 2 CP (Tactical Brilliance knocks a CP off), and later a Rally Cry for the Javidan."
+        },
+        {
+          "phase": "Movement",
+          "text": "The <b>Ironthunder Vanguard</b> charges the Mobad, the Javidan and the Sagdid Hound-Keepers. The Javidan fail their Fall Back test and take 2 in disorder. The Overwatch fire between the two lines does almost nothing: 1 damage from the Fulminators."
+        },
+        {
+          "phase": "Action",
+          "text": "The Ironthunder <b>destroy the Sagdid Hound-Keepers</b>, and the Legatus' Spatha takes 6 off the Javidan. On the far flank the Host answers harder: the <b>Aswaran</b> charge Legionnaire Squad 2 on the left objective for 8 and the <b>Spahbed</b> finishes it. The Furnace Guard flames the Fulminators. Their Suppressing Barrage costs the Furnace Guard 2, but Shieldbearer Alchemical Vials set them alight and they <b>burn to death</b>."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "STRATEGICAL DISRUPTION pays 3 VP: an enemy destroyed in an Objective Area, and the Host's Primary scored nothing. TAKE UP THE GAUNTLET completes for 3 more. <b>10 – 4 to the Legion</b>, but it has lost three units to the Host's one."
+        }
+      ]
+    },
+    "3": {
+      "title": "Rifles hold, the right flank bleeds",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host requisitions another Shieldbearer squad for 2 CP and gives the Mobad a Scouting Order. The Legion can afford a Scouting Order on the Legatus and nothing else. PUSH FORWARD expires unscored: the two units it needed advancing into the enemy half were already dead."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Ironthunder try to break off and fail their Fall Back test: 3 True Damage in disorder."
+        },
+        {
+          "phase": "Action",
+          "text": "<b>Legionnaire Squad 1</b> has its best moment: a full volley of Bolt-Action Rifles <b>destroys Shieldbearers 1</b> (10 damage). The Furnace Guard's flamer sets the Legatus pair Burning, which costs 2 HP on each unit."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "The Legion's Primary pays 3 again. The Host now holds the centre and the left: 5 VP. <b>13 – 9.</b>"
+        }
+      ]
+    },
+    "4": {
+      "title": "The Javidan and the Mobad fall",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Legion spends 3 CP on Secure Objective for the Ironthunder. The Host keeps its Javidan in the fight with another Rally Cry."
+        },
+        {
+          "phase": "Movement",
+          "text": "A Shieldbearer charge fails to arrive. The Mortar's Overwatch misses."
+        },
+        {
+          "phase": "Action",
+          "text": "The Javidan Immortals attack the Legatus pair and are cut down in the exchange. The Ironthunder then <b>kill the Mobad</b>, the Host's only caster. Legionnaire Squad 1 takes 6 off Shieldbearers 2, and the Mortar's shell on the Furnace Guard does nothing."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "Primary +3 (9 of its 10-VP cap) and the right objective +2: <b>18 – 11</b>, the Legion's widest lead. Pietas reaches Tier IV."
+        }
+      ]
+    },
+    "5": {
+      "title": "The Overwatch wall",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host keeps 3 CP in hand. Its Mana keeps piling up (7 now) with no caster left to spend it."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Legatus pair pulls back to (12,9) and the Mortar moves to (4,9). Both walk into <b>Overwatch</b>. A Shieldbearer squad hits the Ironthunder for 3, and the Aswaran take 4 off the Mortar. The Legion pays 2 CP for a Rally Cry to keep the Ironthunder in the fight."
+        },
+        {
+          "phase": "Action",
+          "text": "Legionnaire Squad 1 finishes Shieldbearers 2. Then a <b>requisitioned</b> Shieldbearer squad, one that wasn't on the table at deployment, shoots the wounded Legatus pair: <b>the Legatus and the Ironthunder Vanguard both die</b>. The Aswaran destroy the Mortar."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "STRATEGICAL DISRUPTION's last point puts it at its 10-VP cap, so it can't score again. <b>19 – 13</b>, but the Legion is down to one squad and its HQ."
+        }
+      ]
+    },
+    "6": {
+      "title": "Nothing left to hold the ground",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Legion keeps IRON CURTAIN, which needs no Legion unit destroyed while it's held. The Host's CP is up to 5."
+        },
+        {
+          "phase": "Movement",
+          "text": "Legionnaire Squad 1 edges forward. The Host spreads its four remaining squads and the Aswaran pair over the objectives."
+        },
+        {
+          "phase": "Action",
+          "text": "No combat. Legionnaire Squad 1 raises Shield Wall and waits."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "The Host scores 4 from objectives; the Legion scores nothing. <b>19 – 17.</b>"
+        }
+      ]
+    },
+    "7": {
+      "title": "The Legion is tabled",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host requisitions yet another Shieldbearer squad and Double-Times the Furnace Guard. IRON CURTAIN completes as it expires (+2 VP, +1 CP)."
+        },
+        {
+          "phase": "Movement",
+          "text": "Legionnaire Squad 1 advances, and the Furnace Guard's Overwatch flames it for 8. A 2-CP Rally Cry keeps it from breaking."
+        },
+        {
+          "phase": "Action",
+          "text": "A Shieldbearer squad shoots the <b>Legion HQ</b> for 8 and destroys it. Legionnaire Squad 1 burns to death at the end of the phase. The Legion has no units left."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "The Host holds all three objectives (7 VP) and completes OMNIPRESENCE (+4). <b>21 – 28.</b>"
+        }
+      ]
+    },
+    "8": {
+      "title": "The Host counts its objectives",
+      "feed": [
+        {
+          "phase": "Movement",
+          "text": "The Host has no one to fight and simply settles onto the objectives."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "Another 7 VP from objectives takes the Host past 30. <b>Spahbed's Host wins 35 – 21.</b> Its Primary scored 0 all game, and it ended with 22 Mana it never spent."
+        }
+      ]
+    }
+  },
+  "closing_title": "What decided it",
+  "closing": "<p>The Legion won the scoreboard for five rounds and lost the battle on attrition. Its Primary gave it 10 VP by Round 5, and then the 10-VP cap stopped it. By then it had lost six of its seven units. The Host's Primary scored nothing all game, and the Host won anyway, on objectives and on the bodies it kept adding to the board. In the batch above, every battle went the same way.</p>",
+  "charts": [
+    {
+      "id": "army-index",
+      "type": "columns",
+      "title": "What 200 RP buys",
+      "sub": "The Host's army as fielded, indexed to the Legion's (Legion = 100)",
+      "categories": [
+        "Units",
+        "Models",
+        "HP",
+        "Objective Control",
+        "CP a round",
+        "Average MOVE"
+      ],
+      "series": [
+        {
+          "name": "Legatus's Legion",
+          "side": 0,
+          "values": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100
+          ],
+          "tips": [
+            [
+              [
+                "7",
+                "units"
+              ]
+            ],
+            [
+              [
+                "21",
+                "models"
+              ]
+            ],
+            [
+              [
+                "56",
+                "HP"
+              ]
+            ],
+            [
+              [
+                "34",
+                "OC"
+              ]
+            ],
+            [
+              [
+                "2",
+                "CP a round"
+              ]
+            ],
+            [
+              [
+                "2.7",
+                "average MOVE"
+              ]
+            ]
+          ]
+        },
+        {
+          "name": "Spahbed's Host",
+          "side": 1,
+          "values": [
+            114,
+            124,
+            123,
+            135,
+            150,
+            120
+          ],
+          "tips": [
+            [
+              [
+                "8",
+                "units"
+              ]
+            ],
+            [
+              [
+                "26",
+                "models"
+              ]
+            ],
+            [
+              [
+                "69",
+                "HP"
+              ]
+            ],
+            [
+              [
+                "46",
+                "OC"
+              ]
+            ],
+            [
+              [
+                "3",
+                "CP a round"
+              ]
+            ],
+            [
+              [
+                "3.25",
+                "average MOVE"
+              ]
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "standing",
+      "type": "line",
+      "decimals": 1,
+      "title": "Units on the battlefield",
+      "sub": "Average at the end of each Battle Round, HQ not counted (rounds with at least 3 of the 12 battles still going)",
+      "categories": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ],
+      "series": [
+        {
+          "name": "Legatus's Legion",
+          "side": 0,
+          "values": [
+            6.6,
+            5.8,
+            4.6,
+            3.6,
+            2.6
+          ]
+        },
+        {
+          "name": "Spahbed's Host",
+          "side": 1,
+          "values": [
+            8.6,
+            8.4,
+            8.6,
+            8.9,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "id": "on-objectives",
+      "type": "line",
+      "decimals": 1,
+      "title": "Units standing in an Objective Area",
+      "sub": "Average at the end of each Battle Round",
+      "categories": [
+        "R1",
+        "R2",
+        "R3",
+        "R4",
+        "R5"
+      ],
+      "series": [
+        {
+          "name": "Legatus's Legion",
+          "side": 0,
+          "values": [
+            3.1,
+            2.8,
+            2.4,
+            1.2,
+            0.3
+          ]
+        },
+        {
+          "name": "Spahbed's Host",
+          "side": 1,
+          "values": [
+            2.3,
+            3,
+            2.9,
+            3.7,
+            5.1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cp-spend",
+      "type": "stacked",
+      "title": "Where the Command Points went",
+      "sub": "CP spent over all 12 battles",
+      "rows": [
+        {
+          "label": "Legatus's Legion",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Troop Requisition",
+              "value": 18,
+              "cls": "pa"
+            },
+            {
+              "name": "Every other command",
+              "value": 105,
+              "cls": "src-lost"
+            }
+          ]
+        },
+        {
+          "label": "Spahbed's Host",
+          "side": 1,
+          "segments": [
+            {
+              "name": "Troop Requisition",
+              "value": 70,
+              "cls": "pb"
+            },
+            {
+              "name": "Every other command",
+              "value": 109,
+              "cls": "src-lost"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit-value",
+      "type": "rank",
+      "decimals": 2,
+      "title": "Damage per RP, unit by unit",
+      "sub": "Damage dealt in an average battle for each RP the unit costs, over 12 battles",
+      "rows": [
+        {
+          "label": "Aswaran",
+          "side": 1,
+          "value": 0.53,
+          "sub": "35 RP · 18.5 damage a battle · destroyed in 0 of 12",
+          "tipRows": [
+            [
+              "0.53",
+              "damage per RP a battle"
+            ],
+            [
+              "18.5",
+              "damage a battle"
+            ],
+            [
+              "0/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Earthshaker Mortar",
+          "side": 0,
+          "value": 0.26,
+          "sub": "30 RP · 7.9 damage a battle · destroyed in 5 of 12",
+          "tipRows": [
+            [
+              "0.26",
+              "damage per RP a battle"
+            ],
+            [
+              "7.9",
+              "damage a battle"
+            ],
+            [
+              "5/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Ironthunder Vanguard",
+          "side": 0,
+          "value": 0.24,
+          "sub": "40 RP · 9.8 damage a battle · destroyed in 7 of 12",
+          "tipRows": [
+            [
+              "0.24",
+              "damage per RP a battle"
+            ],
+            [
+              "9.8",
+              "damage a battle"
+            ],
+            [
+              "7/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Shieldbearers",
+          "side": 1,
+          "value": 0.19,
+          "sub": "17 RP · 3.2 damage a battle · destroyed in 18 of 59",
+          "tipRows": [
+            [
+              "0.19",
+              "damage per RP a battle"
+            ],
+            [
+              "3.2",
+              "damage a battle"
+            ],
+            [
+              "18/59",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Legionnaire Squad",
+          "side": 0,
+          "value": 0.17,
+          "sub": "20 RP · 3.5 damage a battle · destroyed in 27 of 30",
+          "tipRows": [
+            [
+              "0.17",
+              "damage per RP a battle"
+            ],
+            [
+              "3.5",
+              "damage a battle"
+            ],
+            [
+              "27/30",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Sagdid Hound-Keepers",
+          "side": 1,
+          "value": 0.15,
+          "sub": "10 RP · 1.5 damage a battle · destroyed in 5 of 12",
+          "tipRows": [
+            [
+              "0.15",
+              "damage per RP a battle"
+            ],
+            [
+              "1.5",
+              "damage a battle"
+            ],
+            [
+              "5/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Adur Furnace Guard",
+          "side": 1,
+          "value": 0.13,
+          "sub": "20 RP · 2.5 damage a battle · destroyed in 0 of 12",
+          "tipRows": [
+            [
+              "0.13",
+              "damage per RP a battle"
+            ],
+            [
+              "2.5",
+              "damage a battle"
+            ],
+            [
+              "0/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Javidan Immortals",
+          "side": 1,
+          "value": 0.12,
+          "sub": "30 RP · 3.7 damage a battle · destroyed in 1 of 12",
+          "tipRows": [
+            [
+              "0.12",
+              "damage per RP a battle"
+            ],
+            [
+              "3.7",
+              "damage a battle"
+            ],
+            [
+              "1/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Fulminator Squad",
+          "side": 0,
+          "value": 0.11,
+          "sub": "20 RP · 2.2 damage a battle · destroyed in 11 of 12",
+          "tipRows": [
+            [
+              "0.11",
+              "damage per RP a battle"
+            ],
+            [
+              "2.2",
+              "damage a battle"
+            ],
+            [
+              "11/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Legatus",
+          "side": 0,
+          "value": 0.08,
+          "sub": "50 RP · 4.2 damage a battle · destroyed in 6 of 12",
+          "tipRows": [
+            [
+              "0.08",
+              "damage per RP a battle"
+            ],
+            [
+              "4.2",
+              "damage a battle"
+            ],
+            [
+              "6/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Spahbed",
+          "side": 1,
+          "value": 0.07,
+          "sub": "50 RP · 3.3 damage a battle · destroyed in 0 of 12",
+          "tipRows": [
+            [
+              "0.07",
+              "damage per RP a battle"
+            ],
+            [
+              "3.3",
+              "damage a battle"
+            ],
+            [
+              "0/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Speculatores",
+          "side": 0,
+          "value": 0.04,
+          "sub": "18 RP · 0.8 damage a battle · destroyed in 11 of 12",
+          "tipRows": [
+            [
+              "0.04",
+              "damage per RP a battle"
+            ],
+            [
+              "0.8",
+              "damage a battle"
+            ],
+            [
+              "11/12",
+              "destroyed"
+            ]
+          ]
+        },
+        {
+          "label": "Mobad",
+          "side": 1,
+          "value": 0.03,
+          "sub": "20 RP · 0.6 damage a battle · destroyed in 1 of 12",
+          "tipRows": [
+            [
+              "0.03",
+              "damage per RP a battle"
+            ],
+            [
+              "0.6",
+              "damage a battle"
+            ],
+            [
+              "1/12",
+              "destroyed"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "legion-cards",
+      "type": "stacked",
+      "title": "The Legion's secondaries, card by card",
+      "sub": "Every card it kept at least twice, over 12 battles",
+      "rows": [
+        {
+          "label": "COORDINATED PUSH",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 2,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 2,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 2,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "OMNIPRESENCE",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 1,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 2,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 2,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "COMMAND AUTHORITY",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 2,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 3,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 0,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "PUSH FORWARD",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 4,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 0,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "VIGILANT WATCH",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 2,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 2,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "ASSASSINATION",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 1,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 3,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "IRON CURTAIN",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 2,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 0,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 2,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "DEEP REACH",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 2,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 0,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 2,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "FOCUSED FIRE",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 2,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 1,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "FORWARD PRESENCE",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 0,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 3,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "MAN OF THE HOUR",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 2,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 1,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "OBJECTIVE RELAY",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 1,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 2,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "BREAK CONTACT",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 1,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 1,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 1,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "TAKE UP THE GAUNTLET",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 2,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 0,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 1,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "INTO THE FRAY",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 1,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 1,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "FIRE FOR EFFECT",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 0,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 2,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 0,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "KING OF THE HILL",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 1,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 0,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 1,
+              "cls": "src-oth"
+            }
+          ]
+        },
+        {
+          "label": "IRON GRIP",
+          "side": 0,
+          "segments": [
+            {
+              "name": "Completed",
+              "value": 1,
+              "cls": "pa"
+            },
+            {
+              "name": "Expired",
+              "value": 1,
+              "cls": "src-lost"
+            },
+            {
+              "name": "Still in play at the end",
+              "value": 0,
+              "cls": "src-oth"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "title": "Analysis: is the Imperium overcosted?",
+    "html": "\n<p class=\"callout\">The Imperium is not overcosted as a faction. This matchup is lopsided, 12–0 for the Host over 12 battles, and three things decide it, roughly in this order of weight: <b>the Host's Command Point economy</b>, which turns CP into extra units every round; <b>two Legion units that do little for their cost</b> as the AI plays them (the Fulminator Squad and the Speculatores); and <b>one Host unit that is too good for its 35 RP</b> (the Aswaran). The Legion's own strong pieces (the Ironthunder Vanguard and the Earthshaker Mortar) are worth their RP.</p>\n\n<h3>1. One bad battle, or the matchup?</h3>\n<p>It is the matchup. The same two armies played 12 battles on 4 maps (ACROPOLIS, CROSSROADS, TRIPLE HILLS, TWIN LAKES); the one above is the first of them, replayed from its seed. They swapped Player A and B every other game, so each army played from both ends of the board. The Host won every one. The Legion's average was 17.7 VP to the Host's 32.3. The closest was 26–31 on TRIPLE HILLS. In 8 of the 12, the one above included, the Legion led at the end of at least one Battle Round and then ran out of army.</p>\n{{batch}}\n{{chart:batch-vp}}\n\n<h3>2. Where the VP came from</h3>\n<p>The Host wins on objectives. Over the batch its Primary Mission scored only 41 VP in total. The AI kept picking cards its army barely scores: DEEP INFILTRATION 4 times for 0 VP, COORDINATED SUPPRESSION 2 times for 1. The Legion's Primary did its job: 77 VP, with LEAD FROM THE FRONT giving 35 VP in 4 battles. But every Primary stops at 10 VP a battle, and it can't make up for losing the board.</p>\n{{chart:batch-sources}}\n\n<h3>3. Attrition: the Legion runs out of army; the Host grows</h3>\n<p>Both armies start near 200 RP. At deployment the Host already has more for it: one more unit, five more models, 23% more HP, 35% more Objective Control, and a third COMMAND source that pays 3 CP a round instead of 2. Then the gap widens. The Spahbed's <b>Tactical Brilliance</b> cuts a STANDARD Troop Requisition from 3 CP to 2, so the Host buys a 17-RP Shieldbearer squad for 2 CP almost every round. It requisitioned 35 units (595 RP) over the batch: about 2.9 units and 49.6 RP a battle, roughly a quarter of its starting army, bought with CP rather than RP. The Legion managed 6 units in all.</p>\n{{chart:army-index}}\n{{chart:cp-spend}}\n<p>The result is plain. The Legion averages 6.6 units at the end of Round 1 and 2.6 by Round 5. Over the same rounds the Host goes from 8.6 to 9, more than it deployed. From Round 2 on, the Host has more units standing in Objective Areas every round, and it scores objective VP the Legion can no longer contest.</p>\n{{chart:standing}}\n{{chart:on-objectives}}\n{{chart:batch-losses}}\n\n<h3>4. Unit by unit: who earns their RP</h3>\n<p>Damage for each RP spent separates the units clearly. The <b>Aswaran</b> top the table: 0.53 damage per RP a battle, and they were never destroyed in 12 battles. The Spahbed rides with them as their leader (never destroyed either), and a MOVE 4 cavalry pair with carbines and a melee charge is the best value on the field. On the Legion side the <b>Ironthunder Vanguard</b> (0.24) and the <b>Earthshaker Mortar</b> (0.26) match or beat the Host's Shieldbearers (0.19). The bottom of the table is the problem. The <b>Fulminator Squad</b> (20 RP) deals 2.2 damage a battle and is destroyed in 11 of 12. The <b>Speculatores</b> (18 RP) deal 0.8 and are destroyed in all 12. Together with the Mortar, that 68-RP ranged third of the army produced 32% of the Legion's damage, nearly all of it the Mortar's.</p>\n{{chart:unit-value}}\n<p>How much of that is cost and how much is the AI? The record points at the AI first:</p>\n<ul>\n<li><b>The Mortar moves too much.</b> Its shell is STATIONARY and cannot fire in a round the Mortar moved. The AI moved it in 30 of the 58 rounds it started alive (52%).</li>\n<li><b>The Speculatores are thrown forward.</b> They ADVANCE into the open in Round 1 and die early: 3 of 12 in Round 1, 11 of 12 by Round 6. The Legion loses its only RECCE unit, and with it much of the spotting that the Mortar's INDIRECT FIRE and the range-8 rifles rely on; the PER-3 infantry left see little further than their own line.</li>\n<li><b>The Fulminators march.</b> Their Stormspitter is HEAVY (−1 to HIT for infantry that moved), and the AI moved them in 32 of the 39 rounds they started alive. They fired in 8 of those rounds before Burning or a charge finished them.</li>\n<li><b>Burning does a lot of the killing.</b> Shieldbearer Gunspears, Alchemical Vials, the Furnace Guard's flamer and the Spahbed's firebreath are all ABLAZE. Over the batch the Legion lost 79 HP to Burning (12% of all it lost), the Host 6. Nothing in the Legion's list sets anything alight.</li>\n</ul>\n\n<h3>5. Why the Legion's secondaries fail</h3>\n<p>The Legion completed 15 of the 67 secondaries it kept (22%); the Host 28 of 68 (41%). In the featured battle, two of eight. The cards fail for three reasons:</p>\n<ul>\n<li><b>Cards that need an army the Legion no longer has.</b> OMNIPRESENCE (2 OC on every objective), FORWARD PRESENCE (a unit within 3 squares of the enemy HQ), FOCUSED FIRE (three units attacking one target) and MAN OF THE HOUR (one unit destroying two) all need several units alive and spread out. By Round 4 the Legion averages about 3.6 units. The Host completes the presence cards almost every time it draws them: IRON GRIP 6/6, OMNIPRESENCE 4/4, TERRITORIAL SUPERIORITY 4/4.</li>\n<li><b>Cards the board rules out.</b> PUSH FORWARD wants two units to ADVANCE into the enemy half in one Movement Phase. From the Legion's back rows, with MOVE 2–3 infantry, that is out of reach in Round 1, and the units that would try are dead by Round 3. It went 0 for 4. ASSASSINATION wants an enemy CHARACTER, and the Host's two CHARACTERs stand inside their bodyguards: the Spahbed was destroyed in 0 of 12 battles, the Mobad in 1.</li>\n<li><b>The AI keeps cards without checking them against its army.</b> It is offered two cards and keeps one, but it does not ask whether its surviving units can do it. OMNIPRESENCE with three units left is a card that can only expire.</li>\n</ul>\n{{chart:legion-cards}}\n{{chart:batch-missions}}\n\n<h3>6. Verdict and what to change</h3>\n<p><b>The Imperium is not overcosted as a faction.</b> Its expensive melee pair and its artillery earn their RP. Two things, in order:</p>\n<ol>\n<li><b>The Host's reinforcement engine is the biggest balance problem in this matchup.</b> A 2-CP Troop Requisition (Tactical Brilliance on a 3-CP base), paid from a 3-CP income, adds about 49.6 RP of units a battle for free. Options: no discount on Troop Requisition, a limit of one requisition a battle, or a CP cost set by the unit's RP.</li>\n<li><b>The Legion list has two units the AI cannot use</b>, and they may also be overcosted: the Fulminator Squad (20 RP, 6 HP, a HEAVY weapon) and the Speculatores (18 RP, 6 HP). Before touching their RP, fix the AI's use of them: hold STATIONARY and HEAVY weapons still, keep RECCE back to spot, and check secondaries against the surviving army. Then re-run this batch. The <b>Aswaran</b> at 35 RP are the one unit here that looks undercosted on any reading.</li>\n</ol>\n<p>Next experiments that would settle it, each one batch with this tool: (a) the same matchup with Troop Requisition undiscounted; (b) the Legion with two more Legionnaire Squads in place of the Fulminators and Speculatores; (c) either, after the AI changes above.</p>\n\n\n<h3>7. After the fixes</h3>\n<p class=\"callout\">With the five fixes in, the same 12 battles went <b style=\"white-space:nowrap\">3–9</b>, where they had gone 0–12. Over three batches with the fixes (the AI was retuned between them) the Legion won 10 of 36. The Host still wins on objectives, but it now requisitions about half as many units, and its carbines do a quarter to under half the damage.</p>\n<div class=\"table-wrap\"><table><caption>The same 12 battles (seeds, maps, sides), before and after the fixes</caption><thead><tr><th>Measure</th><th>Before</th><th>After</th></tr></thead><tbody><tr><td>Legion wins</td><td>0 of 12</td><td>3 of 12</td></tr><tr><td>Mean VP, Legion / Host</td><td>17.7 / 32.3</td><td>18.4 / 30.8</td></tr><tr><td>Units the Host requisitioned</td><td>35</td><td>21</td></tr><tr><td>Damage from Aswaran carbines</td><td>87</td><td>20</td></tr><tr><td>Earthshaker Mortar: rounds it moved</td><td>21 of 46</td><td>3 of 46</td></tr><tr><td>Fulminator Squad: Round 1 Advances</td><td>12</td><td>0</td></tr><tr><td>Fulminator Squad: damage a battle</td><td>2.2</td><td>5.9</td></tr><tr><td>Speculatores lost in Round 1</td><td>3</td><td>0</td></tr><tr><td>Speculatores: round ends on an objective</td><td>24 of 26</td><td>13 of 30</td></tr><tr><td>Secondaries completed, Legion</td><td>15 of 67</td><td>23 of 67</td></tr><tr><td>Secondaries completed, Host</td><td>28 of 68</td><td>36 of 67</td></tr></tbody></table></div>\n<ul>\n<li><b>Troop Requisition</b> now always costs its printed price and cannot be issued again the next Battle Round. The Host requisitioned 21 units in 12 battles, down from 35 (16 to 21 across the three batches).</li>\n<li><b>Aswaran</b>: Ember Storm-Carbine DMG 2 → 1. Carbine damage fell from 87 to 20 (20 to 38 across batches). Their Ember Scimitars still hit hard in melee, so their total output still swings from battle to battle.</li>\n<li><b>Gun teams</b>: the Earthshaker Mortar moved in 3 of 46 rounds, down from 21. The Fulminators no longer Advance in Round 1 and deal 5.9 damage a battle (was 2.2). They still move 2 squares in most rounds to gain or keep a target, and they were destroyed in 10 of 12 battles (4 of 12 in each of the two earlier batches).</li>\n<li><b>Speculatores</b> were never lost in Round 1 (3 times before), and they ended 13 of 30 rounds on an objective. A first pass made them too timid: 3 of 35. Restoring the Round 1 rush onto an objective fixed that. They were still destroyed in 11 of 12 battles, by Round 3 on average: with 6 HP and no HIDDEN, careful play does not save them.</li>\n<li><b>Secondaries</b>: the AI reads each card's rule against its army and the board, never keeps one it cannot do, and passes on a draw with nothing worth keeping. The Legion completed 23 of 67 (was 15), the Host 36 of 67 (was 28).</li>\n</ul>\n<p>Still open: the Speculatores' survival (a cost or rules question now, not an AI one), whether the Fulminators should stand still even with an objective to take, and the Aswaran's melee.</p>"
+  }
+}

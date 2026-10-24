@@ -1,0 +1,1181 @@
+{
+ "armies": [
+  {
+   "name": "Armoured Cohort",
+   "faction": "iron_imperium",
+   "formation": "preset:armoured_cohort"
+  },
+  {
+   "name": "Pontifex's Procession",
+   "faction": "infernal_congregations",
+   "formation": "preset:pontifex_procession"
+  }
+ ],
+ "maps": [
+  "TRIPLE HILLS",
+  "ACROPOLIS"
+ ],
+ "games": [
+  {
+   "seed": 930,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    5,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 4,
+     "primary": 0,
+     "missions": 1,
+     "other": 0
+    },
+    {
+     "objectives": 25,
+     "primary": 3,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    199
+   ],
+   "lostRp": [
+    67,
+    43
+   ],
+   "lostUnits": [
+    3,
+    3
+   ],
+   "fieldedRp": [
+    219,
+    209
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    55,
+    45
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     2,
+     2,
+     0
+    ],
+    [
+     5,
+     7,
+     5,
+     3,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 10
+    },
+    {
+     "gained": 11,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Augur",
+      "rp": 27,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "The Pontifex of Acedia",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Algedonic Taskmaster",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Morphean Engine",
+      "rp": 40,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Forsaken",
+      "rp": 7,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Forsaken",
+      "rp": 7,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Forsaken",
+      "rp": 7,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Machinegun Squad",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Centurion",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 4,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Augur",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "The Pontifex of Acedia",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Algedonic Taskmaster",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Morphean Engine",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Forsaken",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Forsaken",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Forsaken",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Machinegun Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 931,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    34,
+    13
+   ],
+   "vpBySource": [
+    {
+     "objectives": 20,
+     "primary": 9,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 3,
+     "primary": 8,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    199
+   ],
+   "lostRp": [
+    0,
+    20
+   ],
+   "lostUnits": [
+    0,
+    2
+   ],
+   "fieldedRp": [
+    199,
+    209
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    66,
+    18
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     7,
+     4,
+     7
+    ],
+    [
+     0,
+     0,
+     3,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 8
+    },
+    {
+     "gained": 8,
+     "spent": 8
+    }
+   ],
+   "primary": [
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 9
+    },
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 8
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    2,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ],
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 1,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Augur",
+      "rp": 27,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     }
+    ],
+    [
+     {
+      "type": "The Pontifex of Acedia",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Algedonic Taskmaster",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Morphean Engine",
+      "rp": 40,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Forsaken",
+      "rp": 7,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Forsaken",
+      "rp": 7,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Forsaken",
+      "rp": 7,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Machinegun Squad",
+      "rp": 15,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Centurion",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Augur",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "The Pontifex of Acedia",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Algedonic Taskmaster",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Morphean Engine",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Forsaken",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Forsaken",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Forsaken",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Machinegun Squad",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 0,
+   "errors": 0
+  }
+ ]
+}

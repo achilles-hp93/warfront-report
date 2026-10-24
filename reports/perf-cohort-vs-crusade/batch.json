@@ -1,0 +1,1160 @@
+{
+ "armies": [
+  {
+   "name": "Armoured Cohort",
+   "faction": "iron_imperium",
+   "formation": "preset:armoured_cohort"
+  },
+  {
+   "name": "Crusade Host",
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:crusade_host"
+  }
+ ],
+ "maps": [
+  "CROSSROADS",
+  "TRIPLE HILLS"
+ ],
+ "games": [
+  {
+   "seed": 910,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    18,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 10,
+     "primary": 2,
+     "missions": 6,
+     "other": 0
+    },
+    {
+     "objectives": 21,
+     "primary": 6,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    199
+   ],
+   "lostRp": [
+    107,
+    39
+   ],
+   "lostUnits": [
+    5,
+    2
+   ],
+   "fieldedRp": [
+    219,
+    209
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    53,
+    62
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     2,
+     2,
+     2,
+     0
+    ],
+    [
+     3,
+     3,
+     5,
+     5,
+     5,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 14,
+     "spent": 14
+    },
+    {
+     "gained": 18,
+     "spent": 17
+    }
+   ],
+   "primary": [
+    {
+     "name": "WIDE SWEEP",
+     "vp": 2
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Augur",
+      "rp": 27,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Centurion",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Malleus Sappers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Augur",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 3,
+      "back": 1,
+      "objective": 2,
+      "squares": 5
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 911,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    19,
+    40
+   ],
+   "vpBySource": [
+    {
+     "objectives": 6,
+     "primary": 9,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 26,
+     "primary": 4,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    209
+   ],
+   "lostRp": [
+    85,
+    35
+   ],
+   "lostUnits": [
+    4,
+    2
+   ],
+   "fieldedRp": [
+    219,
+    229
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    50,
+    53
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     2,
+     0,
+     0,
+     0
+    ],
+    [
+     3,
+     3,
+     3,
+     5,
+     5,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 12
+    },
+    {
+     "gained": 20,
+     "spent": 19
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 9
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Augur",
+      "rp": 27,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 3,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Centurion",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 8,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Augur",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 6,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 2
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

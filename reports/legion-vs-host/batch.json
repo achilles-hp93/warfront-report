@@ -1,0 +1,2072 @@
+{
+ "armies": [
+  {
+   "name": "Legatus's Legion",
+   "faction": "iron_imperium",
+   "formation": "preset:legatus_legion"
+  },
+  {
+   "name": "Spahbed's Host",
+   "faction": "atashid_empire",
+   "formation": "preset:spahbed_host"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 100,
+   "map": "ACROPOLIS",
+   "swapped": false,
+   "round": 8,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    21,
+    35
+   ],
+   "vpBySource": [
+    {
+     "objectives": 6,
+     "primary": 10,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 31,
+     "primary": 0,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    198,
+    94
+   ],
+   "lostUnits": [
+    7,
+    5
+   ],
+   "fieldedRp": [
+    198,
+    250
+   ],
+   "arrivedUnits": [
+    0,
+    3
+   ],
+   "damage": [
+    47,
+    64
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     2,
+     2,
+     5,
+     2,
+     2,
+     4,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 13
+    },
+    {
+     "gained": 20,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 10
+    },
+    {
+     "name": "RECONNAISSANCE OPERATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    8,
+    8
+   ],
+   "missionsCompleted": [
+    2,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 7
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 8
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 7
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 8,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 8
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 7
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "active",
+      "kept": 8,
+      "ended": null
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 101,
+   "map": "CROSSROADS",
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    17,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 7,
+     "primary": 6,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 25,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    188,
+    10
+   ],
+   "lostUnits": [
+    7,
+    1
+   ],
+   "fieldedRp": [
+    218,
+    284
+   ],
+   "arrivedUnits": [
+    1,
+    5
+   ],
+   "damage": [
+    43,
+    70
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     0,
+     2,
+     0,
+     0,
+     0
+    ],
+    [
+     2,
+     5,
+     3,
+     3,
+     7,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 12
+    },
+    {
+     "gained": 19,
+     "spent": 19
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 6
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 102,
+   "map": "TRIPLE HILLS",
+   "swapped": false,
+   "round": 4,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    14,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 2,
+     "primary": 10,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 10,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    88,
+    10
+   ],
+   "lostUnits": [
+    4,
+    1
+   ],
+   "fieldedRp": [
+    198,
+    216
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    17,
+    42
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     3,
+     3,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 9
+    },
+    {
+     "gained": 13,
+     "spent": 7
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    },
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    1,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 1,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 103,
+   "map": "TWIN LAKES",
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    10,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 7,
+     "primary": 3,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 25,
+     "primary": 0,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    218,
+    17
+   ],
+   "lostUnits": [
+    8,
+    1
+   ],
+   "fieldedRp": [
+    218,
+    233
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    16,
+    74
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     0,
+     2,
+     2,
+     0,
+     0
+    ],
+    [
+     2,
+     5,
+     2,
+     2,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 8
+    },
+    {
+     "gained": 20,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 3
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    0,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 104,
+   "map": "ACROPOLIS",
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    10,
+    33
+   ],
+   "vpBySource": [
+    {
+     "objectives": 4,
+     "primary": 6,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 24,
+     "primary": 0,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    108,
+    27
+   ],
+   "lostUnits": [
+    5,
+    2
+   ],
+   "fieldedRp": [
+    198,
+    267
+   ],
+   "arrivedUnits": [
+    0,
+    4
+   ],
+   "damage": [
+    25,
+    57
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     5,
+     2,
+     2,
+     4,
+     4,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 12
+    },
+    {
+     "gained": 19,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "FORLORN HOPE",
+     "vp": 6
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    6
+   ],
+   "missionsCompleted": [
+    0,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 105,
+   "map": "CROSSROADS",
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    20,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 9,
+     "primary": 2,
+     "missions": 9,
+     "other": 0
+    },
+    {
+     "objectives": 28,
+     "primary": 0,
+     "missions": 3,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    188,
+    51
+   ],
+   "lostUnits": [
+    7,
+    3
+   ],
+   "fieldedRp": [
+    218,
+    267
+   ],
+   "arrivedUnits": [
+    1,
+    4
+   ],
+   "damage": [
+    45,
+    60
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     5,
+     2,
+     0,
+     0,
+     0
+    ],
+    [
+     5,
+     2,
+     2,
+     7,
+     5,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 11
+    },
+    {
+     "gained": 18,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "WIDE SWEEP",
+     "vp": 2
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    3,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 106,
+   "map": "TRIPLE HILLS",
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    26,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 9,
+     "primary": 10,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 6,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    98,
+    0
+   ],
+   "lostUnits": [
+    5,
+    0
+   ],
+   "fieldedRp": [
+    218,
+    233
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    27,
+    49
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     2,
+     2,
+     0,
+     0
+    ],
+    [
+     2,
+     3,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 10
+    },
+    {
+     "gained": 16,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 107,
+   "map": "TWIN LAKES",
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    9,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 4,
+     "primary": 2,
+     "missions": 3,
+     "other": 0
+    },
+    {
+     "objectives": 24,
+     "primary": 6,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    38,
+    51
+   ],
+   "lostUnits": [
+    2,
+    3
+   ],
+   "fieldedRp": [
+    218,
+    216
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    45,
+    30
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     0,
+     0
+    ],
+    [
+     5,
+     5,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 8,
+     "spent": 8
+    },
+    {
+     "gained": 12,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "WIDE SWEEP",
+     "vp": 2
+    },
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    1,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 108,
+   "map": "ACROPOLIS",
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    21,
+    37
+   ],
+   "vpBySource": [
+    {
+     "objectives": 10,
+     "primary": 9,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 25,
+     "primary": 1,
+     "missions": 11,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    198,
+    0
+   ],
+   "lostUnits": [
+    7,
+    0
+   ],
+   "fieldedRp": [
+    198,
+    250
+   ],
+   "arrivedUnits": [
+    0,
+    3
+   ],
+   "damage": [
+    17,
+    64
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     4,
+     4,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     2,
+     0,
+     3,
+     3,
+     5,
+     5,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 10,
+     "spent": 10
+    },
+    {
+     "gained": 23,
+     "spent": 17
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 9
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 1
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    1,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 7
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 109,
+   "map": "CROSSROADS",
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    23,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 12,
+     "primary": 9,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 21,
+     "primary": 0,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    118,
+    34
+   ],
+   "lostUnits": [
+    5,
+    2
+   ],
+   "fieldedRp": [
+    198,
+    233
+   ],
+   "arrivedUnits": [
+    0,
+    2
+   ],
+   "damage": [
+    36,
+    46
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     4,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     3,
+     7,
+     4,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 11
+    },
+    {
+     "gained": 17,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 9
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 110,
+   "map": "TRIPLE HILLS",
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    20,
+    33
+   ],
+   "vpBySource": [
+    {
+     "objectives": 12,
+     "primary": 5,
+     "missions": 3,
+     "other": 0
+    },
+    {
+     "objectives": 17,
+     "primary": 8,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    98,
+    51
+   ],
+   "lostUnits": [
+    5,
+    3
+   ],
+   "fieldedRp": [
+    218,
+    250
+   ],
+   "arrivedUnits": [
+    1,
+    3
+   ],
+   "damage": [
+    47,
+    56
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     2,
+     5,
+     2,
+     0
+    ],
+    [
+     0,
+     3,
+     2,
+     5,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 10,
+     "spent": 9
+    },
+    {
+     "gained": 15,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 5
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 8
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 111,
+   "map": "TWIN LAKES",
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    21,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 16,
+     "primary": 5,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 12,
+     "primary": 10,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    150,
+    61
+   ],
+   "lostUnits": [
+    5,
+    4
+   ],
+   "fieldedRp": [
+    198,
+    284
+   ],
+   "arrivedUnits": [
+    0,
+    5
+   ],
+   "damage": [
+    65,
+    52
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     5,
+     5,
+     3,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     2,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 10
+    },
+    {
+     "gained": 18,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 5
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    0,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  }
+ ]
+}

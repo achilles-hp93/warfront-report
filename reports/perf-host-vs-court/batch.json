@@ -1,0 +1,1076 @@
+{
+ "armies": [
+  {
+   "name": "Spahbed's Host",
+   "faction": "atashid_empire",
+   "formation": "preset:spahbed_host"
+  },
+  {
+   "name": "Veiled Court",
+   "faction": "infernal_congregations",
+   "formation": "preset:veiled_court"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS"
+ ],
+ "games": [
+  {
+   "seed": 940,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    35,
+    26
+   ],
+   "vpBySource": [
+    {
+     "objectives": 21,
+     "primary": 7,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 14,
+     "primary": 3,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    194
+   ],
+   "lostRp": [
+    60,
+    79
+   ],
+   "lostUnits": [
+    3,
+    5
+   ],
+   "fieldedRp": [
+    233,
+    231
+   ],
+   "arrivedUnits": [
+    2,
+    3
+   ],
+   "damage": [
+    87,
+    45
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     7,
+     2,
+     5,
+     5
+    ],
+    [
+     5,
+     0,
+     5,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 14,
+     "spent": 14
+    },
+    {
+     "gained": 14,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 7
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    2,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 3,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Spahbed",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Aswaran",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 4,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 941,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    30,
+    13
+   ],
+   "vpBySource": [
+    {
+     "objectives": 15,
+     "primary": 9,
+     "missions": 6,
+     "other": 0
+    },
+    {
+     "objectives": 9,
+     "primary": 0,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    194
+   ],
+   "lostRp": [
+    0,
+    166
+   ],
+   "lostUnits": [
+    0,
+    7
+   ],
+   "fieldedRp": [
+    216,
+    221
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    84,
+    14
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     5,
+     7
+    ],
+    [
+     5,
+     2,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 8
+    },
+    {
+     "gained": 11,
+     "spent": 9
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 9
+    },
+    {
+     "name": "DECAPITATION STRIKE",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    2,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ],
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Spahbed",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Aswaran",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 4,
+      "undone": 2,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

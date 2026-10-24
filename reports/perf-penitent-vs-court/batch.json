@@ -1,0 +1,1055 @@
+{
+ "armies": [
+  {
+   "name": "Penitent Crusade",
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:penitent_crusade"
+  },
+  {
+   "name": "Veiled Court",
+   "faction": "infernal_congregations",
+   "formation": "preset:veiled_court"
+  }
+ ],
+ "maps": [
+  "TWIN LAKES",
+  "TRIPLE HILLS"
+ ],
+ "games": [
+  {
+   "seed": 950,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 4,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    39,
+    10
+   ],
+   "vpBySource": [
+    {
+     "objectives": 22,
+     "primary": 4,
+     "missions": 13,
+     "other": 0
+    },
+    {
+     "objectives": 6,
+     "primary": 4,
+     "missions": 0,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    194
+   ],
+   "lostRp": [
+    25,
+    44
+   ],
+   "lostUnits": [
+    2,
+    3
+   ],
+   "fieldedRp": [
+    186,
+    214
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    62,
+    57
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     7,
+     5,
+     5
+    ],
+    [
+     2,
+     0,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 11
+    },
+    {
+     "gained": 12,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "FORLORN HOPE",
+     "vp": 4
+    },
+    {
+     "name": "GARRISON DUTY",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    4,
+    0
+   ],
+   "missions": [
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ],
+    [
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 951,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    35,
+    9
+   ],
+   "vpBySource": [
+    {
+     "objectives": 25,
+     "primary": 8,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 2,
+     "primary": 4,
+     "missions": 3,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    194
+   ],
+   "lostRp": [
+    10,
+    89
+   ],
+   "lostUnits": [
+    1,
+    3
+   ],
+   "fieldedRp": [
+    206,
+    224
+   ],
+   "arrivedUnits": [
+    3,
+    3
+   ],
+   "damage": [
+    66,
+    53
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     5,
+     5,
+     5,
+     5
+    ],
+    [
+     0,
+     2,
+     0,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 13
+    },
+    {
+     "gained": 17,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "FORLORN HOPE",
+     "vp": 8
+    },
+    {
+     "name": "WIDE SWEEP",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 2
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

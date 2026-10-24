@@ -1,0 +1,1111 @@
+{
+ "armies": [
+  {
+   "name": "Flamebringer's Immortals",
+   "faction": "atashid_empire",
+   "formation": "preset:flamebringer_immortals"
+  },
+  {
+   "name": "Penitent Crusade",
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:penitent_crusade"
+  }
+ ],
+ "maps": [
+  "TWIN LAKES",
+  "CROSSROADS"
+ ],
+ "games": [
+  {
+   "seed": 920,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    28,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 18,
+     "primary": 0,
+     "missions": 10,
+     "other": 0
+    },
+    {
+     "objectives": 21,
+     "primary": 4,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    176
+   ],
+   "lostRp": [
+    64,
+    60
+   ],
+   "lostUnits": [
+    4,
+    3
+   ],
+   "fieldedRp": [
+    233,
+    196
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    71,
+    68
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     2,
+     2,
+     2,
+     5,
+     2,
+     2
+    ],
+    [
+     0,
+     3,
+     3,
+     3,
+     2,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 20,
+     "spent": 20
+    },
+    {
+     "gained": 23,
+     "spent": 22
+    }
+   ],
+   "primary": [
+    {
+     "name": "RECONNAISSANCE OPERATION",
+     "vp": 0
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    4,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 6,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 6,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 6,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 921,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 3,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    6,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 6,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 15,
+     "primary": 9,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    176
+   ],
+   "lostRp": [
+    10,
+    10
+   ],
+   "lostUnits": [
+    1,
+    1
+   ],
+   "fieldedRp": [
+    216,
+    176
+   ],
+   "arrivedUnits": [
+    1,
+    0
+   ],
+   "damage": [
+    63,
+    29
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     3
+    ],
+    [
+     7,
+     4,
+     4
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 6
+    },
+    {
+     "gained": 9,
+     "spent": 8
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 9
+    }
+   ],
+   "missionsKept": [
+    3,
+    3
+   ],
+   "missionsCompleted": [
+    0,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 1,
+      "ended": null
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 1,
+      "ended": null
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     }
+    ]
+   ],
+   "units": null,
+   "activity": [
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": null,
+   "passives": null,
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}
