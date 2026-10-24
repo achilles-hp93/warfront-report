@@ -1,0 +1,64 @@
+{
+  "title": "Acropolis: Merlin against the Herald",
+  "armies": [
+    { "name": "Merlin's Army", "faction": "British Liberation Front" },
+    { "name": "Herald's Army", "faction": "Church of the Beast" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "The first battles for the British Liberation Front and the Church of the Beast: Merlin and two Pendragon Knight units against the Herald of Feral Affliction's packs, on the Acropolis. The closest of six: the Church took every objective in Round 1 and never fell behind; its Marrowstring Centaur shot Merlin's HQ down in Round 5, the round the Church reached 30 VP. Herald's Army won 5 of the 6 battles, 29.2 VP to 22.5 on average, and lost a third of the RP the Front did.",
+  "result_line": "Herald's Army wins on Victory Points, 30 to 23",
+  "deployment": "<p>Merlin's Army lines the south edge: the Knight-Banneret (3,12) and the Eire Pathfinders (4,12) on the left, Parish Militia 2 (9,12), Merlin leading Parish Militia 1 (10,12) and the Knight-Ascendants (11,12) on the right. Herald's Army takes the north: the Assault Lycanthropes (3,2) and the Herald of Feral Affliction (4,1) on the left, the Weretiger Stalkers (7,2) and the Wildling Acolytes (9,2) in the centre, the Marrowstring Centaur (9,1), the Mongrel Supplicants (11,2) and the Beast-Monk (11,1) on the right.</p><p>The Acropolis has three objectives across the middle row: the centre (7,7) for 3 VP, the west (1,7) and the east (13,7) for 2. Merlin's Army has Priority. Neither army has a doctrine: these factions have none to pick.</p>",
+  "rounds": {
+    "1": {
+      "title": "The Church takes the line",
+      "feed": [
+        { "phase": "Command", "text": "Both sides spend Double Time, and neither buys a move it could not have made. Missions: IRON CURTAIN for the Front, FORWARD PRESENCE for the Church." },
+        { "phase": "Movement", "text": "The Church's fast units take every objective: the Wildling Acolytes the centre (8,6), the Herald and the Assault Lycanthropes the west, the Beast-Monk and the Marrowstring Centaur the east. The Front's line stops on row 9." },
+        { "phase": "Action", "text": "The Marrowstring Centaur shoots 4 HP off Parish Militia 2. The Eire Pathfinders use Spot &amp; Mark on the Herald (MARKED), which scores the Front's Primary, RECONNAISSANCE OPERATION." },
+        { "phase": "Cleanup", "text": "The Church holds all three objectives. <b>Herald's Army 7, Merlin's Army 1.</b>" }
+      ]
+    },
+    "2": {
+      "title": "Knights into the packs",
+      "feed": [
+        { "phase": "Command", "text": "Double Time takes the Mongrel Supplicants a move further than they could have gone. Missions: FORWARD PRESENCE for the Front, SECURE THE FLANKS for the Church." },
+        { "phase": "Movement", "text": "The Eire Pathfinders charge toward the west objective; the Assault Lycanthropes charge them back. The Wildling Acolytes charge into the Front's centre (6,7), and the Knight-Ascendants run west and charge the Lycanthropes." },
+        { "phase": "Action", "text": "The Lycanthropes destroy the Eire Pathfinders. Parish Militia 1 attacks the Wildling Acolytes and loses 10 HP to them for 3 (their Atavistic Rage and Carrion Tide), and Merlin takes 6 more off the Acolytes. The Knight-Ascendants take 8 off the Lycanthropes. The Herald casts Blessing of Sacred Rabies on the Knight-Ascendants (10 Mana) and the Beast-Monk Forest of Fangs on the Marrowstring Centaur; the record sees neither change anything." },
+        { "phase": "Cleanup", "text": "The Front holds the centre and completes IRON CURTAIN; the Church holds the flanks, completes SECURE THE FLANKS and scores BLEED THEM WHITE. <b>Herald's Army 15, Merlin's Army 6.</b>" }
+      ]
+    },
+    "3": {
+      "title": "Three units fall",
+      "feed": [
+        { "phase": "Command", "text": "The Front requisitions a fresh Parish Militia and rallies the Knight-Ascendants through a Morale Test. Both sides keep STRONGPOINT and both complete it." },
+        { "phase": "Movement", "text": "The Knight-Banneret charges the Wildling Acolytes in the centre; the Weretiger Stalkers charge Parish Militia 2." },
+        { "phase": "Action", "text": "The Knight-Banneret takes 9 HP off the Acolytes. The Weretiger Stalkers destroy Parish Militia 2, and the Knight-Ascendants destroy the Assault Lycanthropes. The Centaur shoots 6 off the new militia. Forest of Fangs goes on the Centaur again." },
+        { "phase": "Cleanup", "text": "The Front holds the centre and the west, the Church the east. <b>Herald's Army 18, Merlin's Army 12.</b>" }
+      ]
+    },
+    "4": {
+      "title": "The Mongrels take the centre",
+      "feed": [
+        { "phase": "Command", "text": "The Church spends Secure Objective on the Mongrel Supplicants (+1 OC); the record credits it with deciding the centre for this round and the next. Missions: DEEP REACH for the Front, BAR THE GATES for the Church." },
+        { "phase": "Movement", "text": "The Beast-Monk charges the new militia on the east; the Herald pulls back to (4,4)." },
+        { "phase": "Action", "text": "Merlin casts Banner of the Cinder Dragon and burns the Mongrel Supplicants for 4. The Weretiger Stalkers destroy the Knight-Banneret. The Marrowstring Centaur starts shooting at the Front's HQ (3 HP)." },
+        { "phase": "Cleanup", "text": "The Church takes the centre, scores BLEED THEM WHITE and completes BAR THE GATES; the Front holds the west and completes DEEP REACH. <b>Herald's Army 25, Merlin's Army 17.</b>" }
+      ]
+    },
+    "5": {
+      "title": "The HQ falls",
+      "feed": [
+        { "phase": "Command", "text": "The Herald rallies the Wildling Acolytes through a Morale Test." },
+        { "phase": "Movement", "text": "The Knight-Ascendants charge the Herald on the west; the requisitioned militia reaches the east objective (13,6)." },
+        { "phase": "Action", "text": "The Knight-Ascendants take 6 HP off the Herald. The Weretiger Stalkers take 4 off Merlin. The Marrowstring Centaur destroys the Front's HQ." },
+        { "phase": "Cleanup", "text": "The Front holds the west and the east and completes SECURE THE FLANKS (+6); the Church holds the centre and scores BLEED THEM WHITE (+5). <b>Herald's Army 30, Merlin's Army 23:</b> the Church reaches the Victory Target." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Analysis",
+    "html": "<h3>The Church wins by not losing units</h3><p>Herald's Army won 5 of the 6 battles, on average 29.2 VP to 22.5. Damage was close (63.5 a battle dealt against 59.0 taken), but the Front lost 90.7 RP a battle and the Church 30.3. The Church led on objectives (19.0 to 14.3) and secondaries (7.2 to 4.3); the Front's only win was on Twin Lakes (seed 1033, 30 to 16), where it lost nothing and drew IMPENETRABLE FORTRESS.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>The Herald of Feral Affliction (60 RP) scored 6.0 VP a battle (10.1 per 100 RP), was never destroyed, and 27 objective VP hinged on it. The Mongrel Supplicants (14 RP) scored 5.1 a battle, 36.3 per 100 RP, while idling 3.7 Battle Rounds a battle: they stand on an objective and do nothing else, which is their job. For the Front, the Knight-Ascendants (43 RP) were the best unit: 5.0 VP a battle and never destroyed. Merlin (70 RP) scored 2.5 a battle (3.6 per 100 RP) and was destroyed in 3 of 6; the Knight-Banneret in 4 of 6.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}{{chart:batch-losses}}<h3>Two Church spells with no return the record can see</h3><ul><li><b>Forest of Fangs</b> (+1 AP to a friendly unit's melee weapons for the round, 3 Mana): cast 15 times, 45 Mana, and none of the casts bought anything. In only 3 of the 15 did the target make a melee attack that round, and 6 went on the Marrowstring Centaur, which made no melee attack in any of those rounds. The AI values the buff without asking whether the unit will fight in melee after it.</li><li><b>Blessing of Sacred Rabies</b> (10 Mana: an enemy unit must make a melee attack against an adjacent unit, then is SUPPRESSED): 4 casts, 40 Mana. Each forced attack was made against the Church unit beside the target (the Knight-Banneret on the Marrowstring Centaur, Merlin on the Assault Lycanthropes), and the record saw no change it could price. Whether the forced attack spends the target's own action, which is where the spell's value would be, was not checked.</li></ul><p>On the Front's side, <b>Banner of the Cinder Dragon</b> (Merlin) was the best-spent Mana of the matchup: 5 casts, 20 Mana, 27 damage. The Front also spent 16 CP on 8 Rally Cries, and its <b>Knight-Ascendants</b> used the Gatescrolls of Avalon to leave the battlefield 7 times, in one battle (seed 1035) every round from 2 to 5, which kept the squad off the objectives while it was away.</p>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Five wins of six with a 3-to-1 gap in losses is a clear pattern for these lists. Forest of Fangs is an AI valuation problem, not unit balance; the Church won while spending 85 Mana on the two spells.</p>"
+  },
+  "closing_title": "What to look at next",
+  "closing": "<p>Three AI questions: Forest of Fangs should be worth something only on a unit that will make a melee attack after it this round; Blessing of Sacred Rabies should be priced for what it takes from the enemy (the action it spends, SUPPRESSED) against the attack it hands them; and the Knight-Ascendants' repeated Gatescroll exits should be weighed against the objectives they leave.</p>"
+}

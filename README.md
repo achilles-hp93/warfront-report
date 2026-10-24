@@ -31,6 +31,7 @@ Copy the folder from `<output dir>/battle_reports/<name>/` into `reports/`, add 
 
 | Folder | Armies | Battles | Maps | Recorded | Result | Engine | Page | Note |
 |---|---|---|---|---|---|---|---|---|
+| [blf-vs-beast](reports/blf-vs-beast/) | Merlin's Army vs Herald's Army | 7 | ACROPOLIS, CROSSROADS, TRIPLE HILLS, TWIN LAKES | 2026-10-24 | Merlin's Army 1–5 Herald's Army | `38f86f78` | [Acropolis: Merlin against the Herald](https://claude.ai/artifact/16hHQ4PZKtzqhvuUjgW3tp) | First battles of the British Liberation Front and the Church of the Beast (new presets): 6-battle batch and the featured battle (seed 1034). |
 | [charge-check](reports/charge-check/) | Armoured Cohort vs Crusade Host | 1 | ACROPOLIS | 2026-10-22 | Armoured Cohort 38–11 (R5) | `44bf7b57` |  | One battle to check a charge fix. |
 | [cohort-vs-crusade](reports/cohort-vs-crusade/) | Armoured Cohort vs Crusade Host | 7 | ACROPOLIS, CROSSROADS, TRIPLE HILLS | 2026-10-22 | Armoured Cohort 1–5 Crusade Host | `77e43f97` | [Battle of the Acropolis: Cohort vs Crusade](https://claude.ai/artifact/VyCJWEMzCdmdaTiLqozJuM) | Armoured Cohort vs Crusade Host: live featured battle and its batch. |
 | [cohort-vs-crusade-2](reports/cohort-vs-crusade-2/) | Armoured Cohort vs Crusade Host | 7 | ACROPOLIS, CROSSROADS, TRIPLE HILLS | 2026-10-22 | Armoured Cohort 4–2 Crusade Host | `5993c53e` | [Acropolis Rematch: Cohort vs Crusade, with casters](https://claude.ai/artifact/1D9Yk8jjKveLWpccTh9UBc) | The rematch with casters in both armies: live battle and batch. |

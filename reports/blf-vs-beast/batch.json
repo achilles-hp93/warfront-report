@@ -1,0 +1,5796 @@
+{
+ "armies": [
+  {
+   "name": "Merlin's Army",
+   "faction": "british_liberation_front",
+   "formation": "preset:merlin_army"
+  },
+  {
+   "name": "Herald's Army",
+   "faction": "church_of_the_beast",
+   "formation": "preset:herald_army"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1030,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    26,
+    35
+   ],
+   "vpBySource": [
+    {
+     "objectives": 16,
+     "primary": 6,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 19,
+     "primary": 6,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    203,
+    196
+   ],
+   "lostRp": [
+    114,
+    60
+   ],
+   "lostUnits": [
+    4,
+    2
+   ],
+   "fieldedRp": [
+    216,
+    211
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    68,
+    65
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     7,
+     3,
+     3,
+     3
+    ],
+    [
+     7,
+     0,
+     4,
+     4,
+     4
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 12
+    },
+    {
+     "gained": 11,
+     "spent": 10
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 6
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    2,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": false,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 2.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 5.5,
+      "objectives": 5.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 3,
+      "objectives": 1,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 3,
+      "objectives": 2,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 6
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 6
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 10,
+      "objectives": 0,
+      "primary": 6,
+      "missions": 4,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Howl of Carnage",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blessing of Sacred Rabies",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 10,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blessing of Sacred Rabies",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 10,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Atavistic Rage",
+      "attacks": 6,
+      "added": 10.2,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Locust of Primal Fury",
+      "attacks": 1,
+      "added": 1.39,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Rip and Tear",
+      "attacks": 1,
+      "added": 0.94,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Bestial Reflex",
+      "attacks": 2,
+      "added": -2.67,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1031,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    17,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 10,
+     "primary": 5,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 19,
+     "primary": 0,
+     "missions": 12,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    196
+   ],
+   "lostRp": [
+    147,
+    0
+   ],
+   "lostUnits": [
+    5,
+    0
+   ],
+   "fieldedRp": [
+    190,
+    196
+   ],
+   "arrivedUnits": [
+    0,
+    0
+   ],
+   "damage": [
+    35,
+    66
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     7,
+     3,
+     0,
+     0
+    ],
+    [
+     7,
+     0,
+     2,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 9
+    },
+    {
+     "gained": 10,
+     "spent": 10
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 5
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": false,
+      "vp": 2.5,
+      "objectives": 1.5,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": false,
+      "vp": 5,
+      "objectives": 2,
+      "primary": 3,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 5.5,
+      "objectives": 4.5,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 6.8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 6
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 3
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 8,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 7,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 3
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.22,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Knight-Ascendants",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Knight-Ascendants",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Knight-Ascendants",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Shed the Red Skin",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Atavistic Rage",
+      "attacks": 7,
+      "added": 15.74,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Carrion Tide",
+      "attacks": 3,
+      "added": 3.1,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Locust of Primal Fury",
+      "attacks": 2,
+      "added": 1.84,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Rip and Tear",
+      "attacks": 1,
+      "added": 1.44,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Bestial Reflex",
+      "attacks": 1,
+      "added": -0.89,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1032,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    15,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 9,
+     "primary": 3,
+     "missions": 3,
+     "other": 0
+    },
+    {
+     "objectives": 26,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    196
+   ],
+   "lostRp": [
+    142,
+    15
+   ],
+   "lostUnits": [
+    5,
+    1
+   ],
+   "fieldedRp": [
+    203,
+    196
+   ],
+   "arrivedUnits": [
+    1,
+    0
+   ],
+   "damage": [
+    36,
+    87
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     0,
+     2,
+     2,
+     2
+    ],
+    [
+     4,
+     7,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 12
+    },
+    {
+     "gained": 10,
+     "spent": 8
+    }
+   ],
+   "primary": [
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 3
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    4,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 10.2,
+      "objectives": 6,
+      "primary": 1.2,
+      "missions": 3,
+      "pivotal": 6
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 0,
+      "primary": 1.2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 6.9,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 2.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": false,
+      "vp": 5.4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.4,
+      "pivotal": 4
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 7.9,
+      "objectives": 7.5,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 3
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 4.4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 6
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 6.6,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 8
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 2,
+     "enabledExpected": 3.99,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 2.66,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": -2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Atavistic Rage",
+      "attacks": 6,
+      "added": 10.05,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Locust of Primal Fury",
+      "attacks": 2,
+      "added": 1.35,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Carrion Tide",
+      "attacks": 1,
+      "added": 0.27,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Bestial Reflex",
+      "attacks": 1,
+      "added": -1.33,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1033,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    30,
+    16
+   ],
+   "vpBySource": [
+    {
+     "objectives": 17,
+     "primary": 7,
+     "missions": 6,
+     "other": 0
+    },
+    {
+     "objectives": 11,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    196
+   ],
+   "lostRp": [
+    0,
+    47
+   ],
+   "lostUnits": [
+    0,
+    2
+   ],
+   "fieldedRp": [
+    190,
+    211
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    65,
+    22
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     5,
+     7
+    ],
+    [
+     7,
+     2,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 11
+    },
+    {
+     "gained": 9,
+     "spent": 9
+    }
+   ],
+   "primary": [
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 7
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    2,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 3.1,
+      "objectives": 2,
+      "primary": 0.9,
+      "missions": 0.2,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 7.9,
+      "objectives": 6,
+      "primary": 1.4,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 0.5,
+      "primary": 0.5,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 9.6,
+      "objectives": 6.5,
+      "primary": 1.4,
+      "missions": 1.7,
+      "pivotal": 9
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 1,
+      "primary": 1.4,
+      "missions": 0.2,
+      "pivotal": 2
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 1,
+      "primary": 1.4,
+      "missions": 0.2,
+      "pivotal": 2
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 8.8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.8,
+      "pivotal": 6
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": false,
+      "vp": 1.4,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.4,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.48,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.67,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Carrion Tide",
+      "attacks": 2,
+      "added": 4.46,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Atavistic Rage",
+      "attacks": 2,
+      "added": 4.18,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Rip and Tear",
+      "attacks": 1,
+      "added": 0.94,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Bestial Reflex",
+      "attacks": 4,
+      "added": -4.18,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1034,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    23,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 14,
+     "primary": 1,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 19,
+     "primary": 6,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    196
+   ],
+   "lostRp": [
+    64,
+    30
+   ],
+   "lostUnits": [
+    3,
+    1
+   ],
+   "fieldedRp": [
+    203,
+    196
+   ],
+   "arrivedUnits": [
+    1,
+    0
+   ],
+   "damage": [
+    67,
+    68
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     5,
+     2,
+     4
+    ],
+    [
+     7,
+     4,
+     2,
+     3,
+     3
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 17,
+     "spent": 16
+    },
+    {
+     "gained": 12,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "RECONNAISSANCE OPERATION",
+     "vp": 1
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    4,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 7.8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 6
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 3
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 2
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": false,
+      "vp": 5,
+      "objectives": 1,
+      "primary": 2,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 5,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 2.5,
+      "primary": 2,
+      "missions": 0.3,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blessing of Sacred Rabies",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 10,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 2,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 6,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 4,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Atavistic Rage",
+      "attacks": 4,
+      "added": 15.47,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Carrion Tide",
+      "attacks": 3,
+      "added": 5.96,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Bestial Reflex",
+      "attacks": 1,
+      "added": -0.51,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1035,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    24,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 20,
+     "primary": 1,
+     "missions": 3,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 6,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    196
+   ],
+   "lostRp": [
+    77,
+    30
+   ],
+   "lostUnits": [
+    4,
+    1
+   ],
+   "fieldedRp": [
+    216,
+    226
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    83,
+    73
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     5,
+     3,
+     5,
+     2,
+     0
+    ],
+    [
+     0,
+     2,
+     4,
+     2,
+     5,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 14
+    },
+    {
+     "gained": 13,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "GARRISON DUTY",
+     "vp": 1
+    },
+    {
+     "name": "RAISE THE STANDARD",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    1,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 6.5,
+      "objectives": 5.5,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 3
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 6.5,
+      "objectives": 5.5,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 3
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": false,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 10,
+      "objectives": 10,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 10
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": false,
+      "vp": 4.5,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 4,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 2,
+      "primary": 0.5,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 1.5,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 3,
+      "objectives": 2,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 2
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 6,
+      "undone": 2,
+      "back": 1,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Knight-Ascendants",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Knight-Ascendants",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 10,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Knight-Ascendants",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 10,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Knight-Ascendants",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blessing of Sacred Rabies",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 10,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 5,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Forest of Fangs",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Atavistic Rage",
+      "attacks": 6,
+      "added": 10.19,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Carrion Tide",
+      "attacks": 4,
+      "added": 9.51,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Locust of Primal Fury",
+      "attacks": 2,
+      "added": 1.21,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Bestial Reflex",
+      "attacks": 2,
+      "added": -1.17,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  }
+ ]
+}
