@@ -1,0 +1,7985 @@
+{
+ "armies": [
+  {
+   "name": "Saladin's Army",
+   "faction": "caliphate_of_the_two_sanctuaries",
+   "formation": "preset:saladin_army"
+  },
+  {
+   "name": "Taichou's Army",
+   "faction": "empire_of_nihon",
+   "formation": "preset:taichou_army"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1020,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    24,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 22,
+     "primary": 0,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 22,
+     "primary": 3,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    193
+   ],
+   "lostRp": [
+    13,
+    0
+   ],
+   "lostUnits": [
+    1,
+    0
+   ],
+   "fieldedRp": [
+    211,
+    208
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    58,
+    66
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     5,
+     3,
+     3,
+     2,
+     5
+    ],
+    [
+     2,
+     5,
+     2,
+     4,
+     2,
+     5,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 15
+    },
+    {
+     "gained": 22,
+     "spent": 21
+    }
+   ],
+   "primary": [
+    {
+     "name": "DECAPITATION STRIKE",
+     "vp": 0
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    6,
+    7
+   ],
+   "missionsCompleted": [
+    1,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 4
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 5,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": false,
+      "vp": 6,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 8,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 8
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 11,
+      "objectives": 5,
+      "primary": 3,
+      "missions": 3,
+      "pivotal": 4
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 7,
+      "idle": 7,
+      "idleMoved": 7,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 3,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 6,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 6,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 5,
+      "undone": 3,
+      "back": 1,
+      "objective": 2,
+      "squares": 6
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zi'baq Beads",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(4,12)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 2",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 2",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(5,7)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 2",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Khanjar",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 3",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.17,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 3",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(5,6)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Paragon of Chivalry",
+      "attacks": 4,
+      "added": 0,
+      "prevented": 0.88
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1021,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    32,
+    22
+   ],
+   "vpBySource": [
+    {
+     "objectives": 16,
+     "primary": 8,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 13,
+     "primary": 7,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    193
+   ],
+   "lostRp": [
+    0,
+    70
+   ],
+   "lostUnits": [
+    0,
+    2
+   ],
+   "fieldedRp": [
+    211,
+    223
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    64,
+    72
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     2,
+     3,
+     3,
+     5
+    ],
+    [
+     2,
+     3,
+     4,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 11
+    },
+    {
+     "gained": 16,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 8
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 7
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 2.8,
+      "primary": 1.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "alive": true,
+      "vp": 5.6,
+      "objectives": 1.8,
+      "primary": 0.8,
+      "missions": 3,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 4.3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 6.2,
+      "objectives": 3,
+      "primary": 1.7,
+      "missions": 1.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 0,
+      "primary": 1.2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "alive": true,
+      "vp": 5,
+      "objectives": 3.3,
+      "primary": 1.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 1,
+      "primary": 0.9,
+      "missions": 1.5,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0.1,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 0.6,
+      "primary": 0.6,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 3.3,
+      "objectives": 1.9,
+      "primary": 1.4,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": false,
+      "vp": 0.8,
+      "objectives": 0.4,
+      "primary": 0.4,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 10,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 8
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.4,
+      "objectives": 0.1,
+      "primary": 1.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 5,
+      "undone": 2,
+      "back": 1,
+      "objective": 2,
+      "squares": 4
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zi'baq Beads",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(8,1)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 2",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Katashiro",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(6,6)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 2",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.67,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Paragon of Chivalry",
+      "attacks": 6,
+      "added": 0,
+      "prevented": 0.9
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1022,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    17,
+    37
+   ],
+   "vpBySource": [
+    {
+     "objectives": 12,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 31,
+     "primary": 3,
+     "missions": 3,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    193
+   ],
+   "lostRp": [
+    44,
+    90
+   ],
+   "lostUnits": [
+    3,
+    3
+   ],
+   "fieldedRp": [
+    211,
+    208
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    54,
+    89
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     0,
+     4,
+     0,
+     2,
+     2,
+     2
+    ],
+    [
+     5,
+     5,
+     3,
+     3,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 16,
+     "spent": 16
+    },
+    {
+     "gained": 22,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 7
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 6,
+      "ended": 7
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "alive": true,
+      "vp": 5.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "alive": true,
+      "vp": 5.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 11.6,
+      "objectives": 10.5,
+      "primary": 0,
+      "missions": 1.1,
+      "pivotal": 6
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 7.1,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.1,
+      "pivotal": 6
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 0.2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": false,
+      "vp": 0.2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 8,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 8
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 5.5,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 6,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 4
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zi'baq Beads",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(4,11)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 3",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 2,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(11,6)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.17,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Sake of Mount Oe",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Abna al-Dawla Guard",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Harbiya Tabar",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Katashiro",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Abna al-Dawla Guard",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Harbiya Tabar",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(6,12)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Paragon of Chivalry",
+      "attacks": 9,
+      "added": 0,
+      "prevented": 1.85
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1023,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    20,
+    37
+   ],
+   "vpBySource": [
+    {
+     "objectives": 8,
+     "primary": 6,
+     "missions": 6,
+     "other": 0
+    },
+    {
+     "objectives": 24,
+     "primary": 4,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    193
+   ],
+   "lostRp": [
+    13,
+    70
+   ],
+   "lostUnits": [
+    1,
+    2
+   ],
+   "fieldedRp": [
+    211,
+    238
+   ],
+   "arrivedUnits": [
+    1,
+    3
+   ],
+   "damage": [
+    63,
+    85
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     2,
+     2,
+     2,
+     0
+    ],
+    [
+     5,
+     5,
+     5,
+     5,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 14,
+     "spent": 13
+    },
+    {
+     "gained": 21,
+     "spent": 20
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 6
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    3,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "alive": true,
+      "vp": 8,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 4,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 0,
+      "primary": 1.3,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0.5,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 3,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 3,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 7.9,
+      "objectives": 7.5,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 6
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 13.8,
+      "objectives": 10.7,
+      "primary": 0,
+      "missions": 3.1,
+      "pivotal": 10
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 5,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zi'baq Beads",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(6,1)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 3,
+     "enabledExpected": 7.95,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 4,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.22,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Monoimi Fuda",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 2",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "(2,7)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Samum",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 15,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Sake of Mount Oe",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Paragon of Chivalry",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 0.11
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1024,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    28
+   ],
+   "vpBySource": [
+    {
+     "objectives": 21,
+     "primary": 2,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 12,
+     "primary": 10,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    193
+   ],
+   "lostRp": [
+    30,
+    22
+   ],
+   "lostUnits": [
+    1,
+    1
+   ],
+   "fieldedRp": [
+    198,
+    223
+   ],
+   "arrivedUnits": [
+    0,
+    2
+   ],
+   "damage": [
+    32,
+    49
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     7,
+     5,
+     7,
+     2
+    ],
+    [
+     5,
+     0,
+     2,
+     0,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 8
+    },
+    {
+     "gained": 16,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 2
+    },
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "alive": true,
+      "vp": 4.6,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 2
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "alive": true,
+      "vp": 9.6,
+      "objectives": 4,
+      "primary": 2,
+      "missions": 3.6,
+      "pivotal": 2
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 9
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 3.7,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 6
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 6.1,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2.1,
+      "pivotal": 4
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "alive": true,
+      "vp": 1.7,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 3
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 0,
+      "primary": 1.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 0,
+      "primary": 1.5,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 9.3,
+      "objectives": 4,
+      "primary": 3.5,
+      "missions": 1.8,
+      "pivotal": 4
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 0,
+      "primary": 3.5,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 1
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 5
+     },
+     {
+      "type": "Rammal Geomancer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zi'baq Beads",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(10,12)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.36,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Khanjar",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 4,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "(0,9)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Paragon of Chivalry",
+      "attacks": 3,
+      "added": 0,
+      "prevented": 0.67
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1025,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    22,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 11,
+     "primary": 6,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 22,
+     "primary": 0,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    193
+   ],
+   "lostRp": [
+    87,
+    62
+   ],
+   "lostUnits": [
+    5,
+    2
+   ],
+   "fieldedRp": [
+    211,
+    208
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    65,
+    92
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     2,
+     2,
+     2,
+     2
+    ],
+    [
+     2,
+     5,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 8
+    },
+    {
+     "gained": 17,
+     "spent": 16
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 6
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 2
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 2
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": false,
+      "vp": 0.8,
+      "objectives": 0.5,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "alive": false,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "alive": false,
+      "vp": 0.8,
+      "objectives": 0.5,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 4.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 10,
+      "objectives": 6.8,
+      "primary": 0,
+      "missions": 3.3,
+      "pivotal": 9
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 5.7,
+      "objectives": 3.8,
+      "primary": 0,
+      "missions": 1.9,
+      "pivotal": 6
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 8,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 8
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "rp": 75,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "rp": 36,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rammal Geomancer",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Muqatila Troopers",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Saladin - Al-Malik al-Nasir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Abna al-Dawla Guard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Zamburak Camel-Artillery",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 5
+     },
+     {
+      "type": "Rammal Geomancer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Muqatila Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zi'baq Beads",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(10,2)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Muqatila Troopers 1",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Medina-Pattern Rifle",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.56,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sarab",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Naft Pitch",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 2,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "(6,8)",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zulfiqar of Ali",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Zarnikh Paste",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Monoimi Fuda",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Paragon of Chivalry",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 0.3
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

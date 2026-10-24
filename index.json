@@ -44,6 +44,50 @@
   "note": "First battles of the British Liberation Front and the Church of the Beast (new presets): 6-battle batch and the featured battle (seed 1034)."
  },
  {
+  "name": "caliphate-vs-nihon",
+  "armies": [
+   "Saladin's Army",
+   "Taichou's Army"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T08:22:53.024Z",
+   "2026-10-24T08:34:04.992Z"
+  ],
+  "engine": "38f86f78 AI: an objective is worth as often as the unit lives to score it",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    2,
+    4
+   ],
+   "armies": [
+    "Saladin's Army",
+    "Taichou's Army"
+   ]
+  },
+  "page": {
+   "title": "Acropolis: Saladin against the Taichou",
+   "url": "https://claude.ai/artifact/3TVdATu56KW4YcqKztE7Hn"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "First battles of the Caliphate of the Two Sanctuaries and the Empire of Nihon (new presets): 6-battle batch and the featured battle (seed 1024)."
+ },
+ {
   "name": "charge-check",
   "armies": [
    "Armoured Cohort",

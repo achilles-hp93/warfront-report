@@ -11,6 +11,7 @@ const PAGES = {
   'khaganate-vs-novgorod': ['Triple Hills: Genghis against Rurik', 'NXrh2W2mka4DH6CXmZdcDy'],
   'duat-vs-albion': ['Crossroads: Finvarra against Ramesses', 'RLynL31c6nu6aXkuKnkyfc'],
   'blf-vs-beast': ['Acropolis: Merlin against the Herald', '16hHQ4PZKtzqhvuUjgW3tp'],
+  'caliphate-vs-nihon': ['Acropolis: Saladin against the Taichou', '3TVdATu56KW4YcqKztE7Hn'],
   'host-vs-court-fix': ['WARFRONT AI Performance', 'NUodFsFrhCaAN4Rx3w38ku'], 'cohort-vs-procession-fix': ['WARFRONT AI Performance', 'NUodFsFrhCaAN4Rx3w38ku'],
 };
 const NOTES = {
@@ -34,6 +35,7 @@ const NOTES = {
   'khaganate-vs-novgorod': 'First battles of the Baljuna Khaganate and the Principality of Novgorod (new presets): 6-battle batch and the featured battle (seed 1012).',
   'duat-vs-albion': 'First battles of the Duat Dominion and the Grand Duchy of Albion (new presets): 6-battle batch and the featured battle (seed 1001).',
   'blf-vs-beast': 'First battles of the British Liberation Front and the Church of the Beast (new presets): 6-battle batch and the featured battle (seed 1034).',
+  'caliphate-vs-nihon': 'First battles of the Caliphate of the Two Sanctuaries and the Empire of Nihon (new presets): 6-battle batch and the featured battle (seed 1024).',
   'survival-hvc-before': 'Host vs Court, seeds 960-965, before survival-weighted objectives (the baseline).',
   'survival-hvc-fullsum': 'Same seeds with the first cut of survival-weighted objectives: every enemy counted in full on every unit (replaced).',
   'survival-hvc-shared': 'Same seeds with survival-weighted objectives as committed: each enemy\'s attack shared among the units it can reach.',

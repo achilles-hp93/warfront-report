@@ -1,0 +1,64 @@
+{
+  "title": "Acropolis: Saladin against the Taichou",
+  "armies": [
+    { "name": "Saladin's Army", "faction": "Caliphate of the Two Sanctuaries" },
+    { "name": "Taichou's Army", "faction": "Empire of Nihon" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "The first battles for the Caliphate of the Two Sanctuaries and the Empire of Nihon: Saladin and his Muqatila against a Taichou's ashigaru, oni and a Gashadokuro, on the Acropolis. The closest of six: Nihon opened with Kusanagi no Tsurugi, a strike from off the field that took 20 HP off three Muqatila squads in Round 1, but Saladin's Army held all three objectives by Round 4 and reached 30 VP in Round 5, 31 to 28. Over the six battles Nihon won 4 to 2, on average 31.0 VP to 24.3.",
+  "result_line": "Saladin's Army wins on Victory Points, 31 to 28",
+  "deployment": "<p>Saladin's Army takes the south: Saladin leading the Abna al-Dawla Guard on the left (4,12) with the Zamburak Camel-Artillery behind them (4,14), and the three Muqatila Troopers squads on the right (9,12) to (11,12), the Rammal Geomancer leading Muqatila Troopers 1. Taichou's Army takes the north: the Kitsune Shinobi far left (1,2), the Armored Gashadokuro (3,1), the Taichou leading Ashigaru Riflemen 1 (5,2), the Oni Samurai (8,2), and the War Onmyoji leading Ashigaru Riflemen 2 on the right (11,2).</p><p>The Acropolis has three objectives across the middle row: the centre (7,7) for 3 VP, the west (1,7) and the east (13,7) for 2. Saladin's Army has Priority. Neither faction has a doctrine. Each has a faction identity at work every round: the Caliphate's Matter Transmutation coats one squad's weapons with an alchemical preparation each Command Phase, and Nihon's Three Sacred Treasures spend Regalia on a mirror, a sword and a jewel.</p>",
+  "rounds": {
+    "1": {
+      "title": "The sword falls from Kyoto",
+      "feed": [
+        { "phase": "Command", "text": "Nihon requisitions a third Ashigaru Riflemen squad (6,2). The Caliphate coats Muqatila Troopers 1's rifles with Zi'baq Beads (SUSTAINED ATTACK 1) and gives the squad Double Time, which buys nothing. Missions: STRONGPOINT for the Caliphate, INTO THE FRAY for Nihon." },
+        { "phase": "Movement", "text": "At the start of the phase Nihon spends 3 Regalia on <b>Kusanagi no Tsurugi</b>, an attack on a chosen square from off the field (DMG 4, AP 2, SWEEP 2, AOE 1). It catches all three Muqatila squads where they stand: 2 HP off Muqatila Troopers 1, 10 off Muqatila Troopers 2, 8 off Muqatila Troopers 3. Then the armies advance: the requisitioned Ashigaru onto the centre (6,6), the Kitsune Shinobi onto the west (1,6); the Caliphate stops on rows 9 and 10." },
+        { "phase": "Action", "text": "Nothing is in reach." },
+        { "phase": "Cleanup", "text": "Nihon holds the centre and the west. <b>Taichou's Army 5, Saladin's Army 0.</b>" }
+      ]
+    },
+    "2": {
+      "title": "Saladin takes the west",
+      "feed": [
+        { "phase": "Command", "text": "Naft Pitch (ABLAZE) on Muqatila Troopers 2's rifles; Double Time on the Oni Samurai. Both sides keep KING OF THE HILL." },
+        { "phase": "Movement", "text": "Saladin and the Abna al-Dawla Guard charge onto the west objective (2,7); the Taichou and Ashigaru Riflemen 1 charge back into them (INTO THE FRAY, +2). Muqatila Troopers 1 and 2 walk onto the centre, Muqatila Troopers 3 onto the east. The Kitsune Shinobi break away in disorder (3 HP)." },
+        { "phase": "Action", "text": "Saladin takes 6 HP off Ashigaru Riflemen 1, and the Abna al-Dawla Guard 10 more. The requisitioned Ashigaru shoot 3 off the Zamburak Camel-Artillery, which Saladin covers with Go to Ground." },
+        { "phase": "Cleanup", "text": "The Caliphate holds all three objectives and completes STRONGPOINT (+8); Nihon scores LEAD FROM THE FRONT (+3). <b>Taichou's Army 10, Saladin's Army 8.</b>" }
+      ]
+    },
+    "3": {
+      "title": "The Guard kills the Shinobi",
+      "feed": [
+        { "phase": "Command", "text": "Zarnikh Paste (POISON) on Muqatila Troopers 2. A Scouting Order lets Muqatila Troopers 3 spot Ashigaru Riflemen 2 and the War Onmyoji, whom nothing else saw. Nihon's Secure Objective on the Ashigaru flips nothing." },
+        { "phase": "Movement", "text": "The Abna al-Dawla Guard charge the Kitsune Shinobi at (1,8); Muqatila Troopers 1 charge the Ashigaru in the centre. The Oni Samurai charge toward the east, and Ashigaru Riflemen 2 with the Onmyoji take the east objective (12,7)." },
+        { "phase": "Action", "text": "The Abna al-Dawla Guard destroy the Kitsune Shinobi in the west Objective Area: KING OF THE HILL (+3) and BLEED THEM WHITE (+2). Muqatila Troopers 1 take 4 HP off the Ashigaru." },
+        { "phase": "Cleanup", "text": "The Caliphate holds the centre and the west, Nihon the east. <b>Saladin's Army 18, Taichou's Army 15.</b>" }
+      ]
+    },
+    "4": {
+      "title": "The Gashadokuro and the Taichou strike",
+      "feed": [
+        { "phase": "Command", "text": "The Caliphate's Secure Objective on Muqatila Troopers 3 (+1 OC) takes the east: the record credits it with 4 objective VP. Nihon rallies Ashigaru Riflemen 1." },
+        { "phase": "Movement", "text": "Kusanagi no Tsurugi falls again, this time for 1 HP on the Zamburak. The Armored Gashadokuro charges into the centre (7,6), and the Taichou leads Ashigaru Riflemen 1 onto the Zamburak (1,5)." },
+        { "phase": "Action", "text": "The Gashadokuro takes 8 HP off Muqatila Troopers 1. The Taichou destroys the Zamburak Camel-Artillery." },
+        { "phase": "Cleanup", "text": "The Caliphate holds all three objectives (+7). Nihon scores LEAD FROM THE FRONT and completes BREAK CONTACT (+5). <b>Saladin's Army 25, Taichou's Army 20.</b>" }
+      ]
+    },
+    "5": {
+      "title": "Omnipresence",
+      "feed": [
+        { "phase": "Command", "text": "Matter Transmutation goes on Saladin's own weapon, Zulfiqar of Ali. Nihon requisitions another Ashigaru squad and gives it Double Time; its charge fails." },
+        { "phase": "Movement", "text": "Saladin and the Guard charge on the west (2,6). Ashigaru Riflemen 2 and the Onmyoji charge Muqatila Troopers 3 on the east." },
+        { "phase": "Action", "text": "Small exchanges: Muqatila Troopers 1 lose 5 HP in the centre to the Ashigaru and the Gashadokuro, and Muqatila Troopers 3 lose 2 on the east." },
+        { "phase": "Cleanup", "text": "Nihon takes the centre with the Oni, the Gashadokuro and the Ashigaru, keeps the east, completes IRON GRIP and takes its last Primary point (+8). But the Caliphate had 2 OC on every objective at the scoring, OMNIPRESENCE (+4), and holds the west (+2). <b>Saladin's Army 31, Taichou's Army 28:</b> the Caliphate reaches the Victory Target." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Analysis",
+    "html": "<h3>Nihon wins more, while losing more</h3><p>Taichou's Army won 4 of the 6 battles, on average 31.0 VP to 24.3. It dealt more damage (75.5 a battle against 56.0) but lost more RP (52.3 a battle against 31.2). The gap is objectives, 20.7 to 15.0, and the Primary, 4.5 to 3.7. Battles ran long (5.8 Battle Rounds on average, two to Round 7).</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>Nihon's cheap units carried it. The Kitsune Shinobi (22 RP) scored 6.5 VP a battle, 29.4 per 100 RP, and 32 objective VP hinged on them; the Ashigaru Riflemen (15 RP, 22 squads with requisitions) 3.8 a squad and 58 hinged VP. Its expensive pieces scored little: the Armored Gashadokuro (55 RP) 3.5 a battle, 6.4 per 100 RP; the Oni Samurai (40 RP) 1.8, 4.6 per 100 RP. For the Caliphate, the Abna al-Dawla Guard (36 RP) scored 5.8 a battle and Saladin (75 RP) 4.9, 6.6 per 100 RP; the Zamburak Camel-Artillery (30 RP) scored 1.0, 3.2 per 100 RP, and was destroyed in 2 of 6.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>Idle heavy units</h3><p>The Taichou spent 4.3 Battle Rounds a battle with APt to spend and spent none, the Oni Samurai 3.8, Saladin 2.5, the Gashadokuro 2.2. In the featured battle the Oni Samurai never attacked: five idle rounds, every one after a move. These are the armies' most expensive melee pieces, and the AI walked them around more than it fought with them.</p>{{chart:batch-unit-inaction}}<h3>The faction identities</h3><ul><li><b>Kusanagi no Tsurugi</b> (Nihon, 3 Regalia): an attack on any square of the field. In the featured battle its first strike took 20 HP off three Muqatila squads that had deployed side by side. It is recorded as an attack, not in the commands-and-abilities list.</li><li><b>Matter Transmutation</b> (Caliphate): one coating a Command Phase on one unit's weapons (Zi'baq Beads, Naft Pitch, Zarnikh Paste and others). The commands-and-abilities record lists each step of the choice (the unit, the weapon, the coating) as a separate Miracle that bought nothing; Nihon's Kusanagi square picks show the same way, named by their squares. That is a fault in the record: it takes every choice prompt with a \":\" in its id for a Miracle. Read those rows as noise; the coatings' effect on the attacks was not measured.</li></ul><h3>Commands</h3><p>The Caliphate's Double Time bought nothing 10 times in 13; its Secure Objective decided objectives in the featured battle. Nihon spent 30 CP on 10 Troop Requisitions; 6 of the squads it placed made a difference the record could see.</p><h3>How sure</h3><p>Four to two is close to even for six battles, and the featured battle went the other way. The pattern that held across the batch is Nihon's cheap units outscoring their cost, and both armies' heavy melee pieces standing idle.</p>"
+  },
+  "closing_title": "What to look at next",
+  "closing": "<p>The record needs a fix before Matter Transmutation can be judged: its choice steps should be one use of the identity, priced by what the coating did to the attacks. And the idle Oni Samurai, Taichou and Gashadokuro are worth a look at the AI's melee movement: the AI walked them more than it fought with them.</p>"
+}
