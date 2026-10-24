@@ -24,10 +24,14 @@ square is near an objective. The walk's own shot enters the comparison only thro
 log-compressed offensive term of the destination score.
 
 Proposal: `forgo` = the best shot the unit would take this round from its walk square, at any
-target, in the same HP units as the melee, at full weight. A failed charge leaves the unit where
-it stands with its APt (`completeChargeInPlace`), so it can still shoot from there: the charge's
-value is P x (landing + fight) + (1 - P) x (staying + the shot from here). Drop the objective
-waiver: the landing square's objective term already carries the objective.
+target, in the same units as the melee, at full weight, whatever the dice do: either result of a
+Charge prevents the unit's ranged attacks for the rest of the round (core rules, Charge), so a
+failed charge cannot shoot either. The charge's value is P x (landing + fight) + (1 - P) x
+staying - the shot. Drop the objective waiver: the landing square's objective term already
+carries the objective.
+
+(Corrected 2026-10-24: this note first said a failed charge could still shoot from where it stood.
+It cannot. Implemented as corrected: ai/movement/charge_value.js `aiChargeForgoneShot`.)
 
 **Losing fights for ground.** 22 of the 108 charges went into fights the charger loses badly
 (it deals less than half what it takes): Muqatila Troopers into the Oni Samurai (0.3 against 12),
