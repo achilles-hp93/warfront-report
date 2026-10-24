@@ -1,0 +1,7130 @@
+{
+ "armies": [
+  {
+   "name": "Legatus's Legion",
+   "faction": "iron_imperium",
+   "formation": "preset:legatus_legion"
+  },
+  {
+   "name": "Spahbed's Host",
+   "faction": "atashid_empire",
+   "formation": "preset:spahbed_host"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 100,
+   "map": "ACROPOLIS",
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    15,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 2,
+     "primary": 10,
+     "missions": 3,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 0,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    128,
+    67
+   ],
+   "lostUnits": [
+    6,
+    3
+   ],
+   "fieldedRp": [
+    218,
+    233
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    44,
+    71
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     2
+    ],
+    [
+     0,
+     2,
+     5,
+     5,
+     5,
+     3
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 11
+    },
+    {
+     "gained": 20,
+     "spent": 20
+    }
+   ],
+   "primary": [
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 10
+    },
+    {
+     "name": "RECONNAISSANCE OPERATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    1,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 3.8,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 3.8,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.8,
+      "objectives": 0.3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": false,
+      "vp": 2.7,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 12.3,
+      "objectives": 12,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 12
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 0,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 101,
+   "map": "CROSSROADS",
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    24,
+    33
+   ],
+   "vpBySource": [
+    {
+     "objectives": 10,
+     "primary": 10,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 22,
+     "primary": 0,
+     "missions": 11,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    138,
+    10
+   ],
+   "lostUnits": [
+    6,
+    1
+   ],
+   "fieldedRp": [
+    238,
+    233
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    25,
+    62
+   ],
+   "objectivesByRound": [
+    [
+     4,
+     4,
+     2,
+     0,
+     0
+    ],
+    [
+     0,
+     3,
+     5,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 12
+    },
+    {
+     "gained": 17,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    2,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 2,
+      "primary": 5,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": false,
+      "vp": 10.3,
+      "objectives": 4,
+      "primary": 5,
+      "missions": 1.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 5.3,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 4
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 4.2,
+      "objectives": 2.7,
+      "primary": 0,
+      "missions": 1.6,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0.2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 7.5,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 5.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 7.3,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 6
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 102,
+   "map": "TRIPLE HILLS",
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    27,
+    35
+   ],
+   "vpBySource": [
+    {
+     "objectives": 7,
+     "primary": 10,
+     "missions": 10,
+     "other": 0
+    },
+    {
+     "objectives": 15,
+     "primary": 10,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    98,
+    74
+   ],
+   "lostUnits": [
+    5,
+    4
+   ],
+   "fieldedRp": [
+    238,
+    233
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    56,
+    58
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     3,
+     5,
+     2,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 11
+    },
+    {
+     "gained": 18,
+     "spent": 17
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    },
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 10,
+      "objectives": 1,
+      "primary": 5,
+      "missions": 4,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 13,
+      "objectives": 4.5,
+      "primary": 5,
+      "missions": 3.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 2,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 0,
+      "primary": 3.3,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 0,
+      "primary": 3.3,
+      "missions": 1.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 9.3,
+      "objectives": 6,
+      "primary": 3.3,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 5.8,
+      "objectives": 2.5,
+      "primary": 0,
+      "missions": 3.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 3
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 2.8,
+      "objectives": 2.5,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 3
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 103,
+   "map": "TWIN LAKES",
+   "swapped": true,
+   "round": 8,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    22
+   ],
+   "vpBySource": [
+    {
+     "objectives": 14,
+     "primary": 7,
+     "missions": 10,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 0,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    108,
+    104
+   ],
+   "lostUnits": [
+    5,
+    5
+   ],
+   "fieldedRp": [
+    198,
+    233
+   ],
+   "arrivedUnits": [
+    0,
+    2
+   ],
+   "damage": [
+    69,
+    57
+   ],
+   "objectivesByRound": [
+    [
+     7,
+     2,
+     3,
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     2,
+     4,
+     2,
+     5,
+     2,
+     5,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 14
+    },
+    {
+     "gained": 20,
+     "spent": 20
+    }
+   ],
+   "primary": [
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 7
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    8,
+    8
+   ],
+   "missionsCompleted": [
+    4,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 8
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "expired",
+      "kept": 6,
+      "ended": 8
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 8,
+      "ended": 8
+     }
+    ],
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 8,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 5.3,
+      "objectives": 2,
+      "primary": 2.7,
+      "missions": 0.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 12.3,
+      "objectives": 4,
+      "primary": 2.7,
+      "missions": 5.7,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2.8,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 6.2,
+      "objectives": 4.5,
+      "primary": 0.8,
+      "missions": 0.8,
+      "pivotal": 3
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 2,
+      "objectives": 1.5,
+      "primary": 0.5,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 2.2,
+      "objectives": 2.2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 2.2,
+      "objectives": 2.2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 10.7,
+      "objectives": 10.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 10
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 7,
+      "idle": 7,
+      "idleMoved": 7,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 6.75,
+      "idle": 7,
+      "idleMoved": 7,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 5,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 104,
+   "map": "ACROPOLIS",
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    16,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 5,
+     "primary": 6,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 21,
+     "primary": 6,
+     "missions": 7,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    108,
+    64
+   ],
+   "lostUnits": [
+    5,
+    4
+   ],
+   "fieldedRp": [
+    218,
+    233
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    47,
+    66
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     0,
+     2,
+     3,
+     0
+    ],
+    [
+     5,
+     5,
+     5,
+     3,
+     0,
+     3
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 8
+    },
+    {
+     "gained": 19,
+     "spent": 19
+    }
+   ],
+   "primary": [
+    {
+     "name": "FORLORN HOPE",
+     "vp": 6
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 7.5,
+      "objectives": 1,
+      "primary": 4,
+      "missions": 2.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 2.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 3,
+      "objectives": 0,
+      "primary": 3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 3,
+      "objectives": 0,
+      "primary": 3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 6.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 3.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 3,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 6
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": false,
+      "vp": 6,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 105,
+   "map": "CROSSROADS",
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    12,
+    33
+   ],
+   "vpBySource": [
+    {
+     "objectives": 3,
+     "primary": 4,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 22,
+     "primary": 0,
+     "missions": 11,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    238,
+    17
+   ],
+   "lostUnits": [
+    9,
+    1
+   ],
+   "fieldedRp": [
+    238,
+    233
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    21,
+    84
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     5,
+     2,
+     5,
+     5,
+     5,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 9
+    },
+    {
+     "gained": 20,
+     "spent": 19
+    }
+   ],
+   "primary": [
+    {
+     "name": "WIDE SWEEP",
+     "vp": 4
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    5
+   ],
+   "missions": [
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": false,
+      "vp": 2.2,
+      "objectives": 0,
+      "primary": 1.8,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 4.6,
+      "objectives": 3,
+      "primary": 0.1,
+      "missions": 1.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.1,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.1,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2.2,
+      "objectives": 0,
+      "primary": 1.8,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.1,
+      "missions": 0.4,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 2,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 6.3,
+      "objectives": 2.3,
+      "primary": 0,
+      "missions": 4,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 2.3,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 9,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 8
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 0,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 106,
+   "map": "TRIPLE HILLS",
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    18,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 5,
+     "primary": 9,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 4,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    78,
+    102
+   ],
+   "lostUnits": [
+    4,
+    3
+   ],
+   "fieldedRp": [
+    238,
+    233
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    41,
+    42
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     0,
+     0,
+     3
+    ],
+    [
+     3,
+     5,
+     5,
+     5,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 11
+    },
+    {
+     "gained": 16,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 9
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    2,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 5,
+      "objectives": 0,
+      "primary": 4.5,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 9.5,
+      "objectives": 3,
+      "primary": 4.5,
+      "missions": 2,
+      "pivotal": 3
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": false,
+      "vp": 2.4,
+      "objectives": 2.3,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 3
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": false,
+      "vp": 1.3,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 3.9,
+      "objectives": 3.3,
+      "primary": 0.5,
+      "missions": 0.2,
+      "pivotal": 6
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 5.9,
+      "objectives": 5.3,
+      "primary": 0.5,
+      "missions": 0.2,
+      "pivotal": 6
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 11.9,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 5.9,
+      "pivotal": 6
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 107,
+   "map": "TWIN LAKES",
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    2,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 0,
+     "primary": 0,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 22,
+     "primary": 9,
+     "missions": 3,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    168,
+    37
+   ],
+   "lostUnits": [
+    6,
+    2
+   ],
+   "fieldedRp": [
+    218,
+    216
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    39,
+    56
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     5,
+     7,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 8
+    },
+    {
+     "gained": 12,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "WIDE SWEEP",
+     "vp": 0
+    },
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 9
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    1,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 2.3,
+      "primary": 1,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 2.3,
+      "primary": 0.5,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 4,
+      "primary": 0.5,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 6.4,
+      "objectives": 6.3,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 3
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 108,
+   "map": "ACROPOLIS",
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    2,
+    38
+   ],
+   "vpBySource": [
+    {
+     "objectives": 2,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 27,
+     "primary": 1,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    108,
+    0
+   ],
+   "lostUnits": [
+    5,
+    0
+   ],
+   "fieldedRp": [
+    218,
+    216
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    10,
+    56
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     2,
+     4,
+     7,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 10,
+     "spent": 10
+    },
+    {
+     "gained": 15,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 0
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 1
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    0,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 4,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 11.8,
+      "objectives": 10,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 10
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 8.6,
+      "objectives": 5.5,
+      "primary": 0,
+      "missions": 3.1,
+      "pivotal": 3
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 4
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 2.5,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 4.5,
+      "idle": 5,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 109,
+   "map": "CROSSROADS",
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    13
+   ],
+   "vpBySource": [
+    {
+     "objectives": 19,
+     "primary": 8,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 5,
+     "primary": 0,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    40,
+    30
+   ],
+   "lostUnits": [
+    2,
+    2
+   ],
+   "fieldedRp": [
+    198,
+    233
+   ],
+   "arrivedUnits": [
+    0,
+    2
+   ],
+   "damage": [
+    41,
+    22
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     7,
+     7,
+     2
+    ],
+    [
+     0,
+     0,
+     0,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 9
+    },
+    {
+     "gained": 13,
+     "spent": 13
+    }
+   ],
+   "primary": [
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 8
+    },
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    2,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 4.4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 6.4,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 6
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 1.4,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 1.4,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 2
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 2
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 6.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 3.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 110,
+   "map": "TRIPLE HILLS",
+   "swapped": false,
+   "round": 9,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    28,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 14,
+     "primary": 6,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 8,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    198,
+    129
+   ],
+   "lostUnits": [
+    7,
+    5
+   ],
+   "fieldedRp": [
+    198,
+    250
+   ],
+   "arrivedUnits": [
+    0,
+    3
+   ],
+   "damage": [
+    63,
+    56
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     0,
+     3,
+     3,
+     3,
+     0,
+     0,
+     0
+    ],
+    [
+     3,
+     0,
+     5,
+     2,
+     0,
+     0,
+     0,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 18,
+     "spent": 18
+    },
+    {
+     "gained": 24,
+     "spent": 23
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 6
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 8
+    }
+   ],
+   "missionsKept": [
+    9,
+    9
+   ],
+   "missionsCompleted": [
+    3,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 7,
+      "ended": 9
+     },
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "active",
+      "kept": 8,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 9,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 8
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 6,
+      "ended": 9
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 7,
+      "ended": 8
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 8,
+      "ended": 8
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 9,
+      "ended": 9
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": false,
+      "vp": 10.3,
+      "objectives": 5,
+      "primary": 2,
+      "missions": 3.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": false,
+      "vp": 3.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 3.3,
+      "objectives": 1,
+      "primary": 2,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 6,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 4,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 3.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": false,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 2.9,
+      "objectives": 2.8,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 5.3,
+      "objectives": 2.8,
+      "primary": 0,
+      "missions": 2.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 6.4,
+      "objectives": 2.3,
+      "primary": 4,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 2.3,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 3,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 2.25,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 3,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 6
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 111,
+   "map": "TWIN LAKES",
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    12,
+    36
+   ],
+   "vpBySource": [
+    {
+     "objectives": 9,
+     "primary": 0,
+     "missions": 3,
+     "other": 0
+    },
+    {
+     "objectives": 19,
+     "primary": 7,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    78,
+    47
+   ],
+   "lostUnits": [
+    3,
+    3
+   ],
+   "fieldedRp": [
+    218,
+    199
+   ],
+   "arrivedUnits": [
+    1,
+    0
+   ],
+   "damage": [
+    31,
+    39
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     0,
+     3,
+     3
+    ],
+    [
+     4,
+     7,
+     4,
+     4
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 8,
+     "spent": 8
+    },
+    {
+     "gained": 12,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 0
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 7
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    1,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 1,
+      "ended": null
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 7.5,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 1.5,
+      "primary": 1.3,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "alive": true,
+      "vp": 4,
+      "objectives": 2.2,
+      "primary": 1.3,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 0.2,
+      "primary": 1.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4.2,
+      "primary": 1.3,
+      "missions": 0.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 13.5,
+      "objectives": 8,
+      "primary": 1.3,
+      "missions": 4.2,
+      "pivotal": 8
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 5.3,
+      "objectives": 3,
+      "primary": 0.5,
+      "missions": 1.8,
+      "pivotal": 3
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Spahbed",
+      "rp": 50,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Aswaran",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  }
+ ]
+}

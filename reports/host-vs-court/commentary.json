@@ -1,0 +1,130 @@
+{
+  "title": "Crossroads: Spahbed's Host vs the Veiled Court",
+  "armies": [
+    {
+      "name": "Spahbed's Host",
+      "faction": "Ātashid Empire"
+    },
+    {
+      "name": "Veiled Court",
+      "faction": "Infernal Congregations (Cult of Tempestuous Rapture)"
+    }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Spahbed's Host against the Cult of Tempestuous Rapture's Veiled Court on Crossroads, played live round by round: the closest of twelve battles of the matchup. The Court took all three objectives in Round 1, and in Round 3 seduced the Host squad holding the east flank. The Host killed both its Queens and reached the 30 VP Victory Target in Round 5, 30 to 28. Over the twelve battles the Host won 7 to 5, on average VP of 27.8 to 27.2.",
+  "deployment": "<p>The Host lines the south edge: the Spahbed with his Aswaran on the left (3,12), the Sagdid Hound-Keepers beside them, the Adur Furnace Guard and Shieldbearers 1 in the centre, and the Mobad with the Javidan Immortals on the right (10,12), Shieldbearers 2 on their flank. The Veiled Court takes the north edge: the Veiled Queen leading Cultist Troopers 1 left of centre (5,2) with the Queen Consort beside her, the Babylonian Assassins and the Masque of Carnality in the centre-right, and Cultist Troopers 2 on the right (11,2).</p><p>The Court has the initiative and spends 3 CP before a shot is fired: a Troop Requisition puts a third Cultist Troopers squad on its left at (3,2). Both players keep <b>IMPENETRABLE FORTRESS</b> as their Primary and <b>BAR THE GATES</b> as their first secondary. Three objectives cross the middle row: the centre (7,7) for 3 VP and the flanks (1,7) and (13,7) for 2 each.</p>",
+  "rounds": {
+    "1": {
+      "title": "The Court takes all three objectives",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Court spends its 3 CP on the Troop Requisition, the Host 1 of its 3 on Double Time for the Sagdid Hound-Keepers (+2 MOVE, a move it could not have made without it). Both sides keep <b>BAR THE GATES</b>."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Court advances every unit at an objective. The Masque of Carnality (8,7) and the Veiled Queen with Cultist Troopers 1 (6,6) take the centre; the Queen Consort (2,6) and the new Cultist Troopers (2,7) the west; Cultist Troopers 2 the east (12,7). The Host comes up more slowly: the Javidan with the Mobad to (6,10), Shieldbearers 2 to (11,9), Shieldbearers 1 to (5,11), and the Spahbed's Aswaran ride the west edge to (0,7), beside the west objective."
+        },
+        {
+          "phase": "Action",
+          "text": "One shot all round: the Aswaran's carbines take 4 HP and two Cultists off the requisitioned squad at the west objective. Everyone else, on both sides, has nothing legal in reach."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "The Court holds all three objectives for 7 VP. Both sides complete BAR THE GATES (+2). <b>Veiled Court 9, Spahbed's Host 2.</b>"
+        }
+      ]
+    },
+    "2": {
+      "title": "The Host retakes both flanks, at a price",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "Each side buys a Scouting Order (+2 PER), and each one spots an enemy nothing else saw: the Masque finds the Adur Furnace Guard, the Furnace Guard finds the Masque. The Host also spends 3 CP to requisition a third Shieldbearers squad at (5,12). New secondaries: the Host keeps <b>FIRE FOR EFFECT</b>, the Court <b>SECURE THE FLANKS</b>."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Host charges on both flanks. On the west, the Aswaran with the Spahbed hit the requisitioned Cultist Troopers at (1,6), and the Javidan with the Mobad close beside them. On the east, Shieldbearers 2 charge Cultist Troopers 2 on the objective. The Queen Consort charges the Javidan at (2,8). In the centre, Shieldbearers 1 walk into Overwatch from the Veiled Queen and Cultist Troopers 1 and lose 7 of their 10 HP before they can act."
+        },
+        {
+          "phase": "Action",
+          "text": "The Aswaran cut the requisitioned Cultists down by 8 HP and the Spahbed adds 4 more, leaving the squad with 4. The Javidan kill the Queen Consort in melee: the Court's second CHARACTER, gone in Round 2. On the east, Cultist Troopers 2 strike first in the Action Phase, but Shieldbearers 2 counterattack first on Initiative (INI 8 with the charge's +3, against 5) and take 9 HP; the Cultists' Desperate Worship gamble passes for +1 AR and costs 2 more. In the centre, Cultist Troopers 1 shoot what is left of Shieldbearers 1 off the board."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "The Host holds both flanks (4 VP) and scores IMPENETRABLE FORTRESS in full (3); the Court keeps the centre (3) and scores 2 of the Primary. <b>Veiled Court 14, Spahbed's Host 9.</b> Next Command Phase is Round 3, when Temptation of Earthly Delight claims its first Host unit."
+        }
+      ]
+    },
+    "3": {
+      "title": "Temptation takes the east flank's defenders",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "<b>Temptation of Earthly Delight</b>: Shieldbearers 2, the Host squad holding the east objective, defect to the Court. They keep the objective, now for the Court, and they hand it <b>SECURE THE FLANKS</b> at the round's end (+2 VP, +1 CP). The Host's Scouting Order on the Aswaran and Double Time on the Adur Furnace Guard both buy nothing. New secondaries: the Host keeps SECURE THE FLANKS, the Court FORWARD PRESENCE."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Court turns on the Host's west. The Veiled Queen with Cultist Troopers 1 moves to (4,7) and the Masque to (5,8); the Babylonian Assassins charge the Adur Furnace Guard, which falls back to (4,10). Cultist Troopers 2 leave the east objective to the new Shieldbearers and walk toward the centre (9,7). The Sagdid Hound-Keepers fall back from the defectors to the south-east corner."
+        },
+        {
+          "phase": "Action",
+          "text": "The Aswaran finish the requisitioned Cultist Troopers at the west objective, after Cultist Troopers 1 take 3 HP off them (Go to Ground saves the rest, 1 CP). The Veiled Queen's Lotus Censer Ejection hits the Javidan for 2 and leaves them and the Mobad POISONED. The Mobad answers with <b>Sunburst</b> (6 Mana) on (4,7): the Queen and Cultist Troopers 1 are BURNED, 2 True Damage to her and 6 to the squad, and the burning field stays. The poison ticks cost the Mobad 1 HP and kill a Javidan."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "Nobody holds the centre. The Host keeps the west (2) and scores IMPENETRABLE FORTRESS in full again (3, 6 of 10); the Court scores the east through its new Shieldbearers (2), 2 of its Primary and SECURE THE FLANKS (2). <b>Veiled Court 20, Spahbed's Host 14.</b>"
+        }
+      ]
+    },
+    "4": {
+      "title": "The Veiled Queen falls",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host requisitions a fourth Shieldbearers squad (3 CP) and gives the squad from Round 2 Double Time. The Court spends 2 CP on a Rally Cry so Cultist Troopers 1, now Below Half-Strength, pass their Casualty Tally test. New secondaries: the Host keeps <b>TAKE UP THE GAUNTLET</b>, the Court <b>FORWARD DEPLOYMENT</b>; the Host's FIRE FOR EFFECT runs out."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Veiled Queen pulls her Cultists back to (3,5), and the Host follows her: the Aswaran with the Spahbed charge to (2,5), the Javidan with the Mobad to (2,6). The Masque of Carnality charges the Adur Furnace Guard, which fails its Fall Back test (2 True Damage) as it breaks away to (2,11). On the east, the converted Shieldbearers 2 charge the Sagdid Hound-Keepers."
+        },
+        {
+          "phase": "Action",
+          "text": "The Aswaran take 4 HP off the Veiled Queen and destroy Cultist Troopers 1 around her; the Javidan finish her with 3 more. The cult's EPIC HERO, its Marshal and 70 RP of its 204, is gone. The requisitioned Shieldbearers shoot Cultist Troopers 2 off the board (9 HP). The Court strikes back on two fronts: Shieldbearers 2 cut down the Sagdid Hound-Keepers, and the Babylonian Assassins take 6 HP from the Javidan."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "Only the east objective is held, by the Court's converted Shieldbearers (2). The Host scores IMPENETRABLE FORTRESS again (3, 9 of 10) and SECURE THE FLANKS (+2 VP, +1 CP); the Court 1 of its Primary. <b>Veiled Court 23, Spahbed's Host 19.</b> The Court is down to the Masque, the Babylonian Assassins and the Shieldbearers it seduced."
+        }
+      ]
+    },
+    "5": {
+      "title": "Thirty: the Host reaches the Victory Target",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Court's last throw: a Troop Requisition (3 CP) for a fresh Cultist Troopers squad, and Double Time (2 CP) to run it to the centre. The Host spends 1 CP on a Rally Cry for the Javidan's Casualty Tally test. New secondaries: the Host keeps <b>TERRITORIAL SUPERIORITY</b>, the Court <b>STRONGPOINT</b>."
+        },
+        {
+          "phase": "Movement",
+          "text": "The new Cultists reach the centre at (6,6). The Babylonian Assassins go for the Aswaran, and the Spahbed answers with a <b>Countercharge</b> (2 CP): the Aswaran destroy the Assassins before they strike. The Javidan fail a Fall Back test (2 True Damage) on their way to the west objective (2,6). Two Host Shieldbearers squads charge: one into the centre at (6,7), one into the defectors, Shieldbearers 2, at (12,7). The Masque of Carnality charges the centre squad."
+        },
+        {
+          "phase": "Action",
+          "text": "The Masque takes 4 HP off the centre Shieldbearers. On the east, the Host's Shieldbearers take 3 HP off their former comrades for 2. The Mobad casts Sunburst again, on (5,7): the burning field catches the Masque and the new Cultists, and 1 HP of a Host Shieldbearers squad."
+        },
+        {
+          "phase": "Cleanup",
+          "text": "The Court's fresh Cultists hold the centre (3); the Host holds the west through the Mobad and Javidan and the east through its Shieldbearers (OC 8 against 6) for 4. IMPENETRABLE FORTRESS reaches its 10 VP cap (1), and the Host completes TERRITORIAL SUPERIORITY and TAKE UP THE GAUNTLET (+3 each). The Court adds 1 of its Primary and STRONGPOINT (+1). <b>Spahbed's Host 30, Veiled Court 28</b>: the Host reaches the 30 VP Victory Target and wins."
+        }
+      ]
+    }
+  },
+  "result_line": "Spahbed's Host wins 30 to 28, reaching the Victory Target in Round 5",
+  "analysis": {
+    "title": "Analysis",
+    "html": "\n<h3>As even as a matchup gets</h3>\n<p>Spahbed's Host won 7 of the 12 battles, but the average score was 27.8 to 27.2. Objective VP were level (16.0 to 16.1 a battle) and secondaries nearly so (6.8 to 7.2). The Host's edge was its Primary: 5.0 VP a battle against 3.9. It won all three battles on Crossroads; the other maps split 4 to 5.</p>\n{{batch}}\n{{chart:batch-vp}}\n{{chart:batch-sources}}\n<h3>The Cult's identity does its work</h3>\n<p>Temptation of Earthly Delight claimed 18 units in 12 battles: 15 Shieldbearers, 2 Adur Furnace Guard and 1 Sagdid Hound-Keepers (battles that ended before Round 6 claimed one). The claimed Shieldbearers are the Court's best scorers per copy: 4.7 VP each, with 49 objective VP that hinged on them, more than any unit it brought. In the featured battle Shieldbearers 2 defected while standing on the east objective, and in the same round gave the Court the objective and SECURE THE FLANKS.</p>\n{{chart:batch-unit-vp}}\n<h3>The Court's characters are where its points go</h3>\n<p>The Veiled Queen is 70 of the Court's 194 RP and scored 2.8 VP a battle, 4.0 per 100 RP; she was destroyed in 5 of the 12. The Masque of Carnality scored 5.0 VP (9.2 per 100 RP), the Queen Consort 3.1 (12.4), and the Babylonian Assassins 3.1 (13.1), destroyed in 9 of 12. Ten-point Cultist Troopers score 21 VP per 100 RP. The Court lost 101 RP a battle against the Host's 73, and dealt 53 damage a battle against the Host's 75.</p>\n{{chart:batch-unit-vp-rp}}\n{{chart:batch-losses}}\n<h3>What the AI did with them</h3>\n<p>The Court's AI rushes an objective with every unit in Round 1 (9 to 2 in the featured battle) and then leans on CP: it requisitioned 20 squads of Cultist Troopers over the batch, 60 CP. Its characters then stand still a lot: the Masque idled 2.6 Battle Rounds a battle, the Veiled Queen 2.4, the Assassins 2.8. On the Host side the Spahbed idled most (3.5 rounds a battle), holding back a free attack worth less than the AI's threshold.</p>\n<p>The Veiled Queen cast <b>Whispers of Forbidden Pleasure</b> 12 times, seizing an enemy STANDARD or SPECIALIST unit until the end of the next Command Phase. That puts the unit's OC on the Court's side at the round's scoring. The commands-and-abilities record lists all 12 uses as buying nothing, but it cannot see a change of control; read that as not measured.</p>\n{{chart:batch-unit-inaction}}\n<h3>Morale under the new rule</h3>\n<p>This is the first batch with the Morale Test after an attack removed: a Below Half-Strength unit now tests only in the Command Phase's Casualty Tally. The 12 battles held 104 Morale Tests, 90 of them in the Command Phase, and 20 failed. Rally Cry was used about 30 times. No batch of this matchup ran under the old rule, so these numbers cannot show what the change did; the same seeds replayed on the old engine would.</p>\n<h3>Verdict</h3>\n<p>Neither army is overcosted against the other. The Court wins on its identity, which costs nothing, and on its early rush; it loses when the Host kills its two Queens, as it did in the featured battle. The Veiled Queen looks expensive for what the AI does with her, but part of her value, Whispers of Forbidden Pleasure, is outside what the record measures. Measure that before repricing her.</p>\n"
+  },
+  "closing_title": "What to look at next",
+  "closing": "<p>Two things this report could not answer: what Whispers of Forbidden Pleasure is worth (the record does not see a change of control), and what removing the after-attack Morale Test changed (no batch on the old rule).</p>"
+}
