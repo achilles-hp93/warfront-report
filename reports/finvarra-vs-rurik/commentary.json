@@ -1,0 +1,48 @@
+{
+  "title": "Acropolis: Finvarra against Rurik",
+  "armies": [{ "name": "Finvarra's Army", "faction": "Grand Duchy of Albion" }, { "name": "Rurik's Army", "faction": "Principality of Novgorod" }],
+  "mode_name": "Seize the Ground",
+  "lede": "The Grand Duchy of Albion's Sidhe and Wild Hunt under High King Finvarra against Rurik the Deathless and the Veche of Novgorod, on the Acropolis. The closest of six: Rurik held all three objectives in Round 2 and kept the lead to the end, 33 to 26 in Round 6. Over the six battles Finvarra won 4 to 2, on average 29.3 VP to 18.3, and lost a quarter of the RP Rurik did.",
+  "result_line": "Rurik's Army wins on Victory Points, 33 to 26",
+  "deployment": "<p>Albion set up along row 12: Finvarra leading Sidhe Wardens 1 at (11,12), Sidhe Wardens 2 at (9,12), the Briton Yeomen with the Sidhe Druid at (3,12), the Wild Hunt Riders at (4,12) and the Blackflint Archers at (5,12). Novgorod set up on row 2: Rurik leading Veche Levy 1 at (8,2), Veche Levy 2 at (6,2), the Firelance Druzhina at (4,2), the Rynda Guard at (3,2) and the Winter Witch at (10,2).</p>",
+  "rounds": {
+    "1": { "title": "Both armies close on the plateau", "feed": [
+      { "phase": "Command", "text": "Both armies spend 2 CP on Double Time (Sidhe Wardens 2, Veche Levy 2). Missions: ASSASSINATION for Albion, COORDINATED PUSH for Novgorod. Primaries: DEBT OF BLOOD for Finvarra, BLEED THEM WHITE for Rurik." },
+      { "phase": "Movement", "text": "Every unit Advances. Rurik and Veche Levy 1 reach (8,5), Veche Levy 2 the edge of the plateau at (8,6), the Firelance Druzhina the west at (3,6), the Winter Witch the east at (11,5). Albion stops a little further back: Sidhe Wardens 2 at (6,8), Finvarra's Wardens at (8,9), the Yeomen at (7,9), the Wild Hunt at (9,11)." },
+      { "phase": "Action", "text": "The Blackflint Archers take 7 HP off the Firelance Druzhina." },
+      { "phase": "Cleanup", "text": "Nobody holds an objective yet. <b>0 each.</b>" }
+    ] },
+    "2": { "title": "The Sidhe shoot Veche Levy 1 apart", "feed": [
+      { "phase": "Command", "text": "Finvarra spends 2 CP on Relentless Pursuit for the Wild Hunt Riders and sets the Flow of Magic to Surge; Rurik gives the Rynda Guard Double Time. Both moves needed it." },
+      { "phase": "Movement", "text": "Novgorod moves onto all three objectives. Albion's Overwatch takes 5 HP off Veche Levy 1 as it comes." },
+      { "phase": "Action", "text": "Albion turns everything on Rurik's squad: the Blackflint Archers 7 HP, Sidhe Wardens 2 another 7, and the Wild Hunt Riders destroy Veche Levy 1, leaving Rurik alone. Veche Levy 1 and Rurik took 10 HP off the Briton Yeomen." },
+      { "phase": "Cleanup", "text": "Novgorod holds the centre and both flanks. <b>Rurik's Army 7, Finvarra's Army 0.</b>" }
+    ] },
+    "3": { "title": "The Wild Hunt collects its debt", "feed": [
+      { "phase": "Command", "text": "Rurik's <b>Toll for the Fallen</b> heals him 1 HP; he will use it every round from here. Finvarra spends Relentless Pursuit on the Wild Hunt again." },
+      { "phase": "Movement", "text": "Veche Levy 2 charges into the centre at (8,7); Rurik charges Finvarra's Wardens at (6,7), and the Briton Yeomen Fall Back in disorder (3 HP). COORDINATED PUSH completes for Novgorod (+2)." },
+      { "phase": "Action", "text": "Rurik's strike misses the Sidhe completely (two hits evaded), and Finvarra and the Wardens take 4 HP off him. The Winter Witch's <b>Hail of Heaven</b> takes 4 off the Wild Hunt Riders and leaves them CHILLED, but the Riders destroy the Firelance Druzhina: the unit Finvarra marked for DEBT OF BLOOD (+3) and KING OF THE HILL (+3)." },
+      { "phase": "Cleanup", "text": "Novgorod adds DEEP REACH (+3). <b>Rurik's Army 17, Finvarra's Army 8.</b>" }
+    ] },
+    "4": { "title": "Albion takes the east", "feed": [
+      { "phase": "Command", "text": "Rurik requisitions a Veche Levy squad (3 CP) and heals 2 HP. Finvarra spends Rally Cry on the Yeomen." },
+      { "phase": "Movement", "text": "Veche Levy 2 pushes to (8,8). Sidhe Wardens 2 charge the Winter Witch on the east objective; she Falls Back in disorder (2 HP)." },
+      { "phase": "Action", "text": "Rurik attacks Finvarra's Wardens again and takes 2 more HP without landing a blow. Albion's three units shoot Veche Levy 2 together for FOCUSED FIRE (+2, +1 CP)." },
+      { "phase": "Cleanup", "text": "Albion holds the east and the west; Novgorod the centre, with IRON GRIP (+2). <b>Rurik's Army 22, Finvarra's Army 14.</b>" }
+    ] },
+    "5": { "title": "Finvarra charges in", "feed": [
+      { "phase": "Command", "text": "Finvarra requisitions a second Briton Yeomen squad and sets the Flow of Magic to Stone. Rurik gives Veche Levy 2 Double Time and heals 1 HP." },
+      { "phase": "Movement", "text": "Finvarra and his Wardens charge into the centre at (6,8); the Rynda Guard charge them at (7,8). Veche Levy 2's Overwatch takes 2 HP off the Yeomen." },
+      { "phase": "Action", "text": "The Rynda Guard take 2 HP off the Wardens and lose 4 to Finvarra's counterattack. The Blackflint Archers, Sidhe Wardens 2 and the Yeomen take 12 HP off Veche Levy 2. Albion completes OMNIPRESENCE (+4)." },
+      { "phase": "Cleanup", "text": "<b>Rurik's Army 25, Finvarra's Army 22.</b>" }
+    ] },
+    "6": { "title": "Shooting into the melee", "feed": [
+      { "phase": "Movement", "text": "The Briton Yeomen charge Rurik at (7,9)." },
+      { "phase": "Action", "text": "The Rynda Guard destroy Finvarra's Wardens, losing a model to his counterattack, and Finvarra steps away with Fading Step. Then Albion shoots into the melee around Rurik: the Friendly Fire die sends the Blackflint Archers' volley into its own Yeomen (7 HP), and the requisitioned Yeomen's shots stray into them too (3 HP). Rurik takes 5 more off them himself." },
+      { "phase": "Cleanup", "text": "Novgorod scores the centre, BLEED THEM WHITE (a unit destroyed, none lost) and LAST STAND (+3); Albion scores IRON GRIP. Novgorod crosses 30. <b>Rurik's Army 33, Finvarra's Army 26.</b>" }
+    ] }
+  },
+  "analysis": { "title": "Analysis", "html": "<h3>Albion wins, and trades far better</h3><p>Finvarra's Army won 4 of the 6 battles, on average 29.3 VP to 18.3. It held more ground (19.2 objective VP a battle to 11.2) and did more with its secondaries (6.8 to 4.2); the Primaries were even. The trade was lopsided: Albion dealt 68.0 damage a battle and lost 18.3 RP, Novgorod dealt 24.8 and lost 73.3. One battle on Crossroads ended 31 to 0 in Round 4. The featured battle is one of Novgorod's two wins: it held all three objectives in Round 2 before Albion arrived and never gave back the lead.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>Albion's cheap and fast units carried it. The Sidhe Wardens (17 RP) scored 4.4 VP a squad, 25.6 per 100 RP, though 5 of 12 were destroyed; the Wild Hunt Riders (25 RP) 4.9 a battle, 19.7 per 100 RP; the Blackflint Archers (30 RP) 4.9, never destroyed, with 24 objective VP hinged on them. High King Finvarra (70 RP) scored 2.8 a battle, 4.0 per 100 RP. For Novgorod, the Rynda Guard (35 RP) scored 4.6 a battle; Rurik (70 RP) 3.2, destroyed in 2 of 6; the Firelance Druzhina (25 RP) 1.0, destroyed in 4 of 6.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the AI did with them</h3><ul><li><b>Shooting into melee.</b> In Round 6 of the featured battle Albion shot twice into the melee around Rurik and hit its own Briton Yeomen both times, 10 HP in all. The AI prices the chance of a stray shot, and Rurik was a high-value target with only EXPENDABLE Yeomen beside him; the dice went against it.</li><li><b>The Flow of Magic</b> (Albion) changed 29 times in six battles and the record found 20 of those changes bought nothing; Feth Fiada (5 casts), Caoine na Si (3) and Dark Harvest (6, 5 bought nothing) did little. Relentless Pursuit (8 uses) always moved the Wild Hunt somewhere it could not otherwise reach.</li><li><b>Toll for the Fallen</b> (Novgorod) healed Rurik 10 times, every one useful, and the Winter Witch's Hail of Heaven paid off in all 5 casts.</li><li>The Rynda Guard were idle 3.2 Battle Rounds a battle with APt to spend, and Rurik 2.2.</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Four to two, with a trade this one-sided, is a real lean towards Albion. The Sidhe's EVASION and Albion's shooting took Novgorod's melee apart before it landed; Novgorod's wins came from reaching the objectives first.</p>" },
+  "closing_title": "What to look at next",
+  "closing": "<p>Novgorod's expensive melee, Rurik and the Firelance Druzhina, rarely got a fight on its terms. That is worth checking against the charge-pricing proposals of today's findings before any cost change.</p>"
+}

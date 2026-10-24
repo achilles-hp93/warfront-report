@@ -1,0 +1,44 @@
+{
+  "title": "Acropolis: Genghis against the Immortals",
+  "armies": [{ "name": "Genghis's Army", "faction": "Golden Khaganate" }, { "name": "Flamebringer's Immortals", "faction": "Atashid Empire" }],
+  "mode_name": "Seize the Ground",
+  "lede": "The Golden Khaganate under Genghis Khan against Ardashir the Flamebringer and his Javidan Immortals, on the Acropolis. The closest of six: the Khaganate led after three rounds, then Ardashir and the Immortals destroyed both Stormrider squads and a burning field on the centre did the rest, 34 to 25 in Round 6. Over the six battles the Immortals won 5 to 1, on average 33.2 VP to 21.7, and dealt more than three times the damage.",
+  "result_line": "Flamebringer's Immortals win on Victory Points, 34 to 25",
+  "deployment": "<p>The Khaganate set up along rows 12 and 13: Genghis Khan leading the Khesig Guards at (5,12), the Black Shaman with Stormrider 1 at (3,13), Stormrider 2 at (11,13), the Nerge Outriders at (9,13) and the Tamga-Bound Troops at (6,12). The Atashid Empire set up on row 2: Ardashir leading the Javidan Immortals at (9,2), the Mobad with Shieldbearers 1 at (11,2), Shieldbearers 2 at (5,2), the Adur Furnace Guard at (3,2), and the two Sagdid Hound-Keeper squads at (7,2) and (10,2).</p>",
+  "rounds": {
+    "1": { "title": "The riders reach the ground first", "feed": [
+      { "phase": "Command", "text": "Neither side spends CP. Missions: FOCUSED FIRE for the Khaganate, DEEP REACH for the Empire. Primaries: BLEED THEM WHITE for Genghis, ERADICATE THE FOE for Ardashir." },
+      { "phase": "Movement", "text": "Every unit Advances. Stormrider 1 and the Black Shaman reach the centre at (6,8), Genghis and the Khesig Guards the west at (2,8), Stormrider 2 the east side at (11,9). The Immortals come up to (9,5), the Shieldbearers to (8,5) and (10,4)." },
+      { "phase": "Cleanup", "text": "The Khaganate holds the centre and the west. <b>Genghis's Army 5, Flamebringer's Immortals 0.</b>" }
+    ] },
+    "2": { "title": "Ardashir drives off the riders", "feed": [
+      { "phase": "Command", "text": "Genghis's Scouting Order on the Nerge Outriders spots the Mobad and Shieldbearers 1; he requisitions a Tamga-Bound squad. Ardashir spends 3 CP on <b>Judgement of the Sun</b>, which BLINDS Genghis and his Khesig Guards, and requisitions a Shieldbearer squad." },
+      { "phase": "Movement", "text": "Ardashir and the Immortals charge Stormrider 2 on the east at (12,8); the riders Fall Back in disorder (3 HP). COORDINATED PUSH completes for the Empire (+2)." },
+      { "phase": "Action", "text": "The Tamga-Bound Troops shoot the Shieldbearers for 3. The Black Shaman's Chant of the Kindling raises Genghis's hunger." },
+      { "phase": "Cleanup", "text": "The Khaganate holds the centre and the west, the Empire the east, with DEEP REACH (+3). <b>Genghis's Army 10, Flamebringer's Immortals 7.</b>" }
+    ] },
+    "3": { "title": "The Immortals cut down the Tamga-Bound", "feed": [
+      { "phase": "Movement", "text": "The requisitioned Tamga-Bound charge into the Immortals on the east at (12,7); a requisitioned Shieldbearer squad charges the west at (1,7)." },
+      { "phase": "Action", "text": "The Immortals take 18 HP off the Tamga-Bound and the Shieldbearers 6 more; Stormrider 1 shoots into that melee and its stray shot finishes them. Genghis completes STRONGPOINT (+1)." },
+      { "phase": "Cleanup", "text": "<b>Genghis's Army 13, Flamebringer's Immortals 12.</b>" }
+    ] },
+    "4": { "title": "Fire on the centre", "feed": [
+      { "phase": "Movement", "text": "Ardashir and the Immortals charge again at (12,7); Genghis and the Khesig Guards charge Shieldbearers 2 in the centre at (6,6)." },
+      { "phase": "Action", "text": "Genghis and the Khesig Guards destroy Shieldbearers 2. Ardashir takes 13 HP off Stormrider 2 and the Immortals destroy it. The Mobad's <b>Sunburst</b> sets a BURNING FIELD over (6,7), one square in every direction, which covers the centre objective; the field and the BURNED it leaves take 16.5 HP off the Khaganate over the next rounds." },
+      { "phase": "Cleanup", "text": "The Empire scores ERADICATE THE FOE (+2). <b>Flamebringer's Immortals 18, Genghis's Army 16.</b>" }
+    ] },
+    "5": { "title": "Blaze of Glory", "feed": [
+      { "phase": "Command", "text": "Ardashir uses <b>Blaze of Glory</b> on himself (+1 AR and FR) and the Empire requisitions another Shieldbearer squad. Genghis spends 4 CP on Secure Objective for the Tamga-Bound." },
+      { "phase": "Action", "text": "Ardashir destroys Stormrider 1 on his own, 18 HP. The Immortals wound the Black Shaman. The burning takes 2 off Genghis, 4 off the Khesig Guards, and destroys the Tamga-Bound in the centre. The Empire completes SECURE THE FLANKS (+2)." },
+      { "phase": "Cleanup", "text": "<b>Flamebringer's Immortals 24, Genghis's Army 19.</b>" }
+    ] },
+    "6": { "title": "The Khesig burn out", "feed": [
+      { "phase": "Movement", "text": "Genghis and the Khesig Guards charge at (6,7), back into the burning centre; the Immortals charge at (12,8). The Adur Furnace Guard's Overwatch takes 8 HP off a Tamga-Bound squad." },
+      { "phase": "Action", "text": "Genghis destroys Sagdid Hound-Keepers 1. Shieldbearers 1 destroy the Black Shaman, a CHARACTER: ASSASSINATION (+4). The burning destroys another Tamga-Bound squad and, in the Cleanup Phase, the Khesig Guards." },
+      { "phase": "Cleanup", "text": "Genghis completes KING OF THE HILL (+3); the Empire scores ERADICATE THE FOE and crosses 30. <b>Flamebringer's Immortals 34, Genghis's Army 25.</b>" }
+    ] }
+  },
+  "analysis": { "title": "Analysis", "html": "<h3>The Immortals win, and win the trade</h3><p>Flamebringer's Immortals won 5 of the 6 battles, on average 33.2 VP to 21.7. They won every source: objectives 20.5 to 14.0 a battle, the Primary 5.3 to 2.3, the secondaries 7.3 to 5.3. The trade was lopsided: the Empire dealt 106.3 damage a battle and lost 35.3 RP; the Khaganate dealt 30.8 and lost 114.3, more than half its army. Genghis's one win was on Twin Lakes, 39 to 27.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>The Javidan Immortals (30 RP) scored 5.4 VP a battle, 18.0 per 100 RP, and were never destroyed; Ardashir (75 RP) 3.7, never destroyed, and in the featured battle he destroyed two Stormrider squads. The Shieldbearers (17 RP, 22 squads with requisitions) scored 3.3 a squad, 19.5 per 100 RP. For the Khaganate, Genghis (70 RP) scored 4.4 a battle; the Stormriders (20 RP) 2.3, destroyed 8 times in 12; the Tamga-Bound Troops (10 RP) 1.1, destroyed 12 times in 18.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the AI did with them</h3><ul><li><b>Alchemical Vial, twice a round.</b> The Shieldbearers used their Vial (+1 MS, BS and DEF this round, 2 charges) 32 times, and 16 of those were a second Vial on the same unit in the same round. A second Vial only refreshes the first, so it changed nothing and threw a charge away. <b>Fixed after this batch</b>: the AI now prices a buff the unit already holds from the same source at nothing.</li><li><b>Standing in the fire.</b> Sunburst's BURNING FIELD covered the centre objective from Round 4 of the featured battle, and the Khaganate kept charging back into it to hold the centre; the burning destroyed the Khesig Guards and two Tamga-Bound squads.</li><li><b>Commands that bought nothing</b>: Judgement of the Sun (3 of 3), Genghis's Double Time (7 of 7), Chant of the Kindling 11 of 18.</li><li>The Adur Furnace Guard were idle 4.0 Battle Rounds a battle and the Immortals 3.2, mostly standing on objectives they were holding.</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Five to one, with the losing side losing more than half its RP each battle, is a clear result: the Immortals and Ardashir out-fought everything the Khaganate sent at them, and the Khaganate's cheap units died faster than they scored.</p>" },
+  "closing_title": "What to look at next",
+  "closing": "<p>The Khaganate's light cavalry and Tamga-Bound charged into the Immortals and died. That is the losing-fight charge from today's findings: worth replaying once the charge pricing changes. And a burning field over an objective is worth a look at how the AI weighs the hazard against holding the ground.</p>"
+}

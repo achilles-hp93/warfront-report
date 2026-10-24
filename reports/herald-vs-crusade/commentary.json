@@ -1,0 +1,47 @@
+{
+  "title": "Twin Lakes: the Crusade against the Herald",
+  "armies": [{ "name": "Crusade Host", "faction": "Covenant of New Jerusalem" }, { "name": "Herald's Army", "faction": "Church of the Beast" }],
+  "mode_name": "Seize the Ground",
+  "lede": "Two churches on Twin Lakes: the Covenant of New Jerusalem's Crusade Host under the Archistrategos against the Church of the Beast's Herald of Feral Affliction. The closest of six: the Crusade led through Round 4, the Herald's secondaries caught it in Round 5, and the Herald won 36 to 31 in Round 6. Over the six battles they split 3 to 3, 26.8 VP to 26.7 on average: the most even matchup played so far.",
+  "result_line": "Herald's Army wins on Victory Points, 36 to 31",
+  "deployment": "<p>The Crusade set up along row 12: the Archistrategos leading the Knight-Apostle Squad at (4,12), the Cantor-Preceptor with Covenant Levies 1 at (5,12), Covenant Levies 2 at (11,12), the Staurotheke War-Shrine at (9,12) and the St. Barbara Field Gun behind at (11,14). The Church of the Beast set up on rows 1 and 2: the Herald at (4,1), the Assault Lycanthropes at (3,2), the Wildling Acolytes at (7,2), the Mongrel Supplicants at (9,2), the Weretiger Stalkers at (11,2), the Beast-Monk at (5,2) and the Marrowstring Centaur at (11,1).</p>",
+  "rounds": {
+    "1": { "title": "The Beast takes the ground", "feed": [
+      { "phase": "Command", "text": "The Crusade gives Covenant Levies 2 Double Time; the Herald's Scouting Order goes on the Weretiger Stalkers. Missions: ASSASSINATION for the Crusade, KING OF THE HILL for the Herald. Primaries: IMPENETRABLE FORTRESS for the Crusade, STRATEGICAL DISRUPTION for the Herald." },
+      { "phase": "Movement", "text": "Every unit Advances. The Church spreads across the field: the Mongrel Supplicants to (13,5), the Weretigers to (12,8), the Lycanthropes and Acolytes to the centre's edge at (6,6) and (7,6), the Herald to the west at (2,6). The Crusade's Covenant Levies reach (7,8) and (8,9)." },
+      { "phase": "Action", "text": "The Marrowstring Centaur shoots Covenant Levies 1 for 6. The Crusade's Fortitude Miracle goes on the same squad." },
+      { "phase": "Cleanup", "text": "The Church holds two objectives. <b>Herald's Army 7, Crusade Host 0.</b>" }
+    ] },
+    "2": { "title": "The Knight-Apostles break the Centaur", "feed": [
+      { "phase": "Command", "text": "The Crusade's Scouting Order on the War-Shrine spots the Weretigers and the Centaur; it requisitions a Covenant Levies squad. The Herald's Scouting Order on the Beast-Monk spots the Archistrategos and the Knight-Apostles." },
+      { "phase": "Movement", "text": "The Archistrategos and the Knight-Apostles charge into the centre at (6,7). The Weretigers charge the War-Shrine; the Marrowstring Centaur charges across to (7,6); the Beast-Monk charges at (8,7). The St. Barbara Field Gun, the Wildling Acolytes and the Lycanthropes Fall Back in disorder." },
+      { "phase": "Action", "text": "The Knight-Apostles destroy the Marrowstring Centaur (15 HP), and the Archistrategos and Covenant Levies 2 destroy the Beast-Monk: ASSASSINATION for the Crusade (+4). The Herald casts <b>Blessing of Sacred Rabies</b> on Covenant Levies 1, which turn on their own Cantor-Preceptor and lose 5 HP to their own blades." },
+      { "phase": "Cleanup", "text": "<b>Herald's Army 12, Crusade Host 10.</b>" }
+    ] },
+    "3": { "title": "The Lycanthropes die on the Knight-Apostles", "feed": [
+      { "phase": "Command", "text": "The Herald requisitions a Wildling Acolytes squad. The Crusade spends Double Time and a Scouting Order on its Levies, and Benediction heals the War-Shrine 3 HP." },
+      { "phase": "Movement", "text": "The Church charges everywhere: two Acolyte squads and the Lycanthropes into the Archistrategos's pair, the Mongrel Supplicants at (12,10), the Weretigers at (12,11), the Herald at (1,8). The War-Shrine Falls Back in disorder. The Herald completes COORDINATED PUSH (+2)." },
+      { "phase": "Action", "text": "The Assault Lycanthropes take 4 HP off the Knight-Apostles and are destroyed by the counterattack (17 HP). The Weretigers destroy the St. Barbara Field Gun. The Covenant Levies shoot the Mongrel Supplicants for 14. The Cantor-Preceptor's Agnus Dei gives the Knight-Apostles +1 DMG." },
+      { "phase": "Cleanup", "text": "The Crusade scores its Primary again. <b>Herald's Army 17, Crusade Host 16.</b>" }
+    ] },
+    "4": { "title": "The Weretigers in the backfield", "feed": [
+      { "phase": "Command", "text": "The Crusade requisitions another Levy squad." },
+      { "phase": "Movement", "text": "The Weretiger Stalkers charge across the Crusade's backfield at (6,11)." },
+      { "phase": "Action", "text": "The Weretigers take 6 HP off Covenant Levies 1 and cut down the Cantor-Preceptor, but the Reprieve Miracle keeps him alive at 2 HP. The Knight-Apostles and the Archistrategos take 18 HP off a Wildling Acolyte squad." },
+      { "phase": "Cleanup", "text": "<b>Crusade Host 22, Herald's Army 20.</b>" }
+    ] },
+    "5": { "title": "Two missions catch the Crusade", "feed": [
+      { "phase": "Movement", "text": "The Mongrel Supplicants charge at (13,9). The Levies' Overwatch takes 4 HP off the Acolytes." },
+      { "phase": "Action", "text": "The Knight-Apostles destroy a Wildling Acolyte squad. The Weretigers destroy the Cantor-Preceptor for good. The Herald completes MAN OF THE HOUR (+4) and FORWARD PRESENCE (+3); the Crusade completes IRON GRIP (+2)." },
+      { "phase": "Cleanup", "text": "<b>Herald's Army 29, Crusade Host 28.</b>" }
+    ] },
+    "6": { "title": "The Herald crosses first", "feed": [
+      { "phase": "Command", "text": "Both sides requisition again; the Herald gives the new Acolytes Double Time." },
+      { "phase": "Action", "text": "The Knight-Apostles and the Archistrategos take 23 HP off a Wildling Acolyte squad. The Herald destroys a Covenant Levy squad and the Weretigers finish Covenant Levies 1, both in Objective Areas: STRATEGICAL DISRUPTION (+3). The Levies shoot the Weretigers for 5." },
+      { "phase": "Cleanup", "text": "The Herald adds IRON GRIP (+2) and crosses 30. <b>Herald's Army 36, Crusade Host 31.</b>" }
+    ] }
+  },
+  "analysis": { "title": "Analysis", "html": "<h3>Dead even</h3><p>The six battles split 3 to 3, on average 26.8 VP for the Herald to 26.7 for the Crusade. Every source was close: objectives 15.8 to 16.8 a battle, the Primary 4.7 to 4.0, the secondaries 6.3 to 5.8, and damage 76.3 to 78.0. Only the losses differ: the Crusade lost 88.2 RP a battle, the Church 45.3, because the Crusade keeps requisitioning cheap Covenant Levies (22 squads in six battles, 12 of them destroyed).</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>The Knight-Apostle Squad (35 RP) scored 6.4 VP a battle, 18.4 per 100 RP, and the Archistrategos who leads it (60 RP) 6.2; together they broke the Church's melee units in the featured battle one after another. For the Church, the Weretiger Stalkers (30 RP) scored 4.1 a battle and were never destroyed, the Herald (60 RP) 4.0, also never destroyed. The Crusade's guns did almost nothing: the St. Barbara Field Gun (25 RP) scored 0.1 VP a battle and was destroyed in 4 of 6, the Staurotheke War-Shrine (30 RP) 0.6.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the AI did with them</h3><ul><li><b>Blessing of Sacred Rabies works as intended now.</b> After this morning's change the AI cast it 3 times, each time on an enemy whose only neighbours were its own side: Knight-Apostles struck their own Archistrategos twice, Covenant Levies their own Cantor-Preceptor. The record lists those casts as buying nothing, but that is a gap in the record, not the AI: it does not yet credit a compelled attack's damage to the spell.</li><li><b>The Church hoards Mana.</b> Its casters cast 1 to 6 spells a battle, mostly Thicken the Hide (11 of 12 bought nothing) and Shed the Red Skin, and the army ended battles holding 9 to 35 Mana. The featured battle had one cast all game, and 33 Mana banked by Round 6. With Forest of Fangs and Rabies now priced by what they achieve, the Herald often has nothing it rates worth casting.</li><li><b>The Crusade's Miracles all paid off</b>: Fortitude 11 of 11, Providence 7 of 7, Exaltation 6 of 6, Reprieve 5 of 5, Benediction 6 of 6.</li><li>The Mongrel Supplicants were idle 3.3 Battle Rounds a battle and the War-Shrine 2.8.</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Three to three with the averages a tenth of a VP apart is as balanced as six battles can show. The differences are in how each army wins: the Crusade through its Knight-Apostles and Miracles, the Church through mobile melee and secondaries.</p>" },
+  "closing_title": "What to look at next",
+  "closing": "<p>Two things: the Church's banked Mana (a caster with 30 Mana and nothing it wants to cast is either short of good targets or pricing its spells too low), and the battle record's credit for compelled attacks, so Rabies shows what it does.</p>"
+}

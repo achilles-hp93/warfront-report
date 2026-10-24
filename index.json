@@ -655,6 +655,138 @@
   "note": "Fall Back review: Legion vs Host battles judged decision by decision."
  },
  {
+  "name": "finvarra-vs-rurik",
+  "armies": [
+   "Finvarra's Army",
+   "Rurik's Army"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T19:37:15.864Z",
+   "2026-10-24T19:48:03.113Z"
+  ],
+  "engine": "aff1bc01 Battle reports: the support record - what a unit did for its side",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    4,
+    2
+   ],
+   "armies": [
+    "Finvarra's Army",
+    "Rurik's Army"
+   ]
+  },
+  "page": {
+   "title": "Acropolis: Finvarra against Rurik",
+   "url": "https://claude.ai/artifact/VswQRsNzLNZ3YKGkQKFvcM"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Finvarra vs Rurik: 6-battle batch and the featured battle (seed 1134)."
+ },
+ {
+  "name": "genghis-vs-immortals",
+  "armies": [
+   "Genghis's Army",
+   "Flamebringer's Immortals"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T19:34:40.096Z",
+   "2026-10-24T19:47:55.232Z"
+  ],
+  "engine": "aff1bc01 Battle reports: the support record - what a unit did for its side",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    1,
+    5
+   ],
+   "armies": [
+    "Genghis's Army",
+    "Flamebringer's Immortals"
+   ]
+  },
+  "page": {
+   "title": "Acropolis: Genghis against the Immortals",
+   "url": "https://claude.ai/artifact/YRibV9rJKbJ9jF1s8HrazU"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Genghis vs the Flamebringer's Immortals: 6-battle batch and the featured battle (seed 1124); found the second-Vial waste."
+ },
+ {
+  "name": "herald-vs-crusade",
+  "armies": [
+   "Crusade Host",
+   "Herald's Army"
+  ],
+  "maps": [
+   "TWIN LAKES",
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T19:52:40.891Z",
+   "2026-10-24T20:02:15.017Z"
+  ],
+  "engine": "6730aa85 Melee: a picked group strikes with the weapon its models swing at this defender",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    3,
+    3
+   ],
+   "armies": [
+    "Herald's Army",
+    "Crusade Host"
+   ]
+  },
+  "page": {
+   "title": "Twin Lakes: the Crusade against the Herald",
+   "url": "https://claude.ai/artifact/LQCdd9b8RmyRo4Wdsjm2tT"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Herald vs the Crusade Host: 6-battle batch and the featured battle (seed 1143); split 3 to 3."
+ },
+ {
   "name": "host-vs-court",
   "armies": [
    "Spahbed's Host",
@@ -1216,6 +1348,50 @@
   "note": "Seed 802 replayed with the AI timing recorder: same result as its batch battle."
  },
  {
+  "name": "ramesses-vs-saladin",
+  "armies": [
+   "Ramesses's Army",
+   "Saladin's Army"
+  ],
+  "maps": [
+   "TRIPLE HILLS",
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T19:21:51.082Z",
+   "2026-10-24T19:33:15.171Z"
+  ],
+  "engine": "aff1bc01 Battle reports: the support record - what a unit did for its side",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    4,
+    2
+   ],
+   "armies": [
+    "Ramesses's Army",
+    "Saladin's Army"
+   ]
+  },
+  "page": {
+   "title": "Triple Hills: Ramesses against Saladin",
+   "url": "https://claude.ai/artifact/XQyArkwQzW7f2FoFKGwh7f"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Ramesses vs Saladin: 6-battle batch and the featured battle (seed 1112); found the melee-group bug (Ramesses swung in 1 of 12 attacks)."
+ },
+ {
   "name": "repro-700",
   "armies": [
    "Armoured Cohort",
@@ -1694,6 +1870,50 @@
    "report.json"
   ],
   "note": "The battle-report tool's first trial battle."
+ },
+ {
+  "name": "valkyrie-vs-taichou",
+  "armies": [
+   "Valkyrie's Army",
+   "Taichou's Army"
+  ],
+  "maps": [
+   "TRIPLE HILLS",
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T19:21:53.095Z",
+   "2026-10-24T19:31:22.602Z"
+  ],
+  "engine": "aff1bc01 Battle reports: the support record - what a unit did for its side",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    5,
+    1
+   ],
+   "armies": [
+    "Valkyrie's Army",
+    "Taichou's Army"
+   ]
+  },
+  "page": {
+   "title": "Triple Hills: the Valkyrie against the Taichou",
+   "url": "https://claude.ai/artifact/Tm5eRRRHiGsKkJSLhx3siy"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Valkyrie army (HOVER units) vs the Taichou: 6-battle batch and the featured battle (seed 1102). Played before the melee-group and Vial fixes."
  },
  {
   "name": "whispers-check",

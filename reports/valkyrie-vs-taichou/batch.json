@@ -1,0 +1,7450 @@
+{
+ "armies": [
+  {
+   "name": "Valkyrie's Army",
+   "faction": "runeforge_directorate",
+   "formation": "preset:valkyrie_army"
+  },
+  {
+   "name": "Taichou's Army",
+   "faction": "empire_of_nihon",
+   "formation": "preset:taichou_army"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1100,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 3,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    10
+   ],
+   "vpBySource": [
+    {
+     "objectives": 19,
+     "primary": 4,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 2,
+     "primary": 6,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    221,
+    193
+   ],
+   "lostRp": [
+    0,
+    77
+   ],
+   "lostUnits": [
+    0,
+    2
+   ],
+   "fieldedRp": [
+    221,
+    208
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    28,
+    4
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     7,
+     7
+    ],
+    [
+     2,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 7
+    },
+    {
+     "gained": 9,
+     "spent": 6
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 4
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    3,
+    3
+   ],
+   "missionsCompleted": [
+    3,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     }
+    ],
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": true,
+      "vp": 3.8,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 2.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 3.1,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 8.1,
+      "objectives": 3,
+      "primary": 2,
+      "missions": 3.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 3.8,
+      "objectives": 1.7,
+      "primary": 2,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 9.1,
+      "objectives": 9,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 9
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 2.4,
+      "objectives": 2,
+      "primary": 0.4,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Katashiro",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1101,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 3,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    5,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 5,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 16,
+     "primary": 6,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    193
+   ],
+   "lostRp": [
+    0,
+    0
+   ],
+   "lostUnits": [
+    0,
+    0
+   ],
+   "fieldedRp": [
+    221,
+    208
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    30,
+    16
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     2
+    ],
+    [
+     7,
+     4,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 8
+    },
+    {
+     "gained": 10,
+     "spent": 10
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    3,
+    3
+   ],
+   "missionsCompleted": [
+    0,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0,
+      "primary": 0.8,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 8.5,
+      "objectives": 4,
+      "primary": 0.8,
+      "missions": 3.7,
+      "pivotal": 4
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 0.8,
+      "primary": 0.4,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 6.1,
+      "objectives": 3.8,
+      "primary": 0.8,
+      "missions": 1.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 5.3,
+      "objectives": 3,
+      "primary": 0.8,
+      "missions": 1.5,
+      "pivotal": 4
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 5.3,
+      "objectives": 3,
+      "primary": 0.8,
+      "missions": 1.5,
+      "pivotal": 4
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.6,
+      "objectives": 0.8,
+      "primary": 0.8,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 0.8,
+      "primary": 0.8,
+      "missions": 0.5,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0.39,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.39
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 2
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Master Artificer",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.39
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1102,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    33,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 25,
+     "primary": 0,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 17,
+     "primary": 4,
+     "missions": 11,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    193
+   ],
+   "lostRp": [
+    52,
+    37
+   ],
+   "lostUnits": [
+    2,
+    2
+   ],
+   "fieldedRp": [
+    199,
+    223
+   ],
+   "arrivedUnits": [
+    0,
+    2
+   ],
+   "damage": [
+    61,
+    33
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     5,
+     4,
+     4,
+     5,
+     5
+    ],
+    [
+     5,
+     2,
+     3,
+     3,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 10
+    },
+    {
+     "gained": 20,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "RAISE THE STANDARD",
+     "vp": 0
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    4,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": false,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 3.8,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 6
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 8,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 8
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 10,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 8
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 6.8,
+      "objectives": 5.5,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 9
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 7.8,
+      "objectives": 2.5,
+      "primary": 2,
+      "missions": 3.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 7,
+      "objectives": 4,
+      "primary": 2,
+      "missions": 1,
+      "pivotal": 4
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 5,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0.37,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.37
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 3.24,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 3.24
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 3,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 3
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Runesmith",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 8,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Greed Manifestation",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 3.24,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 7.34,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Master Artificer",
+      "attacks": 6,
+      "added": 0,
+      "prevented": 0.37
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1103,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 7,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    26
+   ],
+   "vpBySource": [
+    {
+     "objectives": 20,
+     "primary": 0,
+     "missions": 11,
+     "other": 0
+    },
+    {
+     "objectives": 18,
+     "primary": 0,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    208
+   ],
+   "lostRp": [
+    52,
+    167
+   ],
+   "lostUnits": [
+    2,
+    6
+   ],
+   "fieldedRp": [
+    221,
+    238
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    130,
+    33
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     5,
+     0,
+     3,
+     5,
+     5,
+     0
+    ],
+    [
+     5,
+     2,
+     7,
+     2,
+     0,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 22,
+     "spent": 20
+    },
+    {
+     "gained": 21,
+     "spent": 21
+    }
+   ],
+   "primary": [
+    {
+     "name": "DECAPITATION STRIKE",
+     "vp": 0
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    4,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 7
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": false,
+      "vp": 3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 2.1,
+      "primary": 0,
+      "missions": 2.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0.6,
+      "objectives": 0.6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 2
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 4.6,
+      "objectives": 3.6,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 2.1,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 8.6,
+      "objectives": 3.6,
+      "primary": 0,
+      "missions": 5,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 4
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 6.8,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2.8,
+      "pivotal": 6
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 5.2,
+      "objectives": 3.5,
+      "primary": 0,
+      "missions": 1.7,
+      "pivotal": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": false,
+      "vp": 2.5,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 2.5,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 2
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.7,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1.7,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 4,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 3,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "added": 0,
+      "keptOff": 0.49,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.49
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 4,
+      "undone": 2,
+      "back": 2,
+      "objective": 0,
+      "squares": 6
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 6,
+      "undone": 3,
+      "back": 1,
+      "objective": 3,
+      "squares": 8
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 7,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 4,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 3.89,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Liquidate Assets",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Master Swordsman",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.49
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1104,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    30,
+    22
+   ],
+   "vpBySource": [
+    {
+     "objectives": 19,
+     "primary": 3,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 16,
+     "primary": 2,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    193
+   ],
+   "lostRp": [
+    59,
+    37
+   ],
+   "lostUnits": [
+    3,
+    2
+   ],
+   "fieldedRp": [
+    243,
+    208
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    47,
+    47
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     2,
+     0,
+     7,
+     5
+    ],
+    [
+     2,
+     5,
+     7,
+     0,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 16,
+     "spent": 15
+    },
+    {
+     "gained": 17,
+     "spent": 16
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 3
+    },
+    {
+     "name": "GARRISON DUTY",
+     "vp": 2
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 4.9,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.9,
+      "pivotal": 4
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": true,
+      "vp": 3.6,
+      "objectives": 2,
+      "primary": 1.5,
+      "missions": 0.1,
+      "pivotal": 2
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 6.6,
+      "objectives": 4,
+      "primary": 1.5,
+      "missions": 1.1,
+      "pivotal": 4
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 3.9,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.9,
+      "pivotal": 3
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 5.9,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 2.9,
+      "pivotal": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 5.3,
+      "objectives": 1.3,
+      "primary": 1,
+      "missions": 3,
+      "pivotal": 2
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 7,
+      "objectives": 6,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Runesmith",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 8,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 11.78,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1105,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    38,
+    15
+   ],
+   "vpBySource": [
+    {
+     "objectives": 27,
+     "primary": 3,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 8,
+     "primary": 0,
+     "missions": 7,
+     "other": 0
+    }
+   ],
+   "rp": [
+    199,
+    208
+   ],
+   "lostRp": [
+    44,
+    37
+   ],
+   "lostUnits": [
+    2,
+    2
+   ],
+   "fieldedRp": [
+    221,
+    223
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    58,
+    28
+   ],
+   "objectivesByRound": [
+    [
+     7,
+     4,
+     7,
+     4,
+     5
+    ],
+    [
+     0,
+     3,
+     0,
+     3,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 15
+    },
+    {
+     "gained": 15,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 3
+    },
+    {
+     "name": "WIDE SWEEP",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 1.7,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 3
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.7,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 3
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 13.9,
+      "objectives": 10,
+      "primary": 1.5,
+      "missions": 2.4,
+      "pivotal": 10
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 12.2,
+      "objectives": 9,
+      "primary": 1.5,
+      "missions": 1.7,
+      "pivotal": 11
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 5,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 1.6,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 1.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.5,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 1.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 2.25,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 3,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 2,
+      "back": 1,
+      "objective": 2,
+      "squares": 6
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "YATA NO KAGAMI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "YATA NO KAGAMI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Monoimi Fuda",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Liquidate Assets",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Monoimi Fuda",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

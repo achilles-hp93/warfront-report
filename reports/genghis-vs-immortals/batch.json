@@ -1,0 +1,8766 @@
+{
+ "armies": [
+  {
+   "name": "Genghis's Army",
+   "faction": "golden_khaganate",
+   "formation": "preset:genghis_army"
+  },
+  {
+   "name": "Flamebringer's Immortals",
+   "faction": "atashid_empire",
+   "formation": "preset:flamebringer_immortals"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1120,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    24,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 12,
+     "primary": 8,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 23,
+     "primary": 3,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    201,
+    199
+   ],
+   "lostRp": [
+    38,
+    64
+   ],
+   "lostUnits": [
+    3,
+    4
+   ],
+   "fieldedRp": [
+    221,
+    216
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    43,
+    81
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     2,
+     4,
+     2,
+     2
+    ],
+    [
+     5,
+     5,
+     3,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 15
+    },
+    {
+     "gained": 16,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "FORLORN HOPE",
+     "vp": 8
+    },
+    {
+     "name": "DECAPITATION STRIKE",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 4
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 4
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 8.1,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.1,
+      "pivotal": 6
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 6,
+      "objectives": 0,
+      "primary": 6,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "alive": true,
+      "vp": 7.5,
+      "objectives": 3.5,
+      "primary": 0,
+      "missions": 4,
+      "pivotal": 3
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 5.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.7,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 3.6,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 3
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 4.6,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 4
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "added": 1.34,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.34
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "added": 0.66,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.66
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "added": 0.54,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.54
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.12,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.12
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.1,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Stormrider",
+      "moves": 7,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 2
+     },
+     {
+      "type": "Stormrider",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.66,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.13,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.13,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.28,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Consecrate Ground",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Spears of the Great Khan",
+      "attacks": 2,
+      "added": 1.34,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 2,
+      "added": 0.22,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1121,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    7,
+    36
+   ],
+   "vpBySource": [
+    {
+     "objectives": 6,
+     "primary": 0,
+     "missions": 1,
+     "other": 0
+    },
+    {
+     "objectives": 29,
+     "primary": 0,
+     "missions": 7,
+     "other": 0
+    }
+   ],
+   "rp": [
+    201,
+    199
+   ],
+   "lostRp": [
+    163,
+    0
+   ],
+   "lostUnits": [
+    6,
+    0
+   ],
+   "fieldedRp": [
+    201,
+    216
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    14,
+    102
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     4,
+     0,
+     0,
+     0
+    ],
+    [
+     5,
+     3,
+     7,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 10
+    },
+    {
+     "gained": 16,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    },
+    {
+     "name": "WIDE SWEEP",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": false,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "alive": true,
+      "vp": 2.4,
+      "objectives": 2.4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 4.6,
+      "objectives": 4.4,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.6,
+      "objectives": 1.6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 3.9,
+      "objectives": 3.6,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 9.1,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 1.1,
+      "pivotal": 8
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 7,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 6
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 2.4,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "added": 0.22,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.22
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.36,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.36
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 8,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Judgement of the Sun",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Sunburst",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 5,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Ember of Atar",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 1,
+      "added": 0.36,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Spears of the Great Khan",
+      "attacks": 1,
+      "added": 0.22,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1122,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    20,
+    37
+   ],
+   "vpBySource": [
+    {
+     "objectives": 8,
+     "primary": 5,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 10,
+     "missions": 7,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    199
+   ],
+   "lostRp": [
+    121,
+    27
+   ],
+   "lostUnits": [
+    6,
+    2
+   ],
+   "fieldedRp": [
+    201,
+    250
+   ],
+   "arrivedUnits": [
+    1,
+    3
+   ],
+   "damage": [
+    28,
+    96
+   ],
+   "objectivesByRound": [
+    [
+     4,
+     4,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     3,
+     5,
+     5,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 18,
+     "spent": 17
+    },
+    {
+     "gained": 15,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "RECONNAISSANCE OPERATION",
+     "vp": 5
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    4,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 5.7,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 3.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": false,
+      "vp": 3.7,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "alive": true,
+      "vp": 3.8,
+      "objectives": 1.3,
+      "primary": 1.3,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 3.3,
+      "primary": 1.3,
+      "missions": 1.2,
+      "pivotal": 2
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.9,
+      "objectives": 0.8,
+      "primary": 1.1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 3.5,
+      "objectives": 2.8,
+      "primary": 0.4,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 8.2,
+      "objectives": 5.8,
+      "primary": 1.3,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 3,
+      "objectives": 1,
+      "primary": 1.3,
+      "missions": 0.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 2.9,
+      "objectives": 1.3,
+      "primary": 1.3,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 2.8,
+      "primary": 1.3,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 1,
+      "primary": 0.9,
+      "missions": 0.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0.1,
+      "objectives": 0,
+      "primary": 0.1,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.42,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.42
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0.86,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.86
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.33,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.33
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.86,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Ember of Atar",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 3,
+     "damage": 6,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blaze of Glory",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.06,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 2,
+      "added": 0.75,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1123,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    39,
+    27
+   ],
+   "vpBySource": [
+    {
+     "objectives": 26,
+     "primary": 0,
+     "missions": 13,
+     "other": 0
+    },
+    {
+     "objectives": 12,
+     "primary": 10,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    201,
+    199
+   ],
+   "lostRp": [
+    40,
+    84
+   ],
+   "lostUnits": [
+    3,
+    5
+   ],
+   "fieldedRp": [
+    221,
+    216
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    56,
+    111
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     3,
+     3,
+     5,
+     5,
+     7
+    ],
+    [
+     2,
+     2,
+     4,
+     2,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 20,
+     "spent": 19
+    },
+    {
+     "gained": 15,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    },
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    5,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 3.3,
+      "primary": 0,
+      "missions": 1.9,
+      "pivotal": 3
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": true,
+      "vp": 6,
+      "objectives": 3.6,
+      "primary": 0,
+      "missions": 2.4,
+      "pivotal": 3
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 6.6,
+      "objectives": 5.3,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": true,
+      "vp": 8.1,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.1,
+      "pivotal": 6
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 2.3,
+      "objectives": 2.2,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 5.1,
+      "objectives": 2.2,
+      "primary": 0,
+      "missions": 2.9,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.1,
+      "objectives": 2.7,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "alive": true,
+      "vp": 4,
+      "objectives": 3,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 6.7,
+      "objectives": 5,
+      "primary": 1,
+      "missions": 0.7,
+      "pivotal": 2
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": false,
+      "vp": 3.5,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "added": 0,
+      "keptOff": 0.6,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.6
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "added": 1,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "added": 0.33,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.33
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.1,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.1
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "added": 0.94,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.94
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "added": 2.33,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.33
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0.71,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 1,
+      "enabledExpected": 5,
+      "vp": 0,
+      "support": 5.71
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.33,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.71,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.6,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 5,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Judgement of the Sun",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.94,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Saoshyant Reckoning",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Measured Fire",
+      "attacks": 1,
+      "added": 2.33,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Spears of the Great Khan",
+      "attacks": 1,
+      "added": 1,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 1,
+      "added": 0.1,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1124,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    25,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 21,
+     "primary": 0,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 17,
+     "primary": 6,
+     "missions": 11,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    199
+   ],
+   "lostRp": [
+    123,
+    27
+   ],
+   "lostUnits": [
+    7,
+    2
+   ],
+   "fieldedRp": [
+    211,
+    233
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    29,
+    121
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     5,
+     2,
+     3,
+     3,
+     3
+    ],
+    [
+     0,
+     2,
+     5,
+     4,
+     2,
+     4
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 19,
+     "spent": 19
+    },
+    {
+     "gained": 20,
+     "spent": 19
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 0
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "PUSH FORWARD",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 9.7,
+      "objectives": 6.5,
+      "primary": 0,
+      "missions": 3.2,
+      "pivotal": 3
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": false,
+      "vp": 3.7,
+      "objectives": 3.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 4.2,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 4.2,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 4
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": false,
+      "vp": 3.2,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 7.8,
+      "objectives": 5,
+      "primary": 2,
+      "missions": 0.8,
+      "pivotal": 2
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 4.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": false,
+      "vp": 3.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 4,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "added": 1.15,
+      "keptOff": 0.17,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.32
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 2.05,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.05
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "added": 1.16,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.16
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "added": 1,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.1,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Stormrider",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Judgement of the Sun",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.17,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.83,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 2.05,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.33,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Sunburst",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 16.5,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blaze of Glory",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 2.89,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Sunburst",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Spears of the Great Khan",
+      "attacks": 1,
+      "added": 1.15,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 1,
+      "added": 0.1,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1125,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    15,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 11,
+     "primary": 1,
+     "missions": 3,
+     "other": 0
+    },
+    {
+     "objectives": 22,
+     "primary": 3,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    201,
+    199
+   ],
+   "lostRp": [
+    201,
+    10
+   ],
+   "lostUnits": [
+    8,
+    1
+   ],
+   "fieldedRp": [
+    211,
+    233
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    15,
+    127
+   ],
+   "objectivesByRound": [
+    [
+     7,
+     4,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     3,
+     5,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 11
+    },
+    {
+     "gained": 16,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 1
+    },
+    {
+     "name": "DECAPITATION STRIKE",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0.8,
+      "primary": 1,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": false,
+      "vp": 1,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": false,
+      "vp": 4.9,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.9,
+      "pivotal": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 1.2,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 1.2,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0.9,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "alive": true,
+      "vp": 2,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 2.6,
+      "primary": 0,
+      "missions": 2.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 1.9,
+      "objectives": 1.6,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "alive": true,
+      "vp": 5.6,
+      "objectives": 5.3,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 3
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.1,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 8.2,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.2,
+      "pivotal": 6
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 4.86,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 4.86
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "added": 0.07,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.07
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "added": 0.36,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.36
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "rp": 75,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Mobad",
+      "rp": 20,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "rp": 20,
+      "added": 4.86,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 4.86
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Ardashir - The Flamebringer",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Javidan Immortals",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Mobad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Adur Furnace Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Sagdid Hound-Keepers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldbearers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blaze of Glory",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.26,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.07,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 4.86,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Saoshyant Reckoning",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Consecrate Ground",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Alchemical Vial",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Consecrate Ground",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Measured Fire",
+      "attacks": 1,
+      "added": 4.86,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 1,
+      "added": 0.36,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  }
+ ]
+}

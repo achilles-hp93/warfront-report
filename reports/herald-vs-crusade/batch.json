@@ -1,0 +1,8088 @@
+{
+ "armies": [
+  {
+   "name": "Herald's Army",
+   "faction": "church_of_the_beast",
+   "formation": "preset:herald_army"
+  },
+  {
+   "name": "Crusade Host",
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:crusade_host"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1140,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 4,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    36,
+    8
+   ],
+   "vpBySource": [
+    {
+     "objectives": 22,
+     "primary": 5,
+     "missions": 9,
+     "other": 0
+    },
+    {
+     "objectives": 4,
+     "primary": 4,
+     "missions": 0,
+     "other": 0
+    }
+   ],
+   "rp": [
+    196,
+    199
+   ],
+   "lostRp": [
+    14,
+    74
+   ],
+   "lostUnits": [
+    1,
+    4
+   ],
+   "fieldedRp": [
+    211,
+    199
+   ],
+   "arrivedUnits": [
+    1,
+    0
+   ],
+   "damage": [
+    65,
+    42
+   ],
+   "objectivesByRound": [
+    [
+     7,
+     5,
+     5,
+     5
+    ],
+    [
+     0,
+     2,
+     0,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 9,
+     "spent": 8
+    },
+    {
+     "gained": 11,
+     "spent": 10
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 5
+    },
+    {
+     "name": "FORLORN HOPE",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    3,
+    0
+   ],
+   "missions": [
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ],
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": true,
+      "vp": 10.3,
+      "objectives": 9,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 9
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.6,
+      "objectives": 1.5,
+      "primary": 3,
+      "missions": 0.1,
+      "pivotal": 3
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": false,
+      "vp": 3.2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 2
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 1.5,
+      "primary": 1,
+      "missions": 0.1,
+      "pivotal": 3
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 10.5,
+      "objectives": 7,
+      "primary": 1,
+      "missions": 2.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": false,
+      "vp": 4,
+      "objectives": 0,
+      "primary": 4,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0.67,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.67
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 22.99,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 22.99
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "added": 2.01,
+      "keptOff": 0,
+      "healed": 1,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 3.01
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "added": 3.1,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 3.1
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "added": 0.25,
+      "keptOff": 0,
+      "healed": 2,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.25
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Judge of Supplicants",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0.1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.67,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Blessing of Sacred Rabies",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 10,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0.15,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Atavistic Rage",
+      "attacks": 3,
+      "added": 22.57,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Carrion Tide",
+      "attacks": 2,
+      "added": 2.43,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Bestial Reflex",
+      "attacks": 1,
+      "added": -0.03,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Crusade Eternal",
+      "attacks": 9,
+      "added": 3.1,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1141,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    22,
+    33
+   ],
+   "vpBySource": [
+    {
+     "objectives": 22,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 3,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    196,
+    199
+   ],
+   "lostRp": [
+    30,
+    40
+   ],
+   "lostUnits": [
+    1,
+    2
+   ],
+   "fieldedRp": [
+    196,
+    219
+   ],
+   "arrivedUnits": [
+    0,
+    2
+   ],
+   "damage": [
+    85,
+    62
+   ],
+   "objectivesByRound": [
+    [
+     7,
+     5,
+     4,
+     2,
+     2,
+     2
+    ],
+    [
+     0,
+     2,
+     3,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 11
+    },
+    {
+     "gained": 20,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 0
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    6
+   ],
+   "missionsCompleted": [
+    0,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 6,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 8,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 8
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 11.3,
+      "objectives": 5.5,
+      "primary": 3,
+      "missions": 2.8,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 5.5,
+      "primary": 0,
+      "missions": 2.8,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "alive": true,
+      "vp": 6.3,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 4
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 4,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "added": 1.1,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.1
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "added": 8.69,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 8.69
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 32.26,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 32.26
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "added": 0.71,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.71
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 1,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "added": 2.77,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.77
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "added": 0.61,
+      "keptOff": 0,
+      "healed": 2,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.61
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Judge of Supplicants",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0.28,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shed the Red Skin",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Shed the Red Skin",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shed the Red Skin",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Howl of Carnage",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0.33,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Crusade Eternal",
+      "attacks": 6,
+      "added": 2.77,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Atavistic Rage",
+      "attacks": 7,
+      "added": 31.76,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Carrion Tide",
+      "attacks": 3,
+      "added": 8.69,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Rip and Tear",
+      "attacks": 2,
+      "added": 2.21,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Locust of Primal Fury",
+      "attacks": 1,
+      "added": 0.1,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1142,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    17,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 11,
+     "primary": 5,
+     "missions": 1,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 3,
+     "missions": 11,
+     "other": 0
+    }
+   ],
+   "rp": [
+    196,
+    209
+   ],
+   "lostRp": [
+    92,
+    104
+   ],
+   "lostUnits": [
+    4,
+    5
+   ],
+   "fieldedRp": [
+    196,
+    219
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    66,
+    75
+   ],
+   "objectivesByRound": [
+    [
+     4,
+     5,
+     2,
+     0,
+     0
+    ],
+    [
+     3,
+     2,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 11
+    },
+    {
+     "gained": 16,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 5
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": false,
+      "vp": 5.5,
+      "objectives": 4,
+      "primary": 1.5,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": false,
+      "vp": 0.2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 1.1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 1,
+      "primary": 3.5,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": false,
+      "vp": 3.1,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 2
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": false,
+      "vp": 1.2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 9.8,
+      "objectives": 1.5,
+      "primary": 3,
+      "missions": 5.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 7.3,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": false,
+      "vp": 3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 7,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 7
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "added": 1.15,
+      "keptOff": 0.22,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.37
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "added": 8.95,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 8.95
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "added": 0.57,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.57
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 1,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "added": 2.07,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.07
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "added": 8.01,
+      "keptOff": 0,
+      "healed": 2,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 10.01
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0.22,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 8.01,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Judge of Supplicants",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Atavistic Rage",
+      "attacks": 3,
+      "added": 9.52,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Locust of Primal Fury",
+      "attacks": 1,
+      "added": 1.15,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Bestial Reflex",
+      "attacks": 3,
+      "added": -5.55,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Crusade Eternal",
+      "attacks": 5,
+      "added": 2.07,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1143,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    36,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 19,
+     "primary": 6,
+     "missions": 11,
+     "other": 0
+    },
+    {
+     "objectives": 15,
+     "primary": 10,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    196,
+    199
+   ],
+   "lostRp": [
+    92,
+    74
+   ],
+   "lostUnits": [
+    4,
+    4
+   ],
+   "fieldedRp": [
+    226,
+    229
+   ],
+   "arrivedUnits": [
+    2,
+    3
+   ],
+   "damage": [
+    63,
+    129
+   ],
+   "objectivesByRound": [
+    [
+     7,
+     4,
+     2,
+     2,
+     2,
+     2
+    ],
+    [
+     0,
+     3,
+     3,
+     3,
+     3,
+     3
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 16,
+     "spent": 12
+    },
+    {
+     "gained": 18,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 6
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    4,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 11.3,
+      "objectives": 9,
+      "primary": 1,
+      "missions": 1.3,
+      "pivotal": 8
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": false,
+      "vp": 3.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 7.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": false,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 3,
+      "primary": 1.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 3,
+      "primary": 1.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 16.7,
+      "objectives": 9,
+      "primary": 1.7,
+      "missions": 6,
+      "pivotal": 6
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.7,
+      "objectives": 0,
+      "primary": 1.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": false,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "added": 1.67,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.67
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "added": 4.87,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 4.87
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 3.98,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 3.98
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "added": 5.67,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 5.67
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "added": 0.49,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.49
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 2.91,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.91
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "added": 0.02,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.02
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "added": 14.17,
+      "keptOff": 0,
+      "healed": 2,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 16.17
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Blessing of Sacred Rabies",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 10,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 14.17,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Crusade Eternal",
+      "attacks": 1,
+      "added": 0.02,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Atavistic Rage",
+      "attacks": 6,
+      "added": 13.56,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Carrion Tide",
+      "attacks": 3,
+      "added": 4.3,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Rip and Tear",
+      "attacks": 1,
+      "added": 1.73,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1144,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    23
+   ],
+   "vpBySource": [
+    {
+     "objectives": 12,
+     "primary": 10,
+     "missions": 9,
+     "other": 0
+    },
+    {
+     "objectives": 19,
+     "primary": 0,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    196,
+    199
+   ],
+   "lostRp": [
+    0,
+    209
+   ],
+   "lostUnits": [
+    0,
+    8
+   ],
+   "fieldedRp": [
+    196,
+    219
+   ],
+   "arrivedUnits": [
+    0,
+    2
+   ],
+   "damage": [
+    109,
+    37
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     0,
+     2,
+     3,
+     5
+    ],
+    [
+     5,
+     5,
+     5,
+     4,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 10
+    },
+    {
+     "gained": 15,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 10
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    4,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": true,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 0,
+      "primary": 1.5,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 2.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 2,
+      "primary": 1,
+      "missions": 1.8,
+      "pivotal": 2
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 7.3,
+      "objectives": 6,
+      "primary": 1,
+      "missions": 0.3,
+      "pivotal": 6
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": false,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "alive": false,
+      "vp": 6,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 5,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 2
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "added": 1.9,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.9
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 28.52,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 28.52
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "added": 7.71,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 7.71
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "added": 1.83,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.83
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "added": 2.7,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2.7
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "added": 8.28,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 8.28
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 2,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 4,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 4,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Blessing of Sacred Rabies",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 10,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Shed the Red Skin",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Atavistic Rage",
+      "attacks": 10,
+      "added": 34.61,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Carrion Tide",
+      "attacks": 3,
+      "added": 6.8,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Locust of Primal Fury",
+      "attacks": 2,
+      "added": 1.25,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Bestial Reflex",
+      "attacks": 1,
+      "added": -0.19,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Crusade Eternal",
+      "attacks": 10,
+      "added": 8.28,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 1145,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    19,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 9,
+     "primary": 2,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 23,
+     "primary": 4,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    196,
+    199
+   ],
+   "lostRp": [
+    44,
+    28
+   ],
+   "lostUnits": [
+    3,
+    2
+   ],
+   "fieldedRp": [
+    226,
+    209
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    70,
+    123
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     0,
+     0,
+     0,
+     0,
+     4
+    ],
+    [
+     2,
+     5,
+     5,
+     5,
+     3,
+     3
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 14
+    },
+    {
+     "gained": 19,
+     "spent": 19
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 2
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    4,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "alive": true,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "alive": true,
+      "vp": 1.4,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": false,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "alive": false,
+      "vp": 4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 3
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "alive": true,
+      "vp": 2.4,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "alive": true,
+      "vp": 2.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": true,
+      "vp": 2.4,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 2
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 5.3,
+      "primary": 2,
+      "missions": 1,
+      "pivotal": 6
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 13.3,
+      "objectives": 8.3,
+      "primary": 2,
+      "missions": 3,
+      "pivotal": 9
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "alive": false,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 6,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 4
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 19.62,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 19.62
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "rp": 14,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "rp": 30,
+      "added": 4.17,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 4.17
+     },
+     {
+      "type": "Beast-Monk",
+      "rp": 17,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 1,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "rp": 30,
+      "added": 0,
+      "keptOff": 1.25,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.25
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "rp": 15,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "added": 0,
+      "keptOff": 0.58,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0.58
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 18,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "added": 1.05,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 1.05
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "added": 10.7,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 10.7
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "added": 0,
+      "keptOff": 0,
+      "healed": 0,
+      "enabled": 0,
+      "enabledExpected": 0,
+      "vp": 0,
+      "support": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Herald of Feral Affliction",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Assault Lycanthropes",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Mongrel Supplicants",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Weretiger Stalkers",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Beast-Monk",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Marrowstring Centaur",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Wildling Acolytes",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.58,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Judge of Supplicants",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.25,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 10.7,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Thicken the Hide",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shed the Red Skin",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Crusade Eternal",
+      "attacks": 3,
+      "added": 1.05,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Atavistic Rage",
+      "attacks": 2,
+      "added": 17.36,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Carrion Tide",
+      "attacks": 2,
+      "added": 6.43,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Bestial Reflex",
+      "attacks": 5,
+      "added": -5,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}
