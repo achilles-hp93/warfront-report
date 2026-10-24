@@ -1,0 +1,73 @@
+{
+  "title": "Triple Hills: Genghis against Rurik",
+  "armies": [
+    { "name": "Genghis's Army", "faction": "Baljuna Khaganate" },
+    { "name": "Rurik's Army", "faction": "Principality of Novgorod" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "The first battles for the Baljuna Khaganate and the Principality of Novgorod: Genghis Khan's riders against Rurik the Deathless and his levies, on Triple Hills. The closest of six battles: Rurik's Army took every objective in Round 1, Genghis's Army took them all back in Round 2, and the Khaganate reached the 30 VP Victory Target at the end of Round 6, 31 to 29. Over the six battles the Khaganate won 5 to 1, on average 32.2 VP to 20.0.",
+  "result_line": "Genghis's Army wins on Victory Points, 31 to 29",
+  "deployment": "<p>Rurik's Army lines the north edge: the Winter Witch on the left (3,2), the Rynda Guard (4,2), Rurik the Deathless leading Veche Levy 1 (5,2), Veche Levy 2 (9,2) and the Firelance Druzhina on the right (11,2). It fights with The Bell's Muster; the AI picked the doctrine, since the army names none. Genghis's Army takes the south: Genghis Khan with his Khesig Guards (4,14) and Stormrider 2 (5,14) on the left, the Nerge Outriders (3,14) wide, the Tamga-Bound Troops forward in the centre (9,12), and the Black Shaman leading Stormrider 1 on the right (11,14).</p><p>Triple Hills has three objectives on the middle row: the centre (7,7) for 3 VP, the west (1,7) and the east (13,7) for 2 each. Rurik's Army has Priority and moves first. Every Khaganate unit but the Tamga-Bound is MOUNTED with a MOVE of 4; Novgorod's line walks at 2 or 3.</p>",
+  "rounds": {
+    "1": {
+      "title": "Novgorod gets there first",
+      "feed": [
+        { "phase": "Command", "text": "Both sides buy Double Time. Rurik's goes on Veche Levy 1 and buys nothing (the move was in reach without it); Genghis's puts the Tamga-Bound Troops a move further than they could have gone. Missions: SECURE THE FLANKS for the Khaganate, COORDINATED PUSH for Novgorod." },
+        { "phase": "Movement", "text": "Moving first, Rurik's Army takes all three objectives: Rurik and Veche Levy 1 the centre (6,6), the Winter Witch the west (2,6), the Firelance Druzhina and Veche Levy 2 the east (12,6) and (12,5). The Khaganate comes up short of them: the Tamga-Bound reach (8,6), the riders stop on rows 9 and 10." },
+        { "phase": "Action", "text": "No attack is in reach for anyone. The Nerge Outriders use Spot &amp; Mark on the Firelance Druzhina (MARKED)." },
+        { "phase": "Cleanup", "text": "Novgorod holds all three objectives. <b>Rurik's Army 7, Genghis's Army 0.</b>" }
+      ]
+    },
+    "2": {
+      "title": "The horde takes the line back",
+      "feed": [
+        { "phase": "Command", "text": "Genghis's Army spends Double Time and a Scouting Order on the Tamga-Bound; Rurik's Double Time on the Rynda Guard buys nothing. Missions: IRON CURTAIN for the Khaganate, INTO THE FRAY for Novgorod." },
+        { "phase": "Movement", "text": "Rurik and Veche Levy 1 charge from the centre (INTO THE FRAY, +2 VP), and the Firelance Druzhina charge on the east. Genghis Khan and the Khesig Guards charge straight onto the centre objective (7,7), Stormrider 1 and the Black Shaman ride to the east one (12,8), and the Nerge Outriders slip onto the west (1,8). Veche Levy 2 walks across Overwatch and loses 6 HP to Stormrider 1 and the Tamga-Bound; the Tamga-Bound break away from the fight in disorder (3 True Damage). The Rynda Guard's charge fails." },
+        { "phase": "Action", "text": "Rurik attacks Genghis Khan, and the Khaganate strikes first: the Khesig Guards' counterattack takes 2 HP off Veche Levy 1 and leaves both it and Rurik PARALYZED; Veche Levy 1's own attack takes 1 off the Khesig. On the east, Stormrider 1 loses 6 HP fighting the Firelance Druzhina and takes 2 off them." },
+        { "phase": "Cleanup", "text": "The Khaganate holds all three objectives. <b>Genghis's Army 7, Rurik's Army 9.</b>" }
+      ]
+    },
+    "3": {
+      "title": "Genghis carves up the Levy",
+      "feed": [
+        { "phase": "Command", "text": "Neither side spends CP. IRON CURTAIN completes for the Khaganate (no unit of theirs destroyed: +2 VP, +1 CP); SECURE THE FLANKS expires." },
+        { "phase": "Movement", "text": "Veche Levy 2 charges into the centre. The Nerge Outriders charge the Winter Witch, who falls back off the west objective to (0,5). The Rynda Guard walk away from the east objective they were heading for." },
+        { "phase": "Action", "text": "Genghis Khan takes 8 HP off Veche Levy 1, half the squad; the Firelance Druzhina take 6 off Stormrider 1, and the Tamga-Bound shoot 3 off the Druzhina." },
+        { "phase": "Cleanup", "text": "The Khaganate holds the centre and the west, Novgorod the east. <b>Genghis's Army 14, Rurik's Army 11.</b>" }
+      ]
+    },
+    "4": {
+      "title": "Both sides call up reserves",
+      "feed": [
+        { "phase": "Command", "text": "Each side requisitions a fresh line squad: new Tamga-Bound Troops for the Khaganate (9,12), a new Veche Levy for Novgorod (5,2). Novgorod tolls for the fallen (2 HP back on Veche Levy 2); the Khaganate's Secure Objective on the Nerge Outriders flips nothing." },
+        { "phase": "Movement", "text": "The Rynda Guard finally charge, onto the west objective, and the Nerge Outriders fall back from it. The new Tamga-Bound charge the east objective and the Firelance Druzhina break away to the edge (14,7). Stormrider 2 charges into the centre." },
+        { "phase": "Action", "text": "Rurik takes 4 HP off the Khesig Guards. The Winter Witch's Hail of Heaven hits the Tamga-Bound on the east objective for 4 and leaves them CHILLED. Stormrider 2 takes 6 off Veche Levy 1. The Black Shaman casts Chant of the Kindling on Genghis Khan (+1 Hunger)." },
+        { "phase": "Cleanup", "text": "The Khaganate holds the centre and the east, Novgorod the west. <b>Genghis's Army 19, Rurik's Army 13.</b>" }
+      ]
+    },
+    "5": {
+      "title": "Rurik kills the Khan's guard and takes the centre",
+      "feed": [
+        { "phase": "Command", "text": "Both sides spend a Rally Cry to pass a Morale Test. The Khaganate keeps KING OF THE HILL; Novgorod TAKE UP THE GAUNTLET and DEEP REACH." },
+        { "phase": "Movement", "text": "Veche Levy 2 and the requisitioned Veche Levy both charge into the centre; the Rynda Guard's second charge fails." },
+        { "phase": "Action", "text": "Rurik the Deathless destroys the Khesig Guards, and Genghis Khan destroys what is left of Veche Levy 1: KING OF THE HILL (+3) and his Primary, DEBT OF BLOOD (+3: Veche Levy 1 was the marked unit)." },
+        { "phase": "Cleanup", "text": "Novgorod takes the centre back and holds the west; the Khaganate keeps the east. Novgorod completes TAKE UP THE GAUNTLET and DEEP REACH (+6). <b>Genghis's Army 27, Rurik's Army 24.</b>" }
+      ]
+    },
+    "6": {
+      "title": "Three points short",
+      "feed": [
+        { "phase": "Command", "text": "The Khaganate requisitions another Tamga-Bound and gives it Double Time, but its charge fails. Novgorod tolls for the fallen again (3 HP on Veche Levy 2). Missions: IRON GRIP for the Khaganate, ASSASSINATION for Novgorod." },
+        { "phase": "Movement", "text": "Genghis Khan joins Stormrider 2 and charges with it. The Nerge Outriders break away from a fight and lose a model." },
+        { "phase": "Action", "text": "Rurik takes 2 HP off Stormrider 2; the Tamga-Bound shoot 2 off the new Veche Levy." },
+        { "phase": "Cleanup", "text": "Novgorod holds the centre and the west (+5); the Khaganate the east and IRON GRIP, 7 OC on one objective (+4). <b>Genghis's Army 31, Rurik's Army 29:</b> the Khaganate reaches the 30 VP Victory Target." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Analysis",
+    "html": "<h3>Speed takes the objectives</h3><p>Genghis's Army won 5 of the 6 battles, on average 32.2 VP to 20.0. The gap is objectives: 22.3 VP a battle against 11.7. Primaries (3.0 to 2.2) and secondaries (6.8 to 6.2) were close. It was not a mismatch in the fighting: the Khaganate dealt 50.5 damage a battle and took 47.8, and lost 24.3 RP to Novgorod's 30.0. Its only loss was on Crossroads (seed 1011, 22 to 37), where Novgorod drew IMPENETRABLE FORTRESS and scored 8 from it.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Cheap riders, expensive heroes</h3><p>The Stormriders (20 RP, five MOUNTED models with OC 1) were the Khaganate's best scorers: 4.9 VP a copy, 24.7 per 100 RP, and 50 objective VP that hinged on them. The Tamga-Bound Troops (10 RP) scored 3.0 a copy, 30.1 per 100 RP; the AI requisitioned 11 more over the batch. The two Marshals cost 70 RP each: Genghis Khan scored 5.0 VP a battle (7.2 per 100 RP), Rurik the Deathless 2.8 (4.0 per 100 RP, the lowest of either army). Neither was ever destroyed.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>Novgorod's heavy infantry stood still</h3><p>The Rynda Guard (35 RP, MOVE 2) spent 2.8 Battle Rounds a battle with APt to spend and nothing in reach, the Firelance Druzhina 2.7. In the featured battle the Rynda Guard were idle all six rounds, failed two charges and walked away from the objective they had set out for in Round 3. Against an army that moves 4 and charges first, a MOVE 2 squad reaches the fight late. Whether that is the unit's cost or the AI's use of it, this batch cannot tell; in the featured battle every one of its idle rounds reads \"no legal action\", so the AI was not holding it back on purpose.</p>{{chart:batch-unit-inaction}}<h3>Commands and spells</h3><ul><li><b>Chant of the Kindling</b> (Black Shaman, +1 Hunger on a friendly unit): cast 14 times for 28 Mana, and the commands-and-abilities record lists every cast as buying nothing. The record does not see a change to a unit resource like Hunger, so read that as not measured, not as worthless. Hunger resets when a unit attacks, so a Chant on a unit that attacks every round, as Genghis Khan did, is worth one round's Hunger tier.</li><li><b>Countercharge</b> (Khaganate): 5 uses, 15 CP, none of them recorded as buying anything.</li><li><b>Double Time</b> (Novgorod): 13 uses, 9 of them on a move that was in reach anyway.</li><li><b>Toll for the Fallen</b> (Novgorod): 7 uses, 16 HP healed.</li><li><b>Hail of Heaven</b> (Winter Witch): 3 casts, 6 damage.</li></ul><h3>How sure</h3><p>Six battles is a small sample. Five wins to one, and an objective gap that held on every map, point to the speed gap being real. The size of the VP margin should not be read as precise.</p>"
+  },
+  "closing_title": "What to look at next",
+  "closing": "<p>Two things this report cannot settle: what Chant of the Kindling is worth (the record does not price a Hunger change), and whether the Rynda Guard's idle rounds are the unit's MOVE 2 or the AI's use of it. A batch with the Rynda Guard replaced by a faster squad would separate the two.</p>"
+}

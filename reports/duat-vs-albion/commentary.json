@@ -1,0 +1,73 @@
+{
+  "title": "Crossroads: Finvarra against Ramesses",
+  "armies": [
+    { "name": "Finvarra's Army", "faction": "Grand Duchy of Albion" },
+    { "name": "Ramesses's Army", "faction": "Duat Dominion" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "The first battles for the Grand Duchy of Albion and the Duat Dominion: High King Finvarra's Sidhe against Ramesses, the Eternal Pharaoh and his dead, on Crossroads. The closest of six: Albion led 25 to 13 after four rounds, then the Akhguard broke into the centre, killed Finvarra's bodyguard, and the Duat held all three objectives for the last two rounds to win 35 to 29. Ramesses's Army won all six battles, on average 32.7 VP to 14.7, while taking more damage than it dealt.",
+  "result_line": "Ramesses's Army wins on Victory Points, 35 to 29",
+  "deployment": "<p>Finvarra's Army deploys on the south edge: High King Finvarra leading Sidhe Wardens 1 (3,12), Sidhe Wardens 2 beside them (5,12), the Sidhe Druid leading the Briton Yeomen (4,12), the Wild Hunt Riders in the centre (9,12) and the Blackflint Archers on the right (11,12). It fights with the Wild Hunt doctrine. Ramesses's Army takes the north: the Akhguard (3,2) and the Canopic Priest (4,2) on the left, the two Skeletal Archer squads and the Tomb Fusiliers in the middle, the two Skeletal Spearman squads on the right, and Ramesses himself behind them (9,1). It fights with the Rite of the Unending.</p><p>Crossroads has three objectives across the middle row: the centre (7,7) for 3 VP, the west (1,7) and the east (13,7) for 2. Finvarra's Army has Priority. Both armies picked their doctrine through the AI; the presets name none.</p>",
+  "rounds": {
+    "1": {
+      "title": "The Sidhe take the centre",
+      "feed": [
+        { "phase": "Command", "text": "Both sides spend Double Time, and neither buys a move it could not have made. Albion's Fae Flow of Magic rolls Stone. Missions: TAKE UP THE GAUNTLET for Albion, SECURE THE FLANKS for the Duat." },
+        { "phase": "Movement", "text": "Albion advances into the centre: the Briton Yeomen and the Druid to (8,8), Finvarra and Sidhe Wardens 1 to (6,8), Sidhe Wardens 2 to (6,7). The Duat's line advances two or three squares behind its skeletons; Ramesses strides to the east (12,6)." },
+        { "phase": "Action", "text": "The only attack of the round: the Blackflint Archers put 5 HP into Ramesses." },
+        { "phase": "Cleanup", "text": "Albion holds the centre and completes TAKE UP THE GAUNTLET (+3). <b>Finvarra's Army 6, Ramesses's Army 0.</b>" }
+      ]
+    },
+    "2": {
+      "title": "The Akhguard reach the line",
+      "feed": [
+        { "phase": "Command", "text": "Relentless Pursuit gives the Wild Hunt Riders a move they could not have made. Grave Return puts 4 HP back on Ramesses, and Double Time carries the Tomb Fusiliers into reach. Missions: IRON GRIP for Albion, TAKE UP THE GAUNTLET for the Duat." },
+        { "phase": "Movement", "text": "The Yeomen and Finvarra's Wardens charge into the centre. Skeletal Spearman 1 crosses the Sidhe Wardens' and the Riders' Overwatch and loses 6 HP. The Akhguard charge into Finvarra's line at (6,5), Ramesses charges the Blackflint Archers on the east, and the Canopic Priest slips onto the west objective (0,6)." },
+        { "phase": "Action", "text": "Finvarra strikes at the Akhguard; Sidhe Wardens 1, his bodyguard, lose 4 HP in the exchange. Skeletal Spearman 2 attacks the Druid's squad: the Yeomen lose 2 HP, the skeletons 6. Ramesses lands nothing on the Archers." },
+        { "phase": "Cleanup", "text": "Albion keeps the centre, completes IRON GRIP (+2) and scores STRATEGICAL DISRUPTION (+2); the Canopic Priest holds the west for the Duat. <b>Finvarra's Army 13, Ramesses's Army 2.</b>" }
+      ]
+    },
+    "3": {
+      "title": "The first Sidhe squad falls",
+      "feed": [
+        { "phase": "Command", "text": "Finvarra rallies Sidhe Wardens 1 through a Morale Test. A Scouting Order lets Skeletal Spearman 2 spot the Wild Hunt Riders, whom nothing else saw." },
+        { "phase": "Movement", "text": "Units on both sides break away from fights in disorder, Sidhe Wardens 2 among them, and lose HP doing it. The Wild Hunt Riders charge onto the centre objective (8,7). Ramesses takes the east objective (13,8)." },
+        { "phase": "Action", "text": "Skeletal Archer 1 destroys Sidhe Wardens 2. The Canopic Priest casts Endless Procession and raises a fresh Skeletal Spearman squad at (0,6), on the west objective." },
+        { "phase": "Cleanup", "text": "Albion keeps the centre (+3), completes STRONGPOINT (+1) and scores its Primary (+2); the Duat holds the west and the east (+4). <b>Finvarra's Army 19, Ramesses's Army 6.</b>" }
+      ]
+    },
+    "4": {
+      "title": "Albion kills, Ramesses walks to its HQ",
+      "feed": [
+        { "phase": "Command", "text": "Dark Harvest gives the Wild Hunt Riders SUSTAINED ATTACK 1. Missions: IRON CURTAIN for Albion, KING OF THE HILL for the Duat." },
+        { "phase": "Movement", "text": "The Tomb Fusiliers charge into the centre (8,6). Ramesses leaves the east objective and walks south to (9,11), within 3 squares of Albion's HQ." },
+        { "phase": "Action", "text": "The Wild Hunt Riders, Sidhe Wardens 1 and Finvarra destroy the Tomb Fusiliers between them; the Blackflint Archers destroy Skeletal Spearman 1. The Druid casts Feth Fiada and hides the Riders." },
+        { "phase": "Cleanup", "text": "Ramesses completes FORWARD PRESENCE (+3). Albion keeps the centre and scores its Primary (+3); the Duat keeps the west and the east. <b>Finvarra's Army 25, Ramesses's Army 13.</b>" }
+      ]
+    },
+    "5": {
+      "title": "The Akhguard break the centre",
+      "feed": [
+        { "phase": "Command", "text": "Albion completes IRON CURTAIN (+2). The Duat's Scouting Order lets Skeletal Archer 2 spot the Blackflint Archers, and Double Time puts Skeletal Archer 1 in range of the Riders." },
+        { "phase": "Movement", "text": "The Akhguard charge onto the centre objective (6,6), and Ramesses comes back up behind them (6,8)." },
+        { "phase": "Action", "text": "Finvarra takes 3 HP off the Akhguard, but his bodyguard, Sidhe Wardens 1, is destroyed in the fight. That completes KING OF THE HILL (+3), and Sidhe Wardens 1 was the unit DEBT OF BLOOD marked (+3). Skeletal Archer 1 takes 6 HP off the Wild Hunt Riders. Ramesses casts Voice of the Duat on Finvarra for 3." },
+        { "phase": "Cleanup", "text": "The Duat holds all three objectives (+7). <b>Finvarra's Army 27, Ramesses's Army 26.</b>" }
+      ]
+    },
+    "6": {
+      "title": "The dead hold every objective",
+      "feed": [
+        { "phase": "Command", "text": "Albion requisitions a fresh Briton Yeomen squad, which arrives too far back to matter. The Canopic Priest raises another Skeletal Spearman squad on the west." },
+        { "phase": "Movement", "text": "The Briton Yeomen and the Druid charge the skeletons on the west objective (2,6)." },
+        { "phase": "Action", "text": "Finvarra takes 3 more HP off the Akhguard, and they burn for 4; the Yeomen take 4 off a Skeletal Spearman squad. The objectives stay held." },
+        { "phase": "Cleanup", "text": "The Duat holds all three objectives (+7) and completes IRON GRIP (+2); Albion scores its Primary (+2). <b>Ramesses's Army 35, Finvarra's Army 29.</b>" }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Analysis",
+    "html": "<h3>Albion wins the fights, the Duat wins the board</h3><p>Ramesses's Army won all six battles, on average 32.7 VP to 14.7. Albion dealt more damage (61.8 a battle against 35.5) and the Duat lost more RP (42.7 a battle against 31.0). The score went the other way on every source: objectives 20.5 to 8.0, Primary 5.0 to 3.2, secondaries 7.2 to 3.5.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Cheap bodies on every objective</h3><p>Skeletal Spearmen cost 8 RP for ten models. The Duat fielded 30 squads of them over the six battles: two in each army list, and the rest raised by the Canopic Priest's Endless Procession and by Troop Requisition. They scored 2.0 VP a squad, 24.7 per 100 RP, and 26 objective VP hinged on them. The Akhguard (35 RP, five models, REGENERATION 3+) were the best unit on the field: 7.9 VP a battle, alive at the end of all six. Ramesses scored 6.1 a battle (8.2 per 100 RP) and was never destroyed.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>Albion's expensive pieces scored little</h3><p>High King Finvarra (70 RP) scored 1.3 VP a battle, 1.9 per 100 RP, and no objective VP ever hinged on him. The Wild Hunt Riders (25 RP) scored 0.5 a battle and the Sidhe Druid 0.4. The Sidhe Wardens were destroyed in 8 of 12 copies. Albion's best scorers per copy were the Blackflint Archers (3.1 VP) and the Sidhe Wardens (2.2).</p>{{chart:batch-losses}}<h3>Commands and spells</h3><ul><li><b>Fae Flow of Magic</b>: the record lists the table's 28 rolls (Stone, Surge, Earth, Tree, Water) as changing nothing it measures. A table entry works as a condition on Albion's rules, not as a modifier placed on a unit, so this may be a gap in the record rather than a sign the table did nothing; it was not checked.</li><li><b>Feth Fiada</b> (HIDDEN on a friendly unit): 8 casts, 13 Mana, none of them recorded as keeping an attack off the unit.</li><li><b>Scouting Order</b> (Albion): 9 uses, 8 of them spotting nobody new.</li><li><b>Endless Procession</b> (Canopic Priest): 13 casts, 33 Mana. The record counts 11 as buying nothing because the raised squad made no attack; it does not count the objectives those squads stood on.</li><li><b>Voice of the Duat</b> (Ramesses): 7 casts, 16 damage. <b>Grave Return</b>: 3 uses, 8 HP healed.</li></ul><h3>How sure</h3><p>Six wins from six, on all four maps, is a clear result for this pair of lists. The batch cannot say how much of it is Albion's list (a 70-RP Marshal scoring little, few bodies for the objectives) and how much the AI's play.</p>"
+  },
+  "closing_title": "What to look at next",
+  "closing": "<p>Three questions: whether the Fae Flow of Magic rolls really change nothing or the record misses them; whether Endless Procession should be valued for the objectives its squads hold, not only their attacks; and whether High King Finvarra, at 70 RP and 1.9 VP per 100 RP, is costed for what the AI does with him.</p>"
+}

@@ -8,6 +8,8 @@ const PAGES = {
   'cohort-vs-crusade-2': ['Acropolis Rematch: Cohort vs Crusade, with casters', '1D9Yk8jjKveLWpccTh9UBc'],
   'fallback-legion': ['Fall Back Review', 'C9Jdu9KfNknjEyNnqTX9YN'], 'fallback-cohort': ['Fall Back Review', 'C9Jdu9KfNknjEyNnqTX9YN'],
   'host-vs-court': ['Crossroads: Spahbed\'s Host vs the Veiled Court', 'LzvebqZr6fybPXGpciUvwd'],
+  'khaganate-vs-novgorod': ['Triple Hills: Genghis against Rurik', 'NXrh2W2mka4DH6CXmZdcDy'],
+  'duat-vs-albion': ['Crossroads: Finvarra against Ramesses', 'RLynL31c6nu6aXkuKnkyfc'],
   'host-vs-court-fix': ['WARFRONT AI Performance', 'NUodFsFrhCaAN4Rx3w38ku'], 'cohort-vs-procession-fix': ['WARFRONT AI Performance', 'NUodFsFrhCaAN4Rx3w38ku'],
 };
 const NOTES = {
@@ -28,6 +30,8 @@ const NOTES = {
   'perf-smoke': 'Seed 802 replayed with the AI timing recorder: same result as its batch battle.',
   'repro-700': 'Seed 700 replayed to check a battle repeats.', 'charge-check': 'One battle to check a charge fix.',
   'whispers-check': 'Seed 811 replayed to check the Whispers of Forbidden Pleasure pricing.',
+  'khaganate-vs-novgorod': 'First battles of the Baljuna Khaganate and the Principality of Novgorod (new presets): 6-battle batch and the featured battle (seed 1012).',
+  'duat-vs-albion': 'First battles of the Duat Dominion and the Grand Duchy of Albion (new presets): 6-battle batch and the featured battle (seed 1001).',
   'survival-hvc-before': 'Host vs Court, seeds 960-965, before survival-weighted objectives (the baseline).',
   'survival-hvc-fullsum': 'Same seeds with the first cut of survival-weighted objectives: every enemy counted in full on every unit (replaced).',
   'survival-hvc-shared': 'Same seeds with survival-weighted objectives as committed: each enemy\'s attack shared among the units it can reach.',

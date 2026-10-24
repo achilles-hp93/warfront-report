@@ -440,6 +440,50 @@
   "note": "Same seeds after the first step-back rule and artillery fire support."
  },
  {
+  "name": "duat-vs-albion",
+  "armies": [
+   "Finvarra's Army",
+   "Ramesses's Army"
+  ],
+  "maps": [
+   "CROSSROADS",
+   "ACROPOLIS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T08:04:29.243Z",
+   "2026-10-24T08:18:16.504Z"
+  ],
+  "engine": "38f86f78 AI: an objective is worth as often as the unit lives to score it",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    6,
+    0
+   ],
+   "armies": [
+    "Ramesses's Army",
+    "Finvarra's Army"
+   ]
+  },
+  "page": {
+   "title": "Crossroads: Finvarra against Ramesses",
+   "url": "https://claude.ai/artifact/RLynL31c6nu6aXkuKnkyfc"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "First battles of the Duat Dominion and the Grand Duchy of Albion (new presets): 6-battle batch and the featured battle (seed 1001)."
+ },
+ {
   "name": "fallback-cohort",
   "armies": [
    "Armoured Cohort",
@@ -611,6 +655,50 @@
    "games"
   ],
   "note": "Same seeds (800-811) after the three fixes of 2026-10-24."
+ },
+ {
+  "name": "khaganate-vs-novgorod",
+  "armies": [
+   "Genghis's Army",
+   "Rurik's Army"
+  ],
+  "maps": [
+   "TRIPLE HILLS",
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T08:04:25.761Z",
+   "2026-10-24T08:15:49.966Z"
+  ],
+  "engine": "38f86f78 AI: an objective is worth as often as the unit lives to score it",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    5,
+    1
+   ],
+   "armies": [
+    "Genghis's Army",
+    "Rurik's Army"
+   ]
+  },
+  "page": {
+   "title": "Triple Hills: Genghis against Rurik",
+   "url": "https://claude.ai/artifact/NXrh2W2mka4DH6CXmZdcDy"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "First battles of the Baljuna Khaganate and the Principality of Novgorod (new presets): 6-battle batch and the featured battle (seed 1012)."
  },
  {
   "name": "legion-vs-host",
