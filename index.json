@@ -1248,6 +1248,50 @@
   "note": "Seed 700 replayed to check a battle repeats."
  },
  {
+  "name": "runeforge-vs-league",
+  "armies": [
+   "Hakon's Army",
+   "Heron's Army"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-24T08:37:09.302Z",
+   "2026-10-24T08:44:11.176Z"
+  ],
+  "engine": "38f86f78 AI: an objective is worth as often as the unit lives to score it",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    5,
+    1
+   ],
+   "armies": [
+    "Hakon's Army",
+    "Heron's Army"
+   ]
+  },
+  "page": {
+   "title": "Acropolis: Hakon against Heron",
+   "url": "https://claude.ai/artifact/BaqM4RyoPmPY6qPS8AfA15"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "First battles of the Runeforge Directorate and the Panhellenic League (new presets): 6-battle batch and the featured battle (seed 1044)."
+ },
+ {
   "name": "smoke-live",
   "armies": [
    "Armoured Cohort",

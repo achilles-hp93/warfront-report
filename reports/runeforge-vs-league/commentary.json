@@ -1,0 +1,64 @@
+{
+  "title": "Acropolis: Hakon against Heron",
+  "armies": [
+    { "name": "Hakon's Army", "faction": "Runeforge Directorate" },
+    { "name": "Heron's Army", "faction": "Panhellenic League" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "The first battles for the Runeforge Directorate and the Panhellenic League: Hakon the High Jarl's corporaiders and Einherjar against Heron of Alexandria's hoplites and machines, on the Acropolis. The closest of six: the League led 18 to 14 after three rounds, then Odin's Einherjar killed Heron and his bodyguard in a single fight, and the Directorate held every objective in Round 5 to win 32 to 28. Hakon's Army won 5 of the 6 battles, 29.2 VP to 20.3 on average, and lost 35.5 RP a battle to the League's 85.8.",
+  "result_line": "Hakon's Army wins on Victory Points, 32 to 28",
+  "deployment": "<p>Hakon's Army lines the south edge: Hakon leading Corporaider Squad 1 (3,12), Odin's Einherjar (4,12) and the Berserkir (5,12) on the left, Corporaider Squad 2 (9,12) and the Runesmith (10,12) on the right. It fights with The Gilded Ledger. Heron's Army takes the north: the Argyraspides (3,2) and League Hoplite 2 (5,2) on the left, the Asklepian Medic (9,2) and the Heliostat Battery (9,1) in the middle, Heron leading League Hoplite 1 (11,2) and the Hephaestian Tripod (11,1) on the right. It fights with the Apollonian Strike Force. The AI picked both doctrines.</p><p>The Acropolis has three objectives across the middle row: the centre (7,7) for 3 VP, the west (1,7) and the east (13,7) for 2. Hakon's Army has Priority.</p>",
+  "rounds": {
+    "1": {
+      "title": "The flanks and the centre split",
+      "feed": [
+        { "phase": "Command", "text": "The League casts its Omen Dice (Delphic Apotropaia). Both sides spend Double Time and neither buys a move it could not have made. Missions: IRON CURTAIN for the Directorate, FORWARD PRESENCE for the League." },
+        { "phase": "Movement", "text": "Hakon, Corporaider Squad 1 and the Einherjar take the west objective; the Runesmith runs to the east one (12,7). Heron and League Hoplite 1 take the centre (8,6); the Argyraspides come down the west edge (0,6) and the Asklepian Medic toward the east (10,7)." },
+        { "phase": "Action", "text": "Nothing is in reach." },
+        { "phase": "Cleanup", "text": "The Directorate holds the flanks, the League the centre. <b>Hakon's Army 4, Heron's Army 3.</b>" }
+      ]
+    },
+    "2": {
+      "title": "Rune of Thor, and a Runesmith lost",
+      "feed": [
+        { "phase": "Command", "text": "Hostile Takeover on the Runesmith (+1 loot for each kill); the record cannot price a loot, so it shows as buying nothing. Missions: MAN OF THE HOUR for the Directorate, TERRITORIAL SUPERIORITY for the League." },
+        { "phase": "Movement", "text": "The Asklepian Medic charges the Runesmith on the east objective. The Runesmith breaks away in disorder and is shot dead by League Hoplite 1's Overwatch. The Berserkir charge League Hoplite 2; Hakon's squad pulls back to the west edge (0,8)." },
+        { "phase": "Action", "text": "The Berserkir take 6 HP off League Hoplite 2 for 2. Hakon reads the Rune of Thor over the Argyraspides: 6 HP, -1 MS and BS, and PARALYZED." },
+        { "phase": "Cleanup", "text": "The Directorate completes IRON CURTAIN and holds the west; the League holds the centre and the east, scores STRATEGICAL DISRUPTION and completes TERRITORIAL SUPERIORITY. <b>Heron's Army 14, Hakon's Army 8.</b>" }
+      ]
+    },
+    "3": {
+      "title": "The Directorate takes the centre",
+      "feed": [
+        { "phase": "Command", "text": "A Scouting Order lets the Berserkir spot the Hephaestian Tripod, which nothing else saw. Missions: STRONGPOINT for the Directorate, KING OF THE HILL for the League." },
+        { "phase": "Movement", "text": "The Einherjar, the Berserkir and Corporaider Squad 2 all charge into the centre. League Hoplite 2 is destroyed breaking away in disorder; Heron and League Hoplite 1 pull back off the objective to (8,5)." },
+        { "phase": "Action", "text": "The Argyraspides shoot 2 HP off the Berserkir, who use Alchemical Overdrive and lose a model when Feel No Pain fails." },
+        { "phase": "Cleanup", "text": "The Directorate holds the centre and the west and completes STRONGPOINT; the League holds the east and scores its Primary. <b>Heron's Army 18, Hakon's Army 14.</b>" }
+      ]
+    },
+    "4": {
+      "title": "The Einherjar kill Heron",
+      "feed": [
+        { "phase": "Command", "text": "A Scouting Order lets the Argyraspides spot the Einherjar. Missions: COORDINATED PUSH for the Directorate, IRON CURTAIN for the League." },
+        { "phase": "Movement", "text": "Odin's Einherjar charge Heron of Alexandria and League Hoplite 1 (8,6)." },
+        { "phase": "Action", "text": "The Einherjar destroy Heron and his bodyguard in one fight: MAN OF THE HOUR (+4). The Heliostat Battery takes 4 HP off the Einherjar and the Tripod 2; the Argyraspides put 4 into Corporaider Squad 1, which goes to ground." },
+        { "phase": "Cleanup", "text": "The Directorate holds the centre and the west; the League the east and its Primary. <b>Hakon's Army 23, Heron's Army 23.</b>" }
+      ]
+    },
+    "5": {
+      "title": "Every objective",
+      "feed": [
+        { "phase": "Command", "text": "The Directorate requisitions a fresh Corporaider Squad; Double Time on Corporaider Squad 2 buys nothing." },
+        { "phase": "Movement", "text": "The Einherjar charge onto the east objective (13,8); Corporaider Squad 2 charges the Hephaestian Tripod in the centre. The new squad comes up behind (12,8)." },
+        { "phase": "Action", "text": "The Argyraspides destroy Corporaider Squad 1 on the west objective (KING OF THE HILL, +3). Corporaider Squad 2 destroys the Tripod. The Asklepian Medic attacks the Einherjar and is destroyed. The Heliostat Battery's Blinding Flash on Corporaider Squad 2 changes nothing." },
+        { "phase": "Cleanup", "text": "The Directorate holds all three objectives and completes COORDINATED PUSH (+9); the League scores its Primary. <b>Hakon's Army 32, Heron's Army 28.</b>" }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Analysis",
+    "html": "<h3>The Directorate wins, and keeps its units</h3><p>Hakon's Army won 5 of the 6 battles, on average 29.2 VP to 20.3. It dealt more damage (41.0 a battle against 28.0) and lost far less: 35.5 RP a battle against the League's 85.8. The gap shows in objectives (18.3 to 11.5) and secondaries (7.2 to 5.5); Primaries were even (3.7 to 3.3). The League's only win was on the Acropolis (seed 1040, 34 to 13). Battles were short, 4.7 Battle Rounds on average.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>The Corporaider Squads (22 RP) carried the Directorate: 4.7 VP a squad, 21.4 per 100 RP, and 50 objective VP hinged on them. Hakon scored 4.7 a battle (7.2 per 100 RP) and the Runesmith 3.7 (24.3 per 100 RP). Odin's Einherjar scored 3.2 and were never destroyed. The Berserkir (30 RP) scored 0.7 a battle, and no objective VP ever hinged on them.</p><p>For the League, the Argyraspides (38 RP) scored 6.3 a battle and the Asklepian Medic (13 RP) 4.5, 34.6 per 100 RP, though it was destroyed in 4 of 6. Heron of Alexandria (55 RP) scored 1.1 a battle, 2.0 per 100 RP, and was destroyed in 3 of 6. The Hephaestian Tripod (20 RP) and the Heliostat Battery (30 RP) scored nothing at all in six battles.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}{{chart:batch-losses}}<h3>Commands and abilities</h3><ul><li><b>Rune of Thor</b> (Hakon): 11 uses, 35 damage, and PARALYZED on the target: the most effective ability of the matchup.</li><li><b>Hostile Takeover</b> (Directorate, +1 loot a kill): 7 uses, 8 CP, recorded as buying nothing. The record does not see the loot it adds, so this is not measured.</li><li><b>Blinding Flash</b> (Heliostat Battery, -1 to the target's HIT rolls): 8 uses, none recorded as changing an attack.</li><li><b>Name the Omen</b> (League): 3 uses, 6 CP, recorded as buying nothing.</li><li><b>Double Time</b>: 15 uses by the Directorate (12 bought nothing), 13 by the League (9 bought nothing).</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Five wins of six with a 2-to-1 gap in losses is a clear result for these lists. The League's two machines scoring nothing in six battles is the sharpest single finding; whether that is their cost or the AI's use of them needs a closer look.</p>"
+  },
+  "closing_title": "What to look at next",
+  "closing": "<p>The Hephaestian Tripod and the Heliostat Battery (50 RP between them) scored nothing in six battles, and Blinding Flash changed nothing in 8 uses. The Berserkir scored 0.7 a battle for 30 RP. These are the units to look at first, for cost or for how the AI plays them.</p>"
+}
