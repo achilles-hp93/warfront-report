@@ -1,0 +1,249 @@
+{
+  "title": "Acropolis Rematch: Cohort vs Crusade, with casters",
+  "armies": [
+    {
+      "name": "Armoured Cohort",
+      "faction": "Iron Imperium"
+    },
+    {
+      "name": "Crusade Host",
+      "faction": "Covenant of New Jerusalem"
+    }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "The rematch, both armies now with a caster. The Armoured Cohort trades its Speculatores for an Augur carrying the Spellbook: Dies Irae; the Crusade Host trades its Hospitallers and a block of Levies for a Cantor-Preceptor, who leads the other Levies with a Vial of Jordan Water. Both lists 199 RP. Played live, round by round: the Host won it 32 to 15. Six more battles of the same matchup went 4 to 2 the other way. This report also records what every unit did with its APt.",
+  "deployment": "<p>The Cohort deploys as before along the south edge: the Centurion with Legionnaire Squad 1 on the left, the Equites, Sappers and Legionnaire Squad 3 in the middle, the Chiron and Legionnaire Squad 2, now led by the Augur, on the right. The Host lines the north edge with the Archistrategos and his Knight-Apostles on its right flank (3,2), the War-Shrine beside them, Levies 2 in the centre, and the Cantor-Preceptor with Levies 1 on its left, the Field Gun behind on the back row.</p><p>Both players drew and kept the same Primary, <b>STRATEGICAL DISRUPTION</b>. The Host has the Priority in Round 1.</p>",
+  "rounds": {
+    "1": {
+      "title": "One shot fired, a flank each",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Cohort keeps LAST STAND and spends 1 CP on a Scouting Order for Legionnaire Squad 1. The Host keeps ASSASSINATION and banks its 3 CP. The Cantor's COMMAND 1 now adds to the Host's income."
+        },
+        {
+          "phase": "Movement",
+          "text": "Everything Advances. The Archistrategos and his Knight-Apostles race down the Host's right to (2,6), on the west objective, and the Equites arrive beside them at (2,8). On the other flank the Chiron Battle Tank takes the east objective at (12,8), with Legionnaire Squad 3 and Legionnaire Squad 2 (with the Augur) behind it. Nobody steps onto the 3 VP centre."
+        },
+        {
+          "phase": "Action",
+          "text": "One attack in the whole round: the Knight-Apostles shoot the Equites for 3 HP. <b>Every other unit on both sides spent the round only moving, and scores an idle round</b>: no APt spent. The new activity record is built for exactly this."
+        },
+        {
+          "phase": "Scoring",
+          "text": "2 VP each. The west objective is the Host's and hinges on the Knight-Apostles; the east is the Cohort's and hinges on the Chiron. <b>2–2.</b>"
+        }
+      ]
+    },
+    "2": {
+      "title": "The Knight-Apostles strike first again",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host spends 5 CP on its new Cantor-Preceptor: Double Time and Secure Objective. The Cohort spends 3: Double Time for the Augur and a Scouting Order for the Equites. New cards: COMMAND AUTHORITY for the Cohort, SECURE THE FLANKS for the Host."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Cantor and Levies 1 march onto the east objective (12,7), straight into the Cohort's right wing. On the west, Legionnaire Squad 1 and the Centurion close on the Knight-Apostles at (1,8); the Centurion, idle last round, fires an Overwatch shot that misses. The Equites Fall Back in disorder and lose a model. Levies 2 Fall Back too."
+        },
+        {
+          "phase": "Action",
+          "text": "The Knight-Apostles charge Legionnaire Squad 1 and destroy all five, taking 4 HP back; the Archistrategos cuts 4 HP from the Centurion. On the east, the Cohort piles into Levies 1: Legionnaire Squads 3 and 2 take 8 each, and the Chiron rams the Cantor for 2. The Augur casts <i>Sacrificium</i>. Only the Sappers, the Field Gun and the War-Shrine spent no APt."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The west hinges on the Archistrategos and the Knight-Apostles; the east on Legionnaire Squad 3. The Host's STRATEGICAL DISRUPTION scores 3: 1 for destroying Legionnaire Squad 1 on an objective (the Knight-Apostles') and 2 because the Cohort's own copy of the card scored nothing (no unit decides that). <b>4–7.</b>"
+        }
+      ]
+    },
+    "3": {
+      "title": "The Cohort's right wing breaks",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Cohort spends 2 CP on Double Time for the wounded Centurion; its COMMAND AUTHORITY card expires. The Host spends 4: Secure Objective for the War-Shrine and a Scouting Order for the Archistrategos. New cards: IRON CURTAIN for the Cohort, IRON GRIP for the Host."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Cohort's right wing comes apart. Legionnaire Squads 2 and 3 and the Chiron all Fall Back from Levies 1, the two squads in disorder, losing a model each. The Chiron backs off all the way to (9,11), leaving the east objective to Levies 1 and the Cantor. Two Overwatch shots cross the middle: the Field Gun at the Sappers, the Sappers at the War-Shrine. Both miss."
+        },
+        {
+          "phase": "Action",
+          "text": "The Centurion charges the Archistrategos alone and is cut down by the counterattack: ASSASSINATION for the Host (+4, the Archistrategos'). Levies 2 shoot the weakened Legionnaire Squad 3 to pieces. <b>Both casters cast</b>: the Augur puts <i>Aegis Imperialis</i> on Legionnaire Squad 2, the Cantor <i>Agnus Dei</i> on Levies 2 (6 Mana). The Equites, Levies 1 and the War-Shrine spend no APt."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Host takes both flanks: the west hinges on the Archistrategos and his Knight-Apostles, the east is shared by the Levies and the Cantor. STRATEGICAL DISRUPTION scores 3 again and IRON GRIP 2. The Cohort scores nothing. <b>4–20.</b>"
+        }
+      ]
+    },
+    "4": {
+      "title": "Firefight on the east, the Chiron's 6 damage buys 2",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host requisitions a fresh block of Covenant Levies (3 CP) and Scouts Levies 2. The Cohort spends nothing; three cards expire unscored (its LAST STAND and IRON CURTAIN, the Host's SECURE THE FLANKS). New: MAN OF THE HOUR for the Cohort, FORWARD PRESENCE for the Host."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Chiron comes back up to (12,10); the Sappers slip north to (6,3), behind the Host's line. Levies 1 and the Cantor move off the east objective onto the board edge at (14,8). The War-Shrine Falls Back in disorder (2 HP)."
+        },
+        {
+          "phase": "Action",
+          "text": "Legionnaire Squad 2 shoots the requisitioned Levies for 12 HP. The Chiron's battlecannon (DMG 6) hits Levies 2 and removes <b>2 HP: one 2 HP model</b>, the rest of the shot wasted. This is the matchup problem in one line. The Knight-Apostles and the Archistrategos cut 5 HP from the Equites; the Field Gun hits the Sappers for 3. The casters keep casting: <i>Aegis Imperialis</i> on the Sappers, <i>Kyrie</i> on Levies 1."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Host keeps only the west objective (Knight-Apostles). The Cohort finally scores: STRATEGICAL DISRUPTION 3, for a SUPPRESSED Host unit on an objective and the Host's own copy scoring nothing. No unit's presence decides either part, so the scoring record leaves those 3 VP unassigned. <b>7–22.</b>"
+        }
+      ]
+    },
+    "5": {
+      "title": "The Augur loses his bodyguard",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host spends 3 CP: Double Time for Levies 2, a Scouting Order for Levies 1. The Cohort Scouts the Chiron. New cards: KING OF THE HILL for the Cohort, TAKE UP THE GAUNTLET for the Host."
+        },
+        {
+          "phase": "Movement",
+          "text": "Levies 2 double-time onto the east objective (14,6). The Chiron returns to (12,8) beside it. The Knight-Apostles Fall Back in disorder, losing a model (3 HP), but stay on the west objective at (2,7). Legionnaire Squad 2 and the Augur push to the centre (6,5)."
+        },
+        {
+          "phase": "Action",
+          "text": "Levies 2 shoot Legionnaire Squad 2 to destruction; the Augur stands alone. The Chiron's battlecannon hits Levies 2 again for <b>2 HP</b>. The Field Gun misses the Augur, the Sappers miss the Archistrategos, the Archistrategos calls <i>Quis ut Deus?</i>, and both casters cast again: <i>Kyrie</i> on Levies 2, <i>Sacrificium</i> from the Augur."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Host holds both flanks: the west hinges on the Archistrategos and his Knight-Apostles, the east on Levies 2. The Cohort's STRATEGICAL DISRUPTION scores 3 again, none of it any unit's. <b>10–26.</b>"
+        }
+      ]
+    },
+    "6": {
+      "title": "The Augur takes the centre, too late: 15 to 32",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Cohort Scouts the Chiron again. The Host spends 2 CP on a RALLY CRY reaction for the Knight-Apostles. New cards: OMNIPRESENCE for the Cohort (with four units left), COMMAND AUTHORITY for the Host."
+        },
+        {
+          "phase": "Movement",
+          "text": "The lone Augur walks onto the centre objective at (7,7), the first time anyone has stood there this battle. The Sappers raid the Host's back line at (8,1). A requisitioned Levies block fails its charge and does not move."
+        },
+        {
+          "phase": "Action",
+          "text": "The Sappers hit the Field Gun for 4. The Archistrategos and his Knight-Apostles cut the Equites down by 8 HP, and the Equites Fall Back. The Chiron's cannon hits Levies 2 for 2 HP, the same as every other round. The Augur casts <i>Aegis Imperialis</i> on himself; the Cantor <i>Kyrie</i> on Levies 2. Levies 1, the Field Gun, the War-Shrine and the new Levies spend no APt."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Augur holds the centre alone: 3 VP, hinged on him. The Host keeps both flanks, and both STRATEGICAL DISRUPTION cards score 2. The battle ends: <b>Crusade Host 32, Armoured Cohort 15</b>."
+        }
+      ]
+    }
+  },
+  "result_line": "Crusade Host wins 32–15 in Battle Round 6",
+  "charts": [
+    {
+      "id": "unit-damage",
+      "type": "rank",
+      "title": "Damage dealt per battle, by unit type",
+      "sub": "Each copy, averaged over the 6 batch battles",
+      "decimals": 1,
+      "rows": [
+        {
+          "label": "Knight-Apostle Squad",
+          "sub": "Crusade Host · 35 RP",
+          "side": 1,
+          "value": 15.7
+        },
+        {
+          "label": "Equites Igniferi",
+          "sub": "Armoured Cohort · 25 RP",
+          "side": 0,
+          "value": 10
+        },
+        {
+          "label": "Centurion",
+          "sub": "Armoured Cohort · 22 RP",
+          "side": 0,
+          "value": 7.3
+        },
+        {
+          "label": "Legionnaire Squad",
+          "sub": "Armoured Cohort · 20 RP",
+          "side": 0,
+          "value": 7
+        },
+        {
+          "label": "Malleus Sappers",
+          "sub": "Armoured Cohort · 25 RP",
+          "side": 0,
+          "value": 4
+        },
+        {
+          "label": "St. Barbara Field Gun",
+          "sub": "Crusade Host · 25 RP",
+          "side": 1,
+          "value": 3.8
+        },
+        {
+          "label": "Chiron Battle Tank",
+          "sub": "Armoured Cohort · 40 RP",
+          "side": 0,
+          "value": 3.2
+        },
+        {
+          "label": "Archistrategos",
+          "sub": "Crusade Host · 60 RP",
+          "side": 1,
+          "value": 2.3
+        },
+        {
+          "label": "Covenant Levies",
+          "sub": "Crusade Host · 18 RP",
+          "side": 1,
+          "value": 2.1
+        },
+        {
+          "label": "Cantor-Preceptor",
+          "sub": "Crusade Host · 21 RP",
+          "side": 1,
+          "value": 0.2
+        }
+      ]
+    },
+    {
+      "id": "chiron-targets",
+      "type": "rank",
+      "title": "What the Chiron’s attacks did, by target",
+      "sub": "HP removed per attack, all 16 attacks over the 6 batch battles",
+      "decimals": 1,
+      "rows": [
+        {
+          "label": "Covenant Levies",
+          "sub": "9 attacks, 12 HP: 2-HP models, a hit wastes 4 of its 6 DMG",
+          "side": 0,
+          "value": 1.3
+        },
+        {
+          "label": "Archistrategos and Knight-Apostles",
+          "sub": "4 attacks, 4 HP: 4-HP models, 5+ invulnerable",
+          "side": 0,
+          "value": 1
+        },
+        {
+          "label": "War-Shrine, Field Gun, HQ",
+          "sub": "3 attacks, 0 HP: the War-Shrine, its one big target, was shot at once",
+          "side": 0,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "closing_title": "The day and the matchup",
+  "closing": "<p>On the Acropolis the Host won it with its fighters: the Archistrategos and his Knight-Apostles held the objectives the Cohort could not take back, 10 objective VP hinged on the squad alone. Across six more battles, though, the Cohort won four, on objectives (17.3 to 9.3 a battle), with its Equites and Legionnaires standing on them. The open questions: the Chiron’s gun, the Archistrategos’s unspent APt, and what the Sappers are for.</p>",
+  "analysis": {
+    "title": "Analysis: casters, the Chiron, and wasted APt",
+    "html": "\n<p class=\"callout\">With a caster on each side, <b>the Armoured Cohort won four of six</b> (28.0 VP to 22.2 on average), after losing five of six without them. Objectives decided it: 17.3 VP a battle to 9.3. The Host dealt 32.0 damage a battle, down from 50.8, and lost 45.5 RP a battle instead of 20.8. The live battle, a Host win, was one of its good days.</p>\n{{batch}}\n{{chart:batch-vp}}\n{{chart:batch-sources}}\n\n<h3>1. What the casters did</h3>\n<p>The <b>Cantor-Preceptor</b> cast 2.0 times a battle: <i>Kyrie</i> and <i>Agnus Dei</i>, 7 of its 12 casts on the Knight-Apostles. The Host now spends 8.0 of the 23.5 Mana it gains a battle; before, it spent none. It scored 2.8 VP a battle (13.5 per 100 RP), mostly on objectives with the Levies it leads.</p>\n<p>The <b>Augur</b> cast 2.7 times a battle, but half of those (8 of 16) were <i>Sacrificium</i>, which only turns Pietas into Mana. The rest: <i>Aegis Imperialis</i> (+1 to saves) six times on Legionnaires and Sappers, <i>Iudicium</i> twice on the Knight-Apostles. The Cohort spends 1.7 of the 12.2 it gains. At 1.2 VP a battle (4.4 per 100 RP) the Augur is the Cohort’s weakest scorer.</p>\n<p>A caveat: the lists changed in more than the casters. The Host also gave up a block of Levies and the Hospitallers, the Cohort its Speculatores. Six battles cannot separate those. The biggest single change is the Knight-Apostle Squad: 5.5 VP a battle, down from 11.2, and 15.7 damage, down from 24.7. With one Levies block fewer, the Host also has less to stand on objectives with.</p>\n\n<h3>2. Who scored</h3>\n<p>The <b>Knight-Apostle Squad</b> is still the Host’s best scorer (5.5 VP, 15.7 per 100 RP) and was never destroyed in six battles. For the Cohort it is the <b>Equites Igniferi</b>: 5.3 VP a battle, 4.5 objective VP hinged on them, never destroyed. The Legionnaires bring 3.0 VP a copy. The <b>Chiron</b> scored 4.5 VP a battle (0.9 in the last batch), with 3.0 hinged on it: it held objectives this time.</p>\n{{chart:batch-unit-vp}}\n{{chart:batch-unit-vp-rp}}\n{{chart:batch-unit-pivotal}}\n\n<h3>3. The Chiron: the matchup, or its gun?</h3>\n<p>Both, but mostly the gun. The battlecannon is FR 1, DMG 6, AP 3 at BS 4: one roll a round, a hit half the time. In six battles the Chiron made 16 attacks and 10 did no damage.</p>\n<ul>\n<li><b>The matchup:</b> this Crusade Host has almost nothing a 6-damage shot is for. Against Levies (2-HP models) a hit removes one model and wastes 4 of its 6 damage. Against the Archistrategos and his Knight-Apostles (4-HP models with a 5+ invulnerable save) about one shot in three gets through. The War-Shrine, the one 8-HP target, was shot at once, and the shot missed.</li>\n<li><b>The gun:</b> even against a large single target, one 50% roll a round averages 3 damage before saves. The St. Barbara Field Gun carries the same profile (FR 1, DMG 6, AP 3, SIEGE, at range 12) for 25 RP and dealt 3.8 a battle; the Chiron dealt 3.2. The Chiron’s extra 15 RP buys toughness (destroyed once in six) and its pintle repeater, not damage.</li>\n</ul>\n<p>This batch the Chiron earned its VP by standing on objectives, not by shooting.</p>\n{{chart:chiron-targets}}\n{{chart:unit-damage}}\n\n<h3>4. Wasted APt: the activity record</h3>\n<p>Each unit has 1 APt a Battle Round. A round it spends none scores +1 inaction; an Overwatch shot the next turn takes 0.25 back. Moving costs Movement Points, not APt, so a unit that moves and then does nothing counts as idle. Only a Fall Back or an Embark shows as a movement action, which is why that bar is almost empty.</p>\n<ul>\n<li><b>Round 1 is approach, not waste:</b> 89 of the 90 unit-rounds were idle, because the armies start out of reach.</li>\n<li><b>Staurotheke War-Shrine:</b> idle in 19 of its rounds after Round 1, moving in every one. Its value is its two auras (SUSTAINED ATTACK 2 and +1 MORALE within 3 squares), which need no APt. Its BS 6 levy rifle never fired in six battles.</li>\n<li><b>Archistrategos:</b> idle in 15 rounds after Round 1 while his Knight-Apostles acted. The joined pair has two APt; the AI often spends only the squad’s. This is an AI problem worth fixing: a 60 RP CHARACTER standing by.</li>\n<li><b>Malleus Sappers:</b> idle in 15 rounds after Round 1, 13 of them after moving. These are the units you saw moving around aimlessly. They never used <i>Set Mine</i> or <i>Satchel Charge</i> in six battles.</li>\n<li><b>Equites Igniferi:</b> idle in 12 rounds after Round 1, but standing on objectives: they are the Cohort’s best scorer. An idle round is not always a wasted one.</li>\n</ul>\n{{chart:batch-unit-inaction}}\n{{chart:batch-unit-actions}}\n\n<h3>5. Verdict</h3>\n<ol>\n<li><b>Casters help.</b> The Host now spends its Mana and the Cohort won four of six, but six battles cannot say how much of that is the casters and how much the other list changes.</li>\n<li><b>The Knight-Apostle Squad</b> is still the Host’s best unit and was never destroyed, though less dominant than in the last batch.</li>\n<li><b>The Chiron’s gun is the problem more than the matchup:</b> one 50% roll a round, the same as a 25 RP field gun. Against Levies it overkills; against big targets it still averages about 3 damage.</li>\n<li><b>Three AI gaps:</b> the Archistrategos’s own APt while he is joined, the Sappers’ unused abilities, and the War-Shrine’s rifle that never fires.</li>\n</ol>\n<p>How to read the scoring numbers: a unit’s VP is its fair share (Shapley value) of what its side scored at each scoring moment. \"Hinged on it\" is the objective VP that would have been lost without that one unit, everything else as it was.</p>\n"
+  }
+}

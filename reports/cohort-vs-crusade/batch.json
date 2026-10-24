@@ -1,0 +1,2117 @@
+{
+ "armies": [
+  {
+   "name": "Armoured Cohort",
+   "faction": "iron_imperium",
+   "formation": "preset:armoured_cohort"
+  },
+  {
+   "name": "Crusade Host",
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:crusade_host"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS"
+ ],
+ "games": [
+  {
+   "seed": 100,
+   "map": "ACROPOLIS",
+   "swapped": false,
+   "round": 4,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    4,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 2,
+     "primary": 0,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 15,
+     "primary": 8,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    195
+   ],
+   "lostRp": [
+    58,
+    10
+   ],
+   "lostUnits": [
+    3,
+    1
+   ],
+   "fieldedRp": [
+    190,
+    195
+   ],
+   "arrivedUnits": [
+    0,
+    0
+   ],
+   "damage": [
+    26,
+    46
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     0,
+     0
+    ],
+    [
+     4,
+     2,
+     2,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 8,
+     "spent": 8
+    },
+    {
+     "gained": 10,
+     "spent": 8
+    }
+   ],
+   "primary": [
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    },
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 8
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    1,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 12.9,
+      "objectives": 5,
+      "primary": 1.5,
+      "missions": 6.4,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 2.9,
+      "objectives": 2,
+      "primary": 0.5,
+      "missions": 0.4,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 3
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 101,
+   "map": "CROSSROADS",
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    36,
+    17
+   ],
+   "vpBySource": [
+    {
+     "objectives": 23,
+     "primary": 6,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 9,
+     "primary": 1,
+     "missions": 7,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    195
+   ],
+   "lostRp": [
+    65,
+    30
+   ],
+   "lostUnits": [
+    3,
+    3
+   ],
+   "fieldedRp": [
+    210,
+    215
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    70,
+    53
+   ],
+   "objectivesByRound": [
+    [
+     4,
+     7,
+     4,
+     4,
+     4
+    ],
+    [
+     3,
+     0,
+     0,
+     3,
+     3
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 10
+    },
+    {
+     "gained": 11,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 6
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 1
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 8.6,
+      "objectives": 3.3,
+      "primary": 2,
+      "missions": 3.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 14.3,
+      "objectives": 10,
+      "primary": 2,
+      "missions": 2.3,
+      "pivotal": 10
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "alive": true,
+      "vp": 2.2,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 3.9,
+      "objectives": 3.7,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 11.5,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 5.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 102,
+   "map": "TRIPLE HILLS",
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    20,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 15,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 11,
+     "primary": 10,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    195
+   ],
+   "lostRp": [
+    20,
+    20
+   ],
+   "lostUnits": [
+    1,
+    2
+   ],
+   "fieldedRp": [
+    210,
+    195
+   ],
+   "arrivedUnits": [
+    1,
+    0
+   ],
+   "damage": [
+    63,
+    34
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     3,
+     5,
+     5,
+     0
+    ],
+    [
+     5,
+     2,
+     0,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 10,
+     "spent": 10
+    },
+    {
+     "gained": 10,
+     "spent": 10
+    }
+   ],
+   "primary": [
+    {
+     "name": "GARRISON DUTY",
+     "vp": 0
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    2,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 5.4,
+      "objectives": 5.3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 6
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 2.9,
+      "objectives": 2.8,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 2
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 2
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "alive": true,
+      "vp": 4.4,
+      "objectives": 2.3,
+      "primary": 0,
+      "missions": 2.1,
+      "pivotal": 3
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 6.8,
+      "objectives": 4,
+      "primary": 2,
+      "missions": 0.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 9.8,
+      "objectives": 4,
+      "primary": 2,
+      "missions": 3.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2.8,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 3.8,
+      "objectives": 1.5,
+      "primary": 1,
+      "missions": 1.3,
+      "pivotal": 3
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 103,
+   "map": "ACROPOLIS",
+   "swapped": true,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    12,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 7,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 20,
+     "primary": 5,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    195
+   ],
+   "lostRp": [
+    87,
+    15
+   ],
+   "lostUnits": [
+    4,
+    1
+   ],
+   "fieldedRp": [
+    210,
+    205
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    71,
+    53
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     5,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     2,
+     4,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 11
+    },
+    {
+     "gained": 16,
+     "spent": 16
+    }
+   ],
+   "primary": [
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 5
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    2,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 1.3,
+      "objectives": 1.2,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "alive": true,
+      "vp": 2.3,
+      "objectives": 1.2,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 1.2,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 0.8,
+      "primary": 1,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 10.2,
+      "objectives": 5.5,
+      "primary": 1,
+      "missions": 3.7,
+      "pivotal": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 5.1,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3,
+      "objectives": 1.5,
+      "primary": 1,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.1,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 6.5,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 0.8,
+      "primary": 2,
+      "missions": 0.5,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 104,
+   "map": "CROSSROADS",
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    23,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 14,
+     "primary": 0,
+     "missions": 9,
+     "other": 0
+    },
+    {
+     "objectives": 15,
+     "primary": 3,
+     "missions": 12,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    195
+   ],
+   "lostRp": [
+    80,
+    10
+   ],
+   "lostUnits": [
+    4,
+    1
+   ],
+   "fieldedRp": [
+    230,
+    205
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    70,
+    62
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     5,
+     5,
+     2,
+     0,
+     0
+    ],
+    [
+     5,
+     0,
+     0,
+     5,
+     5,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 14,
+     "spent": 14
+    },
+    {
+     "gained": 14,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "RAISE THE STANDARD",
+     "vp": 0
+    },
+    {
+     "name": "GARRISON DUTY",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    4,
+    5
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0.2,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2.6,
+      "objectives": 2.2,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.4,
+      "objectives": 1.2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 2.6,
+      "objectives": 2.2,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "alive": true,
+      "vp": 1.7,
+      "objectives": 0.4,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "alive": true,
+      "vp": 7.3,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 4.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 9.5,
+      "objectives": 3,
+      "primary": 1,
+      "missions": 5.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 1,
+      "primary": 2,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.8,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 0
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 5.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 4
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  },
+  {
+   "seed": 105,
+   "map": "TRIPLE HILLS",
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    21,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 17,
+     "primary": 3,
+     "missions": 1,
+     "other": 0
+    },
+    {
+     "objectives": 14,
+     "primary": 6,
+     "missions": 14,
+     "other": 0
+    }
+   ],
+   "rp": [
+    190,
+    195
+   ],
+   "lostRp": [
+    92,
+    40
+   ],
+   "lostUnits": [
+    4,
+    2
+   ],
+   "fieldedRp": [
+    190,
+    205
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    72,
+    57
+   ],
+   "objectivesByRound": [
+    [
+     3,
+     4,
+     4,
+     4,
+     2
+    ],
+    [
+     0,
+     3,
+     3,
+     3,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 10,
+     "spent": 10
+    },
+    {
+     "gained": 11,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "STRATEGICAL DISRUPTION",
+     "vp": 3
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    5
+   ],
+   "missions": [
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Centurion",
+      "rp": 22,
+      "alive": false,
+      "vp": -0.7,
+      "objectives": 0,
+      "primary": -0.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 8,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 8
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 6,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Chiron Battle Tank",
+      "rp": 40,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0,
+      "primary": 0.3,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Equites Igniferi",
+      "rp": 25,
+      "alive": false,
+      "vp": 3.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Malleus Sappers",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Archistrategos",
+      "rp": 60,
+      "alive": true,
+      "vp": 6,
+      "objectives": 1.5,
+      "primary": 2,
+      "missions": 2.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 18.4,
+      "objectives": 10.5,
+      "primary": 4,
+      "missions": 3.9,
+      "pivotal": 9
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2.1,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 2.4,
+      "pivotal": 2
+     },
+     {
+      "type": "St. Barbara Field Gun",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.9,
+      "pivotal": 0
+     },
+     {
+      "type": "Staurotheke War-Shrine",
+      "rp": 30,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 2.9,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.9,
+      "pivotal": 2
+     }
+    ]
+   ],
+   "initiative": 0,
+   "errors": 0
+  }
+ ]
+}

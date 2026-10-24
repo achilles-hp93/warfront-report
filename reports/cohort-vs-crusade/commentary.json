@@ -1,0 +1,201 @@
+{
+  "title": "Battle of the Acropolis: Cohort vs Crusade",
+  "armies": [
+    {
+      "name": "Armoured Cohort",
+      "faction": "Iron Imperium"
+    },
+    {
+      "name": "Crusade Host",
+      "faction": "Covenant of New Jerusalem"
+    }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Played live, round by round: the Iron Imperium's Armoured Cohort (Centurion, three Legionnaire squads, a Chiron tank, Equites, Sappers, Speculatores) routed the Covenant's Crusade Host (the Archistrategos with his Knight-Apostles, three blocks of Levies, a field gun, healers, the War-Shrine) on the Acropolis. Six more battles of the same matchup say the rout was the Cohort's best day, not the rule.",
+  "deployment": "<p>The Cohort lines the southern edge: the Centurion with Legionnaire Squad 1, the Malleus Sappers and the Equites Igniferi on the left, the Speculatores in the centre, Legionnaire Squad 3, the Chiron Battle Tank and Legionnaire Squad 2 on the right. The Host answers on the north edge with the War-Shrine, Levies and Hospitallers on its right, Levies 1 in the centre, and the Archistrategos with his Knight-Apostles beside Levies 2 on its left; the St. Barbara Field Gun stands behind them on the back row.</p><p>Three objectives sit across the middle: 3 VP in the centre at (7,7), 2 VP on each flank. The Cohort's Primary is <b>RAISE THE STANDARD</b> (hold a planted standard, more in the enemy half); the Host's is <b>LEAD FROM THE FRONT</b> (a CHARACTER or the squad he leads on an objective or in the enemy half), which suits the Archistrategos walking forward with his Knight-Apostles. Secondaries kept: FOCUSED FIRE for the Cohort, TAKE UP THE GAUNTLET for the Host.</p>",
+  "rounds": {
+    "1": {
+      "title": "Both flanks taken, the centre left empty",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "Each side spends 1 CP on a Scouting Order: the Cohort on its Malleus Sappers, the Host on the Archistrategos. The Host already holds 8 Mana and spends none."
+        },
+        {
+          "phase": "Movement",
+          "text": "Nearly everything Advances. On the Cohort's left the Sappers (1,8) and Legionnaire Squad 1 with the Centurion (2,8) race onto the west objective, and meet Covenant Levies 3 (1,6) and the War-Shrine (2,6) arriving from the north. On the right, Legionnaire Squad 2 takes the east objective unopposed. The Equites and Legionnaire Squad 3 stop short of the centre, and nobody steps onto the 3 VP objective. The Archistrategos and his Knight-Apostles move only one square."
+        },
+        {
+          "phase": "Action",
+          "text": "Not a shot fired: the Speculatores use Auspex Scan, and the two lines are still out of reach."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Cohort scores 5: both flanks (2 + 2) and 1 for RAISE THE STANDARD, held by Legionnaire Squad 3. The west objective hinged on <b>both</b> Legionnaire Squad 1 and the Sappers: take either away and the Levies and War-Shrine would have held it. The Host scores nothing."
+        }
+      ]
+    },
+    "2": {
+      "title": "The west flank collapses for the Host",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host spends all 3 CP on Secure Objective for Covenant Levies 2. The Cohort spends its 3 on a Scouting Order and Double Time for the Malleus Sappers. Its FOCUSED FIRE card expires unscored; it keeps TERRITORIAL SUPERIORITY in its place. The Host keeps BAR THE GATES, and its Mana climbs to 13, still unspent."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Equites Igniferi <b>charge</b> into Covenant Levies 3 and the War-Shrine on the west objective, their lances taking 7 HP from the Levies and 1 from the Shrine before any fighting starts. The Chiron rolls over to the left (3,9) behind them. In the centre the Archistrategos and his Knight-Apostles finally move, to (7,3), with the Field Gun beside them. Covenant Levies 1 cross to the east and walk into Legionnaire Squad 2's Overwatch, which misses."
+        },
+        {
+          "phase": "Action",
+          "text": "The battered Levies 3 swing at Legionnaire Squad 1 and its Centurion, who strike first and destroy all ten Levies. The Equites take 4 HP off the War-Shrine, and the Sappers finish it. In the east, Levies 1 attack Legionnaire Squad 2 and come off worse: 1 HP dealt, 7 lost."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Cohort scores 9: both flanks again, 2 for RAISE THE STANDARD (Legionnaire Squad 3 and the Chiron sharing it), and 3 for TERRITORIAL SUPERIORITY. With the enemy gone from the west, four units share that objective's 2 VP and none of them is pivotal any more. The east objective hinges entirely on Legionnaire Squad 2. Host: 0 again, and the 3 VP centre is still empty. <b>14–0.</b>"
+        }
+      ]
+    },
+    "3": {
+      "title": "The Host finally scores, and the Speculatores fall",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Host spends 2 CP on Double Time for the Archistrategos and keeps IRON GRIP (7 OC on one objective). The Cohort spends nothing and keeps FORWARD PRESENCE (a unit within 3 squares of the enemy HQ). The Host's Mana reaches 17, still unspent."
+        },
+        {
+          "phase": "Movement",
+          "text": "Covenant Levies 1 push onto the east objective at (13,6). Legionnaire Squad 2 Falls Back to the south edge of the same objective (13,8) and keeps a foot in it; the Field Gun's Overwatch misses it. Covenant Levies 2 and the Hospitallers drift towards the lost west objective, and the Archistrategos with his Knight-Apostles turns west to (5,3), away from the empty centre."
+        },
+        {
+          "phase": "Action",
+          "text": "Levies 1 shoot the Speculatores, who had missed them on Overwatch, and destroy them: 6 HP, all three models. Legionnaire Squad 3 raises Shield Wall and the Centurion issues a Move Order."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The east objective stays the Cohort's, OC 10 to 7, and hinges on Legionnaire Squad 2 alone. But the Levies' 7 OC there is exactly what IRON GRIP asks, so the Host scores its first VP: 2 (and 1 CP), all of it the Levies'. The Cohort adds 6: both flanks, and 2 for the standard, now held by the Chiron alone. <b>20–2.</b>"
+        }
+      ]
+    },
+    "4": {
+      "title": "All three objectives for the Cohort",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "The Cohort spends 4 CP: Secure Objective on the Equites, and a Scouting Order on the Centurion, who stands in the enemy half and so completes COMMAND AUTHORITY at once (+2 VP, credited to the Centurion). The Host spends 2 on a Scouting Order for Covenant Levies 2. Two of its cards, TAKE UP THE GAUNTLET and BAR THE GATES, expire unscored. Its Mana stands at 19, still unspent."
+        },
+        {
+          "phase": "Movement",
+          "text": "Legionnaire Squad 3 steps onto the centre objective at (6,8), the first unit of either side to stand there. Legionnaire Squad 2 moves onto the east objective itself. The Archistrategos and his Knight-Apostles come forward to (6,5), and five Overwatch shots answer each other across the middle. Only the Chiron's lands: 4 HP off Covenant Levies 2."
+        },
+        {
+          "phase": "Action",
+          "text": "Legionnaire Squad 2 charges the remains of Levies 1 and takes 7 HP. Legionnaire Squad 1 shoots 4 HP off the Knight-Apostles. The Knight-Apostles hit the Sappers for 3, the Archistrategos calls <i>Quis ut Deus?</i>, and the Field Gun misses."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Cohort holds all three objectives: the centre (3 VP) hinges on Legionnaire Squad 3 alone, the east on Legionnaire Squad 2, and the west is shared three ways. RAISE THE STANDARD scores nothing this round: the Chiron left the standard to move north. The Host scores nothing again. <b>29–2.</b>"
+        }
+      ]
+    },
+    "5": {
+      "title": "A rout: 40 to 4",
+      "feed": [
+        {
+          "phase": "Command",
+          "text": "With 3 CP the Host makes its only Troop Requisition of the battle: a fresh block of Covenant Levies (3 CP). It keeps FOCUSED FIRE; the Cohort keeps MAN OF THE HOUR. The Host ends the battle holding <b>22 Mana and has not cast once</b>."
+        },
+        {
+          "phase": "Movement",
+          "text": "The Chiron Falls Back from the north edge to its standard at (3,9), losing 2 HP in disorder, and Legionnaire Squad 2 falls back on the east objective. Legionnaire Squad 3 advances off the centre to (8,6). The Archistrategos and his Knight-Apostles head east to (9,4), past the objectives."
+        },
+        {
+          "phase": "Action",
+          "text": "Legionnaire Squad 3 destroys the St. Barbara Field Gun with one volley. The Malleus Sappers push to (4,4), within 3 squares of the Host's HQ, for FORWARD PRESENCE (+3 VP and 1 CP). Three Host units, the Knight-Apostles and Levies 1 and 2, all shoot at Legionnaire Squad 3. They take a single HP, but it completes FOCUSED FIRE (+2), shared between the three."
+        },
+        {
+          "phase": "Scoring",
+          "text": "The Cohort holds all three objectives again: Legionnaire Squad 3 still stands in the centre's area at (8,6) and the centre hinges on it alone. The Chiron's standard adds 1. Final score: <b>Armoured Cohort 40, Crusade Host 4</b>. The Host never held an objective at the end of a round."
+        }
+      ]
+    }
+  },
+  "result_line": "Armoured Cohort wins 40–4 in Battle Round 5",
+  "closing_title": "The day and the matchup",
+  "closing": "<p>On the Acropolis the Cohort took both flanks in Round 1 and the centre in Round 4, and the Host never held an objective at the end of a round. Across six more battles, though, the Crusade Host won five, carried by its Knight-Apostle Squad and the Archistrategos at its head. The next questions: the Knight-Apostles’ cost, the Chiron’s role, and a Covenant list with a caster to spend its Mana.</p>",
+  "charts": [
+    {
+      "id": "unit-damage",
+      "type": "rank",
+      "title": "Damage dealt per battle, by unit type",
+      "sub": "Each copy, averaged over the 6 batch battles",
+      "decimals": 1,
+      "rows": [
+        {
+          "label": "Knight-Apostle Squad",
+          "sub": "Crusade Host · 35 RP",
+          "side": 1,
+          "value": 24.7
+        },
+        {
+          "label": "Legionnaire Squad",
+          "sub": "Armoured Cohort · 20 RP",
+          "side": 0,
+          "value": 9.4
+        },
+        {
+          "label": "Equites Igniferi",
+          "sub": "Armoured Cohort · 25 RP",
+          "side": 0,
+          "value": 9.3
+        },
+        {
+          "label": "Archistrategos",
+          "sub": "Crusade Host · 60 RP",
+          "side": 1,
+          "value": 8.5
+        },
+        {
+          "label": "Chiron Battle Tank",
+          "sub": "Armoured Cohort · 40 RP",
+          "side": 0,
+          "value": 4.2
+        },
+        {
+          "label": "Centurion",
+          "sub": "Armoured Cohort · 22 RP",
+          "side": 0,
+          "value": 4.2
+        },
+        {
+          "label": "St. Barbara Field Gun",
+          "sub": "Crusade Host · 25 RP",
+          "side": 1,
+          "value": 4.2
+        },
+        {
+          "label": "Malleus Sappers",
+          "sub": "Armoured Cohort · 25 RP",
+          "side": 0,
+          "value": 3.5
+        },
+        {
+          "label": "Covenant Levies",
+          "sub": "Crusade Host · 10 RP",
+          "side": 1,
+          "value": 2.9
+        },
+        {
+          "label": "Speculatores",
+          "sub": "Armoured Cohort · 18 RP",
+          "side": 0,
+          "value": 2.3
+        }
+      ]
+    }
+  ],
+  "analysis": {
+    "title": "Analysis: who scores in this matchup",
+    "html": "\n<p class=\"callout\">The live battle was the Cohort's best day. Over six more battles (three maps, each army from both ends) the <b>Crusade Host won five</b>, by 29.5 VP to 19.3 on average. Objectives were nearly even (14.0 to 13.0 a battle). The gap is the Host's Primary (5.5 to 1.5) and secondaries (10.0 to 4.8), and the Host's army staying alive: it lost 21 RP a battle, the Cohort 67.</p>\n{{batch}}\n{{chart:batch-vp}}\n{{chart:batch-sources}}\n\n<h3>1. Who scored: the Knight-Apostles</h3>\n<p>The new scoring record answers \"who brought the VP\". On the Host's side it is one unit: the <b>Knight-Apostle Squad</b>, with the Archistrategos joined to it, contributed <b>11.2 VP a battle</b> (5.7 from objectives, 1.4 Primary, 4.1 secondaries). That is 32 VP for each 100 RP, twice any Cohort unit. On average 3.5 objective VP a battle hinged on it alone, and it was never destroyed in six battles. It also dealt 24.7 damage a battle, the most of any unit, and destroyed 1.8 units. The Archistrategos adds 4.7 VP of his own, mostly through LEAD FROM THE FRONT and the objectives he stands on with his squad.</p>\n<p>The Host's other scorers are its <b>Covenant Levies</b>: 2.3 VP a copy at 10 RP, 22.9 VP per 100 RP, the cheapest OC on the board.</p>\n{{chart:batch-unit-vp}}\n{{chart:batch-unit-vp-rp}}\n\n<h3>2. The Cohort: its Legionnaires score, its tank does not</h3>\n<p>The Cohort's scorers are its <b>Legionnaire Squads</b>: 3.0 VP a copy and 2.3 objective VP hinged on each, a battle. In the live battle Legionnaire Squad 2 alone brought 13 of the 40, holding the east objective in every round. The <b>Chiron Battle Tank</b>, its most expensive unit at 40 RP, contributed 0.9 VP a battle and dealt 4.2 damage: 2.2 VP per 100 RP. It was never destroyed, and almost never the reason an objective held. As the AI plays it, it is the weakest value on either side. The Centurion (0.5 VP) and the Speculatores (0.7) add little.</p>\n{{chart:batch-unit-pivotal}}\n{{chart:unit-damage}}\n\n<h3>3. Resources neither side spends</h3>\n<p>The Host gains 20 to 30 Mana a battle and spends <b>none</b>: this Crusade Host has no MAGIC_CASTER. The Cantor Preceptor, who could spend it, was not in the list. The Cohort's Pietas (6 to 15 a battle) goes unspent too. Both armies leave their faction resource on the table. For the Host that is a list problem; for the Pietas it may be the AI's.</p>\n\n<h3>4. Verdict</h3>\n<ol>\n<li><b>The Knight-Apostle Squad looks undercosted at 35 RP</b>, or the Archistrategos makes it so: together they are the best scoring and fighting pair in this matchup, and never died in six battles. Six battles is a small sample, but the margin is wide.</li>\n<li><b>The Chiron Battle Tank does not earn its 40 RP</b> as the AI uses it: it neither holds objectives nor kills much. That is an AI role question first (the AI moves it like a line unit), a cost question second.</li>\n<li><b>The Crusade Host list wastes its Mana.</b> A Cantor Preceptor in place of the Hospitallers (0.2 VP a battle) would test whether the Host is stronger still.</li>\n</ol>\n<p>How to read the scoring numbers: a unit's VP is its fair share (Shapley value) of what its side scored at each scoring moment. \"Hinged on it\" is the objective VP that would have been lost without that one unit, everything else as it was. A unit that kills but never stands on an objective scores little here; the damage chart shows that side.</p>"
+  }
+}
