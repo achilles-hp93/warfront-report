@@ -40,9 +40,13 @@ const NOTES = {
   'runeforge-vs-league': 'First battles of the Runeforge Directorate and the Panhellenic League (new presets): 6-battle batch and the featured battle (seed 1044).',
   'survival-hvc-before': 'Host vs Court, seeds 960-965, before survival-weighted objectives (the baseline).',
   'survival-hvc-fullsum': 'Same seeds with the first cut of survival-weighted objectives: every enemy counted in full on every unit (replaced).',
-  'survival-hvc-shared': 'Same seeds with survival-weighted objectives as committed: each enemy\'s attack shared among the units it can reach.',
+  'survival-hvc-shared': 'Same seeds with survival-weighted objectives, the whole risk counted: each enemy\'s attack shared among the units it can reach (tuned to 0.7 of the risk).',
+  'survival-hvc-w5': 'Same seeds, 0.5 of the survival risk counted (tuning trial).',
+  'survival-hvc-w7': 'Same seeds, 0.7 of the survival risk counted: the weight committed (cfa91403).',
+  'survival-pvc-w5': 'Penitent vs Court, same seeds, 0.5 of the survival risk counted (tuning trial).',
+  'survival-pvc-w7': 'Penitent vs Court, same seeds, 0.7 of the survival risk counted: the weight committed.',
   'survival-pvc-before': 'Penitent vs Court, seeds 970-975, before survival-weighted objectives (the baseline).',
-  'survival-pvc-shared': 'Same seeds with survival-weighted objectives as committed.', 'smoke-live': 'Live-mode smoke test.', 'trial': 'The battle-report tool\'s first trial battle.',
+  'survival-pvc-shared': 'Same seeds with survival-weighted objectives, the whole risk counted.', 'smoke-live': 'Live-mode smoke test.', 'trial': 'The battle-report tool\'s first trial battle.',
 };
 const out = [];
 for (const name of fs.readdirSync(path.join(R, 'reports')).sort()) {

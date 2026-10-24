@@ -1,0 +1,7341 @@
+{
+ "armies": [
+  {
+   "name": "Penitent Crusade",
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:penitent_crusade"
+  },
+  {
+   "name": "Veiled Court",
+   "faction": "infernal_congregations",
+   "formation": "preset:veiled_court"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 970,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    21,
+    39
+   ],
+   "vpBySource": [
+    {
+     "objectives": 13,
+     "primary": 0,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 31,
+     "primary": 0,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    194
+   ],
+   "lostRp": [
+    25,
+    69
+   ],
+   "lostUnits": [
+    2,
+    4
+   ],
+   "fieldedRp": [
+    196,
+    234
+   ],
+   "arrivedUnits": [
+    2,
+    4
+   ],
+   "damage": [
+    71,
+    76
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     5,
+     3,
+     3,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     2,
+     4,
+     4,
+     7,
+     7,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 21,
+     "spent": 20
+    },
+    {
+     "gained": 17,
+     "spent": 17
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "WIDE SWEEP",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    3,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 6,
+      "ended": 7
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 2.6,
+      "objectives": 1.9,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 6.1,
+      "objectives": 4.2,
+      "primary": 0,
+      "missions": 1.9,
+      "pivotal": 3
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0.2,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 1.2,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 5,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "alive": true,
+      "vp": 4.2,
+      "objectives": 3.5,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 6
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "alive": true,
+      "vp": 1.6,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 1.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 13.4,
+      "objectives": 12,
+      "primary": 0,
+      "missions": 1.4,
+      "pivotal": 12
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 10.4,
+      "objectives": 9,
+      "primary": 0,
+      "missions": 1.4,
+      "pivotal": 8
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 5.7,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 9
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Gloria",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 2,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2.06,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0.33,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Introit",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Dance of Allure",
+      "attacks": 10,
+      "added": 0,
+      "prevented": 8.77
+     },
+     {
+      "army": 1,
+      "name": "Epicurean Provocation",
+      "attacks": 8,
+      "added": 5.32,
+      "prevented": -0.02
+     },
+     {
+      "army": 1,
+      "name": "Irresistible Sillage",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 1.42
+     },
+     {
+      "army": 1,
+      "name": "Sevenfold Widow",
+      "attacks": 2,
+      "added": 0.42,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 971,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    23,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 16,
+     "primary": 0,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 19,
+     "primary": 4,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    194
+   ],
+   "lostRp": [
+    31,
+    44
+   ],
+   "lostUnits": [
+    2,
+    3
+   ],
+   "fieldedRp": [
+    186,
+    224
+   ],
+   "arrivedUnits": [
+    1,
+    3
+   ],
+   "damage": [
+    59,
+    45
+   ],
+   "objectivesByRound": [
+    [
+     5,
+     5,
+     3,
+     3,
+     0
+    ],
+    [
+     2,
+     2,
+     4,
+     4,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 18,
+     "spent": 17
+    },
+    {
+     "gained": 16,
+     "spent": 13
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "GARRISON DUTY",
+     "vp": 4
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 3.1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 5.9,
+      "objectives": 4.6,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": false,
+      "vp": 1.4,
+      "objectives": 1.1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.6,
+      "objectives": 0.6,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "alive": true,
+      "vp": 16,
+      "objectives": 10,
+      "primary": 3,
+      "missions": 3,
+      "pivotal": 10
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 3.6,
+      "objectives": 2.6,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 3
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.42,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Flesh Temptation",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 5,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Cleansing Rain",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2.03,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Flesh Temptation",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 5,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Epicurean Provocation",
+      "attacks": 6,
+      "added": 3.05,
+      "prevented": -0.02
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 972,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    24,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 11,
+     "primary": 3,
+     "missions": 10,
+     "other": 0
+    },
+    {
+     "objectives": 21,
+     "primary": 9,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    194
+   ],
+   "lostRp": [
+    45,
+    59
+   ],
+   "lostUnits": [
+    2,
+    3
+   ],
+   "fieldedRp": [
+    176,
+    224
+   ],
+   "arrivedUnits": [
+    0,
+    3
+   ],
+   "damage": [
+    63,
+    74
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     2,
+     2,
+     5,
+     2
+    ],
+    [
+     3,
+     3,
+     3,
+     5,
+     2,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 19,
+     "spent": 17
+    },
+    {
+     "gained": 14,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 3
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 9
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    4,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 6,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 10,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 8
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "alive": true,
+      "vp": 7.2,
+      "objectives": 4.5,
+      "primary": 1.7,
+      "missions": 1,
+      "pivotal": 9
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 6.5,
+      "objectives": 4.5,
+      "primary": 1,
+      "missions": 1,
+      "pivotal": 6
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "alive": true,
+      "vp": 3.7,
+      "objectives": 1.5,
+      "primary": 2.2,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "alive": false,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 4.4,
+      "objectives": 3,
+      "primary": 1.4,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 7.7,
+      "objectives": 6,
+      "primary": 1.7,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 3,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 5,
+      "undone": 2,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Cleansing Rain",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Kyrie",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 1.25,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Whispers of Forbidden Pleasure",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Cleansing Rain",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Epicurean Provocation",
+      "attacks": 9,
+      "added": 3.88,
+      "prevented": -0.03
+     },
+     {
+      "army": 1,
+      "name": "Irresistible Sillage",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 1.44
+     },
+     {
+      "army": 1,
+      "name": "Narcotic Perfume",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 0.83
+     },
+     {
+      "army": 1,
+      "name": "Sevenfold Widow",
+      "attacks": 2,
+      "added": 0.28,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 973,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    9,
+    33
+   ],
+   "vpBySource": [
+    {
+     "objectives": 9,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    },
+    {
+     "objectives": 24,
+     "primary": 0,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    204
+   ],
+   "lostRp": [
+    10,
+    124
+   ],
+   "lostUnits": [
+    1,
+    5
+   ],
+   "fieldedRp": [
+    196,
+    224
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    86,
+    70
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     3,
+     3,
+     3
+    ],
+    [
+     5,
+     7,
+     4,
+     4,
+     4
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 15
+    },
+    {
+     "gained": 16,
+     "spent": 16
+    }
+   ],
+   "primary": [
+    {
+     "name": "RAISE THE STANDARD",
+     "vp": 0
+    },
+    {
+     "name": "FORLORN HOPE",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    0,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 5,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 0.5,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "alive": false,
+      "vp": 1.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": false,
+      "vp": 4.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "alive": true,
+      "vp": 5,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "alive": true,
+      "vp": 6.4,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 1.4,
+      "pivotal": 2
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "alive": false,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": false,
+      "vp": 4.4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 1.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 7.4,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 2.4,
+      "pivotal": 2
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Kyrie",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.03,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Whispers of Forbidden Pleasure",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Kyrie",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Epicurean Provocation",
+      "attacks": 5,
+      "added": 2.14,
+      "prevented": -0.03
+     },
+     {
+      "army": 1,
+      "name": "Rapturous Visage",
+      "attacks": 5,
+      "added": 0.93,
+      "prevented": 0.74
+     },
+     {
+      "army": 1,
+      "name": "Irresistible Sillage",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 0.75
+     },
+     {
+      "army": 1,
+      "name": "Dance of Allure",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.14
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 974,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    18,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 12,
+     "primary": 4,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 18,
+     "primary": 6,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    194
+   ],
+   "lostRp": [
+    60,
+    34
+   ],
+   "lostUnits": [
+    3,
+    2
+   ],
+   "fieldedRp": [
+    206,
+    214
+   ],
+   "arrivedUnits": [
+    3,
+    2
+   ],
+   "damage": [
+    40,
+    72
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     7,
+     0,
+     0,
+     5
+    ],
+    [
+     5,
+     0,
+     4,
+     7,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 16,
+     "spent": 15
+    },
+    {
+     "gained": 18,
+     "spent": 16
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 4
+    },
+    {
+     "name": "FORLORN HOPE",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 3.2,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 4
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": false,
+      "vp": 1.2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 2
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 7.3,
+      "objectives": 4.5,
+      "primary": 2,
+      "missions": 0.8,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 2
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "alive": true,
+      "vp": 3.7,
+      "objectives": 2.7,
+      "primary": 0,
+      "missions": 1.1,
+      "pivotal": 4
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 7.1,
+      "objectives": 1.7,
+      "primary": 4,
+      "missions": 1.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 1.7,
+      "primary": 2,
+      "missions": 0.8,
+      "pivotal": 2
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 2
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "alive": false,
+      "vp": 3.6,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 3
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 3
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "The Veiled Queen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 6,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Dance of Allure",
+      "attacks": 5,
+      "added": 0,
+      "prevented": 4.14
+     },
+     {
+      "army": 1,
+      "name": "Epicurean Provocation",
+      "attacks": 6,
+      "added": 3.33,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Rapturous Visage",
+      "attacks": 5,
+      "added": 1.74,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 975,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    34,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 23,
+     "primary": 4,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 17,
+     "primary": 0,
+     "missions": 14,
+     "other": 0
+    }
+   ],
+   "rp": [
+    176,
+    194
+   ],
+   "lostRp": [
+    66,
+    20
+   ],
+   "lostUnits": [
+    5,
+    2
+   ],
+   "fieldedRp": [
+    186,
+    214
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    56,
+    102
+   ],
+   "objectivesByRound": [
+    [
+     7,
+     7,
+     0,
+     3,
+     3,
+     3
+    ],
+    [
+     0,
+     0,
+     7,
+     4,
+     4,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 15,
+     "spent": 13
+    },
+    {
+     "gained": 20,
+     "spent": 20
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 4
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    5
+   ],
+   "missions": [
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 5.7,
+      "objectives": 5.4,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 11.2,
+      "objectives": 6.7,
+      "primary": 4,
+      "missions": 0.5,
+      "pivotal": 9
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": false,
+      "vp": 0.6,
+      "objectives": 0.4,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 1.2,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 5.8,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 4
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 5.8,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "alive": true,
+      "vp": 8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 6
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "alive": true,
+      "vp": 6.8,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 4.8,
+      "pivotal": 2
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 4.9,
+      "objectives": 1.4,
+      "primary": 0,
+      "missions": 3.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "alive": true,
+      "vp": 6.3,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 4
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "rp": 55,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Queen Consort",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Babylonian Assassin",
+      "rp": 24,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "The Veiled Queen",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Masque of Carnality",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Queen Consort",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Babylonian Assassin",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cultist Troopers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 6,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Flesh Temptation",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 5,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2.14,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Desperate Worship",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Blood Sacrifice",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": -2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Gaze of the Abyss",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Epicurean Provocation",
+      "attacks": 7,
+      "added": 2.26,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Dance of Allure",
+      "attacks": 4,
+      "added": 0,
+      "prevented": 1.99
+     },
+     {
+      "army": 1,
+      "name": "Sevenfold Widow",
+      "attacks": 3,
+      "added": 1.12,
+      "prevented": 0
+     },
+     {
+      "army": 1,
+      "name": "Irresistible Sillage",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.67
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

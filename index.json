@@ -1436,7 +1436,83 @@
    "batch.json",
    "games"
   ],
-  "note": "Same seeds with survival-weighted objectives as committed: each enemy's attack shared among the units it can reach."
+  "note": "Same seeds with survival-weighted objectives, the whole risk counted: each enemy's attack shared among the units it can reach (tuned to 0.7 of the risk)."
+ },
+ {
+  "name": "survival-hvc-w5",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T14:21:34.188Z",
+   "2026-10-24T14:36:07.491Z"
+  ],
+  "engine": "f0384164 Docs: the Canopic Priest's and the Knight-Banneret's attachment targets",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    5,
+    1
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds, 0.5 of the survival risk counted (tuning trial)."
+ },
+ {
+  "name": "survival-hvc-w7",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T14:21:33.684Z",
+   "2026-10-24T14:43:33.948Z"
+  ],
+  "engine": "f0384164 Docs: the Canopic Priest's and the Knight-Banneret's attachment targets",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    4,
+    2
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds, 0.7 of the survival risk counted: the weight committed (cfa91403)."
  },
  {
   "name": "survival-pvc-before",
@@ -1512,7 +1588,83 @@
    "batch.json",
    "games"
   ],
-  "note": "Same seeds with survival-weighted objectives as committed."
+  "note": "Same seeds with survival-weighted objectives, the whole risk counted."
+ },
+ {
+  "name": "survival-pvc-w5",
+  "armies": [
+   "Penitent Crusade",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T14:21:36.312Z",
+   "2026-10-24T14:39:05.308Z"
+  ],
+  "engine": "f0384164 Docs: the Canopic Priest's and the Knight-Banneret's attachment targets",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    1,
+    5
+   ],
+   "armies": [
+    "Penitent Crusade",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Penitent vs Court, same seeds, 0.5 of the survival risk counted (tuning trial)."
+ },
+ {
+  "name": "survival-pvc-w7",
+  "armies": [
+   "Penitent Crusade",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T14:21:34.826Z",
+   "2026-10-24T14:39:04.685Z"
+  ],
+  "engine": "f0384164 Docs: the Canopic Priest's and the Knight-Banneret's attachment targets",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    1,
+    5
+   ],
+   "armies": [
+    "Penitent Crusade",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Penitent vs Court, same seeds, 0.7 of the survival risk counted: the weight committed."
  },
  {
   "name": "trial",

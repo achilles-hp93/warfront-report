@@ -2,6 +2,22 @@
 
 Branch `ccr-6962c382-ne55kb`. Everything below is committed and pushed unless it says otherwise.
 
+## Answered (2026-10-24, afternoon)
+
+1. Survival-weighted objectives: tuned, not reverted. The objective term now counts 0.7 of the
+   risk (`cfa91403`). Units on objectives at a round's end, a side, over the two Court
+   matchups: 3.72 before the term, 3.36 with the whole risk, 3.90 with 0.7. Batches:
+   `reports/survival-*-w7` (0.7) and `survival-*-w5` (0.5, the other trial).
+2. The ten presets: kept. Hakon's Army became Valkyrie's Army (`0588ea35`): Hakon is removed
+   for good. The Asklepian Medic now leads League Hoplite 2 in Heron's Army (`34bdc8cb`): its
+   Enkoimeterion Watch only heals a squad it is attached to.
+3. The Canopic Priest leads Duat INFANTRY, the Knight-Banneret leads PENDRAGON KNIGHT units.
+4. AI problems, support units and speed: investigated, proposals in
+   [2026-10-24-proposals.md](2026-10-24-proposals.md). Nothing implemented yet.
+5. The record's blind spots: fixed (`c05be8a9`). It now sees unit resources (Hunger), active-table
+   entries (the Flow of Magic: attacks, Tree's income, Surge's Mana saved), Matter Transmutation's
+   coatings and Kusanagi no Tsurugi as one use each, and Hostile Takeover's loot.
+
 ## 1. Survival-weighted objectives: keep as is, tune, or revert?
 
 Committed as `38f86f78` (`ai/movement/objective_survival.js`). An objective square is worth its
