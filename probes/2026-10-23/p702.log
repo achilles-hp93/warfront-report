@@ -1,0 +1,6 @@
+objective probe ok
+round 1: VP 0 / 0 (1s)
+round 2: VP 0 / 5 (69s)
+round 3: VP 7 / 5 (184s)
+round 4: VP 21 / 8 (257s)
+result {"winner":0,"reason":"VP","round":4,"vp":[33,8]} probe entries 16

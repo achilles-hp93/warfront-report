@@ -1,0 +1,1169 @@
+[
+ {
+  "name": "charge-check",
+  "armies": [
+   "Armoured Cohort",
+   "Crusade Host"
+  ],
+  "maps": [
+   "ACROPOLIS"
+  ],
+  "battles": 1,
+  "recorded": [
+   "2026-10-22T04:47:37.054Z",
+   "2026-10-22T04:47:37.054Z"
+  ],
+  "engine": "44bf7b57 AI: a joined pair charges with both units; an engaged unit keeps no long-range fire. Chiron: BS 3+, its repeater built in, the Philonian Chain Drive",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 1,
+   "winner": "Armoured Cohort",
+   "vp": [
+    38,
+    11
+   ],
+   "round": 5
+  },
+  "page": null,
+  "files": [
+   "report.json"
+  ],
+  "note": "One battle to check a charge fix."
+ },
+ {
+  "name": "cohort-vs-crusade",
+  "armies": [
+   "Armoured Cohort",
+   "Crusade Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-22T00:10:24.255Z",
+   "2026-10-22T00:21:30.645Z"
+  ],
+  "engine": "77e43f97 Battle reports: who scored the VP, and a live mode",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    1,
+    5
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Crusade Host"
+   ]
+  },
+  "page": {
+   "title": "Battle of the Acropolis: Cohort vs Crusade",
+   "url": "https://claude.ai/artifact/VyCJWEMzCdmdaTiLqozJuM"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "live",
+   "report.json"
+  ],
+  "note": "Armoured Cohort vs Crusade Host: live featured battle and its batch."
+ },
+ {
+  "name": "cohort-vs-crusade-2",
+  "armies": [
+   "Armoured Cohort",
+   "Crusade Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-22T01:32:19.157Z",
+   "2026-10-22T01:41:43.497Z"
+  ],
+  "engine": "5993c53e Battle reports: what each unit did with its APt; a caster in both test armies",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    4,
+    2
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Crusade Host"
+   ]
+  },
+  "page": {
+   "title": "Acropolis Rematch: Cohort vs Crusade, with casters",
+   "url": "https://claude.ai/artifact/1D9Yk8jjKveLWpccTh9UBc"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "live",
+   "report.json"
+  ],
+  "note": "The rematch with casters in both armies: live battle and batch."
+ },
+ {
+  "name": "cohort-vs-procession-ai",
+  "armies": [
+   "Pontifex's Procession",
+   "Armoured Cohort"
+  ],
+  "maps": [
+   "TWIN LAKES"
+  ],
+  "battles": 1,
+  "recorded": [
+   "2026-10-22T22:58:33.947Z",
+   "2026-10-22T22:58:33.947Z"
+  ],
+  "engine": "ca0382a5 AI: a move costs the fire a stand-still bonus gives",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 1,
+   "winner": "Pontifex's Procession",
+   "vp": [
+    37,
+    0
+   ],
+   "round": 4
+  },
+  "page": null,
+  "files": [
+   "games"
+  ],
+  "note": "Partial batch (1 battle)."
+ },
+ {
+  "name": "cohort-vs-procession-dmg",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-23T21:40:29.022Z",
+   "2026-10-23T22:18:46.765Z"
+  ],
+  "engine": "3727bb64 Battle reports: an affliction tick is named by its own summary line",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    10,
+    2
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "fallbacks.json",
+   "games"
+  ],
+  "note": "Same seeds with artillery positioned by damage (the Morphean Engine got worse)."
+ },
+ {
+  "name": "cohort-vs-procession-final",
+  "armies": null,
+  "maps": [],
+  "battles": 0,
+  "recorded": null,
+  "engine": null,
+  "timed": false,
+  "lean": false,
+  "results": null,
+  "page": null,
+  "files": [
+   "games"
+  ],
+  "note": "Empty: a batch cut short."
+ },
+ {
+  "name": "cohort-vs-procession-final2",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-23T01:03:49.845Z",
+   "2026-10-23T01:43:57.916Z"
+  ],
+  "engine": "4070bbc8 AI: a granted move carries on the unit's far square instead of searching afresh",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    7,
+    5
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Cohort vs Procession, 12 seeds (700-711) with the whole first round of AI fixes in (the \"final engine\" measurement)."
+ },
+ {
+  "name": "cohort-vs-procession-fix",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-24T00:30:51.728Z",
+   "2026-10-24T01:02:08.343Z"
+  ],
+  "engine": "4efe2e31 Merge pull request #74 from achilles-hp93/ccr-6962c382-ne55kb",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    8,
+    4
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "effects.json",
+   "fallbacks.json",
+   "games"
+  ],
+  "note": "Same seeds after the three fixes of 2026-10-24: objective holding, charge floor, fire support does not screen."
+ },
+ {
+  "name": "cohort-vs-procession-fixed",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-22T23:23:33.581Z",
+   "2026-10-23T00:00:34.220Z"
+  ],
+  "engine": "ce7bba09 AI: a unit keeps the far square it set out for until another is clearly better",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    7,
+    5
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds after the first AI fixes (move orders, set_ap, banking Mana, toggles, stand-still bonus, missives, kept far square)."
+ },
+ {
+  "name": "cohort-vs-procession-missive",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-23T12:26:01.640Z",
+   "2026-10-23T13:27:42.731Z"
+  ],
+  "engine": "eb05d7aa AI: a move order's square is planned on the decision's cache",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    6,
+    6
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds with the planner following the missive (reverted at the user's call)."
+ },
+ {
+  "name": "cohort-vs-procession-sb8",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-23T16:50:48.563Z",
+   "2026-10-23T17:28:52.575Z"
+  ],
+  "engine": "e801e126 AI: a step back is judged on its own square, at a margin of 8",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    7,
+    5
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds after the step-back rule's fix (margin 8)."
+ },
+ {
+  "name": "cohort-vs-procession-stepart",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-23T15:29:23.747Z",
+   "2026-10-23T16:09:31.003Z"
+  ],
+  "engine": "3356ff08 AI: artillery gives fire support, and holds an objective only when nobody else can",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    8,
+    4
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds after the first step-back rule and artillery fire support."
+ },
+ {
+  "name": "fallback-cohort",
+  "armies": [
+   "Armoured Cohort",
+   "Crusade Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-22T03:50:49.883Z",
+   "2026-10-22T04:00:09.187Z"
+  ],
+  "engine": "40b91f83 Battle reports: a Fall Back record, why a unit was idle, moved-then-idle",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    4,
+    2
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Crusade Host"
+   ]
+  },
+  "page": {
+   "title": "Fall Back Review",
+   "url": "https://claude.ai/artifact/C9Jdu9KfNknjEyNnqTX9YN"
+  },
+  "files": [
+   "batch.json",
+   "fallbacks.json",
+   "games"
+  ],
+  "note": "Fall Back review: Cohort vs Crusade battles."
+ },
+ {
+  "name": "fallback-legion",
+  "armies": [
+   "Legatus's Legion",
+   "Spahbed's Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-22T03:49:35.596Z",
+   "2026-10-22T04:15:16.447Z"
+  ],
+  "engine": "02d5e56c Battle reports: judge whether a unit left a fight it was winning",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    2,
+    10
+   ],
+   "armies": [
+    "Legatus's Legion",
+    "Spahbed's Host"
+   ]
+  },
+  "page": {
+   "title": "Fall Back Review",
+   "url": "https://claude.ai/artifact/C9Jdu9KfNknjEyNnqTX9YN"
+  },
+  "files": [
+   "batch.json",
+   "fallbacks.json",
+   "games"
+  ],
+  "note": "Fall Back review: Legion vs Host battles judged decision by decision."
+ },
+ {
+  "name": "host-vs-court",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "CROSSROADS",
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "TRIPLE HILLS"
+  ],
+  "battles": 13,
+  "recorded": [
+   "2026-10-23T20:49:50.474Z",
+   "2026-10-23T21:29:12.855Z"
+  ],
+  "engine": "b93923a7 Preset: Veiled Court (Cult of Tempestuous Rapture, 194 RP)",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    7,
+    5
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": {
+   "title": "Crossroads: Spahbed's Host vs the Veiled Court",
+   "url": "https://claude.ai/artifact/LzvebqZr6fybPXGpciUvwd"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "effects.json",
+   "fallbacks.json",
+   "games",
+   "live",
+   "report.json"
+  ],
+  "note": "Spahbed's Host vs Veiled Court: 12-battle batch and the live featured battle (seed 806, Crossroads)."
+ },
+ {
+  "name": "host-vs-court-fix",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES",
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-24T00:30:47.535Z",
+   "2026-10-24T00:59:59.828Z"
+  ],
+  "engine": "4efe2e31 Merge pull request #74 from achilles-hp93/ccr-6962c382-ne55kb",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    8,
+    4
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "effects.json",
+   "fallbacks.json",
+   "games"
+  ],
+  "note": "Same seeds (800-811) after the three fixes of 2026-10-24."
+ },
+ {
+  "name": "legion-vs-host",
+  "armies": [
+   "Legatus's Legion",
+   "Spahbed's Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 13,
+  "recorded": [
+   "2026-10-21T19:26:45.939Z",
+   "2026-10-21T19:45:49.464Z"
+  ],
+  "engine": "8b31816c Battle reports: count reinforcements, name Fall Back damage, rebuild a batch",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    0,
+    12
+   ],
+   "armies": [
+    "Legatus's Legion",
+    "Spahbed's Host"
+   ]
+  },
+  "page": {
+   "title": "Battle of the Acropolis",
+   "url": "https://claude.ai/artifact/EQ7pJueWSw1gGvjPu77Y8t"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "First batch and featured battle; the report that led to the Troop Requisition, Aswaran, gun team, scout and secondary-mission fixes."
+ },
+ {
+  "name": "legion-vs-host-after",
+  "armies": [
+   "Legatus's Legion",
+   "Spahbed's Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-21T21:12:59.495Z",
+   "2026-10-21T21:30:13.682Z"
+  ],
+  "engine": "f6a5997b HQ panel: a resting command says when it is back",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    3,
+    9
+   ],
+   "armies": [
+    "Legatus's Legion",
+    "Spahbed's Host"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds after those fixes (first pass)."
+ },
+ {
+  "name": "legion-vs-host-after2",
+  "armies": [
+   "Legatus's Legion",
+   "Spahbed's Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-21T21:50:45.508Z",
+   "2026-10-21T22:06:25.348Z"
+  ],
+  "engine": "61d912c3 Split effects_validation.py's checks into their own modules",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    4,
+    8
+   ],
+   "armies": [
+    "Legatus's Legion",
+    "Spahbed's Host"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds, second pass of the AI retune."
+ },
+ {
+  "name": "legion-vs-host-after3",
+  "armies": [
+   "Legatus's Legion",
+   "Spahbed's Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 12,
+  "recorded": [
+   "2026-10-21T22:19:45.532Z",
+   "2026-10-21T22:35:14.944Z"
+  ],
+  "engine": "24ee4a3e AI scouts: the Round 1 rush onto an objective stands",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 12,
+   "wins": [
+    3,
+    9
+   ],
+   "armies": [
+    "Legatus's Legion",
+    "Spahbed's Host"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds, third pass."
+ },
+ {
+  "name": "perf-cohort-vs-crusade",
+  "armies": [
+   "Armoured Cohort",
+   "Crusade Host"
+  ],
+  "maps": [
+   "CROSSROADS",
+   "TRIPLE HILLS"
+  ],
+  "battles": 2,
+  "recorded": [
+   "2026-10-24T01:21:01.640Z",
+   "2026-10-24T01:21:02.657Z"
+  ],
+  "engine": "fe773d2a Battle reports: record how long the AI takes, and what a battle costs the browser",
+  "timed": true,
+  "lean": true,
+  "results": {
+   "battles": 2,
+   "wins": [
+    0,
+    2
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Crusade Host"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "AI timing battles (--lean --profile) for the AI performance report."
+ },
+ {
+  "name": "perf-cohort-vs-procession",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "TRIPLE HILLS",
+   "ACROPOLIS"
+  ],
+  "battles": 2,
+  "recorded": [
+   "2026-10-24T01:35:17.360Z",
+   "2026-10-24T01:35:17.499Z"
+  ],
+  "engine": "8ef2c045 Battle reports: count an AI choice timed inside another once",
+  "timed": true,
+  "lean": true,
+  "results": {
+   "battles": 2,
+   "wins": [
+    1,
+    1
+   ],
+   "armies": [
+    "Armoured Cohort",
+    "Pontifex's Procession"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "AI timing battles (--lean --profile) for the AI performance report."
+ },
+ {
+  "name": "perf-host-vs-court",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS"
+  ],
+  "battles": 2,
+  "recorded": [
+   "2026-10-24T01:41:38.628Z",
+   "2026-10-24T01:41:39.100Z"
+  ],
+  "engine": "8ef2c045 Battle reports: count an AI choice timed inside another once",
+  "timed": true,
+  "lean": true,
+  "results": {
+   "battles": 2,
+   "wins": [
+    2,
+    0
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "AI timing battles (--lean --profile) for the AI performance report."
+ },
+ {
+  "name": "perf-immortals-vs-penitent",
+  "armies": [
+   "Flamebringer's Immortals",
+   "Penitent Crusade"
+  ],
+  "maps": [
+   "TWIN LAKES",
+   "CROSSROADS"
+  ],
+  "battles": 2,
+  "recorded": [
+   "2026-10-24T01:27:38.625Z",
+   "2026-10-24T01:27:38.787Z"
+  ],
+  "engine": "8ef2c045 Battle reports: count an AI choice timed inside another once",
+  "timed": true,
+  "lean": true,
+  "results": {
+   "battles": 2,
+   "wins": [
+    0,
+    2
+   ],
+   "armies": [
+    "Flamebringer's Immortals",
+    "Penitent Crusade"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "AI timing battles (--lean --profile) for the AI performance report."
+ },
+ {
+  "name": "perf-legion-vs-host",
+  "armies": [
+   "Legatus's Legion",
+   "Spahbed's Host"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "TWIN LAKES"
+  ],
+  "battles": 2,
+  "recorded": [
+   "2026-10-24T01:15:52.010Z",
+   "2026-10-24T01:15:52.273Z"
+  ],
+  "engine": "fe773d2a Battle reports: record how long the AI takes, and what a battle costs the browser",
+  "timed": true,
+  "lean": true,
+  "results": {
+   "battles": 2,
+   "wins": [
+    1,
+    1
+   ],
+   "armies": [
+    "Legatus's Legion",
+    "Spahbed's Host"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "AI timing battles (--lean --profile) for the AI performance report."
+ },
+ {
+  "name": "perf-penitent-vs-court",
+  "armies": [
+   "Penitent Crusade",
+   "Veiled Court"
+  ],
+  "maps": [
+   "TWIN LAKES",
+   "TRIPLE HILLS"
+  ],
+  "battles": 2,
+  "recorded": [
+   "2026-10-24T01:46:23.897Z",
+   "2026-10-24T01:46:24.497Z"
+  ],
+  "engine": "8ef2c045 Battle reports: count an AI choice timed inside another once",
+  "timed": true,
+  "lean": true,
+  "results": {
+   "battles": 2,
+   "wins": [
+    2,
+    0
+   ],
+   "armies": [
+    "Penitent Crusade",
+    "Veiled Court"
+   ]
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "AI timing battles (--lean --profile) for the AI performance report."
+ },
+ {
+  "name": "perf-smoke",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "CROSSROADS"
+  ],
+  "battles": 1,
+  "recorded": [
+   "2026-10-24T01:08:44.235Z",
+   "2026-10-24T01:08:44.235Z"
+  ],
+  "engine": "4efe2e31 Merge pull request #74 from achilles-hp93/ccr-6962c382-ne55kb",
+  "timed": true,
+  "lean": true,
+  "results": {
+   "battles": 1,
+   "winner": "Veiled Court",
+   "vp": [
+    20,
+    36
+   ],
+   "round": 6
+  },
+  "page": {
+   "title": "WARFRONT AI Performance",
+   "url": "https://claude.ai/artifact/NUodFsFrhCaAN4Rx3w38ku"
+  },
+  "files": [
+   "report.json"
+  ],
+  "note": "Seed 802 replayed with the AI timing recorder: same result as its batch battle."
+ },
+ {
+  "name": "repro-700",
+  "armies": [
+   "Armoured Cohort",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "ACROPOLIS"
+  ],
+  "battles": 1,
+  "recorded": [
+   "2026-10-22T23:06:32.942Z",
+   "2026-10-22T23:06:32.942Z"
+  ],
+  "engine": "067c08c6 AI vs AI: each side keeps its missives when the other assigns its own",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 1,
+   "winner": "Armoured Cohort",
+   "vp": [
+    38,
+    18
+   ],
+   "round": 7
+  },
+  "page": null,
+  "files": [
+   "report.json"
+  ],
+  "note": "Seed 700 replayed to check a battle repeats."
+ },
+ {
+  "name": "smoke-live",
+  "armies": [
+   "Armoured Cohort",
+   "Crusade Host"
+  ],
+  "maps": [
+   "CROSSROADS"
+  ],
+  "battles": 1,
+  "recorded": [
+   "2026-10-22T00:03:27.475Z",
+   "2026-10-22T00:03:27.475Z"
+  ],
+  "engine": "5e6f950c Merge pull request #76 from achilles-hp93/ccr-ff77fb68-vj5lui",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 1,
+   "winner": "Crusade Host",
+   "vp": [
+    13,
+    34
+   ],
+   "round": 5
+  },
+  "page": null,
+  "files": [
+   "live",
+   "report.json"
+  ],
+  "note": "Live-mode smoke test."
+ },
+ {
+  "name": "trial",
+  "armies": null,
+  "maps": [
+   "ACROPOLIS"
+  ],
+  "battles": 1,
+  "recorded": [
+   "2026-10-21T19:15:22.657Z",
+   "2026-10-21T19:15:22.657Z"
+  ],
+  "engine": "0c348ded Overwatch-Ready is held fire; spell attacks follow the ranged rules; damage per unit",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 1,
+   "vp": [
+    4,
+    33
+   ],
+   "round": 4
+  },
+  "page": null,
+  "files": [
+   "battle_report.html",
+   "report.json"
+  ],
+  "note": "The battle-report tool's first trial battle."
+ },
+ {
+  "name": "whispers-check",
+  "armies": [
+   "Veiled Court",
+   "Spahbed's Host"
+  ],
+  "maps": [
+   "TRIPLE HILLS"
+  ],
+  "battles": 1,
+  "recorded": [
+   "2026-10-23T22:17:44.851Z",
+   "2026-10-23T22:17:44.851Z"
+  ],
+  "engine": "3727bb64 Battle reports: an affliction tick is named by its own summary line",
+  "timed": false,
+  "lean": false,
+  "results": {
+   "battles": 1,
+   "winner": "Veiled Court",
+   "vp": [
+    34,
+    27
+   ],
+   "round": 7
+  },
+  "page": null,
+  "files": [
+   "effects.json",
+   "report.json"
+  ],
+  "note": "Seed 811 replayed to check the Whispers of Forbidden Pleasure pricing."
+ }
+]

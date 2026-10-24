@@ -1,0 +1,547 @@
+<style>
+/* Layout: one reading column of sections, each a heading, a line of figures and cards
+   of charts and tables; findings and method at the end. */
+.aip { max-width: 72rem; margin-inline: auto; font-family: var(--font-anthropic-sans); display: grid; gap: var(--cds-gap-xl); }
+.aip h1 { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+.aip h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0; text-wrap: balance; }
+.aip h3 { font-size: var(--cds-font-size-body); font-weight: var(--cds-font-weight-medium); margin: 0; }
+.aip p { margin: 0; line-height: 1.55; max-width: 68ch; }
+.aip .muted { color: var(--color-fg-muted); }
+.aip .cap { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.aip header { display: grid; gap: var(--cds-gap-sm); }
+.aip nav { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm) var(--cds-gap-md); font-size: var(--cds-font-size-caption); }
+.aip nav a { color: var(--color-fg-muted); }
+.aip section { display: grid; gap: var(--cds-gap-md); }
+.aip .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 10rem), 1fr)); gap: var(--cds-gap-md); }
+.aip .tile { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-md); display: grid; gap: var(--cds-gap-xs); align-content: start; }
+.aip .tile .big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; }
+.aip .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: var(--cds-gap-md); }
+.aip .card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-sm); align-content: start; min-width: 0; }
+.aip .card.wide { grid-column: 1 / -1; }
+.aip .chart { position: relative; min-height: 12rem; }
+.aip .chart svg { display: block; }
+.aip .tablebox { overflow: auto; max-height: 28rem; }
+.aip table { border-collapse: collapse; width: 100%; font-size: var(--cds-font-size-caption); font-variant-numeric: tabular-nums; }
+.aip th, .aip td { text-align: left; padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: top; }
+.aip th { position: sticky; top: 0; background: var(--color-panel); font-weight: var(--cds-font-weight-medium); color: var(--color-fg-muted); }
+.aip td.n, .aip th.n { text-align: right; white-space: nowrap; }
+.aip td.code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; word-break: break-all; }
+.aip .good { color: var(--color-ok); } .aip .bad { color: var(--color-bad); } .aip .warn { color: var(--color-warn); }
+.aip ol.findings { margin: 0; padding-left: 1.4rem; display: grid; gap: var(--cds-gap-md); }
+.aip ol.findings li { line-height: 1.55; max-width: 72ch; }
+.aip ol.findings b { font-weight: var(--cds-font-weight-medium); }
+.aip .tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border); border-radius: var(--cds-radius);
+  box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm); font-size: var(--cds-font-size-caption); white-space: nowrap; z-index: 2; }
+.aip .tip .k { color: var(--cds-text-secondary); }
+.aip [data-dash-source-state=empty] { color: transparent; }
+.aip [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+.aip .legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm) var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+.aip .legend i { display: inline-block; width: .7rem; height: .7rem; border-radius: 2px; margin-right: .3rem; vertical-align: -1px; }
+</style>
+
+<div class="aip">
+  <header>
+    <h1 id="top">WARFRONT AI performance</h1>
+    <p>Across <span data-source="headline" data-field="value" data-where="metric=battles">—</span> real AI-vs-AI battles, the median AI turn took
+      <span data-source="headline" data-field="value" data-where="metric=turn_median_ms">—</span> ms and the slowest
+      <span data-source="headline" data-field="value" data-where="metric=turn_max_ms">—</span> ms. Deciding was
+      <span data-source="headline" data-field="value" data-where="metric=ai_share_pct">—</span>% of all the JavaScript the page ran, most of it in the rules' own damage and threat
+      estimates, re-run for every square and target. Memory holds steady. In play, units spent
+      <span data-source="headline" data-field="value" data-where="metric=idle_pct">—</span>% of their rounds without spending an action.</p>
+    <p class="cap">Six matchups covering all eight preset armies, two battles each, sides swapped, all four skirmish maps, on the engine merged in #74.
+      Decision quality also draws on <span data-source="headline" data-field="value" data-where="metric=quality_battles">—</span> battles in all, with the full records.</p>
+    <nav>
+      <a href="#speed">How long the AI takes</a><a href="#inside">Inside a turn</a><a href="#cpu">Where the CPU goes</a>
+      <a href="#memory">Memory</a><a href="#thread">The main thread</a><a href="#quality">Decision quality</a>
+      <a href="#findings">What to fix first</a><a href="#method">How this was measured</a>
+    </nav>
+  </header>
+
+  <section id="speed">
+    <h2>How long the AI takes</h2>
+    <p class="muted">A turn is one decision the game asks the AI for: a Command, Movement or Action Phase turn, from start to the action it chose.</p>
+    <div class="tiles">
+      <div class="tile"><span class="cap">Median turn</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=turn_median_ms">—</span></span><span class="cap">ms</span></div>
+      <div class="tile"><span class="cap">1 turn in 10 takes over</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=turn_p90_ms">—</span></span><span class="cap">ms</span></div>
+      <div class="tile"><span class="cap">Slowest turn</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=turn_max_ms">—</span></span><span class="cap">ms</span></div>
+      <div class="tile"><span class="cap">AI thinking per Battle Round</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=ai_s_per_round">—</span></span><span class="cap">s, both sides</span></div>
+      <div class="tile"><span class="cap">AI share of page JavaScript</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=ai_share_pct">—</span></span><span class="cap">%</span></div>
+    </div>
+    <div class="grid">
+      <div class="card wide">
+        <h3 id="turn-chart-title">Turn time by phase and by the action chosen</h3>
+        <p class="cap">Dot: median. Line: to the 90th percentile. Ring: the slowest. Kinds with fewer than 5 turns are left out.</p>
+        <div class="chart" id="turn-chart" data-source="turn_times"></div>
+      </div>
+      <div class="card wide">
+        <h3>Every kind of turn and choice</h3>
+        <p class="cap">Choices are the AI's other decisions: a reaction at a seam of the rules (an Overwatch, a square after an Advance), or a deployment.</p>
+        <div class="tablebox">
+          <table id="turn-table" data-source="turn_times" data-row-key="key">
+            <thead><tr><th data-field="name">Kind</th><th data-field="kind">Group</th><th class="n" data-field="n">Count</th><th class="n" data-field="median_ms">Median ms</th>
+              <th class="n" data-field="p90_ms">90th pct ms</th><th class="n" data-field="max_ms">Slowest ms</th><th class="n" data-field="total_s">Total s</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="card wide">
+        <h3>The 20 slowest decisions</h3>
+        <p class="cap">With the stage inside it that took longest.</p>
+        <div class="tablebox">
+          <table id="slow-table" data-source="slowest_turns" data-row-key="rank">
+            <thead><tr><th class="n" data-field="rank">#</th><th class="n" data-field="ms">ms</th><th data-field="what">Decision</th><th data-field="unit">Unit</th>
+              <th data-field="phase">Phase</th><th class="n" data-field="round">Round</th><th data-field="stage">Longest stage</th><th class="n" data-field="stage_ms">Stage ms</th><th data-field="battle">Battle</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="inside">
+    <h2>Inside a turn</h2>
+    <p>Before deciding anything, every turn re-runs a set-up: the army's posture, the threat each unit poses, and in the Command Phase the missives. That set-up is
+      <span data-source="headline" data-field="value" data-where="metric=setup_share_pct">—</span>% of all turn time, about
+      <span data-source="headline" data-field="value" data-where="metric=setup_mean_ms">—</span> ms a turn, and it runs even on a turn the AI then passes:
+      a pass costs <span data-source="headline" data-field="value" data-where="metric=pass_mean_ms">—</span> ms on average, and
+      <span data-source="headline" data-field="value" data-where="metric=passes_share_pct">—</span>% of turns are passes.</p>
+    <div class="grid">
+      <div class="card">
+        <h3>Share of turn time in each stage</h3>
+        <p class="cap">Inclusive: a stage inside another counts in both, so the bars add up to more than 100%.</p>
+        <div class="chart" id="stage-chart" data-source="ai_stages"></div>
+      </div>
+      <div class="card">
+        <h3>The AI's own functions, by the time spent in what they call</h3>
+        <p class="cap">Share of the page's busy time, from the CPU profile.</p>
+        <div class="chart" id="calls-chart" data-source="ai_calls"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="cpu">
+    <h2>Where the CPU goes</h2>
+    <p>The AI's own code is only <span data-source="headline" data-field="value" data-where="metric=ai_code_self_share_pct">—</span>% of the page's busy time.
+      Its turns are long because it asks the rules engine for expected damage and a threat value over and over:
+      the weapon profile alone is under <span data-source="headline" data-field="value" data-where="metric=weapon_profile_share_pct">—</span>% of busy time, and
+      collecting a weapon's combat effects is <span data-source="headline" data-field="value" data-where="metric=collect_effects_self_share_pct">—</span>% on its own.
+      The game's unit list, rebuilt from scratch about <span data-source="headline" data-field="value" data-where="metric=unit_list_redraws">—</span> times a battle, is
+      <span data-source="headline" data-field="value" data-where="metric=unit_list_self_share_pct">—</span>%.</p>
+    <div class="grid">
+      <div class="card">
+        <h3>Busy time by area</h3>
+        <p class="cap">Each function's own time, by the engine folder it lives in.</p>
+        <div class="chart" id="area-chart" data-source="profile_areas"></div>
+      </div>
+      <div class="card">
+        <h3>The 30 functions with the most time of their own</h3>
+        <p class="cap">Own time is the function's code itself; total includes what it calls. Seconds over every profiled battle.</p>
+        <div class="tablebox">
+          <table id="fn-table" data-source="profile_functions" data-row-key="rank">
+            <thead><tr><th class="n" data-field="rank">#</th><th data-field="fn">Function</th><th data-field="area">Area</th><th class="n" data-field="self_s">Own s</th><th class="n" data-field="self_share">Own %</th><th class="n" data-field="total_s">Total s</th><th data-field="file">File</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="memory">
+    <h2>Memory and the page</h2>
+    <p>No leak. The JavaScript heap starts at <span data-source="headline" data-field="value" data-where="metric=start_mb">—</span> MB, peaks at
+      <span data-source="headline" data-field="value" data-where="metric=peak_mb">—</span> MB on average and holds
+      <span data-source="headline" data-field="value" data-where="metric=retained_mb">—</span> MB after a full garbage collection at the end. DOM nodes climb to
+      <span data-source="headline" data-field="value" data-where="metric=end_nodes_k">—</span> thousand, but only
+      <span data-source="headline" data-field="value" data-where="metric=retained_nodes_k">—</span> thousand survive that collection: the rest is discarded markup from redraws,
+      not yet collected. Event listeners go the same way, <span data-source="headline" data-field="value" data-where="metric=end_listeners">—</span> before and
+      <span data-source="headline" data-field="value" data-where="metric=retained_listeners">—</span> after.</p>
+    <div class="tiles">
+      <div class="tile"><span class="cap">Heap at the start</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=start_mb">—</span></span><span class="cap">MB</span></div>
+      <div class="tile"><span class="cap">Peak heap, average</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=peak_mb">—</span></span><span class="cap">MB</span></div>
+      <div class="tile"><span class="cap">Peak heap, highest</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=peak_mb_max">—</span></span><span class="cap">MB</span></div>
+      <div class="tile"><span class="cap">Kept after collection</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=retained_mb">—</span></span><span class="cap">MB</span></div>
+      <div class="tile"><span class="cap">Nodes in the document at the end</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=end_dom_k">—</span></span><span class="cap">thousand</span></div>
+    </div>
+    <div class="grid">
+      <div class="card">
+        <h3>JavaScript heap through each battle</h3>
+        <p class="cap">MB, sampled at each Battle Round's start and the end. One line per battle.</p>
+        <div class="chart" id="heap-chart" data-source="memory_rounds"></div>
+      </div>
+      <div class="card">
+        <h3>DOM nodes through each battle</h3>
+        <p class="cap">Thousands, live and discarded. The final collection leaves a few thousand.</p>
+        <div class="chart" id="nodes-chart" data-source="memory_rounds"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="thread">
+    <h2>The main thread</h2>
+    <p>The browser runs the game on one thread. A task over 50 ms freezes the page for as long as it runs. A battle had about
+      <span data-source="headline" data-field="value" data-where="metric=long_tasks_per_battle">—</span> of them, together
+      <span data-source="headline" data-field="value" data-where="metric=long_task_s_per_battle">—</span> s; the longest froze it for
+      <span data-source="headline" data-field="value" data-where="metric=long_task_max_ms">—</span> ms, and
+      <span data-source="headline" data-field="value" data-where="metric=long_task_ai_pct">—</span>% of them held an AI decision. A player watching an AI turn sees the page stop answering until it ends.</p>
+    <div class="card">
+      <h3>Each battle: its length and the time the page was frozen</h3>
+      <p class="cap">Seconds. Batches ran two battles at a time on a 4-core machine, with the AI's display delays set to zero.</p>
+      <div class="legend" id="thread-legend"></div>
+      <div class="chart" id="thread-chart" data-source="perf_battles"></div>
+    </div>
+    <div class="card">
+      <h3>Every battle timed</h3>
+      <div class="tablebox">
+        <table id="battle-table" data-source="perf_battles" data-row-key="battle">
+          <thead><tr><th data-field="battle">Battle</th><th data-field="winner">Winner</th><th class="n" data-field="rounds">Rounds</th><th class="n" data-field="wall_s">Length s</th>
+            <th class="n" data-field="ai_s">AI s</th><th class="n" data-field="ai_share">AI % of JS</th><th class="n" data-field="turns">Turns</th><th class="n" data-field="turn_median_ms">Median ms</th>
+            <th class="n" data-field="turn_max_ms">Slowest ms</th><th class="n" data-field="peak_mb">Peak MB</th><th class="n" data-field="retained_mb">Kept MB</th><th class="n" data-field="unit_list_redraws">Unit list redraws</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section id="quality">
+    <h2>Decision quality in real battles</h2>
+    <p>What the AI did with its units, from the battles' own records. A unit is <b>idle</b> in a round it was on the board with an action point it could spend and spent none:
+      <span data-source="headline" data-field="value" data-where="metric=idle_pct">—</span>% of unit-rounds. In
+      <span data-source="headline" data-field="value" data-where="metric=idle_no_action_pct">—</span>% it had nothing legal in reach (a melee unit out of contact, a gun with no target);
+      in <span data-source="headline" data-field="value" data-where="metric=idle_hold_pct">—</span>% it had an action and judged it not worth taking.
+      <span data-source="headline" data-field="value" data-where="metric=charge_fought_pct">—</span>% of charges ended in a fight, and in
+      <span data-source="headline" data-field="value" data-where="metric=charge_target_left_pct">—</span>% the target Fell Back first.
+      <span data-source="headline" data-field="value" data-where="metric=commands_nothing_pct">—</span>% of command, ability and spell uses bought nothing measurable, taking
+      <span data-source="headline" data-field="value" data-where="metric=cp_nothing_pct">—</span>% of the CP spent.</p>
+    <div class="tiles">
+      <div class="tile"><span class="cap">Unit-rounds idle</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=idle_pct">—</span></span><span class="cap">%</span></div>
+      <div class="tile"><span class="cap">Moves the next move undid</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=undone_pct">—</span></span><span class="cap">%</span></div>
+      <div class="tile"><span class="cap">Objectives left empty, friends 2–3 squares off</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=hover_pct">—</span></span><span class="cap">% of objective-rounds</span></div>
+      <div class="tile"><span class="cap">Fall Back decisions flagged</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=fallback_flagged_pct">—</span></span><span class="cap">% of <span data-source="headline" data-field="value" data-where="metric=fallback_decisions">—</span></span></div>
+      <div class="tile"><span class="cap">Secondary missions completed</span><span class="big"><span data-source="headline" data-field="value" data-where="metric=secondaries_completed_pct">—</span></span><span class="cap">% of those kept</span></div>
+    </div>
+    <div class="grid">
+      <div class="card wide">
+        <h3>By matchup</h3>
+        <p class="cap">Percentages of unit-rounds, moves, objective-rounds or charges. The two batches of 12 have the full records; the six matchups are the timed battles.</p>
+        <div class="tablebox">
+          <table id="quality-table" data-source="quality" data-row-key="matchup">
+            <thead><tr><th data-field="matchup">Battles</th><th class="n" data-field="battles">#</th><th class="n" data-field="idle_share">Idle %</th><th class="n" data-field="idle_no_action_share">Nothing in reach %</th>
+              <th class="n" data-field="idle_hold_share">Chose to hold %</th><th class="n" data-field="moved_then_idle_share">Moved, then idle %</th><th class="n" data-field="undone_share">Moves undone %</th>
+              <th class="n" data-field="hover_share">Objective left empty %</th><th class="n" data-field="held_share">Objective held %</th><th class="n" data-field="charge_fought_share">Charges that fought %</th>
+              <th class="n" data-field="charge_target_left_share">Target fell back %</th><th class="n" data-field="secondaries_completed_share">Secondaries done %</th><th class="n" data-field="friendly_fire_per_battle">Friendly fire / battle</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Fall Back decisions, judged</h3>
+        <p class="cap">Every time a unit in contact weighed falling back. Amber: judged doubtful or costly by its danger, the ground it held and what leaving gained.</p>
+        <div class="chart" id="fallback-chart" data-source="fallbacks"></div>
+      </div>
+      <div class="card">
+        <h3>Commands, abilities and spells that bought nothing</h3>
+        <p class="cap">The 24 most used. Some can't be priced by the record at all (a Miracle's option, a shield nobody tested); see the method.</p>
+        <div class="tablebox">
+          <table id="cmd-table" data-source="commands" data-row-key="use">
+            <thead><tr><th data-field="use">Use</th><th data-field="kind">Kind</th><th class="n" data-field="uses">Uses</th><th class="n" data-field="nothing_share">Bought nothing %</th><th class="n" data-field="cp">CP</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="card wide">
+        <h3>Tonight's three AI fixes, on the same seeds before and after</h3>
+        <p class="cap">Objectives held by friends in the Objective Area; a charge measured against the square the walk reaches; artillery on fire support does not screen. 12 battles each.</p>
+        <div class="tablebox">
+          <table id="fix-table" data-source="fixes" data-row-key="key">
+            <thead><tr><th data-field="metric">Measure</th><th data-field="matchup">Matchup</th><th class="n" data-field="before">Before</th><th class="n" data-field="after">After</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="findings">
+    <h2>What to fix first</h2>
+    <ol class="findings">
+      <li><b>Cache what a turn asks the rules for.</b> The AI's own code is a sliver of the time; its turns are long because the same expected-damage and threat estimates are
+        recomputed for every square and target, and each one rebuilds the weapon's profile and re-collects its combat effects and auras. Within one decision nothing those depend on
+        changes. Caching a unit's resolved weapon profiles and threat values for the length of a decision should cut most of the
+        <span data-source="headline" data-field="value" data-where="metric=weapon_profile_share_pct">—</span>% that sits under the weapon profile.</li>
+      <li><b>Don't redo the turn set-up when nothing changed.</b> Posture, the threat matrix and the missives run at the start of every turn,
+        <span data-source="headline" data-field="value" data-where="metric=setup_share_pct">—</span>% of turn time, even for a pass. They depend on the board, so they can be kept until a
+        unit moves, attacks or dies. The slowest turns of all are Movement Phase turns that end in a pass, up to
+        <span data-source="slowest_turns" data-field="ms" data-where="rank=2">—</span> ms: the AI works out a destination for every unit it could move, one after another,
+        and then moves none. A unit that found nothing worth doing could be skipped until the board changes.</li>
+      <li><b>Keep the page answering during an AI turn.</b> A turn runs as one task on the main thread, up to
+        <span data-source="headline" data-field="value" data-where="metric=long_task_max_ms">—</span> ms. Splitting the search into steps that yield between units, or running the
+        AI in a Web Worker, would keep the board and buttons responsive while it thinks.</li>
+      <li><b>Update the unit list instead of rebuilding it.</b> It is cleared and rebuilt from HTML about
+        <span data-source="headline" data-field="value" data-where="metric=unit_list_redraws">—</span> times a battle, the single largest function of its own in the profile. Redrawing only the
+        rows that changed, or once per animation frame, removes most of it and most of the DOM churn.</li>
+      <li><b>Spend fewer turns idle.</b> <span data-source="headline" data-field="value" data-where="metric=idle_no_action_pct">—</span>% of unit-rounds had nothing legal in reach.
+        Part of that is the game (a walk costs no action point), but it is also melee units stopping short and guns ending moves out of sight; the Movement Phase could value
+        ending where the unit can act. And <span data-source="headline" data-field="value" data-where="metric=charge_target_left_pct">—</span>% of charges met an empty square because the target had not yet moved and Fell Back:
+        a charge on a unit that has already moved cannot be escaped.</li>
+      <li><b>Price what the commands buy before buying them.</b> <span data-source="headline" data-field="value" data-where="metric=cp_nothing_pct">—</span>% of CP went on uses that changed
+        nothing the record can see. Double Time when the square was already in reach and Secure Objective that flipped no objective are the AI's valuation; Miracles and protective
+        spells are partly the record's blind spot.</li>
+    </ol>
+  </section>
+
+  <section id="method">
+    <h2>How this was measured</h2>
+    <p>Each battle was played in the built game page by the game's own AI on both seats, with the battle-report tool (<span class="code">scripts/battle_report/</span>), its new
+      <span class="code">--lean --profile</span> mode: the AI's decisions timed in the page around the engine's own functions, memory and the page's metrics read over the browser's
+      DevTools protocol at each Battle Round's start, and a CPU profile sampled every millisecond. The timing changes no rule: a battle replayed with it on ends exactly as it did without.
+      Lean mode leaves out the report's counterfactual records, which run inside the AI's calls and would inflate its times.</p>
+    <p>Machine: <span data-source="machine" data-field="cpu" data-where="key=machine">—</span>, <span data-source="machine" data-field="cores" data-where="key=machine">—</span> cores,
+      <span data-source="machine" data-field="memory_gb" data-where="key=machine">—</span> GB, <span data-source="machine" data-field="browser" data-where="key=machine">—</span> headless. Two battles ran
+      at once, each in its own browser, so a player's faster machine would see shorter turns; the shares and the memory figures carry over. The AI's own pauses (its "thinking" and
+      action delays) were set to zero, so the times are pure decision time.</p>
+    <p>Decision quality uses the timed battles plus two 12-battle batches with full records, all on the same engine. "Bought nothing" means the record found no attack it improved,
+      no target it made shootable, no move only it put in reach, no objective it decided and no damage it caused; a Miracle's attack option and a shield nobody attacked through
+      cannot be priced, so their rows overstate the waste.</p>
+  </section>
+</div>
+
+<script>
+(function () {
+  var root = document.querySelector('.aip');
+  var fmtInt = d3.format(','), fmt1 = d3.format(',.1f');
+  var num = function (v) {
+    if (v == null || v === '') return '—';
+    if (typeof v !== 'number') return String(v);
+    return Number.isInteger(v) ? fmtInt(v) : fmt1(v);
+  };
+  var rowsOf = function (id) { var r = dash.data(id); return r.status === 'ok' && Array.isArray(r.data) ? r.data : null; };
+  var setText = function (el, t) { el.textContent = t; };
+
+  // A sentence's number: the row its data-where names, the column its data-field names.
+  function fillMarks() {
+    root.querySelectorAll('span[data-source][data-field][data-where]').forEach(function (el) {
+      var rows = rowsOf(el.getAttribute('data-source'));
+      if (!rows) { setText(el, '—'); return; }
+      var where = el.getAttribute('data-where').split('&').map(function (p) { var i = p.indexOf('='); return [decodeURIComponent(p.slice(0, i)), decodeURIComponent(p.slice(i + 1))]; });
+      var row = rows.find(function (r) { return where.every(function (w) { return String(r[w[0]]) === w[1]; }); });
+      setText(el, row ? num(row[el.getAttribute('data-field')]) : '—');
+    });
+  }
+
+  // A table: one row per data row, text only; the key on the row.
+  function fillTable(id, filter, cellClass, pctFields) {
+    var table = document.getElementById(id);
+    var rows = rowsOf(table.getAttribute('data-source'));
+    var body = table.querySelector('tbody');
+    body.textContent = '';
+    if (!rows) return;
+    var fields = Array.from(table.querySelectorAll('th')).map(function (th) { return th.getAttribute('data-field'); });
+    var keys = table.getAttribute('data-row-key').split(',');
+    rows.filter(filter || function () { return true; }).forEach(function (r) {
+      var tr = document.createElement('tr');
+      tr.setAttribute('data-key', keys.map(function (k) { return encodeURIComponent(String(r[k])); }).join(','));
+      fields.forEach(function (f, i) {
+        var td = document.createElement('td');
+        var th = table.querySelectorAll('th')[i];
+        if (th.classList.contains('n')) td.className = 'n';
+        if (f === 'file') td.className = 'code';
+        var c = cellClass && cellClass(r, f);
+        if (c) td.classList.add(c);
+        td.textContent = num(r[f]) + (pctFields && pctFields(r, f) ? '%' : '');
+        tr.appendChild(td);
+      });
+      body.appendChild(tr);
+    });
+  }
+
+  // Shorten a label until it fits `max` pixels as drawn.
+  function fitText(sel, max) {
+    sel.each(function () {
+      var el = this, full = el.textContent, t = full;
+      while (t.length > 3 && el.getComputedTextLength() > max) { t = t.slice(0, -1); el.textContent = t.replace(/\s+$/, '') + '…'; }
+      if (t !== full) { var ti = document.createElementNS('http://www.w3.org/2000/svg', 'title'); ti.textContent = full; el.appendChild(ti); }
+    });
+  }
+
+  var tipOf = function (box) {
+    var t = box.querySelector('.tip');
+    if (!t) { t = document.createElement('div'); t.className = 'tip'; t.hidden = true; box.appendChild(t); }
+    return t;
+  };
+  function showTip(box, ev, lines) {
+    var t = tipOf(box);
+    t.textContent = '';
+    lines.forEach(function (l, i) { var d = document.createElement('div'); if (i === 0) d.className = 'k'; d.textContent = l; t.appendChild(d); });
+    t.hidden = false;
+    var b = box.getBoundingClientRect();
+    var x = ev.clientX - b.left + 12, y = ev.clientY - b.top + 12;
+    var w = t.offsetWidth, h = t.offsetHeight;
+    if (x + w > b.width) x = Math.max(0, ev.clientX - b.left - w - 12);
+    if (y + h > b.height) y = Math.max(0, ev.clientY - b.top - h - 12);
+    t.style.left = x + 'px'; t.style.top = y + 'px';
+  }
+  var hideTip = function (box) { tipOf(box).hidden = true; };
+
+  // Horizontal bars, one per row, labelled at the left and valued at the end.
+  function hbar(id, rows, o) {
+    var box = document.getElementById(id);
+    d3.select(box).selectAll('svg').remove();
+    if (!rows || !rows.length) return;
+    var W = Math.max(280, box.clientWidth), bar = 18, gap = 8;
+    var svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', '0 0 ' + W + ' ' + (rows.length * (bar + gap) + 4));
+    var probe = svg.append('text').attr('font-size', 12);
+    var labelW = d3.max(rows, function (r) { probe.text(o.label(r)); return probe.node().getComputedTextLength(); });
+    var valueW = d3.max(rows, function (r) { probe.text(o.text(r)); return probe.node().getComputedTextLength(); });
+    probe.remove();
+    var left = Math.min(W * 0.5, labelW + 10), right = valueW + 10;
+    var x = d3.scaleLinear([0, d3.max(rows, o.value) || 1], [left, W - right]);
+    var g = svg.selectAll('g').data(rows).join('g').attr('transform', function (r, i) { return 'translate(0,' + (i * (bar + gap) + 2) + ')'; });
+    g.append('text').attr('x', left - 8).attr('y', bar / 2).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 12)
+      .attr('fill', 'var(--color-fg)').text(o.label).call(fitText, left - 12);
+    g.append('rect').attr('x', left).attr('height', bar).attr('rx', 4).attr('width', function (r) { return Math.max(1, x(o.value(r)) - left); })
+      .attr('fill', function (r) { return o.color ? o.color(r) : dash.colors[0]; })
+      .on('mousemove', function (ev, r) { showTip(box, ev, o.tip(r)); }).on('mouseleave', function () { hideTip(box); });
+    g.append('text').attr('x', function (r) { return x(o.value(r)) + 6; }).attr('y', bar / 2).attr('dy', '0.35em').attr('font-size', 12)
+      .attr('fill', 'var(--color-fg-muted)').text(o.text);
+  }
+
+  // Median dot, a line to the 90th percentile, a ring at the slowest, on one ms scale.
+  function rangeChart(id, rows) {
+    var box = document.getElementById(id);
+    d3.select(box).selectAll('svg').remove();
+    if (!rows || !rows.length) return;
+    var W = Math.max(300, box.clientWidth), rowH = 24, top = 22;
+    var svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', '0 0 ' + W + ' ' + (top + rows.length * rowH + 8));
+    var probe = svg.append('text').attr('font-size', 12);
+    var labelW = d3.max(rows, function (r) { probe.text(r.name); return probe.node().getComputedTextLength(); });
+    probe.remove();
+    var left = Math.min(W * 0.45, labelW + 12), right = 16;
+    var x = d3.scaleLinear([0, d3.max(rows, function (r) { return r.max_ms; })], [left, W - right]).nice();
+    var ticks = x.ticks(Math.max(2, Math.floor((W - left) / 90)));
+    svg.append('g').selectAll('line').data(ticks).join('line').attr('x1', x).attr('x2', x).attr('y1', top - 4).attr('y2', top + rows.length * rowH)
+      .attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data(ticks).join('text').attr('x', x).attr('y', 12).attr('text-anchor', 'middle').attr('font-size', 11)
+      .attr('text-anchor', function (v, i) { return i === ticks.length - 1 ? 'end' : 'middle'; })
+      .attr('fill', 'var(--color-fg-muted)').text(function (v, i) { return fmtInt(v) + (i === ticks.length - 1 ? ' ms' : ''); });
+    var g = svg.selectAll('g.r').data(rows).join('g').attr('class', 'r').attr('transform', function (r, i) { return 'translate(0,' + (top + i * rowH + rowH / 2) + ')'; });
+    g.append('text').attr('x', left - 10).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 12)
+      .attr('fill', function (r) { return r.group === 'phase' ? 'var(--color-fg)' : 'var(--color-fg-muted)'; })
+      .attr('font-weight', function (r) { return r.group === 'phase' ? 600 : 400; }).text(function (r) { return r.name; }).call(fitText, left - 14);
+    g.append('line').attr('x1', function (r) { return x(r.median_ms); }).attr('x2', function (r) { return x(r.p90_ms); })
+      .attr('stroke', dash.colors[0]).attr('stroke-width', 2).attr('stroke-linecap', 'round');
+    g.append('circle').attr('cx', function (r) { return x(r.max_ms); }).attr('r', 4).attr('fill', 'none').attr('stroke', 'var(--cds-chart-muted)').attr('stroke-width', 1.5);
+    g.append('circle').attr('cx', function (r) { return x(r.median_ms); }).attr('r', 5).attr('fill', dash.colors[0]);
+    g.append('rect').attr('x', left).attr('y', -rowH / 2).attr('width', W - left).attr('height', rowH).attr('fill', 'transparent')
+      .on('mousemove', function (ev, r) { showTip(box, ev, [r.name, fmtInt(r.n) + ' turns', 'median ' + fmtInt(r.median_ms) + ' ms', '90th percentile ' + fmtInt(r.p90_ms) + ' ms', 'slowest ' + fmtInt(r.max_ms) + ' ms']); })
+      .on('mouseleave', function () { hideTip(box); });
+  }
+
+  // One line per battle over the seconds since it began.
+  function lineChart(id, rows, field, unit) {
+    var box = document.getElementById(id);
+    d3.select(box).selectAll('svg').remove();
+    if (!rows || !rows.length) return;
+    var W = Math.max(280, box.clientWidth), H = 220, m = { t: 10, r: 14, b: 26, l: 40 };
+    var byBattle = d3.groups(rows, function (r) { return r.battle; });
+    var x = d3.scaleLinear([0, d3.max(rows, function (r) { return r.at_s; })], [m.l, W - m.r]).nice();
+    var y = d3.scaleLinear([0, d3.max(rows, function (r) { return r[field]; })], [H - m.b, m.t]).nice();
+    var svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', '0 0 ' + W + ' ' + H);
+    var yt = y.ticks(4);
+    svg.append('g').selectAll('line').data(yt).join('line').attr('x1', m.l).attr('x2', W - m.r).attr('y1', y).attr('y2', y).attr('stroke', 'var(--cds-chart-grid)');
+    svg.append('g').selectAll('text').data(yt).join('text').attr('x', m.l - 6).attr('y', y).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 11)
+      .attr('fill', 'var(--color-fg-muted)').text(function (v) { return fmtInt(v); });
+    var xt = x.ticks(Math.max(2, Math.floor((W - m.l) / 80)));
+    svg.append('g').selectAll('text').data(xt).join('text').attr('x', x).attr('y', H - 8)
+      .attr('text-anchor', function (v, i) { return i === xt.length - 1 ? 'end' : (i === 0 ? 'start' : 'middle'); }).attr('font-size', 11)
+      .attr('fill', 'var(--color-fg-muted)').text(function (v, i) { return fmtInt(v) + (i === xt.length - 1 ? ' s' : ''); });
+    var line = d3.line().x(function (r) { return x(r.at_s); }).y(function (r) { return y(r[field]); });
+    var paths = svg.append('g').selectAll('path').data(byBattle).join('path').attr('d', function (b) { return line(b[1]); })
+      .attr('fill', 'none').attr('stroke', 'var(--cds-chart-muted)').attr('stroke-width', 2).attr('stroke-linejoin', 'round').attr('stroke-linecap', 'round');
+    var pts = rows.map(function (r) { return [x(r.at_s), y(r[field]), r]; });
+    var dot = svg.append('circle').attr('r', 4).attr('fill', dash.colors[0]).attr('opacity', 0);
+    var del = d3.Delaunay.from(pts, function (p) { return p[0]; }, function (p) { return p[1]; });
+    svg.append('rect').attr('x', m.l).attr('y', m.t).attr('width', W - m.l - m.r).attr('height', H - m.t - m.b).attr('fill', 'transparent')
+      .on('mousemove', function (ev) {
+        var p = d3.pointer(ev, svg.node());
+        var i = del.find(p[0], p[1]);
+        var hit = pts[i];
+        if (!hit) return;
+        dot.attr('cx', hit[0]).attr('cy', hit[1]).attr('opacity', 1);
+        paths.attr('stroke', function (b) { return b[0] === hit[2].battle ? dash.colors[0] : 'var(--cds-chart-muted)'; }).attr('opacity', function (b) { return b[0] === hit[2].battle ? 1 : 0.45; });
+        showTip(box, ev, [hit[2].battle, hit[2].label + ', ' + fmtInt(hit[2].at_s) + ' s in', fmt1(hit[2][field]) + ' ' + unit]);
+      })
+      .on('mouseleave', function () { dot.attr('opacity', 0); paths.attr('stroke', 'var(--cds-chart-muted)').attr('opacity', 1); hideTip(box); });
+  }
+
+  // Each battle: its length, and the time the page was frozen inside it.
+  function threadChart(rows) {
+    var box = document.getElementById('thread-chart');
+    d3.select(box).selectAll('svg').remove();
+    var legend = document.getElementById('thread-legend');
+    legend.textContent = '';
+    [['Battle length', 'var(--cds-chart-muted)'], ['Frozen by tasks over 50 ms', dash.colors[0]]].forEach(function (l) {
+      var s = document.createElement('span'), i = document.createElement('i'); i.style.background = l[1]; s.appendChild(i); s.appendChild(document.createTextNode(l[0])); legend.appendChild(s);
+    });
+    if (!rows || !rows.length) return;
+    var W = Math.max(300, box.clientWidth), rowH = 26, bar = 9;
+    var svg = d3.select(box).append('svg').attr('width', '100%').attr('viewBox', '0 0 ' + W + ' ' + (rows.length * rowH + 8));
+    var probe = svg.append('text').attr('font-size', 12);
+    var label = function (r) { return r.matchup + ' · ' + r.map; };
+    var labelW = d3.max(rows, function (r) { probe.text(label(r)); return probe.node().getComputedTextLength(); });
+    probe.remove();
+    var left = Math.min(W * 0.48, labelW + 10);
+    var x = d3.scaleLinear([0, d3.max(rows, function (r) { return r.wall_s; })], [left, W - 46]);
+    var g = svg.selectAll('g').data(rows).join('g').attr('transform', function (r, i) { return 'translate(0,' + (i * rowH + 4) + ')'; });
+    g.append('text').attr('x', left - 8).attr('y', bar).attr('dy', '0.35em').attr('text-anchor', 'end').attr('font-size', 12).attr('fill', 'var(--color-fg)').text(label).call(fitText, left - 12);
+    g.append('rect').attr('x', left).attr('y', 0).attr('height', bar).attr('rx', 3).attr('width', function (r) { return x(r.wall_s) - left; }).attr('fill', 'var(--cds-chart-muted)');
+    g.append('rect').attr('x', left).attr('y', bar + 2).attr('height', bar).attr('rx', 3).attr('width', function (r) { return Math.max(1, x(r.long_task_s) - left); }).attr('fill', dash.colors[0]);
+    g.append('text').attr('x', function (r) { return x(r.wall_s) + 6; }).attr('y', bar).attr('dy', '0.35em').attr('font-size', 11).attr('fill', 'var(--color-fg-muted)')
+      .text(function (r) { return fmtInt(Math.round(r.wall_s)) + ' s'; });
+    g.append('rect').attr('x', 0).attr('width', W).attr('height', rowH).attr('fill', 'transparent')
+      .on('mousemove', function (ev, r) { showTip(box, ev, [r.battle, fmt1(r.wall_s) + ' s long, ' + fmt1(r.long_task_s) + ' s frozen', fmtInt(r.long_tasks) + ' tasks over 50 ms, longest ' + fmtInt(r.long_task_max_ms) + ' ms']); })
+      .on('mouseleave', function () { hideTip(box); });
+  }
+
+  dash.onData(function () {
+    fillMarks();
+    var turns = rowsOf('turn_times');
+    rangeChart('turn-chart', turns ? turns.filter(function (r) { return (r.group === 'phase' || r.group === 'action') && r.n >= 5; })
+      .sort(function (a, b) { return (a.group === b.group) ? b.median_ms - a.median_ms : (a.group === 'phase' ? -1 : 1); }) : null);
+    fillTable('turn-table', function (r) { return r.group !== 'all'; });
+    fillTable('slow-table');
+    var stages = rowsOf('ai_stages');
+    hbar('stage-chart', stages ? stages.filter(function (r) { return r.s > 0; }) : null, {
+      label: function (r) { return r.name; }, value: function (r) { return r.share; }, text: function (r) { return fmt1(r.share) + '%'; },
+      tip: function (r) { return [r.name, fmt1(r.share) + '% of turn time', fmt1(r.s) + ' s over ' + fmtInt(r.calls) + ' calls', (r.per_call_ms != null ? fmtInt(r.per_call_ms) + ' ms a call' : '')]; } });
+    var calls = rowsOf('ai_calls');
+    hbar('calls-chart', calls ? calls.slice(0, 12) : null, {
+      label: function (r) { return r.fn; }, value: function (r) { return r.share; }, text: function (r) { return fmt1(r.share) + '%'; },
+      color: function () { return dash.colors[1]; }, tip: function (r) { return [r.fn, fmt1(r.total_s) + ' s including what it calls', r.file]; } });
+    var areas = rowsOf('profile_areas');
+    hbar('area-chart', areas, {
+      label: function (r) { return r.area; }, value: function (r) { return r.share; }, text: function (r) { return fmt1(r.share) + '%'; },
+      color: function (r) { return r.area === 'AI code itself' ? dash.colors[0] : 'var(--cds-chart-muted)'; },
+      tip: function (r) { return [r.area, fmt1(r.s) + ' s of its own time', fmt1(r.share) + '% of busy time']; } });
+    fillTable('fn-table');
+    var mem = rowsOf('memory_rounds');
+    lineChart('heap-chart', mem, 'heap_mb', 'MB');
+    lineChart('nodes-chart', mem, 'nodes_k', 'thousand nodes');
+    var battles = rowsOf('perf_battles');
+    threadChart(battles);
+    fillTable('battle-table');
+    fillTable('quality-table');
+    var fb = rowsOf('fallbacks');
+    hbar('fallback-chart', fb, {
+      label: function (r) { return r.verdict; }, value: function (r) { return r.n; }, text: function (r) { return fmtInt(r.n); },
+      color: function (r) { return r.good ? 'var(--cds-chart-muted)' : 'var(--cds-chart-status-critical)'; },
+      tip: function (r) { return [r.verdict, fmtInt(r.n) + ' decisions']; } });
+    fillTable('cmd-table', null, function (r, f) { return f === 'nothing_share' && r.nothing_share >= 75 ? 'warn' : null; });
+    fillTable('fix-table', null, function (r, f) {
+      if (f !== 'after' || r.better === 'none') return null;
+      var up = r.after > r.before, down = r.after < r.before;
+      if (!up && !down) return null;
+      return (r.better === 'higher' ? up : down) ? 'good' : 'bad';
+    }, function (r, f) { return (f === 'before' || f === 'after') && r.fmt === 'pct'; });
+  });
+})();
+</script>

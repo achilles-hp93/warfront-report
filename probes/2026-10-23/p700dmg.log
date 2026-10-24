@@ -1,0 +1,10 @@
+charge probe ok
+round 1: VP 0 / 0 (4s)
+round 2: VP 0 / 2 (78s)
+round 3: VP 0 / 6 (171s)
+round 4: VP 6 / 12 (272s)
+round 5: VP 9 / 16 (354s)
+round 6: VP 18 / 18 (440s)
+round 7: VP 23 / 22 (513s)
+round 8: VP 28 / 24 (572s)
+result {"winner":0,"reason":"VP","round":8,"vp":[32,31]} probe entries 64
