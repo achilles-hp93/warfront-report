@@ -1,0 +1,1138 @@
+{
+ "probe": [
+  {
+   "round": 1,
+   "player": 1,
+   "name": "Babylonian Assassin",
+   "hp": 3,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.038
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.081
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.111
+    }
+   ],
+   "pick": [
+    8,
+    3
+   ],
+   "moved": true,
+   "pickSurv": 0.962,
+   "objective": 23.73,
+   "risk": 0.949
+  },
+  {
+   "round": 1,
+   "player": 0,
+   "name": "Sagdid Hound-Keepers",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.843
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.926
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.512
+    }
+   ],
+   "pick": [
+    11,
+    9
+   ],
+   "moved": true,
+   "pickSurv": 0.99,
+   "objective": 20.056,
+   "risk": 0.194
+  },
+  {
+   "round": 1,
+   "player": 1,
+   "name": "Queen Consort",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.061
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.125
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.228
+    }
+   ],
+   "pick": [
+    11,
+    4
+   ],
+   "moved": true,
+   "pickSurv": 0.747,
+   "objective": 16.063,
+   "risk": 5.454
+  },
+  {
+   "round": 1,
+   "player": 0,
+   "name": "Shieldbearers 1",
+   "hp": 10,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.862
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.923
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.514
+    }
+   ],
+   "pick": [
+    2,
+    9
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 44.712,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 1,
+   "name": "Cultist Troopers 1",
+   "hp": 20,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.193
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.621
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.326
+    }
+   ],
+   "pick": [
+    2,
+    4
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 137.172,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 0,
+   "name": "Shieldbearers",
+   "hp": 10,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.987
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.999
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.674
+    }
+   ],
+   "pick": [
+    8,
+    10
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 60.784,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 1,
+   "name": "Cultist Troopers 2",
+   "hp": 20,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.318
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.937
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.386
+    }
+   ],
+   "pick": [
+    6,
+    4
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 60.784,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 0,
+   "name": "Adur Furnace Guard",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.991
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.631
+    }
+   ],
+   "pick": [
+    10,
+    11
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 30.998,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 1,
+   "name": "Masque of Carnality",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.874
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.931
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.972
+    }
+   ],
+   "pick": [
+    9,
+    4
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 33.551,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 0,
+   "name": "Javidan Immortals",
+   "hp": 15,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 1
+    }
+   ],
+   "pick": [
+    3,
+    10
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 93.62,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 0,
+   "name": "Aswaran",
+   "hp": 12,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 1
+    }
+   ],
+   "pick": [
+    8,
+    10
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 38.997,
+   "risk": 0
+  },
+  {
+   "round": 1,
+   "player": 0,
+   "name": "Shieldbearers 2",
+   "hp": 10,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 1
+    }
+   ],
+   "pick": [
+    5,
+    11
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 55.677,
+   "risk": 0
+  },
+  {
+   "round": 2,
+   "player": 1,
+   "name": "Babylonian Assassin",
+   "hp": 3,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.221
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.499
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.329
+    }
+   ],
+   "pick": [
+    9,
+    4
+   ],
+   "moved": true,
+   "pickSurv": 0.585,
+   "objective": 13.023,
+   "risk": 9.24
+  },
+  {
+   "round": 2,
+   "player": 0,
+   "name": "Adur Furnace Guard",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.721
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.969
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.879
+    }
+   ],
+   "pick": [
+    11,
+    9
+   ],
+   "moved": true,
+   "pickSurv": 0.846,
+   "objective": 3.237,
+   "risk": 0.588
+  },
+  {
+   "round": 2,
+   "player": 1,
+   "name": "Queen Consort",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.689
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.529
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.39
+    }
+   ],
+   "pick": [
+    14,
+    5
+   ],
+   "moved": true,
+   "pickSurv": 0.966,
+   "objective": 25.31,
+   "risk": 0.89
+  },
+  {
+   "round": 2,
+   "player": 0,
+   "name": "Shieldbearers 2",
+   "hp": 10,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.933
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.991
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.959
+    }
+   ],
+   "pick": [
+    4,
+    8
+   ],
+   "moved": true,
+   "pickSurv": 0.991,
+   "objective": 2.697,
+   "risk": 0.026
+  },
+  {
+   "round": 2,
+   "player": 1,
+   "name": "Cultist Troopers",
+   "hp": 20,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.898
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.75
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.582
+    }
+   ],
+   "pick": [
+    11,
+    3
+   ],
+   "moved": true,
+   "pickSurv": 0.97,
+   "objective": 60.188,
+   "risk": 1.887
+  },
+  {
+   "round": 2,
+   "player": 0,
+   "name": "Shieldbearers",
+   "hp": 10,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.932
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.993
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.953
+    }
+   ],
+   "pick": [
+    8,
+    8
+   ],
+   "moved": true,
+   "pickSurv": 0.997,
+   "objective": 9.837,
+   "risk": 0.035
+  },
+  {
+   "round": 2,
+   "player": 1,
+   "name": "Cultist Troopers 2",
+   "hp": 20,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.926
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.817
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.684
+    }
+   ],
+   "pick": [
+    6,
+    5
+   ],
+   "moved": true,
+   "pickSurv": 0.941,
+   "objective": 201.549,
+   "risk": 12.651
+  },
+  {
+   "round": 2,
+   "player": 0,
+   "name": "Aswaran",
+   "hp": 12,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.992
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.998
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.995
+    }
+   ],
+   "pick": [
+    5,
+    9
+   ],
+   "moved": true,
+   "pickSurv": 0.999,
+   "objective": 4.514,
+   "risk": 0.006
+  },
+  {
+   "round": 2,
+   "player": 1,
+   "name": "Masque of Carnality",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.971
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.929
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.849
+    }
+   ],
+   "pick": [
+    8,
+    6
+   ],
+   "moved": true,
+   "pickSurv": 0.789,
+   "objective": 29.418,
+   "risk": 7.876
+  },
+  {
+   "round": 2,
+   "player": 0,
+   "name": "Sagdid Hound-Keepers",
+   "hp": 6,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.436
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.949
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.994
+    }
+   ],
+   "pick": [
+    14,
+    7
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 46.742,
+   "risk": 0
+  },
+  {
+   "round": 2,
+   "player": 0,
+   "name": "Shieldbearers 1",
+   "hp": 10,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.482
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 0.973
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 0.996
+    }
+   ],
+   "pick": [
+    0,
+    8
+   ],
+   "moved": true,
+   "pickSurv": 0.973,
+   "objective": 7.409,
+   "risk": 0.208
+  },
+  {
+   "round": 2,
+   "player": 0,
+   "name": "Javidan Immortals",
+   "hp": 15,
+   "objs": [
+    {
+     "at": [
+      7,
+      7
+     ],
+     "s": 0.957
+    },
+    {
+     "at": [
+      1,
+      7
+     ],
+     "s": 1
+    },
+    {
+     "at": [
+      13,
+      7
+     ],
+     "s": 1
+    }
+   ],
+   "pick": [
+    2,
+    8
+   ],
+   "moved": true,
+   "pickSurv": 1,
+   "objective": 8.702,
+   "risk": 0.003
+  }
+ ],
+ "log": [
+  "1  Map selected: ACROPOLIS (Central Faceoff)",
+  "1  [AI] Formation selected: ⚔ Spahbed's Host · Doctrine: Light of Ahura Mazda (8 units)",
+  "1  [AI] Formation selected: ⚔ Veiled Court · Doctrine: None (6 units)",
+  "1  Spahbed leads Aswaran as its bodyguard",
+  "1  Mobad leads Javidan Immortals as its bodyguard",
+  "1  The Veiled Queen leads Cultist Troopers 1 as its bodyguard",
+  "1  Player A: HQ auto-deployed at (7,13)",
+  "1  Player B: HQ auto-deployed at (7,1)",
+  "1  Seize The Ground: 3 objectives placed",
+  "1  [AI] Queen Consort deployed at (9,2)",
+  "1  [AI] Aswaran deployed at (9,12)",
+  "1  [AI] Masque of Carnality deployed at (11,1)",
+  "1  [AI] Javidan Immortals deployed at (4,12)",
+  "1  [AI] Cultist Troopers 1 deployed at (4,2)",
+  "1  [AI] Shieldbearers 1 deployed at (3,12)",
+  "1  [AI] Babylonian Assassin deployed at (11,2)",
+  "1  [AI] Shieldbearers 2 deployed at (5,12)",
+  "1  [AI] Cultist Troopers 2 deployed at (6,2)",
+  "1  [AI] Adur Furnace Guard deployed at (11,12)",
+  "1  [AI] Sagdid Hound-Keepers deployed at (10,12)",
+  "1 COMMAND ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "1 COMMAND ◈ BATTLE BEGINS - MAP: ACROPOLIS",
+  "1 COMMAND ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "1 COMMAND Player A formation (9 units): HQ, Spahbed, Aswaran, Mobad, Javidan Immortals, Shieldbearers 1, Shieldbearers 2, Adur Furnace Guard, Sagdid Hound-Keepers",
+  "1 COMMAND Player B formation (7 units): HQ, The Veiled Queen, Cultist Troopers 1, Masque of Carnality, Queen Consort, Babylonian Assassin, Cultist Troopers 2",
+  "1 COMMAND PRIORITY: Player B (fewer units on the battlefield, 7 to 9)",
+  "1 COMMAND ⚔ BATTLE ROUND 1 - BEGIN",
+  "1 COMMAND COMMAND PHASE",
+  "1 COMMAND [AI] Initialised - AI vs AI mode (both players)",
+  "1 COMMAND COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)",
+  "1 COMMAND COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)",
+  "1 COMMAND COMMAND PHASE - Round 1 - A:3 CP, B:3 CP",
+  "1 COMMAND Command Phase: CP A:3 B:3",
+  "1 COMMAND Player A keeps a Primary Mission",
+  "1 COMMAND Player B keeps a Primary Mission",
+  "1 COMMAND Primary Missions revealed: Player A STRATEGICAL DISRUPTION, Player B FORLORN HOPE",
+  "1 COMMAND Player A picks mission: TAKE UP THE GAUNTLET",
+  "1 COMMAND Player B picks mission: FORWARD PRESENCE",
+  "1 COMMAND TAKE UP THE GAUNTLET: Player B picks the objective at (7,7)",
+  "1 COMMAND BEARER OF THE SACRED FLAME: Spahbed is named",
+  "1 COMMAND [AI] Command Phase - pass",
+  "1 COMMAND Player B passes COMMAND phase",
+  "1 COMMAND HQ Command: Troop Requisition -> atashid_empire:shieldbearers (cost 3 CP) by Player A",
+  "1 COMMAND TROOP REQUISITION: Shieldbearers deployed at (8,12) - 0 APt this Battle Round",
+  "1 COMMAND [AI] Command Phase - pass",
+  "1 COMMAND Player A passes COMMAND phase",
+  "1 COMMAND Both players passed - ending COMMAND phase",
+  "1 MOVEMENT MOVEMENT PHASE - Player B has Priority",
+  "1 MOVEMENT [Babylonian Assassin] Advance: Movement Dice 3, 4, 2 add 1, 5 Movement Points",
+  "1 MOVEMENT Babylonian Assassin Advances: +1 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Babylonian Assassin moved to (9,3)",
+  "1 MOVEMENT [Sagdid Hound-Keepers] Advance: Movement Dice 1, 4, 3 add 1, 5 Movement Points",
+  "1 MOVEMENT Sagdid Hound-Keepers Advances: +1 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Sagdid Hound-Keepers moved to (12,8)",
+  "1 MOVEMENT [Queen Consort] Advance: Movement Dice 6, 2, 1 add 1, 4 Movement Points",
+  "1 MOVEMENT Queen Consort Advances: +1 from the Movement Dice, 4 Movement Points.",
+  "1 MOVEMENT Queen Consort moved to (10,3)",
+  "1 MOVEMENT [Shieldbearers 1] Advance: Movement Dice 3, 4, 3 add 1, 4 Movement Points",
+  "1 MOVEMENT Shieldbearers 1 Advances: +1 from the Movement Dice, 4 Movement Points.",
+  "1 MOVEMENT Shieldbearers 1 moved to (2,8)",
+  "1 MOVEMENT [Cultist Troopers 1] Advance: Movement Dice 6, 1, 5 add 2, 5 Movement Points",
+  "1 MOVEMENT Cultist Troopers 1 Advances: +2 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Cultist Troopers 1 moved to (1,6)",
+  "1 MOVEMENT [Shieldbearers] Advance: Movement Dice 5, 3, 2 add 1, 4 Movement Points",
+  "1 MOVEMENT Shieldbearers Advances: +1 from the Movement Dice, 4 Movement Points.",
+  "1 MOVEMENT Shieldbearers moved to (7,9)",
+  "1 MOVEMENT [Cultist Troopers 2] Advance: Movement Dice 5, 3, 6 add 2, 5 Movement Points",
+  "1 MOVEMENT Cultist Troopers 2 Advances: +2 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Cultist Troopers 2 moved to (4,4)",
+  "1 MOVEMENT Adur Furnace Guard moved to (10,11)",
+  "1 MOVEMENT [Masque of Carnality] Advance: Movement Dice 5, 3, 6 add 2, 7 Movement Points",
+  "1 MOVEMENT Masque of Carnality Advances: +2 from the Movement Dice, 7 Movement Points.",
+  "1 MOVEMENT Masque of Carnality moved to (10,4)",
+  "1 MOVEMENT [Javidan Immortals] Advance: Movement Dice 4, 1, 5 add 2, 5 Movement Points",
+  "1 MOVEMENT Javidan Immortals Advances: +2 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Javidan Immortals moved to (1,8)",
+  "1 MOVEMENT [AI] Movement Phase - pass",
+  "1 MOVEMENT Player B passes MOVEMENT phase",
+  "1 MOVEMENT [Aswaran] Advance: Movement Dice 4, 2, 1 add 1, 5 Movement Points",
+  "1 MOVEMENT Aswaran Advances: +1 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Aswaran moved to (5,10)",
+  "1 MOVEMENT [Shieldbearers 2] Advance: Movement Dice 2, 1, 3 add 0, 3 Movement Points",
+  "1 MOVEMENT Shieldbearers 2 Advances: +0 from the Movement Dice, 3 Movement Points.",
+  "1 MOVEMENT Shieldbearers 2 moved to (4,9)",
+  "1 MOVEMENT [AI] Movement Phase - pass",
+  "1 MOVEMENT Player A passes MOVEMENT phase",
+  "1 MOVEMENT Both players passed - ending MOVEMENT phase",
+  "1 ACTION ACTION PHASE - Player B has Priority",
+  "1 ACTION [AI] Action Phase - pass",
+  "1 ACTION Player B passes ACTION phase",
+  "1 ACTION [AI] Action Phase - pass",
+  "1 ACTION Player A passes ACTION phase",
+  "1 ACTION Both players passed - ending ACTION phase",
+  "1 CLEANUP CLEANUP PHASE",
+  "1 CLEANUP ★ Objective (1,7): Player A +2 VP (OC 21 vs 14)",
+  "1 CLEANUP ★ Objective (13,7): Player A +2 VP (OC 3 vs 0)",
+  "1 CLEANUP VP - Player A: 4 | Player B: 0",
+  "1 CLEANUP Radiance: Player A +1 (1 total) - the Bearer stood firm",
+  "2 CLEANUP ═══ ROUND 2 BEGINS ═══",
+  "2 CLEANUP PRIORITY: Player B (fewer units on the battlefield, 7 to 10)",
+  "2 CLEANUP BATTLE ROUND 2 - BEGIN",
+  "2 COMMAND COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)",
+  "2 COMMAND COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)",
+  "2 COMMAND Mana: Player A +1 (1 total) - Radiance",
+  "2 COMMAND COMMAND PHASE - Round 2 - A:3 CP, B:6 CP",
+  "2 COMMAND Command Phase: CP A:3 B:6",
+  "2 COMMAND FORLORN HOPE: Player A picks Babylonian Assassin",
+  "2 COMMAND Player A picks mission: BAR THE GATES",
+  "2 COMMAND Player B picks mission: IRON GRIP",
+  "2 COMMAND BEARER OF THE SACRED FLAME: Spahbed is named",
+  "2 COMMAND HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B",
+  "2 COMMAND TROOP REQUISITION: Cultist Troopers deployed at (9,2) - 0 APt this Battle Round",
+  "2 COMMAND HQ Command: Double Time -> Queen Consort (cost 2 CP) by Player B",
+  "2 COMMAND DOUBLE TIME: Queen Consort gains +2 MOVE until the end of the Battle Round",
+  "2 COMMAND HQ Command: Scouting Order -> Shieldbearers 1 (cost 1 CP) by Player A",
+  "2 COMMAND SCOUTING ORDER: each model in Shieldbearers 1 gains +2 PER this Battle Round",
+  "2 COMMAND HQ Command: Double Time -> Shieldbearers (cost 1 CP) by Player A",
+  "2 COMMAND DOUBLE TIME: Shieldbearers gains +2 MOVE until the end of the Battle Round",
+  "2 COMMAND [AI] Command Phase - pass",
+  "2 COMMAND Player B passes COMMAND phase",
+  "2 COMMAND [AI] Command Phase - pass",
+  "2 COMMAND Player A passes COMMAND phase",
+  "2 COMMAND Both players passed - ending COMMAND phase",
+  "2 MOVEMENT MOVEMENT PHASE - Player B has Priority",
+  "2 MOVEMENT Babylonian Assassin moved to (9,4)",
+  "2 MOVEMENT Adur Furnace Guard moved to (11,9)",
+  "2 MOVEMENT Queen Consort moved to (14,5)",
+  "2 MOVEMENT Shieldbearers 2 moved to (2,7)",
+  "2 MOVEMENT Shieldbearers 2 Charges The Veiled Queen, Cultist Troopers 1",
+  "2 MOVEMENT Cultist Troopers moved to (11,3)",
+  "2 MOVEMENT Shieldbearers moved to (8,8)",
+  "2 MOVEMENT Cultist Troopers 2 moved to (6,5)",
+  "2 MOVEMENT Aswaran moved to (5,9)",
+  "2 MOVEMENT Masque of Carnality moved to (8,6)",
+  "2 MOVEMENT 2x Adur Heavy Flamer (Furnace Guard) HIT vs Masque of Carnality (FR 8): [6✓][2✗][2✗][5✗][4✗][2✗][(1→)4✗][(1→)4✗] → 1/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT Masque of Carnality EVASION: 1/1 hits evaded (4+)",
+  "2 MOVEMENT 1x Adur Heavy Flamer (Furnace Captain) HIT vs Masque of Carnality (FR 4): [4✗][4✗][4✗][4✗] → 0/4 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT [Adur Furnace Guard] Overwatch Reaction vs Masque of Carnality: no damage",
+  "2 MOVEMENT 2x Atashid Scout Carbine (Sagdid Pair) HIT vs Masque of Carnality (FR 6): [4✗][3✗][4✗][3✗][4✗][1✗] → 0/6 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT 1x Atashid Scout Carbine (Sagdid Pair Sergeant) HIT vs Masque of Carnality (FR 3): [3✗][6✓][1✗] → 1/3 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT Masque of Carnality EVASION: 1/1 hits evaded (4+)",
+  "2 MOVEMENT [Sagdid Hound-Keepers] Overwatch Reaction vs Masque of Carnality: no damage",
+  "2 MOVEMENT Sagdid Hound-Keepers moved to (14,7)",
+  "2 MOVEMENT [AI] Movement Phase - pass",
+  "2 MOVEMENT Player B passes MOVEMENT phase",
+  "2 MOVEMENT Shieldbearers 1 moved to (2,6)",
+  "2 MOVEMENT Shieldbearers 1 Charges The Veiled Queen, Cultist Troopers 1",
+  "2 MOVEMENT Javidan Immortals moved to (1,7)",
+  "2 MOVEMENT Javidan Immortals Charges The Veiled Queen, Cultist Troopers 1",
+  "2 MOVEMENT [AI] Movement Phase - pass",
+  "2 MOVEMENT Player A passes MOVEMENT phase",
+  "2 MOVEMENT Both players passed - ending MOVEMENT phase",
+  "2 ACTION ACTION PHASE - Player B has Priority",
+  "2 ACTION The Veiled Queen attacks in melee with 1 combat group",
+  "2 ACTION The Veiled Queen engages Mobad in melee combat",
+  "2 ACTION   Initiative: Mobad (INI 8, +3 charge) → The Veiled Queen (INI 6)",
+  "2 ACTION   Mobad counterattacks",
+  "2 ACTION   Mobad spends 1 APt to counterattack",
+  "2 ACTION   Mobad (Fire-rod) MELEE vs The Veiled Queen (AR 1): [4✗] → 0 hits [MS 1] [HIT mod: -1]",
+  "2 ACTION   The Veiled Queen (Seductress Claw) MELEE vs Mobad (AR 5): [6✓][4✓][3✓][3✓][2✓] → 5 hits [MS 5]",
+  "2 ACTION   Javidan Immortals: 3 damage (15 → 12)",
+  "2 ACTION   Javidan FEEL NO PAIN: rolled 5 (needs 5+) => IGNORED",
+  "2 ACTION   Javidan FEEL NO PAIN: rolled 6 (needs 5+) => IGNORED",
+  "2 ACTION   Javidan FEEL NO PAIN: rolled 3 (needs 5+) => FAILED",
+  "2 ACTION   Javidan FEEL NO PAIN: rolled 3 (needs 5+) => FAILED",
+  "2 ACTION   Javidan FEEL NO PAIN: rolled 2 (needs 5+) => FAILED",
+  "2 ACTION   Javidan destroyed",
+  "2 ACTION   Javidan Immortals: POISONED",
+  "2 ACTION   Mobad: POISONED",
+  "2 ACTION   Javidan Immortals holds - no counterattack",
+  "2 ACTION Javidan Immortals attacks in melee with 2 combat groups",
+  "2 ACTION Javidan Immortals engages Cultist Troopers 1 in melee combat",
+  "2 ACTION   Initiative: Javidan Immortals (INI 9, +3 charge) → Cultist Troopers 1 (INI 5)",
+  "2 ACTION   Javidan Immortals (3x Lineage Blade) MELEE vs Cultist Troopers 1 (AR 6): [5✓][5✓][5✓][4✓][3✓][2✗] → 5 hits [MS 6]",
+  "2 ACTION   Cultist Troopers 1: 10 damage (20 → 10)",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Javidan Immortals (Lineage Blade) MELEE vs Cultist Troopers 1 (AR 2): [4✓][2✗] → 1 hits [MS 6]",
+  "2 ACTION   Cultist Troopers 1: 2 damage (10 → 8)",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist Troopers 1 counterattacks",
+  "2 ACTION   Cultist Troopers 1 spends 1 APt to counterattack",
+  "2 ACTION   Cultist Troopers 1 (3x Renegade Bayonet) MELEE vs Javidan Immortals (AR 3): [4✗][2✗][2✗] → 0 hits [MS 3] [HIT mod: -1]",
+  "2 ACTION   Cultist Troopers 1 (Renegade Bayonet) MELEE vs Javidan Immortals (AR 1): [5✗] → 0 hits [MS 3] [HIT mod: -1]",
+  "2 ACTION   The Veiled Queen has no APt left - no counterattack",
+  "2 ACTION Mana: Player B +2 (2 total) - Channel Mana",
+  "2 ACTION Queen Consort channels Mana: +2",
+  "2 ACTION Shieldbearers 1 attacks in melee with 2 combat groups",
+  "2 ACTION Shieldbearers 1 engages Cultist Troopers 1 in melee combat",
+  "2 ACTION   Shieldbearers 1 (4x Ember Gunspear (Melee)) MELEE vs Cultist Troopers 1 (AR 8): [6✓][6✓][6✓][↻4✓][4✓][3✓][2✗][2✗] → 6 hits [MS 5]",
+  "2 ACTION   Cultist Troopers 1: 6 damage (8 → 2)",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Shieldbearers 1 (Ember Gunspear (Melee)) MELEE vs Cultist Troopers 1 (AR 2): [6✓][↻5✓] → 2 hits [MS 5]",
+  "2 ACTION   Cultist Troopers 1: 2 damage (2 → 0)",
+  "2 ACTION   Cultist Chosen destroyed",
+  "2 ACTION   Cultist Troopers 1 has lost its leader - LEADERLESS",
+  "2 ACTION   Cultist Troopers 1 DESTROYED in melee!",
+  "2 ACTION   The Veiled Queen has no APt left - no counterattack",
+  "2 ACTION [AI] Action Phase - pass",
+  "2 ACTION Player B passes ACTION phase",
+  "2 ACTION Shieldbearers 2 attacks in melee with 2 combat groups",
+  "2 ACTION Shieldbearers 2 engages The Veiled Queen in melee combat",
+  "2 ACTION   Shieldbearers 2 (4x Ember Gunspear (Melee)) MELEE vs The Veiled Queen (AR 8): [6✓][↻6✓][6✓][5✓][4✗][3✗][↻2✗][2✗] → 4 hits [MS 5] [HIT mod: -1]",
+  "2 ACTION   The Veiled Queen: 2 damage (9 → 7)",
+  "2 ACTION   Shieldbearers 2 (Ember Gunspear (Melee)) MELEE vs The Veiled Queen (AR 2): [5✓][4✗] → 1 hits [MS 5] [HIT mod: -1]",
+  "2 ACTION   The Veiled Queen has no APt left - no counterattack",
+  "2 ACTION Adur Furnace Guard opens fire with 2 combat groups",
+  "2 ACTION 2x Adur Heavy Flamer (Furnace Guard) HIT vs Masque of Carnality (FR 8): [4✗][3✗][2✗][3✗][3✗][6✓][6✓][(1→)2✗] → 2/8 hits (needs 4+) [HIT mod: -1 HEAVY(moved), -1 ruins CONCEALMENT]",
+  "2 ACTION Masque of Carnality EVASION: 2/2 hits evaded (4+)",
+  "2 ACTION 1x Adur Heavy Flamer (Furnace Captain) HIT vs Masque of Carnality (FR 4): [2✗][(1→)2✗][(1→)1✗][5✓] → 1/4 hits (needs 4+) [HIT mod: -1 HEAVY(moved), -1 ruins CONCEALMENT]",
+  "2 ACTION   Masque of Carnality SAVE roll: 2 (needs 5+) => FAILED",
+  "2 ACTION   Masque of Carnality takes 2 damage (6 → 4)",
+  "2 ACTION   Masque of Carnality FEEL NO PAIN: rolled 2 (needs 5+) => FAILED",
+  "2 ACTION   Masque of Carnality: BURNED",
+  "2 ACTION Sagdid Hound-Keepers uses Spot & Mark!",
+  "2 ACTION [Sagdid Hound-Keepers] SPOT & MARK: Masque of Carnality → INTEL LEVEL 2 (MARKED)",
+  "2 ACTION Sagdid Hound-Keepers SPOT & MARK: Target a SPOTTED enemy unit. Increase the target's INTEL LEVEL by 1 above current PER contact (usually SPOTTED to MARKED to DESIGNATED).",
+  "2 ACTION [AI] Action Phase - pass",
+  "2 ACTION Player A passes ACTION phase",
+  "2 ACTION Both players passed - ending ACTION phase",
+  "2 ACTION   Masque of Carnality FEEL NO PAIN: rolled 5 (needs 5+) => IGNORED",
+  "2 ACTION   Masque of Carnality SAVES (slow roll): [no save→Masque of Carnality] → 0/1 saved, 0 models killed",
+  "2 ACTION [Masque of Carnality] BURNED: 0 True Damage (1 stack x 1) (4 HP remaining)",
+  "2 ACTION   Mobad SAVES (slow roll): [no save→Mobad] → 0/1 saved, 0 models killed",
+  "2 ACTION [Mobad] POISONED: 1 True Damage (1 stack x 1) (3 HP remaining)",
+  "2 ACTION   Javidan FEEL NO PAIN: rolled 2 (needs 5+) => FAILED",
+  "2 ACTION   Javidan FEEL NO PAIN: rolled 3 (needs 5+) => FAILED",
+  "2 ACTION   Javidan Immortals SAVES (slow roll): [no save→Javidan][no save→Javidan] → 0/2 saved, 0 models killed",
+  "2 ACTION [Javidan Immortals] POISONED: 2 True Damage (1 stack x 2) (10 HP remaining)",
+  "2 CLEANUP CLEANUP PHASE",
+  "2 CLEANUP ★ Objective (7,7): Player A +3 VP (OC 10 vs 1)",
+  "2 CLEANUP ★ Objective (1,7): Player A +2 VP (OC 29 vs 4)",
+  "2 CLEANUP ★ Objective (13,7): Player A +2 VP (OC 3 vs 0)",
+  "2 CLEANUP VP - Player A: 11 | Player B: 0",
+  "2 CLEANUP PRIMARY FORLORN HOPE: Player B scores 2 VP (2/10)",
+  "2 CLEANUP PRIMARY STRATEGICAL DISRUPTION: Player A scores 1 VP (1/10)",
+  "2 CLEANUP MISSION COMPLETE: \"BAR THE GATES\" -> Player A +2 VP!",
+  "2 CLEANUP MISSION COMPLETE: \"TAKE UP THE GAUNTLET\" -> Player A +3 VP!",
+  "2 CLEANUP Radiance: Player A +1 (2 total) - the Bearer stood firm"
+ ]
+}

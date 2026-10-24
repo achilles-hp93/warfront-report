@@ -785,7 +785,7 @@
    "2026-10-24T01:21:01.640Z",
    "2026-10-24T01:21:02.657Z"
   ],
-  "engine": "fe773d2a Battle reports: record how long the AI takes, and what a battle costs the browser",
+  "engine": "2d45db04 feat(fantasy)!: add concept units and update roster rules",
   "timed": true,
   "lean": true,
   "results": {
@@ -1103,6 +1103,196 @@
    "report.json"
   ],
   "note": "Live-mode smoke test."
+ },
+ {
+  "name": "survival-hvc-before",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T07:04:24.234Z",
+   "2026-10-24T07:21:28.588Z"
+  ],
+  "engine": "14128c67 Rules: a characteristic asked with no context keeps its answer in a reading",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    4,
+    2
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Host vs Court, seeds 960-965, before survival-weighted objectives (the baseline)."
+ },
+ {
+  "name": "survival-hvc-fullsum",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T07:04:24.011Z",
+   "2026-10-24T07:24:33.243Z"
+  ],
+  "engine": "14128c67 Rules: a characteristic asked with no context keeps its answer in a reading",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    5,
+    1
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds with the first cut of survival-weighted objectives: every enemy counted in full on every unit (replaced)."
+ },
+ {
+  "name": "survival-hvc-shared",
+  "armies": [
+   "Spahbed's Host",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T07:35:23.872Z",
+   "2026-10-24T07:54:11.819Z"
+  ],
+  "engine": "38f86f78 AI: an objective is worth as often as the unit lives to score it",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    5,
+    1
+   ],
+   "armies": [
+    "Spahbed's Host",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds with survival-weighted objectives as committed: each enemy's attack shared among the units it can reach."
+ },
+ {
+  "name": "survival-pvc-before",
+  "armies": [
+   "Penitent Crusade",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T07:27:53.357Z",
+   "2026-10-24T07:41:19.881Z"
+  ],
+  "engine": "a909263d Presets: an army for each of ten factions not yet played",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    2,
+    4
+   ],
+   "armies": [
+    "Penitent Crusade",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Penitent vs Court, seeds 970-975, before survival-weighted objectives (the baseline)."
+ },
+ {
+  "name": "survival-pvc-shared",
+  "armies": [
+   "Penitent Crusade",
+   "Veiled Court"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 6,
+  "recorded": [
+   "2026-10-24T07:35:21.630Z",
+   "2026-10-24T07:54:03.064Z"
+  ],
+  "engine": "38f86f78 AI: an objective is worth as often as the unit lives to score it",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    2,
+    4
+   ],
+   "armies": [
+    "Penitent Crusade",
+    "Veiled Court"
+   ]
+  },
+  "page": null,
+  "files": [
+   "batch.json",
+   "games"
+  ],
+  "note": "Same seeds with survival-weighted objectives as committed."
  },
  {
   "name": "trial",

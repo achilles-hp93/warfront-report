@@ -27,7 +27,12 @@ const NOTES = {
   'host-vs-court-fix': 'Same seeds (800-811) after the three fixes of 2026-10-24.',
   'perf-smoke': 'Seed 802 replayed with the AI timing recorder: same result as its batch battle.',
   'repro-700': 'Seed 700 replayed to check a battle repeats.', 'charge-check': 'One battle to check a charge fix.',
-  'whispers-check': 'Seed 811 replayed to check the Whispers of Forbidden Pleasure pricing.', 'smoke-live': 'Live-mode smoke test.', 'trial': 'The battle-report tool\'s first trial battle.',
+  'whispers-check': 'Seed 811 replayed to check the Whispers of Forbidden Pleasure pricing.',
+  'survival-hvc-before': 'Host vs Court, seeds 960-965, before survival-weighted objectives (the baseline).',
+  'survival-hvc-fullsum': 'Same seeds with the first cut of survival-weighted objectives: every enemy counted in full on every unit (replaced).',
+  'survival-hvc-shared': 'Same seeds with survival-weighted objectives as committed: each enemy\'s attack shared among the units it can reach.',
+  'survival-pvc-before': 'Penitent vs Court, seeds 970-975, before survival-weighted objectives (the baseline).',
+  'survival-pvc-shared': 'Same seeds with survival-weighted objectives as committed.', 'smoke-live': 'Live-mode smoke test.', 'trial': 'The battle-report tool\'s first trial battle.',
 };
 const out = [];
 for (const name of fs.readdirSync(path.join(R, 'reports')).sort()) {
@@ -79,6 +84,8 @@ linked below; the records here are what rebuilds them, and what a later batch is
   - \`fallbacks.json\`, \`effects.json\` - extracts made for an analysis.
 - \`ai-performance/2026-10-24/\` - the AI performance study: its datasets, the dashboard page, and the scripts that made them from \`reports/perf-*\`, \`reports/host-vs-court-fix\` and \`reports/cohort-vs-procession-fix\`.
 - \`probes/2026-10-23/\` - AI probe replays (what each unit's AI scored, its missives, charge squares) and the probe scripts.
+- \`probes/2026-10-24/\` - survival-weighted objectives: each unit's Round 1 objective survival under the first cut and the committed version (seed 960), the Assassin's moves on seed 950, and the probe scripts.
+- \`notes/\` - open decisions left for the user.
 - \`research/\` - background research (morale, fatigue and battle weariness in other games).
 - \`index.json\` - this table, machine-readable.
 

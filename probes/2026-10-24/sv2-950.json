@@ -1,0 +1,950 @@
+{
+ "probe": [
+  {
+   "kind": "choose",
+   "round": 1,
+   "phase": "MOVEMENT",
+   "opts": [
+    "extraMove"
+   ],
+   "at": [
+    8,
+    2
+   ],
+   "squares": 39,
+   "pick": [
+    7,
+    5,
+    33.63
+   ],
+   "stay": {
+    "objective": 22.56,
+    "missive": 0.66,
+    "screen": 6.18,
+    "role": 0.5,
+    "total": 29.9
+   },
+   "top": [
+    {
+     "at": [
+      7,
+      6
+     ],
+     "s": 34.95,
+     "t": {
+      "objective": 28.79,
+      "objective_risk": 20.57,
+      "missive": 0.86,
+      "screen": 4.42,
+      "role": 0.88,
+      "total": 34.95
+     }
+    },
+    {
+     "at": [
+      5,
+      3
+     ],
+     "s": 34.77,
+     "t": {
+      "support": 0.3,
+      "objective": 24.68,
+      "missive": 0.7,
+      "screen": 8.51,
+      "role": 0.58,
+      "total": 34.77
+     }
+    },
+    {
+     "at": [
+      6,
+      4
+     ],
+     "s": 34.25,
+     "t": {
+      "objective": 27.23,
+      "missive": 0.74,
+      "screen": 5.6,
+      "role": 0.67,
+      "total": 34.25
+     }
+    },
+    {
+     "at": [
+      8,
+      6
+     ],
+     "s": 34.04,
+     "t": {
+      "objective": 28.79,
+      "objective_risk": 20.57,
+      "missive": 0.86,
+      "screen": 3.52,
+      "role": 0.88,
+      "total": 34.04
+     }
+    },
+    {
+     "at": [
+      8,
+      3
+     ],
+     "s": 33.85,
+     "t": {
+      "objective": 24.68,
+      "missive": 0.7,
+      "screen": 7.89,
+      "role": 0.58,
+      "total": 33.85
+     }
+    }
+   ],
+   "safest": [
+    {
+     "at": [
+      7,
+      6
+     ],
+     "s": 34.95,
+     "t": {
+      "objective": 28.79,
+      "objective_risk": 20.57,
+      "missive": 0.86,
+      "screen": 4.42,
+      "role": 0.88,
+      "total": 34.95
+     }
+    },
+    {
+     "at": [
+      5,
+      3
+     ],
+     "s": 34.77,
+     "t": {
+      "support": 0.3,
+      "objective": 24.68,
+      "missive": 0.7,
+      "screen": 8.51,
+      "role": 0.58,
+      "total": 34.77
+     }
+    }
+   ],
+   "shootersAtPick": [
+    {
+     "name": "Knight-Apostle Squad",
+     "d": 7,
+     "range": 4,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies 1",
+     "d": 7,
+     "range": 8,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies 2",
+     "d": 7,
+     "range": 8,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies 3",
+     "d": 7,
+     "range": 8,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies",
+     "d": 7,
+     "range": 8,
+     "dmg": 3
+    }
+   ],
+   "missive": "HUNT",
+   "global": [
+    6,
+    6,
+    33.63,
+    2
+   ]
+  },
+  {
+   "kind": "decision",
+   "round": 1,
+   "type": "advance",
+   "at": [
+    8,
+    2
+   ],
+   "dest": [
+    6,
+    6
+   ]
+  },
+  {
+   "kind": "choose",
+   "round": 2,
+   "phase": "MOVEMENT",
+   "opts": [
+    "extraMove"
+   ],
+   "at": [
+    5,
+    4
+   ],
+   "squares": 35,
+   "pick": [
+    2,
+    4,
+    51.95
+   ],
+   "stay": {
+    "cover": -0.6,
+    "threat": -6.98,
+    "objective": 27.15,
+    "objective_risk": 10.4,
+    "missive": 1.05,
+    "screen": 10.29,
+    "role": 1.16,
+    "posture": -0.09,
+    "total": 31.99,
+    "threats_raw": 3.32
+   },
+   "top": [
+    {
+     "at": [
+      6,
+      5
+     ],
+     "s": 35.83,
+     "t": {
+      "threat": -6.98,
+      "objective": 25.18,
+      "objective_risk": 9.64,
+      "missive": 1.21,
+      "screen": 15.1,
+      "role": 1.31,
+      "total": 35.83,
+      "threats_raw": 3.32
+     }
+    },
+    {
+     "at": [
+      6,
+      6
+     ],
+     "s": 35.32,
+     "t": {
+      "threat": -6.98,
+      "objective": 23.47,
+      "objective_risk": 11.34,
+      "missive": 2.1,
+      "screen": 15.21,
+      "role": 1.5,
+      "total": 35.32,
+      "threats_raw": 3.32
+     }
+    },
+    {
+     "at": [
+      2,
+      4
+     ],
+     "s": 35.27,
+     "t": {
+      "support": 0.3,
+      "objective": 29.54,
+      "objective_risk": 11.31,
+      "missive": 0.94,
+      "screen": 3.4,
+      "role": 1.09,
+      "total": 35.27
+     }
+    },
+    {
+     "at": [
+      4,
+      3
+     ],
+     "s": 33.18,
+     "t": {
+      "objective": 28.85,
+      "objective_risk": 8.7,
+      "missive": 0.94,
+      "screen": 3.49,
+      "obj_drift": -1.1,
+      "role": 1.01,
+      "total": 33.18
+     }
+    },
+    {
+     "at": [
+      5,
+      3
+     ],
+     "s": 32.03,
+     "t": {
+      "objective": 28.85,
+      "objective_risk": 8.7,
+      "missive": 0.94,
+      "screen": 2.33,
+      "obj_drift": -1.1,
+      "role": 1.01,
+      "total": 32.03
+     }
+    }
+   ],
+   "safest": [
+    {
+     "at": [
+      2,
+      4
+     ],
+     "s": 35.27,
+     "t": {
+      "support": 0.3,
+      "objective": 29.54,
+      "objective_risk": 11.31,
+      "missive": 0.94,
+      "screen": 3.4,
+      "role": 1.09,
+      "total": 35.27
+     }
+    },
+    {
+     "at": [
+      4,
+      3
+     ],
+     "s": 33.18,
+     "t": {
+      "objective": 28.85,
+      "objective_risk": 8.7,
+      "missive": 0.94,
+      "screen": 3.49,
+      "obj_drift": -1.1,
+      "role": 1.01,
+      "total": 33.18
+     }
+    }
+   ],
+   "shootersAtPick": [
+    {
+     "name": "Knight-Apostle Squad",
+     "d": 7,
+     "range": 4,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies 1",
+     "d": 5,
+     "range": 8,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies 2",
+     "d": 4,
+     "range": 8,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies 3",
+     "d": 8,
+     "range": 8,
+     "dmg": 3
+    },
+    {
+     "name": "Covenant Levies",
+     "d": 8,
+     "range": 8,
+     "dmg": 2.04
+    }
+   ],
+   "missive": "HUNT",
+   "global": [
+    0,
+    7,
+    51.95,
+    2
+   ]
+  },
+  {
+   "kind": "decision",
+   "round": 2,
+   "type": "charge",
+   "at": [
+    5,
+    4
+   ],
+   "dest": [
+    6,
+    7
+   ]
+  },
+  {
+   "kind": "choose",
+   "round": 3,
+   "phase": "MOVEMENT",
+   "opts": [
+    "extraMove"
+   ],
+   "at": [
+    6,
+    7
+   ],
+   "squares": 13,
+   "pick": null,
+   "stay": {
+    "threat": -3.33,
+    "objective": 35.92,
+    "objective_risk": 11.03,
+    "missive": 2.1,
+    "obj_hold": 0.52,
+    "screen": 11.39,
+    "role": 1.73,
+    "total": 48.32,
+    "threats_raw": 3.34
+   },
+   "top": [
+    {
+     "at": [
+      7,
+      6
+     ],
+     "s": 48.7,
+     "t": {
+      "threat": -3.33,
+      "objective": 35.92,
+      "objective_risk": 11.03,
+      "missive": 2.1,
+      "obj_hold": 0.52,
+      "screen": 11.82,
+      "role": 1.67,
+      "total": 48.7,
+      "threats_raw": 3.34
+     }
+    },
+    {
+     "at": [
+      6,
+      6
+     ],
+     "s": 45.93,
+     "t": {
+      "threat": -3.33,
+      "objective": 35.92,
+      "objective_risk": 11.03,
+      "missive": 2.1,
+      "obj_hold": 0.52,
+      "screen": 9.05,
+      "role": 1.67,
+      "total": 45.93,
+      "threats_raw": 3.34
+     }
+    },
+    {
+     "at": [
+      6,
+      8
+     ],
+     "s": 45.52,
+     "t": {
+      "threat": -3.33,
+      "objective": 35.92,
+      "objective_risk": 11.03,
+      "missive": 2.1,
+      "obj_hold": 0.52,
+      "screen": 8.52,
+      "role": 1.79,
+      "total": 45.52,
+      "threats_raw": 3.34
+     }
+    },
+    {
+     "at": [
+      5,
+      4
+     ],
+     "s": 33.49,
+     "t": {
+      "cover": -0.18,
+      "objective": 26.49,
+      "objective_risk": 5.39,
+      "missive": 1.05,
+      "obj_hold": -1.65,
+      "screen": 6.53,
+      "role": 1.28,
+      "posture": -0.03,
+      "total": 33.49
+     }
+    },
+    {
+     "at": [
+      8,
+      5
+     ],
+     "s": 32.96,
+     "t": {
+      "threat": -4.91,
+      "objective": 26.24,
+      "objective_risk": 5.34,
+      "missive": 1.21,
+      "obj_hold": -0.64,
+      "screen": 9.59,
+      "role": 1.47,
+      "total": 32.96,
+      "threats_raw": 3.34
+     }
+    }
+   ],
+   "safest": [
+    {
+     "at": [
+      5,
+      4
+     ],
+     "s": 33.49,
+     "t": {
+      "cover": -0.18,
+      "objective": 26.49,
+      "objective_risk": 5.39,
+      "missive": 1.05,
+      "obj_hold": -1.65,
+      "screen": 6.53,
+      "role": 1.28,
+      "posture": -0.03,
+      "total": 33.49
+     }
+    },
+    {
+     "at": [
+      5,
+      3
+     ],
+     "s": 31.28,
+     "t": {
+      "objective": 26.49,
+      "objective_risk": 5.39,
+      "missive": 0.94,
+      "obj_hold": -1.8,
+      "screen": 4.52,
+      "role": 1.12,
+      "total": 31.28
+     }
+    }
+   ],
+   "shootersAtPick": null,
+   "missive": "HUNT",
+   "global": [
+    0,
+    7,
+    52.23,
+    3
+   ]
+  },
+  {
+   "kind": "decision",
+   "round": 3,
+   "type": "charge",
+   "at": [
+    6,
+    7
+   ],
+   "dest": [
+    8,
+    7
+   ]
+  }
+ ],
+ "log": [
+  "1  Map selected: TWIN LAKES (Central Faceoff)",
+  "1  [AI] Formation selected: ⚔ Penitent Crusade · Doctrine: None (7 units)",
+  "1  [AI] Formation selected: ⚔ Veiled Court · Doctrine: None (6 units)",
+  "1  Cain - The First Penitent leads Knight-Apostle Squad as its bodyguard",
+  "1  Cantor-Preceptor leads Covenant Levies 1 as its bodyguard",
+  "1  The Veiled Queen leads Cultist Troopers 1 as its bodyguard",
+  "1  Player A: HQ auto-deployed at (7,13)",
+  "1  Player B: HQ auto-deployed at (7,1)",
+  "1  Seize The Ground: 3 objectives placed",
+  "1  [AI] Queen Consort deployed at (3,2)",
+  "1  [AI] Jordanite Hospitallers deployed at (11,12)",
+  "1  [AI] Masque of Carnality deployed at (10,1)",
+  "1  [AI] Knight-Apostle Squad deployed at (4,12)",
+  "1  [AI] Cultist Troopers 1 deployed at (6,2)",
+  "1  [AI] Covenant Levies 1 deployed at (9,12)",
+  "1  [AI] Babylonian Assassin deployed at (8,2)",
+  "1  [AI] Covenant Levies 2 deployed at (3,12)",
+  "1  [AI] Cultist Troopers 2 deployed at (11,2)",
+  "1  [AI] Covenant Levies 3 deployed at (5,12)",
+  "1 COMMAND ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "1 COMMAND ◈ BATTLE BEGINS - MAP: TWIN LAKES",
+  "1 COMMAND ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "1 COMMAND Player A formation (8 units): HQ, Cain - The First Penitent, Knight-Apostle Squad, Cantor-Preceptor, Covenant Levies 1, Covenant Levies 2, Covenant Levies 3, Jordanite Hospitallers",
+  "1 COMMAND Player B formation (7 units): HQ, The Veiled Queen, Cultist Troopers 1, Masque of Carnality, Queen Consort, Babylonian Assassin, Cultist Troopers 2",
+  "1 COMMAND PRIORITY: Player B (fewer units on the battlefield, 7 to 8)",
+  "1 COMMAND ⚔ BATTLE ROUND 1 - BEGIN",
+  "1 COMMAND COMMAND PHASE",
+  "1 COMMAND [AI] Initialised - AI vs AI mode (both players)",
+  "1 COMMAND COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)",
+  "1 COMMAND COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)",
+  "1 COMMAND COMMAND PHASE - Round 1 - A:3 CP, B:3 CP",
+  "1 COMMAND Command Phase: CP A:3 B:3",
+  "1 COMMAND Player A keeps a Primary Mission",
+  "1 COMMAND Player B keeps a Primary Mission",
+  "1 COMMAND Primary Missions revealed: Player A FORLORN HOPE, Player B GARRISON DUTY",
+  "1 COMMAND Player A picks mission: TERRITORIAL SUPERIORITY",
+  "1 COMMAND Player B picks mission: IRON CURTAIN",
+  "1 COMMAND HQ Command: Double Time -> Cultist Troopers 2 (cost 2 CP) by Player B",
+  "1 COMMAND DOUBLE TIME: Cultist Troopers 2 gains +2 MOVE until the end of the Battle Round",
+  "1 COMMAND HQ Command: Scouting Order -> Cultist Troopers 2 (cost 1 CP) by Player B",
+  "1 COMMAND SCOUTING ORDER: each model in Cultist Troopers 2 gains +2 PER this Battle Round",
+  "1 COMMAND HQ Command: Troop Requisition -> covenant_of_new_jerusalem:covenant_levies (cost 3 CP) by Player A",
+  "1 COMMAND TROOP REQUISITION: Covenant Levies deployed at (8,12) - 0 APt this Battle Round",
+  "1 COMMAND [AI] Command Phase - pass",
+  "1 COMMAND Player A passes COMMAND phase",
+  "1 COMMAND [AI] Command Phase - pass",
+  "1 COMMAND Player B passes COMMAND phase",
+  "1 COMMAND Both players passed - ending COMMAND phase",
+  "1 MOVEMENT MOVEMENT PHASE - Player B has Priority",
+  "1 MOVEMENT [Babylonian Assassin] Advance: Movement Dice 5, 1, 3 add 1, 5 Movement Points",
+  "1 MOVEMENT Babylonian Assassin Advances: +1 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Babylonian Assassin moved to (5,4)",
+  "1 MOVEMENT [Jordanite Hospitallers] Advance: Movement Dice 3, 6, 3 add 1, 4 Movement Points",
+  "1 MOVEMENT Jordanite Hospitallers Advances: +1 from the Movement Dice, 4 Movement Points.",
+  "1 MOVEMENT Jordanite Hospitallers moved to (12,8)",
+  "1 MOVEMENT [Queen Consort] Advance: Movement Dice 5, 6, 5 add 3, 6 Movement Points",
+  "1 MOVEMENT Queen Consort Advances: +3 from the Movement Dice, 6 Movement Points.",
+  "1 MOVEMENT Queen Consort moved to (1,6)",
+  "1 MOVEMENT [Covenant Levies 1] Advance: Movement Dice 4, 6, 5 add 3, 6 Movement Points",
+  "1 MOVEMENT Covenant Levies 1 Advances: +3 from the Movement Dice, 6 Movement Points.",
+  "1 MOVEMENT Covenant Levies 1 moved to (7,8)",
+  "1 MOVEMENT [Cultist Troopers 1] Advance: Movement Dice 2, 3, 3 add 0, 3 Movement Points",
+  "1 MOVEMENT Cultist Troopers 1 Advances: +0 from the Movement Dice, 3 Movement Points.",
+  "1 MOVEMENT Cultist Troopers 1 moved to (7,5)",
+  "1 MOVEMENT [Covenant Levies 2] Advance: Movement Dice 1, 2, 4 add 1, 4 Movement Points",
+  "1 MOVEMENT Covenant Levies 2 Advances: +1 from the Movement Dice, 4 Movement Points.",
+  "1 MOVEMENT Covenant Levies 2 moved to (2,8)",
+  "1 MOVEMENT [Cultist Troopers 2] Advance: Movement Dice 4, 2, 2 add 1, 6 Movement Points",
+  "1 MOVEMENT Cultist Troopers 2 Advances: +1 from the Movement Dice, 6 Movement Points.",
+  "1 MOVEMENT Cultist Troopers 2 moved to (14,7)",
+  "1 MOVEMENT [Covenant Levies 3] Advance: Movement Dice 4, 3, 4 add 2, 5 Movement Points",
+  "1 MOVEMENT Covenant Levies 3 Advances: +2 from the Movement Dice, 5 Movement Points.",
+  "1 MOVEMENT Covenant Levies 3 moved to (10,11)",
+  "1 MOVEMENT [Masque of Carnality] Advance: Movement Dice 4, 1, 5 add 2, 7 Movement Points",
+  "1 MOVEMENT Masque of Carnality Advances: +2 from the Movement Dice, 7 Movement Points.",
+  "1 MOVEMENT Masque of Carnality moved to (7,6)",
+  "1 MOVEMENT [Covenant Levies] Advance: Movement Dice 4, 3, 1 add 1, 4 Movement Points",
+  "1 MOVEMENT Covenant Levies Advances: +1 from the Movement Dice, 4 Movement Points.",
+  "1 MOVEMENT Covenant Levies moved to (10,10)",
+  "1 MOVEMENT [AI] Movement Phase - pass",
+  "1 MOVEMENT Player B passes MOVEMENT phase",
+  "1 MOVEMENT [Knight-Apostle Squad] Advance: Movement Dice 4, 2, 2 add 1, 4 Movement Points",
+  "1 MOVEMENT Knight-Apostle Squad Advances: +1 from the Movement Dice, 4 Movement Points.",
+  "1 MOVEMENT Knight-Apostle Squad moved to (8,11)",
+  "1 MOVEMENT [AI] Movement Phase - pass",
+  "1 MOVEMENT Player A passes MOVEMENT phase",
+  "1 MOVEMENT Both players passed - ending MOVEMENT phase",
+  "1 ACTION ACTION PHASE - Player B has Priority",
+  "1 ACTION [AI] Action Phase - pass",
+  "1 ACTION Player B passes ACTION phase",
+  "1 ACTION [AI] Action Phase - pass",
+  "1 ACTION Player A passes ACTION phase",
+  "1 ACTION Both players passed - ending ACTION phase",
+  "1 ACTION Mana: Player A +10 (10 total) - PRAYING",
+  "1 ACTION PRAYING: Player A gains +10 Mana at Action Phase end",
+  "1 CLEANUP CLEANUP PHASE",
+  "1 CLEANUP ★ Objective (7,7): Player A +3 VP (OC 11 vs 1)",
+  "1 CLEANUP ★ Objective (1,7): Player A +2 VP (OC 10 vs 3)",
+  "1 CLEANUP ★ Objective (13,7): Player B +2 VP (OC 10 vs 3)",
+  "1 CLEANUP VP - Player A: 5 | Player B: 2",
+  "1 CLEANUP MISSION COMPLETE: \"TERRITORIAL SUPERIORITY\" -> Player A +3 VP!",
+  "2 CLEANUP ═══ ROUND 2 BEGINS ═══",
+  "2 CLEANUP PRIORITY: Player B (fewer units on the battlefield, 7 to 9)",
+  "2 CLEANUP BATTLE ROUND 2 - BEGIN",
+  "2 COMMAND COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)",
+  "2 COMMAND COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)",
+  "2 COMMAND COMMAND PHASE - Round 2 - A:3 CP, B:3 CP",
+  "2 COMMAND Command Phase: CP A:3 B:3",
+  "2 COMMAND FORLORN HOPE: Player B picks Cantor-Preceptor",
+  "2 COMMAND Player A picks mission: DEEP REACH",
+  "2 COMMAND Player B picks mission: BAR THE GATES",
+  "2 COMMAND HQ Command: Scouting Order -> Cultist Troopers 2 (cost 2 CP) by Player B",
+  "2 COMMAND SCOUTING ORDER: each model in Cultist Troopers 2 gains +2 PER this Battle Round",
+  "2 COMMAND [AI] Command Phase - pass",
+  "2 COMMAND Player B passes COMMAND phase",
+  "2 COMMAND HQ Command: Double Time -> Covenant Levies (cost 2 CP) by Player A",
+  "2 COMMAND DOUBLE TIME: Covenant Levies gains +2 MOVE until the end of the Battle Round",
+  "2 COMMAND [AI] Command Phase - pass",
+  "2 COMMAND Player A passes COMMAND phase",
+  "2 COMMAND Both players passed - ending COMMAND phase",
+  "2 MOVEMENT MISSION COMPLETE: \"IRON CURTAIN\" -> Player B +2 VP +1 CP!",
+  "2 MOVEMENT MOVEMENT PHASE - Player B has Priority",
+  "2 MOVEMENT Babylonian Assassin moved to (6,7)",
+  "2 MOVEMENT Babylonian Assassin Charges Cantor-Preceptor, Covenant Levies 1",
+  "2 MOVEMENT Covenant Levies moved to (12,7)",
+  "2 MOVEMENT MIRACLE: Player A uses FORTITUDE",
+  "2 MOVEMENT Cultist Troopers 1 DESPERATE WORSHIP (7+): 1+6 = 7 - PASSED",
+  "2 MOVEMENT   Cultist destroyed",
+  "2 MOVEMENT   Cultist Troopers 1 SAVES (slow roll): [no save→Cultist][no save→Cultist] → 0/2 saved, 1 models killed",
+  "2 MOVEMENT   Cultist Troopers 1 DESPERATE WORSHIP: passed the gamble for +1 FR, suffers 2 absolute damage",
+  "2 MOVEMENT 8x Renegade Bolt-Action Rifle (Cultist) SUSTAINED ATTACK 1: 4 extra dice from 4 critical hits",
+  "2 MOVEMENT 8x Renegade Bolt-Action Rifle (Cultist) HIT vs Covenant Levies (FR 24): [5✗][2✗][6✓][5✗][3✗][4✗][1✗][2✗][6✓][5✗][2✗][4✗][1✗][5✗][6✓][4✗][2✗][4✗][3✗][4✗][1✗][6✓][3✗][2✗][3✗][1✗][4✗][2✗] → 4/24 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT   Covenant Levies SAVE (4 dice): [4✗][4✗][6✓][5✗] → 1/4 saved (needs 6+)",
+  "2 MOVEMENT   Covenant Levies takes 3 damage (20 → 17)",
+  "2 MOVEMENT   Levy destroyed",
+  "2 MOVEMENT 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Covenant Levies (FR 3): [4✗][3✗][2✗] → 0/3 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT [Cultist Troopers 1] Overwatch Reaction vs Covenant Levies: 3 damage",
+  "2 MOVEMENT Cultist Troopers 2 DESPERATE WORSHIP (7+): 2+1 = 3 - FAILED",
+  "2 MOVEMENT 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Covenant Levies (FR 18): [6✓][3✗][6✓][4✗][5✗][4✗][5✗][5✗][1✗][3✗][4✗][6✓][2✗][4✗][2✗][5✗][4✗][1✗] → 3/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT   Covenant Levies SAVE (3 dice): [5✗][3✗][1✗] → 0/3 saved (needs 6+)",
+  "2 MOVEMENT   Covenant Levies takes 3 damage (17 → 14)",
+  "2 MOVEMENT   Levy destroyed",
+  "2 MOVEMENT   Levy destroyed",
+  "2 MOVEMENT 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Covenant Levies (FR 2): [1✗][2✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT [Cultist Troopers 2] Overwatch Reaction vs Covenant Levies: 3 damage",
+  "2 MOVEMENT Cultist Troopers 1 moved to (8,6)",
+  "2 MOVEMENT MIRACLE: Player A uses PROVIDENCE",
+  "2 MOVEMENT REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Cultist Troopers 1",
+  "2 MOVEMENT 9x Levy Rifle (Levy) HIT vs Cultist Troopers 1 (FR 27): [3✗][5✗][1✗][6✓][4✗][4✗][2✗][5✗][1✗][3✗][2✗][1✗][6✓][6✓][6✓][4✗][5✗][4✗][3✗][4✗][1✗][4✗][3✗][6✓][2✗][3✗][1✗] → 5/27 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT   Cultist Troopers 1 SAVE (5 dice): [2✗][6✗][3✗][3✗][1✗] → 0/5 saved (6 (+1 from AP) = 7+)",
+  "2 MOVEMENT   Cultist Troopers 1 takes 5 damage (18 → 13)",
+  "2 MOVEMENT   Cultist destroyed",
+  "2 MOVEMENT   Cultist destroyed",
+  "2 MOVEMENT 1x Levy Rifle (Levy Elder) HIT vs Cultist Troopers 1 (FR 3): [5✗][4✗][3✗] → 0/3 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT [Covenant Levies 3] Overwatch Reaction vs Cultist Troopers 1: 5 damage",
+  "2 MOVEMENT Covenant Levies 3 moved to (13,8)",
+  "2 MOVEMENT Covenant Levies 3 Charges Cultist Troopers 2",
+  "2 MOVEMENT Queen Consort moved to (2,7)",
+  "2 MOVEMENT Queen Consort Charges Covenant Levies 2",
+  "2 MOVEMENT Knight-Apostle Squad moved to (8,8)",
+  "2 MOVEMENT 1x Lotus Censer Ejection (The Veiled Queen) HIT vs Knight-Apostle Squad (FR 5): [5✗][1✗][2✗][5✗][4✗] → 0/5 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT [The Veiled Queen] Overwatch Reaction vs Knight-Apostle Squad: no damage",
+  "2 MOVEMENT Masque of Carnality moved to (8,7)",
+  "2 MOVEMENT Masque of Carnality Charges Cain - The First Penitent, Knight-Apostle Squad, Cantor-Preceptor, Covenant Levies 1",
+  "2 MOVEMENT 2x Relic Pistol (Knight-Apostle) HIT vs Masque of Carnality (FR 2): [5✗][2✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]",
+  "2 MOVEMENT 1x Relic Pistol (Apostle-Captain) HIT vs Masque of Carnality roll: 4 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS",
+  "2 MOVEMENT [Knight-Apostle Squad] Overwatch Reaction vs Masque of Carnality: no damage",
+  "2 MOVEMENT Jordanite Hospitallers moved to (12,6)",
+  "2 MOVEMENT [AI] Movement Phase - pass",
+  "2 MOVEMENT Player B passes MOVEMENT phase",
+  "2 MOVEMENT [Covenant Levies 1] FALL BACK TEST: INI 5 against 7 (-1), needs 6+, rolled 6 - breaks away",
+  "2 MOVEMENT Covenant Levies 1 moved to (6,11)",
+  "2 MOVEMENT [Covenant Levies 1] Fall Back to (6,11)",
+  "2 MOVEMENT [AI] Movement Phase - pass",
+  "2 MOVEMENT Player A passes MOVEMENT phase",
+  "2 MOVEMENT Both players passed - ending MOVEMENT phase",
+  "2 ACTION ACTION PHASE - Player B has Priority",
+  "2 ACTION Masque of Carnality attacks in melee with 1 combat group",
+  "2 ACTION Masque of Carnality engages Knight-Apostle Squad in melee combat",
+  "2 ACTION   Initiative: Masque of Carnality (INI 10, +3 charge) → Knight-Apostle Squad (INI 6) → Cain - The First Penitent (INI 5)",
+  "2 ACTION DUAL WIELD: duplicated 3 dice",
+  "2 ACTION   Masque of Carnality (Carnal Scimitars) MELEE vs Knight-Apostle Squad (AR 3): [5✓][5✓][3✓][3✓][3✓][3✓] → 6 hits [MS 9]",
+  "2 ACTION   Knight-Apostle Squad: 4 damage (12 → 8)",
+  "2 ACTION   Knight-Apostle destroyed",
+  "2 ACTION   Knight-Apostle Squad counterattacks",
+  "2 ACTION   Knight-Apostle Squad spends 1 APt to counterattack",
+  "2 ACTION   Knight-Apostle Squad (Relic Sword) MELEE vs Masque of Carnality (AR 3): [3✗][3✗][1✗] → 0 hits [MS 7] [HIT mod: -1]",
+  "2 ACTION   Knight-Apostle Squad (Relic Sword) MELEE vs Masque of Carnality (AR 3): [2✗][2✗][2✗] → 0 hits [MS 7] [HIT mod: -1]",
+  "2 ACTION   Cain - The First Penitent counterattacks",
+  "2 ACTION   Cain - The First Penitent spends 1 APt to counterattack",
+  "2 ACTION   Cain - The First Penitent (Seven-Seal Broadsword) MELEE vs Masque of Carnality (AR 2): [6✓][5✗] → 1 hits [MS 8] [HIT mod: -1]",
+  "2 ACTION   Masque of Carnality: 6 damage (6 → 0)",
+  "2 ACTION   Masque of Carnality FEEL NO PAIN: rolled 2 (needs 5+) => FAILED",
+  "2 ACTION   Masque of Carnality destroyed",
+  "2 ACTION   Masque of Carnality DESTROYED in melee!",
+  "2 ACTION MIRACLE: Player A uses EXALTATION",
+  "2 ACTION Covenant Levies 3 attacks in melee with 2 combat groups",
+  "2 ACTION Covenant Levies 3 engages Cultist Troopers 2 in melee combat",
+  "2 ACTION   Initiative: Covenant Levies 3 (INI 8, +3 charge) → Cultist Troopers 2 (INI 5)",
+  "2 ACTION   Covenant Levies 3 (9x Levy Bayonet) MELEE vs Cultist Troopers 2 (AR 18): [6✓][6✓][4✓][4✓][4✓][3✗][3✗][3✗][2✗][2✗][2✗][2✗][1✗][1✗][1✗][1✗][1✗][1✗] → 5 hits [MS 3]",
+  "2 ACTION   Cultist Troopers 2: 6 damage (20 → 14)",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Covenant Levies 3 (Levy Bayonet) MELEE vs Cultist Troopers 2 (AR 2): [6✓][5✓] → 2 hits [MS 3]",
+  "2 ACTION   Cultist Troopers 2: 4 damage (14 → 10)",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist Troopers 2 counterattacks",
+  "2 ACTION   Cultist Troopers 2 spends 1 APt to counterattack",
+  "2 ACTION   Cultist Troopers 2 (4x Renegade Bayonet) MELEE vs Covenant Levies 3 (AR 8): [6✓][6✓][5✓][4✓][3✗][3✗][2✗][2✗] → 4 hits [MS 3]",
+  "2 ACTION   Covenant Levies 3: 6 damage (20 → 14)",
+  "2 ACTION   Levy destroyed",
+  "2 ACTION   Levy destroyed",
+  "2 ACTION   Levy destroyed",
+  "2 ACTION   Cultist Troopers 2 (Renegade Bayonet) MELEE vs Covenant Levies 3 (AR 2): [5✓][1✗] → 1 hits [MS 3]",
+  "2 ACTION   Covenant Levies 3: 2 damage (14 → 12)",
+  "2 ACTION   Levy destroyed",
+  "2 ACTION The Veiled Queen uses Whispers of Forbidden Pleasure!",
+  "2 ACTION [Covenant Levies 2] is seized by Player B until the end of the next Command Phase",
+  "2 ACTION The Veiled Queen WHISPERS OF FORBIDDEN PLEASURE: Target 1 enemy STANDARD or SPECIALIST unit. You gain control of that unit until the end of the next Command Phase.",
+  "2 ACTION Covenant Levies opens fire with 2 combat groups",
+  "2 ACTION 6x Levy Rifle (Levy) HIT vs Cultist Troopers 1 (FR 12): [6✓][2✗][3✗][5✓][2✗][5✓][1✗][6✓][1✗][6✓][3✗][5✓] → 6/12 hits (needs 5+)",
+  "2 ACTION   Cultist Troopers 1 SAVE (6 dice): [2✗][3✗][5✗][6✓][2✗][3✗] → 1/6 saved (needs 6+)",
+  "2 ACTION   Cultist Troopers 1 takes 5 damage (13 → 8)",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION   Cultist destroyed",
+  "2 ACTION 1x Levy Rifle (Levy Elder) HIT vs Cultist Troopers 1 (FR 2): [1✗][6✓] → 1/2 hits (needs 5+)",
+  "2 ACTION   Cultist Troopers 1 SAVE roll: 4 (needs 6+) => FAILED",
+  "2 ACTION   Cultist Troopers 1 takes 1 damage (8 → 7)",
+  "2 ACTION Covenant Levies 2 opens fire with 2 combat groups",
+  "2 ACTION 9x Levy Rifle (Levy) HIT vs Knight-Apostle Squad (FR 18): [2✗][6✓][4✗][6✓][5✓][6✓][2✗][(1→)6✓][6✓][6✓][4✗][5✓][2✗][2✗][2✗][6✓][5✓][6✓] → 11/18 hits (needs 5+)",
+  "2 ACTION Knight-Apostle Squad EVASION: 4/11 hits evaded (6+)",
+  "2 ACTION   Knight-Apostle Squad SAVE (7 dice): [(1→)5✓][5✓][(3→)4✓][6✓][(3→)3✗][6✓][4✓] → 6/7 saved (needs 3+) [SAVE mod: -1 EPICUREAN PROVOCATION]",
+  "2 ACTION   Knight-Apostle Squad takes 1 damage (8 → 7)",
+  "2 ACTION 1x Levy Rifle (Levy Elder) HIT vs Knight-Apostle Squad (FR 2): [3✗][(1→)2✗] → 0/2 hits (needs 5+)",
+  "2 ACTION Cantor-Preceptor intones Kyrie over Knight-Apostle Squad",
+  "2 ACTION Mana: Player A -2 (8 total) - spent",
+  "2 ACTION Cantor-Preceptor casts Kyrie on Knight-Apostle Squad",
+  "2 ACTION Cultist Troopers 1 opens fire with 2 combat groups",
+  "2 ACTION 3x Renegade Bolt-Action Rifle (Cultist) HIT vs Knight-Apostle Squad (FR 6): [6✓][2✗][5✓][3✗][2✗][4✗] → 2/6 hits (needs 5+)",
+  "2 ACTION KYRIE RESPONSE: Knight-Apostle Squad answers the call",
+  "2 ACTION   Knight-Apostle Squad SAVE (2 dice): [5✓][(3→)2✗] → 1/2 saved (needs 3+) [SAVE mod: -1 EPICUREAN PROVOCATION]",
+  "2 ACTION   Knight-Apostle Squad takes 1 damage (7 → 6)",
+  "2 ACTION 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Knight-Apostle Squad (FR 2): [5✓][3✗] → 1/2 hits (needs 5+)",
+  "2 ACTION   Knight-Apostle Squad SAVE roll: 5 (needs 3+) [SAVE mod: -1 EPICUREAN PROVOCATION] => SAVED",
+  "2 ACTION [AI] Action Phase - pass",
+  "2 ACTION Player A passes ACTION phase",
+  "2 ACTION Mana: Player B +2 (2 total) - Channel Mana",
+  "2 ACTION Queen Consort channels Mana: +2",
+  "2 ACTION [AI] Action Phase - pass",
+  "2 ACTION Player B passes ACTION phase",
+  "2 ACTION Both players passed - ending ACTION phase",
+  "2 ACTION Mana: Player A +3 (11 total) - PRAYING",
+  "2 ACTION PRAYING: Player A gains +3 Mana at Action Phase end",
+  "2 CLEANUP CLEANUP PHASE",
+  "2 CLEANUP ★ Objective (7,7): Player B +3 VP (OC 11 vs 9)",
+  "2 CLEANUP ★ Objective (1,7): Player B +2 VP (OC 13 vs 0)",
+  "2 CLEANUP ★ Objective (13,7): Player A +2 VP (OC 16 vs 5)",
+  "2 CLEANUP VP - Player A: 10 | Player B: 9",
+  "2 CLEANUP PRIMARY FORLORN HOPE: Player A scores 2 VP (2/10)",
+  "2 CLEANUP PRIMARY GARRISON DUTY: Player B scores 1 VP (1/10)",
+  "2 CLEANUP MISSION COMPLETE: \"DEEP REACH\" -> Player A +3 VP!",
+  "3 CLEANUP ═══ ROUND 3 BEGINS ═══",
+  "3 CLEANUP PRIORITY: Player B (fewer units on the battlefield, 7 to 8)",
+  "3 CLEANUP BATTLE ROUND 3 - BEGIN",
+  "3 COMMAND COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)",
+  "3 COMMAND COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)",
+  "3 COMMAND MIRACLE: Player A uses BENEDICTION",
+  "3 COMMAND [Knight-Apostle Squad] BENEDICTION: heals 2 HP",
+  "3 COMMAND [Covenant Levies 1] TEMPTATION OF EARTHLY DELIGHT: defects from Player A to Player B",
+  "3 COMMAND COMMAND PHASE - Round 3 - A:4 CP, B:4 CP",
+  "3 COMMAND Command Phase: CP A:4 B:4",
+  "3 COMMAND FORLORN HOPE: Player B picks Cantor-Preceptor",
+  "3 COMMAND Player A picks mission: LAST STAND",
+  "3 COMMAND Player B picks mission: FOCUSED FIRE",
+  "3 COMMAND [AI] Command Phase - pass",
+  "3 COMMAND Player B passes COMMAND phase",
+  "3 COMMAND HQ Command: Double Time -> Covenant Levies 3 (cost 3 CP) by Player A",
+  "3 COMMAND DOUBLE TIME: Covenant Levies 3 gains +2 MOVE until the end of the Battle Round",
+  "3 COMMAND [AI] Command Phase - pass",
+  "3 COMMAND Player A passes COMMAND phase",
+  "3 COMMAND Both players passed - ending COMMAND phase",
+  "3 COMMAND REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Cultist Troopers 1",
+  "3 COMMAND Cultist Troopers 1 Morale Test - PASSED (RALLY CRY)",
+  "3 COMMAND [Covenant Levies 2] returns to Player A",
+  "3 MOVEMENT MOVEMENT PHASE - Player B has Priority",
+  "3 MOVEMENT Covenant Levies 1 moved to (7,10)",
+  "3 MOVEMENT Covenant Levies 1 Charges Cantor-Preceptor",
+  "3 MOVEMENT [Jordanite Hospitallers] Advance: Movement Dice 5, 5, 5 add 3, 6 Movement Points",
+  "3 MOVEMENT Jordanite Hospitallers Advances: +3 from the Movement Dice, 6 Movement Points.",
+  "3 MOVEMENT Jordanite Hospitallers moved to (11,11)",
+  "3 MOVEMENT Babylonian Assassin moved to (8,7)",
+  "3 MOVEMENT Babylonian Assassin Charges Cain - The First Penitent, Knight-Apostle Squad",
+  "3 MOVEMENT Covenant Levies moved to (13,6)",
+  "3 MOVEMENT Covenant Levies Charges Cultist Troopers 2",
+  "3 MOVEMENT Cultist Troopers 1 moved to (6,7)",
+  "3 MOVEMENT [AI] Movement Phase - pass",
+  "3 MOVEMENT Player A passes MOVEMENT phase",
+  "3 MOVEMENT [AI] Movement Phase - pass",
+  "3 MOVEMENT Player B passes MOVEMENT phase",
+  "3 MOVEMENT Both players passed - ending MOVEMENT phase",
+  "3 ACTION ACTION PHASE - Player B has Priority",
+  "3 ACTION Babylonian Assassin attacks in melee with 1 combat group",
+  "3 ACTION Babylonian Assassin engages Knight-Apostle Squad in melee combat",
+  "3 ACTION   Initiative: Babylonian Assassin (INI 10, +3 charge) → Knight-Apostle Squad (INI 6) → Cain - The First Penitent (INI 5)",
+  "3 ACTION Babylonian Assassin SUSTAINED ATTACK 1: 2 extra dice from 2 critical hits",
+  "3 ACTION DUAL WIELD: duplicated 11 dice",
+  "3 ACTION   Knight-Apostle Squad EVASION: 3 hit(s) evaded (6+)",
+  "3 ACTION   Babylonian Assassin (3x Twin Serrated Daggers) MELEE vs Knight-Apostle Squad (AR 9): [6✗][6✓][6✓][6✓][5✓][5✓][5✓][5✓][4✓][4✓][4✗][4✓][↻4✓][↻3✗][↻4✓][↻5✓][↻2✗][↻5✓][↻3✗][↻5✗][↻5✓][↻4✓] → 16 hits [MS 7]",
+  "3 ACTION   Knight-Apostle Squad: 8 damage (8 → 0)",
+  "3 ACTION   Knight-Apostle destroyed",
+  "3 ACTION   Apostle-Captain destroyed",
+  "3 ACTION   Knight-Apostle Squad has lost its leader - LEADERLESS",
+  "3 ACTION   Cain - The First Penitent: POISONED",
+  "3 ACTION   Knight-Apostle Squad DESTROYED in melee!",
+  "3 ACTION   Knight-Apostle Squad was destroyed - no counterattack",
+  "3 ACTION   Cain - The First Penitent counterattacks",
+  "3 ACTION   Cain - The First Penitent spends 1 APt to counterattack",
+  "3 ACTION   Cain - The First Penitent (Seven-Seal Broadsword) MELEE vs Babylonian Assassin (AR 2): [4✓][2✗] → 1 hits [MS 8] [HIT mod: -1]",
+  "3 ACTION   Babylonian Assassin: 1 damage (3 → 2)",
+  "3 ACTION   Babylonian Assassin destroyed",
+  "3 ACTION MIRACLE: Player A uses RETRIBUTION",
+  "3 ACTION   MIRACLE OF RETRIBUTION: Knight-Apostle Squad fights before being removed",
+  "3 ACTION   Knight-Apostle Squad (Relic Sword) MELEE vs Babylonian Assassin (AR 3): [3✗][3✗][1✗] → 0 hits [MS 7] [HIT mod: -1]",
+  "3 ACTION   Knight-Apostle Squad (Relic Sword) MELEE vs Babylonian Assassin (AR 3): [6✓][4✗][3✗] → 1 hits [MS 7] [HIT mod: -1]",
+  "3 ACTION   Babylonian Assassin: 1 damage (2 → 1)",
+  "3 ACTION   Babylonian Assassin destroyed",
+  "3 ACTION Babylonian Assassin TAKE GROUND: no square to move to",
+  "3 ACTION Covenant Levies attacks in melee with 2 combat groups",
+  "3 ACTION Covenant Levies engages Cultist Troopers 2 in melee combat",
+  "3 ACTION   Initiative: Covenant Levies (INI 8, +3 charge) → Cultist Troopers 2 (INI 5)",
+  "3 ACTION   Covenant Levies (6x Levy Bayonet) MELEE vs Cultist Troopers 2 (AR 6): [6✓][6✓][6✓][5✓][3✗][1✗] → 4 hits [MS 3]",
+  "3 ACTION   Cultist Troopers 2: 4 damage (10 → 6)",
+  "3 ACTION   Cultist destroyed",
+  "3 ACTION   Cultist destroyed",
+  "3 ACTION   Covenant Levies (Levy Bayonet) MELEE vs Cultist Troopers 2 (AR 1): [4✓] → 1 hits [MS 3]",
+  "3 ACTION   Cultist Troopers 2: 1 damage (6 → 5)",
+  "3 ACTION   Cultist Troopers 2 counterattacks",
+  "3 ACTION   Cultist Troopers 2 spends 1 APt to counterattack",
+  "3 ACTION   Cultist Troopers 2 (2x Renegade Bayonet) MELEE vs Covenant Levies (AR 2): [6✓][3✗] → 1 hits [MS 3]",
+  "3 ACTION   Covenant Levies: 1 damage (14 → 13)",
+  "3 ACTION   Cultist Troopers 2 (Renegade Bayonet) MELEE vs Covenant Levies (AR 1): [1✗] → 0 hits [MS 3]",
+  "3 ACTION The Veiled Queen uses Whispers of Forbidden Pleasure!",
+  "3 ACTION [Covenant Levies 2] is seized by Player B until the end of the next Command Phase",
+  "3 ACTION The Veiled Queen WHISPERS OF FORBIDDEN PLEASURE: Target 1 enemy STANDARD or SPECIALIST unit. You gain control of that unit until the end of the next Command Phase.",
+  "3 ACTION Covenant Levies 3 attacks in melee with 2 combat groups",
+  "3 ACTION Covenant Levies 3 engages Cultist Troopers 2 in melee combat",
+  "3 ACTION   Covenant Levies 3 (5x Levy Bayonet) MELEE vs Cultist Troopers 2 (AR 5): [6✓][6✓][4✓][1✗][1✗] → 3 hits [MS 3]",
+  "3 ACTION   Cultist Troopers 2: 3 damage (5 → 2)",
+  "3 ACTION   Cultist destroyed",
+  "3 ACTION   Cultist destroyed",
+  "3 ACTION   Covenant Levies 3 (Levy Bayonet) MELEE vs Cultist Troopers 2 (AR 1): [4✓] → 1 hits [MS 3]",
+  "3 ACTION   Cultist Troopers 2: 1 damage (2 → 1)",
+  "3 ACTION   Cultist Troopers 2 has no APt left - no counterattack",
+  "3 ACTION Covenant Levies 2 opens fire with 2 combat groups",
+  "3 ACTION 9x Levy Rifle (Levy) HIT vs HQ (FR 18): [3✗][(1→)6✓][(1→)4✗][2✗][2✗][3✗][3✗][4✗][(1→)5✓][3✗][(1→)4✗][3✗][5✓][3✗][4✗][(1→)2✗][3✗][5✓] → 4/18 hits (needs 5+)",
+  "3 ACTION   HQ SAVE (4 dice): [2✗][3✗][2✗][5✓] → 1/4 saved (needs 5+)",
+  "3 ACTION   HQ takes 3 damage (8 → 5)",
+  "3 ACTION 1x Levy Rifle (Levy Elder) HIT vs HQ (FR 2): [4✗][5✓] → 1/2 hits (needs 5+)",
+  "3 ACTION   HQ SAVE roll: 6 (needs 5+) => SAVED",
+  "3 ACTION Cantor-Preceptor intones Agnus Dei over Cain - The First Penitent",
+  "3 ACTION Mana: Player A -6 (5 total) - spent",
+  "3 ACTION Cantor-Preceptor casts Agnus Dei on Cain - The First Penitent",
+  "3 ACTION Mana: Player B -2 (0 total) - spent",
+  "3 ACTION Queen Consort casts Gaze of the Abyss on Cain - The First Penitent",
+  "3 ACTION [AI] Action Phase - pass",
+  "3 ACTION Player A passes ACTION phase",
+  "3 ACTION [AI] Action Phase - pass",
+  "3 ACTION Player B passes ACTION phase",
+  "3 ACTION Both players passed - ending ACTION phase",
+  "3 ACTION Mana: Player A +1 (6 total) - PRAYING",
+  "3 ACTION PRAYING: Player A gains +1 Mana at Action Phase end",
+  "3 ACTION Mana: Player B +1 (1 total) - PRAYING",
+  "3 ACTION PRAYING: Player B gains +1 Mana at Action Phase end",
+  "3 ACTION   Cain - The First Penitent FEEL NO PAIN: rolled 4 (needs 3+) => IGNORED",
+  "3 ACTION   Cain - The First Penitent SAVES (slow roll): [no save→Cain - The First Penitent] → 0/1 saved, 0 models killed",
+  "3 ACTION [Cain - The First Penitent] POISONED: 0 True Damage (1 stack x 1) (8 HP remaining)",
+  "3 CLEANUP CLEANUP PHASE",
+  "3 CLEANUP ★ Objective (7,7): Player B +3 VP (OC 9 vs 5)",
+  "3 CLEANUP ★ Objective (1,7): Player B +2 VP (OC 13 vs 0)",
+  "3 CLEANUP ★ Objective (13,7): Player A +2 VP (OC 13 vs 1)",
+  "3 CLEANUP VP - Player A: 17 | Player B: 15",
+  "3 CLEANUP PRIMARY FORLORN HOPE: Player A scores 2 VP (4/10)",
+  "3 CLEANUP PRIMARY GARRISON DUTY: Player B scores 2 VP (3/10)"
+ ]
+}
