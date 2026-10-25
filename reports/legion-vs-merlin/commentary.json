@@ -1,0 +1,61 @@
+{
+  "title": "Acropolis: the Legatus against Merlin",
+  "armies": [{ "name": "Legatus's Legion", "faction": "Iron Imperium" }, { "name": "Merlin's Army", "faction": "British Liberation Front" }],
+  "mode_name": "Seize the Ground",
+  "lede": "The Iron Imperium's Legatus and his Ironthunder Vanguard against Merlin, his Knight-Ascendants and the Parish Militia of the British Liberation Front, on the Acropolis. The closest of six by length: nine rounds, the Legion ahead from Round 2 and winning 31 to 21. Over the six battles the two armies split 3 to 3, on average 22.2 VP to 23.3.",
+  "result_line": "Legatus's Legion wins on Victory Points, 31 to 21",
+  "deployment": "<p>The Legion set up along row 12: the Legatus leading the Ironthunder Vanguard at (3,12), Legionnaire Squad 2 at (4,12), the Fulminator Squad at (5,12), the Speculatores at (10,12), Legionnaire Squad 1 at (11,12) and the Earthshaker Mortar at (9,13), with the Ichorous Engine doctrine. Merlin's Army, with no doctrine (its faction offers none), set up on row 2: Merlin leading Parish Militia 1 at (9,2), Parish Militia 2 at (3,2), the Knight-Banneret leading the Knight-Ascendants at (5,2) and the Eire Pathfinders at (11,2). Merlin now leads the Militia, the toughest squad left to him: the Banneret can lead only the Knight-Ascendants.</p>",
+  "rounds": {
+    "1": { "title": "The knights leave the battlefield", "feed": [
+      { "phase": "Command", "text": "Missions: BREAK CONTACT for the Legion, KING OF THE HILL for Merlin. Primaries: ERADICATE THE FOE for the Legion, BREAK THEIR HOLD for Merlin. The Legion Double Times the Speculatores." },
+      { "phase": "Movement", "text": "Both armies Advance. The Speculatores run to (10,4) and Legionnaire Squad 2 to the west at (1,8). Merlin spends a <b>Gatescroll of Avalon</b>: the Knight-Ascendants and the Banneret leave the battlefield for TRANSITIONAL STATE." },
+      { "phase": "Action", "text": "The Earthshaker Mortar takes 10 HP and five models off Parish Militia 2." }
+    ] },
+    "2": { "title": "Out of the Legion's own corner", "feed": [
+      { "phase": "Command", "text": "Merlin Double Times Parish Militia 1 and buys a third Militia with Troop Requisition; the Legion Double Times the Fulminators." },
+      { "phase": "Movement", "text": "The Knight-Ascendants emerge at (0,13), behind the Legion's own line, and charge Legionnaire Squad 2. The Legionnaires Fall Back in disorder (2 HP, one model) to (0,6), still inside the west Objective Area. The knights take a second Gatescroll and leave again." },
+      { "phase": "Action", "text": "Merlin casts <b>Shield of Camelot</b> on himself (a 4+ special save). The Speculatores' Auspex Scan lets them see what nothing else did." },
+      { "phase": "Cleanup", "text": "Legionnaire Squad 2 holds (1,7): 2 VP and BREAK CONTACT (+2). <b>Legion 4, Merlin 0.</b>" }
+    ] },
+    "3": { "title": "Charges on the west flank", "feed": [
+      { "phase": "Movement", "text": "The knights emerge at (2,1) and charge Legionnaire Squad 2 again; the Legatus and the Vanguard, Double Timed, charge Merlin and Parish Militia 1 at (3,8)." },
+      { "phase": "Action", "text": "At INI 9 with the charge's +3 the Knight-Ascendants land 7 hits of 9 and destroy Legionnaire Squad 2. The Vanguard and the Legatus take 12 HP off Merlin's Militia. The Fulminators' Suppressing Barrage takes 6 off Parish Militia 2 and the Mortar 4 off the new Militia." },
+      { "phase": "Cleanup", "text": "Merlin takes (1,7) back from the Legion: BREAK THEIR HOLD, 3 VP. The Fulminators hold the centre. <b>Legion 7, Merlin 5.</b>" }
+    ] },
+    "4": { "title": "The Legion takes the centre for good", "feed": [
+      { "phase": "Command", "text": "Merlin spends 4 CP on <b>Secure Objective</b> for the Eire Pathfinders on (13,7): it decides 2 VP and completes COMMAND AUTHORITY (+2)." },
+      { "phase": "Movement", "text": "The knights charge the Legatus and the Vanguard at (3,7); Parish Militia 1, with Merlin, Falls Back in disorder to (0,8)." },
+      { "phase": "Action", "text": "The knights and the Banneret both strike at INI 9 before the Vanguard (INI 4): two Vanguard models die, 9 HP. Merlin casts <b>Merlin's Gate</b> on himself and takes himself and the battered Militia out of the fight; they come back at (7,2) next round. The Fulminators destroy Parish Militia 2 on the centre objective." },
+      { "phase": "Cleanup", "text": "ERADICATE THE FOE (+2). <b>Legion 12, Merlin 9.</b>" }
+    ] },
+    "5": { "title": "A Militia spends itself on the Legatus", "feed": [
+      { "phase": "Movement", "text": "The Vanguard and the Legatus charge on to (4,8). The knights Fall Back to (0,6) and hold the west objective." },
+      { "phase": "Action", "text": "The requisitioned Parish Militia, engaged with the Legatus, attacks him and is destroyed by the strike back, 14 HP." },
+      { "phase": "Cleanup", "text": "STRONGPOINT for Merlin (+1). <b>Legion 15, Merlin 12.</b>" }
+    ] },
+    "6": { "title": "Merlin loses his bodyguard", "feed": [
+      { "phase": "Movement", "text": "The Vanguard and the Legatus charge to (6,6), beside the centre objective; the Fulminators join them at (6,7)." },
+      { "phase": "Action", "text": "Merlin and Parish Militia 1 attack the Legatus: Merlin loses 6 HP and the Militia is destroyed. The Mortar and the Speculatores take 6 off a new Militia." },
+      { "phase": "Cleanup", "text": "The Legion holds the centre, Merlin the west. <b>Legion 18, Merlin 14.</b>" }
+    ] },
+    "7": { "title": "Trading squads", "feed": [
+      { "phase": "Movement", "text": "Legionnaire Squad 1, Double Timed, reaches (3,8); the knights charge it. Merlin Falls Back to (8,5)." },
+      { "phase": "Action", "text": "The knights destroy Legionnaire Squad 1, 10 HP. The Legatus and the Vanguard destroy a Parish Militia (12 HP), and the Fulminators kill two Knight-Ascendants, 6 HP." },
+      { "phase": "Cleanup", "text": "ERADICATE THE FOE (+2) for the Legion; DEEP REACH (+3) for Merlin. <b>Legion 23, Merlin 19.</b>" }
+    ] },
+    "8": { "title": "Merlin runs for the corner", "feed": [
+      { "phase": "Command", "text": "Rally Cry passes a Morale Test for the Vanguard and completes COMMAND AUTHORITY (+2)." },
+      { "phase": "Movement", "text": "Merlin Falls Back in disorder to (7,0), the far edge, 1 HP lost." },
+      { "phase": "Action", "text": "The Mortar and the Fulminators take 18 HP off the latest requisitioned Militia." },
+      { "phase": "Cleanup", "text": "<b>Legion 28, Merlin 21.</b>" }
+    ] },
+    "9": { "title": "The knights leave the objective to fight", "feed": [
+      { "phase": "Movement", "text": "The Legion requisitions one more Legionnaire Squad at (5,12); it walks to (4,9) and the knights charge it, leaving the west Objective Area." },
+      { "phase": "Action", "text": "The Knight-Ascendants and the Banneret destroy the new squad. Merlin, at (12,0), casts Merlin's Gate on himself again." },
+      { "phase": "Cleanup", "text": "Merlin scores nothing in the last round: the knights are off the objective. <b>Legatus's Legion 31, Merlin's Army 21.</b>" }
+    ] }
+  },
+  "analysis": { "title": "Analysis", "html": "<h3>Even, and won in different places</h3><p>The six battles split 3 to 3, 22.2 VP to 23.3 on average. The Legion took more from its Primary (4.7 VP a battle to 1.8); Merlin took a little more ground (15.0 objective VP to 13.2) and more secondaries (6.5 to 4.3). The Legion dealt 56 damage a battle to Merlin's 32 and still lost more RP, 56 to 37: the Parish Militia are 13 RP for 20 HP, and Merlin bought 11 more of them with Troop Requisition. Two battles were landslides for Merlin, 32 to 4 on Triple Hills (his Militia and knights reached all three objectives in Round 2) and 34 to 18 on the Acropolis.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>For Merlin, the cheapest units carried the score. The Eire Pathfinders (18 RP) scored 5.2 VP a battle, 28.9 per 100 RP, with 20 objective VP hinged on them: they hold the far objective alone. The Parish Militia scored 17.2 per 100 RP. Merlin (70 RP) scored 1.6 a battle, 2.3 per 100 RP, and the Knight-Ascendants 5.1 per 100 RP. For the Legion, the Ironthunder Vanguard scored 5.2 a battle and the Fulminators 16.5 per 100 RP. The Earthshaker Mortar scored nothing in six battles but fired 4.2 times a battle.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the AI did with them</h3><ul><li><b>Gatescrolls and Merlin's Gate.</b> Merlin used 8 Gatescrolls and cast Merlin's Gate twice, and the record calls every one of them wasted. That verdict is wrong: the record judges a unit placed in TRANSITIONAL STATE by what changed at that moment, which is nothing, and does not follow it to where it emerges. In the featured battle both of the knights' emergences ended in a charge on Legionnaire Squad 2, and the first Merlin's Gate took Merlin and a battered Militia out of the Vanguard's reach. The record needs to credit the emergence. </li><li><b>Merlin fights from the front, then runs.</b> Merlin led his Militia into the Legatus in Round 6 and lost it, then spent Rounds 8 and 9 Falling Back to the far edge. A 70 RP caster scoring 1.6 VP a battle is the army's weak point.</li><li><b>The Legatus and the Vanguard sat idle 4.8 and 4.3 rounds a battle.</b> In the featured battle that was holding: from Round 6 they stood on the centre objective with nothing in reach and scored 1 VP each a round.</li><li><b>Double Time</b> was the most used command: 24 times by the Legion (14 bought nothing, 48 CP) and 16 by Merlin (7 nothing).</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Three to three with similar averages is no lean either way. The armies win differently: the Legion by trading up and its Primary, Merlin by reaching objectives first with cheap bodies.</p>" },
+  "closing_title": "What to look at next",
+  "closing": "<p>The commands-and-abilities record should follow a unit sent into TRANSITIONAL STATE to where it emerges, so that Gatescrolls and Merlin's Gate are judged by the charge or the objective they lead to.</p>"
+}

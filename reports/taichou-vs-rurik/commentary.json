@@ -1,0 +1,49 @@
+{
+  "title": "Acropolis: the Taichou against Rurik",
+  "armies": [{ "name": "Taichou's Army", "faction": "Empire of Nihon" }, { "name": "Rurik's Army", "faction": "Principality of Novgorod" }],
+  "mode_name": "Seize the Ground",
+  "lede": "The Empire of Nihon's Taichou, his Oni Samurai and the Ashigaru Riflemen against Rurik the Deathless and the Veche of Novgorod, on the Acropolis. The closest of six: level at 20 and at 25 after Rounds 5 and 6, the Taichou won 33 to 29 in Round 7. Over the six battles Nihon won 5 to 1, on average 31.5 VP to 19.2, and lost half the RP Novgorod did.",
+  "result_line": "Taichou's Army wins on Victory Points, 33 to 29",
+  "deployment": "<p>Nihon set up along rows 12 and 13: the Taichou leading the Oni Samurai at (11,12), the War Onmyoji leading Ashigaru Riflemen 1 at (5,12), Ashigaru Riflemen 2 at (4,12), the Armored Gashadokuro at (9,13) and the Kitsune Shinobi at (1,13). Both CHARACTERs now lead their army's toughest squads, not the Shinobi. Novgorod set up on rows 1 and 2 with The Bell's Muster: Rurik leading the Rynda Guard at (7,2), Veche Levy 1 at (5,2), Veche Levy 2 at (11,2), the Firelance Druzhina at (10,2) and the Winter Witch at (3,1).</p>",
+  "rounds": {
+    "1": { "title": "Nihon buys a third rifle squad", "feed": [
+      { "phase": "Command", "text": "Nihon spends 3 CP on Troop Requisition: a third Ashigaru Riflemen squad at (6,12). Novgorod Double Times Veche Levy 1. BAR THE GATES completes for Nihon at once (+2)." },
+      { "phase": "Movement", "text": "Everyone Advances. Veche Levy 1 reaches the centre at (6,6) and Veche Levy 2 the east at (12,7); the Ashigaru fan out to (4,8), (3,9) and (10,8)." },
+      { "phase": "Cleanup", "text": "<b>Taichou 2, Rurik 0.</b>" }
+    ] },
+    "2": { "title": "The Kusanagi strikes", "feed": [
+      { "phase": "Movement", "text": "Nihon spends its Regalia on <b>KUSANAGI NO TSURUGI</b> at (11,6): 10 HP off Veche Levy 2 and 6 off the Firelance Druzhina, both left PARALYZED. The new Ashigaru charge Veche Levy 2 on the east objective." },
+      { "phase": "Action", "text": "The Ashigaru take 4 more off Veche Levy 2. Veche Levy 1 shoots Riflemen 1 for 8 and Rurik the Shinobi for 4. The Shinobi's Spot & Mark marks Rurik and the Rynda Guard." },
+      { "phase": "Cleanup", "text": "Novgorod holds the centre (3) and completes DEEP REACH (+3); Nihon holds both flanks (4). <b>Taichou 6, Rurik 6.</b>" }
+    ] },
+    "3": { "title": "Rurik takes the west", "feed": [
+      { "phase": "Command", "text": "Muster in the Snow sends Rurik and the Rynda Guard ahead before the Movement Phase." },
+      { "phase": "Movement", "text": "Rurik's pair charges to (2,6), onto the west objective; the Shinobi Fall Back in disorder to (2,8) and Veche Levy 2 Falls Back off the east objective." },
+      { "phase": "Action", "text": "A long exchange of rifle fire: Veche Levy 1 and Rurik take 8 off the Ashigaru, who answer with 2 on the Rynda Guard. Go to Ground saves Riflemen 1 a hit." },
+      { "phase": "Cleanup", "text": "Novgorod holds the centre and the west (5) and IRON GRIP (+2). <b>Taichou 8, Rurik 13.</b>" }
+    ] },
+    "4": { "title": "The Oni Samurai reach the centre", "feed": [
+      { "phase": "Movement", "text": "The Taichou's Oni Samurai and the War Onmyoji's Ashigaru close on the centre at (7,8) and (6,7); Veche Levy 1 steps off it to (8,6)." },
+      { "phase": "Action", "text": "Both sides shoot and mostly miss: 6 HP onto the Ashigaru in all, nothing back. Toll for the Fallen heals the Rynda Guard 2." },
+      { "phase": "Cleanup", "text": "Nihon takes the centre (3) and holds the east (2) and IRON CURTAIN (+2). <b>Taichou 15, Rurik 16.</b>" }
+    ] },
+    "5": { "title": "The Kusanagi again, and a Veche destroyed", "feed": [
+      { "phase": "Movement", "text": "The second <b>KUSANAGI</b> lands on (2,7): 6 off the Rynda Guard and 4 off the Winter Witch, Rurik's pair and the Witch PARALYZED. Rurik's pair charges Riflemen 2, which Fall Back in disorder (3 HP). The Oni Samurai and the Taichou charge Veche Levy 1." },
+      { "phase": "Action", "text": "The Oni Samurai take 12 HP off Veche Levy 1 and the Taichou destroys it. The Witch puts 3 into the Gashadokuro; Rurik 4 into Riflemen 1." },
+      { "phase": "Cleanup", "text": "INTO THE FRAY for Novgorod (+2). <b>Taichou 20, Rurik 20.</b>" }
+    ] },
+    "6": { "title": "A requisitioned Veche lasts one round", "feed": [
+      { "phase": "Movement", "text": "Novgorod's new Veche Levy charges from (7,2) to (6,5), into the Oni Samurai; Rurik's pair charges Riflemen 2." },
+      { "phase": "Action", "text": "The Oni Samurai take 12 off the new Levy and the Taichou destroys it, 8 HP. Rurik and the Rynda Guard take 7 off Riflemen 2. The Winter Witch's Hail of Heaven hits nothing." },
+      { "phase": "Cleanup", "text": "LAST STAND for Novgorod (+3), scored by the Witch. <b>Taichou 25, Rurik 25.</b>" }
+    ] },
+    "7": { "title": "Nihon holds two of three", "feed": [
+      { "phase": "Movement", "text": "Rurik's pair charges Riflemen 2 again; they Fall Back in disorder, and the Kitsune Shinobi beside them are destroyed trying to follow." },
+      { "phase": "Action", "text": "The east Ashigaru destroy Veche Levy 2 and put 3 into the Rynda Guard. The War Onmyoji casts Katashiro on the centre." },
+      { "phase": "Cleanup", "text": "Nihon holds the centre and the east (5) and DEEP REACH (+3); Novgorod the west (2) and SECURE THE FLANKS (+2). <b>Taichou's Army 33, Rurik's Army 29.</b>" }
+    ] }
+  },
+  "analysis": { "title": "Analysis", "html": "<h3>Nihon wins five of six</h3><p>Nihon won 5 of 6, on average 31.5 VP to 19.2. It held twice the ground (20.8 objective VP a battle to 9.8) and did more with its secondaries (7.7 to 5.0); Novgorod scored a little more from its Primary (4.3 to 3.0). Nihon dealt 67.5 damage a battle to 44.7 and lost 31 RP to Novgorod's 66.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>The Ashigaru Riflemen carried Nihon: 4.1 VP a squad, 27.4 per 100 RP, with 64 objective VP hinged on them; Nihon requisitioned 13 more over the six battles. The Armored Gashadokuro scored 2.9 a battle, the Oni Samurai 2.7, the Kitsune Shinobi and the War Onmyoji about 2.2 each, the Taichou 1.7. For Novgorod, the Winter Witch scored 6.6 a battle (21.8 per 100 RP) but was destroyed in 4 of 6; the Rynda Guard 3.8 and Rurik 2.7; the Firelance Druzhina 0.8, destroyed in 3 of 6.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the armies did</h3><ul><li><b>The Kusanagi is still Nihon's heaviest weapon.</b> Eight uses took 118 HP off Novgorod over six battles, about 20 a battle and close to a third of all Nihon's damage, and paralysed what it hit. In the featured battle its two strikes took 26 HP and paralysed Rurik, the Rynda Guard and the Witch in Round 5, the round the Oni Samurai destroyed Veche Levy 1.</li><li><b>Nihon's melee waits.</b> The Taichou was idle 4.0 rounds a battle, the Oni Samurai 3.5 and the Gashadokuro 3.8; Novgorod's Rynda Guard 4.2. In the featured battle the Taichou's pair stood on the centre from Round 4 and destroyed the two Veche Levies that came to it.</li><li><b>Novgorod's commands paid.</b> Muster in the Snow (10 uses) always moved a unit where it could not otherwise reach, and Toll for the Fallen healed 18 HP in 9. The Firelance Druzhina walked back and forth three times in the featured battle, 7 squares lost.</li><li><b>Primaries that never scored.</b> In the featured battle Nihon took DECAPITATION STRIKE and Novgorod DEBT OF BLOOD, and neither scored a point in seven rounds.</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Five to one, with Nihon losing half the RP, is a clear lean towards Nihon. The Kusanagi and the cheap Ashigaru on the objectives are most of it; the AI played both armies alike.</p>" },
+  "closing_title": "What to look at next",
+  "closing": "<p>The Kusanagi's share of Nihon's damage (about a third) is worth weighing against its cost, and the AI's choice of Primaries it then cannot score is worth a look.</p>"
+}

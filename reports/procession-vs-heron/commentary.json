@@ -1,0 +1,39 @@
+{
+  "title": "Crossroads: Heron against the Pontifex",
+  "armies": [{ "name": "Heron's Army", "faction": "Panhellenic League" }, { "name": "Pontifex's Procession", "faction": "Infernal Congregations (Cult of Grotesque Indolence)" }],
+  "mode_name": "Seize the Ground",
+  "lede": "Heron of Alexandria's hoplites and Argyraspides of the Panhellenic League against the Pontifex of Acedia's cultists of the Cult of Grotesque Indolence, at the Crossroads. The closest of six: Heron held all three objectives in Round 3 and won 31 to 19 in Round 5. Over the six battles the Procession won 4 to 2, on average 29.3 VP to 17.7, though Heron dealt twice its damage.",
+  "result_line": "Heron's Army wins on Victory Points, 31 to 19",
+  "deployment": "<p>Heron's Army set up on row 12 with the Apollonian Strike Force doctrine: Heron leading the Argyraspides at (9,12), League Hoplite 1 at (5,12), League Hoplite 2 with the Asklepian Medic at (3,12), the Hephaestian Tripod at (3,14) and the Heliostat Battery at (10,13). The Procession, with no doctrine (its cult offers none), set up on rows 1 and 2: the Pontifex leading Cultist Troopers 1 at (5,2), Troopers 2 at (11,2), Troopers 3 at (7,2), the Algedonic Taskmaster at (3,2), the Morphean Engine at (9,2), three Forsaken squads at (3,1), (5,1) and (11,1), and the Cultist Machinegun Squad at (9,1).</p>",
+  "rounds": {
+    "1": { "title": "Both armies close on the crossroads", "feed": [
+      { "phase": "Command", "text": "Heron casts the Omen Dice (Delphic Apotropaia) and spends True Bearing on the Argyraspides; the Procession Double Times the Pontifex's Troopers. Missions: INTO THE FRAY for Heron, BAR THE GATES for the Procession, which completes at once (+2)." },
+      { "phase": "Movement", "text": "Every unit Advances: Hoplite 1 to (6,7), Heron and the Argyraspides to (8,7), beside the centre objective; the cultists to rows 3 to 5." },
+      { "phase": "Action", "text": "The Morphean Engine takes 2 HP off League Hoplite 1. <b>Heron 0, Procession 2.</b>" }
+    ] },
+    "2": { "title": "Held still in the centre", "feed": [
+      { "phase": "Movement", "text": "The Algedonic Taskmaster charges to (7,6) and Troopers 3 to (6,6), against the Greeks on the centre objective. The <b>Vessel of Agares</b> holds Heron, the Argyraspides and Hoplite 1 still, denying them two charges, and the <b>Effluvium of Inanition</b> cuts their reach from 24 squares to 16 and 19. The Morphean Engine walks to the east objective at (12,6)." },
+      { "phase": "Action", "text": "Hoplite 1 takes 7 HP off Troopers 3 and the Argyraspides 4 off the Taskmaster. Heron requisitions a third League Hoplite squad at (8,12)." },
+      { "phase": "Cleanup", "text": "Heron holds the centre (3) and scores IMPENETRABLE FORTRESS (3); the Engine holds (13,7). <b>Heron 6, Procession 4.</b>" }
+    ] },
+    "3": { "title": "Heron takes all three", "feed": [
+      { "phase": "Movement", "text": "The Pontifex and Troopers 1 charge to (8,6) and Forsaken 3 to (9,6), both against Heron's pair. The Taskmaster Falls Back in disorder to (9,5) and Troopers 3 to (5,5). League Hoplite 2 reaches the west objective; the new Hoplites, Double Timed, the east one at (12,8)." },
+      { "phase": "Action", "text": "The Argyraspides take 6 off the Pontifex's Troopers. Troopers 2 shoot Hoplite 1 for 6, with the Pontifex's <b>Weight of the World</b> worth 5.6 expected HP to them. The new Hoplites hit the Engine for 2." },
+      { "phase": "Cleanup", "text": "Heron holds all three objectives (7) and IMPENETRABLE FORTRESS again (3); the Procession completes IRON CURTAIN (+2). <b>Heron 16, Procession 6.</b>" }
+    ] },
+    "4": { "title": "The cultists retake the centre", "feed": [
+      { "phase": "Movement", "text": "Troopers 3 walk into Overwatch from League Hoplite 2 and the Tripod (7 HP). Troopers 2 charge onto the centre at (6,6)." },
+      { "phase": "Action", "text": "League Hoplite 2 destroys Troopers 3. Hoplite 1 strikes Troopers 2 and is destroyed by the strike back. The Hoplites on the east objective put 4 HP into the Engine; the Medic's Theriac Surgery heals Hoplite 2." },
+      { "phase": "Cleanup", "text": "Troopers 2 take the centre (3), GARRISON DUTY (2) and DEEP REACH (3) for the Procession. Heron answers with KING OF THE HILL (3), BAR THE GATES (2), both flanks (4) and IMPENETRABLE FORTRESS (3). <b>Heron 28, Procession 14.</b>" }
+    ] },
+    "5": { "title": "Heron crosses 30", "feed": [
+      { "phase": "Command", "text": "Heron spends 2 CP on Name the Omen with no target. The Procession requisitions another Troopers squad." },
+      { "phase": "Movement", "text": "The Taskmaster charges the Hoplites on the east objective at (12,7)." },
+      { "phase": "Action", "text": "The Argyraspides take 4 more off the Pontifex's Troopers; Forsaken 3 take 4 off the Argyraspides. The Morphean Engine and Troopers 2 take 5 off the Tripod, and the Medic heals it 3." },
+      { "phase": "Cleanup", "text": "The Procession scores the centre (3) and GARRISON DUTY (2); Heron the east objective (2) and IMPENETRABLE FORTRESS (1), its tenth Primary VP. <b>Heron's Army 31, Pontifex's Procession 19.</b>" }
+    ] }
+  },
+  "analysis": { "title": "Analysis", "html": "<h3>The Procession wins by standing on the ground</h3><p>The Procession won 4 of 6, on average 29.3 VP to 17.7, and four of its wins were by 15 or more. It took far more ground (17.8 objective VP a battle to 8.0) and more secondaries (6.8 to 3.3); Heron took more from its Primary (6.3 to 4.7). Heron dealt twice the damage, 65.8 a battle to 32.8, and still lost three times the RP, 45.5 to 15.3: the Cultist Troopers are 10 RP for 20 HP and the Forsaken 7 RP for 10, so damage into them buys little.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>The Cultist Troopers carried the Procession: 3.8 VP a squad a battle, 38.4 per 100 RP, with 56 objective VP hinged on them. The Algedonic Taskmaster scored 4.3 a battle. The Pontifex of Acedia (75 RP) scored 3.3, 4.4 per 100 RP; the Forsaken 0.5 a squad. For Heron, the Argyraspides scored 3.1 a battle, the League Hoplites 2.0 a squad, Heron 2.5 and the Hephaestian Tripod 2.2.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the armies did</h3><ul><li><b>The Cult of Grotesque Indolence's auras held the Greeks.</b> The Vessel of Agares held 48 enemy unit-rounds still over six battles, denying 17 charges and 12 Fall Backs, and the Effluvium of Inanition took 509 squares of reach off the units in it. Heron was idle 4.0 rounds a battle, mostly held still beside the centre.</li><li><b>The Cultist Machinegun Squad hardly fires.</b> It fired 0.33 times a battle and was idle 4.7 rounds of each; in the featured battle it found no legal attack in any of its five rounds, from (9,4) and (9,5), with Heron's units 3 to 7 squares away. Its gun is STATIONARY with range 9. Why it had no legal attack (sight, spotting or targets in melee) is still to be checked.</li><li><b>Heron's commands bought little.</b> The Heliostat Battery's Blinding Flash was used 6 times and the record found it bought nothing every time; Name the Omen was bought 3 times (6 CP), once with no target, and bought nothing. Theriac Surgery healed 16 HP in 11 uses.</li><li><b>The record misses the Morphean Engine's attacks.</b> The activity record shows it with no action in six battles, yet in the featured battle it fired in four rounds. That is a gap in the record to fix.</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Four to two, with the Procession's wins by wide margins and Heron's damage buying a third of the RP, is a real lean towards the Procession. It comes from the army's cheap, sticky bodies and its auras, not from the AI's play.</p>" },
+  "closing_title": "What to look at next",
+  "closing": "<p>Why the Cultist Machinegun Squad finds no legal attack, and why the activity record never sees the Morphean Engine act.</p>"
+}

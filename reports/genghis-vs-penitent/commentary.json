@@ -1,0 +1,148 @@
+{
+ "title": "Triple Hills: Cain against Genghis",
+ "armies": [
+  {
+   "name": "Genghis's Army",
+   "faction": "Golden Khaganate"
+  },
+  {
+   "name": "Penitent Crusade",
+   "faction": "Covenant of New Jerusalem"
+  }
+ ],
+ "mode_name": "Seize the Ground",
+ "lede": "Genghis Khan and the riders of the Golden Khaganate against the Covenant of New Jerusalem's Penitent Crusade under Cain, the First Penitent, on Triple Hills. The closest of six: Genghis led 25 to 13 after Round 5, died on Cain's Knight-Apostles in Round 6, and the Crusade won 33 to 28 in Round 7. Over the six battles the Crusade won 4 to 2.",
+ "result_line": "Penitent Crusade wins on Victory Points, 33 to 28",
+ "deployment": "<p>The Khaganate set up on rows 12 to 14: Genghis leading the Khesig Guards at (3,14), the Black Shaman leading Stormrider 1 at (4,14), Stormrider 2 at (9,14), the Nerge Outriders at (10,14), and two Tamga-Bound Troops squads at (6,12) and (7,12), one requisitioned. The Crusade set up on row 2: Cain leading the Knight-Apostle Squad at (9,2), the Cantor-Preceptor leading Covenant Levies 1 at (10,2), Levies 2 and 3 at (5,2) and (11,2), the Jordanite Hospitallers at (3,2), and a fourth Levies squad requisitioned at (8,2). Neither faction offers these armies a doctrine.</p>",
+ "rounds": {
+  "1": {
+   "title": "Both armies buy infantry",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Both spend 3 CP on Troop Requisition: a second Tamga-Bound Troops squad for Genghis, a fourth Covenant Levies squad for the Crusade."
+    },
+    {
+     "phase": "Movement",
+     "text": "Everyone Advances. Genghis and the Khesig Guards ride to (7,9) and the Stormriders to (6,9) and (7,11); the Levies come down to rows 3 to 6, the requisitioned squad to (8,6)."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "<b>0 each.</b>"
+    }
+   ]
+  },
+  "2": {
+   "title": "Genghis takes the hills",
+   "feed": [
+    {
+     "phase": "Movement",
+     "text": "A Tamga-Bound squad charges onto the centre at (7,7) through Overwatch from four Crusade units (4 HP, and a stray Levies shot hits its own side for 3). The Hospitallers charge it. Genghis' pair rides west to (4,9), Stormrider 2 to (3,9), the Outriders east to (12,8)."
+    },
+    {
+     "phase": "Action",
+     "text": "The requisitioned Levies take 10 HP off the Tamga-Bound Troops and lose 7 to the strike back. Genghis, the Khesig Guards, Stormrider 2 and the other Tamga squad shoot Levies 2 for 14."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Khaganate holds all three objectives (7) and completes FOCUSED FIRE (+2); INTO THE FRAY for the Crusade (+2). <b>Genghis 9, Crusade 2.</b>"
+    }
+   ]
+  },
+  "3": {
+   "title": "Cain breaks the Khesig Guards",
+   "feed": [
+    {
+     "phase": "Movement",
+     "text": "Genghis' pair charges north to (4,5); Cain and the Knight-Apostles, Double Timed, charge it at (5,4). Stormrider 2 charges the Hospitallers; the Tamga-Bound squad on the centre Falls Back in disorder (3 HP)."
+    },
+    {
+     "phase": "Action",
+     "text": "The Knight-Apostles take 8 off the Khesig Guards for 3 of their own, and Cain destroys the last of them: Genghis stands alone. Stormrider 2 takes 3 off the Hospitallers."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "Genghis keeps the centre (3) and IRON GRIP (+2); the Crusade scores BLEED THEM WHITE (2) and BREAK CONTACT (+2). <b>Genghis 14, Crusade 6.</b>"
+    }
+   ]
+  },
+  "4": {
+   "title": "The lead grows",
+   "feed": [
+    {
+     "phase": "Movement",
+     "text": "Genghis Falls Back alone, in disorder, to (0,6) (3 HP); Cain's pair and Levies 2 charge on to (5,6) and (6,6)."
+    },
+    {
+     "phase": "Action",
+     "text": "Stormrider 2 destroys the Jordanite Hospitallers. A Levies squad shooting into the melee destroys its own Levies 2 (2 HP)."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Khaganate holds all three objectives again (7). <b>Genghis 21, Crusade 6.</b>"
+    }
+   ]
+  },
+  "5": {
+   "title": "The Crusade climbs the hills",
+   "feed": [
+    {
+     "phase": "Movement",
+     "text": "Cain's pair charges to (6,7), onto the centre; a requisitioned Levies squad charges to (5,7) and another walks to (11,7). Both Stormrider squads fall back off the centre in disorder (5 HP). Genghis charges Levies 1 on the west objective."
+    },
+    {
+     "phase": "Action",
+     "text": "Levies 1 strike Genghis and lose 2 HP back."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Crusade holds two objectives (5) and IRON GRIP (+2); Genghis scores WIDE SWEEP (2) and the west objective (2). <b>Genghis 25, Crusade 13.</b>"
+    }
+   ]
+  },
+  "6": {
+   "title": "Genghis dies on the Knight-Apostles",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Genghis spends 4 CP on Secure Objective for the Nerge Outriders, who then Fall Back in disorder (1 HP); the Khaganate scores no objective this round."
+    },
+    {
+     "phase": "Movement",
+     "text": "Genghis charges again, to (2,6), and Cain's pair charges in beside him at (3,6)."
+    },
+    {
+     "phase": "Action",
+     "text": "Genghis strikes the Knight-Apostles for 3 and is destroyed, 9 HP. A Levies squad shoots the Tamga-Bound Troops for 8."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Crusade holds all three objectives (7) and BLEED THEM WHITE (2); the Khaganate scores nothing. <b>Genghis 25, Crusade 22.</b>"
+    }
+   ]
+  },
+  "7": {
+   "title": "The Crusade crosses 30",
+   "feed": [
+    {
+     "phase": "Movement",
+     "text": "A Tamga-Bound squad dies in a disordered Fall Back. Both Stormrider squads charge Levies 3 on the centre."
+    },
+    {
+     "phase": "Action",
+     "text": "The Stormriders destroy Levies 3 (12 HP). The Knight-Apostles destroy a Tamga-Bound squad (11), and three Levies squads shoot the last one for 13."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Crusade holds two objectives (5), BLEED THEM WHITE (2) and MAN OF THE HOUR (+4); KING OF THE HILL (+3) for Genghis. <b>Genghis's Army 28, Penitent Crusade 33.</b>"
+    }
+   ]
+  }
+ },
+ "analysis": {
+  "title": "Analysis",
+  "html": "<h3>The Crusade four to two</h3><p>The Crusade won 4 of 6, on average 24.7 VP to 21.7. Ground was even (14.2 objective VP a battle for Genghis, 13.2 for the Crusade) and so were the secondaries (6.0 and 6.7); the difference was the Primary, 4.8 VP a battle to 1.5. Damage was even (81 to 79), but Genghis lost 49 RP a battle to the Crusade's 33, 125 of them in the featured battle. Every battle but the featured one was decided by 20 or more.</p><p>Two of these battles, seeds 1240 and 1242, first crashed the page in Round 7: V8 ran out of memory. The cause was the unit list's row cache, which kept about half a GB of memory each Battle Round, in every matchup. It is fixed and both battles were played again; the same seeds give the same battles, so they stand beside the other four.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>For Genghis, the Stormriders scored 3.4 VP a squad and Genghis 3.6, the Khesig Guards 3.0, the cheap Tamga-Bound Troops 14.8 per 100 RP. For the Crusade, the Knight-Apostle Squad scored 4.9 a battle and Cain 3.6; the Covenant Levies 22.4 per 100 RP. The Jordanite Hospitallers were destroyed in 5 of 6.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the armies did</h3><ul><li><b>Cain and the Knight-Apostles decide the fights.</b> In the featured battle they destroyed the Khesig Guards in one round, and when Genghis came back alone in Round 6 he died on them. Agnus Dei put +1 DMG on them and the Levies, 34 expected HP over six battles (10 of 18 casts bought nothing).</li><li><b>Genghis gave up a 12-point lead.</b> From Round 5 the Khaganate's riders fell back off the hills and Genghis charged on alone; the Crusade's cheap Levies took the objectives back and scored 9 and 11 in the last two rounds.</li><li><b>The Black Shaman's Chant of the Kindling</b> was cast 27 times (54 Mana) and the record found it bought nothing in 22. It raises Hunger, which pays only through the Khaganate's Hunger rules; the record prices little of that.</li><li><b>Friendly fire.</b> In the featured battle the Crusade's Levies hit their own side twice shooting into melee and destroyed Levies 2 once.</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Four to two with even damage and ground is a slight lean to the Crusade, from its Primary scoring and the Knight-Apostles. The AI threw away Genghis in the featured battle; that is the AI's play, not the army.</p>"
+ },
+ "closing_title": "What to look at next",
+ "closing": "<p>Why Genghis, alone and wounded, charged the Knight-Apostles in Round 6, and whether the record should price Hunger gained.</p>"
+}

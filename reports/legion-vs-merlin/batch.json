@@ -1,0 +1,8372 @@
+{
+ "armies": [
+  {
+   "name": "Legatus's Legion",
+   "faction": "iron_imperium",
+   "formation": "preset:legatus_legion"
+  },
+  {
+   "name": "Merlin's Army",
+   "faction": "british_liberation_front",
+   "formation": "preset:merlin_army"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1200,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 9,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    21
+   ],
+   "vpBySource": [
+    {
+     "objectives": 23,
+     "primary": 4,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 12,
+     "primary": 3,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    190
+   ],
+   "lostRp": [
+    60,
+    52
+   ],
+   "lostUnits": [
+    3,
+    4
+   ],
+   "fieldedRp": [
+    218,
+    229
+   ],
+   "arrivedUnits": [
+    1,
+    3
+   ],
+   "damage": [
+    113,
+    41
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3,
+     3
+    ],
+    [
+     0,
+     0,
+     2,
+     2,
+     2,
+     2,
+     2,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 18,
+     "spent": 18
+    },
+    {
+     "gained": 27,
+     "spent": 26
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 4
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    9,
+    9
+   ],
+   "missionsCompleted": [
+    2,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 8
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 8
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 8,
+      "ended": null
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 9,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 8
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 6,
+      "ended": 7
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 8,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 9,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 8,
+      "objectives": 4,
+      "primary": 2,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 4,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 2
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 15,
+      "objectives": 13,
+      "primary": 2,
+      "missions": 0,
+      "pivotal": 9
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": true,
+      "vp": 4,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 2
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 5,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 0,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 6,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 6.5,
+      "idle": 7,
+      "idleMoved": 1,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "support": 2.05,
+      "offensive": 0,
+      "defensive": 2.05,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "support": 1.3,
+      "offensive": 1.3,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "support": 0.29,
+      "offensive": 0.29,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Legatus",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "moves": 8,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Speculatores",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 10,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Mercurii",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Shield of Camelot",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Auspex Scan",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 1.3,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shield Wall",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 4,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.29,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Suppressing Barrage",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 6,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Martis",
+     "kind": "table",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3.38,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 2,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Merlin's Gate",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 8,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Suppressing Barrage",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Minervae",
+     "kind": "table",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.31,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Merlin's Gate",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 8,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Artificer Heavy Shield",
+      "attacks": 3,
+      "added": 0,
+      "prevented": 2.05
+     }
+    ],
+    "stilled": [],
+    "move": [
+     {
+      "army": 0,
+      "source": "Ichor Injectors",
+      "unitRounds": 18,
+      "change": 18
+     },
+     {
+      "army": 0,
+      "source": "Shield Wall",
+      "unitRounds": 5,
+      "change": -5
+     }
+    ],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1201,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    30,
+    11
+   ],
+   "vpBySource": [
+    {
+     "objectives": 24,
+     "primary": 2,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 4,
+     "primary": 0,
+     "missions": 7,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    203
+   ],
+   "lostRp": [
+    50,
+    31
+   ],
+   "lostUnits": [
+    2,
+    2
+   ],
+   "fieldedRp": [
+    198,
+    216
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    59,
+    24
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     7,
+     7,
+     5,
+     5
+    ],
+    [
+     0,
+     0,
+     0,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 11
+    },
+    {
+     "gained": 15,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 2
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    2,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 3.7,
+      "primary": 2,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 7.7,
+      "objectives": 5.2,
+      "primary": 0,
+      "missions": 2.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 7.2,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 6
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 4.7,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 4
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 0.5,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 6,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 2
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0.25,
+      "offensive": 0,
+      "defensive": 0.25,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "support": 1.54,
+      "offensive": 1.54,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "support": 0.89,
+      "offensive": 0,
+      "defensive": 0.89,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "support": 0.33,
+      "offensive": 0.33,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Legatus",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Speculatores",
+      "moves": 5,
+      "undone": 4,
+      "back": 1,
+      "objective": 3,
+      "squares": 12
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Mercurii",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Shield of Camelot",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shield Wall",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.25,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.33,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Martis",
+     "kind": "table",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2.5,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.54,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.89,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [
+     {
+      "army": 0,
+      "source": "Ichor Injectors",
+      "unitRounds": 10,
+      "change": 10
+     },
+     {
+      "army": 0,
+      "source": "Shield Wall",
+      "unitRounds": 2,
+      "change": -2
+     }
+    ],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1202,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    4,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 2,
+     "primary": 0,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 24,
+     "primary": 0,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    190
+   ],
+   "lostRp": [
+    58,
+    0
+   ],
+   "lostUnits": [
+    3,
+    0
+   ],
+   "fieldedRp": [
+    218,
+    216
+   ],
+   "arrivedUnits": [
+    1,
+    2
+   ],
+   "damage": [
+    24,
+    36
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     0,
+     2,
+     0
+    ],
+    [
+     0,
+     5,
+     7,
+     5,
+     7
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 11,
+     "spent": 11
+    },
+    {
+     "gained": 15,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "WIDE SWEEP",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    1,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 2,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 3.1,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": true,
+      "vp": 10.2,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 2.2,
+      "pivotal": 8
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 6.2,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2.2,
+      "pivotal": 4
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 4,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "support": 0.5,
+      "offensive": 0,
+      "defensive": 0.5,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0.37,
+      "offensive": 0,
+      "defensive": 0.37,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Legatus",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Speculatores",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Mercurii",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Auspex Scan",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shield Wall",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.24,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Suppressing Barrage",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Martis",
+     "kind": "table",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.27,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.13,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 4,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Artificer Heavy Shield",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.5
+     }
+    ],
+    "stilled": [],
+    "move": [
+     {
+      "army": 0,
+      "source": "Ichor Injectors",
+      "unitRounds": 10,
+      "change": 10
+     },
+     {
+      "army": 0,
+      "source": "Shield Wall",
+      "unitRounds": 2,
+      "change": -2
+     }
+    ],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1203,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    11
+   ],
+   "vpBySource": [
+    {
+     "objectives": 21,
+     "primary": 2,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 6,
+     "primary": 2,
+     "missions": 3,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    190
+   ],
+   "lostRp": [
+    38,
+    96
+   ],
+   "lostUnits": [
+    2,
+    3
+   ],
+   "fieldedRp": [
+    198,
+    203
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    63,
+    28
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     5,
+     5,
+     3,
+     3
+    ],
+    [
+     0,
+     0,
+     2,
+     2,
+     0,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 14,
+     "spent": 12
+    },
+    {
+     "gained": 17,
+     "spent": 16
+    }
+   ],
+   "primary": [
+    {
+     "name": "RECONNAISSANCE OPERATION",
+     "vp": 2
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 2
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 2.7,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 2.7,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 13.2,
+      "objectives": 13,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 12
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": false,
+      "vp": 6.2,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 6
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 5,
+      "objectives": 1,
+      "primary": 2,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0.33,
+      "offensive": 0,
+      "defensive": 0.33,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "support": 5.17,
+      "offensive": 5.17,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "support": 3.89,
+      "offensive": 0,
+      "defensive": 3.89,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "support": 0.32,
+      "offensive": 0.32,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Legatus",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Speculatores",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Mercurii",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.33,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 3.89,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 5.17,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.32,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Martis",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 0.75,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Shield Wall",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 5,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [
+     {
+      "army": 0,
+      "source": "Ichor Injectors",
+      "unitRounds": 12,
+      "change": 12
+     },
+     {
+      "army": 0,
+      "source": "Shield Wall",
+      "unitRounds": 2,
+      "change": -2
+     }
+    ],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1204,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    18,
+    34
+   ],
+   "vpBySource": [
+    {
+     "objectives": 2,
+     "primary": 10,
+     "missions": 6,
+     "other": 0
+    },
+    {
+     "objectives": 25,
+     "primary": 0,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    190
+   ],
+   "lostRp": [
+    20,
+    31
+   ],
+   "lostUnits": [
+    1,
+    2
+   ],
+   "fieldedRp": [
+    198,
+    203
+   ],
+   "arrivedUnits": [
+    0,
+    1
+   ],
+   "damage": [
+    39,
+    25
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     2,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     5,
+     5,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 12
+    },
+    {
+     "gained": 21,
+     "spent": 20
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    },
+    {
+     "name": "RECONNAISSANCE OPERATION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    3,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ],
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 6,
+      "objectives": 1,
+      "primary": 5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": true,
+      "vp": 8,
+      "objectives": 1,
+      "primary": 5,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 3.2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 10.2,
+      "objectives": 9,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 6
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 3.2,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 8.2,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.2,
+      "pivotal": 4
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 5.5,
+      "idle": 6,
+      "idleMoved": 5,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "support": 0.2,
+      "offensive": 0,
+      "defensive": 0.2,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0.24,
+      "offensive": 0,
+      "defensive": 0.24,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0.24,
+      "offensive": 0,
+      "defensive": 0.24,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Legatus",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Speculatores",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Mercurii",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shield Wall",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.24,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Auspex Scan",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Martis",
+     "kind": "table",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.14,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Shield Wall",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.24,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Artificer Heavy Shield",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 0.2
+     }
+    ],
+    "stilled": [],
+    "move": [
+     {
+      "army": 0,
+      "source": "Ichor Injectors",
+      "unitRounds": 12,
+      "change": 12
+     },
+     {
+      "army": 0,
+      "source": "Shield Wall",
+      "unitRounds": 4,
+      "change": -4
+     }
+    ],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1205,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    19,
+    31
+   ],
+   "vpBySource": [
+    {
+     "objectives": 7,
+     "primary": 10,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 19,
+     "primary": 6,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    203
+   ],
+   "lostRp": [
+    110,
+    13
+   ],
+   "lostUnits": [
+    4,
+    1
+   ],
+   "fieldedRp": [
+    218,
+    216
+   ],
+   "arrivedUnits": [
+    1,
+    1
+   ],
+   "damage": [
+    38,
+    40
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     2,
+     2,
+     0,
+     0
+    ],
+    [
+     0,
+     2,
+     5,
+     5,
+     7,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 12,
+     "spent": 11
+    },
+    {
+     "gained": 19,
+     "spent": 19
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 10
+    },
+    {
+     "name": "FORLORN HOPE",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    1,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "alive": false,
+      "vp": 3,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 7,
+      "objectives": 3,
+      "primary": 4,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "alive": true,
+      "vp": 3,
+      "objectives": 0,
+      "primary": 3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 9.5,
+      "objectives": 7.5,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 6
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "alive": true,
+      "vp": 14,
+      "objectives": 8,
+      "primary": 6,
+      "missions": 0,
+      "pivotal": 8
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 3,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Legatus",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "rp": 40,
+      "support": 3.52,
+      "offensive": 0,
+      "defensive": 3.52,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 1.45,
+      "offensive": 0,
+      "defensive": 1.45,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Speculatores",
+      "rp": 18,
+      "support": 0.84,
+      "offensive": 0.84,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "rp": 70,
+      "support": 2.59,
+      "offensive": 0,
+      "defensive": 2.59,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "rp": 33,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "rp": 43,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Eire Pathfinders",
+      "rp": 18,
+      "support": 1.17,
+      "offensive": 1.17,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Parish Militia",
+      "rp": 13,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Legatus",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ironthunder Vanguard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Fulminator Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Earthshaker Mortar",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Speculatores",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Legionnaire Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Merlin - Wizard of Avalon",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Banneret",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Ascendants",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 6,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Eire Pathfinders",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Parish Militia",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Mercurii",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "GATESCROLLS OF AVALON",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.42,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.84,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Shield Wall",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Banner of the Cinder Dragon",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": -1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Martis",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica: Tactica Martis",
+     "kind": "table",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 2.59,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.75,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Capture",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 4,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.35,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Tactica Mercurii",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Artificer Heavy Shield",
+      "attacks": 3,
+      "added": 0,
+      "prevented": 3.52
+     }
+    ],
+    "stilled": [],
+    "move": [
+     {
+      "army": 0,
+      "source": "Ichor Injectors",
+      "unitRounds": 12,
+      "change": 12
+     },
+     {
+      "army": 0,
+      "source": "Shield Wall",
+      "unitRounds": 4,
+      "change": -4
+     }
+    ],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

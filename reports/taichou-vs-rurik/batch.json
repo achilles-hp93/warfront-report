@@ -1,0 +1,7477 @@
+{
+ "armies": [
+  {
+   "name": "Taichou's Army",
+   "faction": "empire_of_nihon",
+   "formation": "preset:taichou_army"
+  },
+  {
+   "name": "Rurik's Army",
+   "faction": "principality_of_novgorod",
+   "formation": "preset:rurik_army"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1230,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    25,
+    32
+   ],
+   "vpBySource": [
+    {
+     "objectives": 15,
+     "primary": 3,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 16,
+     "primary": 10,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    193,
+    190
+   ],
+   "lostRp": [
+    70,
+    45
+   ],
+   "lostUnits": [
+    2,
+    3
+   ],
+   "fieldedRp": [
+    238,
+    220
+   ],
+   "arrivedUnits": [
+    3,
+    2
+   ],
+   "damage": [
+    72,
+    60
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     5,
+     3,
+     3,
+     2,
+     2
+    ],
+    [
+     0,
+     5,
+     0,
+     0,
+     4,
+     2,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 22,
+     "spent": 22
+    },
+    {
+     "gained": 17,
+     "spent": 17
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 3
+    },
+    {
+     "name": "FORLORN HOPE",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 3.2,
+      "objectives": 2.7,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.9,
+      "objectives": 4.6,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 2.7,
+      "primary": 0,
+      "missions": 0.8,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": false,
+      "vp": 1.1,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 0.6,
+      "objectives": 0.3,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0.3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 1.1,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 4.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 4
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 6,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 3
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "alive": true,
+      "vp": 16.5,
+      "objectives": 6,
+      "primary": 10,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 5
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "support": 3,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 3,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "moves": 4,
+      "undone": 2,
+      "back": 1,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Rynda Guard",
+      "moves": 7,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Winter Witch",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 10.38,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sake of Mount Oe",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hail of Heaven",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 4,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Overdraw",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": -2,
+     "damage": -1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Monoimi Fuda",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "YATA NO KAGAMI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hail of Heaven",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Perun's Arrow",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Kanashibari",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hail of Heaven",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Monoimi Fuda",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1231,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    30,
+    25
+   ],
+   "vpBySource": [
+    {
+     "objectives": 22,
+     "primary": 4,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 11,
+     "primary": 10,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    193,
+    190
+   ],
+   "lostRp": [
+    30,
+    55
+   ],
+   "lostUnits": [
+    2,
+    2
+   ],
+   "fieldedRp": [
+    238,
+    190
+   ],
+   "arrivedUnits": [
+    3,
+    0
+   ],
+   "damage": [
+    43,
+    54
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     5,
+     5,
+     5,
+     5
+    ],
+    [
+     0,
+     3,
+     2,
+     2,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 20,
+     "spent": 19
+    },
+    {
+     "gained": 15,
+     "spent": 14
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 4
+    },
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 4,
+      "objectives": 3.8,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.4,
+      "objectives": 4,
+      "primary": -0.4,
+      "missions": 0.8,
+      "pivotal": 8
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 2.7,
+      "objectives": 2,
+      "primary": 0.3,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 5.6,
+      "objectives": 4.3,
+      "primary": 1,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 2.3,
+      "primary": 0.4,
+      "missions": 0.8,
+      "pivotal": 2
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 3.9,
+      "objectives": 3,
+      "primary": 0.4,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": false,
+      "vp": 3.1,
+      "objectives": 1.8,
+      "primary": 1,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "alive": true,
+      "vp": 8.3,
+      "objectives": 3,
+      "primary": 5,
+      "missions": 0.3,
+      "pivotal": 2
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "alive": true,
+      "vp": 12.3,
+      "objectives": 5,
+      "primary": 5,
+      "missions": 2.3,
+      "pivotal": 4
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "support": 6.7,
+      "offensive": 5.46,
+      "defensive": 1.24,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "support": 0.06,
+      "offensive": 0,
+      "defensive": 0.06,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 6,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 2
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 6,
+      "undone": 2,
+      "back": 2,
+      "objective": 2,
+      "squares": 8
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Winter Witch",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "YATA NO KAGAMI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Perun's Arrow",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 7.7,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.06,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "YATA NO KAGAMI",
+     "kind": "spend",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Perun's Arrow",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1232,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    15
+   ],
+   "vpBySource": [
+    {
+     "objectives": 16,
+     "primary": 7,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 10,
+     "primary": 3,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    193,
+    190
+   ],
+   "lostRp": [
+    66,
+    70
+   ],
+   "lostUnits": [
+    2,
+    3
+   ],
+   "fieldedRp": [
+    208,
+    190
+   ],
+   "arrivedUnits": [
+    1,
+    0
+   ],
+   "damage": [
+    59,
+    36
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     2,
+     7,
+     7
+    ],
+    [
+     0,
+     5,
+     5,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 14,
+     "spent": 12
+    },
+    {
+     "gained": 12,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "SILENT MANEUVER",
+     "vp": 7
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 2,
+      "primary": 1.4,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2.3,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 2.9,
+      "objectives": 2,
+      "primary": 0.6,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 10.8,
+      "objectives": 6,
+      "primary": 2.4,
+      "missions": 2.4,
+      "pivotal": 6
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 2,
+      "primary": 1.4,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 2,
+      "primary": 1.4,
+      "missions": 0.9,
+      "pivotal": 3
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0.5,
+      "primary": 1.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "alive": false,
+      "vp": 1,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 0.5,
+      "primary": 1.5,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "alive": false,
+      "vp": 4.5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 4
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 4,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "support": 0.52,
+      "offensive": 0,
+      "defensive": 0.52,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "support": 0.27,
+      "offensive": 0.08,
+      "defensive": 0.19,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Winter Witch",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 10,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.04,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 6,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Hail of Heaven",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": -2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Kitsunetsukijutsu",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.19,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Kanashibari",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 11.16,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.04,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Master Swordsman",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 0.52
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1233,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    32,
+    11
+   ],
+   "vpBySource": [
+    {
+     "objectives": 22,
+     "primary": 1,
+     "missions": 9,
+     "other": 0
+    },
+    {
+     "objectives": 6,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    }
+   ],
+   "rp": [
+    193,
+    190
+   ],
+   "lostRp": [
+    0,
+    95
+   ],
+   "lostUnits": [
+    0,
+    4
+   ],
+   "fieldedRp": [
+    223,
+    190
+   ],
+   "arrivedUnits": [
+    2,
+    0
+   ],
+   "damage": [
+    70,
+    29
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     5,
+     5,
+     7
+    ],
+    [
+     0,
+     2,
+     2,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 17,
+     "spent": 15
+    },
+    {
+     "gained": 12,
+     "spent": 11
+    }
+   ],
+   "primary": [
+    {
+     "name": "RAISE THE STANDARD",
+     "vp": 1
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    4,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "FORWARD DEPLOYMENT",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 7.4,
+      "objectives": 6.9,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 9.8,
+      "objectives": 8,
+      "primary": 0,
+      "missions": 1.8,
+      "pivotal": 8
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 2.2,
+      "objectives": 2.2,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 1.4,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 6.2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 4.2,
+      "pivotal": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "alive": false,
+      "vp": 9,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 6
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 4,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "support": 5.58,
+      "offensive": 0,
+      "defensive": 4.58,
+      "heal": 1,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "support": 2.64,
+      "offensive": 2.64,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "support": 1.03,
+      "offensive": 0,
+      "defensive": 1.03,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Winter Witch",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 25.78,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 2.08,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.32,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hail of Heaven",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 6,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.25,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.32,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 5,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "YASAKANI NO MAGATAMA",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.71,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.25,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.03,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Kitsunetsukijutsu",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Nail the Eyes",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1234,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    33,
+    29
+   ],
+   "vpBySource": [
+    {
+     "objectives": 26,
+     "primary": 0,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 16,
+     "primary": 0,
+     "missions": 13,
+     "other": 0
+    }
+   ],
+   "rp": [
+    193,
+    190
+   ],
+   "lostRp": [
+    22,
+    45
+   ],
+   "lostUnits": [
+    1,
+    3
+   ],
+   "fieldedRp": [
+    223,
+    205
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    82,
+    52
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     4,
+     2,
+     5,
+     5,
+     5,
+     5
+    ],
+    [
+     0,
+     3,
+     5,
+     2,
+     2,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 22,
+     "spent": 21
+    },
+    {
+     "gained": 20,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "DECAPITATION STRIKE",
+     "vp": 0
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    3,
+    6
+   ],
+   "missions": [
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 7
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 6,
+      "ended": 7
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     }
+    ],
+    [
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 6
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 1.9,
+      "objectives": 1.8,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 3.3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 3.4,
+      "objectives": 3.3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 3
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 1.9,
+      "objectives": 1.8,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.9,
+      "objectives": 1.8,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 12.1,
+      "objectives": 12,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 12
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "alive": true,
+      "vp": 3.7,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 4
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 8.8,
+      "objectives": 6,
+      "primary": 0,
+      "missions": 2.8,
+      "pivotal": 6
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "alive": true,
+      "vp": 5.7,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 2.7,
+      "pivotal": 4
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "alive": true,
+      "vp": 9.3,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 5.3,
+      "pivotal": 4
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 3,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 7,
+      "idle": 7,
+      "idleMoved": 7,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 3,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "support": 1.32,
+      "offensive": 1.32,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "support": 0.28,
+      "offensive": 0,
+      "defensive": 0.28,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 8,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "moves": 7,
+      "undone": 3,
+      "back": 0,
+      "objective": 3,
+      "squares": 7
+     },
+     {
+      "type": "Rynda Guard",
+      "moves": 8,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Winter Witch",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 18.88,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1.16,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 10,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.16,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.28,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hail of Heaven",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Perun's Arrow",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Katashiro",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 4,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1235,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    38,
+    3
+   ],
+   "vpBySource": [
+    {
+     "objectives": 24,
+     "primary": 3,
+     "missions": 11,
+     "other": 0
+    },
+    {
+     "objectives": 0,
+     "primary": 3,
+     "missions": 0,
+     "other": 0
+    }
+   ],
+   "rp": [
+    193,
+    190
+   ],
+   "lostRp": [
+    0,
+    85
+   ],
+   "lostUnits": [
+    0,
+    4
+   ],
+   "fieldedRp": [
+    223,
+    205
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    79,
+    37
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     5,
+     7,
+     7
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 16,
+     "spent": 16
+    },
+    {
+     "gained": 12,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 3
+    },
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    4,
+    0
+   ],
+   "missions": [
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0.2,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 7.3,
+      "objectives": 5.5,
+      "primary": 0.8,
+      "missions": 1,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 10.4,
+      "objectives": 7,
+      "primary": 0.8,
+      "missions": 2.6,
+      "pivotal": 6
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0.2,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 4
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 1,
+      "primary": 0.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4.5,
+      "primary": 0.8,
+      "missions": 0.7,
+      "pivotal": 3
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 2.3,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 0,
+      "primary": 1.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 0,
+      "primary": 1.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 2
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Taichou",
+      "rp": 26,
+      "support": 0.5,
+      "offensive": 0,
+      "defensive": 0.5,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "rp": 40,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "rp": 55,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "rp": 25,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Winter Witch",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Veche Levy",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Taichou",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Oni Samurai",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Armored Gashadokuro",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Kitsune Shinobi",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "War Onmyoji",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Ashigaru Riflemen",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Rurik the Deathless",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Firelance Druzhina",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Rynda Guard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Winter Witch",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Veche Levy",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 13.7,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Muster in the Snow",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hail of Heaven",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 6,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Toll for the Fallen",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Perun's Arrow",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": -3.96,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "KUSANAGI NO TSURUGI",
+     "kind": "spend",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 18,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Master Swordsman",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.5
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

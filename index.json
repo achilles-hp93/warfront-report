@@ -743,6 +743,50 @@
   "note": "Genghis vs the Flamebringer's Immortals: 6-battle batch and the featured battle (seed 1124); found the second-Vial waste."
  },
  {
+  "name": "genghis-vs-penitent",
+  "armies": [
+   "Genghis's Army",
+   "Penitent Crusade"
+  ],
+  "maps": [
+   "TRIPLE HILLS",
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-25T06:51:39.228Z",
+   "2026-10-25T08:17:51.559Z"
+  ],
+  "engine": "54e7aaa0 Unit list: keep icons out of the row markup (the page ran out of memory)",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    2,
+    4
+   ],
+   "armies": [
+    "Genghis's Army",
+    "Penitent Crusade"
+   ]
+  },
+  "page": {
+   "title": "Triple Hills: Cain against Genghis",
+   "url": "https://claude.ai/artifact/PaCudTD4cEERQGRGC2aYvR"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Genghis's Army vs the Penitent Crusade: 6-battle batch and the featured battle (seed 1242); Crusade 4 to 2. Seeds 1240 and 1242 first crashed the page in Round 7 (V8 out of memory: the unit list's row cache) and were played again after the fix."
+ },
+ {
   "name": "herald-vs-crusade",
   "armies": [
    "Crusade Host",
@@ -1079,6 +1123,50 @@
   "note": "Same seeds, third pass."
  },
  {
+  "name": "legion-vs-merlin",
+  "armies": [
+   "Legatus's Legion",
+   "Merlin's Army"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-25T06:28:23.537Z",
+   "2026-10-25T06:55:53.438Z"
+  ],
+  "engine": "698c6fae AI speed: ask whether a charged target Falls Back only where it matters",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    3,
+    3
+   ],
+   "armies": [
+    "Legatus's Legion",
+    "Merlin's Army"
+   ]
+  },
+  "page": {
+   "title": "Acropolis: the Legatus against Merlin",
+   "url": "https://claude.ai/artifact/Fjkp6A629B7y4RWxUN47aG"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Legatus's Legion vs Merlin's Army: 6-battle batch and the featured battle (seed 1200); split 3 to 3. Played after the charge strike-order change and with the tankier preset pairings."
+ },
+ {
   "name": "perf-cohort-vs-crusade",
   "armies": [
    "Armoured Cohort",
@@ -1348,6 +1436,50 @@
   "note": "Seed 802 replayed with the AI timing recorder: same result as its batch battle."
  },
  {
+  "name": "procession-vs-heron",
+  "armies": [
+   "Heron's Army",
+   "Pontifex's Procession"
+  ],
+  "maps": [
+   "CROSSROADS",
+   "ACROPOLIS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-25T06:28:27.606Z",
+   "2026-10-25T06:59:36.294Z"
+  ],
+  "engine": "698c6fae AI speed: ask whether a charged target Falls Back only where it matters",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    4,
+    2
+   ],
+   "armies": [
+    "Pontifex's Procession",
+    "Heron's Army"
+   ]
+  },
+  "page": {
+   "title": "Crossroads: Heron against the Pontifex",
+   "url": "https://claude.ai/artifact/UcRpWMYZp8DvZ76o5YAXTi"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Pontifex's Procession vs Heron's Army: 6-battle batch and the featured battle (seed 1215); Procession 4 to 2. Found the Cultist Machinegun Squad without a legal attack and the Morphean Engine missing from the activity record."
+ },
+ {
   "name": "ramesses-vs-saladin",
   "armies": [
    "Ramesses's Army",
@@ -1390,6 +1522,50 @@
    "report.json"
   ],
   "note": "Ramesses vs Saladin: 6-battle batch and the featured battle (seed 1112); found the melee-group bug (Ramesses swung in 1 of 12 attacks)."
+ },
+ {
+  "name": "ramesses-vs-valkyrie",
+  "armies": [
+   "Valkyrie's Army",
+   "Ramesses's Army"
+  ],
+  "maps": [
+   "CROSSROADS",
+   "ACROPOLIS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-25T06:39:07.521Z",
+   "2026-10-25T07:06:33.424Z"
+  ],
+  "engine": "698c6fae AI speed: ask whether a charged target Falls Back only where it matters",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    6,
+    0
+   ],
+   "armies": [
+    "Ramesses's Army",
+    "Valkyrie's Army"
+   ]
+  },
+  "page": {
+   "title": "Crossroads: Ramesses against the Valkyrie",
+   "url": "https://claude.ai/artifact/2C2YtVT2CkDCsRw8FM1vhY"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Ramesses's Army vs Valkyrie's Army: 6-battle batch and the featured battle (seed 1221); Ramesses 6 to 0. Found the Gilded Ledger's loot abilities buying nothing."
  },
  {
   "name": "repro-700",
@@ -1841,6 +2017,50 @@
    "games"
   ],
   "note": "Penitent vs Court, same seeds, 0.7 of the survival risk counted: the weight committed."
+ },
+ {
+  "name": "taichou-vs-rurik",
+  "armies": [
+   "Taichou's Army",
+   "Rurik's Army"
+  ],
+  "maps": [
+   "ACROPOLIS",
+   "CROSSROADS",
+   "TRIPLE HILLS",
+   "TWIN LAKES"
+  ],
+  "battles": 7,
+  "recorded": [
+   "2026-10-25T06:39:07.206Z",
+   "2026-10-25T07:02:25.268Z"
+  ],
+  "engine": "698c6fae AI speed: ask whether a charged target Falls Back only where it matters",
+  "timed": true,
+  "lean": false,
+  "results": {
+   "battles": 6,
+   "wins": [
+    5,
+    1
+   ],
+   "armies": [
+    "Taichou's Army",
+    "Rurik's Army"
+   ]
+  },
+  "page": {
+   "title": "Acropolis: the Taichou against Rurik",
+   "url": "https://claude.ai/artifact/WVWcUBZf2gnXK1EBfKMzcf"
+  },
+  "files": [
+   "batch.json",
+   "battle_report.html",
+   "commentary.json",
+   "games",
+   "report.json"
+  ],
+  "note": "Taichou's Army vs Rurik's Army: 6-battle batch and the featured battle (seed 1234); Nihon 5 to 1, the Kusanagi about a third of its damage."
  },
  {
   "name": "trial",

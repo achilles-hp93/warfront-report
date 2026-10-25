@@ -1,0 +1,8708 @@
+{
+ "armies": [
+  {
+   "name": "Ramesses's Army",
+   "faction": "duat_dominion",
+   "formation": "preset:ramesses_army"
+  },
+  {
+   "name": "Valkyrie's Army",
+   "faction": "runeforge_directorate",
+   "formation": "preset:valkyrie_army"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1220,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    34,
+    4
+   ],
+   "vpBySource": [
+    {
+     "objectives": 22,
+     "primary": 6,
+     "missions": 6,
+     "other": 0
+    },
+    {
+     "objectives": 4,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    0,
+    95
+   ],
+   "lostUnits": [
+    0,
+    3
+   ],
+   "fieldedRp": [
+    214,
+    243
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    49,
+    33
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     5,
+     5,
+     7
+    ],
+    [
+     0,
+     0,
+     2,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 17,
+     "spent": 16
+    },
+    {
+     "gained": 13,
+     "spent": 13
+    }
+   ],
+   "primary": [
+    {
+     "name": "WIDE SWEEP",
+     "vp": 6
+    },
+    {
+     "name": "DECAPITATION STRIKE",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    0
+   ],
+   "missions": [
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "alive": true,
+      "vp": 8.1,
+      "objectives": 6,
+      "primary": 2.1,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "alive": true,
+      "vp": 5.7,
+      "objectives": 5,
+      "primary": 0.4,
+      "missions": 0.3,
+      "pivotal": 5
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0.2,
+      "objectives": 0,
+      "primary": 0.2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 2.5,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0.4,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 6.4,
+      "objectives": 3,
+      "primary": 0.1,
+      "missions": 3.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0.4,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "alive": true,
+      "vp": 2.4,
+      "objectives": 2,
+      "primary": 0.4,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 3.1,
+      "objectives": 1,
+      "primary": 2.1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 2.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 2.11,
+      "offensive": 0,
+      "defensive": 2.11,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0.32,
+      "offensive": 0,
+      "defensive": 0.32,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "support": 0.9,
+      "offensive": 0,
+      "defensive": 0.9,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Akhguard",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Canopic Priest",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Runesmith",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 4.42,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Aura of Dread",
+      "attacks": 3,
+      "added": 0,
+      "prevented": 2.43
+     },
+     {
+      "army": 1,
+      "name": "Master Artificer",
+      "attacks": 3,
+      "added": 0,
+      "prevented": 0.9
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1221,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    21
+   ],
+   "vpBySource": [
+    {
+     "objectives": 13,
+     "primary": 10,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 14,
+     "primary": 0,
+     "missions": 7,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    221
+   ],
+   "lostRp": [
+    50,
+    74
+   ],
+   "lostUnits": [
+    3,
+    3
+   ],
+   "fieldedRp": [
+    242,
+    243
+   ],
+   "arrivedUnits": [
+    5,
+    1
+   ],
+   "damage": [
+    37,
+    58
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     3,
+     0,
+     5,
+     5
+    ],
+    [
+     0,
+     3,
+     2,
+     5,
+     2,
+     2
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 19,
+     "spent": 14
+    },
+    {
+     "gained": 19,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "LEAD FROM THE FRONT",
+     "vp": 10
+    },
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    3,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 0,
+      "primary": 4.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "alive": true,
+      "vp": 16.7,
+      "objectives": 7.5,
+      "primary": 2.7,
+      "missions": 6.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "alive": true,
+      "vp": 2.7,
+      "objectives": 0,
+      "primary": 2.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 4.5,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 4
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 7,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 3,
+      "pivotal": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 6,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 4
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 6,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 5,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "support": 0.85,
+      "offensive": 0,
+      "defensive": 0.85,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 1.3,
+      "offensive": 0,
+      "defensive": 1.3,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "support": 0.33,
+      "offensive": 0,
+      "defensive": 0.33,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Akhguard",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 6,
+      "undone": 3,
+      "back": 1,
+      "objective": 2,
+      "squares": 3
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 7,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 8,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 7,
+      "undone": 2,
+      "back": 1,
+      "objective": 2,
+      "squares": 4
+     },
+     {
+      "type": "Runesmith",
+      "moves": 6,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 4
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Voice of the Duat",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Liquidate Assets",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Grave Return",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Voice of the Duat",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Grave Return",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Voice of the Duat",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Master Artificer",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.33
+     },
+     {
+      "army": 0,
+      "name": "Aura of Dread",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 1.3
+     },
+     {
+      "army": 0,
+      "name": "Guardians of the Duat",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 0.85
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1222,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    35,
+    18
+   ],
+   "vpBySource": [
+    {
+     "objectives": 20,
+     "primary": 6,
+     "missions": 9,
+     "other": 0
+    },
+    {
+     "objectives": 9,
+     "primary": 0,
+     "missions": 9,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    221
+   ],
+   "lostRp": [
+    113,
+    59
+   ],
+   "lostUnits": [
+    5,
+    3
+   ],
+   "fieldedRp": [
+    288,
+    265
+   ],
+   "arrivedUnits": [
+    8,
+    2
+   ],
+   "damage": [
+    39,
+    87
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     5,
+     3,
+     5,
+     7
+    ],
+    [
+     0,
+     3,
+     2,
+     2,
+     2,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 20,
+     "spent": 19
+    },
+    {
+     "gained": 21,
+     "spent": 20
+    }
+   ],
+   "primary": [
+    {
+     "name": "GARRISON DUTY",
+     "vp": 6
+    },
+    {
+     "name": "WIDE SWEEP",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    4,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 4
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "alive": false,
+      "vp": 5.6,
+      "objectives": 2.3,
+      "primary": 1,
+      "missions": 2.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 4,
+      "primary": 0.8,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 6.7,
+      "objectives": 3.8,
+      "primary": 1.7,
+      "missions": 1.2,
+      "pivotal": 6
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 4,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 2
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "alive": true,
+      "vp": 2.7,
+      "objectives": 0.8,
+      "primary": 1.7,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 2.7,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 3.8,
+      "primary": 0.8,
+      "missions": 1.3,
+      "pivotal": 6
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.9,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 3.3,
+      "objectives": 2.3,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 4.7,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 3.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 4.2,
+      "objectives": 2.3,
+      "primary": 0,
+      "missions": 1.9,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": false,
+      "vp": 3,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.9,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 1
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 6,
+      "idle": 6,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 5,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 3,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 5,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "support": 0.75,
+      "offensive": 0,
+      "defensive": 0.75,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Akhguard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Sacred Arms of Osiris",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Voice of the Duat",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.75,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1223,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 4,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    32,
+    0
+   ],
+   "vpBySource": [
+    {
+     "objectives": 19,
+     "primary": 5,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 0,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    221
+   ],
+   "lostRp": [
+    0,
+    146
+   ],
+   "lostUnits": [
+    0,
+    5
+   ],
+   "fieldedRp": [
+    214,
+    243
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    49,
+    7
+   ],
+   "objectivesByRound": [
+    [
+     2,
+     5,
+     5,
+     7
+    ],
+    [
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 13,
+     "spent": 12
+    },
+    {
+     "gained": 12,
+     "spent": 12
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 5
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    4,
+    4
+   ],
+   "missionsCompleted": [
+    3,
+    0
+   ],
+   "missions": [
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 1,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 3,
+      "primary": 1,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "alive": true,
+      "vp": 8.6,
+      "objectives": 3,
+      "primary": 3,
+      "missions": 2.6,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 1.5,
+      "primary": 1,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "alive": true,
+      "vp": 6.2,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 2
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 5.6,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 2.6,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "support": 1.03,
+      "offensive": 0,
+      "defensive": 1.03,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0.32,
+      "offensive": 0,
+      "defensive": 0.32,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "support": 2.77,
+      "offensive": 0,
+      "defensive": 2.77,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Akhguard",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 4,
+     "enabledExpected": 7.82,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 3,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 2,
+     "enabledExpected": 6.88,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Master Artificer",
+      "attacks": 12,
+      "added": 0,
+      "prevented": 2.77
+     },
+     {
+      "army": 0,
+      "name": "Guardians of the Duat",
+      "attacks": 2,
+      "added": 0,
+      "prevented": 1.03
+     },
+     {
+      "army": 0,
+      "name": "Aura of Dread",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.32
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1224,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    35,
+    14
+   ],
+   "vpBySource": [
+    {
+     "objectives": 24,
+     "primary": 2,
+     "missions": 9,
+     "other": 0
+    },
+    {
+     "objectives": 2,
+     "primary": 10,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    0,
+    74
+   ],
+   "lostUnits": [
+    0,
+    3
+   ],
+   "fieldedRp": [
+    224,
+    243
+   ],
+   "arrivedUnits": [
+    3,
+    2
+   ],
+   "damage": [
+    39,
+    11
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     5,
+     7,
+     7
+    ],
+    [
+     0,
+     0,
+     2,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 16,
+     "spent": 14
+    },
+    {
+     "gained": 16,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 2
+    },
+    {
+     "name": "IMPENETRABLE FORTRESS",
+     "vp": 10
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    4,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "alive": true,
+      "vp": 6.8,
+      "objectives": 4.7,
+      "primary": 0,
+      "missions": 2.2,
+      "pivotal": 4
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 0.7,
+      "primary": 2,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 2.1,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 4.1,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 2
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 11.1,
+      "objectives": 9,
+      "primary": 0,
+      "missions": 2.1,
+      "pivotal": 12
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 3.1,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 0.1,
+      "pivotal": 6
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 0,
+      "primary": 1.8,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": false,
+      "vp": 1.4,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 0,
+      "primary": 1.8,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 3.8,
+      "objectives": 2,
+      "primary": 1.3,
+      "missions": 0.5,
+      "pivotal": 2
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0.9,
+      "objectives": 0,
+      "primary": 0.9,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 2.3,
+      "objectives": 0,
+      "primary": 1.8,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 0,
+      "primary": 1.3,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 0.5,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0.65,
+      "offensive": 0,
+      "defensive": 0.65,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "support": 2.89,
+      "offensive": 0,
+      "defensive": 2.89,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Akhguard",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 5,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 4
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Voice of the Duat",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Voice of the Duat",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 4,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Aura of Dread",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 0.65
+     },
+     {
+      "army": 1,
+      "name": "Master Artificer",
+      "attacks": 9,
+      "added": 0,
+      "prevented": 2.89
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1225,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    31,
+    2
+   ],
+   "vpBySource": [
+    {
+     "objectives": 20,
+     "primary": 4,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 2,
+     "primary": 0,
+     "missions": 0,
+     "other": 0
+    }
+   ],
+   "rp": [
+    198,
+    199
+   ],
+   "lostRp": [
+    8,
+    52
+   ],
+   "lostUnits": [
+    1,
+    2
+   ],
+   "fieldedRp": [
+    222,
+    243
+   ],
+   "arrivedUnits": [
+    3,
+    2
+   ],
+   "damage": [
+    37,
+    49
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     5,
+     5,
+     7
+    ],
+    [
+     0,
+     0,
+     2,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 16,
+     "spent": 12
+    },
+    {
+     "gained": 15,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 4
+    },
+    {
+     "name": "DEBT OF BLOOD",
+     "vp": 0
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    3,
+    0
+   ],
+   "missions": [
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 1
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "ASSASSINATION",
+      "outcome": "active",
+      "kept": 2,
+      "ended": null
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "alive": true,
+      "vp": 12,
+      "objectives": 7,
+      "primary": 2,
+      "missions": 3,
+      "pivotal": 9
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "alive": true,
+      "vp": 6,
+      "objectives": 3,
+      "primary": 2,
+      "missions": 1,
+      "pivotal": 6
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.7,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 4,
+      "objectives": 3,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 6
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Akhguard",
+      "rp": 35,
+      "support": 1.5,
+      "offensive": 0,
+      "defensive": 1.5,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 1.3,
+      "offensive": 0,
+      "defensive": 1.3,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "rp": 8,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "rp": 50,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "rp": 30,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Hersir",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0.28,
+      "offensive": 0,
+      "defensive": 0.28,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "rp": 38,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Runesmith",
+      "rp": 15,
+      "support": 1.28,
+      "offensive": 0,
+      "defensive": 1.28,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "rp": 22,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Ramesses, the Eternal Pharaoh",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Akhguard",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Archer",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Canopic Priest",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tomb Fusiliers",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Skeletal Spearman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Valkyrie",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Shieldmaidens",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Hersir",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Odin's Einherjar",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Runesmith",
+      "moves": 5,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 3
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Corporaider Squad",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.28,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Hostile Takeover",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Mark of Acquisition",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Liquidate Assets",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Endless Procession",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 3,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Chooser of the Slain",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 1,
+      "name": "Master Artificer",
+      "attacks": 3,
+      "added": 0,
+      "prevented": 1.28
+     },
+     {
+      "army": 0,
+      "name": "Guardians of the Duat",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 1.5
+     },
+     {
+      "army": 0,
+      "name": "Aura of Dread",
+      "attacks": 1,
+      "added": 0,
+      "prevented": 1.3
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

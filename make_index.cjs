@@ -18,6 +18,11 @@ const PAGES = {
   'finvarra-vs-rurik': ['Acropolis: Finvarra against Rurik', 'VswQRsNzLNZ3YKGkQKFvcM'],
   'genghis-vs-immortals': ['Acropolis: Genghis against the Immortals', 'YRibV9rJKbJ9jF1s8HrazU'],
   'herald-vs-crusade': ['Twin Lakes: the Crusade against the Herald', 'LQCdd9b8RmyRo4Wdsjm2tT'],
+  'legion-vs-merlin': ['Acropolis: the Legatus against Merlin', 'Fjkp6A629B7y4RWxUN47aG'],
+  'procession-vs-heron': ['Crossroads: Heron against the Pontifex', 'UcRpWMYZp8DvZ76o5YAXTi'],
+  'taichou-vs-rurik': ['Acropolis: the Taichou against Rurik', 'WVWcUBZf2gnXK1EBfKMzcf'],
+  'ramesses-vs-valkyrie': ['Crossroads: Ramesses against the Valkyrie', '2C2YtVT2CkDCsRw8FM1vhY'],
+  'genghis-vs-penitent': ['Triple Hills: Cain against Genghis', 'PaCudTD4cEERQGRGC2aYvR'],
   'host-vs-court-fix': ['WARFRONT AI Performance', 'NUodFsFrhCaAN4Rx3w38ku'], 'cohort-vs-procession-fix': ['WARFRONT AI Performance', 'NUodFsFrhCaAN4Rx3w38ku'],
 };
 const NOTES = {
@@ -48,6 +53,11 @@ const NOTES = {
   'finvarra-vs-rurik': 'Finvarra vs Rurik: 6-battle batch and the featured battle (seed 1134).',
   'genghis-vs-immortals': 'Genghis vs the Flamebringer\'s Immortals: 6-battle batch and the featured battle (seed 1124); found the second-Vial waste.',
   'herald-vs-crusade': 'Herald vs the Crusade Host: 6-battle batch and the featured battle (seed 1143); split 3 to 3.',
+  'legion-vs-merlin': 'Legatus\'s Legion vs Merlin\'s Army: 6-battle batch and the featured battle (seed 1200); split 3 to 3. Played after the charge strike-order change and with the tankier preset pairings.',
+  'procession-vs-heron': 'Pontifex\'s Procession vs Heron\'s Army: 6-battle batch and the featured battle (seed 1215); Procession 4 to 2. Found the Cultist Machinegun Squad without a legal attack and the Morphean Engine missing from the activity record.',
+  'taichou-vs-rurik': 'Taichou\'s Army vs Rurik\'s Army: 6-battle batch and the featured battle (seed 1234); Nihon 5 to 1, the Kusanagi about a third of its damage.',
+  'ramesses-vs-valkyrie': 'Ramesses\'s Army vs Valkyrie\'s Army: 6-battle batch and the featured battle (seed 1221); Ramesses 6 to 0. Found the Gilded Ledger\'s loot abilities buying nothing.',
+  'genghis-vs-penitent': 'Genghis\'s Army vs the Penitent Crusade: 6-battle batch and the featured battle (seed 1242); Crusade 4 to 2. Seeds 1240 and 1242 first crashed the page in Round 7 (V8 out of memory: the unit list\'s row cache) and were played again after the fix.',
   'survival-hvc-before': 'Host vs Court, seeds 960-965, before survival-weighted objectives (the baseline).',
   'survival-hvc-fullsum': 'Same seeds with the first cut of survival-weighted objectives: every enemy counted in full on every unit (replaced).',
   'survival-hvc-shared': 'Same seeds with survival-weighted objectives, the whole risk counted: each enemy\'s attack shared among the units it can reach (tuned to 0.7 of the risk).',

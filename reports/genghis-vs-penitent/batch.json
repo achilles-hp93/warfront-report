@@ -1,0 +1,9534 @@
+{
+ "armies": [
+  {
+   "name": "Genghis's Army",
+   "faction": "golden_khaganate",
+   "formation": "preset:genghis_army"
+  },
+  {
+   "name": "Penitent Crusade",
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:penitent_crusade"
+  }
+ ],
+ "maps": [
+  "ACROPOLIS",
+  "CROSSROADS",
+  "TRIPLE HILLS",
+  "TWIN LAKES"
+ ],
+ "games": [
+  {
+   "seed": 1240,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    10,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 8,
+     "primary": 0,
+     "missions": 2,
+     "other": 0
+    },
+    {
+     "objectives": 21,
+     "primary": 3,
+     "missions": 6,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    176
+   ],
+   "lostRp": [
+    38,
+    35
+   ],
+   "lostUnits": [
+    3,
+    3
+   ],
+   "fieldedRp": [
+    221,
+    206
+   ],
+   "arrivedUnits": [
+    3,
+    3
+   ],
+   "damage": [
+    90,
+    92
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     2,
+     0,
+     2,
+     2,
+     2,
+     0
+    ],
+    [
+     0,
+     2,
+     2,
+     2,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 22,
+     "spent": 21
+    },
+    {
+     "gained": 23,
+     "spent": 23
+    }
+   ],
+   "primary": [
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 0
+    },
+    {
+     "name": "GARRISON DUTY",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    1,
+    3
+   ],
+   "missions": [
+    [
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 4
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "DEEP REACH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "OBJECTIVE RELAY",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 7
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 1.8,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 2.2,
+      "objectives": 1,
+      "primary": 1,
+      "missions": 0.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 12.3,
+      "objectives": 9.3,
+      "primary": 1,
+      "missions": 2,
+      "pivotal": 8
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 1.3,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 7.5,
+      "objectives": 7,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 3,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 4.75,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 3.25,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 3,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "support": 0.37,
+      "offensive": 0,
+      "defensive": 0.37,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 1.5,
+      "offensive": 0,
+      "defensive": 1.5,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.02,
+      "offensive": 0.02,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.09,
+      "offensive": 0.09,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "support": 22.27,
+      "offensive": 22.27,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 8,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 6
+     },
+     {
+      "type": "Stormrider",
+      "moves": 8,
+      "undone": 3,
+      "back": 1,
+      "objective": 3,
+      "squares": 5
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 7,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 1,
+     "enabledExpected": 1.67,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.37,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0.75,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.5,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Cleansing Rain",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 20.27,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 1.25,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 2,
+      "added": 0.11,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1241,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    14,
+    35
+   ],
+   "vpBySource": [
+    {
+     "objectives": 9,
+     "primary": 0,
+     "missions": 5,
+     "other": 0
+    },
+    {
+     "objectives": 24,
+     "primary": 3,
+     "missions": 8,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    186
+   ],
+   "lostRp": [
+    63,
+    25
+   ],
+   "lostUnits": [
+    3,
+    2
+   ],
+   "fieldedRp": [
+    221,
+    186
+   ],
+   "arrivedUnits": [
+    3,
+    0
+   ],
+   "damage": [
+    79,
+    78
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     0,
+     2,
+     2,
+     2
+    ],
+    [
+     0,
+     2,
+     7,
+     5,
+     5,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 19,
+     "spent": 18
+    },
+    {
+     "gained": 20,
+     "spent": 20
+    }
+   ],
+   "primary": [
+    {
+     "name": "COORDINATED SUPPRESSION",
+     "vp": 0
+    },
+    {
+     "name": "GARRISON DUTY",
+     "vp": 3
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "BAR THE GATES",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "ASSASSINATION",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "STRONGPOINT",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "VIGILANT WATCH",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": false,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 2.5,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 1.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 5.5,
+      "objectives": 3.8,
+      "primary": 1,
+      "missions": 0.7,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 4.3,
+      "objectives": 3.8,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 3
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 1.3,
+      "objectives": 0.8,
+      "primary": 0,
+      "missions": 0.5,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 3.7,
+      "objectives": 2.6,
+      "primary": 0,
+      "missions": 1.2,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 2,
+      "objectives": 1.1,
+      "primary": 0,
+      "missions": 0.9,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 5.2,
+      "objectives": 4,
+      "primary": 1,
+      "missions": 0.2,
+      "pivotal": 4
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 7.2,
+      "objectives": 6,
+      "primary": 1,
+      "missions": 0.2,
+      "pivotal": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 6,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 4,
+      "pivotal": 2
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 4,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 2,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "support": 0.37,
+      "offensive": 0.37,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 1.67,
+      "offensive": 0,
+      "defensive": 1.67,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.04,
+      "offensive": 0.04,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "support": 0.93,
+      "offensive": 0.93,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.42,
+      "offensive": 0.42,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.05,
+      "offensive": 0.05,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "support": 0.48,
+      "offensive": 0.48,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "support": 1,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 1,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 8,
+      "undone": 2,
+      "back": 1,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Stormrider",
+      "moves": 10,
+      "undone": 2,
+      "back": 0,
+      "objective": 2,
+      "squares": 3
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 5,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.67,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Cleansing Rain",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0.48,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": -0.15,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.93,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Introit",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Battlefield Baptism",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 3,
+      "added": 0.51,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Spears of the Great Khan",
+      "attacks": 1,
+      "added": 0.37,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1242,
+   "map": "TRIPLE HILLS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 7,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    28,
+    33
+   ],
+   "vpBySource": [
+    {
+     "objectives": 19,
+     "primary": 2,
+     "missions": 7,
+     "other": 0
+    },
+    {
+     "objectives": 17,
+     "primary": 6,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    186
+   ],
+   "lostRp": [
+    125,
+    35
+   ],
+   "lostUnits": [
+    4,
+    3
+   ],
+   "fieldedRp": [
+    211,
+    206
+   ],
+   "arrivedUnits": [
+    2,
+    2
+   ],
+   "damage": [
+    98,
+    95
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     7,
+     3,
+     7,
+     2,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     5,
+     7,
+     5
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 22,
+     "spent": 22
+    },
+    {
+     "gained": 23,
+     "spent": 21
+    }
+   ],
+   "primary": [
+    {
+     "name": "WIDE SWEEP",
+     "vp": 2
+    },
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 6
+    }
+   ],
+   "missionsKept": [
+    7,
+    7
+   ],
+   "missionsCompleted": [
+    3,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "LAST STAND",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 7
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 7,
+      "ended": 7
+     }
+    ],
+    [
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "BREAK CONTACT",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 7
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "active",
+      "kept": 7,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": false,
+      "vp": 3.1,
+      "objectives": 2,
+      "primary": 0.7,
+      "missions": 0.4,
+      "pivotal": 2
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": false,
+      "vp": 0.4,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 4.6,
+      "objectives": 1.3,
+      "primary": 0,
+      "missions": 3.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 5.2,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 0.7,
+      "pivotal": 8
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": true,
+      "vp": 6.7,
+      "objectives": 6,
+      "primary": 0.7,
+      "missions": 0,
+      "pivotal": 6
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0.3,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.3,
+      "primary": 0,
+      "missions": 0.4,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 7.2,
+      "objectives": 4.8,
+      "primary": 0.7,
+      "missions": 1.7,
+      "pivotal": 6
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 2.5,
+      "primary": 2,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 10.3,
+      "objectives": 2.5,
+      "primary": 3.5,
+      "missions": 4.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 5,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 2.8,
+      "objectives": 4,
+      "primary": -1.5,
+      "missions": 0.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 2,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 2,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 5,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 6
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 5,
+      "idle": 5,
+      "idleMoved": 5,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 3.5,
+      "idle": 4,
+      "idleMoved": 3,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 6
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 3,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "support": 0.09,
+      "offensive": 0.09,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "support": 0.56,
+      "offensive": 0.56,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.73,
+      "offensive": 0.73,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "support": 5.1,
+      "offensive": 4.68,
+      "defensive": 0.42,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "support": 5.2,
+      "offensive": 5.2,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 1,
+      "offensive": 0,
+      "defensive": 1,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 8,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Stormrider",
+      "moves": 9,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 9,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 1
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 2,
+      "back": 2,
+      "objective": 2,
+      "squares": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.28,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 2.98,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0.42,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.28,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 1.56,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Introit",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 2,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Countercharge",
+     "kind": "reaction",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Introit",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 1.56,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 4,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 2.22,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 1.56,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 1,
+      "added": 0.73,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Spears of the Great Khan",
+      "attacks": 1,
+      "added": 0.09,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1243,
+   "map": "TWIN LAKES",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 1,
+   "vp": [
+    8,
+    30
+   ],
+   "vpBySource": [
+    {
+     "objectives": 3,
+     "primary": 1,
+     "missions": 4,
+     "other": 0
+    },
+    {
+     "objectives": 13,
+     "primary": 7,
+     "missions": 10,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    186
+   ],
+   "lostRp": [
+    48,
+    15
+   ],
+   "lostUnits": [
+    3,
+    1
+   ],
+   "fieldedRp": [
+    221,
+    196
+   ],
+   "arrivedUnits": [
+    3,
+    1
+   ],
+   "damage": [
+    51,
+    90
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     0,
+     3,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     3,
+     0,
+     5,
+     5,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 20,
+     "spent": 20
+    },
+    {
+     "gained": 19,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "GARRISON DUTY",
+     "vp": 1
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 7
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    2,
+    4
+   ],
+   "missions": [
+    [
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 2
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 3
+     },
+     {
+      "name": "KING OF THE HILL",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 6
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 0.8,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": true,
+      "vp": 1.1,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": false,
+      "vp": 1.1,
+      "objectives": 0.5,
+      "primary": 0,
+      "missions": 0.6,
+      "pivotal": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.3,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 2.8,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 7.8,
+      "objectives": 2,
+      "primary": 1.2,
+      "missions": 4.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 4.8,
+      "objectives": 2,
+      "primary": 1.2,
+      "missions": 1.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 1,
+      "primary": 1.2,
+      "missions": 3.7,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 4,
+      "objectives": 4,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 3
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 4,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.5,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 4.25,
+      "idle": 5,
+      "idleMoved": 4,
+      "overwatch": 3,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "support": 2.04,
+      "offensive": 2.04,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 2.84,
+      "offensive": 0,
+      "defensive": 2.84,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.65,
+      "offensive": 0.65,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0.08,
+      "offensive": 0.08,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "support": 1.72,
+      "offensive": 1.72,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 7,
+      "undone": 1,
+      "back": 1,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Stormrider",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 3,
+     "enabledExpected": 10.98,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 4,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 4,
+     "enabledExpected": 12.84,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.17,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 1.72,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.67,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Spears of the Great Khan",
+      "attacks": 2,
+      "added": 2.04,
+      "prevented": 0
+     },
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 2,
+      "added": 0.73,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1244,
+   "map": "ACROPOLIS",
+   "mapGiven": true,
+   "swapped": false,
+   "round": 5,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    33,
+    10
+   ],
+   "vpBySource": [
+    {
+     "objectives": 19,
+     "primary": 4,
+     "missions": 10,
+     "other": 0
+    },
+    {
+     "objectives": 0,
+     "primary": 8,
+     "missions": 2,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    176
+   ],
+   "lostRp": [
+    10,
+    41
+   ],
+   "lostUnits": [
+    1,
+    3
+   ],
+   "fieldedRp": [
+    211,
+    186
+   ],
+   "arrivedUnits": [
+    2,
+    1
+   ],
+   "damage": [
+    64,
+    48
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     5,
+     4,
+     5,
+     5
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 17,
+     "spent": 16
+    },
+    {
+     "gained": 15,
+     "spent": 15
+    }
+   ],
+   "primary": [
+    {
+     "name": "BLEED THEM WHITE",
+     "vp": 4
+    },
+    {
+     "name": "BREAK THEIR HOLD",
+     "vp": 8
+    }
+   ],
+   "missionsKept": [
+    5,
+    5
+   ],
+   "missionsCompleted": [
+    4,
+    1
+   ],
+   "missions": [
+    [
+     {
+      "name": "FIRE FOR EFFECT",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "IRON GRIP",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 4
+     },
+     {
+      "name": "TERRITORIAL SUPERIORITY",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     }
+    ],
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "INTO THE FRAY",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 3,
+      "ended": null
+     },
+     {
+      "name": "FOCUSED FIRE",
+      "outcome": "expired",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 3,
+      "primary": 1.5,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": true,
+      "vp": 5.8,
+      "objectives": 4.5,
+      "primary": 0,
+      "missions": 1.3,
+      "pivotal": 3
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 5,
+      "objectives": 2.2,
+      "primary": 1.5,
+      "missions": 1.3,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 6.7,
+      "objectives": 1.7,
+      "primary": 0,
+      "missions": 5,
+      "pivotal": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": true,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 6,
+      "objectives": 5,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 4
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 0.7,
+      "objectives": 0.7,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": -1,
+      "objectives": 0,
+      "primary": -1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 1.2,
+      "objectives": 0,
+      "primary": 1.2,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 3.2,
+      "objectives": 0,
+      "primary": 1.2,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.5,
+      "objectives": 0,
+      "primary": 0.5,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 1,
+      "objectives": 0,
+      "primary": 1,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0.7,
+      "objectives": 0,
+      "primary": 0.7,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 2,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 5,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 1
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 1,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 3,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "support": 1,
+      "offensive": 1,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "support": 2,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 2,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "support": 3,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 3,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 7,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 5,
+      "undone": 1,
+      "back": 1,
+      "objective": 0,
+      "squares": 2
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 5,
+      "undone": 2,
+      "back": 1,
+      "objective": 2,
+      "squares": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Cleansing Rain",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Battlefield Baptism",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 3,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Reprieve",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 2,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Cleansing Rain",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [],
+    "stilled": [],
+    "move": [],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  },
+  {
+   "seed": 1245,
+   "map": "CROSSROADS",
+   "mapGiven": true,
+   "swapped": true,
+   "round": 6,
+   "reason": "VP",
+   "winner": 0,
+   "vp": [
+    37,
+    10
+   ],
+   "vpBySource": [
+    {
+     "objectives": 27,
+     "primary": 2,
+     "missions": 8,
+     "other": 0
+    },
+    {
+     "objectives": 4,
+     "primary": 2,
+     "missions": 4,
+     "other": 0
+    }
+   ],
+   "rp": [
+    191,
+    186
+   ],
+   "lostRp": [
+    10,
+    45
+   ],
+   "lostUnits": [
+    1,
+    4
+   ],
+   "fieldedRp": [
+    221,
+    196
+   ],
+   "arrivedUnits": [
+    3,
+    1
+   ],
+   "damage": [
+    103,
+    73
+   ],
+   "objectivesByRound": [
+    [
+     0,
+     3,
+     5,
+     5,
+     7,
+     7
+    ],
+    [
+     0,
+     2,
+     2,
+     0,
+     0,
+     0
+    ]
+   ],
+   "cp": [
+    {
+     "gained": 20,
+     "spent": 18
+    },
+    {
+     "gained": 18,
+     "spent": 18
+    }
+   ],
+   "primary": [
+    {
+     "name": "DEEP INFILTRATION",
+     "vp": 2
+    },
+    {
+     "name": "ERADICATE THE FOE",
+     "vp": 2
+    }
+   ],
+   "missionsKept": [
+    6,
+    6
+   ],
+   "missionsCompleted": [
+    3,
+    2
+   ],
+   "missions": [
+    [
+     {
+      "name": "OMNIPRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "PROBING STRIKE",
+      "outcome": "expired",
+      "kept": 2,
+      "ended": 3
+     },
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "completed",
+      "kept": 3,
+      "ended": 6
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "completed",
+      "kept": 4,
+      "ended": 5
+     },
+     {
+      "name": "SECURE THE FLANKS",
+      "outcome": "completed",
+      "kept": 5,
+      "ended": 5
+     },
+     {
+      "name": "MAN OF THE HOUR",
+      "outcome": "active",
+      "kept": 6,
+      "ended": null
+     }
+    ],
+    [
+     {
+      "name": "FORWARD PRESENCE",
+      "outcome": "expired",
+      "kept": 1,
+      "ended": 5
+     },
+     {
+      "name": "BAR THE GATES",
+      "outcome": "completed",
+      "kept": 2,
+      "ended": 2
+     },
+     {
+      "name": "IRON CURTAIN",
+      "outcome": "expired",
+      "kept": 3,
+      "ended": 4
+     },
+     {
+      "name": "TAKE UP THE GAUNTLET",
+      "outcome": "active",
+      "kept": 4,
+      "ended": null
+     },
+     {
+      "name": "COORDINATED PUSH",
+      "outcome": "active",
+      "kept": 5,
+      "ended": null
+     },
+     {
+      "name": "COMMAND AUTHORITY",
+      "outcome": "completed",
+      "kept": 6,
+      "ended": 6
+     }
+    ]
+   ],
+   "units": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "alive": true,
+      "vp": 4.6,
+      "objectives": 2.6,
+      "primary": 1,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "alive": true,
+      "vp": 4.6,
+      "objectives": 2.6,
+      "primary": 1,
+      "missions": 1,
+      "pivotal": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 5.6,
+      "objectives": 5.6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 4
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "alive": true,
+      "vp": 9.6,
+      "objectives": 4.6,
+      "primary": 0,
+      "missions": 5,
+      "pivotal": 4
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 7.5,
+      "objectives": 6.5,
+      "primary": 0,
+      "missions": 1,
+      "pivotal": 3
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "alive": true,
+      "vp": 3.6,
+      "objectives": 3.6,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "alive": true,
+      "vp": 1.5,
+      "objectives": 1.5,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "alive": true,
+      "vp": 1,
+      "objectives": 1,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "alive": true,
+      "vp": 5,
+      "objectives": 1,
+      "primary": 2,
+      "missions": 2,
+      "pivotal": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "alive": false,
+      "vp": 2,
+      "objectives": 2,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 2
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": false,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "alive": true,
+      "vp": 0,
+      "objectives": 0,
+      "primary": 0,
+      "missions": 0,
+      "pivotal": 0
+     }
+    ]
+   ],
+   "activity": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "inaction": 3.25,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 3,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 3.75,
+      "idle": 4,
+      "idleMoved": 4,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "inaction": 1.75,
+      "idle": 2,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 4,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 4,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 0,
+      "ranged": 3,
+      "melee": 2,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 4
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 2,
+      "ability": 1,
+      "magic": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "inaction": 3,
+      "idle": 3,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 3,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "inaction": 1,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 5
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 2.75,
+      "idle": 3,
+      "idleMoved": 3,
+      "overwatch": 1,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 1.5,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 2,
+      "movement": 1,
+      "ranged": 1,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0.75,
+      "idle": 1,
+      "idleMoved": 1,
+      "overwatch": 1,
+      "movement": 2,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "inaction": 2,
+      "idle": 2,
+      "idleMoved": 2,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 1,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 1,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "inaction": 0,
+      "idle": 0,
+      "idleMoved": 0,
+      "overwatch": 0,
+      "movement": 0,
+      "ranged": 0,
+      "melee": 0,
+      "ability": 0,
+      "magic": 0
+     }
+    ]
+   ],
+   "support": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "rp": 70,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Stormrider",
+      "rp": 20,
+      "support": 1.67,
+      "offensive": 0,
+      "defensive": 1.67,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "rp": 18,
+      "support": 0.14,
+      "offensive": 0.14,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 2.08,
+      "offensive": 2.08,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Black Shaman",
+      "rp": 18,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "rp": 75,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "rp": 35,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "rp": 21,
+      "support": 4.59,
+      "offensive": 4.59,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 1,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 1.17,
+      "offensive": 0,
+      "defensive": 1.17,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "rp": 15,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "rp": 10,
+      "support": 0,
+      "offensive": 0,
+      "defensive": 0,
+      "heal": 0,
+      "movement": 0,
+      "objective": 0
+     }
+    ]
+   ],
+   "tempo": [
+    [
+     {
+      "type": "Genghis Khan - The Stormborn Conqueror",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Khesig Guards",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 8,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Stormrider",
+      "moves": 9,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Nerge Outriders",
+      "moves": 7,
+      "undone": 2,
+      "back": 2,
+      "objective": 1,
+      "squares": 6
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Black Shaman",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 4,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Tamga-Bound Troops",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ],
+    [
+     {
+      "type": "Cain - The First Penitent",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Knight-Apostle Squad",
+      "moves": 5,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Cantor-Preceptor",
+      "moves": 0,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 6,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 4,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 3,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Jordanite Hospitallers",
+      "moves": 3,
+      "undone": 1,
+      "back": 0,
+      "objective": 1,
+      "squares": 3
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 2,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     },
+     {
+      "type": "Covenant Levies",
+      "moves": 1,
+      "undone": 0,
+      "back": 0,
+      "objective": 0,
+      "squares": 0
+     }
+    ]
+   ],
+   "effects": [
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Providence",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1.67,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Patriarch of the Covenant",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Fortitude",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Exaltation",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 6,
+     "damage": 4.59,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Retribution",
+     "kind": "miracle",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Benediction",
+     "kind": "miracle",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 1,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 2,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Agnus Dei",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 6,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.07,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Rally Cry",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 1
+    },
+    {
+     "army": 1,
+     "name": "Introit",
+     "kind": "spell",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 1,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "paid off",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0.07,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Go to Ground",
+     "kind": "reaction",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0.17,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Double Time",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 2,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 1,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Troop Requisition",
+     "kind": "command",
+     "verdict": "nothing",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Secure Objective",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 3,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 2,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Scouting Order",
+     "kind": "command",
+     "verdict": "paid off",
+     "cp": 1,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 1,
+     "morale": 0
+    },
+    {
+     "army": 1,
+     "name": "Introit",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Spot & Mark",
+     "kind": "ability",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 0,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    },
+    {
+     "army": 0,
+     "name": "Chant of the Kindling",
+     "kind": "spell",
+     "verdict": "nothing",
+     "cp": 0,
+     "mana": 2,
+     "damage": 0,
+     "enabled": 0,
+     "enabledExpected": 0,
+     "moves": 0,
+     "movesNeeded": 0,
+     "vp": 0,
+     "spotted": 0,
+     "morale": 0
+    }
+   ],
+   "passives": {
+    "attacks": [
+     {
+      "army": 0,
+      "name": "Prize of Freedom",
+      "attacks": 2,
+      "added": 2.08,
+      "prevented": 0
+     }
+    ],
+    "stilled": [],
+    "move": [
+     {
+      "army": 1,
+      "source": "Antiphon: Introit",
+      "unitRounds": 1,
+      "change": 2
+     }
+    ],
+    "reach": []
+   },
+   "initiative": 1,
+   "errors": 0
+  }
+ ]
+}

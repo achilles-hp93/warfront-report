@@ -1,0 +1,44 @@
+{
+  "title": "Crossroads: Ramesses against the Valkyrie",
+  "armies": [{ "name": "Valkyrie's Army", "faction": "Runeforge Directorate" }, { "name": "Ramesses's Army", "faction": "Duat Dominion" }],
+  "mode_name": "Seize the Ground",
+  "lede": "The Runeforge Directorate's Valkyrie, Corporaiders and Odin's Einherjar against Ramesses the Eternal Pharaoh and the dead of the Duat Dominion, at the Crossroads. The closest of six: the Directorate led after Rounds 2 and 4, and Ramesses won 31 to 21 in Round 6. Over the six battles Ramesses won all six, on average 33.0 VP to 9.8.",
+  "result_line": "Ramesses's Army wins on Victory Points, 31 to 21",
+  "deployment": "<p>The Directorate set up on row 12 with The Gilded Ledger: the Valkyrie leading the Shieldmaidens at (5,12) (the only squad she may lead), the Hersir leading Odin's Einherjar at (3,12), Corporaider Squads at (4,12) and (10,12) and the Runesmith at (11,12). Ramesses set up on rows 1 and 2 with the Rite of the Unending: Ramesses alone at (4,1), the Canopic Priest leading the Akhguard at (11,2), Skeletal Spearmen at (7,2) and (9,2), Skeletal Archers at (3,2) and (4,2) and the Tomb Fusiliers at (5,2).</p>",
+  "rounds": {
+    "1": { "title": "Both armies close", "feed": [
+      { "phase": "Command", "text": "The Directorate requisitions a third Corporaider Squad at (6,12); Ramesses Double Times Skeletal Archer 1." },
+      { "phase": "Movement", "text": "Everyone Advances: the Corporaiders to (5,9), (7,9) and (8,8); Archer 1 all the way to (5,7), Ramesses to (7,4)." },
+      { "phase": "Cleanup", "text": "<b>0 each.</b>" }
+    ] },
+    "2": { "title": "The Corporaiders charge first", "feed": [
+      { "phase": "Movement", "text": "All three Corporaider Squads charge the skeletons around the centre. Skeletal Archer 1 Falls Back in disorder (2 HP); Archer 2 and the Tomb Fusiliers shoot the charging squad in Overwatch." },
+      { "phase": "Action", "text": "The new Corporaiders take 4 off Archer 1; Archer 2, the Fusiliers and the Canopic Priest's Voice of the Duat put 5 into the Corporaiders. The Hersir's Mark of Acquisition and the Hostile Takeover command change nothing the record can see." },
+      { "phase": "Cleanup", "text": "Corporaider Squad 1 holds the centre (3); TAKE UP THE GAUNTLET (+3) and BAR THE GATES (+2) for the Directorate; LEAD FROM THE FRONT (2) for Ramesses. <b>Valkyrie 8, Ramesses 2.</b>" }
+    ] },
+    "3": { "title": "The Akhguard take the centre", "feed": [
+      { "phase": "Movement", "text": "The Akhguard with the Canopic Priest charge to (6,6), Ramesses to (6,7) and Spearman 2 to (5,6); Corporaider Squad 1 Falls Back in disorder off the centre." },
+      { "phase": "Action", "text": "The requisitioned Corporaiders take 4 HP off Ramesses; Corporaider Squad 2 puts 9 into Skeletal Archer 2. The Valkyrie's Chooser of the Slain on the Akhguard changes nothing." },
+      { "phase": "Cleanup", "text": "Ramesses holds the centre (3) and scores LEAD FROM THE FRONT (3), IRON GRIP (+2) and TAKE UP THE GAUNTLET (+3). The Directorate holds the west (2). <b>Valkyrie 10, Ramesses 13.</b>" }
+    ] },
+    "4": { "title": "The Einherjar push Ramesses off", "feed": [
+      { "phase": "Movement", "text": "Odin's Einherjar and the Hersir charge onto the centre at (7,7). Ramesses and the Akhguard Fall Back in disorder (5 HP between them); Corporaider Squad 2 charges the Tomb Fusiliers on the west objective." },
+      { "phase": "Action", "text": "Corporaider Squad 2 takes 8 off the Fusiliers. The Canopic Priest's <b>Endless Procession</b> raises a Skeletal Spearman squad at (4,8)." },
+      { "phase": "Cleanup", "text": "The Directorate holds the centre and the west (5); Ramesses scores nothing. <b>Valkyrie 15, Ramesses 13.</b>" }
+    ] },
+    "5": { "title": "Three squads destroyed in one round", "feed": [
+      { "phase": "Command", "text": "The Directorate spends 10 loot on Liquidate Assets with no target. Ramesses requisitions a Skeletal Archer squad and heals himself with Grave Return." },
+      { "phase": "Movement", "text": "The Einherjar charge Skeletal Archer 1; the Akhguard charge the requisitioned Corporaiders. Ramesses walks to the west edge at (0,6), and Skeletal Archer 2 dies in a disordered Fall Back." },
+      { "phase": "Action", "text": "The Einherjar destroy Skeletal Archer 1 (8 HP) and Corporaider Squad 2 the Tomb Fusiliers; the Akhguard destroy the requisitioned Corporaiders (8 HP). Ramesses' Voice of the Duat takes 3 off Corporaider Squad 2." },
+      { "phase": "Cleanup", "text": "Ramesses holds the centre and the west (5), LEAD FROM THE FRONT (3) and TERRITORIAL SUPERIORITY (+3). <b>Valkyrie 17, Ramesses 24.</b>" }
+    ] },
+    "6": { "title": "The Shieldmaidens fall", "feed": [
+      { "phase": "Movement", "text": "The Valkyrie and the Shieldmaidens, Double Timed, charge the Akhguard on the centre; the Einherjar charge to (2,7). Corporaider Squad 1 and the Runesmith Fall Back in disorder (6 HP), and three skeleton squads too (6 HP)." },
+      { "phase": "Action", "text": "The Akhguard destroy the Shieldmaidens and wound the Valkyrie. Ramesses' Voice of the Duat takes 3 off the Einherjar, and a Skeletal Archer destroys Corporaider Squad 1." },
+      { "phase": "Cleanup", "text": "Ramesses holds the centre and the west (5) and completes LEAD FROM THE FRONT (2, 10 of 10). The Directorate holds the east (2) and SECURE THE FLANKS (+2). <b>Valkyrie's Army 21, Ramesses's Army 31.</b>" }
+    ] }
+  },
+  "analysis": { "title": "Analysis", "html": "<h3>Six of six for Ramesses</h3><p>Ramesses won all six, on average 33.0 VP to 9.8, and in four of them the Directorate scored 4 VP or fewer. Ramesses held almost four times the ground (19.7 objective VP a battle to 5.2) and scored more from both the Primary (5.5 to 1.7) and the secondaries (7.8 to 3.0). The damage was even, 41.7 a battle to 40.8, but the Directorate lost 83 RP a battle to Ramesses' 29: a Skeletal Spearman squad is 8 RP for 10 HP, and the Canopic Priest raises more.</p>{{batch}}{{chart:batch-vp}}{{chart:batch-sources}}<h3>Who scored</h3><p>The Akhguard scored 7.6 VP a battle and Ramesses 6.1. The cheap skeletons scored for their cost: the Spearmen 25.5 VP per 100 RP and the Archers 19.6. For the Directorate nothing scored much: the Corporaiders 1.3 a squad, the Einherjar 1.4, the Hersir 1.2, the Valkyrie 0.4 and the Shieldmaidens 0.4. The Shieldmaidens, the only squad the Valkyrie may lead, were destroyed in 5 of 6 battles.</p>{{chart:batch-unit-vp}}{{chart:batch-unit-vp-rp}}<h3>What the AI did with the Directorate</h3><ul><li><b>The Gilded Ledger's tools bought nothing.</b> Mark of Acquisition was used 18 times and Chooser of the Slain 9, and the record found nothing either changed. Hostile Takeover was bought 13 times (12 for nothing), and Liquidate Assets twice for nothing, once with no target, spending 10 loot. Either the AI uses the Directorate's loot economy without a plan, or these abilities pay in loot the record does not price; both are worth checking before any cost change.</li><li><b>Odin's Einherjar idled 4.3 rounds a battle</b>, and in the featured battle the Einherjar and the Shieldmaidens each walked away from the west objective and back.</li><li><b>Ramesses' tools paid.</b> Voice of the Duat hit with all 6 casts (15 HP); Endless Procession raised 12 units, though the record calls 8 of them wasted because those units made no attack.</li></ul>{{chart:batch-unit-inaction}}<h3>How sure</h3><p>Six to nothing is decisive. The Duat's cheap, returning infantry wins the ground and the RP trade; the Directorate's expensive units and loot abilities, as the AI plays them, do not answer it.</p>" },
+  "closing_title": "What to look at next",
+  "closing": "<p>How the AI plays the Gilded Ledger's loot (Mark of Acquisition, Hostile Takeover, Liquidate Assets), and whether the record should price loot gained.</p>"
+}
