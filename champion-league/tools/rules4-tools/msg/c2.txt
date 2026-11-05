@@ -1,0 +1,15 @@
+Threshold characteristics: every 1D6 required result is capped at a net +/-1
+
+The user's ruling (2026-10-30): "Threshold characteristic is capped at +-1 modifier if
+they are 1d6. AP does not count as modifer of DEF so it can go as it likes."
+MORALE (a Morale Test's required total, 1D6) was standard_modifier (+/-2); it is
+required_result. The Feel No Pain threshold (save-threshold/FNP) is required_result too,
+though nothing modifies it today (FNP and Invulnerable Saves are best-of grants).
+standard_modifier has no user left and is removed (the catalog checks only that each
+cap_policy named exists). effectiveDEF already caps the DEF modifiers before adding AP.
+
+core-rule.md names the general principle (BS, DEF, WARD, MORALE, Feel No Pain); the
+deep dive and the combat modifier manual say the same. No test pinned MORALE's +/-2.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

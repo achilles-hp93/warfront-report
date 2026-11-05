@@ -1,0 +1,109 @@
+{
+ "attacks": [
+  {
+   "name": "Hunger For Wealth",
+   "ability": "hunger_for_wealth",
+   "player": 1,
+   "army": "Bailiffs of Petra",
+   "owners": [
+    "Master of Coin"
+   ],
+   "attacks": 1,
+   "added": 0.02,
+   "prevented": 0,
+   "total": 0.02
+  }
+ ],
+ "stilled": [],
+ "move": [
+  {
+   "source": "Ichor Injectors",
+   "player": 0,
+   "army": "Legio XIII",
+   "unitRounds": 12,
+   "change": 12
+  },
+  {
+   "source": "Slave To Cupidity",
+   "player": 1,
+   "army": "Bailiffs of Petra",
+   "unitRounds": 44,
+   "change": 44
+  },
+  {
+   "source": "Shield Wall",
+   "player": 0,
+   "army": "Legio XIII",
+   "unitRounds": 2,
+   "change": -2
+  }
+ ],
+ "reach": []
+}
+--- by round
+R1
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 2: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 4 (3 without Slave To Cupidity)
+R2
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 2: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 4 (3 without Slave To Cupidity)
+R3
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  Legionnaire Squad 2: MOVE 2 (3 without Shield Wall)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+R4
+  Hunger For Wealth (Master of Coin): 1 attack, 0.02 expected HP for its side
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  Legionnaire Squad 2: MOVE 4 (5 without Shield Wall)
+  The Chairman of the Chamber: MOVE 3 (2 without Slave To Cupidity)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 3 (2 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+R5
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 3 (2 without Slave To Cupidity)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 3 (2 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+R6
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 3 (2 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+--- heals []

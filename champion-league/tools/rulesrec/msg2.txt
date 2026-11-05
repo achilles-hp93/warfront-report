@@ -1,0 +1,30 @@
+Battle report: a round a unit acted in, or had no APt left to spend, is not idle
+
+The activity record counted a round idle when the engine's held-fire test
+passed (unitHeldFireInRound: there with APt from the round's start, none
+spent), which only means the unit spent no APt. So a round in which it fired a
+FREE weapon (D1-M01 R2 Spahbed's Firebreath; D1-M15 R2 and R4 Michaelite
+Brethren 2's Paradiso Pistol) was both a ranged action and idle, and so was a
+0 APt ability's; and a round in which an enemy rite set its APt to 0 before it
+acted (D1-M01 R3, Daemonium Meridianum on Aswaran 1 and Spahbed) read as idle
+although it had no APt to spend.
+
+page_activity.js now counts a round idle only when the unit also took no
+action that round (any activity entry but an Overwatch shot, which keeps its
+own credit; holding an objective is one, as before) and still had APt when its
+side passed the rest of the Action Phase (at the round's end, if its side never
+passed). The engine's held-fire test and Overwatch readiness are unchanged, and
+an ADVANCE-only round is still idle: both are open questions for the user.
+
+Across the check run's 24 battles this drops 12 of 651 idle entries: 10 rounds
+with a recorded action that spent no APt (5 ranged attacks, 5 abilities) and
+the 2 of M01 R3. Replayed on the check run's own build with this recorder,
+M01 and M15 match their records move for move and drop exactly these (5 and
+3); the idle entries with no `why` in M01 R2/R3 and M15 R2/R4 were among them.
+
+Test: a synthetic page in battle_report_tests/activity.cjs - a FREE attacker,
+a unit zeroed before its side passed, one zeroed after, an Overwatch shooter,
+and a side that never passed.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

@@ -1,0 +1,24 @@
+Rules: a joined pair's CHARGE locks its CHARACTER's ranged weapons too
+
+The core rules (Joined units) say Advance, Fall Back and Charge count for both
+units of a pair, and a Charge, made or failed, prevents the unit from using
+ranged weapons for the rest of the Battle Round. The Charge roll set its
+charge_ranged_lock round mark on the charging squad alone
+(core/movement/charge.js resolveChargeRoll), so the joined CHARACTER kept its
+ranged weapons: in Champion League D1-M20 Round 4 Caesar fired Fulmen Iovis in
+the Action Phase after his Ironthunder Vanguard charged. The check run's 24
+battles hold ten such shots, by joined CHARACTERs after their pair's charge in
+eight battles (nine in the Action Phase, one an Overwatch shot).
+
+The roll now marks every unit of the footprint (footprintMembers), so every
+reader of the mark answers for both: the ranged lock in weaponUseBlockReason
+(combat/attack_checks.js), the ordered-Charge gate in canDeclareCharge, and
+fire_after_enemy_charge, which still asks only the charger. ADVANCE
+(advanceUnit) and FALL BACK (fallBack's fellBackThisRound, markFellBackFrom)
+already marked both units.
+
+Test: the successful-CHARGE test of the movement core suite now checks the
+attached Centurion's Helios Pistol is refused after its squad's Charge.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

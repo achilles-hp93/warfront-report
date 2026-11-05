@@ -1,0 +1,22 @@
+Battle report: a unit holding an objective is not idle
+
+The user's ruling (2026-10-29): "if they are on an objective then they are not
+idle". The activity record counted a round idle whenever a unit spent no APt
+(unitHeldFireInRound), so every unit that stood on an objective and held it read as
+idle - the inaction score and the idle lists said the opposite of what it did.
+
+page_activity.js now asks, just before the round's objectives score, which units
+stand in an Objective Area with their OC counting there (getEffectiveOC above 0; an
+OC anchored on the objective, its anchor's). Each held ground that round: an action
+of its own kind, `objective`, and not an idle round. activity.cjs counts it among the
+action scores; the page, the digest and the batch charts show it ("Held an
+objective"), and the skill's definition of the inaction score says so.
+
+Each activity entry now carries its unit's side as it happened, and a unit a
+seizure took over has a row for each side: Temple Levy 1's Round 1 idle round, while
+it was still Uruk's, was listed as the Veiled Court's (D1-M14). An older record's
+entries are sided by the unit's own combat point or move in that phase, else by the
+snapshot at the end of the round.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

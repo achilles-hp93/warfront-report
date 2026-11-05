@@ -1,0 +1,41 @@
+cl-s1-d1-d1-m11: 26 uses, 14 bought nothing
+  [Oak of Gernika] Double Time (command): 4 uses, 2 bought nothing; 8 CP 0 Mana; damage 0; enabled 0 (0); moves 2/4 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Oak of Gernika] Burdinola Forge: Basajaun Smith (reaction): 3 uses, 3 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Oak of Gernika] Burdinola Forge: Etxe Riflemen 1 (reaction): 2 uses, 1 bought nothing; 0 CP 0 Mana; damage 0.33; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Oak of Gernika] Rally Cry (reaction): 2 uses, 0 bought nothing; 4 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 2
+  [Oak of Gernika] Scouting Order (command): 1 uses, 1 bought nothing; 1 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Oak of Gernika] Troop Requisition (command): 1 uses, 0 bought nothing; 5 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Oak of Gernika] Burdinola Forge: Etxe Riflemen (reaction): 1 uses, 0 bought nothing; 0 CP 0 Mana; damage 1.1; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sineaters of Damascus] Benediction of Beelzebub (ability): 4 uses, 4 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sineaters of Damascus] Double Time (command): 3 uses, 1 bought nothing; 6 CP 0 Mana; damage 0; enabled 0 (0); moves 2/3 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sineaters of Damascus] Plague: Glutton's Maw (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sineaters of Damascus] Plague: Torpid Stupor (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sineaters of Damascus] Rally Cry (reaction): 1 uses, 0 bought nothing; 2 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 1
+  [Sineaters of Damascus] Go to Ground (reaction): 1 uses, 0 bought nothing; 1 CP 0 Mana; damage 0.67; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sineaters of Damascus] Troop Requisition (command): 1 uses, 0 bought nothing; 3 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 1.33; spotted 0; morale 0
+    report.json R1 COMMAND Plague: Glutton's Maw by - on -: nothing - made GLUTTONS_MAW (was BLIGHTSHELL_POX) active; 24 attack(s) it touched: +0 expected HP for its side
+    report.json R1 COMMAND Burdinola Forge: Etxe Riflemen 1 by - on -: paid off - gave Tomas Zumalakarregi: weapon AP +1; Etxe Riflemen 1: weapon AP +1; 3 attack(s) it touched: +0.33 expected HP for its side
+    report.json R1 COMMAND Double Time by HQ on Poxknight: nothing - gave The Plague Monarch: MOVE +2; Poxknight: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+    report.json R1 COMMAND Double Time by HQ on Etxe Riflemen 3: nothing - gave Etxe Riflemen 3: MOVE +2; 1 move(s) with it, 0 out of reach without it
+    report.json R1 COMMAND Scouting Order by HQ on Etxe Riflemen 1: nothing - gave Tomas Zumalakarregi: PER +2; Etxe Riflemen 1: PER +2; 3 attack(s) it touched: +0 expected HP for its side
+    report.json R2 COMMAND Burdinola Forge: Basajaun Smith by - on -: nothing - gave Basajaun Smith: weapon AP +1
+    report.json R2 COMMAND Double Time by HQ on Cultist Troopers: paid off - gave Cultist Troopers: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R2 COMMAND Double Time by HQ on Mikelete Marksmen: paid off - gave Sorgin: MOVE +2; Mikelete Marksmen: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R2 ACTION Benediction of Beelzebub by The Plague Monarch on Etxe Riflemen 2: nothing - put AFFLICTED on Foral Captain, AFFLICTED on Etxe Riflemen 2; 4 attack(s) it touched: +0 expected HP for its side
+    report.json R3 COMMAND Burdinola Forge: Basajaun Smith by - on -: nothing - gave Basajaun Smith: weapon AP +1
+    report.json R3 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R3 ACTION Benediction of Beelzebub by The Plague Monarch on Etxe Riflemen 3: nothing - no change
+    report.json R4 COMMAND Plague: Torpid Stupor by - on -: nothing - made TORPID_STUPOR (was GLUTTONS_MAW) active; 14 attack(s) it touched: +0 expected HP for its side
+    report.json R4 COMMAND Burdinola Forge: Basajaun Smith by - on -: nothing - gave Basajaun Smith: weapon AP +1
+    report.json R4 COMMAND Troop Requisition by HQ on (8,12): paid off - placed Etxe Riflemen; the unit it placed made 2 attack(s), 8 HP off; the unit it placed drew 2 enemy attack(s), 4 HP
+    report.json R4 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R4 ACTION Go to Ground by Poxknight on Poxknight: paid off - 1 attack(s) it touched: +0.67 expected HP for its side
+    report.json R4 ACTION Benediction of Beelzebub by The Plague Monarch on Etxe Riflemen 3: nothing - no change
+    report.json R5 COMMAND Burdinola Forge: Etxe Riflemen 1 by - on -: nothing - gave Tomas Zumalakarregi: weapon AP +1; Etxe Riflemen 1: weapon AP +1; 2 attack(s) it touched: +0 expected HP for its side
+    report.json R5 COMMAND Troop Requisition by HQ on (7,2): paid off - placed Cultist Troopers; the unit it placed made 1 attack(s), 0 HP off; the unit it placed scored 1.33 VP; the unit it placed drew 1 enemy attack(s), 8 HP
+    report.json R5 COMMAND Double Time by HQ on Etxe Riflemen 1: nothing - gave Tomas Zumalakarregi: MOVE +2; Etxe Riflemen 1: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+    report.json R6 COMMAND Burdinola Forge: Etxe Riflemen by - on -: paid off - gave Etxe Riflemen: weapon AP +1; 2 attack(s) it touched: +1.1 expected HP for its side
+    report.json R6 COMMAND Double Time by HQ on Etxe Riflemen: paid off - gave Etxe Riflemen: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R6 COMMAND Double Time by HQ on Mawkin 2: paid off - gave Mawkin 2: MOVE +2; 1 move(s) with it, 1 out of reach without it
+    report.json R6 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R6 ACTION Benediction of Beelzebub by The Plague Monarch on Tomas Zumalakarregi: nothing - put AFFLICTED on Tomas Zumalakarregi

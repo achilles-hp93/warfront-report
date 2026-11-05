@@ -1,0 +1,13 @@
+Battle report: a Fall Back's outcome counts the damage its move drew
+
+The Fall Back record read what followed a decision from the round's Action Phase
+only (fallback.cjs outcome), so the Overwatch a Fall Back move drew was missed:
+the requisitioned Cultist Troopers' Fall Back said "after: lost 0 HP" though the
+Fulminator Squad's Overwatch did 4 damage during that move (Champion League D1-M08
+R2). It now counts the rest of the Movement Phase from the decision on - the page
+notes the decision's place in the record (seq) - with the FALL BACK test's own
+damage counted once, as the test's. A record made before the seq counts the whole
+Movement Phase.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

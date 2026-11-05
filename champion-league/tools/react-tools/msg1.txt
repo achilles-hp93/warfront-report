@@ -1,0 +1,71 @@
+AI: every Charge, ranged attack and Overwatch prices the Reactions it draws
+
+The user's decision (round 4, "b"): build one Reaction estimate from the AI's
+existing defender decisions and use it for every charge - ordinary, ordered and
+granted - and route Insatiable Rage and Sabre Signal through the normal charge
+scoring. And the user's standard, "no obviously stupid mistake ... applies to
+everything": the same estimate serves ranged attacks and Overwatch.
+
+No action priced the Reactions it draws; W_REACTION_AVOID was read by nothing but
+the debug slider. Alea Iacta lost three units to the Silver Arrow Brethren's Return
+Volley (Champion League D1-M20): Legionnaire Squad 2 shot Akritic Outriders for 2 HP
+(R1), Champion of Mars at 3 HP and Legionnaire Squad 1 at 4 HP Overwatched for
+nothing (R2, R3), and the Volley destroyed each.
+
+Each Reaction is asked as the reacting side's own AI decides it, on the same
+board - never a copy of the decision:
+- the Countercharge (ai/movement/charge_reactions.js): the offer the CHARGE would
+  make (counterchargeOfferContext, its candidates by the rules'
+  counterchargeCandidates, now shared with offerCountercharge) put to the seam's
+  own AI choice (aiInterjectionAnswer: the command's CP, enabler and once-a-round
+  gates, the 1 CP kept, aiCounterchargeRank). It lands at the odds of the square it
+  declares (counterchargePlan) and cancels the Charge, and the charger fights the
+  countercharger instead (aiCounterchargeOwn's fight). A Countercharge's own Charge
+  draws none.
+- each OVERWATCH at a charger's landing square: the watcher's weighing
+  (aiOverwatchAttackOptions, split out of _aiChooseOverwatchAttack) at the chance
+  its softmax draw takes each attack (aiSoftmaxProbabilities, split out of
+  aiSoftmaxSelect);
+- each Fire After Enemy Charge (aiFireAfterChargeAttack, the interjection's pick),
+  after a failed Charge as well;
+- each attack a ranged attack's unit_attacked event offers back at the attacker
+  (Return Volley): eventEffectsAnswering (abilities/runtime/events.js) asks the
+  dispatcher's own gates - split out as _eventEffectAnswers, with the once-per-round,
+  -battle and -activation allowances peeked, not spent - and the offered unit takes
+  the attack its interjection's AI takes (aiEventRangedAttackPick, with
+  eventRangedAttackOffered, the op's own offer check).
+
+ai/tactical/drawn_shots.js is the one price: the shots' HP (the rules' expectation)
+at the unit's worth, and more for the chance they finish it (aiKillBonusFactor, the
+kill bonus _aiScoreAttack applies, now one function). _aiPickBestCompositionAttack
+takes it off every ranged attack, aiOverwatchAttackOptions off every Overwatch, and a
+Charge off its score through _aiChargeReactedScore with the Countercharge's chance and
+the share of its fight its shots kill - at W_DRAWN_REACTIONS (the renamed
+W_REACTION_AVOID, 1.0: their expected cost). A Countercharge's own worth prices the
+Reactions its Charge draws the same way.
+
+Kept cheap: a Charge asks them only of squares that pass its bound and floor, and a
+square they leave unable to win skips the Fall Back question (_aiChargeReactedBound,
+the Countercharge included); the squares are now asked best bound first, so the best
+is found early and bounds the rest - the same pick, ties to the first square; every
+answer is kept for the decision; a side that could not react at all costs one scan
+of its units per decision. The build's event-gate scan (generator/vocabulary.py)
+reads the shared gate function as well as the dispatcher.
+
+aiOrderedChargeSquare (ai/movement/ordered_charge.js) weighs a granted or ordered
+CHARGE on the charge score: Insatiable Rage's square (no roll, compulsory: the best
+square, whatever it is worth) and Sabre Signal's run and its worth when the ability
+is weighed (with its roll, made only when it beats the unit's ground). They took the
+plain ground score of a granted move.
+
+Tests: 187 (a Charge into an Overwatch-Ready gun line is priced lower than with the
+gun line spent, by the watcher's own expected Overwatch), 173 (a granted Charge
+leaves no unit free to countercharge when another square is nearly as good), 167
+(Sabre Signal is worth its charge score and its run goes there), grant_move (Sabre
+Signal's worth counts the Countercharge), 050 (a Countercharge's own Charge prices
+its Overwatch and draws no Countercharge), 165 (a ranged attack is worth the Return
+Volley it draws less), 255 (an Overwatch that draws a Volley worth more is held),
+ability_runtime 240 (what an attack would draw is asked spending nothing).
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

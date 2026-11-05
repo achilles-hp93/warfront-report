@@ -1,0 +1,49 @@
+// The Reactions the CHARGE `options` describes draws (aiChargeReactions), asked once.
+function _aiChargeOptionsReactions(unit, options) {
+  if (!options.reactions) {
+    options.reactions = aiW('W_DRAWN_REACTIONS') ? aiChargeReactions(unit, options.sq, options.reacting) : AI_NO_CHARGE_REACTIONS;
+  }
+  return options.reactions;
+}
+
+// The most the CHARGE `options` describes could score once the Reactions it draws are
+// known, before the costly Fall Back question: its bound, less what their shots take off
+// it whichever way the fight goes, and the Countercharge's cancelling of a charge worth no
+// more than the bound (_aiChargeReactedScore, which never takes less: what it takes for a
+// Countercharge grows with the score no faster than the score, while W_DRAWN_REACTIONS
+// times its chance is no more than 1).
+function _aiChargeReactedBound(unit, options) {
+  var r = _aiChargeOptionsReactions(unit, options);
+  var W = aiW('W_DRAWN_REACTIONS');
+  var cc = r.countercharge;
+  var lands = cc ? cc.chance : 0;
+  var shots = (1 - lands) * options.w * aiChargeShotsCost(r, options.P);
+  var canceled = cc && W * lands <= 1
+    ? lands * Math.max(0, options.bound - _aiChargeCanceledScore(options, cc)) : 0;
+  return options.bound - W * (shots + canceled);
+}
+
+// What the CHARGE `options` describes leaves its unit when the Countercharge `cc` lands and
+// cancels it: its own ground, the shots it gives up all the same, and the countercharger's
+// fight, the charger's loss.
+function _aiChargeCanceledScore(options, cc) {
+  return options.stay - options.w * options.forgone - options.w * cc.fight;
+}
+
+// The CHARGE's `score` once the Reactions it draws are priced, at W_DRAWN_REACTIONS. A
+// Countercharge that lands (at its chance) cancels it: the unit keeps its ground, still
+// gives up its shots and fights the countercharger instead - whose fight, worth what its
+// own side prices it at, is the charger's loss. A Countercharge that would leave the
+// charge better off is never what the enemy makes, so it never adds. Otherwise the shots
+// cost what aiChargeReactionLoss says, against the fight worth `value`.
+function _aiChargeReactedScore(unit, options, value, score) {
+  var W = aiW('W_DRAWN_REACTIONS');
+  if (!W) return score;
+  var r = _aiChargeOptionsReactions(unit, options);
+  var cc = r.countercharge;
+  var lands = cc ? cc.chance : 0;
+  var shots = options.w * aiChargeReactionLoss(r, options.P, value);
+  var canceled = cc ? Math.max(0, score - _aiChargeCanceledScore(options, cc)) : 0;
+  return score - W * ((1 - lands) * shots + lands * canceled);
+}
+

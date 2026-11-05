@@ -1,0 +1,503 @@
+Oak of Gernika (A, euskal_herria) vs Sineaters of Damascus (B, infernal_congregations) on CROSSROADS, seed 460703111
+Result: B:Sineaters of Damascus wins (VP) in round 5, VP 20 / 36
+Initiative: A:Oak of Gernika; formation order [1,0]
+Army A:Oak of Gernika (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Tomas Zumalakarregi - 55 RP, 1 models, 7 HP, leads Etxe Riflemen 1, Marshal
+  Etxe Riflemen 1 - 20 RP, 10 models, 20 HP, led by Tomas Zumalakarregi
+  Foral Captain - 22 RP, 1 models, 6 HP, leads Etxe Riflemen 2
+  Etxe Riflemen 2 - 20 RP, 10 models, 20 HP, led by Foral Captain
+  Sorgin - 18 RP, 1 models, 4 HP, leads Mikelete Marksmen
+  Mikelete Marksmen - 18 RP, 3 models, 6 HP, led by Sorgin
+  Etxe Riflemen 3 - 15 RP, 10 models, 20 HP
+  Sugaar Gun - 35 RP, 1 models, 7 HP
+  Basajaun Smith - 45 RP, 1 models, 10 HP
+Army B:Sineaters of Damascus (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Plague Monarch - 60 RP, 1 models, 14 HP, leads Poxknight, Marshal
+  Poxknight - 38 RP, 5 models, 15 HP, led by The Plague Monarch
+  Beast of Contagion - 50 RP, 1 models, 15 HP
+  Mawkin 1 - 28 RP, 10 models, 20 HP
+  Mawkin 2 - 28 RP, 10 models, 20 HP
+  Cultist Troopers 1 - 10 RP, 10 models, 20 HP
+  Hellkin - 25 RP, 5 models, 20 HP
+  Cultist Troopers 2 - 10 RP, 10 models, 20 HP
+Primary A:Oak of Gernika: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: RAISE THE STANDARD, ERADICATE THE FOE, DEBT OF BLOOD; picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 0 (count 0), R5 2 (count 1); total 2
+Primary B:Sineaters of Damascus: WIDE SWEEP - At the end of each Battle Round, score 2 VP if friendly units stand in three quarters of the battlefield, or 3 VP if they stand in all four. A unit counts only if it is more than 2 squares from the centre of the battlefield; the centre row and column belong to no quarter.
+  hand: DEEP INFILTRATION, WIDE SWEEP, SILENT MANEUVER (does not fit); picked wide_sweep
+  scored per round: R1 0 (count 0), R2 0 (count 2), R3 2 (count 3), R4 2 (count 3), R5 2 (count 3); total 6
+
+=== BATTLE ROUND 1 ===
+A:Oak of Gernika: VP +5 (obj 5, primary 0, missions 0) = 5; CP +3 -0 holds 3
+B:Sineaters of Damascus: VP +5 (obj 2, primary 0, missions 3) = 5; CP +2 -1 holds 1 [1 Go to ground (reaction) for Mawkin 1]
+  mana: +4 -0 holds 4
+A:Oak of Gernika keeps mission FOCUSED FIRE (offered FOCUSED FIRE / FORWARD DEPLOYMENT)
+B:Sineaters of Damascus keeps mission KING OF THE HILL (offered KING OF THE HILL / TERRITORIAL SUPERIORITY)
+B:Sineaters of Damascus mission KING OF THE HILL: completed
+Moves:
+  [MOVEMENT] A:Oak of Gernika Mikelete Marksmen + Sorgin 7,12 -> 7,8 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Hellkin 3,1 -> 2,7 (advance)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 3 10,12 -> 8,8 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 9,2 -> 8,5 (advance)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 5,12 -> 2,10 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 1 10,2 -> 9,5 (advance)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 4,12 -> 1,9 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 2 3,2 -> 6,6 (advance)
+  [MOVEMENT] A:Oak of Gernika Basajaun Smith 9,13 -> 12,8 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 11,2 -> 8,6 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 7,2 -> 7,7 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 5,2 -> 7,6 (advance)
+Combat:
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Mawkin 1: Mawkin 1 -4
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 2 -> Mikelete Marksmen: Sorgin -2, Mikelete Marksmen -6 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Tomas Zumalakarregi (no legal action), A:Etxe Riflemen 1 (no legal action), A:Foral Captain (no legal action), A:Etxe Riflemen 2 (no legal action), B:HQ (no legal action), B:The Plague Monarch (no legal action), B:Poxknight (no legal action), B:Beast of Contagion (no legal action), B:Mawkin 1 (no legal action), B:Cultist Troopers 1 (no legal action)
+Commands and abilities:
+  [COMMAND] B:Sineaters of Damascus Plague: Glutton's Maw: nothing - made GLUTTONS_MAW (was BLIGHTSHELL_POX) active; 24 attack(s) it touched: +0 expected HP for its side
+  [ACTION] B:Sineaters of Damascus Go to Ground on Mawkin 1: paid off - 1 attack(s) it touched: +1.56 expected HP for its side
+Passive rules:
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 1 attack, 0.89 expected HP for its side
+  Serpent Coil (Sugaar Gun): 1 attack, 1.56 expected HP for its side
+  Profane Zeal (Mawkin 2): 1 attack, 0.48 expected HP for its side
+  Weather-Reader (Sorgin): fired 1 time (add_resource)
+  Blighted Voracity (The Plague Monarch): fired 1 time (heal)
+  Tithe of Torment (Mawkin 1): fired 2 times (add_resource)
+  Cannibal Feast (Poxknight): fired 2 times (heal)
+  Corpse-Eater (Mawkin 1): fired 2 times (heal)
+  Corpse-Eater (Mawkin 2): fired 5 times (heal)
+  Lord of the Swarm (Beast of Contagion): fired 1 time (heal)
+Scored by:
+  B:Sineaters of Damascus missions KING OF THE HILL 3 VP: Mawkin 2 3.0 (event)
+  A:Oak of Gernika objectives (7,7) 3 VP: Sorgin 1.5, Etxe Riflemen 3 1.5; hinged on Sorgin, Etxe Riflemen 3
+  B:Sineaters of Damascus objectives (1,7) 2 VP: Hellkin 2.0; hinged on Hellkin
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B WIDE SWEEP
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: KING OF THE HILL
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Mawkin 1
+  [ACTION]   Mawkin destroyed
+  [ACTION]   Mawkin destroyed
+  [ACTION] MISSION COMPLETE: "KING OF THE HILL" -> Player B +3 VP!
+  [ACTION]   Mikelete destroyed
+  [ACTION]   Mikelete destroyed
+  [ACTION]   Mikelete Corporal destroyed
+  [ACTION]   Mikelete Marksmen DESTROYED in melee!
+  [ACTION]   Mikelete Marksmen was destroyed - no counterattack
+
+=== BATTLE ROUND 2 ===
+A:Oak of Gernika: VP +4 (obj 4, primary 0, missions 0) = 9; CP +3 -5 holds 1 [5 Troop Requisition → Etxe Riflemen]
+  mana: +1 -0 holds 1
+B:Sineaters of Damascus: VP +3 (obj 3, primary 0, missions 0) = 8; CP +2 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+  mana: +6 -2 holds 8 [2 Cast Gaze of the Abyss]
+A:Oak of Gernika keeps mission FORWARD PRESENCE (offered FORWARD PRESENCE / PROBING STRIKE)
+B:Sineaters of Damascus keeps mission PROBING STRIKE (offered PROBING STRIKE / LAST STAND)
+A:Oak of Gernika mission FOCUSED FIRE: expired
+Moves:
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 7,12 -> 7,9
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 2,10 -> 0,8
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 7,2 -> 4,3
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 1,9 -> 4,10
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 1 9,5 -> 6,5
+  [MOVEMENT] A:Oak of Gernika Basajaun Smith 12,8 -> 12,7
+  [MOVEMENT] B:Sineaters of Damascus Hellkin 2,7 -> 1,8 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 8,6 -> 8,7 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 7,6 -> 9,7 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 2 6,6 -> 8,6
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Tomas Zumalakarregi -> Hellkin: no damage
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 2 -> Hellkin: Hellkin -2
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen -> Beast of Contagion: Beast of Contagion -2
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Cultist Troopers 2: Cultist Troopers 2 -6
+  [ACTION] magic (Gaze of the Abyss): B:Sineaters of Damascus The Plague Monarch -> Etxe Riflemen 3: no damage
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 2 -> Etxe Riflemen 3: Etxe Riflemen 3 -12
+  [ACTION] ranged: A:Oak of Gernika Tomas Zumalakarregi -> Hellkin: Hellkin -2
+  [ACTION] melee: B:Sineaters of Damascus Beast of Contagion -> Etxe Riflemen 3: Etxe Riflemen 3 -6
+  [ACTION] melee: B:Sineaters of Damascus Hellkin -> Etxe Riflemen 1: Etxe Riflemen 1 -2, Hellkin -4
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 1 -> Etxe Riflemen 3: Etxe Riflemen 3 -2 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Foral Captain (best: ability Signal Fires, 0.3), B:HQ (no legal action), B:Poxknight (no legal action), B:Cultist Troopers 1 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Oak of Gernika Troop Requisition on (7,12): paid off - placed Etxe Riflemen; the unit it placed made 2 attack(s), 2 HP off; the unit it placed drew 5 enemy attack(s), 20 HP
+  [COMMAND] B:Sineaters of Damascus Troop Requisition on (7,2): paid off - placed Cultist Troopers; the unit it placed made 3 attack(s), 1 HP off; the unit it placed scored 5.72 VP; the unit it placed drew 3 enemy attack(s), 7 HP
+  [ACTION] B:Sineaters of Damascus Gaze of the Abyss on Etxe Riflemen 3: paid off - gave Etxe Riflemen 3: MS -1, BS -1; 4 attack(s) it touched: +5.28 expected HP for its side
+Passive rules:
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 2 attacks, 0.28 expected HP for its side
+  Serpent Coil (Sugaar Gun): 1 attack, 1.33 expected HP for its side
+  Profane Zeal (Mawkin 2): 1 attack, 2.09 expected HP for its side
+  Weather-Reader (Sorgin): fired 1 time (add_resource)
+  Blighted Voracity (The Plague Monarch): fired 1 time (heal)
+  Tithe of Torment (Cultist Troopers 2): fired 3 times (add_resource)
+  Cannibal Feast (Poxknight): fired 3 times (heal)
+  Corpse-Eater (Mawkin 1): fired 13 times (heal)
+  Corpse-Eater (Mawkin 2): fired 13 times (heal)
+  Glutton's Feast (Beast of Contagion): fired 1 time (heal)
+  Lord of the Swarm (Beast of Contagion): fired 1 time (heal)
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: Cultist Troopers 2 3.0; hinged on Cultist Troopers 2
+  A:Oak of Gernika objectives (1,7) 2 VP: Etxe Riflemen 1 2.0; hinged on Etxe Riflemen 1
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+Key log lines:
+  [COMMAND] Player A picks mission: FORWARD PRESENCE
+  [COMMAND] Player B picks mission: PROBING STRIKE
+  [COMMAND] HQ Command: Troop Requisition -> euskal_herria:etxe_riflemen (cost 5 CP) by Player A
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [MOVEMENT] Poxknight CHARGE FAILED: it does not move
+  [MOVEMENT] [Tomas Zumalakarregi] Overwatch Reaction vs Hellkin: no damage
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] The Plague Monarch casts Gaze of the Abyss on Etxe Riflemen 3
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Hellkin destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Hellkin destroyed
+  [ACTION]   Etxe Sergeant destroyed
+  [ACTION]   Etxe Riflemen 3 DESTROYED in melee!
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R2)
+
+=== BATTLE ROUND 3 ===
+A:Oak of Gernika: VP +5 (obj 2, primary 0, missions 3) = 14; CP +3 -0 holds 4
+B:Sineaters of Damascus: VP +8 (obj 5, primary 2, missions 1) = 16; CP +3 -2 holds 1 [2 Double Time → Cultist Troopers]
+  mana: +2 -2 holds 8 [2 Cast Gaze of the Abyss]
+A:Oak of Gernika keeps mission DEEP REACH (offered DEEP REACH / OMNIPRESENCE)
+B:Sineaters of Damascus keeps mission STRONGPOINT (offered STRONGPOINT / OBJECTIVE RELAY)
+A:Oak of Gernika mission DEEP REACH: completed
+B:Sineaters of Damascus mission PROBING STRIKE: expired
+B:Sineaters of Damascus mission STRONGPOINT: completed
+Moves:
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 7,9 -> 6,9
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 4,3 -> 1,6
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 4,10 -> 5,9
+  [MOVEMENT] A:Oak of Gernika Sorgin 7,8 -> 5,10
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 1 6,5 -> 6,7
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 8,7 -> 7,8 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 9,7 -> 7,9 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 7,7 -> 7,10 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 2 8,6 -> 10,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Sineaters of Damascus Cultist Troopers 1 -> Etxe Riflemen: Etxe Riflemen -1; cost paid: Cultist Troopers 1 -2 (DESPERATE WORSHIP)
+  [MOVEMENT] effect (Glutton's Maw): B:Sineaters of Damascus Hellkin -> Etxe Riflemen 1: Etxe Riflemen 1 -1
+  [MOVEMENT] effect (Glutton's Maw): B:Sineaters of Damascus Cultist Troopers 1 -> Etxe Riflemen: Etxe Riflemen -1
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Cultist Troopers: no damage
+  [ACTION] magic (Gaze of the Abyss): B:Sineaters of Damascus The Plague Monarch -> Etxe Riflemen: no damage
+  [ACTION] ranged: A:Oak of Gernika Tomas Zumalakarregi -> Hellkin: no damage
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 2 -> Etxe Riflemen: Etxe Riflemen -16
+  [ACTION] melee: B:Sineaters of Damascus Hellkin -> Etxe Riflemen 1: Etxe Riflemen 1 -3, Hellkin -3
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 1 -> Etxe Riflemen: Etxe Riflemen -2 DESTROYED
+  [ACTION] ranged: B:Sineaters of Damascus Cultist Troopers 1 -> Basajaun Smith: Basajaun Smith -1
+  [ACTION] ranged: B:Sineaters of Damascus Cultist Troopers 2 -> Basajaun Smith: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Foral Captain (best: ability Signal Fires, 0.3), A:Etxe Riflemen 2 (no legal action), B:HQ (no legal action), B:Poxknight (no legal action)
+Commands and abilities:
+  [COMMAND] B:Sineaters of Damascus Double Time on Cultist Troopers: paid off - gave Cultist Troopers: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [MOVEMENT] B:Sineaters of Damascus Desperate Worship on Etxe Riflemen: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Sineaters of Damascus Gaze of the Abyss on Etxe Riflemen: paid off - gave Etxe Riflemen: MS -1, BS -1; 3 attack(s) it touched: +3.63 expected HP for its side
+Passive rules:
+  Serpent Coil (Sugaar Gun): 1 attack, 1 expected HP for its side
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 1 attack, 0.12 expected HP for its side
+  Profane Zeal (Mawkin 2): 2 attacks, 1.95 expected HP for its side
+  Weather-Reader (Sorgin): fired 1 time (add_resource)
+  Blighted Voracity (The Plague Monarch): fired 1 time (heal)
+  Tithe of Torment (Cultist Troopers 1): fired 2 times (add_resource)
+  Corpse-Eater (Mawkin 1): fired 10 times (heal)
+  Corpse-Eater (Mawkin 2): fired 10 times (heal)
+  Lord of the Swarm (Beast of Contagion): fired 1 time (heal)
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: Cultist Troopers 1 3.0; hinged on Cultist Troopers 1
+  B:Sineaters of Damascus objectives (1,7) 2 VP: Hellkin 1.0, Cultist Troopers 1.0; hinged on Hellkin, Cultist Troopers
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+  B:Sineaters of Damascus primary WIDE SWEEP 2 VP: Hellkin 0.7, Cultist Troopers 2 0.7, Cultist Troopers 0.7
+  A:Oak of Gernika missions DEEP REACH 3 VP: HQ 1.5, Basajaun Smith 1.5
+  B:Sineaters of Damascus missions STRONGPOINT 1 VP: Mawkin 1 0.3, Cultist Troopers 1 0.3, Hellkin 0.3, Cultist Troopers 0.3
+Key log lines:
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: STRONGPOINT
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers (cost 2 CP) by Player B
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] [Cultist Troopers 1] Overwatch Reaction vs Etxe Riflemen: 1 damage
+  [MOVEMENT] Poxknight CHARGE FAILED: it does not move
+  [MOVEMENT] [Sorgin] Fall Back to (5,10)
+  [MOVEMENT]   Etxe Rifleman destroyed
+  [ACTION] The Plague Monarch casts Gaze of the Abyss on Etxe Riflemen
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Sergeant destroyed
+  [ACTION]   Etxe Riflemen DESTROYED in melee!
+  [CLEANUP] PRIMARY WIDE SWEEP: Player B scores 2 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "STRONGPOINT" -> Player B +1 VP +1 CP!
+  [CLEANUP] Mission "PROBING STRIKE" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Oak of Gernika: VP +2 (obj 2, primary 0, missions 0) = 16; CP +3 -1 holds 6 [1 Go to ground (reaction) for Sorgin]
+  mana: +6 -0 holds 7
+B:Sineaters of Damascus: VP +10 (obj 5, primary 2, missions 3) = 26; CP +2 -2 holds 1 [2 Double Time → Cultist Troopers 2]
+  mana: +8 -0 holds 16
+A:Oak of Gernika keeps mission SECURE THE FLANKS (offered BREAK CONTACT / SECURE THE FLANKS)
+B:Sineaters of Damascus keeps mission DEEP REACH (offered DEEP REACH / COORDINATED PUSH)
+B:Sineaters of Damascus mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 5,9 -> 4,10
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 2 10,8 -> 14,8
+  [MOVEMENT] A:Oak of Gernika Basajaun Smith 12,7 -> 13,8 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 8,5 -> 8,7
+  [MOVEMENT] A:Oak of Gernika Sorgin 5,10 -> 3,10
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 7,10 -> 6,9
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 1 6,7 -> 6,8
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 7,9 -> 2,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Sineaters of Damascus Cultist Troopers -> Sorgin: Sorgin -1
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Foral Captain -> Beast of Contagion: no damage
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 2 -> Beast of Contagion: Beast of Contagion -2
+  [MOVEMENT] effect (Glutton's Maw): B:Sineaters of Damascus Hellkin -> Etxe Riflemen 1: Etxe Riflemen 1 -1
+  [MOVEMENT] effect (Glutton's Maw): B:Sineaters of Damascus Cultist Troopers 1 -> Basajaun Smith: Basajaun Smith -1
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Cultist Troopers: Cultist Troopers -4
+  [ACTION] ranged: A:Oak of Gernika Etxe Riflemen 2 -> Beast of Contagion: Beast of Contagion -6
+  [ACTION] ranged: B:Sineaters of Damascus Cultist Troopers -> Sugaar Gun: no damage
+  [ACTION] melee: A:Oak of Gernika Basajaun Smith -> Cultist Troopers 2: Basajaun Smith -1, Cultist Troopers 2 -4
+  [ACTION] ranged: B:Sineaters of Damascus Beast of Contagion -> Etxe Riflemen 2: no damage
+  [ACTION] ranged: A:Oak of Gernika Foral Captain -> Beast of Contagion: no damage
+  [ACTION] melee: A:Oak of Gernika Tomas Zumalakarregi -> Hellkin: Hellkin -1
+  [ACTION] melee: A:Oak of Gernika Etxe Riflemen 1 -> Hellkin: Hellkin -5
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Mawkin 1 (no legal action), B:Mawkin 2 (no legal action)
+Moves undone:
+  A:Oak of Gernika Etxe Riflemen 2: R3 MOVEMENT 4,10 -> 5,9, R4 MOVEMENT -> 4,10 (toward the objective at 7,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] B:Sineaters of Damascus Plague: Blightshell Pox: nothing - made BLIGHTSHELL_POX (was GLUTTONS_MAW) active
+  [COMMAND] B:Sineaters of Damascus Plague: Blurring Buzz: nothing - made BLURRING_BUZZ (was BLIGHTSHELL_POX) active; 27 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Sineaters of Damascus Double Time on Cultist Troopers 2: paid off - gave Cultist Troopers 2: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [MOVEMENT] A:Oak of Gernika Go to Ground on Sorgin: paid off - 1 attack(s) it touched: +0.21 expected HP for its side
+  [ACTION] B:Sineaters of Damascus Benediction of Beelzebub on Basajaun Smith: paid off - gave Basajaun Smith: HIT_ROLL -1; 4 attack(s) it touched: +2 expected HP for its side
+Passive rules:
+  Serpent Coil (Sugaar Gun): 1 attack, 1 expected HP for its side
+  Profane Zeal (Cultist Troopers): 1 attack, 0.22 expected HP for its side
+  Blurring Buzz (Basajaun Smith): 1 attack, -1 expected HP for its side
+  Weather-Reader (Sorgin): fired 1 time (add_resource)
+  Blighted Voracity (The Plague Monarch): fired 1 time (heal)
+  Tithe of Torment (Cultist Troopers): fired 2 times (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 2 times (add_resource)
+  Lord of the Swarm (Beast of Contagion): fired 1 time (heal)
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: The Plague Monarch 1.0, Poxknight 1.0, Cultist Troopers 1 1.0
+  A:Oak of Gernika objectives (1,7) 2 VP: Tomas Zumalakarregi 1.0, Etxe Riflemen 1 1.0; hinged on Tomas Zumalakarregi, Etxe Riflemen 1
+  B:Sineaters of Damascus objectives (13,7) 2 VP: Cultist Troopers 2 2.0; hinged on Cultist Troopers 2
+  B:Sineaters of Damascus primary WIDE SWEEP 2 VP: Cultist Troopers 2 0.8, Cultist Troopers 0.8, Beast of Contagion 0.2, Hellkin 0.2
+  B:Sineaters of Damascus missions DEEP REACH 3 VP: HQ 2.4, The Plague Monarch 0.1, Poxknight 0.1, Cultist Troopers 1 0.1, Cultist Troopers 2 0.1
+Key log lines:
+  [COMMAND] Player A picks mission: SECURE THE FLANKS
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers 2 (cost 2 CP) by Player B
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Sorgin
+  [MOVEMENT] [Cultist Troopers] Overwatch Reaction vs Sorgin: 1 damage
+  [MOVEMENT] [Foral Captain] Overwatch Reaction vs Beast of Contagion: no damage
+  [MOVEMENT] [Etxe Riflemen 2] Overwatch Reaction vs Beast of Contagion: 2 damage
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] The Plague Monarch uses Benediction of Beelzebub!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Hellkin destroyed
+  [ACTION]   Hellkin destroyed
+  [CLEANUP] PRIMARY WIDE SWEEP: Player B scores 2 VP (4/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+
+=== BATTLE ROUND 5 ===
+A:Oak of Gernika: VP +4 (obj 0, primary 2, missions 2) = 20; CP +4 -9 holds 1 [2 Double Time → Etxe Riflemen 2; 5 Troop Requisition → Etxe Riflemen; 2 Rally cry (reaction) for Sorgin]
+  mana: +1 -4 holds 4 [4 Cast Sugaar's Hail]
+B:Sineaters of Damascus: VP +10 (obj 7, primary 2, missions 1) = 36; CP +2 -2 holds 1 [2 Double Time → Cultist Troopers 1]
+  mana: +10 -2 holds 24 [2 Cast Gaze of the Abyss]
+A:Oak of Gernika keeps mission KING OF THE HILL (offered KING OF THE HILL / VIGILANT WATCH)
+B:Sineaters of Damascus keeps mission OMNIPRESENCE (offered OMNIPRESENCE / FORWARD PRESENCE)
+A:Oak of Gernika mission SECURE THE FLANKS: completed
+B:Sineaters of Damascus mission OMNIPRESENCE: completed
+Moves:
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 4,10 -> 6,6
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen #2 4,12 -> 4,9
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 7,8 -> 5,8 (charge)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 0,8 -> 2,7 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 6,9 -> 5,10 (charge)
+  [MOVEMENT] A:Oak of Gernika Sorgin 3,10 -> 2,6 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 2,8 -> 1,8 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 8,7 -> 7,7 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 1 6,8 -> 7,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Sineaters of Damascus Cultist Troopers 1 -> Etxe Riflemen 2: Etxe Riflemen 2 -3; cost paid: Cultist Troopers 1 -2 (DESPERATE WORSHIP)
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Hellkin: Hellkin -3 DESTROYED
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 2 -> Mawkin 1: Mawkin 1 -2
+  [ACTION] magic (Sugaar's Hail): A:Oak of Gernika Sorgin: Poxknight -2, Cultist Troopers 1 -1
+  [ACTION] magic (Gaze of the Abyss): B:Sineaters of Damascus The Plague Monarch -> Etxe Riflemen 1: no damage
+  [ACTION] melee: A:Oak of Gernika Tomas Zumalakarregi -> Cultist Troopers: Etxe Riflemen 1 -3, Cultist Troopers -3
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 2 -> Etxe Riflemen #2: Etxe Riflemen #2 -10
+  [ACTION] melee: A:Oak of Gernika Basajaun Smith -> Cultist Troopers 2: no damage
+  [ACTION] melee: B:Sineaters of Damascus Beast of Contagion -> Etxe Riflemen 1: Tomas Zumalakarregi -4, Etxe Riflemen 1 -10 DESTROYED
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Cultist Troopers 1: Cultist Troopers 1 -3
+  [ACTION] melee: B:Sineaters of Damascus Poxknight -> Etxe Riflemen 2: Etxe Riflemen 2 -9, Poxknight -1
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 1 -> Etxe Riflemen #2: Etxe Riflemen #2 -5
+  [ACTION] ranged: B:Sineaters of Damascus Cultist Troopers 1 -> HQ: HQ -2
+  [ACTION] effect (Poison): B:Sineaters of Damascus Poxknight -> Foral Captain: Foral Captain -1
+  [ACTION] effect (Poison): B:Sineaters of Damascus Poxknight -> Etxe Riflemen 2: Etxe Riflemen 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Moves undone:
+  A:Oak of Gernika Etxe Riflemen 2: R4 MOVEMENT 5,9 -> 4,10, R5 MOVEMENT -> 6,6 (toward the objective at 1,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] A:Oak of Gernika Double Time on Etxe Riflemen 2: paid off - gave Foral Captain: MOVE +2; Etxe Riflemen 2: MOVE +2; 5 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Oak of Gernika Troop Requisition on (4,12): paid off - placed Etxe Riflemen #2; the unit it placed drew 2 enemy attack(s), 15 HP
+  [COMMAND] B:Sineaters of Damascus Double Time on Cultist Troopers 1: nothing - gave Cultist Troopers 1: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] A:Oak of Gernika Rally Cry on Sorgin: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] B:Sineaters of Damascus Desperate Worship on Etxe Riflemen 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Oak of Gernika Sugaar's Hail on (7,8): paid off - gave The Plague Monarch: MOVE -1, INI -3, BS -1; Poxknight: MOVE -1, INI -3, BS -1; Cultist Troopers 1: MOVE -1, INI -3, BS -1; put CHILLED on The Plague Monarch, CHILLED on Poxknight, CHILLED on Cultist Troopers 1; 10 attack(s) it touched: +0 expected HP for its side; its effect took 3 HP off enemies
+  [ACTION] B:Sineaters of Damascus Gaze of the Abyss on Etxe Riflemen 1: paid off - gave Tomas Zumalakarregi: MS -1, BS -1; Etxe Riflemen 1: MS -1, BS -1; 3 attack(s) it touched: +2.7 expected HP for its side
+Passive rules:
+  Profane Zeal (Cultist Troopers): 1 attack, 0.06 expected HP for its side
+  Blurring Buzz (Basajaun Smith): 2 attacks, -1.5 expected HP for its side
+  Serpent Coil (Sugaar Gun): 1 attack, 0.88 expected HP for its side
+  Weather-Reader (Sorgin): fired 1 time (add_resource)
+  Blighted Voracity (The Plague Monarch): fired 1 time (heal)
+  Tithe of Torment (Cultist Troopers 1): fired 5 times (add_resource)
+  Corpse-Eater (Mawkin 1): fired 9 times (heal)
+  Corpse-Eater (Mawkin 2): fired 9 times (heal)
+  Tithe of Torment (Mawkin 1): fired 1 time (add_resource)
+  Tithe of Torment (Poxknight): fired 4 times (add_resource)
+  Tithe of Torment (Cultist Troopers): fired 3 times (add_resource)
+  Glutton's Feast (Beast of Contagion): fired 1 time (heal)
+  Cannibal Feast (Poxknight): fired 9 times (heal)
+  Lord of the Swarm (Beast of Contagion): fired 1 time (heal)
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: Poxknight 1.5, Cultist Troopers 1 1.5
+  B:Sineaters of Damascus objectives (1,7) 2 VP: Cultist Troopers 2.0; hinged on Cultist Troopers
+  B:Sineaters of Damascus objectives (13,7) 2 VP: Cultist Troopers 2 2.0; hinged on Cultist Troopers 2
+  A:Oak of Gernika primary ERADICATE THE FOE 2 VP: no unit, unassigned 2
+  B:Sineaters of Damascus primary WIDE SWEEP 2 VP: Cultist Troopers 2 0.8, Cultist Troopers 0.8, Beast of Contagion 0.2, Mawkin 2 0.2
+  A:Oak of Gernika missions SECURE THE FLANKS 2 VP: Sorgin 2.0
+  B:Sineaters of Damascus missions OMNIPRESENCE 1 VP (3 withheld by the round's VP cap): Cultist Troopers 2 0.6, Beast of Contagion 0.1, Cultist Troopers 0.1, The Plague Monarch 0.1, Poxknight 0.1, Cultist Troopers 1 0.1
+Key log lines:
+  [COMMAND] Player A picks mission: KING OF THE HILL
+  [COMMAND] Player B picks mission: OMNIPRESENCE
+  [COMMAND] HQ Command: Double Time -> Etxe Riflemen 2 (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Troop Requisition -> euskal_herria:etxe_riflemen (cost 5 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers 1 (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Sorgin
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT]   Etxe Rifleman destroyed
+  [MOVEMENT] [Cultist Troopers 1] Overwatch Reaction vs Etxe Riflemen 2: 3 damage
+  [MOVEMENT]   Hellkin destroyed
+  [MOVEMENT] [Hellkin] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Hellkin] was destroyed while attempting to FALL BACK
+  [MOVEMENT]   Mawkin destroyed
+  [ACTION] Sorgin casts Sugaar's Hail on (7,8)
+  [ACTION] The Plague Monarch casts Gaze of the Abyss on Etxe Riflemen 1
+  [ACTION]   Cultist destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Sergeant destroyed
+  [ACTION]   Etxe Riflemen 1 DESTROYED in melee!
+  [ACTION]   Etxe Riflemen 1 was destroyed - no counterattack
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Poxknight destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (2/10)
+  [CLEANUP] PRIMARY WIDE SWEEP: Player B scores 2 VP (6/10)
+  [CLEANUP] MISSION COMPLETE: "SECURE THE FLANKS" -> Player A +2 VP +1 CP!
+  [CLEANUP] MISSION COMPLETE: "OMNIPRESENCE" -> Player B +1 VP!
+
+Damage leaders:
+  B:Sineaters of Damascus Mawkin 2: 46 damage, 1 kills, 28 RP, 1.64/RP
+  B:Sineaters of Damascus Beast of Contagion: 20 damage, 1 kills, 50 RP, 0.40/RP
+  A:Oak of Gernika Sugaar Gun: 17 damage, 0 kills, 35 RP, 0.49/RP
+  A:Oak of Gernika Etxe Riflemen 1: 12 damage, 0 kills, 20 RP, 0.60/RP (destroyed)
+  A:Oak of Gernika Etxe Riflemen 2: 12 damage, 0 kills, 20 RP, 0.60/RP
+  B:Sineaters of Damascus Poxknight: 12 damage, 0 kills, 38 RP, 0.32/RP
+  B:Sineaters of Damascus Mawkin 1: 9 damage, 2 kills, 28 RP, 0.32/RP
+  B:Sineaters of Damascus Cultist Troopers 1: 9 damage, 0 kills, 10 RP, 0.90/RP
+  B:Sineaters of Damascus Hellkin: 7 damage, 0 kills, 25 RP, 0.28/RP (destroyed)
+  A:Oak of Gernika Tomas Zumalakarregi: 6 damage, 0 kills, 55 RP, 0.11/RP
+  A:Oak of Gernika Basajaun Smith: 4 damage, 0 kills, 45 RP, 0.09/RP
+  B:Sineaters of Damascus Cultist Troopers: 4 damage, 0 kills, 10 RP, 0.40/RP
+  A:Oak of Gernika Foral Captain: 3 damage, 0 kills, 22 RP, 0.14/RP
+  A:Oak of Gernika Etxe Riflemen: 2 damage, 0 kills, 15 RP, 0.13/RP (destroyed)
+  B:Sineaters of Damascus Cultist Troopers 2: 1 damage, 0 kills, 10 RP, 0.10/RP
+Costs paid (HP a unit's own rules took from it):
+  B:Sineaters of Damascus Cultist Troopers 1: 4 HP
+VP contributed (fair share; objective VP that hinged on it):
+  B:Sineaters of Damascus Cultist Troopers 2: 10.1 VP (obj 7.0, primary 2.3, missions 0.7), hinged 7, 100.7/100 RP
+  A:Oak of Gernika Basajaun Smith: 7.5 VP (obj 6.0, primary 0.0, missions 1.5), hinged 6, 16.7/100 RP
+  B:Sineaters of Damascus Cultist Troopers 1: 6.0 VP (obj 5.5, primary 0.0, missions 0.5), hinged 3, 59.5/100 RP
+  B:Sineaters of Damascus Cultist Troopers: 5.7 VP (obj 3.0, primary 2.3, missions 0.4), hinged 4, 57.2/100 RP
+  B:Sineaters of Damascus Hellkin: 4.1 VP (obj 3.0, primary 0.8, missions 0.3), hinged 4, 16.3/100 RP
+  A:Oak of Gernika Sorgin: 3.5 VP (obj 1.5, primary 0.0, missions 2.0), hinged 3, 19.4/100 RP
+  B:Sineaters of Damascus Mawkin 2: 3.2 VP (obj 0.0, primary 0.2, missions 3.0), hinged 0, 11.3/100 RP
+  A:Oak of Gernika Etxe Riflemen 1: 3.0 VP (obj 3.0, primary 0.0, missions 0.0), hinged 4, 15.0/100 RP
+  B:Sineaters of Damascus Poxknight: 2.7 VP (obj 2.5, primary 0.0, missions 0.2), hinged 0, 7.1/100 RP
+  B:Sineaters of Damascus HQ: 2.4 VP (obj 0.0, primary 0.0, missions 2.4), hinged 0, -/100 RP
+  A:Oak of Gernika Etxe Riflemen 3: 1.5 VP (obj 1.5, primary 0.0, missions 0.0), hinged 3, 10.0/100 RP
+  A:Oak of Gernika HQ: 1.5 VP (obj 0.0, primary 0.0, missions 1.5), hinged 0, -/100 RP
+  B:Sineaters of Damascus The Plague Monarch: 1.2 VP (obj 1.0, primary 0.0, missions 0.2), hinged 0, 2.0/100 RP
+  A:Oak of Gernika Tomas Zumalakarregi: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 2, 1.8/100 RP
+  B:Sineaters of Damascus Beast of Contagion: 0.5 VP (obj 0.0, primary 0.3, missions 0.1), hinged 0, 0.9/100 RP
+  B:Sineaters of Damascus Mawkin 1: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 0.9/100 RP
+  A:Oak of Gernika no unit: obj 0, primary 2, missions 0
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  B:Sineaters of Damascus Poxknight: inaction 3 (3 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0/2
+  A:Oak of Gernika Foral Captain: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 0/1/1/0/0/1
+  B:Sineaters of Damascus Mawkin 1: inaction 2 (2 idle, 1 after moving, 0 Overwatch); actions 0/0/3/0/0/0
+  A:Oak of Gernika Etxe Riflemen 2: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/3/1/0/0/1
+  B:Sineaters of Damascus Cultist Troopers 1: inaction 1.5 (2 idle, 2 after moving, 2 Overwatch); actions 0/2/0/0/0/3
+  B:Sineaters of Damascus Mawkin 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/4/0/0/0
+  B:Sineaters of Damascus Beast of Contagion: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/1/2/0/0/1
+  A:Oak of Gernika Etxe Riflemen 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/3/0/0/3
+  B:Sineaters of Damascus The Plague Monarch: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/1/3/2
+  A:Oak of Gernika Tomas Zumalakarregi: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/2/0/0/4
+  A:Oak of Gernika Etxe Riflemen: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/1/0/0/0
+  A:Oak of Gernika Etxe Riflemen 3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/1/0/0/1
+  A:Oak of Gernika Sugaar Gun: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/5/0/0/0/0
+  A:Oak of Gernika Basajaun Smith: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/0/5
+  B:Sineaters of Damascus Cultist Troopers 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/2/0/0/4
+  B:Sineaters of Damascus Hellkin: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/3/0/0/4
+  A:Oak of Gernika Sorgin: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/1/0/3/3
+  B:Sineaters of Damascus Cultist Troopers: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/1/1/0/0/3
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 2
+  A:Oak of Gernika Etxe Riflemen 2: 2 of 5 moves (0 back, 2 away from an objective), 2 squares lost
+Secondary missions:
+  A:Oak of Gernika FOCUSED FIRE (+2 VP): kept R1, expired R2 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Oak of Gernika FORWARD PRESENCE (+3 VP): kept R2, active - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  A:Oak of Gernika DEEP REACH (+3 VP): kept R3, completed R3 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  A:Oak of Gernika SECURE THE FLANKS (+2 VP): kept R4, completed R5 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  A:Oak of Gernika KING OF THE HILL (+3 VP): kept R5, active - Have a friendly unit in an Objective Area destroy an enemy unit.
+  B:Sineaters of Damascus KING OF THE HILL (+3 VP): kept R1, completed R1 - Have a friendly unit in an Objective Area destroy an enemy unit.
+  B:Sineaters of Damascus PROBING STRIKE (+2 VP): kept R2, expired R3 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  B:Sineaters of Damascus STRONGPOINT (+1 VP): kept R3, completed R3 - Maintain at least 2 friendly units in an Objective Area at the end of a Battle Round.
+  B:Sineaters of Damascus DEEP REACH (+3 VP): kept R4, completed R4 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Sineaters of Damascus OMNIPRESENCE (+4 VP): kept R5, completed R5 - Maintain a minimum of 2 OC on every Objective.

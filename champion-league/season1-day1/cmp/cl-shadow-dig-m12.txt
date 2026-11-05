@@ -1,0 +1,977 @@
+Judgement of Odin (A, runeforge_directorate) vs Ghosts of Lemesos (B, infernal_congregations) on CROSSROADS, seed 460703112
+Result: B:Ghosts of Lemesos wins (VP) in round 4, VP 9 / 37
+Initiative: A:Judgement of Odin; formation order [0,1]
+Army A:Judgement of Odin (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Valkyrie - 50 RP, 1 models, 6 HP, leads Shieldmaidens, Marshal
+  Shieldmaidens - 30 RP, 3 models, 6 HP, led by Valkyrie
+  Hersir - 28 RP, 1 models, 6 HP, leads Odin's Einherjar
+  Corporaider Squad 1 - 22 RP, 5 models, 10 HP
+  Corporaider Squad 2 - 22 RP, 5 models, 10 HP
+  Odin's Einherjar - 38 RP, 3 models, 12 HP, led by Hersir
+  Runesmith - 15 RP, 1 models, 4 HP
+  Corporaider Squad 3 - 22 RP, 5 models, 10 HP
+  Grey Huskarls - 22 RP, 3 models, 6 HP
+Army B:Ghosts of Lemesos (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The High Admiral - 60 RP, 1 models, 10 HP, leads Knight of Tehom 1, Marshal
+  Knight of Tehom 1 - 34 RP, 5 models, 15 HP, led by The High Admiral
+  Knight of Tehom 2 - 34 RP, 5 models, 15 HP, led by Tide Captain
+  Evil-Eye Serpent - 52 RP, 1 models, 14 HP
+  Tide Captain - 30 RP, 1 models, 7 HP, leads Knight of Tehom 2
+  Cultist Troopers 1 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 2 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 3 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 4 - 10 RP, 10 models, 20 HP
+Primary A:Judgement of Odin: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: SILENT MANEUVER (does not fit), COORDINATED SUPPRESSION, BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 2 (count 2), R2 3 (count 3), R3 2 (count 2), R4 2 (count 2); total 9
+Primary B:Ghosts of Lemesos: IMPENETRABLE FORTRESS - From the second Battle Round, at the end of each Battle Round, score 1 VP for every 2 friendly units outside your deployment zone that are neither Below Half-Strength nor SUPPRESSED, up to 3 VP.
+  hand: GARRISON DUTY, BREAK THEIR HOLD, IMPENETRABLE FORTRESS; picked impenetrable_fortress
+  scored per round: R1 0 (count 8), R2 3 (count 7), R3 3 (count 7), R4 3 (count 7); total 9
+
+=== BATTLE ROUND 1 ===
+A:Judgement of Odin: VP +2 (obj 0, primary 2, missions 0) = 2; CP +3 -2 holds 1 [2 Double Time → Runesmith]
+B:Ghosts of Lemesos: VP +7 (obj 7, primary 0, missions 0) = 7; CP +3 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+A:Judgement of Odin keeps mission FOCUSED FIRE (offered FOCUSED FIRE / SECURE THE FLANKS)
+B:Ghosts of Lemesos keeps mission IRON CURTAIN (offered IRON CURTAIN / OMNIPRESENCE)
+Moves:
+  [MOVEMENT] A:Judgement of Odin Runesmith 9,12 -> 13,8 (advance)
+  [MOVEMENT] B:Ghosts of Lemesos Knight of Tehom 1 + The High Admiral 9,2 -> 10,4 (advance)
+  [MOVEMENT] A:Judgement of Odin Odin's Einherjar + Hersir 10,12 -> 7,9 (advance)
+  [MOVEMENT] B:Ghosts of Lemesos Knight of Tehom 2 + Tide Captain 11,2 -> 12,6 (advance)
+  [MOVEMENT] A:Judgement of Odin Grey Huskarls 7,12 -> 10,10
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 3 6,2 -> 7,6 (advance)
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 1 3,12 -> 4,10 (advance)
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 4 10,2 -> 9,5 (advance)
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 2 5,12 -> 6,8 (advance)
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 8,2 -> 5,5 (advance)
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 3 11,12 -> 8,9 (advance)
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 1 5,2 -> 4,4 (advance)
+  [MOVEMENT] A:Judgement of Odin Shieldmaidens + Valkyrie 4,12 -> 10,9 (advance)
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 2 3,2 -> 6,6 (advance)
+  [MOVEMENT] B:Ghosts of Lemesos Evil-Eye Serpent 3,1 -> 0,6 (advance)
+Combat:
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Valkyrie (no legal action), A:Shieldmaidens (no legal action), A:Hersir (no legal action), A:Corporaider Squad 1 (no legal action), A:Odin's Einherjar (no legal action), A:Corporaider Squad 3 (no legal action), A:Grey Huskarls (no legal action), B:HQ (no legal action), B:The High Admiral (no legal action), B:Knight of Tehom 1 (no legal action), B:Cultist Troopers 1 (no legal action), B:Cultist Troopers 4 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Judgement of Odin Double Time on Runesmith: nothing - gave Runesmith: MOVE +2; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] B:Ghosts of Lemesos Troop Requisition on (8,2): paid off - placed Cultist Troopers; the unit it placed made 3 attack(s), 3 HP off; the unit it placed scored 2.78 VP; the unit it placed drew 3 enemy attack(s), 8 HP
+Passive rules:
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+Scored by:
+  B:Ghosts of Lemesos objectives (7,7) 3 VP: Cultist Troopers 2 1.5, Cultist Troopers 3 1.5; hinged on Cultist Troopers 2, Cultist Troopers 3
+  B:Ghosts of Lemesos objectives (1,7) 2 VP: Evil-Eye Serpent 2.0; hinged on Evil-Eye Serpent
+  B:Ghosts of Lemesos objectives (13,7) 2 VP: Knight of Tehom 2 1.0, Tide Captain 1.0
+  A:Judgement of Odin primary BREAK THEIR HOLD 2 VP: Corporaider Squad 2 1.0, Runesmith 1.0
+Log:
+  [] Map selected: CROSSROADS (Central Faceoff)
+  [] [AI] Formation selected: ⚔ Judgement of Odin · Doctrine: None (9 units)
+  [] [AI] Formation selected: ⚔ Ghosts of Lemesos · Doctrine: None (9 units)
+  [] Valkyrie leads Shieldmaidens as its bodyguard
+  [] Hersir leads Odin's Einherjar as its bodyguard
+  [] The High Admiral leads Knight of Tehom 1 as its bodyguard
+  [] Tide Captain leads Knight of Tehom 2 as its bodyguard
+  [] Player A: HQ auto-deployed at (7,13)
+  [] Player B: HQ auto-deployed at (7,1)
+  [] Seize The Ground: 3 objectives placed
+  [] [AI] Evil-Eye Serpent deployed at (3,1)
+  [] [AI] Runesmith deployed at (9,12)
+  [] [AI] Knight of Tehom 1 deployed at (9,2)
+  [] [AI] Shieldmaidens deployed at (4,12)
+  [] [AI] Knight of Tehom 2 deployed at (11,2)
+  [] [AI] Corporaider Squad 1 deployed at (3,12)
+  [] [AI] Cultist Troopers 1 deployed at (5,2)
+  [] [AI] Corporaider Squad 2 deployed at (5,12)
+  [] [AI] Cultist Troopers 2 deployed at (3,2)
+  [] [AI] Odin's Einherjar deployed at (10,12)
+  [] [AI] Cultist Troopers 3 deployed at (6,2)
+  [] [AI] Corporaider Squad 3 deployed at (11,12)
+  [] [AI] Cultist Troopers 4 deployed at (10,2)
+  [] [AI] Grey Huskarls deployed at (7,12)
+  [COMMAND] Shieldmaidens begins the battle in the air
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] ◈ BATTLE BEGINS - MAP: CROSSROADS
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] Player A formation (10 units): HQ, Valkyrie, Shieldmaidens, Hersir, Corporaider Squad 1, Corporaider Squad 2, Odin's Einherjar, Runesmith, Corporaider Squad 3, Grey Huskarls
+  [COMMAND] Player B formation (10 units): HQ, The High Admiral, Knight of Tehom 1, Knight of Tehom 2, Evil-Eye Serpent, Tide Captain, Cultist Troopers 1, Cultist Troopers 2, Cultist Troopers 3, Cultist Troopers 4
+  [COMMAND] PRIORITY: Player A (equal units on the battlefield; won the Roll Off)
+  [COMMAND] ⚔ BATTLE ROUND 1 - BEGIN
+  [COMMAND] COMMAND PHASE
+  [COMMAND] [AI] Initialised - AI vs AI mode (both players)
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 1 - A:3 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:3 B:3
+  [COMMAND] Player A keeps a Primary Mission
+  [COMMAND] Player B keeps a Primary Mission
+  [COMMAND] Primary Missions revealed: Player A BREAK THEIR HOLD, Player B IMPENETRABLE FORTRESS
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: IRON CURTAIN
+  [COMMAND] HQ Command: Double Time -> Runesmith (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Runesmith gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [COMMAND] TROOP REQUISITION: Cultist Troopers deployed at (8,2) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] [Runesmith] Advance: Movement Dice 1, 2, 5 add 1, 6 Movement Points
+  [MOVEMENT] Runesmith Advances: +1 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Runesmith moved to (13,8)
+  [MOVEMENT] [Knight of Tehom 1] Advance: Movement Dice 1, 2, 5 add 1, 3 Movement Points
+  [MOVEMENT] Knight of Tehom 1 Advances: +1 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Knight of Tehom 1 moved to (10,4)
+  [MOVEMENT] [Odin's Einherjar] Advance: Movement Dice 1, 6, 2 add 1, 4 Movement Points
+  [MOVEMENT] Odin's Einherjar Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Odin's Einherjar moved to (7,9)
+  [MOVEMENT] [Knight of Tehom 2] Advance: Movement Dice 5, 6, 6 add 3, 5 Movement Points
+  [MOVEMENT] Knight of Tehom 2 Advances: +3 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Knight of Tehom 2 moved to (12,6)
+  [MOVEMENT] Grey Huskarls moved to (10,10)
+  [MOVEMENT] [Cultist Troopers 3] Advance: Movement Dice 6, 5, 3 add 2, 5 Movement Points
+  [MOVEMENT] Cultist Troopers 3 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Cultist Troopers 3 moved to (7,6)
+  [MOVEMENT] [Corporaider Squad 1] Advance: Movement Dice 2, 3, 1 add 0, 3 Movement Points
+  [MOVEMENT] Corporaider Squad 1 Advances: +0 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Corporaider Squad 1 moved to (4,10)
+  [MOVEMENT] [Cultist Troopers 4] Advance: Movement Dice 6, 3, 3 add 1, 4 Movement Points
+  [MOVEMENT] Cultist Troopers 4 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Cultist Troopers 4 moved to (9,5)
+  [MOVEMENT] [Corporaider Squad 2] Advance: Movement Dice 4, 4, 2 add 2, 5 Movement Points
+  [MOVEMENT] Corporaider Squad 2 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Corporaider Squad 2 moved to (6,8)
+  [MOVEMENT] [Cultist Troopers] Advance: Movement Dice 4, 1, 5 add 2, 5 Movement Points
+  [MOVEMENT] Cultist Troopers Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Cultist Troopers moved to (5,5)
+  [MOVEMENT] [Corporaider Squad 3] Advance: Movement Dice 1, 2, 5 add 1, 4 Movement Points
+  [MOVEMENT] Corporaider Squad 3 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Corporaider Squad 3 moved to (8,9)
+  [MOVEMENT] [Cultist Troopers 1] Advance: Movement Dice 1, 1, 2 add 0, 3 Movement Points
+  [MOVEMENT] Cultist Troopers 1 Advances: +0 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Cultist Troopers 1 moved to (4,4)
+  [MOVEMENT] [Shieldmaidens] Advance: Movement Dice 4, 5, 5 add 3, 8 Movement Points
+  [MOVEMENT] Shieldmaidens Advances: +3 from the Movement Dice, 8 Movement Points.
+  [MOVEMENT] Shieldmaidens moved to (10,9)
+  [MOVEMENT] [Cultist Troopers 2] Advance: Movement Dice 4, 4, 2 add 2, 5 Movement Points
+  [MOVEMENT] Cultist Troopers 2 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Cultist Troopers 2 moved to (6,6)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [Evil-Eye Serpent] Advance: Movement Dice 4, 5, 1 add 2, 7 Movement Points
+  [MOVEMENT] Evil-Eye Serpent Advances: +2 from the Movement Dice, 7 Movement Points.
+  [MOVEMENT] Evil-Eye Serpent moved to (0,6)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 20 vs 10)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 2 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 13 vs 1)
+  [CLEANUP] VP - Player A: 0 | Player B: 7
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 2 VP (2/10)
+
+=== BATTLE ROUND 2 ===
+A:Judgement of Odin: VP +3 (obj 0, primary 3, missions 0) = 5; CP +3 -1 holds 3 [1 Go to ground (reaction) for Grey Huskarls]
+  loots: +15 -3 holds 12 [1 Greed Manifestation; 2 Inscribe Rune of Gale]
+B:Ghosts of Lemesos: VP +10 (obj 7, primary 3, missions 0) = 17; CP +5 -1 holds 4 [1 Go to ground (reaction) for Knight of Tehom 1]
+  mana: +10 -0 holds 10
+A:Judgement of Odin keeps mission IRON CURTAIN (offered PUSH FORWARD / IRON CURTAIN)
+B:Ghosts of Lemesos keeps mission IRON GRIP (offered IRON GRIP / BREAK CONTACT)
+A:Judgement of Odin mission FOCUSED FIRE: expired
+B:Ghosts of Lemesos mission IRON CURTAIN: completed
+B:Ghosts of Lemesos mission IRON GRIP: completed
+Moves:
+  [MOVEMENT] A:Judgement of Odin Odin's Einherjar + Hersir 7,9 -> 8,7 (charge)
+  [MOVEMENT] A:Judgement of Odin Shieldmaidens + Valkyrie 10,9 -> 12,8
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 5,5 -> 5,6
+  [MOVEMENT] A:Judgement of Odin Grey Huskarls 10,10 -> 12,9
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 1 4,4 -> 2,6
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 3 8,9 -> 11,9
+  [MOVEMENT] B:Ghosts of Lemesos Knight of Tehom 1 + The High Admiral 10,4 -> 11,6
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 1 4,10 -> 2,8
+  [MOVEMENT] B:Ghosts of Lemesos Evil-Eye Serpent 0,6 -> 2,7 (charge)
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 2 6,8 -> 7,8
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 4 9,5 -> 8,5
+  [ACTION] A:Judgement of Odin Corporaider Squad 3 11,9 -> 11,8
+  [ACTION] A:Judgement of Odin Corporaider Squad 3 11,8 -> 11,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Judgement of Odin Corporaider Squad 2 -> Cultist Troopers: no damage
+  [MOVEMENT] ranged (Overwatch): A:Judgement of Odin Corporaider Squad 3 -> Cultist Troopers: Cultist Troopers -6
+  [MOVEMENT] ranged (Overwatch): B:Ghosts of Lemesos Knight of Tehom 2 -> Grey Huskarls: Grey Huskarls -2
+  [MOVEMENT] ranged (Overwatch): A:Judgement of Odin Shieldmaidens -> Knight of Tehom 1: no damage
+  [MOVEMENT] ranged (Overwatch): A:Judgement of Odin Runesmith -> Knight of Tehom 1: no damage
+  [MOVEMENT] ranged (Overwatch): A:Judgement of Odin Grey Huskarls -> Knight of Tehom 1: no damage
+  [MOVEMENT] ranged (Overwatch): B:Ghosts of Lemesos Evil-Eye Serpent -> Corporaider Squad 1: no damage
+  [MOVEMENT] ranged (Overwatch): B:Ghosts of Lemesos Cultist Troopers 1 -> Corporaider Squad 1: Corporaider Squad 1 -2; cost paid: Cultist Troopers 1 -3 (DESPERATE WORSHIP)
+  [MOVEMENT] ranged (Overwatch): B:Ghosts of Lemesos Cultist Troopers 2 -> Corporaider Squad 2: Corporaider Squad 2 -1
+  [ACTION] melee: A:Judgement of Odin Hersir -> Cultist Troopers 3: Cultist Troopers 3 -6
+  [ACTION] ability (GET OVER HERE): B:Ghosts of Lemesos Knight of Tehom 2 -> Corporaider Squad 3: Corporaider Squad 3 -2
+  [ACTION] melee: A:Judgement of Odin Odin's Einherjar -> Cultist Troopers 3: Cultist Troopers 3 -12
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers 2 -> Corporaider Squad 2: Corporaider Squad 2 -2; cost paid: Cultist Troopers 2 -1 (DESPERATE WORSHIP)
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers 1 -> Corporaider Squad 2: Corporaider Squad 2 -7 DESTROYED; cost paid: Cultist Troopers 1 -1 (DESPERATE WORSHIP)
+  [ACTION] melee: B:Ghosts of Lemesos Evil-Eye Serpent -> Corporaider Squad 1: Corporaider Squad 1 -2
+  [ACTION] melee: B:Ghosts of Lemesos The High Admiral -> Corporaider Squad 3: Corporaider Squad 3 -4
+  [ACTION] melee: B:Ghosts of Lemesos Tide Captain -> Corporaider Squad 3: no damage
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers 4 -> Shieldmaidens: Shieldmaidens -2; cost paid: Cultist Troopers 4 -3 (DESPERATE WORSHIP)
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers -> Shieldmaidens: Shieldmaidens -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Grey Huskarls (best: ability Spot & Mark on The High Admiral, 0), B:HQ (no legal action)
+Moves undone:
+  A:Judgement of Odin Corporaider Squad 3: R1 MOVEMENT 11,12 -> 8,9, R2 MOVEMENT -> 11,9 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [MOVEMENT] A:Judgement of Odin Go to Ground on Grey Huskarls: paid off - 1 attack(s) it touched: +1 expected HP for its side
+  [MOVEMENT] B:Ghosts of Lemesos Go to Ground on Knight of Tehom 1: paid off - 1 attack(s) it touched: +0.33 expected HP for its side
+  [MOVEMENT] B:Ghosts of Lemesos Desperate Worship on Corporaider Squad 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [MOVEMENT] B:Ghosts of Lemesos Desperate Worship on Corporaider Squad 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Judgement of Odin Greed Manifestation: paid off - gave Hersir: weapon AR +1; 1 attack(s) it touched: +1.94 expected HP for its side
+  [ACTION] B:Ghosts of Lemesos Get Over Here! on Corporaider Squad 3: paid off - its effect took 2 HP off enemies
+  [ACTION] A:Judgement of Odin Chooser of the Slain on Knight of Tehom 2: nothing - marked Knight of Tehom 2 (marked for reroll hit), Tide Captain (marked for reroll hit)
+  [ACTION] B:Ghosts of Lemesos Get Over Here! on Corporaider Squad 3: nothing - no change
+  [ACTION] B:Ghosts of Lemesos Desperate Worship on Corporaider Squad 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Judgement of Odin Inscribe on Valkyrie: paid off - gave Valkyrie: weapon AR +1; Shieldmaidens: weapon AR +1; 10 attack(s) it touched: +1.66 expected HP for its side
+  [ACTION] B:Ghosts of Lemesos Desperate Worship on Corporaider Squad 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Judgement of Odin Plunder: paid off - 2 loots gained
+  [ACTION] A:Judgement of Odin Plunder: paid off - 1 loots gained
+  [ACTION] B:Ghosts of Lemesos Desperate Worship on Shieldmaidens: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Runewreathed Acquisitors (Corporaider Squad 2): 9 attacks, 4.07 expected HP for its side
+  Master Artificer (Runesmith): 1 attack, 0.18 expected HP for its side
+  Rune of Arrow Protection (Corporaider Squad 1): 5 attacks, 4.97 expected HP for its side
+  Profane Zeal (Cultist Troopers 1): 2 attacks, 1.02 expected HP for its side
+  Rune of Martial Prowess (Hersir): 1 attack, 1.17 expected HP for its side
+  Kara's Song (Valkyrie): 2 attacks, 1.3 expected HP for its side
+  Leviathan-Scale Cuirass (The High Admiral): 1 attack, 0.57 expected HP for its side
+  Relic Hunter (Tide Captain): 1 attack, 1.07 expected HP for its side
+  Svinfylking (Odin's Einherjar): fired 1 time (grant_move)
+  Tithe of Torment (Cultist Troopers): fired 3 times (add_resource)
+  Tithe of Torment (Cultist Troopers 1): fired 4 times (add_resource)
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+  Tithe of Torment (Cultist Troopers 3): fired 9 times (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 1 time (add_resource)
+  Tithe of Torment (Cultist Troopers 4): fired 3 times (add_resource)
+Scored by:
+  B:Ghosts of Lemesos objectives (7,7) 3 VP: Cultist Troopers 2 3.0; hinged on Cultist Troopers 2
+  B:Ghosts of Lemesos objectives (1,7) 2 VP: Cultist Troopers 1 2.0; hinged on Cultist Troopers 1
+  B:Ghosts of Lemesos objectives (13,7) 2 VP: Knight of Tehom 2 1.0, Tide Captain 1.0
+  A:Judgement of Odin primary BREAK THEIR HOLD 3 VP: Corporaider Squad 1 1.0, Hersir 0.5, Odin's Einherjar 0.5, Valkyrie 0.3, Shieldmaidens 0.3, Runesmith 0.3
+  B:Ghosts of Lemesos primary IMPENETRABLE FORTRESS 3 VP: Evil-Eye Serpent 0.4, Cultist Troopers 1 0.4, Cultist Troopers 2 0.4, Cultist Troopers 4 0.4, Cultist Troopers 0.4, The High Admiral 0.2, Knight of Tehom 1 0.2, Knight of Tehom 2 0.2, Tide Captain 0.2
+Log:
+  [CLEANUP] ═══ ROUND 2 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 8 to 9)
+  [CLEANUP] BATTLE ROUND 2 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 2 - A:4 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:4 B:3
+  [COMMAND] Player A picks mission: IRON CURTAIN
+  [COMMAND] Player B picks mission: IRON GRIP
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Odin's Einherjar moved to (8,7)
+  [MOVEMENT] Odin's Einherjar Charges Cultist Troopers 3
+  [MOVEMENT] [Odin's Einherjar] SVINFYLKING: 4 unit(s) may move
+  [MOVEMENT] Shieldmaidens moved to (12,8)
+  [MOVEMENT] [Shieldmaidens] SVINFYLKING: moved to (12,8)
+  [MOVEMENT] Cultist Troopers moved to (5,6)
+  [MOVEMENT] 4x Runerifle (Corporaider) HIT vs Cultist Troopers (FR 8): [3✗][2✗][4✗][5✗][(1→)1✗][3✗][2✗][(1→)5✗] → 0/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] 1x Runerifle (Corporaider Sergeant) HIT vs Cultist Troopers (FR 2): [(1→)5✗][2✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Corporaider Squad 2] Overwatch Reaction vs Cultist Troopers: no damage
+  [MOVEMENT] 4x Runerifle (Corporaider) HIT vs Cultist Troopers (FR 8): [(1→)1✗][5✗][5✗][4✗][(1→)2✗][6✓][5✗][3✗] → 1/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player B +2 (2 total) - TITHE OF TORMENT
+  [MOVEMENT] Loots: Player A +1 (1 total) - enemy model destroyed
+  [MOVEMENT]   Cultist Troopers SAVE roll: 5 (needs 6+) => FAILED
+  [MOVEMENT]   Cultist Troopers takes 2 damage (20 → 18)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] 1x Runerifle (Corporaider Sergeant) HIT vs Cultist Troopers (FR 2): [6✓][(1→)6✓] → 2/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player B +2 (4 total) - TITHE OF TORMENT
+  [MOVEMENT] Loots: Player A +1 (2 total) - enemy model destroyed
+  [MOVEMENT] Mana: Player B +2 (6 total) - TITHE OF TORMENT
+  [MOVEMENT] Loots: Player A +1 (3 total) - enemy model destroyed
+  [MOVEMENT]   Cultist Troopers SAVE (2 dice): [5✗][5✗] → 0/2 saved (needs 6+)
+  [MOVEMENT]   Cultist Troopers takes 4 damage (18 → 14)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] [Corporaider Squad 3] Overwatch Reaction vs Cultist Troopers: 6 damage
+  [MOVEMENT] Grey Huskarls moved to (12,9)
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Grey Huskarls
+  [MOVEMENT] 5x Boarding Anchor (Thrown) (Knight of Tehom Boatswain) HIT vs Grey Huskarls (FR 5): [5✗][6✓][5✗][5✗][3✗] → 1/5 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Grey Huskarls SAVE roll: 2 (needs 5+) => FAILED
+  [MOVEMENT]   Grey Huskarls takes 2 damage (6 → 4)
+  [MOVEMENT]   Grey Huskarl destroyed
+  [MOVEMENT] [Knight of Tehom 2] Overwatch Reaction vs Grey Huskarls: 2 damage
+  [MOVEMENT] Cultist Troopers 1 moved to (2,6)
+  [MOVEMENT] Corporaider Squad 3 moved to (11,9)
+  [MOVEMENT] Knight of Tehom 1 moved to (11,6)
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Knight of Tehom 1
+  [MOVEMENT] 3x Rune-Shotgun (Shieldmaiden) HIT vs Knight of Tehom 1 (FR 9): [3✗][(1→)4✗][(1→)1✗][4✗][2✗][6✓][6✓][6✓][2✗] → 3/9 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Knight of Tehom 1 SAVE (3 dice): [5✓][4✓][(1→)6✓] → 3/3 saved (needs 3+)
+  [MOVEMENT] [Shieldmaidens] Overwatch Reaction vs Knight of Tehom 1: no damage
+  [MOVEMENT] 1x Runeblaster (Runesmith) HIT vs Knight of Tehom 1 roll: 3 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Runesmith] Overwatch Reaction vs Knight of Tehom 1: no damage
+  [MOVEMENT] 1x Greyfang Rifle (Grey Huskarl Pack Leader) HIT vs Knight of Tehom 1 roll: 6 (1→rerolled 6) (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => HIT
+  [MOVEMENT]   Knight of Tehom 1 SAVE roll: 5 (3 (+1 from AP) = 4+) => SAVED
+  [MOVEMENT] [Grey Huskarls] Overwatch Reaction vs Knight of Tehom 1: no damage
+  [MOVEMENT] Corporaider Squad 1 moved to (2,8)
+  [MOVEMENT] 1x Gaze of Invidia (Evil-Eye Serpent) HIT vs Corporaider Squad 1 roll: 5 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Evil-Eye Serpent] Overwatch Reaction vs Corporaider Squad 1: no damage
+  [MOVEMENT] Cultist Troopers 1 DESPERATE WORSHIP (4+): 4 = 4 - PASSED
+  [MOVEMENT] Mana: Player B +1 (7 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player B +1 (8 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] Mana: Player B +1 (9 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 1 SAVES (slow roll): [no save→Cultist][no save→Cultist][no save→Cultist] → 0/3 saved, 1 models killed
+  [MOVEMENT]   Cultist Troopers 1 DESPERATE WORSHIP: passed the gamble for +1 FR, suffers 3 absolute damage
+  [MOVEMENT] 8x Renegade Bolt-Action Rifle (Cultist) SUSTAINED ATTACK 1: 6 extra dice from 6 critical hits
+  [MOVEMENT] 8x Renegade Bolt-Action Rifle (Cultist) HIT vs Corporaider Squad 1 (FR 24): [2✗][4✗][4✗][2✗][3✗][6✓][3✗][1✗][5✗][2✗][6✓][1✗][5✗][6✓][4✗][5✗][6✓][2✗][2✗][6✓][6✓][5✗][5✗][2✗][1✗][3✗][4✗][4✗][4✗][5✗] → 6/24 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Corporaider Squad 1 SAVE (6 dice): [2✗][4✓][5✓][5✓][4✓][3✗] → 4/6 saved (needs 4+)
+  [MOVEMENT]   Corporaider Squad 1 takes 2 damage (10 → 8)
+  [MOVEMENT]   Corporaider Squad 1 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT]   Corporaider Squad 1 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT]   Corporaider Squad 1 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT]   Corporaider Squad 1 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT]   Corporaider Squad 1 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT]   Corporaider Squad 1 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT]   Corporaider destroyed
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Corporaider Squad 1 (FR 3): [6✓][2✗][5✗][4✗] → 1/3 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Corporaider Squad 1 SAVE roll: 6 (needs 4+) => SAVED
+  [MOVEMENT]   Corporaider Squad 1 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT] [Cultist Troopers 1] Overwatch Reaction vs Corporaider Squad 1: 2 damage
+  [MOVEMENT] Evil-Eye Serpent moved to (2,7)
+  [MOVEMENT] Evil-Eye Serpent Charges Corporaider Squad 1
+  [MOVEMENT] Corporaider Squad 2 moved to (7,8)
+  [MOVEMENT] Cultist Troopers 2 DESPERATE WORSHIP (4+): 3 = 3 - FAILED
+  [MOVEMENT] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Corporaider Squad 2 (FR 18): [2✗][4✗][4✗][4✗][5✗][2✗][2✗][4✗][3✗][4✗][1✗][5✗][3✗][2✗][6✓][1✗][6✓][4✗] → 2/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Corporaider Squad 2 SAVE (2 dice): [4✓][2✗] → 1/2 saved (needs 4+)
+  [MOVEMENT]   Corporaider Squad 2 takes 1 damage (10 → 9)
+  [MOVEMENT]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Corporaider Squad 2 (FR 2): [2✗][6✓] → 1/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Corporaider Squad 2 SAVE roll: 6 (needs 4+) => SAVED
+  [MOVEMENT]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [MOVEMENT] [Cultist Troopers 2] Overwatch Reaction vs Corporaider Squad 2: 1 damage
+  [MOVEMENT] Cultist Troopers 4 moved to (8,5)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Hersir uses Greed Manifestation!
+  [ACTION] Hersir GREED MANIFESTATION: Spend 1 Loots token. Until the end of the next Battle Round, this unit's melee weapons gain +1 AR.
+  [ACTION] Loots: Player A -1 (2 total) - Greed Manifestation
+  [ACTION] Hersir attacks in melee with 1 combat group
+  [ACTION] Hersir engages Cultist Troopers 3 in melee combat
+  [ACTION] Mana: Player B +1 (10 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (3 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (4 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (5 total) - enemy model destroyed
+  [ACTION]   Hersir (Great Runeaxe) MELEE vs Cultist Troopers 3 (AR 3): [↻5✓][4✓][4✓] → 3 hits [MS 7]
+  [ACTION]   Cultist Troopers 3: 6 damage (20 → 14)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 3: CHILLED
+  [ACTION]   Cultist Troopers 3 holds - no counterattack
+  [ACTION] Knight of Tehom 2 uses Get Over Here!!
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 3 SAVES (slow roll): [3✗@5+→Corporaider][4✗@5+→Corporaider][6✓@5+→Corporaider] → 1/3 saved, 1 models killed
+  [ACTION] Knight of Tehom 2 GET OVER HERE!: Target 1 enemy unit. That target moves up to 2 Movement Points along the straight line toward this unit; it may end adjacent, but this is not a Charge. If it cannot spend all 2 Movement Points, it suffers 1D3 Impact Damage.
+  [ACTION] Valkyrie uses Chooser of the Slain!
+  [ACTION] [Valkyrie] HIT REROLL MARK: friendly attacks may reroll failed HIT rolls against Knight of Tehom 2 until end of this Battle Round
+  [ACTION] Valkyrie CHOOSER OF THE SLAIN: Target 1 enemy unit within 5 squares of this unit. Until the end of the Battle Round, friendly Runeforge Directorate units may reroll failed HIT rolls against that target.
+  [ACTION] Knight of Tehom 1 uses Get Over Here!!
+  [ACTION] [Knight of Tehom 1] GET OVER HERE: Corporaider Squad 3 dragged to (11,7)
+  [ACTION] Knight of Tehom 1 GET OVER HERE!: Target 1 enemy unit. That target moves up to 2 Movement Points along the straight line toward this unit; it may end adjacent, but this is not a Charge. If it cannot spend all 2 Movement Points, it suffers 1D3 Impact Damage.
+  [ACTION] Odin's Einherjar attacks in melee with 1 combat group
+  [ACTION] Odin's Einherjar engages Cultist Troopers 3 in melee combat
+  [ACTION]   Initiative: Odin's Einherjar (INI 8, +3 charge) → Cultist Troopers 3 (INI 3)
+  [ACTION] Loots: Player A +1 (6 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (7 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (8 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (9 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (10 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (11 total) - enemy model destroyed
+  [ACTION]   Odin's Einherjar (3x Master Runeaxe) MELEE vs Cultist Troopers 3 (AR 6): [5✓][5✓][5✓][3✓][3✓][2✓] → 6 hits [MS 7]
+  [ACTION]   Cultist Troopers 3: 12 damage (14 → 2)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 3 counterattacks
+  [ACTION]   Cultist Troopers 3 spends 1 APt to counterattack
+  [ACTION]   Cultist Troopers 3 (Renegade Bayonet) MELEE vs Odin's Einherjar (AR 1): [4✗] → 0 hits [MS 3]
+  [ACTION] Cultist Troopers 2 opens fire with 2 combat groups
+  [ACTION] Cultist Troopers 2 DESPERATE WORSHIP (4+): 6 = 6 (natural 6) - PASSED
+  [ACTION]   Cultist Troopers 2 SAVES (slow roll): [no save→Cultist] → 0/1 saved, 0 models killed
+  [ACTION]   Cultist Troopers 2 DESPERATE WORSHIP: passed the gamble for +1 FR, suffers 1 absolute damage
+  [ACTION] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Corporaider Squad 2 (FR 27): [4✗][2✗][2✗][4✗][1✗][4✗][5✓][3✗][1✗][4✗][2✗][3✗][1✗][2✗][2✗][4✗][6✓][2✗][1✗][3✗][4✗][1✗][1✗][1✗][3✗][6✓][6✓] → 4/27 hits (needs 5+)
+  [ACTION]   Corporaider Squad 2 SAVE (4 dice): [1✗][6✓][1✗][6✓] → 2/4 saved (needs 4+)
+  [ACTION]   Corporaider Squad 2 takes 2 damage (9 → 7)
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Corporaider Squad 2 (FR 3): [4✗][4✗][1✗] → 0/3 hits (needs 5+)
+  [ACTION] Runesmith uses Inscribe!
+  [ACTION] Loots: Player A -2 (9 total) - Inscribe Rune of Gale
+  [ACTION] Runesmith inscribes Rune of Gale on Valkyrie
+  [ACTION] Runesmith INSCRIBE: Target 1 adjacent friendly unit with an empty Rune Slot. Select a Rune from the available list and spend its Loots cost to inscribe it on the target. If the target contains an attached CHARACTER, both the CHARACTER and its bodyguard unit receive the Rune.
+  [ACTION] Cultist Troopers 1 opens fire with 2 combat groups
+  [ACTION] Cultist Troopers 1 DESPERATE WORSHIP (4+): 6 = 6 (natural 6) - PASSED
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 1 SAVES (slow roll): [no save→Cultist] → 0/1 saved, 1 models killed
+  [ACTION]   Cultist Troopers 1 DESPERATE WORSHIP: passed the gamble for +1 FR, suffers 1 absolute damage
+  [ACTION] 7x Renegade Bolt-Action Rifle (Cultist) SUSTAINED ATTACK 1: 2 extra dice from 2 critical hits
+  [ACTION] 7x Renegade Bolt-Action Rifle (Cultist) HIT vs Corporaider Squad 2 (FR 21): [5✓][5✓][5✓][5✓][1✗][5✓][5✓][3✗][2✗][2✗][4✗][2✗][2✗][6✓][1✗][5✓][3✗][1✗][5✓][6✓][5✓][5✓][3✗] → 12/21 hits (needs 5+)
+  [ACTION]   Corporaider Squad 2 SAVE (12 dice): [1✗][3✗][5✓][6✓][4✓][4✓][3✗][5✓][5✓][5✓][2✗][5✓] → 8/12 saved (needs 4+)
+  [ACTION]   Corporaider Squad 2 takes 4 damage (7 → 3)
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) SUSTAINED ATTACK 1: 2 extra dice from 2 critical hits
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Corporaider Squad 2 (FR 3): [6✓][5✓][6✓][5✓][3✗] → 4/3 hits (needs 5+)
+  [ACTION]   Corporaider Squad 2 SAVE (4 dice): [1✗][1✗][2✗][3✗] → 0/4 saved (needs 4+)
+  [ACTION]   Corporaider Squad 2 takes 3 damage (3 → 0)
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Sergeant destroyed
+  [ACTION]   Corporaider Squad 2 has lost its leader - LEADERLESS
+  [ACTION]   Corporaider Squad 2 INVULNERABLE SAVE: using 4+ save
+  [ACTION]   Corporaider Squad 2 DESTROYED
+  [ACTION] Corporaider Squad 1 uses Plunder!
+  [ACTION] Loots: Player A +2 (11 total) - Plunder
+  [ACTION] Corporaider Squad 1 PLUNDER: Spend 1 APt while this unit is in an Objective Area. Gain 1 Loots token.
+  [ACTION] Evil-Eye Serpent attacks in melee with 1 combat group
+  [ACTION] Evil-Eye Serpent engages Corporaider Squad 1 in melee combat
+  [ACTION]   Evil-Eye Serpent (Serpent Coils) MELEE vs Corporaider Squad 1 (AR 3): [6✓][1✗][1✗] → 1 hits [MS 6]
+  [ACTION]   Corporaider Squad 1: 2 damage (8 → 6)
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 1 has no APt left - no counterattack
+  [ACTION] Shieldmaidens uses Plunder!
+  [ACTION] Loots: Player A +1 (12 total) - Plunder
+  [ACTION] Shieldmaidens PLUNDER: Spend 1 APt while this unit is in an Objective Area. Gain 1 Loots token.
+  [ACTION] The High Admiral attacks in melee with 1 combat group
+  [ACTION] The High Admiral engages Corporaider Squad 3 in melee combat
+  [ACTION]   Initiative: The High Admiral (INI 6) → Corporaider Squad 3 (INI 5)
+  [ACTION]   The High Admiral (Glaive of Sunken Spite) MELEE vs Corporaider Squad 3 (AR 3): [6✓][4✓][1✗] → 2 hits [MS 6]
+  [ACTION]   Corporaider Squad 3: 4 damage (8 → 4)
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 3 counterattacks
+  [ACTION]   Corporaider Squad 3 spends 1 APt to counterattack
+  [ACTION]   Corporaider Squad 3 (Runeaxe) MELEE vs The High Admiral (AR 2): [3✗][2✗] → 0 hits [MS 5]
+  [ACTION]   Corporaider Squad 3 (Runeaxe) MELEE vs The High Admiral (AR 2): [6✓][3✗] → 1 hits [MS 5]
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Tide Captain attacks in melee with 1 combat group
+  [ACTION] Tide Captain engages Corporaider Squad 3 in melee combat
+  [ACTION]   Tide Captain (Whale Harpoon) MELEE vs Corporaider Squad 3 (AR 2): [3✓][1✗] → 1 hits [MS 6]
+  [ACTION]   Corporaider Squad 3 has no APt left - no counterattack
+  [ACTION] Cultist Troopers 4 opens fire with 2 combat groups
+  [ACTION] Cultist Troopers 4 DESPERATE WORSHIP (4+): 4 = 4 - PASSED
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 4 SAVES (slow roll): [no save→Cultist][no save→Cultist][no save→Cultist] → 0/3 saved, 1 models killed
+  [ACTION]   Cultist Troopers 4 DESPERATE WORSHIP: passed the gamble for +1 FR, suffers 3 absolute damage
+  [ACTION] 8x Renegade Bolt-Action Rifle (Cultist) HIT vs Shieldmaidens (FR 24): [1✗][1✗][5✗][4✗][1✗][2✗][6✓][4✗][6✓][4✗][4✗][3✗][3✗][3✗][6✓][5✗][6✓][6✓][2✗][1✗][1✗][3✗][4✗][1✗] → 5/24 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION]   Shieldmaidens SAVE (5 dice): [6✓][3✗][4✓][4✓][(1→)3✗] → 3/5 saved (needs 4+)
+  [ACTION]   Shieldmaidens takes 2 damage (6 → 4)
+  [ACTION]   Shieldmaiden destroyed
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Shieldmaidens (FR 3): [1✗][3✗][6✓] → 1/3 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION]   Shieldmaidens SAVE roll: 4 (needs 4+) => SAVED
+  [ACTION] Cultist Troopers opens fire with 2 combat groups
+  [ACTION] 6x Renegade Bolt-Action Rifle (Cultist) HIT vs Shieldmaidens (FR 12): [6✓][6✓][1✗][1✗][2✗][5✗][5✗][2✗][3✗][2✗][6✓][5✗] → 3/12 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION]   Shieldmaidens SAVE (3 dice): [6✓][2✗][2✗] → 1/3 saved (needs 4+)
+  [ACTION]   Shieldmaidens takes 2 damage (4 → 2)
+  [ACTION]   Shieldmaiden destroyed
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Shieldmaidens (FR 2): [1✗][5✗] → 0/2 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 11 vs 7)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 10 vs 6)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 13 vs 1)
+  [CLEANUP] VP - Player A: 2 | Player B: 14
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (5/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (3/10)
+  [CLEANUP] VP CAP: Player B MISSION IRON GRIP - 2 of 2 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player B +0 VP +1 CP!
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R2)
+  [CLEANUP] VP CAP: Player B MISSION IRON CURTAIN - 2 of 2 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "IRON CURTAIN" -> Player B +0 VP +1 CP!
+
+=== BATTLE ROUND 3 ===
+A:Judgement of Odin: VP +2 (obj 0, primary 2, missions 0) = 7; CP +3 -3 holds 3 [2 Rally cry (reaction) for Shieldmaidens; 1 Go to ground (reaction) for Shieldmaidens]
+  loots: +4 -0 holds 16
+B:Ghosts of Lemesos: VP +10 (obj 7, primary 3, missions 0) = 27; CP +3 -5 holds 2 [2 Rally cry (reaction) for Cultist Troopers 3; 3 Countercharge (reaction) for Knight of Tehom 2]
+  mana: +10 -2 holds 18 [2 Cast Gaze of the Abyss]
+A:Judgement of Odin keeps mission TERRITORIAL SUPERIORITY (offered TERRITORIAL SUPERIORITY / INTO THE FRAY)
+B:Ghosts of Lemesos keeps mission OBJECTIVE RELAY (offered BAR THE GATES / OBJECTIVE RELAY)
+A:Judgement of Odin mission IRON CURTAIN: expired
+Moves:
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 3 11,7 -> 8,8
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 5,6 -> 6,8
+  [MOVEMENT] A:Judgement of Odin Shieldmaidens + Valkyrie 12,8 -> 7,8
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 4 8,5 -> 6,7
+  [MOVEMENT] A:Judgement of Odin Grey Huskarls 12,9 -> 9,8
+  [MOVEMENT] B:Ghosts of Lemesos Knight of Tehom 1 + The High Admiral 11,6 -> 12,7 (charge)
+  [MOVEMENT] A:Judgement of Odin Runesmith 13,8 -> 13,11
+  [MOVEMENT] B:Ghosts of Lemesos Cultist Troopers 3 7,6 -> 5,6
+  [MOVEMENT] B:Ghosts of Lemesos Knight of Tehom 2 + Tide Captain 12,6 -> 9,7 (charge)
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Corporaider Squad 3: Corporaider Squad 3 -2, Runesmith -3
+  [ACTION] magic (Gaze of the Abyss): B:Ghosts of Lemesos The High Admiral -> Odin's Einherjar: no damage
+  [ACTION] ability (GET OVER HERE): B:Ghosts of Lemesos Knight of Tehom 1 -> Shieldmaidens: no damage
+  [ACTION] ranged: A:Judgement of Odin Shieldmaidens -> Cultist Troopers: Cultist Troopers -2
+  [ACTION] melee: B:Ghosts of Lemesos Evil-Eye Serpent -> Corporaider Squad 1: Corporaider Squad 1 -4, Evil-Eye Serpent -2
+  [ACTION] melee: A:Judgement of Odin Odin's Einherjar -> Knight of Tehom 2: Knight of Tehom 2 -9
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers 2 -> Shieldmaidens: Shieldmaidens -2 DESTROYED
+  [ACTION] melee: A:Judgement of Odin Grey Huskarls -> Tide Captain: no damage
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers 1 -> Valkyrie: no damage
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers 4 -> Valkyrie: no damage
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers -> Valkyrie: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Moves undone:
+  A:Judgement of Odin Shieldmaidens: R2 MOVEMENT 10,9 -> 12,8, R3 MOVEMENT -> 7,8 (toward the objective at 13,7, then away, 2 squares lost)
+  A:Judgement of Odin Grey Huskarls: R2 MOVEMENT 10,10 -> 12,9, R3 MOVEMENT -> 9,8 (toward the objective at 13,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] A:Judgement of Odin Rally Cry on Shieldmaidens: paid off - passed 1 Morale Test(s) outright
+  [COMMAND] B:Ghosts of Lemesos Rally Cry on Cultist Troopers 3: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] B:Ghosts of Lemesos Countercharge on Knight of Tehom 2: paid off - canceled the CHARGE of Odin's Einherjar
+  [ACTION] A:Judgement of Odin Mark of Acquisition on Knight of Tehom 2: paid off - marked Knight of Tehom 2 (marked for acquisition), Tide Captain (marked for acquisition); 2 attack(s) it touched: +6.47 expected HP for its side
+  [ACTION] B:Ghosts of Lemesos Gaze of the Abyss on Odin's Einherjar: paid off - gave Hersir: MS -1, BS -1; Odin's Einherjar: MS -1, BS -1; 5 attack(s) it touched: +4.26 expected HP for its side
+  [ACTION] A:Judgement of Odin Chooser of the Slain on Tide Captain: paid off - marked Knight of Tehom 2 (marked for reroll hit), Tide Captain (marked for reroll hit); 2 attack(s) it touched: +3.86 expected HP for its side
+  [ACTION] B:Ghosts of Lemesos Get Over Here! on Shieldmaidens: nothing - no change
+  [ACTION] B:Ghosts of Lemesos Desperate Worship on Shieldmaidens: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Judgement of Odin Go to Ground on Shieldmaidens: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Runewreathed Acquisitors (Corporaider Squad 1): 7 attacks, 1.84 expected HP for its side
+  Kara's Song (Valkyrie): 2 attacks, 2.07 expected HP for its side
+  Invidious Gaze (Tide Captain): 1 attack, 0.54 expected HP for its side
+  Kraken-Hide Diving Armor (Tide Captain): 1 attack, 0.61 expected HP for its side
+  Profane Zeal (Cultist Troopers 1): 1 attack, 0.05 expected HP for its side
+  Rune of Brynhildr (Valkyrie): 3 attacks, 0.9 expected HP for its side
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+  Tithe of Torment (Cultist Troopers): fired 1 time (add_resource)
+  Tithe of Torment (Knight of Tehom 2): fired 3 times (add_resource)
+  EVASION (Valkyrie, 4+): 6 of 7 hits turned away
+Scored by:
+  B:Ghosts of Lemesos objectives (7,7) 3 VP: Cultist Troopers 2 2.0, Cultist Troopers 4 0.5, Cultist Troopers 0.5
+  B:Ghosts of Lemesos objectives (1,7) 2 VP: Cultist Troopers 1 2.0; hinged on Cultist Troopers 1
+  B:Ghosts of Lemesos objectives (13,7) 2 VP: The High Admiral 1.0, Knight of Tehom 1 1.0
+  A:Judgement of Odin primary BREAK THEIR HOLD 2 VP: Corporaider Squad 1 1.0, Valkyrie 0.3, Hersir 0.3, Odin's Einherjar 0.3, Corporaider Squad 3 0.3
+  B:Ghosts of Lemesos primary IMPENETRABLE FORTRESS 3 VP: Evil-Eye Serpent 0.4, Tide Captain 0.4, Cultist Troopers 1 0.4, Cultist Troopers 2 0.4, Cultist Troopers 4 0.4, Cultist Troopers 0.4, The High Admiral 0.2, Knight of Tehom 1 0.2
+Log:
+  [CLEANUP] ═══ ROUND 3 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 7 to 9)
+  [CLEANUP] BATTLE ROUND 3 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] [The High Admiral] COVETOUS RAIDER: borrows Rune of Arrow Protection from Corporaider Squad 3 until end of Battle Round
+  [COMMAND] COMMAND PHASE - Round 3 - A:6 CP, B:7 CP
+  [COMMAND] Command Phase: CP A:6 B:7
+  [COMMAND] Player A picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] Player B picks mission: OBJECTIVE RELAY
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Shieldmaidens
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Cultist Troopers 3
+  [COMMAND] Shieldmaidens Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Corporaider Squad 3 Morale Test (4+): 4 = 4 - PASSED
+  [COMMAND] Cultist Troopers 3 Morale Test - PASSED (RALLY CRY)
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] [Corporaider Squad 3] FALL BACK TEST: INI 5 against 6 (-1), needs 6+, rolled 3 - FAILED
+  [MOVEMENT]   Corporaider destroyed
+  [MOVEMENT]   Corporaider Squad 3 SAVES (slow roll): [no save→Corporaider][no save→Corporaider] → 0/2 saved, 1 models killed
+  [MOVEMENT] [Corporaider Squad 3] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] Corporaider Squad 3 moved to (8,8)
+  [MOVEMENT] [Corporaider Squad 3] Fall Back to (8,8)
+  [MOVEMENT] Cultist Troopers moved to (6,8)
+  [MOVEMENT] Shieldmaidens moved to (7,8)
+  [MOVEMENT] Cultist Troopers 4 moved to (6,7)
+  [MOVEMENT] Grey Huskarls moved to (9,8)
+  [MOVEMENT] Knight of Tehom 1 moved to (12,7)
+  [MOVEMENT] Knight of Tehom 1 Charges Runesmith
+  [MOVEMENT] [Runesmith] FALL BACK TEST: INI 3 against 6, needs 5+, rolled 4 - FAILED
+  [MOVEMENT]   Runesmith SAVES (slow roll): [no save→Runesmith][no save→Runesmith][no save→Runesmith] → 0/3 saved, 0 models killed
+  [MOVEMENT] [Runesmith] breaks away in disorder: 3 True Damage, 3 HP lost
+  [MOVEMENT] Runesmith moved to (13,11)
+  [MOVEMENT] [Runesmith] Fall Back to (13,11)
+  [MOVEMENT] [Cultist Troopers 3] FALL BACK TEST: INI 3 against 5, needs 5+, rolled 5 - breaks away
+  [MOVEMENT] Cultist Troopers 3 moved to (5,6)
+  [MOVEMENT] [Cultist Troopers 3] Fall Back to (5,6)
+  [MOVEMENT] REACTION COMMAND: COUNTERCHARGE via HQ (cost 3 CP) - Knight of Tehom 2
+  [MOVEMENT] Knight of Tehom 2 COUNTERCHARGES Odin's Einherjar
+  [MOVEMENT] Knight of Tehom 2 moved to (9,7)
+  [MOVEMENT] Knight of Tehom 2 Charges Hersir, Odin's Einherjar, Corporaider Squad 3, Grey Huskarls
+  [MOVEMENT] Odin's Einherjar's Charge is canceled by the Countercharge
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Hersir uses Mark of Acquisition!
+  [ACTION] [Hersir] DMG MARK: friendly attacks deal +1 DMG against Knight of Tehom 2, Tide Captain until end of this Battle Round
+  [ACTION] Hersir MARK OF ACQUISITION: Target 1 enemy unit. Friendly units gain +1 DMG against that unit until the end of the Battle Round.
+  [ACTION] Mana: Player B -2 (8 total) - spent
+  [ACTION] The High Admiral casts Gaze of the Abyss on Odin's Einherjar
+  [ACTION] Valkyrie uses Chooser of the Slain!
+  [ACTION] [Valkyrie] HIT REROLL MARK: friendly attacks may reroll failed HIT rolls against Knight of Tehom 2 until end of this Battle Round
+  [ACTION] Valkyrie CHOOSER OF THE SLAIN: Target 1 enemy unit within 5 squares of this unit. Until the end of the Battle Round, friendly Runeforge Directorate units may reroll failed HIT rolls against that target.
+  [ACTION] Knight of Tehom 1 uses Get Over Here!!
+  [ACTION]   Shieldmaidens SAVES (slow roll): [6✓@4+→Shieldmaiden][6✓@4+→Shieldmaiden] → 2/2 saved, 0 models killed
+  [ACTION] Knight of Tehom 1 GET OVER HERE!: Target 1 enemy unit. That target moves up to 2 Movement Points along the straight line toward this unit; it may end adjacent, but this is not a Charge. If it cannot spend all 2 Movement Points, it suffers 1D3 Impact Damage.
+  [ACTION] Shieldmaidens opens fire with 1 combat group
+  [ACTION] 1x Rune-Shotgun (Shieldmaiden) HIT vs Cultist Troopers (FR 3): [4✓][2✗][5✓] → 2/3 hits (needs 4+)
+  [ACTION] Mana: Player B +2 (10 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (13 total) - enemy model destroyed
+  [ACTION]   Cultist Troopers SAVE (2 dice): [5✗][6✓] → 1/2 saved (needs 6+)
+  [ACTION]   Cultist Troopers takes 2 damage (14 → 12)
+  [ACTION]   Cultist destroyed
+  [ACTION] Evil-Eye Serpent attacks in melee with 1 combat group
+  [ACTION] Evil-Eye Serpent engages Corporaider Squad 1 in melee combat
+  [ACTION]   Initiative: Evil-Eye Serpent (INI 5) → Corporaider Squad 1 (INI 5)
+  [ACTION]   Evil-Eye Serpent (Serpent Coils) MELEE vs Corporaider Squad 1 (AR 3): [6✓][6✓][6✓] → 3 hits [MS 6]
+  [ACTION]   Corporaider Squad 1: 4 damage (6 → 2)
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Squad 1 counterattacks
+  [ACTION]   Corporaider Squad 1 spends 1 APt to counterattack
+  [ACTION]   Corporaider Squad 1 (Runeaxe) MELEE vs Evil-Eye Serpent (AR 2): [5✓][2✗] → 1 hits [MS 5]
+  [ACTION]   Evil-Eye Serpent: 2 damage (14 → 12)
+  [ACTION]   Evil-Eye Serpent FEEL NO PAIN: rolled 1 (needs 5+) => FAILED
+  [ACTION] Odin's Einherjar attacks in melee with 1 combat group
+  [ACTION] Odin's Einherjar engages Knight of Tehom 2 in melee combat
+  [ACTION]   Initiative: Tide Captain (INI 8, +3 charge) → Knight of Tehom 2 (INI 6, +3 charge) → Odin's Einherjar (INI 5)
+  [ACTION]   Tide Captain counterattacks
+  [ACTION]   Tide Captain spends 1 APt to counterattack
+  [ACTION]   Tide Captain (Whale Harpoon) MELEE vs Odin's Einherjar (AR 1): [↻1✗] → 0 hits [MS 8]
+  [ACTION]   Knight of Tehom 2 counterattacks
+  [ACTION]   Knight of Tehom 2 spends 1 APt to counterattack
+  [ACTION]   Knight of Tehom 2 (5x Boarding Anchor) MELEE vs Odin's Einherjar (AR 10): [6✓][5✓][5✓][4✗][3✗][3✗][2✗][2✗][1✗][1✗] → 3 hits [MS 5]
+  [ACTION] Mana: Player B +3 (13 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (14 total) - enemy model destroyed
+  [ACTION] Mana: Player B +3 (16 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (15 total) - enemy model destroyed
+  [ACTION] Mana: Player B +2 (18 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (16 total) - enemy model destroyed
+  [ACTION]   Odin's Einherjar (3x Master Runeaxe) MELEE vs Knight of Tehom 2 (AR 6): [5✓][5✓][4✓][4✓][↻3✗][↻2✗] → 4 hits [MS 6]
+  [ACTION]   Knight of Tehom 2: 9 damage (15 → 6)
+  [ACTION]   Knight of Tehom destroyed
+  [ACTION]   Knight of Tehom destroyed
+  [ACTION]   Knight of Tehom destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Shieldmaidens
+  [ACTION] Cultist Troopers 2 opens fire with 2 combat groups
+  [ACTION] Cultist Troopers 2 DESPERATE WORSHIP (4+): 1 = 1 (natural 1) - FAILED
+  [ACTION] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Shieldmaidens (FR 18): [3✗][2✗][1✗][5✗][2✗][2✗][3✗][1✗][2✗][1✗][3✗][6✓][1✗][5✗][1✗][6✓][3✗][2✗] → 2/18 hits (needs 5+) [HIT mod: -1 vs FLYING, -1 GO TO GROUND]
+  [ACTION]   Shieldmaidens SAVE (2 dice): [2✗][2✗] → 0/2 saved (needs 4+)
+  [ACTION]   Shieldmaidens takes 2 damage (2 → 0)
+  [ACTION]   Shieldmaiden destroyed
+  [ACTION]   Shieldmaidens DESTROYED
+  [ACTION] Grey Huskarls attacks in melee with 2 combat groups
+  [ACTION] Grey Huskarls engages Tide Captain in melee combat
+  [ACTION]   Grey Huskarls (Combat Knife) MELEE vs Tide Captain (AR 1): [↻4✓] → 1 hits [MS 6]
+  [ACTION]   Grey Huskarls (Combat Knife) MELEE vs Tide Captain (AR 1): [↻2✗] → 0 hits [MS 6]
+  [ACTION]   Knight of Tehom 2 has no APt left - no counterattack
+  [ACTION]   Tide Captain has no APt left - no counterattack
+  [ACTION] Cultist Troopers 1 opens fire with 2 combat groups
+  [ACTION] 7x Renegade Bolt-Action Rifle (Cultist) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 7x Renegade Bolt-Action Rifle (Cultist) HIT vs Valkyrie (FR 14): [1✗][5✗][2✗][3✗][3✗][6✓][2✗][3✗][5✗][3✗][1✗][2✗][2✗][2✗][1✗] → 1/14 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] Valkyrie EVASION: 1/1 hits evaded (4+)
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Valkyrie (FR 2): [3✗][3✗] → 0/2 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Cultist Troopers 4 opens fire with 2 combat groups
+  [ACTION] 8x Renegade Bolt-Action Rifle (Cultist) HIT vs Valkyrie (FR 16): [5✗][5✗][1✗][5✗][3✗][1✗][6✓][1✗][1✗][5✗][2✗][6✓][4✗][6✓][4✗][6✓] → 4/16 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] Valkyrie EVASION: 3/4 hits evaded (4+)
+  [ACTION]   Valkyrie SAVE roll: 5 (needs 3+) => SAVED
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Valkyrie (FR 2): [4✗][3✗] → 0/2 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] Cultist Troopers opens fire with 2 combat groups
+  [ACTION] 5x Renegade Bolt-Action Rifle (Cultist) HIT vs Valkyrie (FR 10): [2✗][2✗][6✓][5✗][1✗][1✗][5✗][2✗][6✓][1✗] → 2/10 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] Valkyrie EVASION: 2/2 hits evaded (4+)
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Valkyrie (FR 2): [2✗][2✗] → 0/2 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 25 vs 9)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 10 vs 2)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 14 vs 0)
+  [CLEANUP] VP - Player A: 5 | Player B: 24
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 2 VP (7/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (6/10)
+  [CLEANUP] Mission "IRON CURTAIN" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Judgement of Odin: VP +2 (obj 0, primary 2, missions 0) = 9; CP +3 -5 holds 1 [3 Double Time → Runesmith; 2 Rally cry (reaction) for Corporaider Squad 1]
+  loots: +6 -0 holds 22
+B:Ghosts of Lemesos: VP +10 (obj 7, primary 3, missions 0) = 37; CP +3 -2 holds 3 [2 Rally cry (reaction) for Knight of Tehom 2]
+  mana: +10 -3 holds 25 [3 Cast Whisper of Despair]
+A:Judgement of Odin keeps mission LAST STAND (offered LAST STAND / OBJECTIVE RELAY)
+B:Ghosts of Lemesos keeps mission TERRITORIAL SUPERIORITY (offered SECURE THE FLANKS / TERRITORIAL SUPERIORITY)
+B:Ghosts of Lemesos mission TERRITORIAL SUPERIORITY: completed
+Moves:
+  [MOVEMENT] A:Judgement of Odin Runesmith 13,11 -> 9,11
+  [MOVEMENT] B:Ghosts of Lemesos Knight of Tehom 1 + The High Admiral 12,7 -> 12,8
+  [MOVEMENT] A:Judgement of Odin Corporaider Squad 3 8,8 -> 8,9
+  [MOVEMENT] A:Judgement of Odin Grey Huskarls 9,8 -> 10,10
+  [MOVEMENT] A:Judgement of Odin Valkyrie 7,8 -> 7,6 (charge)
+Combat:
+  [ACTION] melee: B:Ghosts of Lemesos Evil-Eye Serpent -> Corporaider Squad 1: no damage
+  [ACTION] melee: A:Judgement of Odin Odin's Einherjar -> Knight of Tehom 2: Knight of Tehom 2 -6 DESTROYED
+  [ACTION] ability (GET OVER HERE): B:Ghosts of Lemesos Knight of Tehom 1 -> Valkyrie: no damage
+  [ACTION] melee: A:Judgement of Odin Valkyrie -> Cultist Troopers 2: Cultist Troopers 2 -7
+  [ACTION] ranged: B:Ghosts of Lemesos Cultist Troopers -> Corporaider Squad 3: Corporaider Squad 3 -1
+  [ACTION] melee: B:Ghosts of Lemesos Cultist Troopers 4 -> Valkyrie: no damage
+  [ACTION] magic (Whisper of Despair): B:Ghosts of Lemesos The High Admiral -> Valkyrie: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Cultist Troopers 3 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Judgement of Odin Double Time on Runesmith: paid off - gave Runesmith: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Judgement of Odin Rally Cry on Corporaider Squad 1: paid off - passed 1 Morale Test(s) outright
+  [COMMAND] B:Ghosts of Lemesos Rally Cry on Knight of Tehom 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Judgement of Odin Mark of Acquisition on Knight of Tehom 2: paid off - marked Knight of Tehom 2 (marked for acquisition), Tide Captain (marked for acquisition); 1 attack(s) it touched: +5.19 expected HP for its side
+  [ACTION] B:Ghosts of Lemesos Get Over Here! on Valkyrie: nothing - no change
+  [ACTION] A:Judgement of Odin Inscribe on Grey Huskarls: nothing - gave Grey Huskarls: weapons SHOCK
+  [ACTION] B:Ghosts of Lemesos Whisper of Despair on Valkyrie: nothing - no change
+Passive rules:
+  Runewreathed Acquisitors (Corporaider Squad 1): 5 attacks, 0.42 expected HP for its side
+  Wolf-Age (Odin's Einherjar): 1 attack, 2.79 expected HP for its side
+  Invidious Gaze (Tide Captain): 1 attack, 0.46 expected HP for its side
+  Rune of Brynhildr (Valkyrie): 2 attacks, 0.28 expected HP for its side
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+  Tithe of Torment (Knight of Tehom 2): fired 2 times (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 4 times (add_resource)
+  EVASION (Valkyrie, 4+): 1 of 3 hits turned away
+Scored by:
+  B:Ghosts of Lemesos objectives (7,7) 3 VP: Cultist Troopers 2 1.0, Cultist Troopers 4 1.0, Cultist Troopers 1.0
+  B:Ghosts of Lemesos objectives (1,7) 2 VP: Cultist Troopers 1 2.0; hinged on Cultist Troopers 1
+  B:Ghosts of Lemesos objectives (13,7) 2 VP: The High Admiral 1.0, Knight of Tehom 1 1.0
+  A:Judgement of Odin primary BREAK THEIR HOLD 2 VP: Corporaider Squad 1 1.0, Valkyrie 0.3, Hersir 0.3, Odin's Einherjar 0.3
+  B:Ghosts of Lemesos primary IMPENETRABLE FORTRESS 3 VP: Evil-Eye Serpent 0.4, Tide Captain 0.4, Cultist Troopers 1 0.4, Cultist Troopers 2 0.4, Cultist Troopers 4 0.4, Cultist Troopers 0.4, The High Admiral 0.2, Knight of Tehom 1 0.2
+Log:
+  [CLEANUP] ═══ ROUND 4 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 7 to 9)
+  [CLEANUP] BATTLE ROUND 4 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] [Knight of Tehom 2] COVETOUS RAIDER: borrows Rune of Protection from Hersir until end of Battle Round
+  [COMMAND] COMMAND PHASE - Round 4 - A:6 CP, B:5 CP
+  [COMMAND] Command Phase: CP A:6 B:5
+  [COMMAND] Player A picks mission: LAST STAND
+  [COMMAND] Player B picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] HQ Command: Double Time -> Runesmith (cost 3 CP) by Player A
+  [COMMAND] DOUBLE TIME: Runesmith gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Corporaider Squad 1
+  [COMMAND] REACTION COMMAND: RALLY CRY via The High Admiral (cost 2 CP) - Knight of Tehom 2
+  [COMMAND] Corporaider Squad 1 Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Runesmith Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [COMMAND] Corporaider Squad 3 Morale Test (4+): 6 = 6 (natural 6) - PASSED
+  [COMMAND] Knight of Tehom 2 Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Cultist Troopers 3 Morale Test (4+): 6 = 6 (natural 6) - PASSED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Runesmith moved to (9,11)
+  [MOVEMENT] Knight of Tehom 1 moved to (12,8)
+  [MOVEMENT] [Corporaider Squad 3] FALL BACK TEST: INI 5 against 5, needs 4+, rolled 4 - breaks away
+  [MOVEMENT] Corporaider Squad 3 moved to (8,9)
+  [MOVEMENT] [Corporaider Squad 3] Fall Back to (8,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] [Grey Huskarls] FALL BACK TEST: INI 6 against 5, needs 3+, rolled 5 - breaks away
+  [MOVEMENT] Grey Huskarls moved to (10,10)
+  [MOVEMENT] [Grey Huskarls] Fall Back to (10,10)
+  [MOVEMENT] Valkyrie moved to (7,6)
+  [MOVEMENT] Valkyrie lands on its charge
+  [MOVEMENT] Valkyrie Charges Cultist Troopers 2, Cultist Troopers 4
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Hersir uses Mark of Acquisition!
+  [ACTION] [Hersir] DMG MARK: friendly attacks deal +1 DMG against Knight of Tehom 2, Tide Captain until end of this Battle Round
+  [ACTION] Hersir MARK OF ACQUISITION: Target 1 enemy unit. Friendly units gain +1 DMG against that unit until the end of the Battle Round.
+  [ACTION] Evil-Eye Serpent attacks in melee with 1 combat group
+  [ACTION] Evil-Eye Serpent engages Corporaider Squad 1 in melee combat
+  [ACTION]   Initiative: Evil-Eye Serpent (INI 5) → Corporaider Squad 1 (INI 5)
+  [ACTION]   Evil-Eye Serpent (Serpent Coils) MELEE vs Corporaider Squad 1 (AR 3): [4✓][3✓][3✓] → 3 hits [MS 6]
+  [ACTION]   Corporaider Squad 1 counterattacks
+  [ACTION]   Corporaider Squad 1 spends 1 APt to counterattack
+  [ACTION]   Corporaider Squad 1 (Runeaxe) MELEE vs Evil-Eye Serpent (AR 2): [6✓][1✗] → 1 hits [MS 5]
+  [ACTION]   Evil-Eye Serpent FEEL NO PAIN: rolled 5 (needs 5+) => IGNORED
+  [ACTION] Odin's Einherjar attacks in melee with 1 combat group
+  [ACTION] Odin's Einherjar engages Knight of Tehom 2 in melee combat
+  [ACTION]   Initiative: Odin's Einherjar (INI 5) → Tide Captain (INI 5) → Knight of Tehom 2 (INI 3)
+  [ACTION] Mana: Player B +3 (21 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (17 total) - enemy model destroyed
+  [ACTION] Mana: Player B +3 (24 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (18 total) - enemy model destroyed
+  [ACTION]   Odin's Einherjar (3x Master Runeaxe) MELEE vs Knight of Tehom 2 (AR 9): [6✓][4✓][3✗][2✗][2✗][2✗][1✗][1✗][1✗] → 2 hits [MS 6]
+  [ACTION]   Knight of Tehom 2: 6 damage (6 → 0)
+  [ACTION]   Knight of Tehom destroyed
+  [ACTION]   Knight of Tehom Boatswain destroyed
+  [ACTION]   Knight of Tehom 2 has lost its leader - LEADERLESS
+  [ACTION]   Knight of Tehom 2 DESTROYED in melee!
+  [ACTION]   Tide Captain counterattacks
+  [ACTION]   Tide Captain spends 1 APt to counterattack
+  [ACTION]   Tide Captain (Whale Harpoon) MELEE vs Odin's Einherjar (AR 1): [5✓] → 1 hits [MS 6]
+  [ACTION]   Knight of Tehom 2 was destroyed - no counterattack
+  [ACTION] Knight of Tehom 1 uses Get Over Here!!
+  [ACTION]   Valkyrie EVASION vs GET OVER HERE: 1/1 hits evaded (4+)
+  [ACTION] Knight of Tehom 1 GET OVER HERE!: Target 1 enemy unit. That target moves up to 2 Movement Points along the straight line toward this unit; it may end adjacent, but this is not a Charge. If it cannot spend all 2 Movement Points, it suffers 1D3 Impact Damage.
+  [ACTION] Valkyrie attacks in melee with 1 combat group
+  [ACTION] Valkyrie engages Cultist Troopers 2 in melee combat
+  [ACTION]   Initiative: Valkyrie (INI 10, +3 charge) → Cultist Troopers 2 (INI 5)
+  [ACTION] Mana: Player B +1 (25 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (19 total) - enemy model destroyed
+  [ACTION] Mana: Player B +2 (27 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (20 total) - enemy model destroyed
+  [ACTION] Mana: Player B +1 (28 total) - TITHE OF TORMENT
+  [ACTION] Loots: Player A +1 (21 total) - enemy model destroyed
+  [ACTION] Loots: Player A +1 (22 total) - enemy model destroyed
+  [ACTION]   Valkyrie (Winged Spear) MELEE vs Cultist Troopers 2 (AR 4): [5✓][4✓][3✓][2✓] → 4 hits [MS 8]
+  [ACTION]   Cultist Troopers 2: 7 damage (19 → 12)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 2 counterattacks
+  [ACTION]   Cultist Troopers 2 spends 1 APt to counterattack
+  [ACTION]   Cultist Troopers 2 (5x Renegade Bayonet) MELEE vs Valkyrie (AR 5): [6✓][5✗][5✗][4✗][3✗] → 1 hits [MS 3]
+  [ACTION]   Cultist Troopers 2 (Renegade Bayonet) MELEE vs Valkyrie (AR 1): [2✗] → 0 hits [MS 3]
+  [ACTION] Cultist Troopers opens fire with 2 combat groups
+  [ACTION] 5x Renegade Bolt-Action Rifle (Cultist) HIT vs Corporaider Squad 3 (FR 10): [1✗][4✗][6✓][5✗][2✗][5✗][1✗][3✗][2✗][3✗] → 1/10 hits (needs 5+) [HIT mod: -1 ruins CONCEALMENT]
+  [ACTION]   Corporaider Squad 3 SAVE roll: 3 (5 (+1 from LIGHT COVER, capped) = 4+) => FAILED
+  [ACTION]   Corporaider Squad 3 takes 1 damage (2 → 1)
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Corporaider Squad 3 (FR 2): [3✗][4✗] → 0/2 hits (needs 5+) [HIT mod: -1 ruins CONCEALMENT]
+  [ACTION] Runesmith uses Inscribe!
+  [ACTION] Runesmith inscribes Rune of Thunder on Grey Huskarls
+  [ACTION] Runesmith INSCRIBE: Target 1 adjacent friendly unit with an empty Rune Slot. Select a Rune from the available list and spend its Loots cost to inscribe it on the target. If the target contains an attached CHARACTER, both the CHARACTER and its bodyguard unit receive the Rune.
+  [ACTION] Cultist Troopers 4 attacks in melee with 2 combat groups
+  [ACTION] Cultist Troopers 4 engages Valkyrie in melee combat
+  [ACTION]   Cultist Troopers 4 (8x Renegade Bayonet) MELEE vs Valkyrie (AR 8): [5✗][5✗][4✗][4✗][3✗][1✗][1✗][1✗] → 0 hits [MS 3]
+  [ACTION]   Cultist Troopers 4 (Renegade Bayonet) MELEE vs Valkyrie (AR 1): [6✓] → 1 hits [MS 3]
+  [ACTION]   Valkyrie has no APt left - no counterattack
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Valkyrie Morale Test (2+): 6 -1 = 5 (natural 6) - PASSED
+  [ACTION] Mana: Player B -3 (25 total) - spent
+  [ACTION] The High Admiral casts Whisper of Despair on Valkyrie
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 21 vs 9)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 10 vs 2)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 14 vs 0)
+  [CLEANUP] VP - Player A: 7 | Player B: 34
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 2 VP (9/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (9/10)
+  [CLEANUP] VP CAP: Player B MISSION TERRITORIAL SUPERIORITY - 3 of 3 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player B +0 VP!
+
+Damage leaders:
+  A:Judgement of Odin Odin's Einherjar: 27 damage, 1 kills, 38 RP, 0.71/RP
+  B:Ghosts of Lemesos Cultist Troopers 1: 9 damage, 1 kills, 10 RP, 0.90/RP
+  A:Judgement of Odin Valkyrie: 7 damage, 0 kills, 50 RP, 0.14/RP
+  A:Judgement of Odin Corporaider Squad 3: 6 damage, 0 kills, 22 RP, 0.27/RP
+  B:Ghosts of Lemesos Evil-Eye Serpent: 6 damage, 0 kills, 52 RP, 0.12/RP
+  A:Judgement of Odin Hersir: 6 damage, 0 kills, 28 RP, 0.21/RP
+  B:Ghosts of Lemesos Cultist Troopers 2: 5 damage, 1 kills, 10 RP, 0.50/RP
+  B:Ghosts of Lemesos Knight of Tehom 2: 4 damage, 0 kills, 34 RP, 0.12/RP (destroyed)
+  B:Ghosts of Lemesos The High Admiral: 4 damage, 0 kills, 60 RP, 0.07/RP
+  B:Ghosts of Lemesos Cultist Troopers: 3 damage, 0 kills, 10 RP, 0.30/RP
+  A:Judgement of Odin Corporaider Squad 1: 2 damage, 0 kills, 22 RP, 0.09/RP
+  B:Ghosts of Lemesos Cultist Troopers 4: 2 damage, 0 kills, 10 RP, 0.20/RP
+  A:Judgement of Odin Shieldmaidens: 2 damage, 0 kills, 30 RP, 0.07/RP (destroyed)
+Costs paid (HP a unit's own rules took from it):
+  B:Ghosts of Lemesos Cultist Troopers 1: 4 HP
+  B:Ghosts of Lemesos Cultist Troopers 4: 3 HP
+  B:Ghosts of Lemesos Cultist Troopers 2: 1 HP
+VP contributed (fair share; objective VP that hinged on it):
+  B:Ghosts of Lemesos Cultist Troopers 2: 8.8 VP (obj 7.5, primary 1.3, missions 0.0), hinged 6, 87.8/100 RP
+  B:Ghosts of Lemesos Cultist Troopers 1: 7.3 VP (obj 6.0, primary 1.3, missions 0.0), hinged 6, 72.8/100 RP
+  B:Ghosts of Lemesos Evil-Eye Serpent: 3.3 VP (obj 2.0, primary 1.3, missions 0.0), hinged 2, 6.3/100 RP
+  B:Ghosts of Lemesos Tide Captain: 3.1 VP (obj 2.0, primary 1.1, missions 0.0), hinged 0, 10.3/100 RP
+  A:Judgement of Odin Corporaider Squad 1: 3.0 VP (obj 0.0, primary 3.0, missions 0.0), hinged 0, 13.6/100 RP
+  B:Ghosts of Lemesos Cultist Troopers: 2.8 VP (obj 1.5, primary 1.3, missions 0.0), hinged 0, 27.8/100 RP
+  B:Ghosts of Lemesos Cultist Troopers 4: 2.8 VP (obj 1.5, primary 1.3, missions 0.0), hinged 0, 27.8/100 RP
+  B:Ghosts of Lemesos Knight of Tehom 1: 2.6 VP (obj 2.0, primary 0.6, missions 0.0), hinged 0, 7.8/100 RP
+  B:Ghosts of Lemesos The High Admiral: 2.6 VP (obj 2.0, primary 0.6, missions 0.0), hinged 0, 4.4/100 RP
+  B:Ghosts of Lemesos Knight of Tehom 2: 2.2 VP (obj 2.0, primary 0.2, missions 0.0), hinged 0, 6.5/100 RP
+  B:Ghosts of Lemesos Cultist Troopers 3: 1.5 VP (obj 1.5, primary 0.0, missions 0.0), hinged 3, 15.0/100 RP
+  A:Judgement of Odin Runesmith: 1.3 VP (obj 0.0, primary 1.3, missions 0.0), hinged 0, 8.9/100 RP
+  A:Judgement of Odin Hersir: 1.1 VP (obj 0.0, primary 1.1, missions 0.0), hinged 0, 3.9/100 RP
+  A:Judgement of Odin Odin's Einherjar: 1.1 VP (obj 0.0, primary 1.1, missions 0.0), hinged 0, 2.9/100 RP
+  A:Judgement of Odin Corporaider Squad 2: 1.0 VP (obj 0.0, primary 1.0, missions 0.0), hinged 0, 4.5/100 RP
+  A:Judgement of Odin Valkyrie: 0.9 VP (obj 0.0, primary 0.9, missions 0.0), hinged 0, 1.8/100 RP
+  A:Judgement of Odin Shieldmaidens: 0.3 VP (obj 0.0, primary 0.3, missions 0.0), hinged 0, 1.1/100 RP
+  A:Judgement of Odin Corporaider Squad 3: 0.3 VP (obj 0.0, primary 0.3, missions 0.0), hinged 0, 1.1/100 RP
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  A:Judgement of Odin Grey Huskarls: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 1/0/1/0/0/0
+  B:Ghosts of Lemesos Cultist Troopers 3: inaction 1 (1 idle, 0 after moving, 0 Overwatch); actions 1/0/1/0/0/2
+  A:Judgement of Odin Valkyrie: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/2/0/1
+  B:Ghosts of Lemesos Cultist Troopers 4: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/2/1/0/0/2
+  B:Ghosts of Lemesos Knight of Tehom 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/3/0/2
+  B:Ghosts of Lemesos The High Admiral: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/2/2
+  A:Judgement of Odin Corporaider Squad 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/1/0/3
+  A:Judgement of Odin Odin's Einherjar: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/3/0/0/3
+  A:Judgement of Odin Hersir: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/3/0/3
+  A:Judgement of Odin Shieldmaidens: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/1/0/1/0/0
+  A:Judgement of Odin Corporaider Squad 3: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 2/0/1/0/0/1
+  B:Ghosts of Lemesos Cultist Troopers 1: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/0/0/3
+  B:Ghosts of Lemesos Cultist Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/3/0/0/0/2
+  B:Ghosts of Lemesos Tide Captain: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/3/0/0/2
+  A:Judgement of Odin Corporaider Squad 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/0/0/0/0/1
+  B:Ghosts of Lemesos Knight of Tehom 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/0/1/1/0/2
+  A:Judgement of Odin Runesmith: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 1/0/0/2/0/2
+  B:Ghosts of Lemesos Cultist Troopers 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/2/1/0/0/4
+  B:Ghosts of Lemesos Evil-Eye Serpent: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/0/3/0/0/4
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 3
+  A:Judgement of Odin Corporaider Squad 3: 1 of 6 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Judgement of Odin Grey Huskarls: 1 of 4 moves (0 back, 1 away from an objective), 2 squares lost
+  A:Judgement of Odin Shieldmaidens: 1 of 3 moves (0 back, 1 away from an objective), 2 squares lost
+Secondary missions:
+  A:Judgement of Odin FOCUSED FIRE (+2 VP): kept R1, expired R2 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Judgement of Odin IRON CURTAIN (+2 VP): kept R2, expired R3 - No friendly unit is destroyed during the entire duration of this Mission.
+  A:Judgement of Odin TERRITORIAL SUPERIORITY (+3 VP): kept R3, active - At the end of a Battle Round, control more Objectives than your opponent.
+  A:Judgement of Odin LAST STAND (+3 VP): kept R4, active - At the end of a Battle Round, control an objective that has a friendly unit Below Half-Strength in its Objective Area.
+  B:Ghosts of Lemesos IRON CURTAIN (+2 VP): kept R1, completed R2 - No friendly unit is destroyed during the entire duration of this Mission.
+  B:Ghosts of Lemesos IRON GRIP (+2 VP): kept R2, completed R2 - Maintain a minimum of 7 OC on a single Objective.
+  B:Ghosts of Lemesos OBJECTIVE RELAY (+2 VP): kept R3, active - Move a unit that was within an Objective Area at Mission entry to a different Objective Area.
+  B:Ghosts of Lemesos TERRITORIAL SUPERIORITY (+3 VP): kept R4, completed R4 - At the end of a Battle Round, control more Objectives than your opponent.

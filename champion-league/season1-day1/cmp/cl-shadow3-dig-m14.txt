@@ -1,0 +1,512 @@
+Veiled Court (A, infernal_congregations) vs Walls of Uruk (B, mat_akkadi) on CROSSROADS, seed 460703114
+Result: A:Veiled Court wins (VP) in round 5, VP 38 / 7
+Initiative: B:Walls of Uruk; formation order [1,0]
+Army A:Veiled Court (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Veiled Queen - 60 RP, 1 models, 9 HP, leads Cultist Troopers 1, Marshal
+  Cultist Troopers 1 - 10 RP, 10 models, 20 HP, led by The Veiled Queen
+  Masque of Carnality - 55 RP, 1 models, 6 HP
+  Queen Consort - 25 RP, 1 models, 6 HP, leads Cultist Troopers 2
+  Babylonian Assassin 1 - 24 RP, 3 models, 3 HP
+  Cultist Troopers 2 - 10 RP, 10 models, 20 HP, led by Queen Consort
+  Babylonian Assassin 2 - 24 RP, 3 models, 3 HP
+  Lector - 22 RP, 1 models, 6 HP
+  Cultist Troopers 3 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 4 - 10 RP, 10 models, 20 HP
+Army B:Walls of Uruk (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Gilgamesh - 65 RP, 1 models, 10 HP, leads Ashur Breachguard, Marshal
+  Ashur Breachguard - 35 RP, 3 models, 9 HP, led by Gilgamesh
+  Asipu Priest - 18 RP, 1 models, 5 HP, leads Temple Levy 1
+  Temple Levy 1 - 20 RP, 10 models, 20 HP, led by Asipu Priest
+  Temple Levy 2 - 15 RP, 10 models, 20 HP
+  Temple Levy 3 - 15 RP, 10 models, 20 HP
+  Lamassu Bastion - 60 RP, 1 models, 14 HP
+  Floodgate Sappers - 20 RP, 3 models, 6 HP
+Primary A:Veiled Court: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: ERADICATE THE FOE, BLEED THEM WHITE, DEBT OF BLOOD; picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 2 (count 1), R3 2 (count 1), R4 2 (count 1), R5 2 (count 1); total 8
+Primary B:Walls of Uruk: FORLORN HOPE - At the start of each Battle Round, your opponent picks one of your units outside your deployment zone. At the end of that Battle Round, score 2 VP if that unit is alive and still outside your deployment zone.
+  hand: ERADICATE THE FOE, DEBT OF BLOOD, FORLORN HOPE; picked forlorn_hope
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 2 (count 1), R5 0 (count 0); total 2
+
+=== BATTLE ROUND 1 ===
+A:Veiled Court: VP +7 (obj 5, primary 0, missions 2) = 7; CP +4 -3 holds 1 [3 Troop Requisition → Cultist Troopers]
+  mana: +3 -0 holds 3
+B:Walls of Uruk: VP +0 (obj 0, primary 0, missions 0) = 0; CP +2 -1 holds 1 [1 Go to ground (reaction) for Floodgate Sappers]
+  recension: +1 -0 holds 3
+  mana: +1 -0 holds 1
+A:Veiled Court keeps mission IRON GRIP (offered IRON GRIP / INTO THE FRAY)
+B:Walls of Uruk keeps mission TERRITORIAL SUPERIORITY (offered INTO THE FRAY / TERRITORIAL SUPERIORITY)
+A:Veiled Court mission IRON GRIP: completed
+Moves:
+  [MOVEMENT] B:Walls of Uruk Floodgate Sappers 4,2 -> 8,6 (advance)
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 1 10,12 -> 9,10
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 10,2 -> 10,4
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 2 8,12 -> 10,10
+  [MOVEMENT] B:Walls of Uruk Lamassu Bastion 5,2 -> 5,3
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 11,12 -> 7,8 (advance)
+  [MOVEMENT] B:Walls of Uruk Temple Levy 1 + Asipu Priest 3,2 -> 6,5 (advance)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3,12 -> 0,8 (advance)
+  [MOVEMENT] B:Walls of Uruk Temple Levy 2 7,2 -> 7,6 (advance)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2 + Queen Consort 9,12 -> 8,10
+  [MOVEMENT] B:Walls of Uruk Temple Levy 3 11,2 -> 12,5
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 7,12 -> 7,9
+  [MOVEMENT] A:Veiled Court Masque of Carnality 3,13 -> 9,11 (advance)
+  [MOVEMENT] A:Veiled Court Lector 5,13 -> 8,11
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 5,12 -> 5,9
+Combat:
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 3 -> Lector: Lector -1
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 3 -> Floodgate Sappers: Floodgate Sappers -1; cost paid: Cultist Troopers 3 -3 (DESPERATE WORSHIP)
+  [ACTION] ranged: A:Veiled Court Lector -> Temple Levy 2: Temple Levy 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Queen Consort (best: castRite on HQ, -2.5), A:Babylonian Assassin 1 (no legal action), A:Cultist Troopers 2 (no legal action), A:Babylonian Assassin 2 (no legal action), A:Cultist Troopers 4 (no legal action), B:HQ (no legal action), B:Gilgamesh (no legal action), B:Ashur Breachguard (no legal action), B:Lamassu Bastion (no legal action)
+Advanced, nothing else: B:Temple Levy 1, B:Asipu Priest, A:Masque of Carnality
+Commands and abilities:
+  [COMMAND] B:Walls of Uruk Twin Thrones: Marduk Enthroned: nothing - made marduk active; 3 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Veiled Court Troop Requisition on (3,12): paid off - placed Cultist Troopers; the unit it placed made 2 attack(s), 7 HP off; the unit it placed scored 11 VP; the unit it placed drew 4 enemy attack(s), 4 HP
+  [ACTION] A:Veiled Court Desperate Worship on Floodgate Sappers: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Walls of Uruk Go to Ground on Floodgate Sappers: paid off - 1 attack(s) it touched: +2.01 expected HP for its side
+Passive rules:
+  Epicurean Provocation (The Veiled Queen): 2 attacks, 1.72 expected HP for its side
+  Rapturous Visage (Queen Consort): 1 attack, 0.56 expected HP for its side
+  King of Uruk (Gilgamesh): fired 1 time (add_resource)
+  Tithe of Torment (Cultist Troopers 3): fired 3 times (add_resource)
+Scored by:
+  A:Veiled Court objectives (7,7) 3 VP: The Veiled Queen 1.5, Cultist Troopers 1 1.5; hinged on The Veiled Queen, Cultist Troopers 1
+  A:Veiled Court objectives (1,7) 2 VP: Cultist Troopers 2.0; hinged on Cultist Troopers
+  A:Veiled Court missions IRON GRIP 2 VP: Cultist Troopers 1 1.0, Cultist Troopers 1.0
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B FORLORN HOPE
+  [COMMAND] Player A picks mission: IRON GRIP
+  [COMMAND] Player B picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player A
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Floodgate Sappers
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player A +2 VP +1 CP!
+
+=== BATTLE ROUND 2 ===
+A:Veiled Court: VP +7 (obj 5, primary 2, missions 0) = 14; CP +3 -1 holds 3 [1 Go to ground (reaction) for Babylonian Assassin 1]
+  mana: +10 -3 holds 10 [3 Cast Dark Bolt]
+B:Walls of Uruk: VP +2 (obj 2, primary 0, missions 0) = 2; CP +2 -2 holds 1 [2 Double Time → Temple Levy 1]
+  recension: +0 -1 holds 2 [1 Twin Thrones]
+  mana: +2 -0 holds 3
+A:Veiled Court keeps mission FIRE FOR EFFECT (offered FIRE FOR EFFECT / PUSH FORWARD)
+B:Walls of Uruk keeps mission ASSASSINATION (offered ASSASSINATION / STRONGPOINT)
+Moves:
+  [MOVEMENT] B:Walls of Uruk Temple Levy 1 + Asipu Priest 6,5 -> 2,6
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 1 9,10 -> 8,9
+  [MOVEMENT] B:Walls of Uruk Lamassu Bastion 5,3 -> 3,4
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 2 10,10 -> 12,8
+  [MOVEMENT] B:Walls of Uruk Temple Levy 3 12,5 -> 13,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 5,9 -> 6,8
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 10,4 -> 9,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2 + Queen Consort 8,10 -> 11,10
+  [MOVEMENT] B:Walls of Uruk Floodgate Sappers 8,6 -> 6,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 7,9 -> 10,9
+  [MOVEMENT] A:Veiled Court Lector 8,11 -> 10,10
+  [MOVEMENT] A:Veiled Court Masque of Carnality 9,11 -> 13,8
+  [MOVEMENT] A:Veiled Court Cultist Troopers 0,8 -> 1,8
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 7,8 -> 8,8
+  [ACTION] B:Walls of Uruk Asipu Priest 2,6 -> 1,5
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court Cultist Troopers 1 -> Temple Levy 1: Temple Levy 1 -3; cost paid: Cultist Troopers 1 -2 (DESPERATE WORSHIP)
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Temple Levy 2 -> Babylonian Assassin 1: Babylonian Assassin 1 -3 DESTROYED
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court The Veiled Queen -> Ashur Breachguard: no damage
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Ashur Breachguard -> Lector: no damage
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Temple Levy 1 -> Lector: Lector -2
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Asipu Priest -> Cultist Troopers: no damage
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 3 -> Babylonian Assassin 2: Babylonian Assassin 2 -3 DESTROYED
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 1 -> Floodgate Sappers: Floodgate Sappers -5 DESTROYED
+  [ACTION] ranged: B:Walls of Uruk Ashur Breachguard -> Cultist Troopers 1: Cultist Troopers 1 -8
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 3 -> Temple Levy 2: Temple Levy 2 -5
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 2 -> Cultist Troopers 3: Cultist Troopers 3 -3
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 4 -> Temple Levy 3: Temple Levy 3 -9
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 1 -> Cultist Troopers: Cultist Troopers -3
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 2 -> Temple Levy 3: Temple Levy 3 -2
+  [ACTION] ranged: B:Walls of Uruk Asipu Priest -> Cultist Troopers: Cultist Troopers -1
+  [ACTION] ranged: A:Veiled Court Cultist Troopers -> Temple Levy 1: Temple Levy 1 -4
+  [ACTION] ranged: A:Veiled Court Lector -> Temple Levy 2: Temple Levy 2 -1
+  [ACTION] magic (Dark Bolt): A:Veiled Court Queen Consort -> Temple Levy 3: no damage
+  [ACTION] effect (Burning): A:Veiled Court Lector -> Temple Levy 2: Temple Levy 2 -3
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Gilgamesh (no legal action), B:Lamassu Bastion (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  A:Veiled Court Cultist Troopers 2: R1 MOVEMENT 9,12 -> 8,10, R2 MOVEMENT -> 11,10 (toward the objective at 1,7, then away, 2 squares lost)
+  B:Walls of Uruk Temple Levy 1: R1 MOVEMENT 3,2 -> 6,5, R2 MOVEMENT -> 2,6 (toward the objective at 7,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] B:Walls of Uruk Double Time on Temple Levy 1: paid off - gave Asipu Priest: MOVE +2; Temple Levy 1: MOVE +2; 6 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [MOVEMENT] B:Walls of Uruk Twin Thrones: Ashur Enthroned: paid off - made ashur (was marduk) active; 38 attack(s) it touched: -6.43 expected HP for its side
+  [MOVEMENT] A:Veiled Court Desperate Worship on Temple Levy 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [MOVEMENT] A:Veiled Court Go to Ground on Babylonian Assassin 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Desperate Worship on Temple Levy 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Desperate Worship on Temple Levy 3: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Desperate Worship on Temple Levy 3: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Desperate Worship on Temple Levy 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Whispers of Forbidden Pleasure on Temple Levy 1: nothing - marked Asipu Priest (seized), Temple Levy 1 (seized); took control of Asipu Priest, Temple Levy 1
+  [ACTION] A:Veiled Court Dark Bolt on Temple Levy 3: nothing - no change
+Passive rules:
+  Rapturous Visage (Queen Consort): 5 attacks, 3.24 expected HP for its side
+  Legendary Hero (Gilgamesh): 4 attacks, 2.69 expected HP for its side
+  Epicurean Provocation (The Veiled Queen): 4 attacks, 2.62 expected HP for its side
+  Profane Zeal (Cultist Troopers 1): 3 attacks, 2.3 expected HP for its side
+  Tithe of Torment (Cultist Troopers 1): fired 10 times (add_resource)
+  Tithe of Torment (Babylonian Assassin 1): fired 3 times (add_resource)
+  Tithe of Torment (Babylonian Assassin 2): fired 3 times (add_resource)
+  Tithe of Torment (Cultist Troopers 3): fired 3 times (add_resource)
+  Tithe of Torment (Cultist Troopers): fired 4 times (add_resource)
+Scored by:
+  A:Veiled Court objectives (7,7) 3 VP: The Veiled Queen 1.0, Cultist Troopers 1 1.0, Cultist Troopers 3 1.0
+  A:Veiled Court objectives (1,7) 2 VP: Temple Levy 1 1.0, Cultist Troopers 1.0
+  B:Walls of Uruk objectives (13,7) 2 VP: Temple Levy 3 2.0; hinged on Temple Levy 3
+  A:Veiled Court primary ERADICATE THE FOE 2 VP: Cultist Troopers 1 2.0
+Key log lines:
+  [COMMAND] Player A picks mission: FIRE FOR EFFECT
+  [COMMAND] Player B picks mission: ASSASSINATION
+  [COMMAND] HQ Command: Double Time -> Temple Levy 1 (cost 2 CP) by Player B
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT]   Levy Rifleman destroyed
+  [MOVEMENT] [Cultist Troopers 1] Overwatch Reaction vs Temple Levy 1: 3 damage
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Babylonian Assassin 1
+  [MOVEMENT]   Babylonian Assassin destroyed
+  [MOVEMENT]   Babylonian Assassin destroyed
+  [MOVEMENT]   Babylonian Bride destroyed
+  [MOVEMENT]   Babylonian Assassin 1 DESTROYED
+  [MOVEMENT] [Temple Levy 2] Overwatch Reaction vs Babylonian Assassin 1: 5 damage
+  [MOVEMENT] [The Veiled Queen] Overwatch Reaction vs Ashur Breachguard: no damage
+  [MOVEMENT] [Ashur Breachguard] Overwatch Reaction vs Lector: no damage
+  [MOVEMENT] [Temple Levy 1] Overwatch Reaction vs Lector: 2 damage
+  [MOVEMENT] [Asipu Priest] Overwatch Reaction vs Cultist Troopers: no damage
+  [ACTION]   Babylonian Assassin destroyed
+  [ACTION]   Babylonian Assassin destroyed
+  [ACTION]   Babylonian Bride destroyed
+  [ACTION]   Babylonian Assassin 2 DESTROYED
+  [ACTION]   Floodgate Sapper destroyed
+  [ACTION]   Floodgate Sapper destroyed
+  [ACTION]   Gate-Warden destroyed
+  [ACTION]   Floodgate Sappers DESTROYED
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION] The Veiled Queen uses Whispers of Forbidden Pleasure!
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION] Queen Consort casts Dark Bolt on Temple Levy 3
+  [ACTION]   Levy Rifleman destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (2/10)
+
+=== BATTLE ROUND 3 ===
+A:Veiled Court: VP +8 (obj 4, primary 2, missions 2) = 22; CP +3 -5 holds 1 [2 Double Time → Temple Levy 2; 2 Rally cry (reaction) for Temple Levy 2; 1 Go to ground (reaction) for Cultist Troopers 2]
+  mana: +7 -3 holds 14 [3 Cast Dark Bolt]
+B:Walls of Uruk: VP +3 (obj 3, primary 0, missions 0) = 5; CP +2 -1 holds 2 [1 Go to ground (reaction) for Ashur Breachguard]
+  mana: +1 -0 holds 4
+A:Veiled Court keeps mission COMMAND AUTHORITY (offered IRON CURTAIN / COMMAND AUTHORITY)
+B:Walls of Uruk keeps mission FORWARD PRESENCE (offered FORWARD PRESENCE / OMNIPRESENCE)
+A:Veiled Court mission COMMAND AUTHORITY: completed
+Moves:
+  [MOVEMENT] B:Walls of Uruk Lamassu Bastion 3,4 -> 4,4
+  [MOVEMENT] A:Veiled Court Temple Levy 2 7,6 -> 9,8
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 9,6 -> 7,7 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2 + Queen Consort 11,10 -> 12,8
+  [MOVEMENT] B:Walls of Uruk Asipu Priest 1,5 -> 4,5
+  [MOVEMENT] A:Veiled Court Lector 10,10 -> 7,8
+  [MOVEMENT] B:Walls of Uruk Temple Levy 1 2,6 -> 6,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 8,8 -> 10,10
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 6,8 -> 5,9
+  [MOVEMENT] A:Veiled Court Masque of Carnality 13,8 -> 12,7 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 10,9 -> 9,9
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1,8 -> 2,7
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Cultist Troopers 1: Cultist Troopers 1 -3
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 1 -> Cultist Troopers 2: Cultist Troopers 2 -3
+  [ACTION] melee: A:Veiled Court Masque of Carnality -> Temple Levy 3: Temple Levy 3 -9 DESTROYED
+  [ACTION] ranged: B:Walls of Uruk Asipu Priest -> Cultist Troopers: no damage
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 4 -> Ashur Breachguard: Ashur Breachguard -2
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 2 -> Temple Levy 1: Temple Levy 1 -10; cost paid: Cultist Troopers 2 -1 (DESPERATE WORSHIP)
+  [ACTION] ranged: A:Veiled Court Cultist Troopers -> Ashur Breachguard: Ashur Breachguard -3
+  [ACTION] ranged: A:Veiled Court Temple Levy 2 -> Ashur Breachguard: Ashur Breachguard -1
+  [ACTION] ranged: A:Veiled Court Lector -> Gilgamesh: no damage
+  [ACTION] magic (Dark Bolt): A:Veiled Court Queen Consort -> Temple Levy 1: no damage
+  [ACTION] effect (Burning): A:Veiled Court Lector -> Temple Levy 2: Temple Levy 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Lamassu Bastion (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  A:Veiled Court Lector: R2 MOVEMENT 8,11 -> 10,10, R3 MOVEMENT -> 7,8 (toward the objective at 13,7, then away, 2 squares lost)
+  B:Walls of Uruk Temple Levy 1: R2 MOVEMENT 6,5 -> 2,6, R3 MOVEMENT -> 6,6 (back beside its start; toward the objective at 1,7, then away, 4 squares lost)
+  B:Walls of Uruk Lamassu Bastion: R2 MOVEMENT 5,3 -> 3,4, R3 MOVEMENT -> 4,4 (back beside its start, 1 square lost)
+Commands and abilities:
+  [COMMAND] A:Veiled Court Double Time on Temple Levy 2: paid off - gave Temple Levy 2: MOVE +2; completed COMMAND AUTHORITY (+2 VP); 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] A:Veiled Court Rally Cry on Temple Levy 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Veiled Court Go to Ground on Cultist Troopers 2: paid off - 1 attack(s) it touched: +2.27 expected HP for its side
+  [ACTION] A:Veiled Court Desperate Worship on Ashur Breachguard: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Walls of Uruk Go to Ground on Ashur Breachguard: paid off - 1 attack(s) it touched: +1.94 expected HP for its side
+  [ACTION] A:Veiled Court Desperate Worship on Temple Levy 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Desperate Worship on Ashur Breachguard: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Dark Bolt on Temple Levy 1: nothing - no change
+Passive rules:
+  Legendary Hero (Gilgamesh): 2 attacks, 0.76 expected HP for its side
+  Rapturous Visage (Queen Consort): 2 attacks, 1.79 expected HP for its side
+  Twin Thrones of Akkad (Temple Levy 3): 1 attack, 1 expected HP for its side
+  Epicurean Provocation (The Veiled Queen): 4 attacks, 3.2 expected HP for its side
+  Profane Zeal (Cultist Troopers 4): 2 attacks, 1.47 expected HP for its side
+  Tithe of Torment (Cultist Troopers 1): fired 3 times (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 4 times (add_resource)
+  Temple Levy 1: MOVE 4 (3 without ability:recited_line)
+  Temple Levy 3: MOVE 4 (3 without ability:recited_line)
+Scored by:
+  A:Veiled Court missions COMMAND AUTHORITY 2 VP: Temple Levy 2 2.0 (event)
+  B:Walls of Uruk objectives (7,7) 3 VP: Gilgamesh 1.0, Ashur Breachguard 1.0, Temple Levy 1 1.0
+  A:Veiled Court objectives (1,7) 2 VP: Cultist Troopers 2.0; hinged on Cultist Troopers
+  A:Veiled Court objectives (13,7) 2 VP: Masque of Carnality 0.7, Queen Consort 0.7, Cultist Troopers 2 0.7
+  A:Veiled Court primary ERADICATE THE FOE 2 VP: Masque of Carnality 2.0
+Key log lines:
+  [COMMAND] Player A picks mission: COMMAND AUTHORITY
+  [COMMAND] Player B picks mission: FORWARD PRESENCE
+  [COMMAND] HQ Command: Double Time -> Temple Levy 2 (cost 2 CP) by Player A
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player A +2 VP!
+  [COMMAND] REACTION COMMAND: RALLY CRY via The Veiled Queen (cost 2 CP) - Temple Levy 2
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] [Cultist Troopers 1] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Cultist Troopers 1] Fall Back to (10,10)
+  [MOVEMENT] [Cultist Troopers 3] Fall Back to (5,9)
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Cultist Troopers 2
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Sergeant destroyed
+  [ACTION]   Temple Levy 3 DESTROYED in melee!
+  [ACTION]   Temple Levy 3 was destroyed - no counterattack
+  [ACTION] REACTION COMMAND: GO TO GROUND via Gilgamesh (cost 1 CP) - Ashur Breachguard
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Breachguard destroyed
+  [ACTION]   Breachguard destroyed
+  [ACTION] Queen Consort casts Dark Bolt on Temple Levy 1
+  [ACTION]   Levy Rifleman destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (4/10)
+
+=== BATTLE ROUND 4 ===
+A:Veiled Court: VP +6 (obj 4, primary 2, missions 0) = 28; CP +3 -2 holds 2 [2 Rally cry (reaction) for Temple Levy 2]
+  mana: +8 -3 holds 19 [3 Cast Whisper of Despair]
+B:Walls of Uruk: VP +2 (obj 0, primary 2, missions 0) = 7; CP +2 -4 holds 0 [2 Double Time → Asipu Priest; 2 Rally cry (reaction) for Ashur Breachguard]
+  mana: +2 -0 holds 6
+A:Veiled Court keeps mission KING OF THE HILL (offered OBJECTIVE RELAY / KING OF THE HILL)
+B:Walls of Uruk keeps mission PROBING STRIKE (offered PROBING STRIKE / FIRE FOR EFFECT)
+A:Veiled Court mission FIRE FOR EFFECT: expired
+Moves:
+  [MOVEMENT] B:Walls of Uruk Asipu Priest 4,5 -> 7,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 10,10 -> 11,7
+  [MOVEMENT] B:Walls of Uruk Lamassu Bastion 4,4 -> 2,6 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 5,9 -> 8,9
+  [MOVEMENT] B:Walls of Uruk Temple Levy 1 6,6 -> 6,7
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 9,9 -> 8,8 (charge)
+  [MOVEMENT] A:Veiled Court Lector 7,8 -> 11,6
+  [MOVEMENT] A:Veiled Court Masque of Carnality 12,7 -> 8,7 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2,7 -> 0,7
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2 + Queen Consort 12,8 -> 12,7
+  [MOVEMENT] A:Veiled Court Temple Levy 2 9,8 -> 10,5
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Ashur Breachguard -> Cultist Troopers 3: no damage
+  [ACTION] melee: B:Walls of Uruk Gilgamesh -> Cultist Troopers 4: Cultist Troopers 4 -6
+  [ACTION] melee: A:Veiled Court Masque of Carnality -> Asipu Priest: Asipu Priest -2
+  [ACTION] ranged: B:Walls of Uruk Ashur Breachguard -> Cultist Troopers 4: Cultist Troopers 4 -2
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 3 -> Temple Levy 1: Temple Levy 1 -3 DESTROYED
+  [ACTION] magic (Whisper of Despair): A:Veiled Court Queen Consort -> Gilgamesh: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:The Veiled Queen (no legal action), A:Cultist Troopers 1 (no legal action), A:Lector (best: castRite, 0), B:HQ (no legal action), A:Temple Levy 2 (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  A:Veiled Court Lector: R3 MOVEMENT 10,10 -> 7,8, R4 MOVEMENT -> 11,6 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] B:Walls of Uruk Double Time on Asipu Priest: nothing - gave Asipu Priest: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] A:Veiled Court Rally Cry on Temple Levy 2: paid off - passed 1 Morale Test(s) outright
+  [COMMAND] B:Walls of Uruk Rally Cry on Ashur Breachguard: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Veiled Court Whisper of Despair on Gilgamesh: nothing - no change
+Passive rules:
+  Legendary Hero (Gilgamesh): 4 attacks, 1.64 expected HP for its side
+  Profane Zeal (Cultist Troopers 4): 2 attacks, 0.17 expected HP for its side
+  Dance of Allure (Masque of Carnality): 1 attack, 1.56 expected HP for its side
+  Fish-Cloak of the Apkallu (Asipu Priest): 1 attack, 0.4 expected HP for its side
+  Graceful Steps (Masque of Carnality): 1 attack, 0.04 expected HP for its side
+  Tithe of Torment (Cultist Troopers 4): fired 5 times (add_resource)
+  Awakened Stone (Lamassu Bastion): fired 1 time (heal)
+  Temple Levy 1: MOVE 3 (2 without ability:recited_line)
+Scored by:
+  A:Veiled Court objectives (1,7) 2 VP: Cultist Troopers 2.0; hinged on Cultist Troopers
+  A:Veiled Court objectives (13,7) 2 VP: Queen Consort 1.0, Cultist Troopers 2 1.0
+  A:Veiled Court primary ERADICATE THE FOE 2 VP: Cultist Troopers 3 2.0
+  B:Walls of Uruk primary FORLORN HOPE 2 VP: Gilgamesh 2.0
+Key log lines:
+  [COMMAND] Player A picks mission: KING OF THE HILL
+  [COMMAND] Player B picks mission: PROBING STRIKE
+  [COMMAND] HQ Command: Double Time -> Asipu Priest (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Temple Levy 2
+  [COMMAND] REACTION COMMAND: RALLY CRY via Gilgamesh (cost 2 CP) - Ashur Breachguard
+  [MOVEMENT] [Ashur Breachguard] Overwatch Reaction vs Cultist Troopers 3: no damage
+  [MOVEMENT] [Cultist Troopers] Fall Back to (0,7)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Sergeant destroyed
+  [ACTION]   Temple Levy 1 DESTROYED
+  [ACTION] Queen Consort casts Whisper of Despair on Gilgamesh
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (6/10)
+  [CLEANUP] PRIMARY FORLORN HOPE: Player B scores 2 VP (2/10)
+  [CLEANUP] Mission "FIRE FOR EFFECT" EXPIRED (R4)
+
+=== BATTLE ROUND 5 ===
+A:Veiled Court: VP +10 (obj 7, primary 2, missions 1) = 38; CP +3 -2 holds 3 [2 Rally cry (reaction) for Temple Levy 2]
+  mana: +6 -3 holds 22 [3 Cast Whisper of Despair]
+B:Walls of Uruk: VP +0 (obj 0, primary 0, missions 0) = 7; CP +2 -2 holds 0 [2 Rally cry (reaction) for Ashur Breachguard]
+  mana: +2 -0 holds 8
+A:Veiled Court keeps mission TAKE UP THE GAUNTLET (offered TAKE UP THE GAUNTLET / COORDINATED PUSH)
+A:Veiled Court mission TAKE UP THE GAUNTLET: completed
+B:Walls of Uruk mission TERRITORIAL SUPERIORITY: expired
+B:Walls of Uruk mission PROBING STRIKE: expired
+Moves:
+  [MOVEMENT] B:Walls of Uruk Asipu Priest 7,6 -> 6,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 11,7 -> 12,6
+  [MOVEMENT] B:Walls of Uruk Lamassu Bastion 2,6 -> 1,6 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 8,9 -> 9,6
+  [MOVEMENT] A:Veiled Court Lector 11,6 -> 8,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 0,7 -> 2,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court Cultist Troopers 1 -> Asipu Priest: Asipu Priest -2
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court Lector -> Asipu Priest: Asipu Priest -1 DESTROYED
+  [ACTION] melee: B:Walls of Uruk Gilgamesh -> Cultist Troopers 4: Cultist Troopers 4 -6
+  [ACTION] melee: A:Veiled Court Masque of Carnality -> Ashur Breachguard: Ashur Breachguard -2
+  [ACTION] magic (Whisper of Despair): A:Veiled Court Queen Consort -> Gilgamesh: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Lector (best: compositionAttack on Lamassu Bastion, 0.31), A:Cultist Troopers 3 (no legal action), B:HQ (no legal action), A:Temple Levy 2 (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] A:Veiled Court Rally Cry on Temple Levy 2: paid off - passed 1 Morale Test(s) outright
+  [COMMAND] B:Walls of Uruk Rally Cry on Ashur Breachguard: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Veiled Court Whisper of Despair on Gilgamesh: paid off - put SUPPRESSED on Gilgamesh; decided 6 objective VP
+Passive rules:
+  Rapturous Visage (Queen Consort): 2 attacks, 0.31 expected HP for its side
+  Profane Zeal (Cultist Troopers 1): 2 attacks, 0.22 expected HP for its side
+  Dance of Allure (Masque of Carnality): 2 attacks, 1.82 expected HP for its side
+  Legendary Hero (Gilgamesh): 2 attacks, 0.93 expected HP for its side
+  Graceful Steps (Masque of Carnality): 1 attack, 0.26 expected HP for its side
+  Tithe of Torment (Cultist Troopers 4): fired 3 times (add_resource)
+  Awakened Stone (Lamassu Bastion): fired 1 time (heal)
+  EVASION (Masque of Carnality, 4+): 1 of 1 hits turned away
+Scored by:
+  A:Veiled Court objectives (7,7) 3 VP: Cultist Troopers 4 2.0, Masque of Carnality 0.5, Lector 0.5
+  A:Veiled Court objectives (1,7) 2 VP: Cultist Troopers 2.0; hinged on Cultist Troopers
+  A:Veiled Court objectives (13,7) 2 VP: The Veiled Queen 0.5, Cultist Troopers 1 0.5, Queen Consort 0.5, Cultist Troopers 2 0.5
+  A:Veiled Court primary ERADICATE THE FOE 2 VP: Lector 2.0
+  A:Veiled Court missions TAKE UP THE GAUNTLET 1 VP (2 withheld by the round's VP cap): Cultist Troopers 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] REACTION COMMAND: RALLY CRY via The Veiled Queen (cost 2 CP) - Temple Levy 2
+  [COMMAND] REACTION COMMAND: RALLY CRY via Gilgamesh (cost 2 CP) - Ashur Breachguard
+  [MOVEMENT] [Cultist Troopers 1] Overwatch Reaction vs Asipu Priest: 2 damage
+  [MOVEMENT]   Asipu Priest destroyed
+  [MOVEMENT]   Asipu Priest DESTROYED
+  [MOVEMENT] [Lector] Overwatch Reaction vs Asipu Priest: 1 damage
+  [MOVEMENT] [Asipu Priest] Fall Back to (6,6)
+  [MOVEMENT] [Cultist Troopers] Fall Back to (2,8)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] Queen Consort casts Whisper of Despair on Gilgamesh
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (8/10)
+  [CLEANUP] MISSION COMPLETE: "TAKE UP THE GAUNTLET" -> Player A +1 VP!
+  [CLEANUP] Mission "PROBING STRIKE" EXPIRED (R5)
+  [CLEANUP] Mission "TERRITORIAL SUPERIORITY" EXPIRED (R5)
+
+Damage leaders:
+  A:Veiled Court Masque of Carnality: 13 damage, 1 kills, 55 RP, 0.24/RP
+  A:Veiled Court Cultist Troopers 2: 12 damage, 0 kills, 10 RP, 1.20/RP
+  B:Walls of Uruk Gilgamesh: 12 damage, 0 kills, 65 RP, 0.18/RP
+  A:Veiled Court Cultist Troopers 4: 11 damage, 0 kills, 10 RP, 1.10/RP
+  A:Veiled Court Cultist Troopers 1: 10 damage, 1 kills, 10 RP, 1.00/RP
+  B:Walls of Uruk Ashur Breachguard: 10 damage, 0 kills, 35 RP, 0.29/RP
+  A:Veiled Court Cultist Troopers 3: 9 damage, 1 kills, 10 RP, 0.90/RP
+  B:Walls of Uruk Temple Levy 1: 8 damage, 0 kills, 20 RP, 0.40/RP (destroyed)
+  A:Veiled Court Lector: 7 damage, 1 kills, 22 RP, 0.32/RP
+  A:Veiled Court Cultist Troopers: 7 damage, 0 kills, 10 RP, 0.70/RP
+  B:Walls of Uruk Temple Levy 2: 6 damage, 1 kills, 15 RP, 0.40/RP (seized by the enemy)
+  B:Walls of Uruk Temple Levy 3: 4 damage, 1 kills, 15 RP, 0.27/RP (destroyed)
+  B:Walls of Uruk Asipu Priest: 1 damage, 0 kills, 18 RP, 0.06/RP (destroyed)
+  A:Veiled Court Temple Levy 2: 1 damage, 0 kills, 15 RP, 0.07/RP (seized from the enemy)
+Friendly fire (HP and units a unit took off its own side):
+  A:Veiled Court Lector: 2 HP
+Costs paid (HP a unit's own rules took from it):
+  A:Veiled Court Cultist Troopers 3: 3 HP
+  A:Veiled Court Cultist Troopers 1: 2 HP
+  A:Veiled Court Cultist Troopers 2: 1 HP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Veiled Court Cultist Troopers: 11.0 VP (obj 9.0, primary 0.0, missions 2.0), hinged 8, 110.0/100 RP
+  A:Veiled Court Cultist Troopers 1: 6.0 VP (obj 3.0, primary 2.0, missions 1.0), hinged 3, 60.0/100 RP
+  A:Veiled Court Masque of Carnality: 3.2 VP (obj 1.2, primary 2.0, missions 0.0), hinged 0, 5.8/100 RP
+  A:Veiled Court The Veiled Queen: 3.0 VP (obj 3.0, primary 0.0, missions 0.0), hinged 3, 5.0/100 RP
+  A:Veiled Court Cultist Troopers 3: 3.0 VP (obj 1.0, primary 2.0, missions 0.0), hinged 0, 30.0/100 RP
+  B:Walls of Uruk Gilgamesh: 3.0 VP (obj 1.0, primary 2.0, missions 0.0), hinged 0, 4.6/100 RP
+  A:Veiled Court Lector: 2.5 VP (obj 0.5, primary 2.0, missions 0.0), hinged 0, 11.4/100 RP
+  A:Veiled Court Cultist Troopers 2: 2.2 VP (obj 2.2, primary 0.0, missions 0.0), hinged 0, 21.7/100 RP
+  A:Veiled Court Queen Consort: 2.2 VP (obj 2.2, primary 0.0, missions 0.0), hinged 0, 8.7/100 RP
+  B:Walls of Uruk Temple Levy 3: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 13.3/100 RP
+  A:Veiled Court Cultist Troopers 4: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 0, 20.0/100 RP
+  A:Veiled Court Temple Levy 2: 2.0 VP (obj 0.0, primary 0.0, missions 2.0), hinged 0, 13.3/100 RP (seized from the enemy)
+  B:Walls of Uruk Ashur Breachguard: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 2.9/100 RP
+  A:Veiled Court Temple Levy 1: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 5.0/100 RP (seized from the enemy)
+  B:Walls of Uruk Temple Levy 1: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 5.0/100 RP (seized by the enemy)
+Activity (inaction score; advanced, nothing else; actions: movement/advance/ranged/melee/ability/magic/objective held):
+  B:Walls of Uruk Lamassu Bastion: inaction 3 (3 idle, 3 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/2
+  A:Veiled Court Temple Levy 2: inaction 2 (2 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/0/0/0/0 (seized from the enemy)
+  B:Walls of Uruk Gilgamesh: inaction 2 (2 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/2/0/0/2
+  A:Veiled Court Lector: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); advanced only 0; actions 0/0/3/0/0/0/0
+  A:Veiled Court Babylonian Assassin 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/0
+  A:Veiled Court Babylonian Assassin 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/0
+  A:Veiled Court Cultist Troopers 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/0/0/0/3
+  A:Veiled Court Cultist Troopers 3: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 1/0/3/0/0/0/1
+  A:Veiled Court Cultist Troopers 4: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/2/0/0/2
+  A:Veiled Court Queen Consort: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/4/3
+  A:Veiled Court The Veiled Queen: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 0; actions 1/1/0/0/1/0/3
+  B:Walls of Uruk Ashur Breachguard: inaction 0.5 (1 idle, 1 after moving, 2 Overwatch); advanced only 0; actions 0/0/2/1/0/0/3
+  A:Veiled Court Cultist Troopers 1: inaction 0.5 (1 idle, 1 after moving, 2 Overwatch); advanced only 0; actions 1/1/1/0/0/0/3
+  A:Veiled Court Temple Levy 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/1 (seized from the enemy)
+  B:Walls of Uruk Floodgate Sappers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/0/0/0/1
+  B:Walls of Uruk Temple Levy 3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/0/0/0/1
+  A:Veiled Court Masque of Carnality: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 1 (R1); actions 0/1/0/3/0/0/4
+  A:Veiled Court Cultist Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 2/1/2/0/0/0/5
+  B:Walls of Uruk Temple Levy 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 0; actions 0/1/1/0/0/0/1 (seized by the enemy)
+  B:Walls of Uruk Temple Levy 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 1 (R1); actions 0/1/2/0/0/0/1 (seized by the enemy)
+  B:Walls of Uruk Asipu Priest: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 1 (R1); actions 1/1/2/1/0/0/1
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 6
+  B:Walls of Uruk Temple Levy 1: 2 of 4 moves (1 back, 2 away from an objective), 7 squares lost
+  A:Veiled Court Lector: 2 of 5 moves (0 back, 2 away from an objective), 5 squares lost
+  A:Veiled Court Cultist Troopers 2: 1 of 4 moves (0 back, 1 away from an objective), 2 squares lost
+  B:Walls of Uruk Lamassu Bastion: 1 of 5 moves (1 back, 0 away from an objective), 1 squares lost
+Secondary missions:
+  A:Veiled Court IRON GRIP (+2 VP): kept R1, completed R1 - Maintain a minimum of 7 OC on a single Objective.
+  A:Veiled Court FIRE FOR EFFECT (+2 VP): kept R2, expired R4 - Damage an enemy unit you hold at Intel Level 2 or higher (MARKED or DESIGNATED).
+  A:Veiled Court COMMAND AUTHORITY (+2 VP): kept R3, completed R3 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  A:Veiled Court KING OF THE HILL (+3 VP): kept R4, active - Have a friendly unit in an Objective Area destroy an enemy unit.
+  A:Veiled Court TAKE UP THE GAUNTLET (+3 VP): kept R5, completed R5 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  B:Walls of Uruk TERRITORIAL SUPERIORITY (+3 VP): kept R1, expired R5 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Walls of Uruk ASSASSINATION (+4 VP): kept R2, active - Destroy an enemy CHARACTER or MONSTER.
+  B:Walls of Uruk FORWARD PRESENCE (+3 VP): kept R3, active - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  B:Walls of Uruk PROBING STRIKE (+2 VP): kept R4, expired R5 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.

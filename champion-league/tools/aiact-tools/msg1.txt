@@ -1,0 +1,32 @@
+AI: whether a unit may still act asks the ability rules, so a QUICK ability at 0 APt is offered
+
+aiUnitCanStillAct (ai/tactical/focus_fire.js) asked the attack rules for an
+attack since 9f66b27a, but its other branch was still a hand check -
+APt > 0, not attacked, no ability or action used - so a QUICK ability the
+rules allow at 0 APt was never offered unless an attack was possible too.
+
+The branch now asks the rules' own checks: an Action Phase ability by
+canUseAbility (the check useAbility, the ability dispatcher, makes), a cast
+by riteCasterBlockReason (the casting button's), Channel Mana by
+canChannelMana. They are read as the unit's own Action Phase activation
+would read them (aiAsOwnActivation, ai/action/choose.js: the Action Phase,
+its player active, its activation open), since the hold of an activation in
+progress lasts only until it ends; aiUnitBestAction reads through the same
+frame. A QUICK ability's limit and charges are the same check's to count, so
+a unit that has spent it has nothing left and is not offered it again.
+
+The focus-fire pool counts a friend only when it may still attack
+(attackerMeansBlockReason): a unit whose action to come is a QUICK ability
+adds no fire. aiIsActionPhaseAbility (ai/action/collect.js) is the one
+definition of an ability the Action Phase acts with, read by the candidate
+collection and by the check above.
+
+Test: 371 gains the case - the Spahbed at 0 APt, its FREE Firebreath spent,
+may still use its QUICK Boar of the Empire (a legal candidate), also while
+another unit's activation is open, and not once its charge is spent. With
+the old hand check patched back into the built page (both engine copies) the
+test fails: "a unit at 0 APt with a QUICK ability the rules allow may still
+act".
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

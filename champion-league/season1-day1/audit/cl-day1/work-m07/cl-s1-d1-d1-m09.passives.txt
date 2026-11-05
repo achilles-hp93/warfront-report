@@ -1,0 +1,38 @@
+{
+ "attacks": [
+  {
+   "name": "Firemarked Quarry",
+   "ability": "blf_firemarked_quarry",
+   "player": 0,
+   "army": "Knights of Camelot",
+   "owners": [
+    "Knight-Scourgers"
+   ],
+   "attacks": 1,
+   "added": 0.06,
+   "prevented": 0,
+   "total": 0.06
+  },
+  {
+   "name": "Vanishing Elf-Shot",
+   "ability": "vanishing_elf_shot",
+   "player": 1,
+   "army": "Cosán Sí Host",
+   "owners": [
+    "Blackflint Archers"
+   ],
+   "attacks": 1,
+   "added": 0.33,
+   "prevented": 0,
+   "total": 0.33
+  }
+ ],
+ "stilled": [],
+ "move": [],
+ "reach": []
+}
+--- by round
+R2
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.33 expected HP for its side
+  Firemarked Quarry (Knight-Scourgers): 1 attack, 0.06 expected HP for its side
+--- heals []

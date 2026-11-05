@@ -1,0 +1,1 @@
+[{"old":"function _aiChargeReactedScore(unit, options, value, score) {","new":"function _aiChargeReactedScore(unit, options, value, score) { return score;"},{"old":"      - aiW('W_DRAWN_REACTIONS') * aiChargeReactionLoss(own.reactions, odds, own.fight);","new":";"}]

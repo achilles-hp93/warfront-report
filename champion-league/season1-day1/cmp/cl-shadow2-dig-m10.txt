@@ -1,0 +1,453 @@
+Summer Rade (A, grand_duchy_of_albion) vs Vigil of Masis (B, kingdom_of_hayk) on CROSSROADS, seed 460703110
+Result: A:Summer Rade wins (VP) in round 4, VP 32 / 13
+Initiative: A:Summer Rade; formation order [0,1]
+Army A:Summer Rade (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  High King Finvarra - 60 RP, 1 models, 8 HP, leads Sidhe Wardens 1, Marshal
+  Sidhe Wardens 1 - 22 RP, 5 models, 5 HP, led by High King Finvarra
+  Sidhe Wardens 2 - 17 RP, 5 models, 5 HP
+  Sidhe Wardens 3 - 17 RP, 5 models, 5 HP, led by Sidhe Druid
+  Wild Hunt Riders - 30 RP, 5 models, 10 HP
+  Blackflint Archers - 30 RP, 5 models, 5 HP
+  Sidhe Druid - 18 RP, 1 models, 3 HP, leads Sidhe Wardens 3
+  Moonless Veilblades - 30 RP, 3 models, 3 HP
+  Redcap Reivers - 24 RP, 5 models, 10 HP
+Army B:Vigil of Masis (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Andranik Ozanian - 45 RP, 1 models, 7 HP, leads Pahak Riflemen 1, Marshal
+  Pahak Riflemen 1 - 20 RP, 10 models, 20 HP, led by Andranik Ozanian
+  Dream-Reader of Tir - 18 RP, 1 models, 4 HP, leads Pahak Riflemen 2
+  Pahak Riflemen 2 - 20 RP, 10 models, 20 HP, led by Dream-Reader of Tir
+  Reedfire Champion - 22 RP, 1 models, 6 HP, leads Vishap Harpooners
+  Vishap Harpooners - 25 RP, 3 models, 9 HP, led by Reedfire Champion
+  Azat Lancers 1 - 30 RP, 5 models, 20 HP
+  Azat Lancers 2 - 30 RP, 5 models, 20 HP
+  Parsawor Grenadiers - 20 RP, 3 models, 6 HP
+  Pahak Riflemen 3 - 20 RP, 10 models, 20 HP
+Primary A:Summer Rade: BLEED THEM WHITE - At the end of each Battle Round, score 2 VP if you destroyed more enemy units than you lost during that Battle Round, or 3 VP if you destroyed at least two more.
+  hand: BLEED THEM WHITE, WIDE SWEEP, COORDINATED SUPPRESSION; picked bleed_them_white
+  scored per round: R1 2 (count 1), R2 0 (count 0), R3 3 (count 2), R4 2 (count 1); total 7
+Primary B:Vigil of Masis: IMPENETRABLE FORTRESS - From the second Battle Round, at the end of each Battle Round, score 1 VP for every 2 friendly units outside your deployment zone that are neither Below Half-Strength nor SUPPRESSED, up to 3 VP.
+  hand: COORDINATED SUPPRESSION, ERADICATE THE FOE, IMPENETRABLE FORTRESS; picked impenetrable_fortress
+  scored per round: R1 0 (count 6), R2 2 (count 5), R3 3 (count 6), R4 2 (count 5); total 7
+
+=== BATTLE ROUND 1 ===
+A:Summer Rade: VP +7 (obj 5, primary 2, missions 0) = 7; CP +2 -2 holds 0 [2 Double Time → Sidhe Wardens 2]
+B:Vigil of Masis: VP +0 (obj 0, primary 0, missions 0) = 0; CP +4 -3 holds 1 [2 Double Time → Pahak Riflemen 3; 1 Go to ground (reaction) for Parsawor Grenadiers]
+A:Summer Rade keeps mission SECURE THE FLANKS (offered SECURE THE FLANKS / FORWARD PRESENCE)
+B:Vigil of Masis keeps mission PUSH FORWARD (offered OBJECTIVE RELAY / PUSH FORWARD)
+Moves:
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 2 10,12 -> 8,6 (advance)
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 3 4,2 -> 6,6 (advance)
+  [MOVEMENT] B:Vigil of Masis Parsawor Grenadiers 11,2 -> 12,6 (advance)
+  [MOVEMENT] A:Summer Rade Moonless Veilblades 5,12 -> 6,9 (advance)
+  [MOVEMENT] B:Vigil of Masis Azat Lancers 1 11,1 -> 6,3 (advance)
+  [MOVEMENT] A:Summer Rade Wild Hunt Riders 4,12 -> 8,7 (advance)
+  [MOVEMENT] B:Vigil of Masis Vishap Harpooners + Reedfire Champion 7,2 -> 6,4
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 1 + High King Finvarra 9,12 -> 6,8 (advance)
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 1 + Andranik Ozanian 9,2 -> 6,5 (advance)
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 3 + Sidhe Druid 3,12 -> 7,8 (advance)
+  [MOVEMENT] B:Vigil of Masis Azat Lancers 2 3,1 -> 5,6 (advance)
+  [MOVEMENT] A:Summer Rade Blackflint Archers 11,12 -> 12,8
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 2 + Dream-Reader of Tir 5,2 -> 4,6 (advance)
+Combat:
+  [ACTION] ranged: A:Summer Rade Blackflint Archers -> Parsawor Grenadiers: Parsawor Grenadiers -6 DESTROYED
+  [ACTION] ranged: B:Vigil of Masis Vishap Harpooners -> Sidhe Wardens 2: Sidhe Wardens 2 -3
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Moonless Veilblades (no legal action), A:Redcap Reivers (no legal action), B:HQ (no legal action), B:Andranik Ozanian (no legal action), B:Pahak Riflemen 1 (no legal action), B:Dream-Reader of Tir (no legal action), B:Pahak Riflemen 2 (no legal action), B:Azat Lancers 1 (no legal action), B:Azat Lancers 2 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Summer Rade Flow of Magic: Tree: nothing - made tree active; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Summer Rade Double Time on Sidhe Wardens 2: paid off - gave Sidhe Wardens 2: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Vigil of Masis Double Time on Pahak Riflemen 3: paid off - gave Pahak Riflemen 3: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [ACTION] B:Vigil of Masis Go to Ground on Parsawor Grenadiers: paid off - 1 attack(s) it touched: +0.82 expected HP for its side
+  [ACTION] B:Vigil of Masis Name the Quarry on Sidhe Wardens 2: nothing - put QUARRY on Sidhe Wardens 2; 1 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.13 expected HP for its side
+  Fading Step (Sidhe Wardens 2): fired 1 time (grant_move)
+  EVASION (Sidhe Wardens 2, 5+): 0 of 3 hits turned away
+  Wild Hunt Riders: MOVE 6 (5 without Otherworld Bridle)
+Scored by:
+  A:Summer Rade objectives (7,7) 3 VP: Sidhe Wardens 1 0.9, Sidhe Wardens 3 0.9, High King Finvarra 0.4, Wild Hunt Riders 0.4, Sidhe Wardens 2 0.2, Sidhe Druid 0.2
+  A:Summer Rade objectives (13,7) 2 VP: Blackflint Archers 2.0; hinged on Blackflint Archers
+  A:Summer Rade primary BLEED THEM WHITE 2 VP: Blackflint Archers 2.0
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A BLEED THEM WHITE, Player B IMPENETRABLE FORTRESS
+  [COMMAND] Player A picks mission: SECURE THE FLANKS
+  [COMMAND] Player B picks mission: PUSH FORWARD
+  [COMMAND] HQ Command: Double Time -> Sidhe Wardens 2 (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Pahak Riflemen 3 (cost 2 CP) by Player B
+  [MOVEMENT] Redcap Reivers CHARGE FAILED: it does not move
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Parsawor Grenadiers
+  [ACTION]   Parsawor destroyed
+  [ACTION]   Parsawor destroyed
+  [ACTION]   Parsawor Sergeant destroyed
+  [ACTION]   Parsawor Grenadiers DESTROYED
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION] Reedfire Champion uses Name the Quarry!
+  [CLEANUP] PRIMARY BLEED THEM WHITE: Player A scores 2 VP (2/10)
+
+=== BATTLE ROUND 2 ===
+A:Summer Rade: VP +10 (obj 7, primary 0, missions 3) = 17; CP +3 -2 holds 1 [2 Double Time → Redcap Reivers]
+  mana: +7 -0 holds 7
+B:Vigil of Masis: VP +2 (obj 0, primary 2, missions 0) = 2; CP +4 -1 holds 4 [1 Go to ground (reaction) for Vishap Harpooners]
+  mana: +2 -0 holds 2
+A:Summer Rade keeps mission TERRITORIAL SUPERIORITY (offered TERRITORIAL SUPERIORITY / BAR THE GATES)
+B:Vigil of Masis keeps mission IRON GRIP (offered IRON GRIP / DEEP REACH)
+A:Summer Rade mission SECURE THE FLANKS: completed
+A:Summer Rade mission TERRITORIAL SUPERIORITY: completed
+Moves:
+  [MOVEMENT] B:Vigil of Masis Azat Lancers 1 6,3 -> 10,4
+  [MOVEMENT] A:Summer Rade Redcap Reivers 8,12 -> 6,7 (charge)
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 1 + Andranik Ozanian 6,5 -> 9,4
+  [MOVEMENT] A:Summer Rade Moonless Veilblades 6,9 -> 8,5 (charge)
+  [MOVEMENT] B:Vigil of Masis Azat Lancers 2 5,6 -> 2,8
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 2 8,6 -> 5,8
+  [MOVEMENT] B:Vigil of Masis Vishap Harpooners + Reedfire Champion 6,4 -> 6,5
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 1 + High King Finvarra 6,8 -> 1,10
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 2 + Dream-Reader of Tir 4,6 -> 5,5
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 3 + Sidhe Druid 7,8 -> 8,8
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 3 6,6 -> 5,4
+  [MOVEMENT] A:Summer Rade Wild Hunt Riders 8,7 -> 2,6
+  [MOVEMENT] A:Summer Rade Blackflint Archers 12,8 -> 12,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Vigil of Masis Azat Lancers 2 -> Redcap Reivers: no damage
+  [MOVEMENT] ranged (Overwatch): B:Vigil of Masis Pahak Riflemen 2 -> Sidhe Wardens 2: Sidhe Wardens 2 -2 DESTROYED
+  [MOVEMENT] ranged (Overwatch): A:Summer Rade Sidhe Wardens 1 -> Vishap Harpooners: Vishap Harpooners -1
+  [MOVEMENT] ranged (Overwatch): A:Summer Rade Sidhe Wardens 3 -> Vishap Harpooners: no damage
+  [MOVEMENT] ranged (Overwatch): A:Summer Rade Wild Hunt Riders -> Vishap Harpooners: no damage
+  [ACTION] ranged: B:Vigil of Masis Pahak Riflemen 2 -> Sidhe Wardens 3: Sidhe Wardens 3 -2
+  [ACTION] melee: A:Summer Rade Moonless Veilblades -> Pahak Riflemen 1: Moonless Veilblades -2, Pahak Riflemen 1 -12
+  [ACTION] ranged: B:Vigil of Masis Vishap Harpooners -> Redcap Reivers: Redcap Reivers -2
+  [ACTION] ranged: A:Summer Rade Sidhe Wardens 1 -> Azat Lancers 2: Azat Lancers 2 -3
+  [ACTION] ranged: A:Summer Rade Blackflint Archers -> Pahak Riflemen 2: Pahak Riflemen 2 -6
+  [ACTION] ranged: A:Summer Rade Wild Hunt Riders -> Azat Lancers 2: Azat Lancers 2 -4
+  [ACTION] ranged: A:Summer Rade Sidhe Wardens 3 -> Azat Lancers 2: Azat Lancers 2 -1
+  [ACTION] ranged: A:Summer Rade High King Finvarra -> Azat Lancers 2: Azat Lancers 2 -3
+  [ACTION] effect (Burning): A:Summer Rade High King Finvarra -> Azat Lancers 2: Azat Lancers 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Reedfire Champion (no legal action), B:Azat Lancers 1 (no legal action)
+Moves undone:
+  A:Summer Rade Wild Hunt Riders: R1 MOVEMENT 4,12 -> 8,7, R2 MOVEMENT -> 2,6 (toward the objective at 7,7, then away, 5 squares lost)
+  B:Vigil of Masis Pahak Riflemen 1: R1 MOVEMENT 9,2 -> 6,5, R2 MOVEMENT -> 9,4 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Summer Rade Flow of Magic: Earth: paid off - made earth active; 15 attack(s) it touched: +1.12 expected HP for its side
+  [COMMAND] A:Summer Rade Double Time on Redcap Reivers: nothing - gave Redcap Reivers: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [MOVEMENT] B:Vigil of Masis Go to Ground on Vishap Harpooners: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Warden of the Caucasus (Andranik Ozanian): 3 attacks, 1.94 expected HP for its side
+  LUNAR-CHARGED ARROWS (Sidhe Wardens 1): 2 attacks, 2.08 expected HP for its side
+  Lios na Sí (Sidhe Wardens 3): 1 attack, 1.12 expected HP for its side
+  Ceo Druidechta (Moonless Veilblades): 2 attacks, 0.58 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.32 expected HP for its side
+  Grogh's Tally (Dream-Reader of Tir): fired 1 time (add_resource)
+  Fading Step (Sidhe Wardens 3): fired 1 time (grant_move)
+  Fading Step (Sidhe Druid): fired 1 time (grant_move)
+  Rince Fada (Moonless Veilblades): fired 1 time (grant_move)
+  EVASION (Sidhe Wardens 2, 5+): 0 of 4 hits turned away
+  EVASION (Sidhe Wardens 3, 5+): 4 of 8 hits turned away
+  EVASION (Moonless Veilblades, 5+): 0 of 2 hits turned away
+  Wild Hunt Riders: MOVE 6 (5 without Otherworld Bridle)
+Scored by:
+  A:Summer Rade objectives (7,7) 3 VP: Sidhe Wardens 3 1.0, Sidhe Druid 1.0, Redcap Reivers 1.0
+  A:Summer Rade objectives (1,7) 2 VP: Wild Hunt Riders 2.0; hinged on Wild Hunt Riders
+  A:Summer Rade objectives (13,7) 2 VP: Blackflint Archers 2.0; hinged on Blackflint Archers
+  B:Vigil of Masis primary IMPENETRABLE FORTRESS 2 VP: Andranik Ozanian 0.4, Azat Lancers 1 0.4, Pahak Riflemen 3 0.4, Dream-Reader of Tir 0.2, Pahak Riflemen 2 0.2, Reedfire Champion 0.2, Vishap Harpooners 0.2
+  A:Summer Rade missions TERRITORIAL SUPERIORITY 3 VP: Wild Hunt Riders 1.6, Blackflint Archers 0.9, Sidhe Wardens 3 0.1, Sidhe Druid 0.1, Redcap Reivers 0.1
+Key log lines:
+  [COMMAND] Player A picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] Player B picks mission: IRON GRIP
+  [COMMAND] HQ Command: Double Time -> Redcap Reivers (cost 2 CP) by Player A
+  [MOVEMENT] [Azat Lancers 2] Overwatch Reaction vs Redcap Reivers: no damage
+  [MOVEMENT] [Azat Lancers 2] Fall Back to (2,8)
+  [MOVEMENT]   Warden destroyed
+  [MOVEMENT]   Warden-Captain destroyed
+  [MOVEMENT]   Sidhe Wardens 2 DESTROYED
+  [MOVEMENT] [Pahak Riflemen 2] Overwatch Reaction vs Sidhe Wardens 2: 2 damage
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Vishap Harpooners
+  [MOVEMENT] [Sidhe Wardens 1] Overwatch Reaction vs Vishap Harpooners: 1 damage
+  [MOVEMENT] [Sidhe Wardens 3] Overwatch Reaction vs Vishap Harpooners: no damage
+  [MOVEMENT] [Wild Hunt Riders] Overwatch Reaction vs Vishap Harpooners: no damage
+  [MOVEMENT] [Pahak Riflemen 3] Fall Back to (5,4)
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Moonless Veilblade destroyed
+  [ACTION]   Moonless Veilblade destroyed
+  [ACTION]   Redcap Reiver destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Azat destroyed
+  [ACTION]   Azat destroyed
+  [ACTION]   Azat destroyed
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 2 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "SECURE THE FLANKS" -> Player A +0 VP +1 CP!
+
+=== BATTLE ROUND 3 ===
+A:Summer Rade: VP +8 (obj 5, primary 3, missions 0) = 25; CP +2 -1 holds 2 [1 Go to ground (reaction) for Wild Hunt Riders]
+  mana: +0 -2 holds 5 [2 Cast Ceo Draiochta]
+B:Vigil of Masis: VP +7 (obj 2, primary 3, missions 2) = 9; CP +5 -7 holds 2 [5 Troop Requisition → Pahak Riflemen; 2 Double Time → Pahak Riflemen]
+A:Summer Rade keeps mission OBJECTIVE RELAY (offered INTO THE FRAY / OBJECTIVE RELAY)
+B:Vigil of Masis keeps mission FOCUSED FIRE (offered FOCUSED FIRE / VIGILANT WATCH)
+B:Vigil of Masis mission PUSH FORWARD: expired
+B:Vigil of Masis mission IRON GRIP: completed
+Moves:
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 1 + High King Finvarra 1,10 -> 0,7
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 6,2 -> 4,5
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 3 + Sidhe Druid 8,8 -> 8,7
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 1 + Andranik Ozanian 9,4 -> 8,3
+  [MOVEMENT] A:Summer Rade Moonless Veilblades 8,5 -> 9,5 (charge)
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 3 5,4 -> 4,4
+  [MOVEMENT] A:Summer Rade Wild Hunt Riders 2,6 -> 1,6
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 2 + Dream-Reader of Tir 5,5 -> 3,6
+  [MOVEMENT] A:Summer Rade Redcap Reivers 6,7 -> 3,7 (charge)
+  [MOVEMENT] B:Vigil of Masis Azat Lancers 1 10,4 -> 14,6
+  [MOVEMENT] B:Vigil of Masis Vishap Harpooners + Reedfire Champion 6,5 -> 6,6
+  [MOVEMENT] B:Vigil of Masis Azat Lancers 2 2,8 -> 6,8
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Pahak Riflemen 1: Pahak Riflemen 1 -1
+  [MOVEMENT] ranged (Overwatch): B:Vigil of Masis Azat Lancers 1 -> Moonless Veilblades: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Azat Lancers 2: Azat Lancers 2 -3
+  [ACTION] magic (Ceo Draiochta): A:Summer Rade High King Finvarra -> Pahak Riflemen 3: no damage
+  [ACTION] ranged: B:Vigil of Masis Pahak Riflemen 3 -> Wild Hunt Riders: Wild Hunt Riders -1
+  [ACTION] ranged: A:Summer Rade Blackflint Archers -> Azat Lancers 2: Azat Lancers 2 -4 DESTROYED
+  [ACTION] ranged: B:Vigil of Masis Vishap Harpooners -> Sidhe Wardens 3: no damage
+  [ACTION] melee: A:Summer Rade Redcap Reivers -> Pahak Riflemen 2: Pahak Riflemen 2 -14 DESTROYED
+  [ACTION] ranged: A:Summer Rade Sidhe Wardens 1 -> Vishap Harpooners: Vishap Harpooners -3
+  [ACTION] ranged: A:Summer Rade Sidhe Wardens 3 -> Azat Lancers 1: Azat Lancers 1 -3
+  [ACTION] ranged: A:Summer Rade Wild Hunt Riders -> Pahak Riflemen: Pahak Riflemen -4
+  [ACTION] ranged: A:Summer Rade Sidhe Druid -> Vishap Harpooners: Vishap Harpooners -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Moonless Veilblades (no legal action), B:HQ (no legal action), B:Andranik Ozanian (best: ability Hayk's Arrow, 0)
+Moves undone:
+  B:Vigil of Masis Pahak Riflemen 2: R2 MOVEMENT 4,6 -> 5,5, R3 MOVEMENT -> 3,6 (toward the objective at 7,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] A:Summer Rade Flow of Magic: Tree: nothing - made tree active; 10 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Vigil of Masis Troop Requisition on (6,2): paid off - placed Pahak Riflemen; the unit it placed scored 0.91 VP; the unit it placed drew 2 enemy attack(s), 9 HP
+  [COMMAND] B:Vigil of Masis Double Time on Pahak Riflemen: paid off - gave Pahak Riflemen: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [ACTION] A:Summer Rade Ceo Draiochta on Pahak Riflemen 3: paid off - gave Pahak Riflemen 3: BS -1; 1 attack(s) it touched: +0.15 expected HP for its side
+  [ACTION] A:Summer Rade Go to Ground on Wild Hunt Riders: paid off - 1 attack(s) it touched: +0.15 expected HP for its side
+Passive rules:
+  Fairy Eyes (Blackflint Archers): 1 attack, 0.03 expected HP for its side
+  Omen of War (Wild Hunt Riders): 1 attack, 2.22 expected HP for its side
+  Messenger of Aramazd (Dream-Reader of Tir): 1 attack, 0.08 expected HP for its side
+  Warden of the Caucasus (Andranik Ozanian): 2 attacks, 0.59 expected HP for its side
+  LUNAR-CHARGED ARROWS (Sidhe Wardens 1): 1 attack, 1.3 expected HP for its side
+  Blood-Dyed Cap (Redcap Reivers): fired 8 times (mod_stat)
+  Fading Step (Wild Hunt Riders): fired 1 time (grant_move)
+  EVASION (Moonless Veilblades, 5+): 0 of 1 hits turned away
+  EVASION (Wild Hunt Riders, 5+): 1 of 3 hits turned away
+  Wild Hunt Riders: MOVE 6 (5 without Otherworld Bridle)
+Scored by:
+  A:Summer Rade objectives (7,7) 3 VP: Sidhe Wardens 3 3.0; hinged on Sidhe Wardens 3
+  A:Summer Rade objectives (1,7) 2 VP: High King Finvarra 0.7, Sidhe Wardens 1 0.7, Wild Hunt Riders 0.7
+  B:Vigil of Masis objectives (13,7) 2 VP: Azat Lancers 1 2.0; hinged on Azat Lancers 1
+  A:Summer Rade primary BLEED THEM WHITE 3 VP: Blackflint Archers 1.5, Redcap Reivers 1.5
+  B:Vigil of Masis primary IMPENETRABLE FORTRESS 3 VP: Andranik Ozanian 0.5, Dream-Reader of Tir 0.5, Azat Lancers 1 0.5, Pahak Riflemen 3 0.5, Pahak Riflemen 0.5, Reedfire Champion 0.2, Vishap Harpooners 0.2
+  B:Vigil of Masis missions IRON GRIP 2 VP: Azat Lancers 1 2.0
+Key log lines:
+  [COMMAND] Player A picks mission: OBJECTIVE RELAY
+  [COMMAND] Player B picks mission: FOCUSED FIRE
+  [COMMAND] HQ Command: Troop Requisition -> kingdom_of_hayk:pahak_riflemen (cost 5 CP) by Player B
+  [COMMAND] HQ Command: Double Time -> Pahak Riflemen (cost 2 CP) by Player B
+  [MOVEMENT] [Pahak Riflemen 1] Fall Back to (8,3)
+  [MOVEMENT] [Azat Lancers 1] Overwatch Reaction vs Moonless Veilblades: no damage
+  [MOVEMENT] [Azat Lancers 1] Fall Back to (14,6)
+  [MOVEMENT]   Azat destroyed
+  [MOVEMENT] [Azat Lancers 2] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Azat Lancers 2] Fall Back to (6,8)
+  [ACTION] High King Finvarra casts Ceo Draiochta on Pahak Riflemen 3
+  [ACTION] REACTION COMMAND: GO TO GROUND via High King Finvarra (cost 1 CP) - Wild Hunt Riders
+  [ACTION]   Sepuh destroyed
+  [ACTION]   Azat Lancers 2 DESTROYED
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak Sergeant destroyed
+  [ACTION]   Pahak Riflemen 2 DESTROYED in melee!
+  [ACTION]   Pahak Riflemen 2 was destroyed - no counterattack
+  [ACTION]   Harpooner destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [CLEANUP] PRIMARY BLEED THEM WHITE: Player A scores 3 VP (5/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (5/10)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player B +2 VP +1 CP!
+  [CLEANUP] Mission "PUSH FORWARD" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Summer Rade: VP +7 (obj 5, primary 2, missions 0) = 32; CP +2 -4 holds 0 [4 Secure Objective → Blackflint Archers]
+  mana: +0 -4 holds 1 [2 Cast Beltane Ember; 2 Cast Feth Fiada]
+B:Vigil of Masis: VP +4 (obj 2, primary 2, missions 0) = 13; CP +4 -6 holds 0 [4 Secure Objective → Azat Lancers 1; 2 Rally cry (reaction) for Pahak Riflemen 1]
+A:Summer Rade keeps mission VIGILANT WATCH (offered PUSH FORWARD / VIGILANT WATCH)
+B:Vigil of Masis keeps mission INTO THE FRAY (offered FIRE FOR EFFECT / INTO THE FRAY)
+B:Vigil of Masis mission FOCUSED FIRE: expired
+Moves:
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 1 + Andranik Ozanian 8,3 -> 6,5
+  [MOVEMENT] A:Summer Rade Moonless Veilblades 9,5 -> 7,7 (charge)
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 3 4,4 -> 5,7
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 1 + High King Finvarra 0,7 -> 2,8
+  [MOVEMENT] B:Vigil of Masis Vishap Harpooners + Reedfire Champion 6,6 -> 5,8
+  [MOVEMENT] A:Summer Rade Sidhe Wardens 3 + Sidhe Druid 8,7 -> 8,6
+  [MOVEMENT] B:Vigil of Masis Dream-Reader of Tir 3,6 -> 4,4
+  [MOVEMENT] A:Summer Rade Redcap Reivers 3,7 -> 4,6 (charge)
+  [MOVEMENT] B:Vigil of Masis Pahak Riflemen 4,5 -> 6,4
+  [MOVEMENT] A:Summer Rade Wild Hunt Riders 1,6 -> 4,7 (charge)
+  [ACTION] A:Summer Rade Wild Hunt Riders 4,7 -> 2,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Vigil of Masis Andranik Ozanian -> Sidhe Wardens 3: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Dream-Reader of Tir: Dream-Reader of Tir -2
+  [ACTION] ranged: B:Vigil of Masis Pahak Riflemen 1 -> Sidhe Wardens 3: Sidhe Wardens 3 -1
+  [ACTION] magic (Beltane Ember): A:Summer Rade High King Finvarra -> Wild Hunt Riders: no damage
+  [ACTION] ranged: B:Vigil of Masis Azat Lancers 1 -> Blackflint Archers: Blackflint Archers -1
+  [ACTION] melee: A:Summer Rade Wild Hunt Riders -> Pahak Riflemen 3: Pahak Riflemen 3 -20 DESTROYED
+  [ACTION] melee: B:Vigil of Masis Reedfire Champion -> Wild Hunt Riders: Wild Hunt Riders -5
+  [ACTION] ranged: A:Summer Rade Blackflint Archers -> Azat Lancers 1: Azat Lancers 1 -7
+  [ACTION] ranged: A:Summer Rade Sidhe Wardens 1 -> Pahak Riflemen: Pahak Riflemen -5
+  [ACTION] ranged: A:Summer Rade Sidhe Wardens 3 -> Azat Lancers 1: Azat Lancers 1 -1
+  [ACTION] magic (Feth Fiada): A:Summer Rade Sidhe Druid -> Sidhe Wardens 3: no damage
+  [ACTION] effect (Burning): B:Vigil of Masis Reedfire Champion -> Wild Hunt Riders: Wild Hunt Riders -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Moonless Veilblades (no legal action), A:Redcap Reivers (no legal action), B:HQ (no legal action)
+Moves undone:
+  B:Vigil of Masis Pahak Riflemen 3: R3 MOVEMENT 5,4 -> 4,4, R4 MOVEMENT -> 5,7 (toward the objective at 1,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] A:Summer Rade Flow of Magic: Quiet: nothing - made quiet active; 8 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Vigil of Masis Secure Objective on Azat Lancers 1: paid off - gave Azat Lancers 1: OC +1; 3 attack(s) it touched: +0 expected HP for its side; decided 4 objective VP
+  [COMMAND] A:Summer Rade Secure Objective on Blackflint Archers: nothing - gave Blackflint Archers: OC +1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Vigil of Masis Rally Cry on Pahak Riflemen 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Summer Rade Beltane Ember on Wild Hunt Riders: paid off - gave Wild Hunt Riders: weapons ABLAZE, weapon AP +1; 2 attack(s) it touched: +2.74 expected HP for its side
+  [ACTION] B:Vigil of Masis Second Watch on Sidhe Druid: nothing - put VIGIL on Sidhe Wardens 3; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Summer Rade Feth Fiada on Sidhe Wardens 3: nothing - put HIDDEN on Sidhe Wardens 3, HIDDEN on Sidhe Druid
+Passive rules:
+  Omen of War (Wild Hunt Riders): 1 attack, 2.86 expected HP for its side
+  Warden of the Caucasus (Andranik Ozanian): 2 attacks, 0.33 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.26 expected HP for its side
+  Fairy Eyes (Blackflint Archers): 1 attack, 0.86 expected HP for its side
+  LUNAR-CHARGED ARROWS (Sidhe Wardens 1): 1 attack, 0.97 expected HP for its side
+  Fading Step (Sidhe Wardens 3): fired 1 time (grant_move)
+  Fading Step (Sidhe Druid): fired 1 time (grant_move)
+  Fading Step (Blackflint Archers): fired 1 time (grant_move)
+  Blood-Dyed Cap (Redcap Reivers): fired 10 times (mod_stat)
+  Fading Step (Wild Hunt Riders): fired 1 time (grant_move)
+  EVASION (Sidhe Wardens 3, 5+): 1 of 4 hits turned away
+  EVASION (Blackflint Archers, 5+): 1 of 2 hits turned away
+  EVASION (Wild Hunt Riders, 5+): 0 of 3 hits turned away
+  Wild Hunt Riders: MOVE 6 (5 without Otherworld Bridle)
+Scored by:
+  A:Summer Rade objectives (7,7) 3 VP: Sidhe Wardens 3 1.5, Sidhe Druid 1.5
+  A:Summer Rade objectives (1,7) 2 VP: High King Finvarra 0.7, Sidhe Wardens 1 0.7, Wild Hunt Riders 0.7
+  B:Vigil of Masis objectives (13,7) 2 VP: Azat Lancers 1 2.0; hinged on Azat Lancers 1
+  A:Summer Rade primary BLEED THEM WHITE 2 VP: Wild Hunt Riders 2.0
+  B:Vigil of Masis primary IMPENETRABLE FORTRESS 2 VP: Andranik Ozanian 0.4, Dream-Reader of Tir 0.4, Azat Lancers 1 0.4, Pahak Riflemen 0.4, Reedfire Champion 0.2, Vishap Harpooners 0.2
+Key log lines:
+  [COMMAND] Player A picks mission: VIGILANT WATCH
+  [COMMAND] Player B picks mission: INTO THE FRAY
+  [COMMAND] HQ Command: Secure Objective -> Azat Lancers 1 (cost 4 CP) by Player B
+  [COMMAND] HQ Command: Secure Objective -> Blackflint Archers (cost 4 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Pahak Riflemen 1
+  [MOVEMENT] [Vishap Harpooners] Fall Back to (5,8)
+  [MOVEMENT] [Andranik Ozanian] Overwatch Reaction vs Sidhe Wardens 3: no damage
+  [MOVEMENT] [Dream-Reader of Tir] Fall Back to (4,4)
+  [MOVEMENT] [Pahak Riflemen] Fall Back to (6,4)
+  [ACTION]   Warden destroyed
+  [ACTION] High King Finvarra casts Beltane Ember on Wild Hunt Riders
+  [ACTION]   Blackflint Archer destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak Sergeant destroyed
+  [ACTION]   Pahak Riflemen 3 DESTROYED in melee!
+  [ACTION]   Pahak Riflemen 3 was destroyed - no counterattack
+  [ACTION]   Wild Hunt Rider destroyed
+  [ACTION]   Wild Hunt Rider destroyed
+  [ACTION]   Wild Hunt Rider destroyed
+  [ACTION]   Azat destroyed
+  [ACTION]   Azat destroyed
+  [ACTION] Andranik Ozanian uses Second Watch!
+  [ACTION]   Pahak destroyed
+  [ACTION]   Pahak destroyed
+  [ACTION] Sidhe Druid casts Feth Fiada on Sidhe Wardens 3
+  [CLEANUP] PRIMARY BLEED THEM WHITE: Player A scores 2 VP (7/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 2 VP (7/10)
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R4)
+
+Damage leaders:
+  A:Summer Rade Wild Hunt Riders: 28 damage, 1 kills, 30 RP, 0.93/RP
+  A:Summer Rade Blackflint Archers: 23 damage, 2 kills, 30 RP, 0.77/RP
+  A:Summer Rade Redcap Reivers: 14 damage, 1 kills, 24 RP, 0.58/RP
+  A:Summer Rade Moonless Veilblades: 12 damage, 0 kills, 30 RP, 0.40/RP
+  A:Summer Rade Sidhe Wardens 1: 12 damage, 0 kills, 22 RP, 0.55/RP
+  B:Vigil of Masis Reedfire Champion: 6 damage, 0 kills, 22 RP, 0.27/RP
+  A:Summer Rade High King Finvarra: 5 damage, 0 kills, 60 RP, 0.08/RP
+  A:Summer Rade Sidhe Wardens 3: 5 damage, 0 kills, 17 RP, 0.29/RP
+  B:Vigil of Masis Vishap Harpooners: 5 damage, 0 kills, 25 RP, 0.20/RP
+  B:Vigil of Masis Pahak Riflemen 2: 4 damage, 1 kills, 20 RP, 0.20/RP (destroyed)
+  B:Vigil of Masis Andranik Ozanian: 2 damage, 0 kills, 45 RP, 0.04/RP
+  B:Vigil of Masis Azat Lancers 1: 1 damage, 0 kills, 30 RP, 0.03/RP
+  B:Vigil of Masis Pahak Riflemen 1: 1 damage, 0 kills, 20 RP, 0.05/RP
+  B:Vigil of Masis Pahak Riflemen 3: 1 damage, 0 kills, 20 RP, 0.05/RP (destroyed)
+  A:Summer Rade Sidhe Druid: 1 damage, 0 kills, 18 RP, 0.06/RP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Summer Rade Blackflint Archers: 8.4 VP (obj 4.0, primary 3.5, missions 0.9), hinged 4, 28.0/100 RP
+  A:Summer Rade Wild Hunt Riders: 7.4 VP (obj 3.7, primary 2.0, missions 1.6), hinged 2, 24.6/100 RP
+  B:Vigil of Masis Azat Lancers 1: 7.3 VP (obj 4.0, primary 1.3, missions 2.0), hinged 4, 24.3/100 RP
+  A:Summer Rade Sidhe Wardens 3: 6.6 VP (obj 6.4, primary 0.0, missions 0.1), hinged 3, 38.5/100 RP
+  A:Summer Rade Sidhe Druid: 2.9 VP (obj 2.7, primary 0.0, missions 0.1), hinged 0, 15.8/100 RP
+  A:Summer Rade Redcap Reivers: 2.6 VP (obj 1.0, primary 1.5, missions 0.1), hinged 0, 11.0/100 RP
+  A:Summer Rade Sidhe Wardens 1: 2.2 VP (obj 2.2, primary 0.0, missions 0.0), hinged 0, 10.2/100 RP
+  A:Summer Rade High King Finvarra: 1.7 VP (obj 1.7, primary 0.0, missions 0.0), hinged 0, 2.9/100 RP
+  B:Vigil of Masis Andranik Ozanian: 1.3 VP (obj 0.0, primary 1.3, missions 0.0), hinged 0, 2.9/100 RP
+  B:Vigil of Masis Dream-Reader of Tir: 1.1 VP (obj 0.0, primary 1.1, missions 0.0), hinged 0, 6.2/100 RP
+  B:Vigil of Masis Pahak Riflemen: 0.9 VP (obj 0.0, primary 0.9, missions 0.0), hinged 0, 6.1/100 RP
+  B:Vigil of Masis Pahak Riflemen 3: 0.9 VP (obj 0.0, primary 0.9, missions 0.0), hinged 0, 4.5/100 RP
+  B:Vigil of Masis Reedfire Champion: 0.6 VP (obj 0.0, primary 0.6, missions 0.0), hinged 0, 2.8/100 RP
+  B:Vigil of Masis Vishap Harpooners: 0.6 VP (obj 0.0, primary 0.6, missions 0.0), hinged 0, 2.5/100 RP
+  B:Vigil of Masis Pahak Riflemen 2: 0.2 VP (obj 0.0, primary 0.2, missions 0.0), hinged 0, 1.0/100 RP
+  A:Summer Rade Sidhe Wardens 2: 0.2 VP (obj 0.2, primary 0.0, missions 0.0), hinged 0, 1.2/100 RP
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  A:Summer Rade Moonless Veilblades: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 0/0/1/0/0/0
+  A:Summer Rade Redcap Reivers: inaction 2 (2 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0/1
+  B:Vigil of Masis Andranik Ozanian: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/0/1/1/0/0
+  B:Vigil of Masis Azat Lancers 1: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 1/1/0/0/0/2
+  B:Vigil of Masis Dream-Reader of Tir: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/0/1/0/1/0
+  B:Vigil of Masis Pahak Riflemen 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/1/1/0/0/0
+  B:Vigil of Masis Reedfire Champion: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/1/0/1
+  B:Vigil of Masis Pahak Riflemen 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/1/0/0/0/0
+  B:Vigil of Masis Azat Lancers 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 2/0/0/0/0/1
+  B:Vigil of Masis Pahak Riflemen: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/0/0/0/0
+  A:Summer Rade Sidhe Wardens 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/0/1
+  B:Vigil of Masis Pahak Riflemen 3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/1/0/0/0/1
+  B:Vigil of Masis Vishap Harpooners: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/3/0/0/0/1
+  A:Summer Rade High King Finvarra: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/2/3
+  A:Summer Rade Sidhe Druid: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/2/4
+  A:Summer Rade Blackflint Archers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/4/0/0/0/4
+  A:Summer Rade Sidhe Wardens 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/3/0/0/0/3
+  A:Summer Rade Sidhe Wardens 3: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/3/0/0/0/4
+  A:Summer Rade Wild Hunt Riders: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/2/1/0/0/4
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 4
+  A:Summer Rade Wild Hunt Riders: 1 of 5 moves (0 back, 1 away from an objective), 5 squares lost
+  B:Vigil of Masis Pahak Riflemen 1: 1 of 4 moves (0 back, 1 away from an objective), 3 squares lost
+  B:Vigil of Masis Pahak Riflemen 2: 1 of 3 moves (0 back, 1 away from an objective), 1 squares lost
+  B:Vigil of Masis Pahak Riflemen 3: 1 of 4 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Summer Rade SECURE THE FLANKS (+2 VP): kept R1, completed R2 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  A:Summer Rade TERRITORIAL SUPERIORITY (+3 VP): kept R2, completed R2 - At the end of a Battle Round, control more Objectives than your opponent.
+  A:Summer Rade OBJECTIVE RELAY (+2 VP): kept R3, active - Move a unit that was within an Objective Area at Mission entry to a different Objective Area.
+  A:Summer Rade VIGILANT WATCH (+1 VP): kept R4, active - Perform an OVERWATCH Reaction with a unit within an Objective Area.
+  B:Vigil of Masis PUSH FORWARD (+2 VP): kept R1, expired R3 - In a single Movement Phase, have at least 2 friendly units use the Advance action and end it in the enemy half of the battlefield.
+  B:Vigil of Masis IRON GRIP (+2 VP): kept R2, completed R3 - Maintain a minimum of 7 OC on a single Objective.
+  B:Vigil of Masis FOCUSED FIRE (+2 VP): kept R3, expired R4 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Vigil of Masis INTO THE FRAY (+2 VP): kept R4, active - Make a successful CHARGE against an enemy unit.

@@ -1,0 +1,1 @@
+[{"old":"  var open = G.unitActivation;\n  if (!open) return fn();\n  G.unitActivation = null;","new":"  var open = G.unitActivation;\n  if (open || !open) return fn();\n  G.unitActivation = null;"}]

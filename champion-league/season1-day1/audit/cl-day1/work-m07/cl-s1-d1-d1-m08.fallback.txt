@@ -1,0 +1,19 @@
+cl-s1-d1-d1-m08: 18 decisions, 10 Fall Backs (8 sound, 0 costly, 0 left a winning fight, 2 doubtful), 8 stayed (6 held, 1 risky hold, 0 held to the end, 0 should have left, 0 could not escape, 1 caught by others)
+  report.json R2 Cultist Troopers 1 [Bailiffs of Petra] FELL BACK: sound - danger 15.07 expected melee damage against 8 HP | after: lost 1 HP; its enemies then struck Cultist Troopers 3
+  report.json R3 Forsaken [Bailiffs of Petra] stayed: held - danger 0.56 expected melee damage against 10 HP | after: lost 9 HP
+  report.json R3 Rapacious Crusader 1 [Bailiffs of Petra] stayed: caught by others - danger 0.11 expected melee damage against 16 HP; it was winning the fight: 1.3 expected damage dealt | after: lost 4 HP, destroyed
+  report.json R4 Legionnaire Squad 2 [Legio XIII] FELL BACK: sound - danger 0.16 expected melee damage against 10 HP; it was winning the fight: 1 expected damage dealt, enough to destroy an engager; the square it falls back to takes 2 objective VP | after: lost 10 HP, destroyed
+  report.json R4 Earthshaker Mortar [Legio XIII] stayed: held - danger 0.24 expected melee damage against 6 HP | after: lost 0 HP
+  report.json R4 Ironthunder Vanguard 2 [Legio XIII] stayed: held - danger 0.52 expected melee damage against 12 HP; it was winning the fight: 7.8 expected damage dealt | after: lost 0 HP
+  report.json R4 The Chairman of the Chamber [Bailiffs of Petra] FELL BACK: sound - danger 7.86 expected melee damage against 8 HP | after: lost 1 HP; its enemies then struck Cultist Troopers 1
+  report.json R4 Forsaken [Bailiffs of Petra] FELL BACK: doubtful - danger 0.14 expected melee damage against 1 HP | after: lost 1 HP; its enemies then struck Rapacious Crusader 3
+  report.json R4 Rapacious Crusader 2 [Bailiffs of Petra] FELL BACK: sound - danger 12 expected melee damage against 14 HP | after: lost 3 HP
+  report.json R4 Cultist Troopers 1 [Bailiffs of Petra] stayed: held - danger 0.16 expected melee damage against 7 HP; it was winning the fight: 1.93 expected damage dealt | after: lost 0 HP
+  report.json R5 Cultist Troopers 1 [Bailiffs of Petra] stayed: held - danger 0.16 expected melee damage against 7 HP; it was winning the fight: 1 expected damage dealt, enough to destroy an engager | after: lost 0 HP
+  report.json R5 Augur [Legio XIII] FELL BACK: sound - danger 2 expected melee damage against 1 HP; leaving opens 2 shot(s) at its enemies; 0 taken | after: lost 0 HP
+  report.json R5 Ironthunder Vanguard 1 [Legio XIII] stayed: held - danger 0.19 expected melee damage against 18 HP; it was winning the fight: 17.5 expected damage dealt | after: lost 0 HP
+  report.json R6 Ironthunder Vanguard 2 [Legio XIII] FELL BACK: sound - danger 0 expected melee damage against 12 HP; it was winning the fight: 2 expected damage dealt, enough to destroy an engager; leaving opens 1 shot(s) at its enemies; 0 taken | after: lost 0 HP
+  report.json R6 Stygian Actuary [Bailiffs of Petra] FELL BACK: sound - danger 3.75 expected melee damage against 2 HP | after: lost 1 HP
+  report.json R6 Rapacious Crusader 2 [Bailiffs of Petra] FELL BACK: doubtful - danger 4 expected melee damage against 10 HP | after: lost 2 HP
+  report.json R6 Cultist Troopers [Bailiffs of Petra] stayed: risky hold - danger 25.28 expected melee damage against 20 HP | after: lost 6 HP
+  report.json R6 Master of Coin [Bailiffs of Petra] FELL BACK: sound - danger 15.05 expected melee damage against 8 HP | after: lost 3 HP

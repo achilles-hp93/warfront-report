@@ -1,0 +1,29 @@
+cl-s1-d1-d1-m07: 18 uses, 10 bought nothing
+  [Sword of Allah] Matter Transmutation: Naft Pitch (spend): 3 uses, 1 bought nothing; 0 CP 0 Mana 6 al_kimiya_ingredients; damage 7; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sword of Allah] Double Time (command): 2 uses, 2 bought nothing; 4 CP 0 Mana; damage 0; enabled 0 (0); moves 0/2 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sword of Allah] Rally Cry (reaction): 2 uses, 0 bought nothing; 4 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 2
+  [Sword of Allah] Matter Transmutation: Zi'baq Beads (spend): 1 uses, 0 bought nothing; 0 CP 0 Mana 1 al_kimiya_ingredients; damage 0.26; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sword of Allah] Go to Ground (reaction): 1 uses, 0 bought nothing; 1 CP 0 Mana; damage 1.18; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sword of Allah] Matter Transmutation: Zarnikh Paste (spend): 1 uses, 1 bought nothing; 0 CP 0 Mana 2 al_kimiya_ingredients; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Sword of Allah] Cosmic Surge (ability): 1 uses, 0 bought nothing; 0 CP 0 Mana; damage 3.52; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Wolfshead Pack] Double Time (command): 4 uses, 4 bought nothing; 8 CP 0 Mana; damage 0; enabled 0 (0); moves 0/3 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Wolfshead Pack] Shed the Red Skin (spell): 2 uses, 2 bought nothing; 0 CP 6 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Wolfshead Pack] Secure Objective (command): 1 uses, 0 bought nothing; 4 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 2; VP of its units 0; spotted 0; morale 0
+    report.json R1 COMMAND Matter Transmutation: Zi'baq Beads by Muqatila Troopers 1 on Muqatila Troopers 1: paid off - gave Muqatila Troopers 1: weapons SUSTAINED ATTACK 1; 4 attack(s) it touched: +0.26 expected HP for its side
+    report.json R1 COMMAND Double Time by HQ on Mongrel Supplicants: nothing - gave Mongrel Supplicants: MOVE +2; 1 move(s) with it, 0 out of reach without it
+    report.json R1 COMMAND Double Time by HQ on Muqatila Troopers 1: nothing - gave Muqatila Troopers 1: MOVE +2; Rammal Geomancer: MOVE +2; 1 move(s) with it, 0 out of reach without it
+    report.json R2 COMMAND Matter Transmutation: Naft Pitch by Muqatila Troopers 1 on Muqatila Troopers 1: paid off - gave Muqatila Troopers 1: weapons ABLAZE; 4 attack(s) it touched: +0 expected HP for its side; 3 HP of BURNED or field damage on enemies later
+    report.json R2 COMMAND Double Time by HQ on Abna al-Dawla Guard: nothing - gave Saladin - Al-Malik al-Nasir: MOVE +2; Abna al-Dawla Guard: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+    report.json R2 COMMAND Double Time by HQ on Wildling Acolytes: nothing - gave Wildling Acolytes: MOVE +2; 4 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+    report.json R2 ACTION Shed the Red Skin by Herald of Feral Affliction on Herald of Feral Affliction: nothing - gave Herald of Feral Affliction: CAPABILITY +1, CHARGE_ROLL +1
+    report.json R3 COMMAND Matter Transmutation: Naft Pitch by Muqatila Troopers 2 on Muqatila Troopers 2: paid off - gave Muqatila Troopers 2: weapons ABLAZE; 4 attack(s) it touched: +0 expected HP for its side; 4 HP of BURNED or field damage on enemies later
+    report.json R3 COMMAND Double Time by HQ on Assault Lycanthropes: nothing - gave Assault Lycanthropes: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+    report.json R3 ACTION Go to Ground by Bounded Ifrit on Bounded Ifrit: paid off - 1 attack(s) it touched: +1.18 expected HP for its side
+    report.json R4 COMMAND Matter Transmutation: Zarnikh Paste by Muqatila Troopers 2 on Muqatila Troopers 2: nothing - gave Muqatila Troopers 2: weapons POISON; 2 attack(s) it touched: +0 expected HP for its side
+    report.json R4 COMMAND Double Time by HQ on Weretiger Stalkers: nothing - gave Weretiger Stalkers: MOVE +2
+    report.json R4 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R5 COMMAND Matter Transmutation: Naft Pitch by Saladin - Al-Malik al-Nasir on Saladin - Al-Malik al-Nasir: nothing - gave Saladin - Al-Malik al-Nasir: weapons ABLAZE; 2 attack(s) it touched: +0 expected HP for its side
+    report.json R5 COMMAND Secure Objective by HQ on Assault Lycanthropes: paid off - gave Assault Lycanthropes: OC +1; decided 2 objective VP
+    report.json R5 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R5 ACTION Cosmic Surge by Bounded Ifrit on -: paid off - gave Bounded Ifrit: weapon AR +1, weapon DMG +1, weapon AP +1, weapon FR +1; 1 attack(s) it touched: +3.52 expected HP for its side
+    report.json R5 ACTION Shed the Red Skin by Beast-Monk on Wendigo Manreaver: nothing - gave Wendigo Manreaver: CAPABILITY +1, CHARGE_ROLL +1

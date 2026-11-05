@@ -1,0 +1,62 @@
+AI: an ADVANCE is priced on every action it takes from its units; a pair's CHARGE gives up both units' shots
+
+The user's ruling (2026-10-30, round 4): "a unit that only advance is a
+problem too. It lost out on shooting usually. We need to price whether an
+advance is justified." The first-turn push checked only the moving unit
+(its move-fire penalty, the Artillery role, its own shot) and the ordinary
+ADVANCE only the mover's own damage from where it stood; a joined
+CHARACTER's shots and casts never counted. 84 of Day 1's 91 pairs with a
+CHARACTER advanced in Round 1, and 45 of those CHARACTERs made no shot or
+cast that round.
+
+One price, ai/movement/forgone_actions.js (aiForgoneActions), for both moves:
+- an ADVANCE: for every unit of the footprint, what its action this round
+  is worth had the footprint walked to the walk's square (or stood), less
+  what it is worth after the ADVANCE on the square each roll of its Movement
+  Dice takes it to, at that roll's chance. Each is the AI's own reading:
+  the best shot this round (the old aiChargeForgoneShot's estimate, now at
+  enemies in the army's sight this round - _aiEnemiesInSightThisRound, the
+  before-moving shot rule's - and with the weapons the rules let fire), or
+  the Action Phase's best candidate there (aiUnitBestAction, read as the
+  unit's own activation: a cast, an ability). The rules decide what is left
+  after the ADVANCE, read through withFootprintAdvanced
+  (movement/default_actions.js, marking the pair as advanceUnit does): an
+  ASSAULT weapon, everything for a unit a rule lets act (Legacy of Rakhsh);
+- a CHARGE: every footprint unit's best shot - a pair's CHARGE locks both
+  units' ranged weapons (core/movement/charge.js since 9f66b27a), and the
+  charge score and the COUNTERCHARGE's worth took off the charging unit's
+  alone.
+
+aiAdvanceWorth (ai/movement/advance_plan.js) is the ADVANCE's ground over its
+dice (aiAdvanceExpectedScore, the destination score: an Objective Area, the
+targets, charges and objective of the next round) less those actions at
+W_CHARGE_COMBAT, the weight a CHARGE's lost shot has against the ground. The
+push and the ordinary ADVANCE go only when it beats the walk's own square
+(_aiChargeFloorGround, as a charge must); the push carries it as `worth`,
+which a CHARGE must beat to be made instead, and an HQ command's price of the
+move reads it (aiUnitMoveChoiceGain). The Artillery-only rule and the 1.0
+margin are gone into it; the ordinary ADVANCE is weighed only when no walk is
+taken. aiAdvanceRollSquares is the one roll -> square reading the ground and
+the actions are priced over.
+
+Note: there is no rule that a unit which Advanced has OC 0 (core rules,
+Objectives: only an air-deployed unit contributes 0 OC that round), so the
+ADVANCE square's objective term counts this round's control, as the engine
+scores it.
+
+Tests: 132 - the push goes only when its ground beats the shots it gives up
+(the gun, and a squad that is no artillery, priced alike; it used to say a
+squad that is no artillery pushes whatever it gives up), and a pair's push is
+priced on its CHARACTER's shot from the walk's square (the Spahbed's
+Firebreath; the Aswaran alone, who act after an ADVANCE, push for the same
+ground). 160 - a pair's CHARGE gives up the Spahbed's shot beside the
+Aswaran's, and the charge score takes off both. With the price's gate patched
+out of the built page the two 132 cases fail ("the gun walks and shoots",
+"the pair walks"); with aiForgoneActions summing the moving unit alone the
+pair cases fail in 132 and 160. 158, 233 and the push-against-charge case
+stand the price in (aiForgoneActions 0, the push's worth), as their own
+questions are the scout rule and the Double Time's dice; 187 reads the renamed
+helper.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

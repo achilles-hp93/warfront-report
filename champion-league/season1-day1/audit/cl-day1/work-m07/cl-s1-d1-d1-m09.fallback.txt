@@ -1,0 +1,27 @@
+cl-s1-d1-d1-m09: 26 decisions, 4 Fall Backs (3 sound, 0 costly, 0 left a winning fight, 1 doubtful), 22 stayed (11 held, 9 risky hold, 0 held to the end, 1 should have left, 0 could not escape, 1 caught by others)
+  report.json R2 Sidhe Wardens 2 [Cosán Sí Host] stayed: held - danger 1.78 expected melee damage against 8 HP; it was winning the fight: 3.7 expected damage dealt | after: lost 3 HP
+  report.json R2 Sidhe Wardens 1 [Cosán Sí Host] stayed: caught by others - danger 1.78 expected melee damage against 11 HP; it was winning the fight: 3.7 expected damage dealt; the square it falls back to takes 2 objective VP | after: lost 5 HP, destroyed; its enemies then struck Sidhe Wardens 2, Sidhe Wardens 2
+  report.json R2 Knight-Excisors [Knights of Camelot] stayed: held - danger 1.52 expected melee damage against 16 HP | after: lost 2 HP
+  report.json R3 Knight-Excisors [Knights of Camelot] stayed: held - danger 3.3 expected melee damage against 14 HP | after: lost 0 HP; its enemies then struck Merlin - Wizard of Avalon, Merlin - Wizard of Avalon, Merlin - Wizard of Avalon
+  report.json R3 Sidhe Wardens 2 [Cosán Sí Host] stayed: held - danger 1.78 expected melee damage against 5 HP | after: lost 0 HP; its enemies then struck Barghest
+  report.json R3 Rootwall Dryads 2 [Cosán Sí Host] FELL BACK: doubtful - danger 5.33 expected melee damage against 18 HP | after: lost 0 HP; its enemies then struck Barghest
+  report.json R3 Rootwall Dryads 1 [Cosán Sí Host] FELL BACK: sound - danger 22.5 expected melee damage against 18 HP; leaving opens 2 shot(s) at its enemies; 0 taken | after: lost 2 HP
+  report.json R3 Blackflint Archers [Cosán Sí Host] stayed: risky hold - danger 3.5 expected melee damage against 2 HP; the square it falls back to takes 2 objective VP | after: lost 0 HP
+  report.json R3 Waymarshal [Cosán Sí Host] stayed: risky hold - danger 4.64 expected melee damage against 4 HP; the square it falls back to takes 2 objective VP | after: lost 2 HP
+  report.json R4 Knight-Excisors [Knights of Camelot] stayed: held - danger 4.54 expected melee damage against 14 HP; its death would score the enemy 4 VP; it held 3 objective VP that leaving gives up | after: lost 0 HP; its enemies then struck Merlin - Wizard of Avalon, Merlin - Wizard of Avalon
+  report.json R4 Waymarshal [Cosán Sí Host] stayed: held - danger 0.64 expected melee damage against 2 HP; it was winning the fight: 4.45 expected damage dealt | after: lost 0 HP
+  report.json R4 Sidhe Wardens 2 [Cosán Sí Host] stayed: should have left - danger 1.78 expected melee damage against 5 HP | after: lost 2 HP, destroyed; its enemies then struck Waymarshal
+  report.json R4 Barghest [Cosán Sí Host] FELL BACK: sound - danger 13.01 expected melee damage against 7 HP | after: lost 0 HP; its enemies then struck Waymarshal
+  report.json R4 Rootwall Dryads 1 [Cosán Sí Host] stayed: risky hold - danger 22.5 expected melee damage against 18 HP; leaving opens 2 shot(s) at its enemies | after: lost 0 HP
+  report.json R4 Blackflint Archers [Cosán Sí Host] stayed: risky hold - danger 3.5 expected melee damage against 2 HP; the square it falls back to takes 2 objective VP | after: lost 0 HP
+  report.json R4 Coblynau Sappers 1 [Cosán Sí Host] stayed: risky hold - danger 10.16 expected melee damage against 6 HP | after: lost 0 HP
+  report.json R4 Rootwall Dryads 2 [Cosán Sí Host] stayed: risky hold - danger 22.5 expected melee damage against 18 HP | after: lost 0 HP
+  report.json R4 Parish Militia [Knights of Camelot] stayed: held - danger 2 expected melee damage against 16 HP; it held 3 objective VP that leaving gives up | after: lost 0 HP
+  report.json R5 Knight-Excisors [Knights of Camelot] stayed: held - danger 3.56 expected melee damage against 14 HP; its death would score the enemy 4 VP | after: lost 2 HP; its enemies then struck Merlin - Wizard of Avalon
+  report.json R5 Waymarshal [Cosán Sí Host] stayed: held - danger 0.64 expected melee damage against 2 HP; its death would score the enemy 3 VP; it was winning the fight: 3.33 expected damage dealt | after: lost 0 HP; its enemies then struck Rootwall Dryads 2
+  report.json R5 Sidhe Druid [Cosán Sí Host] FELL BACK: sound - danger 3.52 expected melee damage against 3 HP; its death would score the enemy 3 VP | after: lost 2 HP; its enemies then struck Rootwall Dryads 2
+  report.json R5 Barghest [Cosán Sí Host] stayed: risky hold - danger 10.34 expected melee damage against 7 HP; its death would score the enemy 3 VP | after: lost 1 HP
+  report.json R5 Rootwall Dryads 2 [Cosán Sí Host] stayed: risky hold - danger 22.5 expected melee damage against 18 HP; its death would score the enemy 3 VP | after: lost 3 HP
+  report.json R5 Rootwall Dryads 1 [Cosán Sí Host] stayed: risky hold - danger 22.5 expected melee damage against 18 HP; its death would score the enemy 3 VP | after: lost 0 HP
+  report.json R5 Parish Militia [Knights of Camelot] stayed: held - danger 3.33 expected melee damage against 16 HP | after: lost 0 HP
+  report.json R5 HQ [Knights of Camelot] stayed: held - danger 0.5 expected melee damage against 8 HP | after: lost 0 HP

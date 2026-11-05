@@ -1,0 +1,19 @@
+AI presence: the VP a unit holds where it stands - its objective, one it denies the enemy, both Primaries
+AI presence: a walk off an objective the unit holds alone must beat the VP it gives up
+AI deciding round: a round a player can win in weighs what comes after it at a quarter
+AI Fall Back: the enemy it fights counts once, and a square out of its next charge is preferred
+AI: leaving a held objective costs a charge or a walk the VP it holds there
+AI: a charge beats a walk on the square the walk reaches, not the far square it heads for
+AI Fall Back: a unit winning its fight stays; one losing it to an engager that cannot follow leaves
+AI Fall Back: the objective swing, a charge's bonus, and what a death scores
+AI: a CHARGE is priced as an attack - the shot it gives up, a target that Falls Back, the fight beside it
+grant_move: queued, fall back, charge, choice, once-per-round, staged step and immediate move-order shapes, each through its consumer
+RAISE THE STANDARD: the AI plants near the objectives its army fights over, not in its corner
+RAISE THE STANDARD: the plant is a compulsory square pick, and a PASS plants the AI's square
+RAISE THE STANDARD: the AI is pulled to an unguarded standard, less once it is guarded
+AI: a HOVER unit flies to travel and lands to hold an objective
+AI: Transitional State is a rapid deployment - worth the strike beyond its walk, never an escape
+AI: an Emerge square is worth the objective it leads to and the Primary VP it scores
+AI: the first-turn push only takes ground closer to an objective
+AI: a unit already holding an objective does not push off it
+AI: the first-turn push short of an objective gives way to a shot this round

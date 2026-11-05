@@ -1,0 +1,1051 @@
+Oak of Gernika (A, euskal_herria) vs Sineaters of Damascus (B, infernal_congregations) on CROSSROADS, seed 460703111
+Result: B:Sineaters of Damascus wins (VP) in round 6, VP 20 / 34
+Initiative: B:Sineaters of Damascus; formation order [1,0]
+Army A:Oak of Gernika (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Tomas Zumalakarregi - 65 RP, 1 models, 7 HP, leads Etxe Riflemen 1, Marshal
+  Etxe Riflemen 1 - 15 RP, 10 models, 20 HP, led by Tomas Zumalakarregi
+  Foral Captain - 22 RP, 1 models, 6 HP, leads Etxe Riflemen 2
+  Etxe Riflemen 2 - 15 RP, 10 models, 20 HP, led by Foral Captain
+  Sorgin - 18 RP, 1 models, 4 HP, leads Mikelete Marksmen
+  Mikelete Marksmen - 18 RP, 3 models, 6 HP, led by Sorgin
+  Etxe Riflemen 3 - 15 RP, 10 models, 20 HP
+  Sugaar Gun - 35 RP, 1 models, 7 HP
+  Basajaun Smith - 45 RP, 1 models, 10 HP
+Army B:Sineaters of Damascus (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Plague Monarch - 70 RP, 1 models, 14 HP, leads Poxknight, Marshal
+  Poxknight - 38 RP, 5 models, 15 HP, led by The Plague Monarch
+  Beast of Contagion - 50 RP, 1 models, 15 HP
+  Mawkin 1 - 28 RP, 10 models, 20 HP
+  Mawkin 2 - 28 RP, 10 models, 20 HP
+  Cultist Troopers - 10 RP, 10 models, 20 HP
+  Hellkin - 25 RP, 5 models, 20 HP
+Primary A:Oak of Gernika: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: RAISE THE STANDARD, ERADICATE THE FOE, DEBT OF BLOOD; picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 0 (count 0), R5 0 (count 0), R6 2 (count 1); total 2
+Primary B:Sineaters of Damascus: WIDE SWEEP - At the end of each Battle Round, score 2 VP if friendly units stand in three quarters of the battlefield, or 3 VP if they stand in all four. A unit counts only if it is more than 2 squares from the centre of the battlefield; the centre row and column belong to no quarter.
+  hand: DEEP INFILTRATION, WIDE SWEEP, SILENT MANEUVER (does not fit); picked wide_sweep
+  scored per round: R1 0 (count 1), R2 0 (count 0), R3 0 (count 2), R4 0 (count 2), R5 2 (count 3), R6 2 (count 3); total 4
+
+=== BATTLE ROUND 1 ===
+A:Oak of Gernika: VP +3 (obj 3, primary 0, missions 0) = 3; CP +3 -3 holds 0 [2 Double Time → Etxe Riflemen 3; 1 Scouting Order → Etxe Riflemen 1]
+B:Sineaters of Damascus: VP +0 (obj 0, primary 0, missions 0) = 0; CP +2 -2 holds 0 [2 Double Time → Poxknight]
+A:Oak of Gernika keeps mission FOCUSED FIRE (offered FOCUSED FIRE / FORWARD DEPLOYMENT)
+B:Sineaters of Damascus keeps mission KING OF THE HILL (offered KING OF THE HILL / TERRITORIAL SUPERIORITY)
+Moves:
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 9,2 -> 8,7 (advance)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 3 10,12 -> 6,8 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Hellkin 3,1 -> 9,3 (advance)
+  [MOVEMENT] A:Oak of Gernika Mikelete Marksmen + Sorgin 7,12 -> 7,9 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 10,2 -> 12,5 (advance)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 4,12 -> 5,8 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 11,2 -> 11,7 (advance)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 5,12 -> 6,7 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 7,2 -> 7,6 (charge)
+  [MOVEMENT] A:Oak of Gernika Basajaun Smith 9,13 -> 12,9 (advance)
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 5,2 -> 7,7 (advance)
+Combat:
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 2 -> Etxe Riflemen 1: Etxe Riflemen 1 -13, Mawkin 2 -5
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Poxknight: Poxknight -6
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Foral Captain (no legal action), A:Etxe Riflemen 2 (no legal action), A:Sorgin (no legal action), A:Mikelete Marksmen (no legal action), A:Etxe Riflemen 3 (no legal action), A:Basajaun Smith (no legal action), B:HQ (no legal action), B:The Plague Monarch (no legal action), B:Poxknight (no legal action), B:Beast of Contagion (no legal action), B:Mawkin 1 (no legal action), B:Cultist Troopers (no legal action), B:Hellkin (no legal action)
+Commands and abilities:
+  [COMMAND] B:Sineaters of Damascus Plague: Glutton's Maw: nothing - made GLUTTONS_MAW (was BLIGHTSHELL_POX) active; 24 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Oak of Gernika Burdinola Forge: Etxe Riflemen 1: paid off - gave Tomas Zumalakarregi: weapon AP +1; Etxe Riflemen 1: weapon AP +1; 3 attack(s) it touched: +0.33 expected HP for its side
+  [COMMAND] B:Sineaters of Damascus Double Time on Poxknight: nothing - gave The Plague Monarch: MOVE +2; Poxknight: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] A:Oak of Gernika Double Time on Etxe Riflemen 3: nothing - gave Etxe Riflemen 3: MOVE +2; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] A:Oak of Gernika Scouting Order on Etxe Riflemen 1: nothing - gave Tomas Zumalakarregi: PER +2; Etxe Riflemen 1: PER +2; 3 attack(s) it touched: +0 expected HP for its side
+Scored by:
+  A:Oak of Gernika objectives (7,7) 3 VP: Etxe Riflemen 3 2.0, Tomas Zumalakarregi 0.5, Etxe Riflemen 1 0.5; hinged on Etxe Riflemen 3
+Log:
+  [] Map selected: CROSSROADS (Central Faceoff)
+  [] [AI] Formation selected: ⚔ Sineaters of Damascus · Doctrine: None (7 units)
+  [] [AI] Formation selected: ⚔ Oak of Gernika · Doctrine: None (9 units)
+  [] Tomas Zumalakarregi leads Etxe Riflemen 1 as its bodyguard
+  [] Foral Captain leads Etxe Riflemen 2 as its bodyguard
+  [] Sorgin leads Mikelete Marksmen as its bodyguard
+  [] The Plague Monarch leads Poxknight as its bodyguard
+  [] Player A: HQ auto-deployed at (7,13)
+  [] Player B: HQ auto-deployed at (7,1)
+  [] Seize The Ground: 3 objectives placed
+  [] [AI] Sugaar Gun deployed at (3,12)
+  [] [AI] Beast of Contagion deployed at (5,2)
+  [] [AI] Basajaun Smith deployed at (9,13)
+  [] [AI] Hellkin deployed at (3,1)
+  [] [AI] Etxe Riflemen 1 deployed at (5,12)
+  [] [AI] Poxknight deployed at (9,2)
+  [] [AI] Etxe Riflemen 2 deployed at (4,12)
+  [] [AI] Mawkin 1 deployed at (11,2)
+  [] [AI] Mikelete Marksmen deployed at (7,12)
+  [] [AI] Mawkin 2 deployed at (7,2)
+  [] [AI] Etxe Riflemen 3 deployed at (10,12)
+  [] [AI] Cultist Troopers deployed at (10,2)
+  [COMMAND] Beast of Contagion begins the battle in the air
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] ◈ BATTLE BEGINS - MAP: CROSSROADS
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] Player A formation (10 units): HQ, Tomas Zumalakarregi, Etxe Riflemen 1, Foral Captain, Etxe Riflemen 2, Sorgin, Mikelete Marksmen, Etxe Riflemen 3, Sugaar Gun, Basajaun Smith
+  [COMMAND] Player B formation (8 units): HQ, The Plague Monarch, Poxknight, Beast of Contagion, Mawkin 1, Mawkin 2, Cultist Troopers, Hellkin
+  [COMMAND] PRIORITY: Player B (fewer units on the battlefield, 8 to 10)
+  [COMMAND] ⚔ BATTLE ROUND 1 - BEGIN
+  [COMMAND] COMMAND PHASE
+  [COMMAND] [AI] Initialised - AI vs AI mode (both players)
+  [COMMAND] PLAGUE: Player B rolls 4 - Glutton's Maw. Afflicted units suffer 1 True Damage at the end of Movement.
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] [Beast of Contagion] gains PESTILENCE
+  [COMMAND] [Hellkin] gains PESTILENCE
+  [COMMAND] [Beast of Contagion] spreads PESTILENCE to HQ
+  [COMMAND] COMMAND PHASE - Round 1 - A:3 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:3 B:2
+  [COMMAND] Player A keeps a Primary Mission
+  [COMMAND] Player B keeps a Primary Mission
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B WIDE SWEEP
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: KING OF THE HILL
+  [COMMAND] Mikelete Marksmen MARK THE APPROACHES: Trip Marker at (7,7)
+  [COMMAND] Basajaun Smith BURDINOLA FORGE: Etxe Riflemen 1
+  [COMMAND] HQ Command: Double Time -> Poxknight (cost 2 CP) by Player B
+  [COMMAND] DOUBLE TIME: Poxknight gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Etxe Riflemen 3 (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Etxe Riflemen 3 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] HQ Command: Scouting Order -> Etxe Riflemen 1 (cost 1 CP) by Player A
+  [COMMAND] SCOUTING ORDER: each model in Etxe Riflemen 1 gains +2 PER this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] [Poxknight] Advance: Movement Dice 4, 1, 1 add 1, 5 Movement Points
+  [MOVEMENT] Poxknight Advances: +1 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Poxknight moved to (8,7)
+  [MOVEMENT] [Etxe Riflemen 3] Advance: Movement Dice 3, 3, 6 add 1, 6 Movement Points
+  [MOVEMENT] Etxe Riflemen 3 Advances: +1 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Etxe Riflemen 3 moved to (6,8)
+  [MOVEMENT] [Hellkin] Advance: Movement Dice 6, 6, 3 add 2, 7 Movement Points
+  [MOVEMENT] Hellkin Advances: +2 from the Movement Dice, 7 Movement Points.
+  [MOVEMENT] Hellkin moved to (9,3)
+  [MOVEMENT] [Mikelete Marksmen] Advance: Movement Dice 2, 6, 2 add 1, 4 Movement Points
+  [MOVEMENT] Mikelete Marksmen Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Mikelete Marksmen moved to (7,9)
+  [MOVEMENT] [Cultist Troopers] Advance: Movement Dice 1, 3, 5 add 1, 4 Movement Points
+  [MOVEMENT] Cultist Troopers Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Cultist Troopers moved to (12,5)
+  [MOVEMENT] [Etxe Riflemen 2] Advance: Movement Dice 5, 2, 1 add 1, 4 Movement Points
+  [MOVEMENT] Etxe Riflemen 2 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Etxe Riflemen 2 moved to (5,8)
+  [MOVEMENT] [Mawkin 1] Advance: Movement Dice 2, 4, 1 add 1, 5 Movement Points
+  [MOVEMENT] Mawkin 1 Advances: +1 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Mawkin 1 moved to (11,7)
+  [MOVEMENT] [Etxe Riflemen 1] Advance: Movement Dice 5, 4, 3 add 2, 5 Movement Points
+  [MOVEMENT] Etxe Riflemen 1 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Etxe Riflemen 1 moved to (6,7)
+  [MOVEMENT] Mawkin 2 moved to (7,6)
+  [MOVEMENT] Mawkin 2 Charges Tomas Zumalakarregi, Etxe Riflemen 1
+  [MOVEMENT] [Basajaun Smith] Advance: Movement Dice 3, 5, 2 add 1, 6 Movement Points
+  [MOVEMENT] Basajaun Smith Advances: +1 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Basajaun Smith moved to (12,9)
+  [MOVEMENT] [Beast of Contagion] Advance: Movement Dice 2, 4, 5 add 2, 7 Movement Points
+  [MOVEMENT] Beast of Contagion Advances: +2 from the Movement Dice, 7 Movement Points.
+  [MOVEMENT] Beast of Contagion moved to (7,7)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Mawkin 2 attacks in melee with 1 combat group
+  [ACTION] Mawkin 2 engages Etxe Riflemen 1 in melee combat
+  [ACTION]   Initiative: Mawkin 2 (INI 9, +3 charge) → Tomas Zumalakarregi (INI 6) → Etxe Riflemen 1 (INI 5)
+  [ACTION] Mawkin 2 SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Mawkin 2 (10x Voidmaw) MELEE vs Etxe Riflemen 1 (AR 30): [6✓][5✓][5✓][5✓][5✓][5✓][5✓][5✓][5✓][5✓][4✓][4✓][4✓][4✓][4✓][4✓][4✓][4✓][3✗][3✗][3✗][3✗][3✗][2✗][2✗][2✗][1✗][1✗][1✗][1✗][1✗] → 18 hits [MS 4]
+  [ACTION]   Etxe Riflemen 1: 13 damage (20 → 7)
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Tomas Zumalakarregi counterattacks
+  [ACTION]   Tomas Zumalakarregi spends 1 APt to counterattack
+  [ACTION]   Tomas Zumalakarregi (Scarified Makila) MELEE vs Mawkin 2 (AR 5): [6✓][5✓][3✓][2✗][1✗] → 3 hits [MS 6]
+  [ACTION]   Mawkin 2: 3 damage (20 → 17)
+  [ACTION]   Mawkin destroyed
+  [ACTION]   Etxe Riflemen 1 counterattacks
+  [ACTION]   Etxe Riflemen 1 spends 1 APt to counterattack
+  [ACTION]   Etxe Riflemen 1 (3x Socket Bayonet) MELEE vs Mawkin 2 (AR 3): [4✓][2✗][1✗] → 1 hits [MS 4]
+  [ACTION]   Mawkin 2: 1 damage (17 → 16)
+  [ACTION]   Mawkin destroyed
+  [ACTION]   Etxe Riflemen 1 (Socket Bayonet) MELEE vs Mawkin 2 (AR 1): [4✓] → 1 hits [MS 4]
+  [ACTION]   Mawkin 2: 1 damage (16 → 15)
+  [ACTION] Sugaar Gun opens fire with 1 combat group
+  [ACTION]   SWEEP 1: +1 FR (1 per model x 1 model, vs 5 target models)
+  [ACTION] 1x Sugaar Gun (Sugaar Gun) HIT vs Poxknight (FR 3): [3✓][5✓][6✓] → 3/3 hits (needs 4+) [HIT mod: +1 MARKED]
+  [ACTION]   Poxknight SAVE (3 dice): [6✓][4✗][4✗] → 1/3 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Poxknight takes 6 damage (15 → 9)
+  [ACTION]   Poxknight destroyed
+  [ACTION]   Poxknight destroyed
+  [ACTION]   Poxknight: PARALYZED
+  [ACTION]   The Plague Monarch: PARALYZED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] [Mawkin 2] LORD OF THE SWARM: heals 1 HP
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 17 vs 10)
+  [CLEANUP] VP - Player A: 3 | Player B: 0
+
+=== BATTLE ROUND 2 ===
+A:Oak of Gernika: VP +4 (obj 4, primary 0, missions 0) = 7; CP +3 -2 holds 1 [2 Double Time → Mikelete Marksmen]
+  mana: +1 -0 holds 1
+B:Sineaters of Damascus: VP +3 (obj 3, primary 0, missions 0) = 3; CP +2 -2 holds 0 [2 Double Time → Cultist Troopers]
+A:Oak of Gernika keeps mission FORWARD PRESENCE (offered FORWARD PRESENCE / PROBING STRIKE)
+B:Sineaters of Damascus keeps mission PROBING STRIKE (offered PROBING STRIKE / LAST STAND)
+A:Oak of Gernika mission FOCUSED FIRE: expired
+Moves:
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 12,5 -> 8,6
+  [MOVEMENT] A:Oak of Gernika Mikelete Marksmen + Sorgin 7,9 -> 2,8
+  [MOVEMENT] B:Sineaters of Damascus Hellkin 9,3 -> 7,5
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 5,8 -> 8,9
+  [MOVEMENT] A:Oak of Gernika Basajaun Smith 12,9 -> 13,6
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 8,7 -> 6,6 (charge)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 6,7 -> 6,10
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 7,6 -> 7,8 (charge)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 3 6,8 -> 5,10
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 7,7 -> 3,7 (charge)
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 3 -> Cultist Troopers: Cultist Troopers -2
+  [MOVEMENT] ranged (Overwatch): B:Sineaters of Damascus The Plague Monarch -> Etxe Riflemen 2: no damage
+  [MOVEMENT] ranged (Overwatch): B:Sineaters of Damascus Beast of Contagion -> Etxe Riflemen 2: no damage
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 3 -> Mawkin 1: Mawkin 1 -6
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Etxe Riflemen 1: Etxe Riflemen 1 -2
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Foral Captain -> Mawkin 2: no damage
+  [ACTION] melee: B:Sineaters of Damascus Beast of Contagion -> Mikelete Marksmen: Sorgin -2, Mikelete Marksmen -6 DESTROYED
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Cultist Troopers: Cultist Troopers -4
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 2 -> Etxe Riflemen 2: Etxe Riflemen 2 -7, Mawkin 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Tomas Zumalakarregi (no legal action), A:Basajaun Smith (no legal action), B:HQ (no legal action), B:Poxknight (no legal action), B:Mawkin 1 (no legal action), B:Cultist Troopers (no legal action), B:Hellkin (no legal action)
+Moves undone:
+  A:Oak of Gernika Etxe Riflemen 2: R1 MOVEMENT 4,12 -> 5,8, R2 MOVEMENT -> 8,9 (toward the objective at 1,7, then away, 3 squares lost)
+  B:Sineaters of Damascus Cultist Troopers: R1 MOVEMENT 10,2 -> 12,5, R2 MOVEMENT -> 8,6 (toward the objective at 13,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Oak of Gernika Burdinola Forge: Basajaun Smith: nothing - gave Basajaun Smith: weapon AP +1
+  [COMMAND] B:Sineaters of Damascus Double Time on Cultist Troopers: paid off - gave Cultist Troopers: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Oak of Gernika Double Time on Mikelete Marksmen: paid off - gave Sorgin: MOVE +2; Mikelete Marksmen: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [ACTION] B:Sineaters of Damascus Benediction of Beelzebub on Etxe Riflemen 2: nothing - put AFFLICTED on Foral Captain, AFFLICTED on Etxe Riflemen 2; 4 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 4 attacks, 3.35 expected HP for its side
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: The Plague Monarch 1.0, Poxknight 1.0, Cultist Troopers 1.0
+  A:Oak of Gernika objectives (1,7) 2 VP: Sorgin 2.0; hinged on Sorgin
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+Log:
+  [CLEANUP] ═══ ROUND 2 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 8 to 10)
+  [CLEANUP] BATTLE ROUND 2 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] Mana: Player A +1 (1 total) - WEATHER-READER
+  [COMMAND] [Beast of Contagion] spreads PESTILENCE to The Plague Monarch
+  [COMMAND] COMMAND PHASE - Round 2 - A:3 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:3 B:2
+  [COMMAND] Player A picks mission: FORWARD PRESENCE
+  [COMMAND] Player B picks mission: PROBING STRIKE
+  [COMMAND] Mikelete Marksmen MARK THE APPROACHES: Trip Marker at (7,6)
+  [COMMAND] Basajaun Smith BURDINOLA FORGE: Basajaun Smith
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers (cost 2 CP) by Player B
+  [COMMAND] DOUBLE TIME: Cultist Troopers gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Mikelete Marksmen (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Mikelete Marksmen gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Etxe Riflemen 1 Morale Test (2+): 6 -1 (rerolled) = 5 (natural 6) - PASSED
+  [MOVEMENT] Mission "FOCUSED FIRE" EXPIRED (R2)
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Cultist Troopers moved to (8,6)
+  [MOVEMENT] 9x Eibar-Pattern Rifle (Etxe Rifleman) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 9x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Cultist Troopers (FR 9): [1✗][1✗][5✗][5✗][1✗][6✓][4✗][5✗][5✗][5✗] → 1/9 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Cultist Troopers SAVE roll: 4 (needs 6+) => FAILED
+  [MOVEMENT]   Cultist Troopers takes 2 damage (20 → 18)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Cultist Troopers roll: 5 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Etxe Riflemen 3] Overwatch Reaction vs Cultist Troopers: 2 damage
+  [MOVEMENT] Mikelete Marksmen moved to (2,8)
+  [MOVEMENT] Hellkin moved to (7,5)
+  [MOVEMENT] Etxe Riflemen 2 moved to (8,9)
+  [MOVEMENT]   SWEEP 2: +4 FR (4 per model x 1 model, vs 10 target models)
+  [MOVEMENT] 1x Fly Swarm (The Plague Monarch) HIT vs Etxe Riflemen 2 (FR 10): [5✗][1✗][4✗][4✗][1✗][1✗][4✗][2✗][3✗][2✗] → 0/10 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [The Plague Monarch] Overwatch Reaction vs Etxe Riflemen 2: no damage
+  [MOVEMENT]   SWEEP 1: +2 FR (2 per model x 1 model, vs 10 target models)
+  [MOVEMENT] 1x Acid Spittle (Beast of Contagion) HIT vs Etxe Riflemen 2 (FR 3): [5✗][3✗][3✗] → 0/3 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Beast of Contagion] Overwatch Reaction vs Etxe Riflemen 2: no damage
+  [MOVEMENT] Mawkin 1 CHARGE FAILED: it does not move
+  [MOVEMENT] 9x Eibar-Pattern Rifle (Etxe Rifleman) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 9x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Mawkin 1 (FR 9): [1✗][3✗][4✗][4✗][1✗][6✓][1✗][1✗][5✓][1✗] → 2/9 hits (needs 5+)
+  [MOVEMENT]   Mawkin 1 SAVE (2 dice): [4✗][5✗] → 0/2 saved (needs 6+)
+  [MOVEMENT]   Mawkin 1 takes 4 damage (20 → 16)
+  [MOVEMENT]   Mawkin destroyed
+  [MOVEMENT]   Mawkin destroyed
+  [MOVEMENT] 1x Eibar-Pattern Rifle (Etxe Sergeant) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Mawkin 1 roll: 6 (needs 4+) => HIT
+  [MOVEMENT]   Mawkin 1 SAVE roll: 4 (needs 6+) => FAILED
+  [MOVEMENT]   Mawkin 1 takes 2 damage (16 → 14)
+  [MOVEMENT]   Mawkin destroyed
+  [MOVEMENT] Etxe Riflemen 3 SIGNAL CRY: fires on Mawkin 1 (6 damage)
+  [MOVEMENT] Basajaun Smith moved to (13,6)
+  [MOVEMENT] Poxknight moved to (6,6)
+  [MOVEMENT] Poxknight Charges Tomas Zumalakarregi, Etxe Riflemen 1
+  [MOVEMENT] [Etxe Riflemen 1] FALL BACK TEST: INI 5 against 6 (-1), needs 6+, rolled 4 - FAILED
+  [MOVEMENT]   Etxe Rifleman destroyed
+  [MOVEMENT]   Etxe Riflemen 1 SAVES (slow roll): [no save→Etxe Rifleman][no save→Etxe Rifleman] → 0/2 saved, 1 models killed
+  [MOVEMENT] [Etxe Riflemen 1] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] Etxe Riflemen 1 moved to (6,10)
+  [MOVEMENT] [Etxe Riflemen 1] Fall Back to (6,10)
+  [MOVEMENT] Mawkin 2 moved to (7,8)
+  [MOVEMENT] Mawkin 2 Charges Foral Captain, Etxe Riflemen 2, Etxe Riflemen 3
+  [MOVEMENT] 1x Eibar Horse Pistol (Foral Captain) HIT vs Mawkin 2 roll: 1 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Foral Captain] Overwatch Reaction vs Mawkin 2: no damage
+  [MOVEMENT] [Etxe Riflemen 3] FALL BACK TEST: INI 5 against 6, needs 5+, rolled 6 - breaks away
+  [MOVEMENT] Etxe Riflemen 3 moved to (5,10)
+  [MOVEMENT] [Etxe Riflemen 3] Fall Back to (5,10)
+  [MOVEMENT] Beast of Contagion moved to (3,7)
+  [MOVEMENT] Beast of Contagion lands on its charge
+  [MOVEMENT] Beast of Contagion Charges Sorgin, Mikelete Marksmen
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Beast of Contagion attacks in melee with 1 combat group
+  [ACTION] Beast of Contagion engages Mikelete Marksmen in melee combat
+  [ACTION]   Initiative: Beast of Contagion (INI 8, +3 charge) → Mikelete Marksmen (INI 5) → Sorgin (INI 4)
+  [ACTION] DUAL WIELD: duplicated 5 dice
+  [ACTION]   Beast of Contagion (Blades of Necrosis) MELEE vs Mikelete Marksmen (AR 5): [6✓][6✓][6✓][6✓][2✗][2✗][1✗][1✗][1✗][1✗] → 4 hits [MS 4]
+  [ACTION]   Mikelete Marksmen: 6 damage (6 → 0)
+  [ACTION]   Sorgin: 2 damage (4 → 2)
+  [ACTION]   Mikelete destroyed
+  [ACTION]   Mikelete destroyed
+  [ACTION]   Mikelete Corporal destroyed
+  [ACTION]   Mikelete Marksmen has lost its leader - LEADERLESS
+  [ACTION]   Mikelete Marksmen DESTROYED in melee!
+  [ACTION]   Mikelete Marksmen was destroyed - no counterattack
+  [ACTION]   Sorgin counterattacks
+  [ACTION]   Sorgin spends 1 APt to counterattack
+  [ACTION]   Sorgin (Tximistarri Staff) MELEE vs Beast of Contagion (AR 1): [2✗] → 0 hits [MS 2]
+  [ACTION] Sugaar Gun opens fire with 1 combat group
+  [ACTION]   SWEEP 1: +1 FR (1 per model x 1 model, vs 9 target models)
+  [ACTION] 1x Sugaar Gun (Sugaar Gun) HIT vs Cultist Troopers (FR 3): [2✗][5✓][3✓] → 2/3 hits (needs 4+) [HIT mod: +1 MARKED]
+  [ACTION]   Cultist Troopers SAVE (2 dice): [3✗][1✗] → 0/2 saved (6 (+2 from AP, capped) = 7+)
+  [ACTION]   Cultist Troopers takes 4 damage (18 → 14)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers: PARALYZED
+  [ACTION] Mawkin 2 attacks in melee with 1 combat group
+  [ACTION] Mawkin 2 engages Etxe Riflemen 2 in melee combat
+  [ACTION]   Initiative: Mawkin 2 (INI 9, +3 charge) → Etxe Riflemen 2 (INI 5) → Foral Captain (INI 5)
+  [ACTION]   Mawkin 2 (8x Voidmaw) MELEE vs Etxe Riflemen 2 (AR 24): [6✓][6✓][6✓][6✓][6✓][6✓][6✓][5✓][5✓][5✓][5✓][3✗][3✗][3✗][2✗][2✗][2✗][2✗][2✗][2✗][2✗][2✗][1✗][1✗] → 11 hits [MS 4]
+  [ACTION]   Etxe Riflemen 2: 7 damage (20 → 13)
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Riflemen 2 counterattacks
+  [ACTION]   Etxe Riflemen 2 spends 1 APt to counterattack
+  [ACTION]   Etxe Riflemen 2 (6x Socket Bayonet) MELEE vs Mawkin 2 (AR 6): [6✓][5✓][3✗][2✗][1✗][1✗] → 2 hits [MS 4]
+  [ACTION]   Etxe Riflemen 2 (Socket Bayonet) MELEE vs Mawkin 2 (AR 1): [5✓] → 1 hits [MS 4]
+  [ACTION]   Mawkin 2: 1 damage (16 → 15)
+  [ACTION]   Foral Captain counterattacks
+  [ACTION]   Foral Captain spends 1 APt to counterattack
+  [ACTION]   Foral Captain (Makila of Office) MELEE vs Mawkin 2 (AR 3): [6✓][1✗][1✗] → 1 hits [MS 6]
+  [ACTION]   Mawkin 2: 1 damage (15 → 14)
+  [ACTION]   Mawkin destroyed
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] The Plague Monarch uses Benediction of Beelzebub!
+  [ACTION] [Etxe Riflemen 2] AFFLICTED: Glutton's Maw
+  [ACTION] [The Plague Monarch] BENEDICTION OF BEELZEBUB afflicts Etxe Riflemen 2 with Glutton's Maw
+  [ACTION] [Foral Captain] AFFLICTED: Glutton's Maw
+  [ACTION] [The Plague Monarch] BENEDICTION OF BEELZEBUB afflicts Foral Captain with Glutton's Maw
+  [ACTION] The Plague Monarch BENEDICTION OF BEELZEBUB: Target 1 enemy unit. That target is AFFLICTED with the current PLAGUE until the end of the next Battle Round.
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 17 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 1 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 2 vs 0)
+  [CLEANUP] VP - Player A: 7 | Player B: 3
+
+=== BATTLE ROUND 3 ===
+A:Oak of Gernika: VP +5 (obj 2, primary 0, missions 3) = 12; CP +3 -2 holds 2 [2 Rally cry (reaction) for Etxe Riflemen 1]
+  mana: +2 -0 holds 3
+B:Sineaters of Damascus: VP +6 (obj 5, primary 0, missions 1) = 9; CP +3 -0 holds 3
+A:Oak of Gernika keeps mission DEEP REACH (offered DEEP REACH / OMNIPRESENCE)
+B:Sineaters of Damascus keeps mission STRONGPOINT (offered STRONGPOINT / OBJECTIVE RELAY)
+A:Oak of Gernika mission DEEP REACH: completed
+B:Sineaters of Damascus mission PROBING STRIKE: expired
+B:Sineaters of Damascus mission STRONGPOINT: completed
+Moves:
+  [MOVEMENT] B:Sineaters of Damascus Hellkin 7,5 -> 8,8 (charge)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 6,10 -> 9,10
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 11,7 -> 11,11
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 3 5,10 -> 5,9
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 6,6 -> 5,8 (charge)
+  [MOVEMENT] A:Oak of Gernika Basajaun Smith 13,6 -> 12,7
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 8,6 -> 6,7
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 7,8 -> 5,5
+  [ACTION] B:Sineaters of Damascus Beast of Contagion 3,7 -> 2,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 1 -> Hellkin: no damage
+  [MOVEMENT] ranged (Overwatch): B:Sineaters of Damascus Cultist Troopers -> Etxe Riflemen 3: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Mawkin 2: Mawkin 2 -1
+  [MOVEMENT] effect (  Etxe Rifleman destroyed): effect: Etxe Riflemen 2 -1
+  [MOVEMENT] effect (  Etxe Riflemen 2 SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 0 models killed): effect: Etxe Riflemen 2 -1
+  [ACTION] melee: B:Sineaters of Damascus Poxknight -> Etxe Riflemen 3: Etxe Riflemen 3 -8, Poxknight -1
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Cultist Troopers: Cultist Troopers -6
+  [ACTION] melee: B:Sineaters of Damascus Hellkin -> Etxe Riflemen 2: Etxe Riflemen 2 -3, Hellkin -4
+  [ACTION] melee: B:Sineaters of Damascus Beast of Contagion -> Sorgin: Sorgin -2 DESTROYED
+  [ACTION] effect (Poison): effect: Etxe Riflemen 3 -3
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Tomas Zumalakarregi (no legal action), A:Etxe Riflemen 1 (no legal action), A:Basajaun Smith (no legal action), B:HQ (no legal action), B:Mawkin 1 (no legal action), B:Cultist Troopers (no legal action)
+Commands and abilities:
+  [COMMAND] A:Oak of Gernika Burdinola Forge: Basajaun Smith: nothing - gave Basajaun Smith: weapon AP +1
+  [COMMAND] A:Oak of Gernika Rally Cry: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Sineaters of Damascus Benediction of Beelzebub on Etxe Riflemen 3: nothing - no change
+Passive rules:
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 1 attack, 0.17 expected HP for its side
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: Cultist Troopers 1.5, Hellkin 1.5
+  B:Sineaters of Damascus objectives (1,7) 2 VP: Beast of Contagion 2.0; hinged on Beast of Contagion
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+  A:Oak of Gernika missions DEEP REACH 3 VP: HQ 1.5, Basajaun Smith 1.5
+  B:Sineaters of Damascus missions STRONGPOINT 1 VP: Cultist Troopers 0.5, Hellkin 0.5
+Log:
+  [CLEANUP] ═══ ROUND 3 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 8 to 9)
+  [CLEANUP] BATTLE ROUND 3 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] Mana: Player A +1 (2 total) - WEATHER-READER
+  [COMMAND] [The Plague Monarch] spreads PESTILENCE to Poxknight
+  [COMMAND] [Hellkin] spreads PESTILENCE to Cultist Troopers
+  [COMMAND] COMMAND PHASE - Round 3 - A:4 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:4 B:2
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: STRONGPOINT
+  [COMMAND] Basajaun Smith BURDINOLA FORGE: Basajaun Smith
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Etxe Riflemen 1
+  [COMMAND] Etxe Riflemen 1 Morale Test - PASSED (RALLY CRY)
+  [MOVEMENT] Mission "PROBING STRIKE" EXPIRED (R3)
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Hellkin moved to (8,8)
+  [MOVEMENT] Hellkin Charges Foral Captain, Etxe Riflemen 2
+  [MOVEMENT] 2x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Hellkin (FR 2): [2✗][2✗] → 0/2 hits (needs 5+)
+  [MOVEMENT] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Hellkin roll: 3 (needs 4+) => MISS
+  [MOVEMENT] Etxe Riflemen 1 SIGNAL CRY: fires on Hellkin (0 damage)
+  [MOVEMENT] Etxe Riflemen 1 moved to (9,10)
+  [MOVEMENT] Mawkin 1 moved to (11,11)
+  [MOVEMENT] Etxe Riflemen 3 moved to (5,9)
+  [MOVEMENT] 6x Renegade Bolt-Action Rifle (Cultist) HIT vs Etxe Riflemen 3 (FR 12): [3✗][4✗][3✗][4✗][2✗][5✗][2✗][1✗][5✗][4✗][2✗][1✗] → 0/12 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Etxe Riflemen 3 (FR 2): [2✗][5✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Cultist Troopers] Overwatch Reaction vs Etxe Riflemen 3: no damage
+  [MOVEMENT] Poxknight moved to (5,8)
+  [MOVEMENT] Poxknight Charges Etxe Riflemen 3
+  [MOVEMENT] Basajaun Smith moved to (12,7)
+  [MOVEMENT] Cultist Troopers moved to (6,7)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [Mawkin 2] FALL BACK TEST: INI 6 against 5 (-1), needs 4+, rolled 2 - FAILED
+  [MOVEMENT]   Mawkin 2 SAVES (slow roll): [no save→Mawkin] → 0/1 saved, 0 models killed
+  [MOVEMENT] [Mawkin 2] breaks away in disorder: 1 True Damage, 1 HP lost
+  [MOVEMENT] Mawkin 2 moved to (5,5)
+  [MOVEMENT] [Mawkin 2] Fall Back to (5,5)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [MOVEMENT]   Etxe Rifleman destroyed
+  [MOVEMENT]   Foral Captain SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 1 models killed
+  [MOVEMENT]   Etxe Riflemen 2 SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 0 models killed
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Poxknight attacks in melee with 1 combat group
+  [ACTION] Poxknight engages Etxe Riflemen 3 in melee combat
+  [ACTION]   Initiative: Poxknight (INI 7, +3 charge) → Etxe Riflemen 3 (INI 5)
+  [ACTION]   Poxknight (3x Plague Halberd) MELEE vs Etxe Riflemen 3 (AR 6): [4✓][4✓][3✓][3✓][2✗][1✗] → 4 hits [MS 5]
+  [ACTION]   Etxe Riflemen 3: 8 damage (20 → 12)
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Riflemen 3: POISONED
+  [ACTION] [Etxe Riflemen 3] AFFLICTED: Glutton's Maw
+  [ACTION]   Etxe Riflemen 3 counterattacks
+  [ACTION]   Etxe Riflemen 3 spends 1 APt to counterattack
+  [ACTION]   Etxe Riflemen 3 (5x Socket Bayonet) MELEE vs Poxknight (AR 5): [6✓][6✓][3✗][2✗][1✗] → 2 hits [MS 4]
+  [ACTION]   Poxknight: 1 damage (9 → 8)
+  [ACTION]   Etxe Riflemen 3 (Socket Bayonet) MELEE vs Poxknight (AR 1): [3✗] → 0 hits [MS 4]
+  [ACTION] Sugaar Gun opens fire with 1 combat group
+  [ACTION]   SWEEP 1: +1 FR (1 per model x 1 model, vs 7 target models)
+  [ACTION] 1x Sugaar Gun (Sugaar Gun) HIT vs Cultist Troopers (FR 3): [4✓][3✓][6✓] → 3/3 hits (needs 4+) [HIT mod: +1 MARKED]
+  [ACTION]   Cultist Troopers SAVE (3 dice): [3✗][5✗][2✗] → 0/3 saved (6 (+2 from AP, capped) = 7+)
+  [ACTION]   Cultist Troopers takes 6 damage (14 → 8)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers: PARALYZED
+  [ACTION] Hellkin attacks in melee with 1 combat group
+  [ACTION] Hellkin engages Etxe Riflemen 2 in melee combat
+  [ACTION]   Initiative: Hellkin (INI 8, +3 charge) → Etxe Riflemen 2 (INI 5) → Foral Captain (INI 5)
+  [ACTION]   Hellkin (5x Hellkin Claws) MELEE vs Etxe Riflemen 2 (AR 10): [6✓][6✓][5✓][3✗][3✗][2✗][2✗][1✗][1✗][1✗] → 3 hits [MS 3]
+  [ACTION]   Etxe Riflemen 2: 3 damage (11 → 8)
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION] [Etxe Riflemen 2] AFFLICTED: Glutton's Maw
+  [ACTION]   Etxe Riflemen 2 counterattacks
+  [ACTION]   Etxe Riflemen 2 spends 1 APt to counterattack
+  [ACTION]   Etxe Riflemen 2 (3x Socket Bayonet) MELEE vs Hellkin (AR 3): [6✓][3✓][1✗] → 2 hits [MS 4]
+  [ACTION]   Hellkin: 1 damage (20 → 19)
+  [ACTION]   Hellkin FEEL NO PAIN: rolled 5 (needs 5+) => IGNORED
+  [ACTION]   Hellkin FEEL NO PAIN: rolled 1 (needs 5+) => FAILED
+  [ACTION]   Etxe Riflemen 2 (Socket Bayonet) MELEE vs Hellkin (AR 1): [5✓] → 1 hits [MS 4]
+  [ACTION]   Hellkin: 1 damage (19 → 18)
+  [ACTION]   Hellkin FEEL NO PAIN: rolled 1 (needs 5+) => FAILED
+  [ACTION]   Foral Captain counterattacks
+  [ACTION]   Foral Captain spends 1 APt to counterattack
+  [ACTION]   Foral Captain (Makila of Office) MELEE vs Hellkin (AR 3): [5✓][4✓][1✗] → 2 hits [MS 6]
+  [ACTION]   Hellkin: 2 damage (18 → 16)
+  [ACTION]   Hellkin FEEL NO PAIN: rolled 5 (needs 5+) => IGNORED
+  [ACTION]   Hellkin FEEL NO PAIN: rolled 1 (needs 5+) => FAILED
+  [ACTION]   Hellkin destroyed
+  [ACTION] Mana: Player A +1 (3 total) - Channel Mana
+  [ACTION] Sorgin channels Mana: +1
+  [ACTION] The Plague Monarch uses Benediction of Beelzebub!
+  [ACTION] [Etxe Riflemen 3] AFFLICTED: Glutton's Maw
+  [ACTION] [The Plague Monarch] BENEDICTION OF BEELZEBUB afflicts Etxe Riflemen 3 with Glutton's Maw
+  [ACTION] The Plague Monarch BENEDICTION OF BEELZEBUB: Target 1 enemy unit. That target is AFFLICTED with the current PLAGUE until the end of the next Battle Round.
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Beast of Contagion attacks in melee with 1 combat group
+  [ACTION] Beast of Contagion engages Sorgin in melee combat
+  [ACTION] DUAL WIELD: duplicated 5 dice
+  [ACTION]   Beast of Contagion (Blades of Necrosis) MELEE vs Sorgin (AR 5): [6✓][6✓][5✓][5✓][4✓][4✓][3✓][3✓][3✓][3✓] → 10 hits [MS 4]
+  [ACTION]   Sorgin: 2 damage (2 → 0)
+  [ACTION]   Sorgin destroyed
+  [ACTION]   Sorgin has lost its leader - LEADERLESS
+  [ACTION]   Sorgin DESTROYED in melee!
+  [ACTION] Beast of Contagion TAKE GROUND: moved to (2,8)
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] [Poxknight] CANNIBAL FEAST: heals 1 HP
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Riflemen 3 SAVES (slow roll): [no save→Etxe Rifleman][no save→Etxe Rifleman][no save→Etxe Rifleman] → 0/3 saved, 1 models killed
+  [ACTION] [Etxe Riflemen 3] POISONED: 3 True Damage (1 stack x 3) (9 HP remaining)
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 8 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 2 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 2 vs 0)
+  [CLEANUP] VP - Player A: 9 | Player B: 8
+  [CLEANUP] [Foral Captain] afflictions expired
+  [CLEANUP] [Etxe Riflemen 2] afflictions expired
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "STRONGPOINT" -> Player B +1 VP +1 CP!
+
+=== BATTLE ROUND 4 ===
+A:Oak of Gernika: VP +2 (obj 2, primary 0, missions 0) = 14; CP +3 -5 holds 0 [5 Troop Requisition → Etxe Riflemen]
+B:Sineaters of Damascus: VP +8 (obj 5, primary 0, missions 3) = 17; CP +2 -3 holds 2 [2 Rally cry (reaction) for Cultist Troopers; 1 Go to ground (reaction) for Poxknight]
+A:Oak of Gernika keeps mission SECURE THE FLANKS (offered BREAK CONTACT / SECURE THE FLANKS)
+B:Sineaters of Damascus keeps mission DEEP REACH (offered DEEP REACH / COORDINATED PUSH)
+B:Sineaters of Damascus mission KING OF THE HILL: expired
+B:Sineaters of Damascus mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 9,10 -> 10,9
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 6,7 -> 6,8 (charge)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 3 5,9 -> 7,11
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 5,8 -> 7,8 (charge)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 8,9 -> 9,10
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 5,5 -> 6,9
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 8,12 -> 8,11
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 11,11 -> 9,12 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Hellkin 8,8 -> 8,7
+  [MOVEMENT] B:Sineaters of Damascus Beast of Contagion 2,8 -> 1,8
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Etxe Riflemen 3: Etxe Riflemen 3 -1
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 3 -> Poxknight: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Etxe Riflemen 2: Etxe Riflemen 2 -1
+  [MOVEMENT] ranged (Overwatch): A:Oak of Gernika Etxe Riflemen 2 -> Mawkin 1: Mawkin 1 -2
+  [MOVEMENT] effect (  Etxe Rifleman destroyed): effect: Etxe Riflemen 2 -1
+  [MOVEMENT] effect (  Etxe Riflemen 3 SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 0 models killed): effect: Etxe Riflemen 3 -1
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Poxknight: Poxknight -6
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 1 -> Etxe Riflemen: Etxe Riflemen -4
+  [ACTION] effect (Poison): effect: Etxe Riflemen 3 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Tomas Zumalakarregi (no legal action), A:Etxe Riflemen 1 (no legal action), A:Foral Captain (best: ability Signal Fires, 0.3), A:Basajaun Smith (no legal action), B:HQ (no legal action), B:Poxknight (no legal action), B:Beast of Contagion (no legal action), B:Mawkin 2 (no legal action), B:Cultist Troopers (no legal action), B:Hellkin (no legal action)
+Commands and abilities:
+  [COMMAND] B:Sineaters of Damascus Plague: Torpid Stupor: nothing - made TORPID_STUPOR (was GLUTTONS_MAW) active; 14 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Oak of Gernika Burdinola Forge: Basajaun Smith: nothing - gave Basajaun Smith: weapon AP +1
+  [COMMAND] A:Oak of Gernika Troop Requisition on (8,12): paid off - placed Etxe Riflemen; the unit it placed made 2 attack(s), 8 HP off; the unit it placed drew 2 enemy attack(s), 4 HP
+  [COMMAND] B:Sineaters of Damascus Rally Cry: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Sineaters of Damascus Go to Ground on Poxknight: paid off - 1 attack(s) it touched: +0.67 expected HP for its side
+  [ACTION] B:Sineaters of Damascus Benediction of Beelzebub on Etxe Riflemen 3: nothing - no change
+Passive rules:
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 2 attacks, 0.56 expected HP for its side
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: The Plague Monarch 0.8, Poxknight 0.8, Cultist Troopers 0.8, Hellkin 0.8
+  B:Sineaters of Damascus objectives (1,7) 2 VP: Beast of Contagion 2.0; hinged on Beast of Contagion
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+  B:Sineaters of Damascus missions DEEP REACH 3 VP: HQ 2.5, The Plague Monarch 0.1, Poxknight 0.1, Beast of Contagion 0.1, Cultist Troopers 0.1, Hellkin 0.1
+Log:
+  [CLEANUP] ═══ ROUND 4 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (equal units on the battlefield; Priority passes)
+  [CLEANUP] BATTLE ROUND 4 - BEGIN
+  [COMMAND] PLAGUE: Player B rolls 5 - Torpid Stupor. Afflicted units cannot use ACTION or QUICK abilities.
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] [Cultist Troopers] spreads PESTILENCE to Mawkin 2
+  [COMMAND] COMMAND PHASE - Round 4 - A:5 CP, B:5 CP
+  [COMMAND] Command Phase: CP A:5 B:5
+  [COMMAND] Player A picks mission: SECURE THE FLANKS
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] Basajaun Smith BURDINOLA FORGE: Basajaun Smith
+  [COMMAND] HQ Command: Troop Requisition -> euskal_herria:etxe_riflemen (cost 5 CP) by Player A
+  [COMMAND] TROOP REQUISITION: Etxe Riflemen deployed at (8,12) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via The Plague Monarch (cost 2 CP) - Cultist Troopers
+  [COMMAND] Etxe Riflemen 1 Morale Test (2+): 6 = 6 (natural 6) - PASSED
+  [COMMAND] Etxe Riflemen 2 Morale Test (3+): 3 (rerolled) = 3 - PASSED
+  [COMMAND] Cultist Troopers Morale Test - PASSED (RALLY CRY)
+  [MOVEMENT] Mission "KING OF THE HILL" EXPIRED (R4)
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Etxe Riflemen 1 moved to (10,9)
+  [MOVEMENT] Cultist Troopers moved to (6,8)
+  [MOVEMENT] Cultist Troopers Charges Etxe Riflemen 3
+  [MOVEMENT] [Etxe Riflemen 3] FALL BACK TEST: INI 5 against 5 (-1), needs 5+, rolled 1 - FAILED
+  [MOVEMENT]   Etxe Rifleman destroyed
+  [MOVEMENT]   Etxe Riflemen 3 SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 1 models killed
+  [MOVEMENT] [Etxe Riflemen 3] breaks away in disorder: 1 True Damage, 1 HP lost, 1 model destroyed
+  [MOVEMENT] Etxe Riflemen 3 moved to (7,11)
+  [MOVEMENT] [Etxe Riflemen 3] Fall Back to (7,11)
+  [MOVEMENT] Poxknight moved to (7,8)
+  [MOVEMENT] Poxknight Charges Foral Captain, Etxe Riflemen 2
+  [MOVEMENT] 3x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Poxknight (FR 3): [4✗][4✗][2✗] → 0/3 hits (needs 5+)
+  [MOVEMENT] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Poxknight roll: 2 (needs 4+) => MISS
+  [MOVEMENT] Etxe Riflemen 3 SIGNAL CRY: fires on Poxknight (0 damage)
+  [MOVEMENT] [Etxe Riflemen 2] FALL BACK TEST: INI 5 against 5 (-1), needs 5+, rolled 3 - FAILED
+  [MOVEMENT]   Etxe Riflemen 2 SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 0 models killed
+  [MOVEMENT] [Etxe Riflemen 2] breaks away in disorder: 1 True Damage, 1 HP lost
+  [MOVEMENT] Etxe Riflemen 2 moved to (9,10)
+  [MOVEMENT] [Etxe Riflemen 2] Fall Back to (9,10)
+  [MOVEMENT] Mawkin 2 moved to (6,9)
+  [MOVEMENT] Etxe Riflemen moved to (8,11)
+  [MOVEMENT] Mawkin 1 moved to (9,12)
+  [MOVEMENT] Mawkin 1 Charges Etxe Riflemen
+  [MOVEMENT] 3x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Mawkin 1 (FR 3): [1✗][5✓][1✗] → 1/3 hits (needs 5+)
+  [MOVEMENT]   Mawkin 1 SAVE roll: 6 (needs 6+) => SAVED
+  [MOVEMENT] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Mawkin 1 roll: 5 (needs 4+) => HIT
+  [MOVEMENT]   Mawkin 1 SAVE roll: 1 (needs 6+) => FAILED
+  [MOVEMENT]   Mawkin 1 takes 2 damage (14 → 12)
+  [MOVEMENT]   Mawkin destroyed
+  [MOVEMENT] Etxe Riflemen 2 SIGNAL CRY: fires on Mawkin 1 (2 damage)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Hellkin moved to (8,7)
+  [MOVEMENT] Beast of Contagion moved to (1,8)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [MOVEMENT]   Etxe Rifleman destroyed
+  [MOVEMENT]   Etxe Riflemen 2 SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 1 models killed
+  [MOVEMENT]   Etxe Riflemen 3 SAVES (slow roll): [no save→Etxe Rifleman] → 0/1 saved, 0 models killed
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] REACTION COMMAND: GO TO GROUND via The Plague Monarch (cost 1 CP) - Poxknight
+  [ACTION] Sugaar Gun opens fire with 1 combat group
+  [ACTION] 1x Sugaar Gun (Sugaar Gun) HIT vs Poxknight (FR 2): [5✓][6✓] → 2/2 hits (needs 4+) [HIT mod: -1 GO TO GROUND]
+  [ACTION]   Poxknight SAVE (2 dice): [3✗][4✗] → 0/2 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Poxknight takes 6 damage (9 → 3)
+  [ACTION]   Poxknight destroyed
+  [ACTION]   Poxknight destroyed
+  [ACTION]   Poxknight: PARALYZED
+  [ACTION]   The Plague Monarch: PARALYZED
+  [ACTION] Mawkin 1 attacks in melee with 1 combat group
+  [ACTION] Mawkin 1 engages Etxe Riflemen in melee combat
+  [ACTION]   Mawkin 1 (6x Voidmaw) MELEE vs Etxe Riflemen (AR 18): [6✓][6✓][5✓][5✓][5✓][4✓][4✓][3✗][3✗][3✗][3✗][2✗][1✗][1✗][1✗][1✗][1✗][1✗] → 7 hits [MS 4]
+  [ACTION]   Etxe Riflemen: 4 damage (20 → 16)
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Riflemen has no APt left - no counterattack
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] The Plague Monarch uses Benediction of Beelzebub!
+  [ACTION] [Etxe Riflemen 3] AFFLICTED: Torpid Stupor
+  [ACTION] [The Plague Monarch] BENEDICTION OF BEELZEBUB afflicts Etxe Riflemen 3 with Torpid Stupor
+  [ACTION] The Plague Monarch BENEDICTION OF BEELZEBUB: Target 1 enemy unit. That target is AFFLICTED with the current PLAGUE until the end of the next Battle Round.
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Riflemen 3 SAVES (slow roll): [no save→Etxe Rifleman][no save→Etxe Rifleman] → 0/2 saved, 1 models killed
+  [ACTION] [Etxe Riflemen 3] POISONED: 2 True Damage (1 stack x 2) (5 HP remaining)
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 14 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 2 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 2 vs 0)
+  [CLEANUP] VP - Player A: 14 | Player B: 14
+  [CLEANUP] [Etxe Riflemen 2] afflictions expired
+  [CLEANUP] [Etxe Riflemen 3] afflictions expired
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+
+=== BATTLE ROUND 5 ===
+A:Oak of Gernika: VP +2 (obj 2, primary 0, missions 0) = 16; CP +3 -2 holds 1 [2 Double Time → Etxe Riflemen 1]
+B:Sineaters of Damascus: VP +7 (obj 5, primary 2, missions 0) = 24; CP +2 -3 holds 1 [3 Troop Requisition → Cultist Troopers]
+A:Oak of Gernika keeps mission KING OF THE HILL (offered KING OF THE HILL / VIGILANT WATCH)
+B:Sineaters of Damascus keeps mission FORWARD PRESENCE (offered OMNIPRESENCE / FORWARD PRESENCE)
+Moves:
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 7,2 -> 10,2
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 1 + Tomas Zumalakarregi 10,9 -> 10,8
+  [MOVEMENT] B:Sineaters of Damascus Poxknight + The Plague Monarch 7,8 -> 8,8
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 3 7,11 -> 8,10
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 9,12 -> 12,11
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 8,11 -> 10,9
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 6,9 -> 9,7 (charge)
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 9,10 -> 8,11
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 6,8 -> 7,8
+Combat:
+  [ACTION] melee: B:Sineaters of Damascus Mawkin 2 -> Etxe Riflemen 1: Tomas Zumalakarregi -2, Etxe Riflemen 1 -5 DESTROYED, Mawkin 2 -4
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Mawkin 1: no damage
+  [ACTION] ranged: A:Oak of Gernika Etxe Riflemen -> Mawkin 1: no damage
+  [ACTION] ranged: A:Oak of Gernika Etxe Riflemen 2 -> Mawkin 1: Mawkin 1 -4
+  [ACTION] ranged: A:Oak of Gernika Foral Captain -> Mawkin 1: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Etxe Riflemen 3 (no legal action), A:Basajaun Smith (no legal action), B:HQ (no legal action), B:The Plague Monarch (best: ability Emperor of All Maladies, 0.3), B:Poxknight (no legal action), B:Beast of Contagion (no legal action), B:Cultist Troopers (no legal action), B:Hellkin (no legal action)
+Commands and abilities:
+  [COMMAND] A:Oak of Gernika Burdinola Forge: Etxe Riflemen 1: nothing - gave Tomas Zumalakarregi: weapon AP +1; Etxe Riflemen 1: weapon AP +1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Sineaters of Damascus Troop Requisition on (7,2): paid off - placed Cultist Troopers; the unit it placed made 1 attack(s), 0 HP off; the unit it placed scored 1.33 VP; the unit it placed drew 1 enemy attack(s), 8 HP
+  [COMMAND] A:Oak of Gernika Double Time on Etxe Riflemen 1: nothing - gave Tomas Zumalakarregi: MOVE +2; Etxe Riflemen 1: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+Passive rules:
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 3 attacks, 0.59 expected HP for its side
+Scored by:
+  B:Sineaters of Damascus objectives (7,7) 3 VP: Hellkin 3.0; hinged on Hellkin
+  B:Sineaters of Damascus objectives (1,7) 2 VP: Beast of Contagion 2.0; hinged on Beast of Contagion
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+  B:Sineaters of Damascus primary WIDE SWEEP 2 VP: Beast of Contagion 0.7, Mawkin 1 0.7, Cultist Troopers 0.7
+Log:
+  [CLEANUP] ═══ ROUND 5 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 8 to 9)
+  [CLEANUP] BATTLE ROUND 5 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 5 - A:3 CP, B:4 CP
+  [COMMAND] Command Phase: CP A:3 B:4
+  [COMMAND] Player A picks mission: KING OF THE HILL
+  [COMMAND] Player B picks mission: FORWARD PRESENCE
+  [COMMAND] Basajaun Smith BURDINOLA FORGE: Etxe Riflemen 1
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [COMMAND] TROOP REQUISITION: Cultist Troopers deployed at (7,2) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Etxe Riflemen 1 (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Etxe Riflemen 1 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Etxe Riflemen 1 Morale Test (2+): 1 (rerolled) = 1 (natural 1) - FAILED, now SUPPRESSED
+  [COMMAND] Etxe Riflemen 2 Morale Test (3+): 1 -1 (rerolled) = 0 (natural 1) - FAILED, now SUPPRESSED
+  [COMMAND] Etxe Riflemen 3 Morale Test (4+): 6 (rerolled) = 6 (natural 6) - PASSED
+  [COMMAND] Poxknight Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [COMMAND] Cultist Troopers Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Cultist Troopers moved to (10,2)
+  [MOVEMENT] Etxe Riflemen 1 moved to (10,8)
+  [MOVEMENT] Poxknight moved to (8,8)
+  [MOVEMENT] Etxe Riflemen 3 moved to (8,10)
+  [MOVEMENT] [Mawkin 1] FALL BACK TEST: INI 6 against 5, needs 3+, rolled 4 - breaks away
+  [MOVEMENT] Mawkin 1 moved to (12,11)
+  [MOVEMENT] [Mawkin 1] Fall Back to (12,11)
+  [MOVEMENT] Etxe Riflemen moved to (10,9)
+  [MOVEMENT] Mawkin 2 moved to (9,7)
+  [MOVEMENT] Mawkin 2 Charges Tomas Zumalakarregi, Etxe Riflemen 1
+  [MOVEMENT] Etxe Riflemen 2 moved to (8,11)
+  [MOVEMENT] Cultist Troopers moved to (7,8)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Mawkin 2 attacks in melee with 1 combat group
+  [ACTION] Mawkin 2 engages Etxe Riflemen 1 in melee combat
+  [ACTION]   Initiative: Mawkin 2 (INI 9, +3 charge) → Tomas Zumalakarregi (INI 6) → Etxe Riflemen 1 (INI 5)
+  [ACTION] Mawkin 2 SUSTAINED ATTACK 1: 3 extra dice from 3 critical hits
+  [ACTION] [Mawkin 2] CORPSE-EATER: heals 1 HP
+  [ACTION]   Mawkin 2 (7x Voidmaw) MELEE vs Etxe Riflemen 1 (AR 21): [6✓][6✓][6✓][6✓][5✓][5✓][4✓][4✓][3✗][3✗][3✗][3✗][3✗][2✗][2✗][2✗][2✗][2✗][1✗][1✗][1✗][1✗][1✗][1✗] → 8 hits [MS 4]
+  [ACTION]   Etxe Riflemen 1: 5 damage (5 → 0)
+  [ACTION]   Tomas Zumalakarregi: 2 damage (7 → 5)
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Rifleman destroyed
+  [ACTION]   Etxe Sergeant destroyed
+  [ACTION]   Etxe Riflemen 1 has lost its leader - LEADERLESS
+  [ACTION]   Etxe Riflemen 1 DESTROYED in melee!
+  [ACTION]   Tomas Zumalakarregi counterattacks
+  [ACTION]   Tomas Zumalakarregi spends 1 APt to counterattack
+  [ACTION]   Tomas Zumalakarregi (Scarified Makila) MELEE vs Mawkin 2 (AR 5): [6✓][6✓][5✓][5✓][4✓] → 5 hits [MS 6] [HIT mod: -1]
+  [ACTION]   Mawkin 2: 5 damage (14 → 9)
+  [ACTION]   Mawkin destroyed
+  [ACTION]   Mawkin destroyed
+  [ACTION]   Etxe Riflemen 1 was destroyed - no counterattack
+  [ACTION] Sugaar Gun opens fire with 1 combat group
+  [ACTION]   SWEEP 1: +1 FR (1 per model x 1 model, vs 6 target models)
+  [ACTION] 1x Sugaar Gun (Sugaar Gun) HIT vs Mawkin 1 (FR 3): [4✗][4✗][4✗] → 0/3 hits (needs 4+) [HIT mod: -1 forest CONCEALMENT]
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Etxe Riflemen opens fire with 2 combat groups
+  [ACTION] 7x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Mawkin 1 (FR 7): [3✗][4✗][5✗][2✗][4✗][3✗][2✗] → 0/7 hits (needs 5+) [HIT mod: -1 forest CONCEALMENT]
+  [ACTION] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Mawkin 1 roll: 4 (needs 4+) [HIT mod: -1 forest CONCEALMENT] => MISS
+  [ACTION] Etxe Riflemen 2 opens fire with 2 combat groups
+  [ACTION] 2x Eibar-Pattern Rifle (Etxe Rifleman) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 2x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Mawkin 1 (FR 2): [6✓][5✗][2✗] → 1/2 hits (needs 5+) [HIT mod: -1 forest CONCEALMENT, -1 SUPPRESSED]
+  [ACTION]   Mawkin 1 SAVE roll: 2 (6 (+1 from LIGHT COVER, capped) = 5+) => FAILED
+  [ACTION]   Mawkin 1 takes 2 damage (12 → 10)
+  [ACTION]   Mawkin destroyed
+  [ACTION] 1x Eibar-Pattern Rifle (Etxe Sergeant) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Mawkin 1 roll: 6 (needs 4+) [HIT mod: -1 forest CONCEALMENT, -1 SUPPRESSED] => HIT
+  [ACTION]   Mawkin 1 SAVE roll: 1 (6 (+1 from LIGHT COVER, capped) = 5+) => FAILED
+  [ACTION]   Mawkin 1 takes 2 damage (10 → 8)
+  [ACTION]   Mawkin destroyed
+  [ACTION] Foral Captain opens fire with 1 combat group
+  [ACTION] 1x Eibar Horse Pistol (Foral Captain) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 1x Eibar Horse Pistol (Foral Captain) HIT vs Mawkin 1 roll: 6 (needs 3+) [HIT mod: -1 forest CONCEALMENT, -1 SUPPRESSED] => HIT
+  [ACTION]   Mawkin 1 SAVE roll: 5 (6 (+1 from LIGHT COVER, capped) = 5+) => SAVED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 4 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 2 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 2 vs 0)
+  [CLEANUP] VP - Player A: 16 | Player B: 22
+  [CLEANUP] PRIMARY WIDE SWEEP: Player B scores 2 VP (2/10)
+  [CLEANUP] [Etxe Riflemen 3] afflictions expired
+
+=== BATTLE ROUND 6 ===
+A:Oak of Gernika: VP +4 (obj 2, primary 2, missions 0) = 20; CP +3 -4 holds 0 [2 Double Time → Etxe Riflemen; 2 Rally cry (reaction) for Tomas Zumalakarregi]
+B:Sineaters of Damascus: VP +10 (obj 5, primary 2, missions 3) = 34; CP +3 -2 holds 2 [2 Double Time → Mawkin 2]
+A:Oak of Gernika keeps mission IRON CURTAIN (offered PUSH FORWARD / IRON CURTAIN)
+B:Sineaters of Damascus keeps mission IRON GRIP (offered IRON GRIP / VIGILANT WATCH)
+A:Oak of Gernika mission FORWARD PRESENCE: expired
+A:Oak of Gernika mission SECURE THE FLANKS: expired
+B:Sineaters of Damascus mission FORWARD PRESENCE: completed
+Moves:
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 10,9 -> 10,5
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 2 9,7 -> 5,9
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 2 + Foral Captain 8,11 -> 7,10
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 10,2 -> 12,4
+  [MOVEMENT] A:Oak of Gernika Etxe Riflemen 3 8,10 -> 5,11
+  [MOVEMENT] B:Sineaters of Damascus Mawkin 1 12,11 -> 10,10
+  [MOVEMENT] A:Oak of Gernika Tomas Zumalakarregi 10,8 -> 8,6 (charge)
+  [MOVEMENT] B:Sineaters of Damascus Cultist Troopers 7,8 -> 9,9
+  [MOVEMENT] B:Sineaters of Damascus Hellkin 8,7 -> 5,5
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Sineaters of Damascus Cultist Troopers -> Etxe Riflemen 2: Etxe Riflemen 2 -1
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Hellkin: Hellkin -3
+  [ACTION] ranged: A:Oak of Gernika Etxe Riflemen -> Cultist Troopers: Cultist Troopers -8
+  [ACTION] ranged: A:Oak of Gernika Sugaar Gun -> Poxknight: Poxknight -3 DESTROYED
+  [ACTION] ranged: B:Sineaters of Damascus Cultist Troopers -> Etxe Riflemen: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Tomas Zumalakarregi (no legal action), A:Foral Captain (best: ability Signal Fires, 0.3), A:Etxe Riflemen 2 (no legal action), A:Etxe Riflemen 3 (no legal action), A:Basajaun Smith (no legal action), B:HQ (no legal action), B:Beast of Contagion (no legal action), B:Mawkin 1 (no legal action), B:Cultist Troopers (no legal action)
+Moves undone:
+  A:Oak of Gernika Etxe Riflemen 3: R5 MOVEMENT 7,11 -> 8,10, R6 MOVEMENT -> 5,11 (toward the objective at 7,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] A:Oak of Gernika Burdinola Forge: Etxe Riflemen: paid off - gave Etxe Riflemen: weapon AP +1; 2 attack(s) it touched: +1.1 expected HP for its side
+  [COMMAND] A:Oak of Gernika Double Time on Etxe Riflemen: paid off - gave Etxe Riflemen: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Sineaters of Damascus Double Time on Mawkin 2: paid off - gave Mawkin 2: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Oak of Gernika Rally Cry: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Sineaters of Damascus Benediction of Beelzebub on Tomas Zumalakarregi: nothing - put AFFLICTED on Tomas Zumalakarregi
+Passive rules:
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 1 attack, 0.94 expected HP for its side
+Scored by:
+  B:Sineaters of Damascus missions FORWARD PRESENCE 3 VP: Mawkin 1 3.0
+  B:Sineaters of Damascus objectives (7,7) 3 VP: The Plague Monarch 3.0; hinged on The Plague Monarch
+  B:Sineaters of Damascus objectives (1,7) 2 VP: Beast of Contagion 2.0; hinged on Beast of Contagion
+  A:Oak of Gernika objectives (13,7) 2 VP: Basajaun Smith 2.0; hinged on Basajaun Smith
+  A:Oak of Gernika primary ERADICATE THE FOE 2 VP: Sugaar Gun 2.0
+  B:Sineaters of Damascus primary WIDE SWEEP 2 VP: Beast of Contagion 0.7, Mawkin 1 0.7, Cultist Troopers 0.7
+Log:
+  [CLEANUP] ═══ ROUND 6 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 8 to 9)
+  [CLEANUP] BATTLE ROUND 6 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 6 - A:4 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:4 B:3
+  [COMMAND] Player A picks mission: IRON CURTAIN
+  [COMMAND] Player B picks mission: IRON GRIP
+  [COMMAND] Basajaun Smith BURDINOLA FORGE: Etxe Riflemen
+  [COMMAND] HQ Command: Double Time -> Etxe Riflemen (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Etxe Riflemen gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Mawkin 2 (cost 2 CP) by Player B
+  [COMMAND] DOUBLE TIME: Mawkin 2 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Tomas Zumalakarregi
+  [COMMAND] Etxe Riflemen 3 Morale Test (4+): 5 -1 (rerolled) = 4 - PASSED
+  [COMMAND] Mawkin 1 Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [COMMAND] Tomas Zumalakarregi Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Etxe Riflemen 2 Morale Test (3+): 6 = 6 (natural 6) - PASSED
+  [COMMAND] Poxknight Morale Test (4+): 6 = 6 (natural 6) - PASSED
+  [COMMAND] Cultist Troopers Morale Test (4+): 4 = 4 - PASSED
+  [MOVEMENT] Mission "SECURE THE FLANKS" EXPIRED (R6)
+  [MOVEMENT] Mission "FORWARD PRESENCE" EXPIRED (R6)
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Etxe Riflemen moved to (10,5)
+  [MOVEMENT] [Mawkin 2] FALL BACK TEST: INI 6 against 6, needs 4+, rolled 4 - breaks away
+  [MOVEMENT] Mawkin 2 moved to (5,9)
+  [MOVEMENT] [Mawkin 2] Fall Back to (5,9)
+  [MOVEMENT] Etxe Riflemen 2 moved to (7,10)
+  [MOVEMENT] 3x Renegade Bolt-Action Rifle (Cultist) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 3x Renegade Bolt-Action Rifle (Cultist) HIT vs Etxe Riflemen 2 (FR 6): [1✗][4✗][5✗][5✗][6✓][5✗][2✗] → 1/6 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Etxe Riflemen 2 SAVE roll: 2 (needs 5+) => FAILED
+  [MOVEMENT]   Etxe Riflemen 2 takes 1 damage (6 → 5)
+  [MOVEMENT] [Etxe Riflemen 2] AFFLICTED: Torpid Stupor
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Etxe Riflemen 2 (FR 2): [2✗][4✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Cultist Troopers] Overwatch Reaction vs Etxe Riflemen 2: 1 damage
+  [MOVEMENT] Cultist Troopers moved to (12,4)
+  [MOVEMENT] Etxe Riflemen 3 moved to (5,11)
+  [MOVEMENT] Mawkin 1 moved to (10,10)
+  [MOVEMENT] Tomas Zumalakarregi moved to (8,6)
+  [MOVEMENT] Tomas Zumalakarregi Charges Hellkin
+  [MOVEMENT] Cultist Troopers moved to (9,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [Hellkin] FALL BACK TEST: INI 5 against 6, needs 5+, rolled 1 - FAILED
+  [MOVEMENT]   Hellkin FEEL NO PAIN: rolled 4 (needs 5+) => FAILED
+  [MOVEMENT]   Hellkin FEEL NO PAIN: rolled 3 (needs 5+) => FAILED
+  [MOVEMENT]   Hellkin FEEL NO PAIN: rolled 4 (needs 5+) => FAILED
+  [MOVEMENT]   Hellkin SAVES (slow roll): [no save→Hellkin][no save→Hellkin][no save→Hellkin] → 0/3 saved, 0 models killed
+  [MOVEMENT] [Hellkin] breaks away in disorder: 3 True Damage, 3 HP lost
+  [MOVEMENT] Hellkin moved to (5,5)
+  [MOVEMENT] [Hellkin] Fall Back to (5,5)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Etxe Riflemen opens fire with 2 combat groups
+  [ACTION] 7x Eibar-Pattern Rifle (Etxe Rifleman) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 7x Eibar-Pattern Rifle (Etxe Rifleman) HIT vs Cultist Troopers (FR 7): [5✓][4✗][6✓][5✓][1✗][3✗][4✗][1✗] → 3/7 hits (needs 5+)
+  [ACTION]   Cultist Troopers SAVE (3 dice): [6✗][6✗][3✗] → 0/3 saved (6 (+1 from AP) = 7+)
+  [ACTION]   Cultist Troopers takes 6 damage (20 → 14)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] 1x Eibar-Pattern Rifle (Etxe Sergeant) HIT vs Cultist Troopers roll: 4 (needs 4+) => HIT
+  [ACTION]   Cultist Troopers SAVE roll: 3 (6 (+1 from AP) = 7+) => FAILED
+  [ACTION]   Cultist Troopers takes 2 damage (14 → 12)
+  [ACTION]   Cultist destroyed
+  [ACTION] The Plague Monarch uses Benediction of Beelzebub!
+  [ACTION] [Tomas Zumalakarregi] AFFLICTED: Torpid Stupor
+  [ACTION] [The Plague Monarch] BENEDICTION OF BEELZEBUB afflicts Tomas Zumalakarregi with Torpid Stupor
+  [ACTION] The Plague Monarch BENEDICTION OF BEELZEBUB: Target 1 enemy unit. That target is AFFLICTED with the current PLAGUE until the end of the next Battle Round.
+  [ACTION] Sugaar Gun opens fire with 1 combat group
+  [ACTION] 1x Sugaar Gun (Sugaar Gun) HIT vs Poxknight (FR 2): [5✓][2✗] → 1/2 hits (needs 4+)
+  [ACTION]   Poxknight SAVE roll: 2 (3 (+2 from AP) = 5+) => FAILED
+  [ACTION]   Poxknight takes 3 damage (3 → 0)
+  [ACTION]   Pox-Champion destroyed
+  [ACTION]   Poxknight has lost its leader - LEADERLESS
+  [ACTION]   The Plague Monarch: PARALYZED
+  [ACTION]   Poxknight DESTROYED
+  [ACTION] Cultist Troopers opens fire with 2 combat groups
+  [ACTION] 5x Renegade Bolt-Action Rifle (Cultist) HIT vs Etxe Riflemen (FR 10): [4✗][5✗][4✗][3✗][5✗][1✗][4✗][1✗][6✓][2✗] → 1/10 hits (needs 5+) [HIT mod: -1 urban CONCEALMENT]
+  [ACTION]   Etxe Riflemen SAVE roll: 6 (5 (+1 from HEAVY COVER, capped) = 4+) => SAVED
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Etxe Riflemen (FR 2): [5✗][2✗] → 0/2 hits (needs 5+) [HIT mod: -1 urban CONCEALMENT]
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] MISSION COMPLETE: "FORWARD PRESENCE" -> Player B +3 VP +1 CP!
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 4 vs 3)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 2 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 2 vs 0)
+  [CLEANUP] VP - Player A: 18 | Player B: 32
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (2/10)
+  [CLEANUP] PRIMARY WIDE SWEEP: Player B scores 2 VP (4/10)
+
+Damage leaders:
+  B:Sineaters of Damascus Mawkin 2: 27 damage, 1 kills, 28 RP, 0.96/RP
+  A:Oak of Gernika Sugaar Gun: 25 damage, 1 kills, 35 RP, 0.71/RP
+  B:Sineaters of Damascus Beast of Contagion: 10 damage, 2 kills, 50 RP, 0.20/RP
+  A:Oak of Gernika Etxe Riflemen 2: 9 damage, 0 kills, 15 RP, 0.60/RP
+  A:Oak of Gernika Etxe Riflemen 3: 9 damage, 0 kills, 15 RP, 0.60/RP
+  A:Oak of Gernika Etxe Riflemen: 8 damage, 0 kills, 15 RP, 0.53/RP
+  B:Sineaters of Damascus Poxknight: 8 damage, 0 kills, 38 RP, 0.21/RP (destroyed)
+  A:Oak of Gernika Tomas Zumalakarregi: 8 damage, 0 kills, 65 RP, 0.12/RP
+  B:Sineaters of Damascus Mawkin 1: 4 damage, 0 kills, 28 RP, 0.14/RP
+  A:Oak of Gernika Foral Captain: 3 damage, 0 kills, 22 RP, 0.14/RP
+  B:Sineaters of Damascus Hellkin: 3 damage, 0 kills, 25 RP, 0.12/RP
+  A:Oak of Gernika Etxe Riflemen 1: 2 damage, 0 kills, 15 RP, 0.13/RP (destroyed)
+  B:Sineaters of Damascus Cultist Troopers: 1 damage, 0 kills, 10 RP, 0.10/RP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Oak of Gernika Basajaun Smith: 11.5 VP (obj 10.0, primary 0.0, missions 1.5), hinged 10, 25.6/100 RP
+  B:Sineaters of Damascus Beast of Contagion: 9.4 VP (obj 8.0, primary 1.3, missions 0.1), hinged 8, 18.9/100 RP
+  B:Sineaters of Damascus Hellkin: 5.8 VP (obj 5.3, primary 0.0, missions 0.6), hinged 3, 23.4/100 RP
+  B:Sineaters of Damascus The Plague Monarch: 4.8 VP (obj 4.8, primary 0.0, missions 0.1), hinged 3, 6.9/100 RP
+  B:Sineaters of Damascus Mawkin 1: 4.3 VP (obj 0.0, primary 1.3, missions 3.0), hinged 0, 15.5/100 RP
+  B:Sineaters of Damascus Cultist Troopers: 3.9 VP (obj 3.3, primary 0.0, missions 0.6), hinged 0, 38.5/100 RP
+  B:Sineaters of Damascus HQ: 2.5 VP (obj 0.0, primary 0.0, missions 2.5), hinged 0, -/100 RP
+  A:Oak of Gernika Etxe Riflemen 3: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 3, 13.3/100 RP
+  A:Oak of Gernika Sorgin: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 11.1/100 RP
+  A:Oak of Gernika Sugaar Gun: 2.0 VP (obj 0.0, primary 2.0, missions 0.0), hinged 0, 5.7/100 RP
+  B:Sineaters of Damascus Poxknight: 1.9 VP (obj 1.8, primary 0.0, missions 0.1), hinged 0, 4.9/100 RP
+  A:Oak of Gernika HQ: 1.5 VP (obj 0.0, primary 0.0, missions 1.5), hinged 0, -/100 RP
+  B:Sineaters of Damascus Cultist Troopers: 1.3 VP (obj 0.0, primary 1.3, missions 0.0), hinged 0, 13.3/100 RP
+  A:Oak of Gernika Etxe Riflemen 1: 0.5 VP (obj 0.5, primary 0.0, missions 0.0), hinged 0, 3.3/100 RP
+  A:Oak of Gernika Tomas Zumalakarregi: 0.5 VP (obj 0.5, primary 0.0, missions 0.0), hinged 0, 0.8/100 RP
+Activity (inaction score; actions: movement/ranged/melee/ability/magic):
+  A:Oak of Gernika Basajaun Smith: inaction 6 (6 idle, 3 after moving, 0 Overwatch); actions 0/0/0/0/0
+  B:Sineaters of Damascus Cultist Troopers: inaction 5.5 (6 idle, 6 after moving, 2 Overwatch); actions 0/0/0/0/0
+  B:Sineaters of Damascus Poxknight: inaction 4 (4 idle, 4 after moving, 0 Overwatch); actions 0/0/1/0/0
+  B:Sineaters of Damascus Hellkin: inaction 4 (4 idle, 3 after moving, 0 Overwatch); actions 1/0/1/0/0
+  B:Sineaters of Damascus Mawkin 1: inaction 4 (4 idle, 3 after moving, 0 Overwatch); actions 1/0/1/0/0
+  A:Oak of Gernika Tomas Zumalakarregi: inaction 4 (4 idle, 4 after moving, 0 Overwatch); actions 0/0/2/0/0
+  B:Sineaters of Damascus Beast of Contagion: inaction 3.75 (4 idle, 2 after moving, 1 Overwatch); actions 0/0/2/0/0
+  A:Oak of Gernika Foral Captain: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 0/1/2/0/0
+  A:Oak of Gernika Etxe Riflemen 3: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 2/2/1/0/0
+  A:Oak of Gernika Etxe Riflemen 1: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 1/1/1/0/0
+  A:Oak of Gernika Etxe Riflemen 2: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 1/2/2/0/0
+  B:Sineaters of Damascus The Plague Monarch: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/0/0/4/0
+  A:Oak of Gernika Mikelete Marksmen: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0
+  A:Oak of Gernika Sorgin: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/1
+  B:Sineaters of Damascus Mawkin 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 2/0/3/0/0
+  B:Sineaters of Damascus Cultist Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0
+  A:Oak of Gernika Etxe Riflemen: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/2/0/0/0
+  A:Oak of Gernika Sugaar Gun: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/6/0/0/0
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 3
+  B:Sineaters of Damascus Cultist Troopers: 1 of 6 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Oak of Gernika Etxe Riflemen 2: 1 of 5 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Oak of Gernika Etxe Riflemen 3: 1 of 6 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Oak of Gernika FOCUSED FIRE (+2 VP): kept R1, expired R2 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Oak of Gernika FORWARD PRESENCE (+3 VP): kept R2, expired R6 - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  A:Oak of Gernika DEEP REACH (+3 VP): kept R3, completed R3 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  A:Oak of Gernika SECURE THE FLANKS (+2 VP): kept R4, expired R6 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  A:Oak of Gernika KING OF THE HILL (+3 VP): kept R5, active - Have a friendly unit in an Objective Area destroy an enemy unit.
+  A:Oak of Gernika IRON CURTAIN (+2 VP): kept R6, active - No friendly unit is destroyed during the entire duration of this Mission.
+  B:Sineaters of Damascus KING OF THE HILL (+3 VP): kept R1, expired R4 - Have a friendly unit in an Objective Area destroy an enemy unit.
+  B:Sineaters of Damascus PROBING STRIKE (+2 VP): kept R2, expired R3 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  B:Sineaters of Damascus STRONGPOINT (+1 VP): kept R3, completed R3 - Maintain at least 2 friendly units in an Objective Area at the end of a Battle Round.
+  B:Sineaters of Damascus DEEP REACH (+3 VP): kept R4, completed R4 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Sineaters of Damascus FORWARD PRESENCE (+3 VP): kept R5, completed R6 - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  B:Sineaters of Damascus IRON GRIP (+2 VP): kept R6, active - Maintain a minimum of 7 OC on a single Objective.

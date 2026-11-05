@@ -1,0 +1,60 @@
+patches written
+== tests/suites/ai/187_a_charge_is_priced_as_an_attack.js with no_reactions
+patch occurrences 2 "function _aiChargeReactedScore(unit, options, value, score) "
+patch occurrences 2 "      - aiW('W_DRAWN_REACTIONS') * aiChargeReactionLoss(own."
+TOTAL 0 passed, 1 failed
+FAIL PROBE AI: a CHARGE is priced as an attack - the shot it gives up, a target that Falls Back, the fight beside it, the Reactions it draws: a Charge into an Overwatch-Ready gun line is priced 4.956945183184486 lower than with the gun line spent, got 0
+== tests/suites/reaction_commands/050_countercharge.js with no_reactions
+patch occurrences 2 "function _aiChargeReactedScore(unit, options, value, score) "
+patch occurrences 2 "      - aiW('W_DRAWN_REACTIONS') * aiChargeReactionLoss(own."
+TOTAL 0 passed, 1 failed
+FAIL PROBE Countercharge: the AI spends it when the exchange is worth it - the charge it shields against the fight it walks into and the Reactions its own Charge draws: the Overwatch its Charge draws costs the Countercharge 1.018147217746377, got 0
+== tests/suites/ai/173_a_granted_move_follows_the_units_own_choice.js with no_routing
+patch occurrences 2 "  if (entry && entry.asCharge) {"
+patch occurrences 2 "var pick = charging ? aiOrderedChargeSquare(unit, squares) :"
+patch occurrences 2 "var score = charging ? pick.score : aiScoreDestination(unit,"
+patch occurrences 2 "if (run && run.charge) return aiOrderedChargeSquare(unit, sq"
+TOTAL 0 passed, 1 failed
+FAIL PROBE A granted move goes where the unit's own move would, toward the far square it walks to; a granted CHARGE is weighed as a Charge: with no Countercharge to fear, it charges the closest enemy alone, got [7,7]
+== tests/suites/ai/173_a_granted_move_follows_the_units_own_choice.js with no_reactions
+patch occurrences 2 "function _aiChargeReactedScore(unit, options, value, score) "
+patch occurrences 2 "      - aiW('W_DRAWN_REACTIONS') * aiChargeReactionLoss(own."
+TOTAL 0 passed, 1 failed
+FAIL PROBE A granted move goes where the unit's own move would, toward the far square it walks to; a granted CHARGE is weighed as a Charge: with one to fear, it charges both and leaves neither free to countercharge, got [4,7]
+== tests/suites/ai/167_a_move_order_is_worth_the_square_it_reaches.js with no_routing
+patch occurrences 2 "  if (entry && entry.asCharge) {"
+patch occurrences 2 "var pick = charging ? aiOrderedChargeSquare(unit, squares) :"
+patch occurrences 2 "var score = charging ? pick.score : aiScoreDestination(unit,"
+patch occurrences 2 "if (run && run.charge) return aiOrderedChargeSquare(unit, sq"
+TOTAL 0 passed, 1 failed
+FAIL PROBE A move order is worth the square it reaches, nothing when staying is best, and is played to that square: the ordered CHARGE is worth MOVE_BASE and its charge score over standing, 21.09585524310318, got 0
+== tests/suites/ops/grant_move.js with no_routing
+patch occurrences 2 "  if (entry && entry.asCharge) {"
+patch occurrences 2 "var pick = charging ? aiOrderedChargeSquare(unit, squares) :"
+patch occurrences 2 "var score = charging ? pick.score : aiScoreDestination(unit,"
+patch occurrences 2 "if (run && run.charge) return aiOrderedChargeSquare(unit, sq"
+TOTAL 0 passed, 1 failed
+FAIL PROBE grant_move: queued, fall back, charge, choice, once-per-round, staged step and immediate move-order shapes, each through its consumer: section 13: an ordered CHARGE that beats standing is worth ordering, got 0
+== tests/suites/ops/grant_move.js with no_reactions
+patch occurrences 2 "function _aiChargeReactedScore(unit, options, value, score) "
+patch occurrences 2 "      - aiW('W_DRAWN_REACTIONS') * aiChargeReactionLoss(own."
+TOTAL 0 passed, 1 failed
+FAIL PROBE grant_move: queued, fall back, charge, choice, once-per-round, staged step and immediate move-order shapes, each through its consumer: section 13: with the enemy able to COUNTERCHARGE it, no ordered CHARGE is worth it, got 26.427819840058866
+== tests/suites/ai/165_a_shot_into_melee_prices_its_stray.js with no_drawn
+patch occurrences 2 "var drawn = rangedChoices.length ? aiAttackDrawnCost(unit, t"
+patch occurrences 2 "var drawn = values.length ? aiAttackDrawnCost(watcher, targe"
+TOTAL 0 passed, 1 failed
+FAIL PROBE AI: a shot into a melee is worth its Friendly Fire roll, less the stray on its own unit and the shots it draws back: the attack is worth the Volley less, 229.23577177819655, got 0
+== tests/suites/ai/255_an_overwatch_with_a_free_weapon_pays_for_the_shot_it_gives_up.js with no_drawn
+patch occurrences 2 "var drawn = rangedChoices.length ? aiAttackDrawnCost(unit, t"
+patch occurrences 2 "var drawn = values.length ? aiAttackDrawnCost(watcher, targe"
+TOTAL 0 passed, 1 failed
+FAIL PROBE AI: an Overwatch with a FREE weapon pays for the shot it gives up, and every Overwatch for the shots it draws back: an Overwatch that draws a Volley worth more than it is held
+== tests/suites/ability_runtime/240_attack_events_carry_the_target.js with no_peek
+patch occurrences 2 "  if (!peek) markRound(unit, mark);"
+TOTAL 0 passed, 1 failed
+FAIL PROBE Attack events: after_attack names its target, after_damaging fires for the attacker with the damaged unit and the attack kind, and what an attack would draw is asked spending nothing: asking spends nothing and applies nothing
+done
+== tests/suites/ai/164_the_ai_asks_the_rule_who_can_charge.js with no_past_activation
+TOTAL 0 passed, 1 failed
+FAIL PROBE AI: only a unit the rule lets CHARGE reads as a charge threat, an activation in progress holding none back past its end: another unit's activation in progress still leaves them their charge this phase, 1, got 0

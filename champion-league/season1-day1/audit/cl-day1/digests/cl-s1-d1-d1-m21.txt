@@ -1,0 +1,406 @@
+Belfry Battery (A, covenant_of_new_jerusalem) vs Flamewrought Company (B, atashid_empire) on CROSSROADS, seed 460703121
+Result: B:Flamewrought Company wins (VP) in round 4, VP 11 / 36
+Initiative: A:Belfry Battery; formation order [1,0]
+Army A:Belfry Battery (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Archistrategos - 60 RP, 1 models, 10 HP, leads Knight-Apostle Squad, Marshal
+  Knight-Apostle Squad - 35 RP, 3 models, 12 HP, led by Archistrategos
+  Nicomedean Thunder Tower - 45 RP, 1 models, 12 HP
+  St. Barbara Field Gun 1 - 30 RP, 1 models, 5 HP
+  St. Barbara Field Gun 2 - 25 RP, 1 models, 5 HP
+  Master Gunner - 20 RP, 1 models, 5 HP
+  Petard Bearer - 15 RP, 1 models, 5 HP
+  Covenant Levies 1 - 10 RP, 10 models, 20 HP
+  Covenant Levies 2 - 10 RP, 10 models, 20 HP
+Army B:Flamewrought Company (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Ardashir - The Flamebringer - 75 RP, 1 models, 10 HP, leads Javidan Immortals 1, Marshal
+  Javidan Immortals 1 - 30 RP, 5 models, 15 HP, led by Ardashir - The Flamebringer
+  Mobad - 20 RP, 1 models, 4 HP, leads Shieldbearers 1
+  Shieldbearers 1 - 17 RP, 5 models, 10 HP, led by Mobad
+  Shieldbearers 2 - 17 RP, 5 models, 10 HP
+  Adur Furnace Guard 1 - 20 RP, 3 models, 6 HP
+  Sagdid Hound-Keepers 1 - 10 RP, 3 models, 6 HP
+  Sagdid Hound-Keepers 2 - 10 RP, 3 models, 6 HP
+  Javidan Immortals 2 - 30 RP, 5 models, 15 HP
+  Adur Furnace Guard 2 - 20 RP, 3 models, 6 HP
+Primary A:Belfry Battery: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: COORDINATED SUPPRESSION, GARRISON DUTY, ERADICATE THE FOE; picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 3 (count 2), R3 0 (count 0), R4 0 (count 0); total 3
+Primary B:Flamewrought Company: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: BLEED THEM WHITE, BREAK THEIR HOLD, FORLORN HOPE; picked break_their_hold
+  scored per round: R1 0 (count 0), R2 1 (count 1), R3 1 (count 1), R4 3 (count 3); total 5
+
+=== BATTLE ROUND 1 ===
+A:Belfry Battery: VP +0 (obj 0, primary 0, missions 0) = 0; CP +2 -2 holds 0 [2 Double Time → Knight-Apostle Squad]
+  mana: +8 -0 holds 8
+B:Flamewrought Company: VP +7 (obj 7, primary 0, missions 0) = 7; CP +3 -3 holds 0 [2 Double Time → Shieldbearers 2; 1 Scouting Order → Sagdid Hound-Keepers 1]
+  radiance: +1 -0 holds 0
+A:Belfry Battery keeps mission INTO THE FRAY (offered FIRE FOR EFFECT / INTO THE FRAY)
+B:Flamewrought Company keeps mission COMMAND AUTHORITY (offered FORWARD DEPLOYMENT / COMMAND AUTHORITY)
+Moves:
+  [MOVEMENT] A:Belfry Battery Knight-Apostle Squad + Archistrategos 4,12 -> 3,8 (advance)
+  [MOVEMENT] B:Flamewrought Company Shieldbearers 2 10,2 -> 8,7 (advance)
+  [MOVEMENT] A:Belfry Battery Covenant Levies 1 7,12 -> 6,8 (advance)
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 1 11,2 -> 10,4
+  [MOVEMENT] A:Belfry Battery Covenant Levies 2 6,12 -> 6,7 (advance)
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 2 3,1 -> 4,2
+  [MOVEMENT] A:Belfry Battery Petard Bearer 9,12 -> 13,8 (advance)
+  [MOVEMENT] B:Flamewrought Company Javidan Immortals 1 + Ardashir - The Flamebringer 5,2 -> 8,6 (advance)
+  [MOVEMENT] A:Belfry Battery Master Gunner 11,12 -> 7,9 (advance)
+  [MOVEMENT] B:Flamewrought Company Javidan Immortals 2 9,2 -> 12,6 (advance)
+  [MOVEMENT] A:Belfry Battery St. Barbara Field Gun 1 5,12 -> 3,9 (advance)
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 1 7,2 -> 4,3
+  [MOVEMENT] A:Belfry Battery St. Barbara Field Gun 2 9,14 -> 11,11 (advance)
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 2 5,1 -> 4,4
+  [MOVEMENT] A:Belfry Battery Nicomedean Thunder Tower 3,12 -> 2,10 (advance)
+  [MOVEMENT] B:Flamewrought Company Shieldbearers 1 + Mobad 3,2 -> 2,6 (advance)
+Combat:
+  [ACTION] ranged: A:Belfry Battery Knight-Apostle Squad -> Shieldbearers 1: Shieldbearers 1 -8
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Archistrategos (no legal action), A:Nicomedean Thunder Tower (no legal action), A:St. Barbara Field Gun 1 (no legal action), A:St. Barbara Field Gun 2 (no legal action), A:Master Gunner (no legal action), A:Petard Bearer (no legal action), A:Covenant Levies 1 (no legal action), A:Covenant Levies 2 (no legal action), B:HQ (no legal action), B:Ardashir - The Flamebringer (no legal action), B:Javidan Immortals 1 (no legal action), B:Mobad (no legal action), B:Shieldbearers 1 (no legal action), B:Shieldbearers 2 (no legal action), B:Adur Furnace Guard 1 (no legal action), B:Sagdid Hound-Keepers 1 (no legal action), B:Sagdid Hound-Keepers 2 (no legal action), B:Javidan Immortals 2 (no legal action), B:Adur Furnace Guard 2 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Belfry Battery Double Time on Knight-Apostle Squad: nothing - gave Archistrategos: MOVE +2; Knight-Apostle Squad: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] B:Flamewrought Company Double Time on Shieldbearers 2: nothing - gave Shieldbearers 2: MOVE +2; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] B:Flamewrought Company Scouting Order on Sagdid Hound-Keepers 1: nothing - gave Sagdid Hound-Keepers 1: PER +2
+  [ACTION] A:Belfry Battery Providence on Shieldbearers 1: paid off - 1 attack(s) it touched: +3.5 expected HP for its side
+Scored by:
+  B:Flamewrought Company objectives (7,7) 3 VP: Ardashir - The Flamebringer 1.0, Javidan Immortals 1 1.0, Shieldbearers 2 1.0; hinged on Ardashir - The Flamebringer, Javidan Immortals 1, Shieldbearers 2
+  B:Flamewrought Company objectives (1,7) 2 VP: Mobad 1.0, Shieldbearers 1 1.0
+  B:Flamewrought Company objectives (13,7) 2 VP: Javidan Immortals 2 2.0; hinged on Javidan Immortals 2
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B BREAK THEIR HOLD
+  [COMMAND] Player A picks mission: INTO THE FRAY
+  [COMMAND] Player B picks mission: COMMAND AUTHORITY
+  [COMMAND] HQ Command: Double Time -> Knight-Apostle Squad (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Shieldbearers 2 (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Scouting Order -> Sagdid Hound-Keepers 1 (cost 1 CP) by Player B
+  [ACTION]   Shieldbearer destroyed
+  [ACTION]   Shieldbearer destroyed
+  [ACTION]   Shieldbearer destroyed
+  [ACTION]   Shieldbearer destroyed
+
+=== BATTLE ROUND 2 ===
+A:Belfry Battery: VP +7 (obj 2, primary 3, missions 2) = 7; CP +2 -2 holds 0 [2 Double Time → Covenant Levies 1]
+  mana: +3 -0 holds 11
+B:Flamewrought Company: VP +7 (obj 5, primary 1, missions 1) = 14; CP +3 -2 holds 1 [2 Double Time → Ardashir - The Flamebringer]
+  mana: +1 -0 holds 1
+  radiance: +1 -0 holds 1
+A:Belfry Battery keeps mission VIGILANT WATCH (offered VIGILANT WATCH / PUSH FORWARD)
+B:Flamewrought Company keeps mission VIGILANT WATCH (offered VIGILANT WATCH / BREAK CONTACT)
+A:Belfry Battery mission INTO THE FRAY: completed
+B:Flamewrought Company mission COMMAND AUTHORITY: expired
+B:Flamewrought Company mission VIGILANT WATCH: completed
+Moves:
+  [MOVEMENT] A:Belfry Battery Knight-Apostle Squad + Archistrategos 3,8 -> 3,7 (charge)
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 1 4,3 -> 2,3
+  [MOVEMENT] A:Belfry Battery Petard Bearer 13,8 -> 10,9 (advance)
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 2 4,4 -> 1,6
+  [MOVEMENT] A:Belfry Battery St. Barbara Field Gun 2 11,11 -> 12,9
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 1 10,4 -> 8,4
+  [MOVEMENT] A:Belfry Battery Master Gunner 7,9 -> 6,10
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 2 4,2 -> 4,4
+  [MOVEMENT] A:Belfry Battery St. Barbara Field Gun 1 3,9 -> 3,11
+  [MOVEMENT] B:Flamewrought Company Javidan Immortals 2 12,6 -> 13,8 (charge)
+  [MOVEMENT] A:Belfry Battery Covenant Levies 2 6,7 -> 7,9
+  [MOVEMENT] B:Flamewrought Company Javidan Immortals 1 + Ardashir - The Flamebringer 8,6 -> 7,8 (charge)
+  [MOVEMENT] A:Belfry Battery Covenant Levies 1 6,8 -> 2,8
+  [MOVEMENT] B:Flamewrought Company Shieldbearers 2 8,7 -> 5,6
+  [MOVEMENT] A:Belfry Battery Nicomedean Thunder Tower 2,10 -> 1,11
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Belfry Battery Nicomedean Thunder Tower -> Sagdid Hound-Keepers 2: Sagdid Hound-Keepers 2 -2
+  [MOVEMENT] effect (  Shieldbearers 1 SAVES (slow roll): [2✗@5+→Shieldbearer Dathapati][5✓@5+→Shieldbearer Dathapati] → 1/2 saved, 0 models killed): effect: Shieldbearers 1 -1
+  [MOVEMENT] ranged (Overwatch): A:Belfry Battery St. Barbara Field Gun 1 -> Sagdid Hound-Keepers 2: no damage
+  [MOVEMENT] ranged (Overwatch): A:Belfry Battery Master Gunner -> Sagdid Hound-Keepers 2: no damage
+  [MOVEMENT] ranged (Overwatch): B:Flamewrought Company Shieldbearers 2 -> Covenant Levies 2: Covenant Levies 2 -2
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Covenant Levies 1: Covenant Levies 1 -3
+  [MOVEMENT] ranged (Overwatch): B:Flamewrought Company Sagdid Hound-Keepers 2 -> Covenant Levies 1: Covenant Levies 1 -2
+  [ACTION] melee: A:Belfry Battery Archistrategos -> Mobad: Mobad -4 DESTROYED, Shieldbearers 1 -1 DESTROYED
+  [ACTION] ranged: A:Belfry Battery Master Gunner -> Shieldbearers 2: Shieldbearers 2 -4
+  [ACTION] melee: A:Belfry Battery Covenant Levies 2 -> Javidan Immortals 1: Covenant Levies 2 -18 DESTROYED
+  [ACTION] melee: B:Flamewrought Company Javidan Immortals 2 -> St. Barbara Field Gun 2: St. Barbara Field Gun 2 -5 DESTROYED
+  [ACTION] ranged: B:Flamewrought Company Sagdid Hound-Keepers 1 -> Covenant Levies 1: Covenant Levies 1 -6
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Knight-Apostle Squad (no legal action), A:St. Barbara Field Gun 1 (best: ability Blessing of St. Barbara, 0), A:Petard Bearer (no legal action), B:HQ (no legal action), B:Ardashir - The Flamebringer (best: ability Saoshyant Reckoning, 0), B:Shieldbearers 2 (best: ability Alchemical Vial, 0), B:Adur Furnace Guard 1 (no legal action), B:Adur Furnace Guard 2 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Belfry Battery Double Time on Covenant Levies 1: paid off - gave Covenant Levies 1: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Flamewrought Company Double Time on Ardashir - The Flamebringer: nothing - gave Ardashir - The Flamebringer: MOVE +2
+  [MOVEMENT] A:Belfry Battery Providence on Sagdid Hound-Keepers 2: paid off - 1 attack(s) it touched: +1 expected HP for its side
+  [MOVEMENT] A:Belfry Battery Fortitude on Covenant Levies 2: paid off - 1 attack(s) it touched: +1.67 expected HP for its side
+  [ACTION] A:Belfry Battery Exaltation on Mobad: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Flamewrought Company Spot & Mark on Covenant Levies 1: paid off - raised the INTEL LEVEL of Covenant Levies 1 UNSPOTTED to MARKED; 3 attack(s) it touched: +1.25 expected HP for its side
+  [ACTION] B:Flamewrought Company Alchemical Vial: nothing - gave Shieldbearers 2: MS +1, BS +1, DEF +1
+  [ACTION] A:Belfry Battery Retribution: nothing - marked Ardashir - The Flamebringer (targeted by player:0), Javidan Immortals 1 (attacked against), Javidan Immortals 1 (targeted by player:0)
+  [ACTION] A:Belfry Battery Diffuse Arc: nothing - gave Nicomedean Thunder Tower: weapon DMG -1, weapons SWEEP 2; 6 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Veterans of Countless Wars (Javidan Immortals 1): 1 attack, 0.33 expected HP for its side
+Scored by:
+  A:Belfry Battery missions INTO THE FRAY 2 VP: Knight-Apostle Squad 2.0 (event)
+  B:Flamewrought Company missions VIGILANT WATCH 1 VP: Shieldbearers 2 1.0 (event)
+  B:Flamewrought Company objectives (7,7) 3 VP: Ardashir - The Flamebringer 1.5, Javidan Immortals 1 1.5
+  A:Belfry Battery objectives (1,7) 2 VP: Covenant Levies 1 2.0; hinged on Covenant Levies 1
+  B:Flamewrought Company objectives (13,7) 2 VP: Javidan Immortals 2 2.0; hinged on Javidan Immortals 2
+  A:Belfry Battery primary ERADICATE THE FOE 3 VP: Archistrategos 3.0
+  B:Flamewrought Company primary BREAK THEIR HOLD 1 VP: Sagdid Hound-Keepers 2 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: VIGILANT WATCH
+  [COMMAND] Player B picks mission: VIGILANT WATCH
+  [COMMAND] HQ Command: Double Time -> Covenant Levies 1 (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Ardashir - The Flamebringer (cost 2 CP) by Player B
+  [MOVEMENT] Mission "COMMAND AUTHORITY" EXPIRED (R2)
+  [MOVEMENT] MISSION COMPLETE: "INTO THE FRAY" -> Player A +2 VP!
+  [MOVEMENT]   Sagdid Pair destroyed
+  [MOVEMENT] [Nicomedean Thunder Tower] Overwatch Reaction vs Sagdid Hound-Keepers 2: 2 damage
+  [MOVEMENT] [St. Barbara Field Gun 1] Overwatch Reaction vs Sagdid Hound-Keepers 2: no damage
+  [MOVEMENT] [Master Gunner] Overwatch Reaction vs Sagdid Hound-Keepers 2: no damage
+  [MOVEMENT]   Levy destroyed
+  [MOVEMENT] [Shieldbearers 2] Overwatch Reaction vs Covenant Levies 2: 2 damage
+  [MOVEMENT] MISSION COMPLETE: "VIGILANT WATCH" -> Player B +1 VP!
+  [MOVEMENT]   Levy destroyed
+  [MOVEMENT] [Covenant Levies 1] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT]   Levy destroyed
+  [MOVEMENT] [Sagdid Hound-Keepers 2] Overwatch Reaction vs Covenant Levies 1: 2 damage
+  [MOVEMENT] [Covenant Levies 1] Fall Back to (2,8)
+  [ACTION]   Shieldbearer Dathapati destroyed
+  [ACTION]   Mobad destroyed
+  [ACTION]   Mobad DESTROYED in melee!
+  [ACTION]   Shieldbearers 1 was destroyed - no counterattack
+  [ACTION]   Mobad was destroyed - no counterattack
+  [ACTION] Sagdid Hound-Keepers 2 uses Spot & Mark!
+  [ACTION]   Shieldbearer destroyed
+  [ACTION]   Shieldbearer destroyed
+  [ACTION] Shieldbearers 2 uses Alchemical Vial!
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Covenant Levies 2 DESTROYED in melee!
+  [ACTION]   Covenant Levies 2 was destroyed - no strike
+  [ACTION]   St. Barbara Field Gun destroyed
+  [ACTION]   St. Barbara Field Gun 2 DESTROYED in melee!
+  [ACTION]   St. Barbara Field Gun 2 was destroyed - no counterattack
+  [ACTION] Nicomedean Thunder Tower uses Diffuse Arc!
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 3 VP (3/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (1/10)
+
+=== BATTLE ROUND 3 ===
+A:Belfry Battery: VP +4 (obj 2, primary 0, missions 2) = 11; CP +3 -1 holds 2 [1 Go to ground (reaction) for Knight-Apostle Squad]
+  mana: +1 -0 holds 12
+B:Flamewrought Company: VP +9 (obj 5, primary 1, missions 3) = 23; CP +2 -3 holds 0 [3 Troop Requisition → Sagdid Hound-Keepers]
+  mana: +2 -0 holds 3
+  radiance: +1 -0 holds 2
+A:Belfry Battery keeps mission FOCUSED FIRE (offered FOCUSED FIRE / OBJECTIVE RELAY)
+B:Flamewrought Company keeps mission DEEP REACH (offered KING OF THE HILL / DEEP REACH)
+A:Belfry Battery mission FOCUSED FIRE: completed
+B:Flamewrought Company mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Belfry Battery Knight-Apostle Squad + Archistrategos 3,7 -> 6,7 (charge)
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 1 2,3 -> 0,6
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 3,2 -> 2,5
+  [MOVEMENT] A:Belfry Battery Master Gunner 6,10 -> 5,9
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 1 8,4 -> 6,4
+  [MOVEMENT] A:Belfry Battery St. Barbara Field Gun 1 3,11 -> 4,13
+  [MOVEMENT] B:Flamewrought Company Shieldbearers 2 5,6 -> 2,6
+  [MOVEMENT] A:Belfry Battery Nicomedean Thunder Tower 1,11 -> 0,10
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 2 4,4 -> 4,5
+  [MOVEMENT] A:Belfry Battery Covenant Levies 1 2,8 -> 0,8
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 2 1,6 -> 2,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Flamewrought Company Ardashir - The Flamebringer -> Knight-Apostle Squad: no damage
+  [MOVEMENT] ranged (Overwatch): A:Belfry Battery St. Barbara Field Gun 1 -> Sagdid Hound-Keepers 1: Sagdid Hound-Keepers 1 -2
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Shieldbearers 2: Shieldbearers 2 -1
+  [MOVEMENT] ranged (Overwatch): B:Flamewrought Company Shieldbearers 2 -> Nicomedean Thunder Tower: no damage
+  [ACTION] melee: A:Belfry Battery Archistrategos -> Javidan Immortals 1: Knight-Apostle Squad -8, Javidan Immortals 1 -6
+  [ACTION] ranged: B:Flamewrought Company Sagdid Hound-Keepers 1 -> Covenant Levies 1: Covenant Levies 1 -3
+  [ACTION] ranged: A:Belfry Battery St. Barbara Field Gun 1 -> Sagdid Hound-Keepers 1: Sagdid Hound-Keepers 1 -2
+  [ACTION] ranged: B:Flamewrought Company Sagdid Hound-Keepers 2 -> Covenant Levies 1: no damage
+  [ACTION] ranged: A:Belfry Battery Covenant Levies 1 -> Shieldbearers 2: Shieldbearers 2 -2
+  [ACTION] melee: A:Belfry Battery Knight-Apostle Squad -> Javidan Immortals 1: Javidan Immortals 1 -2
+  [ACTION] ranged: A:Belfry Battery Nicomedean Thunder Tower -> Shieldbearers 2: Shieldbearers 2 -1
+  [ACTION] effect (  Sagdid Hound-Keepers SAVES (slow roll): [3✗@5+→Sagdid Pair][6✓@5+→Sagdid Pair] → 1/2 saved, 0 models killed): effect: Sagdid Hound-Keepers -1
+  [ACTION] ranged: A:Belfry Battery Master Gunner -> Shieldbearers 2: no damage
+  [ACTION] effect (Burning): effect: Archistrategos -1
+  [ACTION] effect (Burning): effect: Knight-Apostle Squad -1
+  [ACTION] effect (Burning): effect: Sagdid Hound-Keepers 1 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Petard Bearer (no legal action), B:HQ (no legal action), B:Adur Furnace Guard 1 (no legal action), B:Javidan Immortals 2 (no legal action), B:Adur Furnace Guard 2 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Belfry Battery Benediction on Covenant Levies 1: paid off - healed 1 HP
+  [COMMAND] B:Flamewrought Company Troop Requisition on (3,2): paid off - placed Sagdid Hound-Keepers; the unit it placed made 1 attack(s), 3 HP off
+  [MOVEMENT] A:Belfry Battery Go to Ground on Knight-Apostle Squad: paid off - 1 attack(s) it touched: +0.47 expected HP for its side
+  [ACTION] A:Belfry Battery Quis ut Deus?: paid off - gave Archistrategos: TAG +1, weapons LETHAL, weapon AR +2, weapon FR +2, weapon DMG +2; 3 attack(s) it touched: +4.11 expected HP for its side
+  [ACTION] A:Belfry Battery Blessing of St. Barbara: paid off - gave St. Barbara Field Gun 1: REROLL +1; 1 attack(s) it touched: +0.5 expected HP for its side
+Passive rules:
+  Veterans of Countless Wars (Javidan Immortals 1): 2 attacks, 1.69 expected HP for its side
+Scored by:
+  A:Belfry Battery missions FOCUSED FIRE 2 VP: Archistrategos 0.3, Knight-Apostle Squad 0.3, Nicomedean Thunder Tower 0.3, St. Barbara Field Gun 1 0.3, Master Gunner 0.3, Covenant Levies 1 0.3 (actors)
+  B:Flamewrought Company objectives (7,7) 3 VP: Javidan Immortals 1 3.0; hinged on Javidan Immortals 1
+  A:Belfry Battery objectives (1,7) 2 VP: Covenant Levies 1 2.0; hinged on Covenant Levies 1
+  B:Flamewrought Company objectives (13,7) 2 VP: Javidan Immortals 2 2.0; hinged on Javidan Immortals 2
+  B:Flamewrought Company primary BREAK THEIR HOLD 1 VP: Ardashir - The Flamebringer 0.5, Shieldbearers 2 0.3, Sagdid Hound-Keepers 1 0.3, Sagdid Hound-Keepers 2 0.3, Javidan Immortals 1 -0.5
+  B:Flamewrought Company missions DEEP REACH 3 VP: HQ 2.0, Javidan Immortals 1 0.5, Javidan Immortals 2 0.5
+Key log lines:
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Troop Requisition -> atashid_empire:sagdid_hound_keepers (cost 3 CP) by Player B
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via Archistrategos (cost 1 CP) - Knight-Apostle Squad
+  [MOVEMENT] [Ardashir - The Flamebringer] Overwatch Reaction vs Knight-Apostle Squad: no damage
+  [MOVEMENT]   Sagdid Pair destroyed
+  [MOVEMENT] [St. Barbara Field Gun 1] Overwatch Reaction vs Sagdid Hound-Keepers 1: 2 damage
+  [MOVEMENT] Petard Bearer CHARGE FAILED: it does not move
+  [MOVEMENT] [Shieldbearers 2] Fall Back to (2,6)
+  [MOVEMENT] [Shieldbearers 2] Overwatch Reaction vs Nicomedean Thunder Tower: no damage
+  [ACTION] Archistrategos uses Quis ut Deus?!
+  [ACTION]   Javidan destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Knight-Apostle destroyed
+  [ACTION]   Knight-Apostle destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] St. Barbara Field Gun 1 uses Blessing of St. Barbara!
+  [ACTION]   Sagdid Pair destroyed
+  [ACTION]   Shieldbearer destroyed
+  [ACTION]   Shieldbearer destroyed
+  [ACTION] MISSION COMPLETE: "FOCUSED FIRE" -> Player A +2 VP +1 CP!
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+
+=== BATTLE ROUND 4 ===
+A:Belfry Battery: VP +0 (obj 0, primary 0, missions 0) = 11; CP +2 -3 holds 1 [3 Troop Requisition → Covenant Levies]
+  mana: +4 -0 holds 16
+B:Flamewrought Company: VP +13 (obj 7, primary 3, missions 3) = 36; CP +2 -2 holds 0 [2 Double Time → Sagdid Hound-Keepers]
+  mana: +3 -0 holds 6
+A:Belfry Battery keeps mission COORDINATED PUSH (offered COORDINATED PUSH / PROBING STRIKE)
+B:Flamewrought Company keeps mission TAKE UP THE GAUNTLET (offered TAKE UP THE GAUNTLET / PROBING STRIKE)
+A:Belfry Battery mission VIGILANT WATCH: expired
+B:Flamewrought Company mission TAKE UP THE GAUNTLET: completed
+Moves:
+  [MOVEMENT] A:Belfry Battery Covenant Levies 6,12 -> 3,12
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 2,5 -> 4,6
+  [MOVEMENT] A:Belfry Battery Knight-Apostle Squad + Archistrategos 6,7 -> 5,10
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 1 6,4 -> 6,6
+  [MOVEMENT] B:Flamewrought Company Adur Furnace Guard 2 4,5 -> 5,7
+  [MOVEMENT] A:Belfry Battery Master Gunner 5,9 -> 4,11
+  [MOVEMENT] B:Flamewrought Company Sagdid Hound-Keepers 1 0,6 -> 4,5
+  [MOVEMENT] A:Belfry Battery St. Barbara Field Gun 1 4,13 -> 6,13
+  [MOVEMENT] B:Flamewrought Company Shieldbearers 2 2,6 -> 2,7
+  [MOVEMENT] A:Belfry Battery Nicomedean Thunder Tower 0,10 -> 0,9
+  [MOVEMENT] B:Flamewrought Company Javidan Immortals 1 + Ardashir - The Flamebringer 7,8 -> 7,12 (charge)
+  [ACTION] B:Flamewrought Company Javidan Immortals 1 + Ardashir - The Flamebringer 7,12 -> 6,13
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Knight-Apostle Squad: Knight-Apostle Squad -2
+  [ACTION] ranged: A:Belfry Battery Covenant Levies 1 -> Shieldbearers 2: no damage
+  [ACTION] ranged: B:Flamewrought Company Shieldbearers 2 -> Nicomedean Thunder Tower: no damage
+  [ACTION] ranged: A:Belfry Battery Nicomedean Thunder Tower -> Sagdid Hound-Keepers 2: no damage
+  [ACTION] melee: B:Flamewrought Company Javidan Immortals 1 -> St. Barbara Field Gun 1: St. Barbara Field Gun 1 -5 DESTROYED
+  [ACTION] ranged: A:Belfry Battery Master Gunner -> Sagdid Hound-Keepers 2: no damage
+  [ACTION] ranged: B:Flamewrought Company Sagdid Hound-Keepers -> Nicomedean Thunder Tower: Nicomedean Thunder Tower -3
+  [ACTION] ranged: B:Flamewrought Company Sagdid Hound-Keepers 2 -> Covenant Levies: Covenant Levies -2
+  [ACTION] ranged: B:Flamewrought Company Sagdid Hound-Keepers 1 -> Nicomedean Thunder Tower: no damage
+  [ACTION] effect (Burning): effect: Archistrategos -1
+  [ACTION] effect (Burning): effect: Knight-Apostle Squad -1
+  [ACTION] effect (Burning): effect: Knight-Apostle Squad -0 DESTROYED
+  [ACTION] effect (Burning): effect: Sagdid Hound-Keepers 1 -1
+  [ACTION] effect (Burning): effect: Sagdid Hound-Keepers 1 -0 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Archistrategos (no legal action), A:Petard Bearer (no legal action), B:HQ (no legal action), B:Adur Furnace Guard 1 (no legal action), B:Javidan Immortals 2 (no legal action), B:Adur Furnace Guard 2 (no legal action)
+Moves undone:
+  A:Belfry Battery Master Gunner: R3 MOVEMENT 6,10 -> 5,9, R4 MOVEMENT -> 4,11 (toward the objective at 7,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] A:Belfry Battery Troop Requisition on (6,12): paid off - placed Covenant Levies; the unit it placed drew 1 enemy attack(s), 2 HP
+  [COMMAND] B:Flamewrought Company Double Time on Sagdid Hound-Keepers: nothing - gave Sagdid Hound-Keepers: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [ACTION] B:Flamewrought Company Alchemical Vial: paid off - gave Shieldbearers 2: MS +1, BS +1, DEF +1; 1 attack(s) it touched: +0.33 expected HP for its side
+  [ACTION] B:Flamewrought Company Capture on HQ: nothing - put CONTESTED on HQ
+Scored by:
+  B:Flamewrought Company objectives (7,7) 3 VP: Adur Furnace Guard 1 3.0; hinged on Adur Furnace Guard 1
+  B:Flamewrought Company objectives (1,7) 2 VP: Shieldbearers 2 1.0, Sagdid Hound-Keepers 2 1.0
+  B:Flamewrought Company objectives (13,7) 2 VP: Javidan Immortals 2 2.0; hinged on Javidan Immortals 2
+  B:Flamewrought Company primary BREAK THEIR HOLD 3 VP: no unit, unassigned 3
+  B:Flamewrought Company missions TAKE UP THE GAUNTLET 3 VP: Shieldbearers 2 1.5, Sagdid Hound-Keepers 2 1.5
+Key log lines:
+  [COMMAND] Player A picks mission: COORDINATED PUSH
+  [COMMAND] Player B picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] HQ Command: Troop Requisition -> covenant_of_new_jerusalem:covenant_levies (cost 3 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Sagdid Hound-Keepers (cost 2 CP) by Player B
+  [MOVEMENT] Mission "VIGILANT WATCH" EXPIRED (R4)
+  [MOVEMENT] [Knight-Apostle Squad] Fall Back to (5,10)
+  [MOVEMENT] Petard Bearer CHARGE FAILED: it does not move
+  [ACTION] Shieldbearers 2 uses Alchemical Vial!
+  [ACTION]   St. Barbara Field Gun destroyed
+  [ACTION]   St. Barbara Field Gun 1 DESTROYED in melee!
+  [ACTION]   St. Barbara Field Gun 1 was destroyed - no counterattack
+  [ACTION]   Levy destroyed
+  [ACTION]   Apostle-Captain destroyed
+  [ACTION] [Knight-Apostle Squad] DESTROYED by BURNED
+  [ACTION]   Sagdid Pair Sergeant destroyed
+  [ACTION] [Sagdid Hound-Keepers 1] DESTROYED by BURNED
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 3 VP (5/10)
+  [CLEANUP] MISSION COMPLETE: "TAKE UP THE GAUNTLET" -> Player B +3 VP!
+
+Damage leaders:
+  B:Flamewrought Company Javidan Immortals 1: 25 damage, 2 kills, 30 RP, 0.83/RP
+  A:Belfry Battery Archistrategos: 11 damage, 2 kills, 60 RP, 0.18/RP
+  A:Belfry Battery Knight-Apostle Squad: 10 damage, 0 kills, 35 RP, 0.29/RP (destroyed)
+  B:Flamewrought Company Sagdid Hound-Keepers 1: 9 damage, 0 kills, 10 RP, 0.90/RP (destroyed)
+  B:Flamewrought Company Ardashir - The Flamebringer: 6 damage, 0 kills, 75 RP, 0.08/RP
+  B:Flamewrought Company Javidan Immortals 2: 5 damage, 1 kills, 30 RP, 0.17/RP
+  A:Belfry Battery Nicomedean Thunder Tower: 5 damage, 0 kills, 45 RP, 0.11/RP
+  A:Belfry Battery Master Gunner: 4 damage, 0 kills, 20 RP, 0.20/RP
+  B:Flamewrought Company Sagdid Hound-Keepers 2: 4 damage, 0 kills, 10 RP, 0.40/RP
+  A:Belfry Battery St. Barbara Field Gun 1: 4 damage, 0 kills, 30 RP, 0.13/RP (destroyed)
+  B:Flamewrought Company Sagdid Hound-Keepers: 3 damage, 0 kills, 10 RP, 0.30/RP
+  A:Belfry Battery Covenant Levies 1: 2 damage, 0 kills, 10 RP, 0.20/RP
+  B:Flamewrought Company Shieldbearers 2: 2 damage, 0 kills, 17 RP, 0.12/RP
+VP contributed (fair share; objective VP that hinged on it):
+  B:Flamewrought Company Javidan Immortals 2: 8.5 VP (obj 8.0, primary 0.0, missions 0.5), hinged 8, 28.3/100 RP
+  B:Flamewrought Company Javidan Immortals 1: 5.5 VP (obj 5.5, primary -0.5, missions 0.5), hinged 6, 18.3/100 RP
+  B:Flamewrought Company Shieldbearers 2: 4.8 VP (obj 2.0, primary 0.3, missions 2.5), hinged 3, 28.4/100 RP
+  A:Belfry Battery Covenant Levies 1: 4.3 VP (obj 4.0, primary 0.0, missions 0.3), hinged 4, 43.3/100 RP
+  B:Flamewrought Company Sagdid Hound-Keepers 2: 3.8 VP (obj 1.0, primary 1.3, missions 1.5), hinged 0, 38.3/100 RP
+  A:Belfry Battery Archistrategos: 3.3 VP (obj 0.0, primary 3.0, missions 0.3), hinged 0, 5.6/100 RP
+  B:Flamewrought Company Adur Furnace Guard 1: 3.0 VP (obj 3.0, primary 0.0, missions 0.0), hinged 3, 15.0/100 RP
+  B:Flamewrought Company Ardashir - The Flamebringer: 3.0 VP (obj 2.5, primary 0.5, missions 0.0), hinged 3, 4.0/100 RP
+  A:Belfry Battery Knight-Apostle Squad: 2.3 VP (obj 0.0, primary 0.0, missions 2.3), hinged 0, 6.7/100 RP
+  B:Flamewrought Company HQ: 2.0 VP (obj 0.0, primary 0.0, missions 2.0), hinged 0, -/100 RP
+  B:Flamewrought Company Mobad: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 5.0/100 RP
+  B:Flamewrought Company Shieldbearers 1: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 5.9/100 RP
+  A:Belfry Battery Master Gunner: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 1.7/100 RP
+  A:Belfry Battery Nicomedean Thunder Tower: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 0.7/100 RP
+  B:Flamewrought Company Sagdid Hound-Keepers 1: 0.3 VP (obj 0.0, primary 0.3, missions 0.0), hinged 0, 3.3/100 RP
+  A:Belfry Battery St. Barbara Field Gun 1: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 1.1/100 RP
+  B:Flamewrought Company no unit: obj 0, primary 3, missions 0
+Activity (inaction score; actions: movement/ranged/melee/ability/magic):
+  B:Flamewrought Company Adur Furnace Guard 1: inaction 4 (4 idle, 4 after moving, 0 Overwatch); actions 0/0/0/0/0
+  B:Flamewrought Company Adur Furnace Guard 2: inaction 4 (4 idle, 4 after moving, 0 Overwatch); actions 0/0/0/0/0
+  A:Belfry Battery Petard Bearer: inaction 4 (4 idle, 2 after moving, 0 Overwatch); actions 0/0/0/0/0
+  B:Flamewrought Company Javidan Immortals 2: inaction 3 (3 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0
+  A:Belfry Battery Archistrategos: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/2/1/0
+  B:Flamewrought Company Ardashir - The Flamebringer: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/0/1/1/0
+  A:Belfry Battery St. Barbara Field Gun 1: inaction 1.5 (2 idle, 2 after moving, 2 Overwatch); actions 0/1/0/1/0
+  B:Flamewrought Company Shieldbearers 2: inaction 1.5 (2 idle, 2 after moving, 2 Overwatch); actions 1/1/0/2/0
+  B:Flamewrought Company Mobad: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0
+  B:Flamewrought Company Shieldbearers 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0
+  A:Belfry Battery St. Barbara Field Gun 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0
+  A:Belfry Battery Covenant Levies 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0
+  A:Belfry Battery Covenant Levies 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/2/0/0/0
+  B:Flamewrought Company Javidan Immortals 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/3/0/0
+  A:Belfry Battery Knight-Apostle Squad: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/1/1/0/0
+  B:Flamewrought Company Sagdid Hound-Keepers 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/3/0/0/0
+  A:Belfry Battery Master Gunner: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/3/0/0/0
+  A:Belfry Battery Nicomedean Thunder Tower: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/1/0
+  B:Flamewrought Company Sagdid Hound-Keepers 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/1/0
+  B:Flamewrought Company Sagdid Hound-Keepers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 1
+  A:Belfry Battery Master Gunner: 1 of 4 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Belfry Battery INTO THE FRAY (+2 VP): kept R1, completed R2 - Make a successful CHARGE against an enemy unit.
+  A:Belfry Battery VIGILANT WATCH (+1 VP): kept R2, expired R4 - Perform an OVERWATCH Reaction with a unit within an Objective Area.
+  A:Belfry Battery FOCUSED FIRE (+2 VP): kept R3, completed R3 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Belfry Battery COORDINATED PUSH (+2 VP): kept R4, active - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  B:Flamewrought Company COMMAND AUTHORITY (+2 VP): kept R1, expired R2 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  B:Flamewrought Company VIGILANT WATCH (+1 VP): kept R2, completed R2 - Perform an OVERWATCH Reaction with a unit within an Objective Area.
+  B:Flamewrought Company DEEP REACH (+3 VP): kept R3, completed R3 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Flamewrought Company TAKE UP THE GAUNTLET (+3 VP): kept R4, completed R4 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.

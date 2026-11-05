@@ -1,0 +1,457 @@
+Winter Host (A, principality_of_novgorod) vs Glandore Breakers (B, grand_duchy_of_albion) on CROSSROADS, seed 460703117
+Result: B:Glandore Breakers wins (VP) in round 5, VP 18 / 35
+Initiative: A:Winter Host; formation order [1,0]
+Army A:Winter Host (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Rurik the Deathless - 60 RP, 1 models, 12 HP, leads Rynda Guard, Marshal
+  Veche Levy 1 - 20 RP, 10 models, 20 HP
+  Veche Levy 2 - 20 RP, 10 models, 20 HP
+  Firelance Druzhina - 25 RP, 5 models, 10 HP
+  Rynda Guard - 35 RP, 5 models, 15 HP, led by Rurik the Deathless
+  Winter Witch - 30 RP, 1 models, 5 HP, leads Bogatyr Thunderguards
+  Bogatyr Thunderguards - 40 RP, 3 models, 12 HP, led by Winter Witch
+  Veche Levy 3 - 20 RP, 10 models, 20 HP
+Army B:Glandore Breakers (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Cliodhna - The Dread Tide - 55 RP, 1 models, 7 HP, leads Sidhe Wardens 1, Marshal
+  Sidhe Wardens 1 - 25 RP, 5 models, 5 HP, led by Cliodhna - The Dread Tide
+  Fey Lord - 18 RP, 1 models, 4 HP, leads Sidhe Wardens 2
+  Sidhe Wardens 2 - 22 RP, 5 models, 5 HP, led by Fey Lord
+  Sidhe Wardens 3 - 22 RP, 5 models, 5 HP
+  Fomorian Tidebreaker - 55 RP, 1 models, 15 HP
+  Briton Yeomen 1 - 15 RP, 10 models, 20 HP
+  Briton Yeomen 2 - 15 RP, 10 models, 20 HP
+  Morrigan's Chosen - 22 RP, 1 models, 4 HP
+Primary A:Winter Host: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: ERADICATE THE FOE, DECAPITATION STRIKE, DEEP INFILTRATION (does not fit); picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 0 (count 0), R5 2 (count 1); total 2
+Primary B:Glandore Breakers: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: SILENT MANEUVER (does not fit), BLEED THEM WHITE, BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 2 (count 2), R2 3 (count 3), R3 0 (count 0), R4 1 (count 1), R5 1 (count 1); total 7
+
+=== BATTLE ROUND 1 ===
+A:Winter Host: VP +6 (obj 4, primary 0, missions 2) = 6; CP +2 -2 holds 0 [2 Double Time → Rynda Guard]
+  mana: +2 -0 holds 2
+B:Glandore Breakers: VP +5 (obj 3, primary 2, missions 0) = 5; CP +3 -0 holds 3
+  mana: +5 -0 holds 5
+A:Winter Host keeps mission BAR THE GATES (offered BAR THE GATES / OMNIPRESENCE)
+B:Glandore Breakers keeps mission IRON CURTAIN (offered INTO THE FRAY / IRON CURTAIN)
+A:Winter Host mission BAR THE GATES: completed
+Moves:
+  [MOVEMENT] A:Winter Host Rynda Guard + Rurik the Deathless 3,12 -> 0,8 (advance)
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 1 11,2 -> 12,6 (advance)
+  [MOVEMENT] A:Winter Host Veche Levy 1 5,12 -> 6,8 (advance)
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 2 4,2 -> 1,5 (advance)
+  [MOVEMENT] A:Winter Host Veche Levy 2 9,12 -> 11,10 (advance)
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 1 + Cliodhna - The Dread Tide 9,2 -> 8,6
+  [MOVEMENT] A:Winter Host Veche Levy 3 11,12 -> 14,8 (advance)
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 2 + Fey Lord 5,2 -> 6,6
+  [MOVEMENT] A:Winter Host Firelance Druzhina 4,12 -> 6,9 (advance)
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 3 7,2 -> 7,7 (charge)
+  [MOVEMENT] A:Winter Host Bogatyr Thunderguards + Winter Witch 10,12 -> 8,10
+  [MOVEMENT] B:Glandore Breakers Fomorian Tidebreaker 3,1 -> 2,6
+  [MOVEMENT] B:Glandore Breakers Morrigan's Chosen 10,2 -> 14,6 (advance)
+Combat:
+  [ACTION] ranged: B:Glandore Breakers Fey Lord -> Rynda Guard: Rynda Guard -2
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 3 -> Veche Levy 1: Veche Levy 1 -6, Sidhe Wardens 3 -1
+  [ACTION] ranged: B:Glandore Breakers Sidhe Wardens 2 -> Rynda Guard: Rynda Guard -4
+  [ACTION] ranged: B:Glandore Breakers Sidhe Wardens 1 -> Veche Levy 3: Veche Levy 3 -6
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Bogatyr Thunderguards (no legal action), B:HQ (no legal action)
+Advanced, nothing else: B:Briton Yeomen 2, A:Veche Levy 2, A:Firelance Druzhina
+Commands and abilities:
+  [COMMAND] B:Glandore Breakers Flow of Magic: Tree: nothing - made tree active; 23 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Winter Host Double Time on Rynda Guard: paid off - gave Rurik the Deathless: MOVE +2; Rynda Guard: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [ACTION] B:Glandore Breakers Magical Imbuement: paid off - gave Fey Lord: weapons MAGICAL; Sidhe Wardens 2: weapons MAGICAL; 2 attack(s) it touched: +3.05 expected HP for its side
+  [ACTION] B:Glandore Breakers Baleful Eye on Rynda Guard: nothing - no change
+Passive rules:
+  Veil of Samhain (Cliodhna - The Dread Tide): 1 attack, 0.26 expected HP for its side
+  EVASION (Sidhe Wardens 3, 5+): 0 of 1 hits turned away
+Scored by:
+  B:Glandore Breakers objectives (7,7) 3 VP: Sidhe Wardens 1 0.8, Sidhe Wardens 2 0.8, Cliodhna - The Dread Tide 0.6, Sidhe Wardens 3 0.6, Fey Lord 0.1
+  A:Winter Host objectives (1,7) 2 VP: Rurik the Deathless 1.0, Rynda Guard 1.0
+  A:Winter Host objectives (13,7) 2 VP: Veche Levy 3 2.0; hinged on Veche Levy 3
+  B:Glandore Breakers primary BREAK THEIR HOLD 2 VP: Fomorian Tidebreaker 1.0, Briton Yeomen 1 0.5, Morrigan's Chosen 0.5, Fey Lord 0.2, Sidhe Wardens 1 -0.1, Sidhe Wardens 2 -0.1
+  A:Winter Host missions BAR THE GATES 2 VP: no unit, unassigned 2
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B BREAK THEIR HOLD
+  [COMMAND] Player A picks mission: BAR THE GATES
+  [COMMAND] Player B picks mission: IRON CURTAIN
+  [COMMAND] HQ Command: Double Time -> Rynda Guard (cost 2 CP) by Player A
+  [ACTION] Fey Lord uses Magical Imbuement!
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Rynda Guard destroyed
+  [ACTION]   Rynda Guard destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION] Fomorian Tidebreaker uses Baleful Eye!
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 2 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "BAR THE GATES" -> Player A +2 VP!
+
+=== BATTLE ROUND 2 ===
+A:Winter Host: VP +4 (obj 2, primary 0, missions 2) = 10; CP +3 -1 holds 2 [1 Go to ground (reaction) for Bogatyr Thunderguards]
+  mana: +7 -0 holds 9
+B:Glandore Breakers: VP +8 (obj 5, primary 3, missions 0) = 13; CP +3 -1 holds 5 [1 Go to ground (reaction) for Fomorian Tidebreaker]
+A:Winter Host keeps mission IRON GRIP (offered BREAK CONTACT / IRON GRIP)
+B:Glandore Breakers keeps mission FOCUSED FIRE (offered FOCUSED FIRE / PROBING STRIKE)
+A:Winter Host mission IRON GRIP: completed
+B:Glandore Breakers mission IRON CURTAIN: expired
+Moves:
+  [MOVEMENT] A:Winter Host Veche Levy 2 11,10 -> 8,9
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 2 1,5 -> 0,6
+  [MOVEMENT] A:Winter Host Firelance Druzhina 6,9 -> 7,9
+  [MOVEMENT] B:Glandore Breakers Fomorian Tidebreaker 2,6 -> 5,6
+  [MOVEMENT] A:Winter Host Bogatyr Thunderguards + Winter Witch 8,10 -> 6,9
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 1 12,6 -> 13,6
+  [MOVEMENT] A:Winter Host Rynda Guard + Rurik the Deathless 0,8 -> 0,7 (charge)
+  [MOVEMENT] B:Glandore Breakers Morrigan's Chosen 14,6 -> 13,8 (charge)
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 1 + Cliodhna - The Dread Tide 8,6 -> 8,8 (charge)
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 2 + Fey Lord 6,6 -> 8,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Winter Host Rurik the Deathless -> Briton Yeomen 2: no damage
+  [MOVEMENT] ranged (Overwatch): A:Winter Host Veche Levy 2 -> Fomorian Tidebreaker: no damage
+  [MOVEMENT] ranged (Overwatch): A:Winter Host Firelance Druzhina -> Fomorian Tidebreaker: Fomorian Tidebreaker -3
+  [MOVEMENT] ranged (Overwatch): A:Winter Host Veche Levy 3 -> Briton Yeomen 1: Briton Yeomen 1 -2
+  [MOVEMENT] ranged (Overwatch): A:Winter Host Bogatyr Thunderguards -> Sidhe Wardens 2: no damage
+  [ACTION] ranged: A:Winter Host Bogatyr Thunderguards -> Fomorian Tidebreaker: Fomorian Tidebreaker -12 DESTROYED
+  [ACTION] ranged FRIENDLY FIRE: B:Glandore Breakers Fey Lord -> Briton Yeomen 2: Briton Yeomen 2 -2
+  [ACTION] melee: A:Winter Host Rynda Guard -> Briton Yeomen 2: Briton Yeomen 2 -8
+  [ACTION] melee: B:Glandore Breakers Cliodhna - The Dread Tide -> Firelance Druzhina: Firelance Druzhina -6, Sidhe Wardens 1 -1
+  [ACTION] melee: A:Winter Host Rurik the Deathless -> Briton Yeomen 2: Briton Yeomen 2 -4
+  [ACTION] ranged: B:Glandore Breakers Sidhe Wardens 2 -> Bogatyr Thunderguards: Bogatyr Thunderguards -3
+  [ACTION] effect (Overdraw): effect -> Winter Witch: no damage; cost paid: Bogatyr Thunderguards -1 (Overdraw)
+  [ACTION] melee: B:Glandore Breakers Morrigan's Chosen -> Veche Levy 3: Veche Levy 3 -8
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 1 -> Firelance Druzhina: Firelance Druzhina -4 DESTROYED
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 3 -> Veche Levy 1: Veche Levy 1 -7, Sidhe Wardens 3 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Veche Levy 2 (best: compositionMeleeAttack on Sidhe Wardens 1, -7.55), B:HQ (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  A:Winter Host Veche Levy 2: R1 MOVEMENT 9,12 -> 11,10, R2 MOVEMENT -> 8,9 (toward the objective at 13,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] B:Glandore Breakers Flow of Magic: Tree: nothing - made tree active; 18 attack(s) it touched: +0 expected HP for its side
+  [MOVEMENT] B:Glandore Breakers Go to Ground on Fomorian Tidebreaker: paid off - 1 attack(s) it touched: +0.83 expected HP for its side
+  [ACTION] B:Glandore Breakers Magical Imbuement: paid off - gave Fey Lord: weapons MAGICAL; Sidhe Wardens 2: weapons MAGICAL; 2 attack(s) it touched: +1.95 expected HP for its side
+  [ACTION] A:Winter Host Go to Ground on Bogatyr Thunderguards: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Winter Host Overdraw: paid off - 6 Mana gained; cost its own unit 1 HP
+Passive rules:
+  Veil of Samhain (Cliodhna - The Dread Tide): 3 attacks, 1.02 expected HP for its side
+  EVASION (Sidhe Wardens 2, 5+): 1 of 1 hits turned away
+  EVASION (Cliodhna - The Dread Tide, 5+): 1 of 2 hits turned away
+  EVASION (Morrigan's Chosen, 5+): 0 of 1 hits turned away
+  EVASION (Sidhe Wardens 3, 5+): 0 of 2 hits turned away
+Scored by:
+  B:Glandore Breakers objectives (7,7) 3 VP: Sidhe Wardens 2 1.4, Sidhe Wardens 1 0.7, Cliodhna - The Dread Tide 0.4, Sidhe Wardens 3 0.4, Fey Lord 0.1
+  A:Winter Host objectives (1,7) 2 VP: Rurik the Deathless 2.0; hinged on Rurik the Deathless
+  B:Glandore Breakers objectives (13,7) 2 VP: Briton Yeomen 1 2.0; hinged on Briton Yeomen 1
+  B:Glandore Breakers primary BREAK THEIR HOLD 3 VP: Briton Yeomen 1 1.9, Briton Yeomen 2 0.5, Morrigan's Chosen 0.5, Fey Lord 0.2, Cliodhna - The Dread Tide 0.1, Sidhe Wardens 3 0.1, Sidhe Wardens 1 -0.1, Sidhe Wardens 2 -0.1
+  A:Winter Host missions IRON GRIP 2 VP: Veche Levy 1 1.3, Rurik the Deathless 0.3, Rynda Guard 0.3
+Key log lines:
+  [COMMAND] Player A picks mission: IRON GRIP
+  [COMMAND] Player B picks mission: FOCUSED FIRE
+  [MOVEMENT] [Rurik the Deathless] Overwatch Reaction vs Briton Yeomen 2: no damage
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Fomorian Tidebreaker
+  [MOVEMENT] [Veche Levy 2] Overwatch Reaction vs Fomorian Tidebreaker: no damage
+  [MOVEMENT] [Firelance Druzhina] Overwatch Reaction vs Fomorian Tidebreaker: 3 damage
+  [MOVEMENT]   Yeoman destroyed
+  [MOVEMENT] [Veche Levy 3] Overwatch Reaction vs Briton Yeomen 1: 2 damage
+  [MOVEMENT] [Bogatyr Thunderguards] Overwatch Reaction vs Sidhe Wardens 2: no damage
+  [ACTION]   Fomorian Tidebreaker destroyed
+  [ACTION]   Fomorian Tidebreaker DESTROYED
+  [ACTION] Fey Lord uses Magical Imbuement!
+  [ACTION]   Vintenar destroyed
+  [ACTION]   Yeoman destroyed
+  [ACTION]   Yeoman destroyed
+  [ACTION]   Yeoman destroyed
+  [ACTION]   Yeoman destroyed
+  [ACTION]   Druzhinnik destroyed
+  [ACTION]   Druzhinnik destroyed
+  [ACTION]   Druzhinnik destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Yeoman destroyed
+  [ACTION]   Yeoman destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Bogatyr Thunderguards
+  [ACTION] Winter Witch uses Overdraw!
+  [ACTION]   Thunderguard destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Druzhinnik destroyed
+  [ACTION]   Syn Boyarsky destroyed
+  [ACTION]   Firelance Druzhina DESTROYED in melee!
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Warden destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 3 VP (5/10)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player A +2 VP +1 CP!
+  [CLEANUP] Mission "IRON CURTAIN" EXPIRED (R2)
+
+=== BATTLE ROUND 3 ===
+A:Winter Host: VP +2 (obj 2, primary 0, missions 0) = 12; CP +2 -2 holds 2 [2 Rally cry (reaction) for Veche Levy 1]
+  mana: +1 -6 holds 4 [6 Cast Morana's Judgement]
+B:Glandore Breakers: VP +8 (obj 5, primary 0, missions 3) = 21; CP +3 -2 holds 6 [2 Double Time → Sidhe Wardens 2]
+  mana: +0 -2 holds 3 [2 Cast Tonn Chliodhna]
+A:Winter Host keeps mission ASSASSINATION (offered STRONGPOINT / ASSASSINATION)
+B:Glandore Breakers keeps mission TERRITORIAL SUPERIORITY (offered TERRITORIAL SUPERIORITY / BREAK CONTACT)
+B:Glandore Breakers mission FOCUSED FIRE: expired
+B:Glandore Breakers mission TERRITORIAL SUPERIORITY: completed
+Moves:
+  [MOVEMENT] A:Winter Host Veche Levy 2 8,9 -> 5,10
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 2 + Fey Lord 8,7 -> 5,8 (charge)
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 2 0,6 -> 1,3
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 1 13,6 -> 12,8
+Combat:
+  [ACTION] magic (Morana's Judgement): A:Winter Host Winter Witch -> Cliodhna - The Dread Tide: Sidhe Wardens 1 -3
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 2 -> Veche Levy 1: Veche Levy 1 -7 DESTROYED
+  [ACTION] melee: A:Winter Host Bogatyr Thunderguards -> Sidhe Wardens 2: Bogatyr Thunderguards -2, Sidhe Wardens 2 -2
+  [ACTION] melee: B:Glandore Breakers Morrigan's Chosen -> Veche Levy 3: Veche Levy 3 -6 DESTROYED
+  [ACTION] magic (Tonn Chliodhna): B:Glandore Breakers Cliodhna - The Dread Tide: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] B:Glandore Breakers Flow of Magic: Surge: paid off - made surge active; 1 Mana saved on casts; 4 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Glandore Breakers Double Time on Sidhe Wardens 2: paid off - gave Fey Lord: MOVE +2; Sidhe Wardens 2: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Winter Host Rally Cry on Veche Levy 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Winter Host Morana's Judgement on Cliodhna - The Dread Tide: paid off - its effect took 3 HP off enemies
+  [ACTION] B:Glandore Breakers Tonn Chliodhna on (6,9): nothing - no change
+Passive rules:
+  Veil of Samhain (Cliodhna - The Dread Tide): 1 attack, 0.6 expected HP for its side
+  Fading Step (Sidhe Wardens 2): fired 1 time (grant_move)
+  Fading Step (Fey Lord): fired 1 time (grant_move)
+  EVASION (Sidhe Wardens 2, 5+): 3 of 6 hits turned away
+Scored by:
+  B:Glandore Breakers objectives (7,7) 3 VP: Cliodhna - The Dread Tide 1.0, Sidhe Wardens 1 1.0, Sidhe Wardens 3 1.0
+  A:Winter Host objectives (1,7) 2 VP: Rurik the Deathless 1.0, Rynda Guard 1.0
+  B:Glandore Breakers objectives (13,7) 2 VP: Briton Yeomen 1 1.0, Morrigan's Chosen 1.0
+  B:Glandore Breakers missions TERRITORIAL SUPERIORITY 3 VP: Briton Yeomen 1 0.9, Morrigan's Chosen 0.9, Cliodhna - The Dread Tide 0.4, Sidhe Wardens 1 0.4, Sidhe Wardens 3 0.4
+Key log lines:
+  [COMMAND] Player A picks mission: ASSASSINATION
+  [COMMAND] Player B picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] HQ Command: Double Time -> Sidhe Wardens 2 (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Veche Levy 1
+  [MOVEMENT] [Veche Levy 2] Fall Back to (5,10)
+  [MOVEMENT] [Briton Yeomen 2] Fall Back to (1,3)
+  [MOVEMENT] Sidhe Wardens 1 CHARGE FAILED: it does not move
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION] Winter Witch casts Morana's Judgement on Cliodhna - The Dread Tide
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Desyatnik destroyed
+  [ACTION]   Veche Levy 1 DESTROYED in melee!
+  [ACTION]   Veche Levy 1 was destroyed - no counterattack
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Desyatnik destroyed
+  [ACTION]   Veche Levy 3 DESTROYED in melee!
+  [ACTION]   Veche Levy 3 was destroyed - no counterattack
+  [ACTION] Cliodhna - The Dread Tide casts Tonn Chliodhna on (6,9)
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player B +3 VP!
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Winter Host: VP +2 (obj 2, primary 0, missions 0) = 14; CP +2 -1 holds 3 [1 Go to ground (reaction) for Rynda Guard]
+  mana: +6 -0 holds 10
+B:Glandore Breakers: VP +8 (obj 5, primary 1, missions 2) = 29; CP +4 -9 holds 1 [5 Troop Requisition → Sidhe Wardens; 2 Double Time → Sidhe Wardens 1; 2 Rally cry (reaction) for Sidhe Wardens 1]
+A:Winter Host keeps mission LAST STAND (offered PUSH FORWARD / LAST STAND)
+B:Glandore Breakers keeps mission IRON GRIP (offered IRON GRIP / FORWARD PRESENCE)
+B:Glandore Breakers mission IRON GRIP: completed
+Moves:
+  [MOVEMENT] A:Winter Host Veche Levy 2 5,10 -> 5,9 (charge)
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 1 + Cliodhna - The Dread Tide 8,8 -> 7,8 (charge)
+  [MOVEMENT] A:Winter Host Rynda Guard + Rurik the Deathless 0,7 -> 2,6
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 2 1,3 -> 0,5
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 5,2 -> 1,6 (charge)
+  [MOVEMENT] B:Glandore Breakers Morrigan's Chosen 13,8 -> 12,7
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 3 7,7 -> 5,6
+  [ACTION] B:Glandore Breakers Sidhe Wardens 1,6 -> 0,8
+  [ACTION] B:Glandore Breakers Sidhe Wardens 0,8 -> 2,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Winter Host Rurik the Deathless -> Briton Yeomen 2: no damage
+  [ACTION] melee: A:Winter Host Rynda Guard -> Sidhe Wardens: Sidhe Wardens -1
+  [ACTION] melee: B:Glandore Breakers Cliodhna - The Dread Tide -> Bogatyr Thunderguards: Bogatyr Thunderguards -5
+  [ACTION] effect (Overdraw): effect -> Winter Witch: no damage; cost paid: Bogatyr Thunderguards -1 DESTROYED (Overdraw)
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 2 -> Veche Levy 2: Veche Levy 2 -1, Sidhe Wardens 2 -2
+  [ACTION] ranged: A:Winter Host Rurik the Deathless -> Sidhe Wardens: Sidhe Wardens -2
+  [ACTION] ranged: B:Glandore Breakers Sidhe Wardens 3 -> Rynda Guard: Rynda Guard -1
+  [ACTION] ranged: B:Glandore Breakers Briton Yeomen 2 -> Rurik the Deathless: no damage
+  [ACTION] melee: B:Glandore Breakers Fey Lord -> Veche Levy 2: Veche Levy 2 -2
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 1 -> Winter Witch: Winter Witch -1
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] B:Glandore Breakers Flow of Magic: Water: nothing - made water active; 11 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Glandore Breakers Troop Requisition on (5,2): paid off - placed Sidhe Wardens; the unit it placed scored 1 VP; the unit it placed drew 2 enemy attack(s), 3 HP
+  [COMMAND] B:Glandore Breakers Double Time on Sidhe Wardens 1: nothing - gave Cliodhna - The Dread Tide: MOVE +2; Sidhe Wardens 1: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] B:Glandore Breakers Rally Cry on Sidhe Wardens 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Winter Host Overdraw: paid off - 5 Mana gained; cost its own unit 1 HP
+  [ACTION] A:Winter Host Go to Ground on Rynda Guard: paid off - 1 attack(s) it touched: +0.5 expected HP for its side
+Passive rules:
+  Rugged Resilience (Briton Yeomen 2): 1 attack, 0.62 expected HP for its side
+  Veil of Samhain (Cliodhna - The Dread Tide): 2 attacks, 0.46 expected HP for its side
+  LUNAR-CHARGED ARROWS (Sidhe Wardens 3): 1 attack, 0.5 expected HP for its side
+  Ice Armor (Winter Witch): 1 attack, 0.83 expected HP for its side
+  Fading Step (Sidhe Wardens): fired 2 times (grant_move)
+  EVASION (Sidhe Wardens, 5+): 3 of 7 hits turned away
+  EVASION (Cliodhna - The Dread Tide, 5+): 2 of 2 hits turned away
+  EVASION (Sidhe Wardens 2, 5+): 1 of 4 hits turned away
+Scored by:
+  B:Glandore Breakers objectives (7,7) 3 VP: Cliodhna - The Dread Tide 1.5, Sidhe Wardens 1 1.5
+  A:Winter Host objectives (1,7) 2 VP: Rurik the Deathless 1.0, Rynda Guard 1.0
+  B:Glandore Breakers objectives (13,7) 2 VP: Briton Yeomen 1 1.0, Morrigan's Chosen 1.0
+  B:Glandore Breakers primary BREAK THEIR HOLD 1 VP: Sidhe Wardens 1.0
+  B:Glandore Breakers missions IRON GRIP 2 VP: Briton Yeomen 1 1.3, Cliodhna - The Dread Tide 0.3, Sidhe Wardens 1 0.3
+Key log lines:
+  [COMMAND] Player A picks mission: LAST STAND
+  [COMMAND] Player B picks mission: IRON GRIP
+  [COMMAND] HQ Command: Troop Requisition -> grand_duchy_of_albion:sidhe_wardens (cost 5 CP) by Player B
+  [COMMAND] HQ Command: Double Time -> Sidhe Wardens 1 (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via Cliodhna - The Dread Tide (cost 2 CP) - Sidhe Wardens 1
+  [MOVEMENT] [Rurik the Deathless] Overwatch Reaction vs Briton Yeomen 2: no damage
+  [ACTION]   Warden destroyed
+  [ACTION]   Thunderguard destroyed
+  [ACTION] Winter Witch uses Overdraw!
+  [ACTION]   Zastava Ataman destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via Rurik the Deathless (cost 1 CP) - Rynda Guard
+  [ACTION]   Levyman destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (6/10)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player B +2 VP +1 CP!
+
+=== BATTLE ROUND 5 ===
+A:Winter Host: VP +4 (obj 2, primary 2, missions 0) = 18; CP +2 -5 holds 0 [5 Troop Requisition → Veche Levy]
+  mana: +1 -0 holds 11
+B:Glandore Breakers: VP +6 (obj 5, primary 1, missions 0) = 35; CP +3 -3 holds 1 [3 Double Time → Morrigan's Chosen]
+A:Winter Host keeps mission COORDINATED PUSH (offered KING OF THE HILL / COORDINATED PUSH)
+B:Glandore Breakers keeps mission OBJECTIVE RELAY (offered FIRE FOR EFFECT / OBJECTIVE RELAY)
+Moves:
+  [MOVEMENT] A:Winter Host Veche Levy 8,12 -> 7,9 (charge)
+  [MOVEMENT] B:Glandore Breakers Morrigan's Chosen 12,7 -> 5,7 (advance)
+  [MOVEMENT] A:Winter Host Winter Witch 6,9 -> 4,10
+  [MOVEMENT] B:Glandore Breakers Sidhe Wardens 3 5,6 -> 6,8 (charge)
+  [MOVEMENT] A:Winter Host Rynda Guard + Rurik the Deathless 2,6 -> 2,7 (charge)
+  [MOVEMENT] B:Glandore Breakers Briton Yeomen 2 0,5 -> 0,6
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Winter Witch: Winter Witch -1, Sidhe Wardens -2 DESTROYED
+  [ACTION] melee: A:Winter Host Veche Levy 2 -> Sidhe Wardens 3: Veche Levy 2 -2, Sidhe Wardens 3 -1
+  [ACTION] melee: B:Glandore Breakers Cliodhna - The Dread Tide -> Veche Levy: Veche Levy -6
+  [ACTION] ranged: B:Glandore Breakers Briton Yeomen 2 -> Rurik the Deathless: Rynda Guard -1
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 2 -> Veche Levy 2: Veche Levy 2 -2
+  [ACTION] melee: B:Glandore Breakers Sidhe Wardens 1 -> Veche Levy: Veche Levy -2
+  [ACTION] melee: B:Glandore Breakers Fey Lord -> Veche Levy 2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: B:Morrigan's Chosen
+Commands and abilities:
+  [COMMAND] B:Glandore Breakers Flow of Magic: Tree: nothing - made tree active; 7 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Winter Host Troop Requisition on (8,12): paid off - placed Veche Levy; the unit it placed drew 2 enemy attack(s), 8 HP
+  [COMMAND] B:Glandore Breakers Double Time on Morrigan's Chosen: paid off - gave Morrigan's Chosen: MOVE +2; 1 move(s) with it, 1 out of reach without it
+Passive rules:
+  Veil of Samhain (Cliodhna - The Dread Tide): 1 attack, 0.31 expected HP for its side
+  Fading Step (Sidhe Wardens 3): fired 1 time (grant_move)
+  EVASION (Sidhe Wardens 3, 5+): 1 of 2 hits turned away
+Scored by:
+  B:Glandore Breakers objectives (7,7) 3 VP: Cliodhna - The Dread Tide 1.0, Sidhe Wardens 1 1.0, Sidhe Wardens 3 1.0
+  A:Winter Host objectives (1,7) 2 VP: Rurik the Deathless 1.0, Rynda Guard 1.0
+  B:Glandore Breakers objectives (13,7) 2 VP: Briton Yeomen 1 2.0; hinged on Briton Yeomen 1
+  A:Winter Host primary ERADICATE THE FOE 2 VP: no unit, unassigned 2
+  B:Glandore Breakers primary BREAK THEIR HOLD 1 VP: Briton Yeomen 2 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: COORDINATED PUSH
+  [COMMAND] Player B picks mission: OBJECTIVE RELAY
+  [COMMAND] HQ Command: Troop Requisition -> principality_of_novgorod:veche_levy (cost 5 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Morrigan's Chosen (cost 3 CP) by Player B
+  [MOVEMENT] [Winter Witch] Fall Back to (4,10)
+  [MOVEMENT]   Warden destroyed
+  [MOVEMENT]   Warden-Captain destroyed
+  [MOVEMENT] [Sidhe Wardens] breaks away in disorder: 3 True Damage, 2 HP lost, 2 models destroyed
+  [MOVEMENT] [Sidhe Wardens] was destroyed while attempting to FALL BACK
+  [ACTION]   Warden destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (2/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (7/10)
+
+Damage leaders:
+  B:Glandore Breakers Sidhe Wardens 2: 17 damage, 1 kills, 22 RP, 0.77/RP
+  B:Glandore Breakers Cliodhna - The Dread Tide: 17 damage, 0 kills, 55 RP, 0.31/RP
+  B:Glandore Breakers Sidhe Wardens 3: 16 damage, 0 kills, 22 RP, 0.73/RP
+  A:Winter Host Bogatyr Thunderguards: 14 damage, 1 kills, 40 RP, 0.35/RP (destroyed)
+  B:Glandore Breakers Morrigan's Chosen: 14 damage, 1 kills, 22 RP, 0.64/RP
+  B:Glandore Breakers Sidhe Wardens 1: 13 damage, 1 kills, 25 RP, 0.52/RP
+  A:Winter Host Rynda Guard: 9 damage, 0 kills, 35 RP, 0.26/RP
+  B:Glandore Breakers Fey Lord: 6 damage, 0 kills, 18 RP, 0.33/RP
+  A:Winter Host Rurik the Deathless: 6 damage, 0 kills, 60 RP, 0.10/RP
+  A:Winter Host Firelance Druzhina: 4 damage, 0 kills, 25 RP, 0.16/RP (destroyed)
+  A:Winter Host Veche Levy 2: 3 damage, 0 kills, 20 RP, 0.15/RP
+  A:Winter Host Winter Witch: 3 damage, 0 kills, 30 RP, 0.10/RP
+  A:Winter Host Veche Levy 1: 2 damage, 0 kills, 20 RP, 0.10/RP (destroyed)
+  A:Winter Host Veche Levy 3: 2 damage, 0 kills, 20 RP, 0.10/RP (destroyed)
+  B:Glandore Breakers Briton Yeomen 2: 1 damage, 0 kills, 15 RP, 0.07/RP
+Friendly fire (HP and units a unit took off its own side):
+  B:Glandore Breakers Fey Lord: 2 HP
+  A:Winter Host Winter Witch: 0 HP, destroyed Bogatyr Thunderguards
+Costs paid (HP a unit's own rules took from it):
+  A:Winter Host Bogatyr Thunderguards: 2 HP
+VP contributed (fair share; objective VP that hinged on it):
+  B:Glandore Breakers Briton Yeomen 1: 10.6 VP (obj 6.0, primary 2.4, missions 2.2), hinged 4, 70.7/100 RP
+  A:Winter Host Rurik the Deathless: 6.3 VP (obj 6.0, primary 0.0, missions 0.3), hinged 2, 10.6/100 RP
+  B:Glandore Breakers Sidhe Wardens 1: 5.5 VP (obj 5.0, primary -0.2, missions 0.7), hinged 0, 22.1/100 RP
+  B:Glandore Breakers Cliodhna - The Dread Tide: 5.3 VP (obj 4.5, primary 0.1, missions 0.7), hinged 0, 9.7/100 RP
+  A:Winter Host Rynda Guard: 4.3 VP (obj 4.0, primary 0.0, missions 0.3), hinged 0, 12.4/100 RP
+  B:Glandore Breakers Morrigan's Chosen: 3.9 VP (obj 2.0, primary 1.0, missions 0.9), hinged 0, 17.7/100 RP
+  B:Glandore Breakers Sidhe Wardens 3: 3.5 VP (obj 3.0, primary 0.1, missions 0.4), hinged 0, 16.0/100 RP
+  B:Glandore Breakers Sidhe Wardens 2: 2.0 VP (obj 2.3, primary -0.2, missions 0.0), hinged 0, 9.2/100 RP
+  A:Winter Host Veche Levy 3: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 10.0/100 RP
+  B:Glandore Breakers Briton Yeomen 2: 1.5 VP (obj 0.0, primary 1.5, missions 0.0), hinged 0, 10.0/100 RP
+  A:Winter Host Veche Levy 1: 1.3 VP (obj 0.0, primary 0.0, missions 1.3), hinged 0, 6.7/100 RP
+  B:Glandore Breakers Fomorian Tidebreaker: 1.0 VP (obj 0.0, primary 1.0, missions 0.0), hinged 0, 1.8/100 RP
+  B:Glandore Breakers Sidhe Wardens: 1.0 VP (obj 0.0, primary 1.0, missions 0.0), hinged 0, 5.9/100 RP
+  B:Glandore Breakers Fey Lord: 0.6 VP (obj 0.3, primary 0.3, missions 0.0), hinged 0, 3.2/100 RP
+  A:Winter Host no unit: obj 0, primary 2, missions 2
+Activity (inaction score; advanced, nothing else; actions: movement/advance/ranged/melee/ability/magic/objective held):
+  A:Winter Host Bogatyr Thunderguards: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 0; actions 0/0/1/2/0/0/0
+  A:Winter Host Veche Levy 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 1 (R1); actions 1/1/0/2/0/0/0
+  B:Glandore Breakers Fomorian Tidebreaker: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/1/0/1
+  B:Glandore Breakers Sidhe Wardens: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/0/0/0/0/1
+  A:Winter Host Veche Levy 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/2/0/0/2
+  A:Winter Host Winter Witch: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/0/0/2/2/0
+  B:Glandore Breakers Briton Yeomen 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/0/0/0/5
+  B:Glandore Breakers Briton Yeomen 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 1 (R1); actions 1/1/2/1/0/0/1
+  B:Glandore Breakers Sidhe Wardens 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/3/0/0/2
+  B:Glandore Breakers Morrigan's Chosen: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 1 (R5); actions 0/2/0/2/0/0/4
+  A:Winter Host Rynda Guard: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/2/0/0/5
+  B:Glandore Breakers Sidhe Wardens 3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/3/0/0/4
+  B:Glandore Breakers Fey Lord: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/3/2/0/2
+  B:Glandore Breakers Sidhe Wardens 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/3/0/0/5
+  B:Glandore Breakers Cliodhna - The Dread Tide: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/3/0/2/5
+  A:Winter Host Firelance Druzhina: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 1 (R1); actions 0/1/0/1/0/0/0
+  A:Winter Host Veche Levy 3: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 0; actions 0/1/0/1/0/0/2
+  A:Winter Host Rurik the Deathless: inaction -0.5 (0 idle, 0 after moving, 2 Overwatch); advanced only 0; actions 0/1/1/1/0/0/5
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 1
+  A:Winter Host Veche Levy 2: 1 of 4 moves (0 back, 1 away from an objective), 2 squares lost
+Secondary missions:
+  A:Winter Host BAR THE GATES (+2 VP): kept R1, completed R1 - At the end of a Battle Round, have no enemy unit in your half of the battlefield.
+  A:Winter Host IRON GRIP (+2 VP): kept R2, completed R2 - Maintain a minimum of 7 OC on a single Objective.
+  A:Winter Host ASSASSINATION (+4 VP): kept R3, active - Destroy an enemy CHARACTER or MONSTER.
+  A:Winter Host LAST STAND (+3 VP): kept R4, active - At the end of a Battle Round, control an objective that has a friendly unit Below Half-Strength in its Objective Area.
+  A:Winter Host COORDINATED PUSH (+2 VP): kept R5, active - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  B:Glandore Breakers IRON CURTAIN (+2 VP): kept R1, expired R2 - No friendly unit is destroyed during the entire duration of this Mission.
+  B:Glandore Breakers FOCUSED FIRE (+2 VP): kept R2, expired R3 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Glandore Breakers TERRITORIAL SUPERIORITY (+3 VP): kept R3, completed R3 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Glandore Breakers IRON GRIP (+2 VP): kept R4, completed R4 - Maintain a minimum of 7 OC on a single Objective.
+  B:Glandore Breakers OBJECTIVE RELAY (+2 VP): kept R5, active - Move a unit that was within an Objective Area at Mission entry to a different Objective Area.

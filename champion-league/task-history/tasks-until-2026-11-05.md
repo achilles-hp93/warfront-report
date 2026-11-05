@@ -1,0 +1,239 @@
+# Task list of the 2026-10-21 to 2026-11-05 session
+
+One line per task (id, status, subject); descriptions are in the JSON beside this file.
+
+- #1 [completed] Pairing core: joinPair/splitPair, attach/detach, occupancy
+- #2 [completed] Pair targeting, allocation and death
+- #3 [completed] Separate APt, activation and reactions
+- #4 [completed] Abilities, effects, MOVE/MORALE on the pair
+- #5 [completed] Counting, positional consumers, translation layers removed
+- #7 [completed] Green test suite, audits, browser check, commit and push
+- #8 [completed] Guard createUnit: an HQ is the 'hq' template
+- #9 [completed] Sweep, match_runner and browser parity field real CHARACTERs
+- #10 [completed] Keep HQ-building callers exact with 'hq'
+- #11 [completed] Verify: suite, sweeps, server tests, bench, browser parity; commit and push
+- #12 [completed] Transports: a joined pair embarks and disembarks as one
+- #13 [completed] Structures: a pair goes only where both units may
+- #14 [completed] Ibar and Athibar: the pair's move is the CHARACTER moving
+- #15 [completed] Board: one token for the pair, its banner showing both icons
+- #16 [completed] Selection and unit list: click selects the bodyguard; list leads with the CHARACTER
+- #17 [completed] Stage C: rules docs, full verification, commit and push
+- #18 [completed] Overwatch-Ready = held fire; Troop Requisition = 0 APt
+- #19 [completed] Spell attacks follow the ranged rules; pair partner never takes Friendly Fire
+- #20 [completed] Count melee damage in battle statistics
+- #21 [completed] Damage log names the unit whose model took the damage
+- #22 [completed] Build, suite, server tests, sweep; commit and push to PR #74
+- #23 [completed] Fix dead units left on the board after a shot kill; build, test, commit
+- #24 [completed] Battle report feature: scripts/battle_report recorder, builder, skill
+- #25 [completed] Re-run Legion vs Host, batch evidence, write analysis, republish artifact
+- #26 [completed] Troop Requisition: no CP discount, 1-round cooldown
+- #27 [completed] Aswaran: rebalance (carbine or RP)
+- #28 [completed] AI: units with STATIONARY/HEAVY weapons hold still
+- #29 [completed] AI: fragile RECCE without HIDDEN is more careful
+- #30 [completed] AI: secondary mission pick never keeps an impossible card
+- #31 [completed] Verify: build, suite, re-run Legion vs Host batch, update report
+- #32 [completed] Presets: Imperium Armoured cohort, Covenant Crusade host
+- #33 [completed] VP attribution: pivotal objective VP and fair-share (Shapley) VP per unit
+- #34 [completed] Live battle mode: round-by-round page and commentary
+- #35 [completed] Play Armoured cohort vs Crusade host live + 6-battle batch; report
+- #36 [completed] Analyze AI Fall Back decisions against the board
+- #37 [completed] AI: no wasted rounds (joined CHARACTER's own APt, Sappers' abilities)
+- #38 [completed] Chiron: BS 3+, pintle repeater built in, new MOVE/HP gear
+- #39 [completed] Activity record: count rounds a unit moved and then did nothing
+- #40 [completed] AI Fall Back: price the fight, control not presence, its death; re-charge and tie-up
+- #41 [completed] AI Fall Back: drop the screen term from the weighing
+- #42 [completed] AI: Malleus Sappers lay mines (Set Mine valued)
+- #43 [completed] AI: price a minefield by its expected damage (own units avoid own mines)
+- #44 [completed] Battle report: Flamebringer's Immortals vs Penitent Crusade (live + 6-battle batch)
+- #45 [completed] AI prices stray shots; Blaze of Glory hits Ardashir only; Penitent Crusade gets a Cantor
+- #46 [completed] Battle reports: command and ability effectiveness record
+- #47 [completed] Cleanup: score before effects expire (Secure Objective never counted)
+- #48 [completed] Benediction targets the unit a heal can mend
+- #49 [completed] AI command values: +PER, +OC, +MOVE, weapon tags; burning field hazard
+- #50 [completed] Remove copies: cqb autoSelect pick; AI objective winner
+- #51 [completed] Penitent Crusade: one Hospitaller; fix old report R2 line
+- #52 [completed] Share LOS height tests between battle raycast and map generator (no behaviour change)
+- #53 [completed] New LOS rule: raised ground level with the higher end blocks
+- #54 [completed] Map generator reads terrain rules through terrainDef (no copied lists)
+- #55 [completed] Battle report: Iron Imperium vs Cult of Belphegor
+- #56 [completed] Armory, saves and presets carry the subfaction
+- #57 [completed] Battle report: effect damage matched to the wrong log line (phantom cross-map shot)
+- #58 [completed] AI: cast Daemonium Meridianum (value set_ap)
+- #59 [completed] AI: Drive the Column grants a move the AI takes
+- #60 [completed] AI: Legionnaire zig-zag toward the west objective (R4-R5, Cohort vs Procession)
+- #61 [completed] AI: Morphean Engine wanders instead of firing its long-range howitzer
+- #62 [completed] Measure the AI fixes: 12-battle Cohort vs Procession batch, before vs after
+- #63 [completed] AI: a caster banks Mana toward a spell it cannot yet afford (Daemonium never cast)
+- #64 [completed] AI: one destination choice for every move (granted moves follow the unit's own plan)
+- #65 [completed] AI: the long-range planner follows the unit's missive
+- #66 [completed] Battle report: flag back-and-forth moves (wasted tempo)
+- #67 [completed] Revert the planner-follows-missive change; Daemonium Meridianum on a 3+
+- #68 [completed] AI: no-step-back rule (a move back to the square it left must clearly beat staying)
+- #69 [completed] Artillery: fire support, not objective holding, unless nobody else can
+- #70 [completed] Step-back rule does not bite: find which branch passes step-backs and fix
+- #71 [completed] Morale: remove the after-attack Below Half-Strength test
+- #72 [completed] Fire support: position by damage with LOS; indirect artillery stays put
+- #73 [completed] Battle report: Spahbed's Host vs Veiled Court (live)
+- #74 [completed] Battle reports: price a change of control (Whispers of Forbidden Pleasure)
+- #75 [completed] Explain Court leaving the centre (R3) and Masque/Assassins rarely fighting
+- #76 [completed] Fire support regression: Morphean Engine deals less damage under damage-first scoring
+- #77 [completed] AI: objective coverage counts only friends in the Objective Area
+- #78 [completed] AI: a charge competes with the walk's own square
+- #79 [completed] AI: fire-support artillery does not screen
+- #80 [completed] Battle reports: record AI decision time and memory (page_ai_perf.js)
+- #81 [completed] Run real battles across matchups with AI timing/memory on
+- #82 [completed] Write and publish the AI performance report
+- #83 [completed] Reports repo: pushed to achilles-hp93/warfront-report
+- #84 [completed] AI performance: cache per decision, skip unchanged turn set-up, unit list redraws
+- #85 [completed] Decide next AI performance step: responsiveness and rules-engine estimate cost
+- #86 [completed] Babylonian Assassins: worse at VP, damage and survival after the charge-floor change
+- #87 [completed] Rules engine: Stats memo verified (12 replays) and pushed
+- #88 [completed] Overnight: 5 new matchups (10 new factions), batch + featured report each
+- #89 [completed] Battle record: price unit resources, table entries, weapon-tag spends, phase spends
+- #90 [completed] Support metric: what low-VP units contribute (damage, buffs, heals)
+- #91 [completed] Tune survival-weighted objectives: less skittish
+- #92 [completed] Investigate and propose fixes: Forest of Fangs, Rabies, Gatescrolls, idle melee
+- #93 [completed] AI speed: propose next speed-ups with profile numbers
+- #94 [completed] AI: score heals by what they heal, whatever their role label
+- #95 [completed] AI: buffs priced by what they achieve (melee buff only if the target melees)
+- #96 [completed] AI: Blessing of Sacred Rabies only on an enemy that will strike its own side
+- #97 [completed] AI: Gatescrolls as rapid deployment, emerge as soon as able, far from walking reach
+- #98 [completed] AI: Double Time used only when the move needs it
+- #99 [completed] Battle reports: per-unit support metric
+- #100 [completed] Investigate: heavy melee walk stops short; charge vs hold; stay-and-shoot vs charge
+- #101 [completed] Analyses: Triple Hills melee bias, Nihon Kusanagi bias, hover/aerial behaviour
+- #102 [completed] Five more unique army matchups: batch + featured report each
+- #103 [completed] Speed: research and propose a rules-query architecture (weapon profiles, tags)
+- #104 [completed] Answer: emerge range 4, charge fixes, Canopic Priest, Duat, alchemy, Advance OC 0, Novgorod winter
+- #105 [completed] Transitional State redesign: Emerge keeps move and APt, 1 Movement Die; Realmwalker A; Ascendants MOVE 3; House of Glass +4 Mana
+- #106 [completed] Triple Hills: forest only on each hill's four corners
+- #107 [completed] Kusanagi: only a spotted square; strike animation
+- #108 [completed] Hover AI: fly to travel, land by charging or to hold, weak melee keeps flying to shoot
+- #109 [completed] Support record: split into offensive, defensive, heal, movement, objective
+- #110 [in_progress] Speed: verify mode, profile/groups memo, zero-copy modifier reads, drop the combat-unit clone
+- #111 [completed] Emerge range 4 (Transitional State)
+- #112 [completed] Advance: a unit that Advanced this round has OC 0
+- #113 [completed] Novgorod winter: +2 rows a round
+- #114 [completed] Alchemy: AI and battle-record fixes as proposed
+- #115 [completed] Charge fixes (all four)
+- #116 [completed] Charge: a target that Falls Back loses its shot; the fight when it stays
+- #117 [completed] Investigate INI: an attacker struck first by a higher-INI defender
+- #118 [completed] Pair each CHARACTER with the strongest eligible unit
+- #119 [completed] Speed: next steps (Fall Back check cost, combat effects)
+- #120 [completed] Charge fight: strike order by INI (with tests)
+- #121 [completed] Approximate the charged target's Fall Back check
+- #122 [completed] Presets: tankier squads for the Veiled Queen, War Onmyoji, Merlin
+- #123 [completed] Presets: 'no doctrine' as an option
+- #124 [completed] AI responsiveness: recommend the best UX option
+- #125 [completed] Five more batches of unique compositions (+ reports)
+- #126 [completed] Exact bound: ask the Fall Back check only where a charge can still win
+- #127 [completed] Find the round-8 hang in Genghis vs Penitent seeds 1240 and 1242
+- #128 [completed] Q1: why east/west units cross to the other wing (Duat vs Valkyrie, Crossroads)
+- #129 [completed] Report-tool fixes: Morphean activity, TS emergence credit, raised units' VP credit
+- #130 [completed] AI issues from the reports: no-target commands, MG no legal attack, Genghis lone charge, unscoreable Primaries
+- #131 [completed] Regalia rework: phases, costs, mirror buff, AI saves for Kusanagi
+- #132 [completed] HOVER units start the game flying (joined pairs too)
+- #133 [completed] RP cap 250 and Troop Requisition cost by RP (3/5/7, 31+ none); measure rate
+- #134 [completed] Cult of Sloth preset: demon engines, fewer chaff; other cults' presets
+- #135 [completed] Investigations: Encroaching Winter, Runeforge loot AI, Gilded Ledger, Oversoul AI, Genghis
+- #136 [completed] Final report to user on all 11 items
+- #137 [completed] Regalia: Mirror loses +1 DMG; Magatama gains +1 DMG
+- #138 [completed] Gilded Ledger thresholds 5/10/15/20
+- #139 [completed] Drop the phase-long Fall Back approximation
+- #140 [completed] Grow presets to 250 RP; rework High Admiral and Dawn King; show comps
+- #141 [completed] Answer: INI strike order with charge +3 and counterattacks
+- #142 [completed] Merge the Web Worker agent's work when it reports
+- #143 [completed] Tide Captain leads melee squads; joins a Knight of Tehom in the High Admiral preset
+- #144 [completed] Subfaction identity + add-on table for the user
+- #145 [completed] Preset army comps as a readable table page
+- #146 [completed] Add-on roster rules: new generic rule kinds + the user's new add-ons
+- #147 [completed] Wire identities: Wings of Fire, Dauntless Assault, Mantle of Mercy
+- #148 [completed] Wire add-on effects: My Brother's Keeper, The Least of These
+- #149 [completed] Wire Mandata Principum (Officia Caesaris second activation)
+- #150 [completed] Cultist Zealots melee weapon +1 AR
+- #151 [completed] Accursed Blade AR 2; Liquidate +1 AP; Court of Flies name
+- #152 [completed] Mantle of Mercy AI gaps: pick threatened units; estimates count the Mantle
+- #153 [completed] Lust and Envy add-on names: new options in the cults' naming pattern
+- #154 [completed] Presets: fix Dawn King and Plague Monarch; new subfaction presets
+- #155 [completed] Names: Naked Ardor (Lust), Brook No Equal (Envy)
+- #156 [completed] Presets: Dawn King with the Seraph of Evolution; Officia around the Palatine units
+- #157 [completed] Feedback: lacklustre faction identities (Novgorod) and the Khaganate's weakness
+- #158 [completed] Prep Champion League Season 1 tooling (32-preset knockout, Bo3, Crossroads, no doctrine)
+- #159 [completed] Presets fight vanilla: every preset names no doctrine
+- #160 [completed] Encroaching Winter starts at 4 rows; CHILLED -3 INI
+- #161 [completed] Palatine units -5 RP; Domus Caesaris allows 2 EPIC per type
+- #162 [completed] CHILLED -1 BS; Novgorod INFANTRY +1 OC per model in its own blizzard; test balance
+- #163 [in_progress] Khaganate: new Fall Back identity replaces Fire in the Blood; ASSAULT on mounted guns
+- #164 [completed] Bogatyr Thunderguards: why top of the Shooting League but weak in battles
+- #165 [completed] Preset names: cooler options for 27 presets (and First Blood's new name)
+- #166 [completed] Data: Miserere Column, Akathist Convent, Bogatyr HP 4, Universal Ruler +1 DMG, MOUNTED Khaganate +1 INI
+- #167 [completed] AI: Bogatyrs hold and shoot; EXPENDABLE units take Objective Area fights; EXPENDABLE stray-shot discount
+- #168 [completed] Build, suite, commit, push; re-run Novgorod and Khaganate batches and report
+- #169 [completed] AI: a gun team on fire support positions by its damage (the artillery term)
+- #170 [completed] Bogatyr MOVE 3; revert gun-team fire support
+- #171 [completed] Analyse Spot & Mark: is the marked unit shot at?
+- #172 [completed] Battle reports: Winter Host vs Legio XIII; Golden Tumen vs Murderhost of Halfa
+- #173 [completed] Spot & Mark: explain zero-gain MARKED shots and SPOTTED-only uses; price raise_intel by the attacks it changes
+- #174 [completed] Data: Murderhost -1 Hounds +Cultist Zealots; Storm Bore Rifle DMG 2; Universal Ruler +1 AR/FR on all weapons
+- #175 [completed] Universal Ruler: ranged estimate misses target-conditional modifyDicePool/modifyWeapon effects
+- #176 [completed] AI: price mod_weapon_stat buffs by the attacks they change (Chant of the Kindling)
+- #177 [completed] Battle record: round marks a use puts on its own units (Universal Ruler)
+- #178 [completed] AI support timing: price attack buffs by the attacks they improve; support before strike
+- #179 [completed] AI: price defensive buffs by the damage they stop this round
+- #180 [completed] Merge main into the branch, PR, merge to main
+- #181 [pending] Presets for the seven leftover factions (no Drakonic); names pending the user's pick
+- #182 [completed] Apply decisions: join rules for 8 CHARACTERs, attachments, Mihran Spah, Cappadocian Riders
+- #183 [completed] Recorders for the questions: transport drop-offs, terrain alteration, formation uptime
+- #184 [completed] Five matchups: batches, then live coverage of each
+- #185 [completed] Floodgate Sappers: Hiritu Ditch replaces Open the Sluice; ring frees the first trench
+- #186 [completed] Palatine vs horde (Akathist Convent): batch + live, baseline before AI change
+- #187 [completed] Data: Dawn King weapon buff; Somniferous Engine MACHINE + gas breath weapon
+- #188 [completed] Hiritu Ditch: dig under an adjacent friend; not while engaged
+- #189 [completed] AI: transport stays and screens after dropping its cargo
+- #190 [completed] AI: price Desperate Worship, Hymns of the Anvil, Extermination Protocol (+ other noticed issues)
+- #191 [completed] AI: low-unit-count armies pick combat missions and concentrate on enough objectives
+- #192 [completed] Scope: formation AI + 'x' squares allowing enemies
+- #193 [completed] AI: stop CP wastage (Double Time, Scouting Order bought nothing)
+- #194 [completed] Recorder: price army-wide picks (Hymns, Mantle) - background agent
+- #195 [completed] Formations: move the matcher into core/formation_matcher.js (no behaviour change)
+- #196 [completed] Formations: both units of a joined pair are members (bug)
+- #197 [completed] Formations rule (a): enemies may stand in x squares, friends block
+- #198 [completed] Formation AI stage 1: keep a formation (withoutFormation, worth, keep/break term)
+- #199 [completed] Formation AI stages 2-3: built, pushed, measured; direction for tuning goes to the user
+- #200 [completed] Primary pick: calibrate the estimator against recorded battles (kill rate 10x too high)
+- #201 [completed] Split page_effects.js (913 lines) - background agent, review and cherry-pick
+- #202 [completed] Formations: five one-line shapes replace the diagrams (engine + data)
+- #203 [completed] Formation AI: grade each formation per unit, score squares by the side's change
+- #204 [completed] Smaller squads + preset; review formation-support abilities
+- #205 [in_progress] Verify and measure: suite, browser, batches vs 3-4 opponents
+- #206 [in_progress] Morale on 1D6: engine, data remap, rerolls, campaign, AI, docs, tests
+- #207 [completed] Palatine Artillerists BS 3+; Palatine units -5 RP
+- #208 [completed] Rework Protectores Divini Lateris and Knights of Camelot presets
+- #209 [completed] Six new presets: compositions now, names for the user's pick
+- #210 [completed] Caesar MOVE 4; Custos (Mounted) 75 RP; six named presets
+- #211 [completed] Survey MOUNTED MOVE values and judge them
+- #212 [completed] Coverage presets for Albion, Imperium, Caliphate
+- #213 [completed] Champion League S1: league tooling (pots, 8 matchdays, table, seeded knockout)
+- #214 [completed] Champion League S1 Day 1: draw, play 24 battles, full report each, day page, reflect
+- #215 [completed] Day 1 AI & identity audit (4 agents) + balance analysis
+- #216 [completed] Engine/rules fixes: scoring+missions, combat+abilities, report tools (3 worktrees)
+- #217 [completed] AI fixes from Day 1 (after the audit)
+- #218 [completed] Integrate, full suite, shadow Day 1 measurement, push, report
+- #219 [completed] Tithe of Torment: cap 10 Mana per Battle Round (data + docs)
+- #220 [completed] Jade Mandate: text says pay once per caster (user: pay once is fine)
+- #221 [completed] AOE and Friendly Fire: read the tag text, make friends in the blast take it, state it in the tag rule
+- #222 [completed] Tournament map: evaluate CROSSROADS vs other maps for range/melee balance; recommend
+- #223 [completed] Answer: REGENERATION 'while in a Formation' text (Qi-Reinforced Clay)
+- #224 [completed] Merge ccr-6962c382-ne55kb into main (PR, merge after suite + CI)
+- #225 [completed] Fix D1-M09 stall: AI attack-before-move order throws mid-move (agent)
+- #226 [completed] Balance data + preset fixes (agent cl-balance)
+- #227 [completed] Atavistic Rage: OC penalty dropped (user's call)
+- #228 [completed] Legionnaire Squad: BS 3+ (user's call)
+- #229 [completed] Replay all of Day 1 (same draw and seeds) after AI fixes + roster changes
+- #230 [completed] Fix 9 tests broken by Legionnaire BS 3+ (agent cl-fixtures); then merge PR #90
+- #231 [completed] Estimate a multi-group attack jointly, not summed (user asked: do it here)
+- #232 [completed] Day 1 fixes: rules bugs, report tools, AI commands/objectives, AI combat (4 agents)
+- #233 [completed] Merge batch 2 (joint estimate, kill chance, AI) + Plague Monarch MAGIC_CASTER to main
+- #234 [completed] Idle-analysis bugs: AI charge vs joined CHARACTER, push pre-empting charge, 0-APt FREE weapon gate; pair charge lock; idle recorder
+- #235 [completed] Round 4 rulings: MS table, threshold caps ±1, Gatekeeper +1 save aura, advance not idle; AI advance pricing, horizon, formation pull, hold margin, survival 1/d²
+- #236 [in_progress] AI: Reaction pricing, walk fixes, blunder fixes merged (gate green); 4th Day 1 check run; performance pass

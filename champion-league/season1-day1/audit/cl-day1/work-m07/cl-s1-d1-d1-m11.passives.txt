@@ -1,0 +1,32 @@
+{
+ "attacks": [
+  {
+   "name": "Wolf of the Amezkoa",
+   "ability": "wolf_of_the_amezkoa",
+   "player": 0,
+   "army": "Oak of Gernika",
+   "owners": [
+    "Tomas Zumalakarregi"
+   ],
+   "attacks": 11,
+   "added": 5.61,
+   "prevented": 0,
+   "total": 5.61
+  }
+ ],
+ "stilled": [],
+ "move": [],
+ "reach": []
+}
+--- by round
+R2
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 4 attacks, 3.35 expected HP for its side
+R3
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 1 attack, 0.17 expected HP for its side
+R4
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 2 attacks, 0.56 expected HP for its side
+R5
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 3 attacks, 0.59 expected HP for its side
+R6
+  Wolf of the Amezkoa (Tomas Zumalakarregi): 1 attack, 0.94 expected HP for its side
+--- heals [{"round":1,"phase":"ACTION","ability":"lord_of_the_swarm","name":"Lord of the Swarm","owner":30,"ownerPlayer":1,"uid":null,"hp":1},{"round":3,"phase":"ACTION","ability":"cannibal_feast","name":"Cannibal Feast","owner":29,"ownerPlayer":1,"uid":29,"hp":1},{"round":5,"phase":"ACTION","ability":"corpse_eater","name":"Corpse-Eater","owner":32,"ownerPlayer":1,"uid":32,"hp":1}]

@@ -1,0 +1,26 @@
+AI: a Countercharge is weighed with the charger's friends free after its activation
+
+The Reaction estimate of a CHARGE and the defender's own Countercharge decision
+disagreed in Champion League D1-M16 R2. Weighing Skeletal Archer 3's Charge, its
+side asked the Golden Tumen's AI and read Tamga-Bound Troops 1's Countercharge as
+not worth its CP (its fight with the Archers -5.5); at the declaration the same
+AI read that fight at +30 and spent 3 CP on it. The difference was the
+activation in progress: the rules hold the active player's other units back only
+while one is activated (phases/flow/unit_activation.js), and _aiChargeBase and
+the charge squares (ai/movement/melee_threat.js) asked canDeclareCharge and
+reachableSquares with that hold in place. Asked in the middle of the charger's
+activation, none of the charger's friends could charge the countercharger this
+Movement Phase. _aiPastOpenActivation reads them past it, as the focus-fire pool
+leaves that hold out (ai/tactical/focus_fire.js). Replayed, the estimate and the
+decision agree at every Charge of D1-M16, and the Countercharge is not made.
+
+The charge score's pricing of the Reactions (_aiChargeReactedScore,
+_aiChargeReactedBound and their two helpers) moves beside the estimate in
+ai/movement/charge_reactions.js, line for line: ai/movement/evaluators.js had
+grown to 502 lines.
+
+Test: 164 (another unit's activation in progress leaves a unit its charge this
+phase).
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

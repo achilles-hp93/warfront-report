@@ -1,0 +1,423 @@
+Horns of Hattin (A, caliphate_of_the_two_sanctuaries) vs Cappadocian Riders (B, covenant_of_new_jerusalem) on CROSSROADS, seed 460703119
+Result: B:Cappadocian Riders wins (VP) in round 5, VP 21 / 36
+Initiative: A:Horns of Hattin; formation order [0,1]
+Army A:Horns of Hattin (246 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Saladin - Al-Malik al-Nasir (Mounted) - 75 RP, 1 models, 9 HP, leads Khassakiyya Guard 1, Marshal
+  Khassakiyya Guard 1 - 45 RP, 3 models, 15 HP, led by Saladin - Al-Malik al-Nasir (Mounted)
+  Isfahsalar - 55 RP, 1 models, 10 HP, leads Khassakiyya Guard 2
+  Khassakiyya Guard 2 - 45 RP, 3 models, 15 HP, led by Isfahsalar
+  Muqatila Troopers 1 - 13 RP, 10 models, 20 HP
+  Muqatila Troopers 2 - 13 RP, 10 models, 20 HP
+Army B:Cappadocian Riders (246 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Archistrategos (Mounted) - 70 RP, 1 models, 12 HP, leads Crimson Knights 1, Marshal
+  Crimson Knights 1 - 50 RP, 3 models, 15 HP, led by Archistrategos (Mounted)
+  Dragoon Brethren - 45 RP, 3 models, 12 HP
+  Crimson Knights 2 - 50 RP, 3 models, 15 HP
+  Covenant Levies - 10 RP, 10 models, 20 HP, led by Cantor-Preceptor
+  Cantor-Preceptor - 21 RP, 1 models, 4 HP, leads Covenant Levies
+Primary A:Horns of Hattin: LEAD FROM THE FRONT - At the end of each Battle Round, score 2 VP if a friendly CHARACTER, or a friendly squad a CHARACTER has joined, is in an Objective Area or the enemy half of the battlefield. Score 3 VP instead if two or more are; a CHARACTER and the squad it has joined count as one.
+  hand: STRATEGICAL DISRUPTION, LEAD FROM THE FRONT, RAISE THE STANDARD; picked lead_from_the_front
+  scored per round: R1 0 (count 0), R2 2 (count 1), R3 3 (count 2), R4 3 (count 2), R5 2 (count 2); total 10
+Primary B:Cappadocian Riders: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: BREAK THEIR HOLD, ERADICATE THE FOE, SILENT MANEUVER (does not fit); picked break_their_hold
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 1 (count 1), R4 3 (count 3), R5 1 (count 1); total 5
+
+=== BATTLE ROUND 1 ===
+A:Horns of Hattin: VP +0 (obj 0, primary 0, missions 0) = 0; CP +3 -0 holds 3
+  al_kimiya_ingredients: +0 -1 holds 0 [1 Matter Transmutation]
+B:Cappadocian Riders: VP +5 (obj 5, primary 0, missions 0) = 5; CP +3 -3 holds 0 [3 Troop Requisition → Covenant Levies]
+  mana: +10 -0 holds 10
+A:Horns of Hattin keeps mission BREAK CONTACT (offered FORWARD DEPLOYMENT / BREAK CONTACT)
+B:Cappadocian Riders keeps mission BREAK CONTACT (offered VIGILANT WATCH / BREAK CONTACT)
+Moves:
+  [MOVEMENT] A:Horns of Hattin Khassakiyya Guard 1 + Saladin - Al-Malik al-Nasir (Mounted) 4,13 -> 5,8 (advance)
+  [MOVEMENT] B:Cappadocian Riders Dragoon Brethren 11,1 -> 8,6 (advance)
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers 1 7,12 -> 6,7 (advance)
+  [MOVEMENT] B:Cappadocian Riders Crimson Knights 1 + Archistrategos (Mounted) 9,2 -> 8,7 (advance)
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers 2 4,12 -> 2,8 (advance)
+  [MOVEMENT] B:Cappadocian Riders Crimson Knights 2 5,2 -> 2,6 (advance)
+  [MOVEMENT] A:Horns of Hattin Khassakiyya Guard 2 + Isfahsalar 11,13 -> 8,9 (advance)
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies + Cantor-Preceptor 3,2 -> 1,6 (advance)
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies #2 8,2 -> 6,5 (advance)
+Combat:
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Saladin - Al-Malik al-Nasir (Mounted) (no legal action), A:Khassakiyya Guard 1 (no legal action), A:Isfahsalar (no legal action), A:Khassakiyya Guard 2 (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] A:Horns of Hattin Matter Transmutation: Zi'baq Beads on Saladin - Al-Malik al-Nasir (Mounted): paid off - gave Saladin - Al-Malik al-Nasir (Mounted): weapons SUSTAINED ATTACK 1; 6 attack(s) it touched: +0.99 expected HP for its side
+  [COMMAND] B:Cappadocian Riders Troop Requisition on (8,2): paid off - placed Covenant Levies #2; the unit it placed made 2 attack(s), 6 HP off; the unit it placed scored 8 VP; the unit it placed drew 1 enemy attack(s), 1 HP
+Scored by:
+  B:Cappadocian Riders objectives (7,7) 3 VP: Archistrategos (Mounted) 1.0, Crimson Knights 1 1.0, Dragoon Brethren 1.0; hinged on Archistrategos (Mounted), Crimson Knights 1, Dragoon Brethren
+  B:Cappadocian Riders objectives (1,7) 2 VP: Covenant Levies 1.3, Crimson Knights 2 0.3, Cantor-Preceptor 0.3; hinged on Covenant Levies
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A LEAD FROM THE FRONT, Player B BREAK THEIR HOLD
+  [COMMAND] Player A picks mission: BREAK CONTACT
+  [COMMAND] Player B picks mission: BREAK CONTACT
+  [COMMAND] HQ Command: Troop Requisition -> covenant_of_new_jerusalem:covenant_levies (cost 3 CP) by Player B
+
+=== BATTLE ROUND 2 ===
+A:Horns of Hattin: VP +2 (obj 0, primary 2, missions 0) = 2; CP +3 -5 holds 1 [5 Troop Requisition → Muqatila Troopers]
+  al_kimiya_ingredients: +2 -2 holds 0 [1 Matter Transmutation; 1 Matter Transmutation]
+B:Cappadocian Riders: VP +7 (obj 5, primary 0, missions 2) = 12; CP +3 -1 holds 2 [1 Go to ground (reaction) for Covenant Levies]
+  mana: +3 -6 holds 7 [6 Cast Agnus Dei]
+A:Horns of Hattin keeps mission MAN OF THE HOUR (offered MAN OF THE HOUR / COMMAND AUTHORITY)
+B:Cappadocian Riders keeps mission COORDINATED PUSH (offered COORDINATED PUSH / KING OF THE HILL)
+B:Cappadocian Riders mission BREAK CONTACT: completed
+Moves:
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers 6,12 -> 9,12
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies + Cantor-Preceptor 1,6 -> 0,7
+  [MOVEMENT] A:Horns of Hattin Khassakiyya Guard 1 + Saladin - Al-Malik al-Nasir (Mounted) 5,8 -> 3,8
+  [MOVEMENT] B:Cappadocian Riders Crimson Knights 2 2,6 -> 1,8 (charge)
+  [MOVEMENT] A:Horns of Hattin Khassakiyya Guard 2 + Isfahsalar 8,9 -> 6,6 (charge)
+  [MOVEMENT] B:Cappadocian Riders Crimson Knights 1 + Archistrategos (Mounted) 8,7 -> 7,8 (charge)
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers 2 2,8 -> 2,6
+  [MOVEMENT] B:Cappadocian Riders Dragoon Brethren 8,6 -> 8,8
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies #2 6,5 -> 8,5
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Horns of Hattin Muqatila Troopers 1 -> Covenant Levies: Covenant Levies -1
+  [MOVEMENT] ranged (Overwatch): A:Horns of Hattin Muqatila Troopers 2 -> Covenant Levies: no damage
+  [MOVEMENT] ranged (Overwatch): B:Cappadocian Riders Dragoon Brethren -> Khassakiyya Guard 1: no damage
+  [MOVEMENT] ability (Dauntless Assault (pick)): B:Cappadocian Riders Crimson Knights 2 -> Muqatila Troopers 2: no damage
+  [MOVEMENT] ability (Dauntless Assault (pick)): B:Cappadocian Riders Crimson Knights 1 -> Muqatila Troopers 1: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Muqatila Troopers 2: Muqatila Troopers 2 -3
+  [MOVEMENT] ranged (Overwatch): B:Cappadocian Riders Covenant Levies -> Muqatila Troopers 2: Muqatila Troopers 2 -2
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Covenant Levies #2: Covenant Levies #2 -1
+  [ACTION] ranged: B:Cappadocian Riders Dragoon Brethren -> Muqatila Troopers 2: Muqatila Troopers 2 -11
+  [ACTION] ranged: A:Horns of Hattin Khassakiyya Guard 1 -> Covenant Levies: Covenant Levies -5
+  [ACTION] melee: B:Cappadocian Riders Archistrategos (Mounted) -> Muqatila Troopers 1: Muqatila Troopers 1 -12
+  [ACTION] ranged: A:Horns of Hattin Saladin - Al-Malik al-Nasir (Mounted) -> Crimson Knights 2: Crimson Knights 2 -4
+  [ACTION] magic (Agnus Dei): B:Cappadocian Riders Cantor-Preceptor -> Covenant Levies: no damage
+  [ACTION] melee: B:Cappadocian Riders Crimson Knights 1 -> Muqatila Troopers 1: Muqatila Troopers 1 -8 DESTROYED
+  [ACTION] ranged: B:Cappadocian Riders Covenant Levies -> Muqatila Troopers 2: Muqatila Troopers 2 -4 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Moves undone:
+  A:Horns of Hattin Khassakiyya Guard 1: R1 MOVEMENT 4,13 -> 5,8, R2 MOVEMENT -> 3,8 (toward the objective at 13,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] A:Horns of Hattin Matter Transmutation: Zi'baq Beads on Khassakiyya Guard 1: paid off - gave Khassakiyya Guard 1: weapons SUSTAINED ATTACK 1; 9 attack(s) it touched: +2.68 expected HP for its side
+  [COMMAND] A:Horns of Hattin Matter Transmutation: Zi'baq Beads on Khassakiyya Guard 2: paid off - gave Khassakiyya Guard 2: weapons SUSTAINED ATTACK 1; 2 attack(s) it touched: +0.05 expected HP for its side
+  [COMMAND] A:Horns of Hattin Troop Requisition on (6,12): paid off - placed Muqatila Troopers; the unit it placed made 1 attack(s), 1 HP off; the unit it placed scored 2 VP; the unit it placed drew 3 enemy attack(s), 20 HP
+  [MOVEMENT] B:Cappadocian Riders Go to Ground on Covenant Levies: paid off - 1 attack(s) it touched: +1.62 expected HP for its side
+  [MOVEMENT] B:Cappadocian Riders Providence on Khassakiyya Guard 1: paid off - 1 attack(s) it touched: +2.31 expected HP for its side
+  [MOVEMENT] B:Cappadocian Riders Dauntless Assault on Muqatila Troopers 2: nothing - gave Muqatila Troopers 2: HIT_ROLL -1; 3 attack(s) it touched: +0 expected HP for its side
+  [MOVEMENT] B:Cappadocian Riders Dauntless Assault on Muqatila Troopers 1: paid off - gave Muqatila Troopers 1: HIT_ROLL -1; 3 attack(s) it touched: +0.07 expected HP for its side
+  [MOVEMENT] B:Cappadocian Riders Providence on Muqatila Troopers 2: paid off - 1 attack(s) it touched: +3.98 expected HP for its side
+  [ACTION] A:Horns of Hattin Kus Kettledrums: nothing - no change
+  [ACTION] B:Cappadocian Riders Successive Discharge: paid off - gave Dragoon Brethren: weapon FR +1; 1 attack(s) it touched: +2.91 expected HP for its side
+  [ACTION] B:Cappadocian Riders Quis ut Deus?: paid off - gave Archistrategos (Mounted): TAG +1, weapons LETHAL, weapon AR +2, weapon FR +2, weapon DMG +2; 2 attack(s) it touched: +3.48 expected HP for its side
+  [ACTION] B:Cappadocian Riders Exaltation on Muqatila Troopers 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Cappadocian Riders Agnus Dei on Covenant Levies: paid off - gave Covenant Levies: weapon DMG +1; set the Antiphon agnus_dei on Covenant Levies; 4 attack(s) it touched: +0.91 expected HP for its side
+Passive rules:
+  Rashq Tactics (Muqatila Troopers 1): 2 attacks, 0.98 expected HP for its side
+  Tijfaf Barding (Khassakiyya Guard 1): 1 attack, 0.65 expected HP for its side
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir (Mounted)): 3 attacks, 0.83 expected HP for its side
+  Kus Kettledrums (Isfahsalar): 2 attacks, 1.81 expected HP for its side
+  Taxiarch of Miracles (Archistrategos (Mounted)): fired 1 time (refund_once_per_battle)
+  Dauntless Assault (Crimson Knights 2): fired 1 time (pick_one)
+  Dauntless Assault (Crimson Knights 1): fired 1 time (pick_one)
+Scored by:
+  B:Cappadocian Riders objectives (7,7) 3 VP: Crimson Knights 1 1.5, Dragoon Brethren 1.5; hinged on Crimson Knights 1, Dragoon Brethren
+  B:Cappadocian Riders objectives (1,7) 2 VP: Crimson Knights 2 0.7, Covenant Levies 0.7, Cantor-Preceptor 0.7
+  A:Horns of Hattin primary LEAD FROM THE FRONT 2 VP: Isfahsalar 1.0, Khassakiyya Guard 2 1.0
+  B:Cappadocian Riders missions BREAK CONTACT 2 VP: Covenant Levies #2 2.0
+Key log lines:
+  [COMMAND] Player A picks mission: MAN OF THE HOUR
+  [COMMAND] Player B picks mission: COORDINATED PUSH
+  [COMMAND] HQ Command: Troop Requisition -> caliphate_of_the_two_sanctuaries:muqatila_troopers (cost 5 CP) by Player A
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via Cantor-Preceptor (cost 1 CP) - Covenant Levies
+  [MOVEMENT] [Muqatila Troopers 1] Overwatch Reaction vs Covenant Levies: 1 damage
+  [MOVEMENT] [Muqatila Troopers 2] Overwatch Reaction vs Covenant Levies: no damage
+  [MOVEMENT] [Dragoon Brethren] Overwatch Reaction vs Khassakiyya Guard 1: no damage
+  [MOVEMENT]   Muqatila destroyed
+  [MOVEMENT] [Muqatila Troopers 2] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT]   Muqatila destroyed
+  [MOVEMENT] [Covenant Levies] Overwatch Reaction vs Muqatila Troopers 2: 2 damage
+  [MOVEMENT] [Muqatila Troopers 2] Fall Back to (2,6)
+  [MOVEMENT] [Covenant Levies] Fall Back to (8,5)
+  [ACTION] Isfahsalar uses Kus Kettledrums!
+  [ACTION] Dragoon Brethren uses Successive Discharge!
+  [ACTION] Dragoon Brethren SUCCESSIVE DISCHARGE: This unit's Grenade Guns gain +1 FR until the end of the Battle Round.
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] Archistrategos (Mounted) uses Quis ut Deus?!
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION] Cantor-Preceptor casts Agnus Dei on Covenant Levies
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Arif destroyed
+  [ACTION]   Muqatila Troopers 1 DESTROYED in melee!
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Arif destroyed
+  [ACTION]   Muqatila Troopers 2 DESTROYED
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player A scores 2 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "BREAK CONTACT" -> Player B +2 VP!
+
+=== BATTLE ROUND 3 ===
+A:Horns of Hattin: VP +7 (obj 4, primary 3, missions 0) = 9; CP +3 -2 holds 2 [2 Double Time → Muqatila Troopers]
+  al_kimiya_ingredients: +2 -2 holds 0 [1 Matter Transmutation; 1 Matter Transmutation]
+B:Cappadocian Riders: VP +6 (obj 3, primary 1, missions 2) = 18; CP +3 -4 holds 1 [3 Troop Requisition → Covenant Levies; 1 Scouting Order → Dragoon Brethren]
+  mana: +1 -0 holds 8
+A:Horns of Hattin keeps mission FOCUSED FIRE (offered ASSASSINATION / FOCUSED FIRE)
+B:Cappadocian Riders keeps mission COMMAND AUTHORITY (offered MAN OF THE HOUR / COMMAND AUTHORITY)
+A:Horns of Hattin mission BREAK CONTACT: expired
+B:Cappadocian Riders mission COMMAND AUTHORITY: completed
+Moves:
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers 9,12 -> 12,8
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies #3 8,2 -> 10,4
+  [MOVEMENT] A:Horns of Hattin Khassakiyya Guard 1 + Saladin - Al-Malik al-Nasir (Mounted) 3,8 -> 1,7 (charge)
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies #2 8,5 -> 11,5
+  [MOVEMENT] A:Horns of Hattin Khassakiyya Guard 2 + Isfahsalar 6,6 -> 7,6
+  [MOVEMENT] B:Cappadocian Riders Crimson Knights 1 + Archistrategos (Mounted) 7,8 -> 8,7 (charge)
+Combat:
+  [MOVEMENT] ability (Dauntless Assault (pick)): B:Cappadocian Riders Crimson Knights 1 -> Khassakiyya Guard 2: no damage
+  [ACTION] melee: A:Horns of Hattin Khassakiyya Guard 1 -> Covenant Levies: Covenant Levies -12
+  [ACTION] ranged: B:Cappadocian Riders Dragoon Brethren -> Muqatila Troopers: Muqatila Troopers -14
+  [ACTION] melee: A:Horns of Hattin Saladin - Al-Malik al-Nasir (Mounted) -> Covenant Levies: Cantor-Preceptor -4 DESTROYED
+  [ACTION] melee: B:Cappadocian Riders Crimson Knights 1 -> Khassakiyya Guard 2: Khassakiyya Guard 2 -10, Crimson Knights 1 -5
+  [ACTION] ranged: A:Horns of Hattin Muqatila Troopers -> Covenant Levies #2: Covenant Levies #2 -1
+  [ACTION] melee: B:Cappadocian Riders Crimson Knights 2 -> Khassakiyya Guard 1: no damage
+  [ACTION] ranged: B:Cappadocian Riders Covenant Levies #2 -> Muqatila Troopers: Muqatila Troopers -5
+  [ACTION] melee: B:Cappadocian Riders Archistrategos (Mounted) -> Isfahsalar: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] B:Cappadocian Riders Benediction on Crimson Knights 2: paid off - healed 4 HP
+  [COMMAND] A:Horns of Hattin Matter Transmutation: Zi'baq Beads on Muqatila Troopers: nothing - gave Muqatila Troopers: weapons SUSTAINED ATTACK 1; 4 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Horns of Hattin Matter Transmutation: Zi'baq Beads on Isfahsalar: paid off - gave Isfahsalar: weapons SUSTAINED ATTACK 1; 8 attack(s) it touched: +1.02 expected HP for its side
+  [COMMAND] A:Horns of Hattin Double Time on Muqatila Troopers: paid off - gave Muqatila Troopers: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Cappadocian Riders Troop Requisition on (8,2): paid off - placed Covenant Levies #3; the unit it placed made 1 attack(s), 4 HP off
+  [COMMAND] B:Cappadocian Riders Scouting Order on Dragoon Brethren: paid off - gave Dragoon Brethren: PER +2; completed COMMAND AUTHORITY (+2 VP); 1 attack(s) it touched: +0 expected HP for its side
+  [MOVEMENT] B:Cappadocian Riders Dauntless Assault on Khassakiyya Guard 2: paid off - gave Isfahsalar: HIT_ROLL -1; Khassakiyya Guard 2: HIT_ROLL -1; 4 attack(s) it touched: +0.82 expected HP for its side
+  [ACTION] B:Cappadocian Riders Successive Discharge: paid off - gave Dragoon Brethren: weapon FR +1; 1 attack(s) it touched: +2.05 expected HP for its side
+Passive rules:
+  Bunud Lance Drill (Khassakiyya Guard 1): 1 attack, 2.37 expected HP for its side
+  Tijfaf Barding (Khassakiyya Guard 1): 3 attacks, 0.67 expected HP for its side
+  Kazaghand Hauberk (Isfahsalar): 1 attack, 0.77 expected HP for its side
+  Dauntless Assault (Crimson Knights 1): fired 1 time (pick_one)
+Scored by:
+  B:Cappadocian Riders missions COMMAND AUTHORITY 2 VP: Dragoon Brethren 2.0 (event)
+  B:Cappadocian Riders objectives (7,7) 3 VP: Archistrategos (Mounted) 1.0, Crimson Knights 1 1.0, Dragoon Brethren 1.0
+  A:Horns of Hattin objectives (1,7) 2 VP: Saladin - Al-Malik al-Nasir (Mounted) 1.0, Khassakiyya Guard 1 1.0
+  A:Horns of Hattin objectives (13,7) 2 VP: Muqatila Troopers 2.0; hinged on Muqatila Troopers
+  A:Horns of Hattin primary LEAD FROM THE FRONT 3 VP: Saladin - Al-Malik al-Nasir (Mounted) 0.8, Khassakiyya Guard 1 0.8, Isfahsalar 0.8, Khassakiyya Guard 2 0.8
+  B:Cappadocian Riders primary BREAK THEIR HOLD 1 VP: Crimson Knights 2 0.5, Covenant Levies 0.5
+Key log lines:
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: COMMAND AUTHORITY
+  [COMMAND] HQ Command: Double Time -> Muqatila Troopers (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Troop Requisition -> covenant_of_new_jerusalem:covenant_levies (cost 3 CP) by Player B
+  [COMMAND] HQ Command: Scouting Order -> Dragoon Brethren (cost 1 CP) by Player B
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player B +2 VP!
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] Dragoon Brethren uses Successive Discharge!
+  [ACTION] Dragoon Brethren SUCCESSIVE DISCHARGE: This unit's Grenade Guns gain +1 FR until the end of the Battle Round.
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Cantor-Preceptor destroyed
+  [ACTION]   Khassakiyya destroyed
+  [ACTION]   Khassakiyya destroyed
+  [ACTION]   Crimson Knight destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player A scores 3 VP (5/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (1/10)
+  [CLEANUP] Mission "BREAK CONTACT" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Horns of Hattin: VP +8 (obj 2, primary 3, missions 3) = 17; CP +3 -5 holds 0 [5 Troop Requisition → Muqatila Troopers]
+  al_kimiya_ingredients: +2 -0 holds 2
+B:Cappadocian Riders: VP +10 (obj 5, primary 3, missions 2) = 28; CP +3 -2 holds 2 [2 Double Time → Covenant Levies]
+  mana: +1 -0 holds 9
+A:Horns of Hattin keeps mission DEEP REACH (offered TAKE UP THE GAUNTLET / DEEP REACH)
+B:Cappadocian Riders keeps mission SECURE THE FLANKS (offered SECURE THE FLANKS / LAST STAND)
+A:Horns of Hattin mission FOCUSED FIRE: expired
+A:Horns of Hattin mission DEEP REACH: completed
+B:Cappadocian Riders mission SECURE THE FLANKS: completed
+Moves:
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers #2 7,12 -> 6,9
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies #3 10,4 -> 5,5
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers 12,8 -> 13,6
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies #2 11,5 -> 12,8
+Combat:
+  [ACTION] melee: A:Horns of Hattin Saladin - Al-Malik al-Nasir (Mounted) -> Crimson Knights 2: Khassakiyya Guard 1 -4, Crimson Knights 2 -5
+  [ACTION] ranged: B:Cappadocian Riders Dragoon Brethren -> Muqatila Troopers #2: Muqatila Troopers #2 -10
+  [ACTION] melee: A:Horns of Hattin Khassakiyya Guard 1 -> Covenant Levies: Covenant Levies -2 DESTROYED
+  [ACTION] ranged: B:Cappadocian Riders Covenant Levies #2 -> Muqatila Troopers: Muqatila Troopers -1 DESTROYED
+  [ACTION] melee: A:Horns of Hattin Isfahsalar -> Crimson Knights 1: Khassakiyya Guard 2 -5 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Covenant Levies #3 (no legal action)
+Moves undone:
+  B:Cappadocian Riders Covenant Levies #3: R3 MOVEMENT 8,2 -> 10,4, R4 MOVEMENT -> 5,5 (toward the objective at 13,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] A:Horns of Hattin Troop Requisition on (7,12): paid off - placed Muqatila Troopers #2; the unit it placed drew 3 enemy attack(s), 20 HP
+  [COMMAND] B:Cappadocian Riders Double Time on Covenant Levies #3: paid off - gave Covenant Levies #3: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [ACTION] B:Cappadocian Riders Fortitude on Crimson Knights 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Cappadocian Riders Retribution: nothing - no change
+Passive rules:
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir (Mounted)): 1 attack, 0.43 expected HP for its side
+  Zardkhana Plate (Saladin - Al-Malik al-Nasir (Mounted)): 1 attack, 0.75 expected HP for its side
+  Tijfaf Barding (Khassakiyya Guard 1): 1 attack, 0.02 expected HP for its side
+  Kazaghand Hauberk (Isfahsalar): 2 attacks, 1.12 expected HP for its side
+Scored by:
+  B:Cappadocian Riders objectives (7,7) 3 VP: Crimson Knights 1 2.0, Archistrategos (Mounted) 0.5, Dragoon Brethren 0.5
+  A:Horns of Hattin objectives (1,7) 2 VP: Khassakiyya Guard 1 2.0; hinged on Khassakiyya Guard 1
+  B:Cappadocian Riders objectives (13,7) 2 VP: Covenant Levies #2 2.0; hinged on Covenant Levies #2
+  A:Horns of Hattin primary LEAD FROM THE FRONT 3 VP: Isfahsalar 1.3, Saladin - Al-Malik al-Nasir (Mounted) 0.8, Khassakiyya Guard 1 0.8
+  B:Cappadocian Riders primary BREAK THEIR HOLD 3 VP: no unit, unassigned 3
+  A:Horns of Hattin missions DEEP REACH 3 VP: HQ 1.5, Khassakiyya Guard 1 1.5
+  B:Cappadocian Riders missions SECURE THE FLANKS 2 VP: Crimson Knights 2 1.0, Covenant Levies #2 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: SECURE THE FLANKS
+  [COMMAND] HQ Command: Troop Requisition -> caliphate_of_the_two_sanctuaries:muqatila_troopers (cost 5 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Covenant Levies (cost 2 CP) by Player B
+  [ACTION]   Crimson Knight destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Covenant Levies DESTROYED in melee!
+  [ACTION]   Covenant Levies was destroyed - no counterattack
+  [ACTION]   Arif destroyed
+  [ACTION]   Muqatila Troopers DESTROYED
+  [ACTION]   Muqaddam destroyed
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player A scores 3 VP (8/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 3 VP (4/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "SECURE THE FLANKS" -> Player B +2 VP +1 CP!
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R4)
+
+=== BATTLE ROUND 5 ===
+A:Horns of Hattin: VP +4 (obj 2, primary 2, missions 0) = 21; CP +3 -3 holds 0 [3 Secure Objective → Isfahsalar]
+  al_kimiya_ingredients: +2 -4 holds 0 [3 Matter Transmutation; 1 Matter Transmutation]
+B:Cappadocian Riders: VP +8 (obj 5, primary 1, missions 2) = 36; CP +3 -3 holds 2 [3 Secure Objective → Dragoon Brethren]
+  mana: +1 -0 holds 10
+A:Horns of Hattin keeps mission SECURE THE FLANKS (offered PUSH FORWARD / SECURE THE FLANKS)
+B:Cappadocian Riders keeps mission IRON GRIP (offered IRON GRIP / INTO THE FRAY)
+B:Cappadocian Riders mission COORDINATED PUSH: expired
+B:Cappadocian Riders mission IRON GRIP: completed
+Moves:
+  [MOVEMENT] A:Horns of Hattin Muqatila Troopers #2 6,9 -> 6,7
+  [MOVEMENT] B:Cappadocian Riders Covenant Levies #3 5,5 -> 3,7
+Combat:
+  [ACTION] melee: A:Horns of Hattin Isfahsalar -> Crimson Knights 1: Isfahsalar -4
+  [ACTION] ranged: B:Cappadocian Riders Dragoon Brethren -> Muqatila Troopers #2: Muqatila Troopers #2 -6
+  [ACTION] melee: A:Horns of Hattin Saladin - Al-Malik al-Nasir (Mounted) -> Crimson Knights 2: no damage
+  [ACTION] ranged: B:Cappadocian Riders Covenant Levies #3 -> Muqatila Troopers #2: Muqatila Troopers #2 -4 DESTROYED
+  [ACTION] melee: A:Horns of Hattin Khassakiyya Guard 1 -> Crimson Knights 2: Crimson Knights 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] A:Horns of Hattin Matter Transmutation: Iksir Dust on Isfahsalar: paid off - gave Isfahsalar: weapons MAGICAL; 3 attack(s) it touched: +1.38 expected HP for its side
+  [COMMAND] A:Horns of Hattin Matter Transmutation: Zi'baq Beads on Muqatila Troopers #2: nothing - gave Muqatila Troopers #2: weapons SUSTAINED ATTACK 1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Horns of Hattin Secure Objective on Isfahsalar: nothing - gave Isfahsalar: OC +1; 3 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Cappadocian Riders Secure Objective on Dragoon Brethren: nothing - gave Dragoon Brethren: OC +1; 1 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Kazaghand Hauberk (Isfahsalar): 2 attacks, 1.33 expected HP for its side
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir (Mounted)): 1 attack, 0.19 expected HP for its side
+  Zardkhana Plate (Saladin - Al-Malik al-Nasir (Mounted)): 1 attack, 0.33 expected HP for its side
+Scored by:
+  B:Cappadocian Riders objectives (7,7) 3 VP: Dragoon Brethren 2.0, Archistrategos (Mounted) 0.5, Crimson Knights 1 0.5
+  A:Horns of Hattin objectives (1,7) 2 VP: Khassakiyya Guard 1 2.0; hinged on Khassakiyya Guard 1
+  B:Cappadocian Riders objectives (13,7) 2 VP: Covenant Levies #2 2.0; hinged on Covenant Levies #2
+  A:Horns of Hattin primary LEAD FROM THE FRONT 2 VP: Saladin - Al-Malik al-Nasir (Mounted) 0.7, Khassakiyya Guard 1 0.7, Isfahsalar 0.7
+  B:Cappadocian Riders primary BREAK THEIR HOLD 1 VP: Crimson Knights 2 1.0, Archistrategos (Mounted) 0.3, Crimson Knights 1 -0.2, Dragoon Brethren -0.2
+  B:Cappadocian Riders missions IRON GRIP 2 VP: Covenant Levies #2 1.0, Archistrategos (Mounted) 0.3, Crimson Knights 1 0.3, Dragoon Brethren 0.3
+Key log lines:
+  [COMMAND] Player A picks mission: SECURE THE FLANKS
+  [COMMAND] Player B picks mission: IRON GRIP
+  [COMMAND] HQ Command: Secure Objective -> Isfahsalar (cost 3 CP) by Player A
+  [COMMAND] HQ Command: Secure Objective -> Dragoon Brethren (cost 3 CP) by Player B
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Arif destroyed
+  [ACTION]   Muqatila Troopers DESTROYED
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player A scores 2 VP (10/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (5/10)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player B +2 VP +1 CP!
+  [CLEANUP] Mission "COORDINATED PUSH" EXPIRED (R5)
+
+Damage leaders:
+  B:Cappadocian Riders Dragoon Brethren: 41 damage, 0 kills, 45 RP, 0.91/RP
+  A:Horns of Hattin Khassakiyya Guard 1: 21 damage, 1 kills, 45 RP, 0.47/RP
+  B:Cappadocian Riders Crimson Knights 1: 20 damage, 1 kills, 50 RP, 0.40/RP
+  B:Cappadocian Riders Archistrategos (Mounted): 19 damage, 1 kills, 70 RP, 0.27/RP
+  A:Horns of Hattin Saladin - Al-Malik al-Nasir (Mounted): 13 damage, 1 kills, 75 RP, 0.17/RP
+  B:Cappadocian Riders Covenant Levies: 6 damage, 1 kills, 10 RP, 0.60/RP (destroyed)
+  B:Cappadocian Riders Covenant Levies #2: 6 damage, 1 kills, 10 RP, 0.60/RP
+  B:Cappadocian Riders Covenant Levies #3: 4 damage, 1 kills, 10 RP, 0.40/RP
+  B:Cappadocian Riders Crimson Knights 2: 4 damage, 0 kills, 50 RP, 0.08/RP
+  A:Horns of Hattin Isfahsalar: 3 damage, 0 kills, 55 RP, 0.05/RP
+  A:Horns of Hattin Khassakiyya Guard 2: 2 damage, 0 kills, 45 RP, 0.04/RP (destroyed)
+  A:Horns of Hattin Muqatila Troopers: 1 damage, 0 kills, 13 RP, 0.08/RP (destroyed)
+  A:Horns of Hattin Muqatila Troopers 1: 1 damage, 0 kills, 13 RP, 0.08/RP (destroyed)
+VP contributed (fair share; objective VP that hinged on it):
+  A:Horns of Hattin Khassakiyya Guard 1: 8.8 VP (obj 5.0, primary 2.3, missions 1.5), hinged 4, 19.4/100 RP
+  B:Cappadocian Riders Dragoon Brethren: 8.2 VP (obj 6.0, primary -0.2, missions 2.3), hinged 6, 18.1/100 RP
+  B:Cappadocian Riders Covenant Levies #2: 8.0 VP (obj 4.0, primary 0.0, missions 4.0), hinged 4, 80.0/100 RP
+  B:Cappadocian Riders Crimson Knights 1: 6.2 VP (obj 6.0, primary -0.2, missions 0.3), hinged 6, 12.3/100 RP
+  A:Horns of Hattin Isfahsalar: 3.8 VP (obj 0.0, primary 3.8, missions 0.0), hinged 0, 6.8/100 RP
+  B:Cappadocian Riders Archistrategos (Mounted): 3.7 VP (obj 3.0, primary 0.3, missions 0.3), hinged 3, 5.2/100 RP
+  B:Cappadocian Riders Crimson Knights 2: 3.5 VP (obj 1.0, primary 1.5, missions 1.0), hinged 0, 7.0/100 RP
+  A:Horns of Hattin Saladin - Al-Malik al-Nasir (Mounted): 3.3 VP (obj 1.0, primary 2.3, missions 0.0), hinged 0, 4.3/100 RP
+  B:Cappadocian Riders Covenant Levies: 2.5 VP (obj 2.0, primary 0.5, missions 0.0), hinged 2, 25.0/100 RP
+  A:Horns of Hattin Muqatila Troopers: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 15.4/100 RP
+  A:Horns of Hattin Khassakiyya Guard 2: 1.8 VP (obj 0.0, primary 1.8, missions 0.0), hinged 0, 3.9/100 RP
+  A:Horns of Hattin HQ: 1.5 VP (obj 0.0, primary 0.0, missions 1.5), hinged 0, -/100 RP
+  B:Cappadocian Riders Cantor-Preceptor: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 4.8/100 RP
+  B:Cappadocian Riders no unit: obj 0, primary 3, missions 0
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  B:Cappadocian Riders Covenant Levies #3: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/0/0/0/0
+  A:Horns of Hattin Khassakiyya Guard 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0/2
+  A:Horns of Hattin Khassakiyya Guard 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/3/0/0/3
+  A:Horns of Hattin Saladin - Al-Malik al-Nasir (Mounted): inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/3/0/0/3
+  A:Horns of Hattin Isfahsalar: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/3/1/0/4
+  A:Horns of Hattin Muqatila Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0/1
+  B:Cappadocian Riders Cantor-Preceptor: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/1/0/1/2
+  B:Cappadocian Riders Covenant Levies #2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/2/0/0/0/2
+  B:Cappadocian Riders Crimson Knights 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/3/0/0/4
+  B:Cappadocian Riders Crimson Knights 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/4/0/0/5
+  B:Cappadocian Riders Archistrategos (Mounted): inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/4/1/0/5
+  A:Horns of Hattin Muqatila Troopers 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/0/1/0/0/1
+  A:Horns of Hattin Muqatila Troopers 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 1/0/0/0/0/1
+  B:Cappadocian Riders Covenant Levies: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/1/1/0/0/3
+  B:Cappadocian Riders Dragoon Brethren: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/4/0/2/0/5
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 2
+  B:Cappadocian Riders Covenant Levies #3: 1 of 3 moves (0 back, 1 away from an objective), 2 squares lost
+  A:Horns of Hattin Khassakiyya Guard 1: 1 of 3 moves (0 back, 1 away from an objective), 2 squares lost
+Secondary missions:
+  A:Horns of Hattin BREAK CONTACT (+2 VP): kept R1, expired R3 - Have a friendly unit Fall Back from an enemy unit, then be alive and not ENGAGED at the end of that Battle Round.
+  A:Horns of Hattin MAN OF THE HOUR (+4 VP): kept R2, active - Have one friendly unit destroy at least 2 enemy units during this Mission's duration.
+  A:Horns of Hattin FOCUSED FIRE (+2 VP): kept R3, expired R4 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Horns of Hattin DEEP REACH (+3 VP): kept R4, completed R4 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  A:Horns of Hattin SECURE THE FLANKS (+2 VP): kept R5, active - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  B:Cappadocian Riders BREAK CONTACT (+2 VP): kept R1, completed R2 - Have a friendly unit Fall Back from an enemy unit, then be alive and not ENGAGED at the end of that Battle Round.
+  B:Cappadocian Riders COORDINATED PUSH (+2 VP): kept R2, expired R5 - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  B:Cappadocian Riders COMMAND AUTHORITY (+2 VP): kept R3, completed R3 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  B:Cappadocian Riders SECURE THE FLANKS (+2 VP): kept R4, completed R4 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  B:Cappadocian Riders IRON GRIP (+2 VP): kept R5, completed R5 - Maintain a minimum of 7 OC on a single Objective.

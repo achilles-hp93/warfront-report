@@ -1,0 +1,2114 @@
+{
+ "exportedFromReminderAt": "2026-11-05T09:35:49.166Z",
+ "count": 235,
+ "tasks": [
+  {
+   "id": "1",
+   "subject": "Pairing core: joinPair/splitPair, attach/detach, occupancy",
+   "description": "Rewrite edition/fantasy_leader.js onto core/joined_units.js: Attach puts the CHARACTER on the squad's square and links joinedCharacter/joinedSquad; Detach moves it to an adjacent free square; no clone model, no ability copies, no characterAP, no combined morale. Occupancy: a square holds one unit or one joined pair (canRegularUnitOccupySquare, unitAt/unitsAt/footprintAt). Pre-deployment attach (browser deployment.js + server game_session.js).",
+   "activeForm": "Rewriting the pairing core",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "2",
+   "subject": "Pair targeting, allocation and death",
+   "description": "Enemy targets offer the pair once (canAttack normalizes); one casualty order across both rosters (squad troopers, native leader, CHARACTER last; PRECISION reversed); each wound applied to the model's own unit via Models; a unit losing its last model goes through destroyUnit then splitPair; delete handleAttachedCharacterDeath/handleAttachedBodyguardsDestroyed and role:'character' branches; expected-damage estimators follow.",
+   "activeForm": "Wiring pair targeting and allocation",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "3",
+   "subject": "Separate APt, activation and reactions",
+   "description": "Remove characterAP/characterAttack/character weapon pools/cast pool branch; each member uses its own ap and activates separately in the Action Phase; pair moves as one activation in Movement (either member selects); per-unit counterattack choice/payment/INI, overwatch, countercharge, reaction commands.",
+   "activeForm": "Separating activations and reactions",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "4",
+   "subject": "Abilities, effects, MOVE/MORALE on the pair",
+   "description": "No ability copying; joined_pair effect target and the 13 bodyguard abilities; attached_squad via pairing; statuses aimed at the pair land on both; friendly CHARACTER-only targeting; pair MOVE = lower, pair MORALE = better, one Morale Test, CHARACTER death forces a squad test; rewrite has_attached_character, unless_leading, bodyguard_count, deny_precision etc.",
+   "activeForm": "Moving abilities and effects onto the pair",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "5",
+   "subject": "Counting, positional consumers, translation layers removed",
+   "description": "CHARACTER counts separately everywhere (Priority, objective tie-break, outnumbered, LEAD FROM THE FRONT, OC). Remove attached_character_state.js, character_tags.js, host lookups in designations/visible_target/zones/rites_query/command_range/resource pools, leader_withdraw.js, leader_altitude re-sync; fix unit_filters dead branch.",
+   "activeForm": "Removing the translation layers",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "7",
+   "subject": "Green test suite, audits, browser check, commit and push",
+   "description": "Persistence version bump (old replays/saves refused), MP lobby sends leaderMap and server applies pairs, campaign hand-back per unit. Rewrite core-rule.md passages (44,100,163-175,611,755,771, new pair rules) and regenerate docs. Rewrite/delete ~60 attachment tests; new contract tests. Gate: full suite, faction sweep, browser AI-vs-AI with presets, rules access audit.",
+   "activeForm": "Finishing persistence, rules text and tests",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "8",
+   "subject": "Guard createUnit: an HQ is the 'hq' template",
+   "description": "createUnit refuses isHQ with any template but 'hq'; test for it.",
+   "activeForm": "Guarding createUnit",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "9",
+   "subject": "Sweep, match_runner and browser parity field real CHARACTERs",
+   "description": "HQ building ('hq') plus the CHARACTER as its own unit in faction_sweep, match_runner defaults, ai_vs_ai_replay_parity ARMIES and faction_replay_parity.",
+   "activeForm": "Fielding real CHARACTERs",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "10",
+   "subject": "Keep HQ-building callers exact with 'hq'",
+   "description": "evaluate, harvest, mp_workflows, server tests and three unit tests that relied on the template being ignored now name 'hq'.",
+   "activeForm": "Updating HQ-building callers",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "11",
+   "subject": "Verify: suite, sweeps, server tests, bench, browser parity; commit and push",
+   "description": "Rebuild, full unit suite, faction sweep, server test suite, match_runner/bench run, browser replay parity; then commit and push.",
+   "activeForm": "Verifying and committing",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "12",
+   "subject": "Transports: a joined pair embarks and disembarks as one",
+   "description": "1a: capacity counts both units' models, both must be able to embark, both on the passenger list, disembark places the pair together. Test.",
+   "activeForm": "Making pairs embark as one",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "13",
+   "subject": "Structures: a pair goes only where both units may",
+   "description": "2a: a Structure that bars either unit bars the pair's move. Test.",
+   "activeForm": "Checking barriers for both units",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "14",
+   "subject": "Ibar and Athibar: the pair's move is the CHARACTER moving",
+   "description": "3a: a joined CHARACTER with attack_before_move may shoot before its bodyguard moves the pair. Human prompt, server validation, AI. Test.",
+   "activeForm": "Letting a joined CHARACTER shoot before the pair moves",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "15",
+   "subject": "Board: one token for the pair, its banner showing both icons",
+   "description": "4c. Browser-verified with screenshots.",
+   "activeForm": "Drawing the pair's token",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "16",
+   "subject": "Selection and unit list: click selects the bodyguard; list leads with the CHARACTER",
+   "description": "6b: a click on the pair's square selects the squad (no prompt); the card tab switches. 7: the unit list shows the CHARACTER with its bodyguard squad under it. Browser-verified.",
+   "activeForm": "Updating selection and the unit list",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "17",
+   "subject": "Stage C: rules docs, full verification, commit and push",
+   "description": "core-rule.md and deep-dive rulings, architecture doc status, rebuild, full suite, sweep, browser check, commit, push.",
+   "activeForm": "Verifying and committing Stage C",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "18",
+   "subject": "Overwatch-Ready = held fire; Troop Requisition = 0 APt",
+   "description": "Ready only if on the field all last Battle Round with APt it could spend and spent none; nobody ready in Round 1. Requisition rule text: 0 APt this round (movement allowed). Rules text, engine (cqb.js isOverwatchReady), state field registration, test.",
+   "activeForm": "Revising Overwatch readiness",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "19",
+   "subject": "Spell attacks follow the ranged rules; pair partner never takes Friendly Fire",
+   "description": "weapon_attack skip_validation keeps the Engaged-fire block and the Friendly Fire block (spell sets only range/target). getRangedIntoMeleeFriendlyTargets excludes the attacker's footprint. Test.",
+   "activeForm": "Making spell attacks follow ranged rules",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "20",
+   "subject": "Count melee damage in battle statistics",
+   "description": "Melee resolver records dealt/taken via _recordBattleDmg without double counting. Test.",
+   "activeForm": "Counting melee damage",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "21",
+   "subject": "Damage log names the unit whose model took the damage",
+   "description": "With pair allocation, damage lines name the declared target and print a pair-level HP. Name each unit that took damage with its own HP. Test.",
+   "activeForm": "Fixing damage log naming",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "22",
+   "subject": "Build, suite, server tests, sweep; commit and push to PR #74",
+   "description": "Verify all four changes and push; update PR description.",
+   "activeForm": "Verifying and pushing",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "23",
+   "subject": "Fix dead units left on the board after a shot kill; build, test, commit",
+   "description": "combat_presentation.js clears ghosts of units it showed that are dead; test 142.",
+   "activeForm": "Fixing ghost units",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "24",
+   "subject": "Battle report feature: scripts/battle_report recorder, builder, skill",
+   "description": "record.cjs + page recorder (CP, Mana, VP by source, missions, primary, RP), summarize, build HTML with charts, leaderboard, mission cards; skill battle-report synced.",
+   "activeForm": "Building the battle report feature",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "25",
+   "subject": "Re-run Legion vs Host, batch evidence, write analysis, republish artifact",
+   "description": "Run the recorder, headless batch of the matchup, commentary + analysis (balance, secondaries), republish at the same artifact URL.",
+   "activeForm": "Re-running the battle and writing the analysis",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "26",
+   "subject": "Troop Requisition: no CP discount, 1-round cooldown",
+   "description": "Command cost modifiers (Tactical Brilliance etc.) never apply to Troop Requisition; add a 1 Battle Round cooldown (data-driven). Rules text, AI, server, tests.",
+   "activeForm": "Changing Troop Requisition",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "27",
+   "subject": "Aswaran: rebalance (carbine or RP)",
+   "description": "User: Aswaran undercosted, carbine stronger than expected. Investigate the Ember Storm-Carbine, propose options, apply the chosen one.",
+   "activeForm": "Rebalancing the Aswaran",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "28",
+   "subject": "AI: units with STATIONARY/HEAVY weapons hold still",
+   "description": "Earthshaker Mortar (long range INDIRECT, STATIONARY) and Fulminator (HEAVY) move too much. Fix AI movement scoring.",
+   "activeForm": "Fixing AI artillery movement",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "29",
+   "subject": "AI: fragile RECCE without HIDDEN is more careful",
+   "description": "Speculatores: may grab objectives, but avoid exposed squares in enemy threat; not too skittish.",
+   "activeForm": "Making fragile RECCE careful",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "30",
+   "subject": "AI: secondary mission pick never keeps an impossible card",
+   "description": "Smarter mission keep: feasibility vs surviving army, board; never keep impossible.",
+   "activeForm": "Making the AI's mission pick smarter",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "31",
+   "subject": "Verify: build, suite, re-run Legion vs Host batch, update report",
+   "description": "Build, unit tests, server tests, sweep, re-run 12-game batch to measure the changes; commit and push.",
+   "activeForm": "Verifying the changes",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "32",
+   "subject": "Presets: Imperium Armoured cohort, Covenant Crusade host",
+   "description": "Two preset army files (one record per file), checked by the build and the game's army check.",
+   "activeForm": "Adding the two preset armies",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "33",
+   "subject": "VP attribution: pivotal objective VP and fair-share (Shapley) VP per unit",
+   "description": "Recorder asks the engine at each scoring moment (objectives, Primary, secondary completion) with units excluded; summarize/build show per-unit and per-type numbers (VP per 100 RP) in the leaderboard and batch.",
+   "activeForm": "Adding per-unit VP attribution",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "34",
+   "subject": "Live battle mode: round-by-round page and commentary",
+   "description": "record.cjs --live pauses at each round end for commentary; the report artifact shows rounds as they land (db-backed), final report replaces it at the end.",
+   "activeForm": "Building the live battle mode",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "35",
+   "subject": "Play Armoured cohort vs Crusade host live + 6-battle batch; report",
+   "description": "Live featured battle with commentary, then the 6-game batch, attribution analysis, final report artifact.",
+   "activeForm": "Playing the live battle and batch",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "36",
+   "subject": "Analyze AI Fall Back decisions against the board",
+   "description": "Record each Fall Back with its board context (threat to the unit, VP the enemy would score from killing it, objective/screen it leaves, what falling back opens up) and the outcome; judge each decision on the user's three questions; report.",
+   "activeForm": "Analyzing AI Fall Back decisions",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "37",
+   "subject": "AI: no wasted rounds (joined CHARACTER's own APt, Sappers' abilities)",
+   "description": "Find why a joined CHARACTER (Archistrategos) leaves its APt unspent while its bodyguard acts, why Malleus Sappers never use Set Mine / Satchel Charge, and why the War-Shrine's rifle never fires; fix in the AI with tests.",
+   "activeForm": "Fixing wasted AI rounds",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "38",
+   "subject": "Chiron: BS 3+, pintle repeater built in, new MOVE/HP gear",
+   "description": "Chiron Battle Tank BS 4 -> 3. The pintle_volcanus_repeater gear's weapon becomes the Chiron's own second weapon; the gear slot gets a new gear that adds MOVE or HP (user picks effect/name).",
+   "activeForm": "Reworking the Chiron",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "39",
+   "subject": "Activity record: count rounds a unit moved and then did nothing",
+   "description": "Split idle rounds into moved-then-idle vs stood-idle in activity.cjs (joined pair moves count for both units), page section, batch table, digest, test.",
+   "activeForm": "Adding moved-then-idle to the activity record",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "40",
+   "subject": "AI Fall Back: price the fight, control not presence, its death; re-charge and tie-up",
+   "description": "User-approved (all 3 proposals + considerations): stay vs Fall Back weighed on the fight (dealt/taken, kills), objective control its presence holds/denies, its death's VP for the enemy and survival VP for its side, the engagers' fire it ties up, the engager re-charging it at the Fall Back square with the charge bonus (less when that takes the engager off an objective it holds alone), the test price and the shots opened. One source for death VP (AI + recorder). Tests; measure with the Fall Back record on the same seeds.",
+   "activeForm": "Rebuilding the AI's Fall Back weighing",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "41",
+   "subject": "AI Fall Back: drop the screen term from the weighing",
+   "description": "User call: the Fall Back square's screen term tipped 6 of 10 flagged Fall Backs; a unit holding its engagers already screens (tie-up term). Drop 'screen' from _aiFallBackCore.",
+   "activeForm": "Dropping the screen term from the Fall Back weighing",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "42",
+   "subject": "AI: Malleus Sappers lay mines (Set Mine valued)",
+   "description": "User call: make the Sappers lay mines. The AI scores set_mine at 0, so it is never used. Value a mine on enemy approaches and objectives.",
+   "activeForm": "Teaching the AI to lay mines with the Sappers",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "43",
+   "subject": "AI: price a minefield by its expected damage (own units avoid own mines)",
+   "description": "_aiHazardPenalty: minefield = expectedMineDamage x aiTargetValue (was flat 5). Test 163 extended; architecture doc. Verify suite/bench/server, commit.",
+   "activeForm": "Pricing minefields by expected damage",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "44",
+   "subject": "Battle report: Flamebringer's Immortals vs Penitent Crusade (live + 6-battle batch)",
+   "description": "New presets atashid_empire/flamebringer_immortals (199) and covenant_of_new_jerusalem/penitent_crusade (196). Live featured battle with round commentary, then batch, analysis, publish.",
+   "activeForm": "Running the Immortals vs Penitent Crusade battle report",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "45",
+   "subject": "AI prices stray shots; Blaze of Glory hits Ardashir only; Penitent Crusade gets a Cantor",
+   "description": "aiStrayShot (ai/action/stray_shot_value.js) in _aiRangedAttackValue and _aiChooseOverwatchAttack; RANGED_INTO_MELEE_ON_TARGET in cqb.js; deal_damage friendly footprint [unit]; preset knight_commander -> cantor_preceptor. Tests ai/165, ops/deal_damage. Verify, commit.",
+   "activeForm": "Fixing stray-shot pricing, Blaze of Glory and the preset",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "46",
+   "subject": "Battle reports: command and ability effectiveness record",
+   "description": "For each HQ command / ability / spell use: what it changed and whether the change was used that Battle Round (Scouting Order: spotted otherwise-unspotted targets? Ember of Atar: did the buffed unit benefit?). Recorder + judge + page section + batch; analyze the Immortals vs Penitents battles.",
+   "activeForm": "Building the command and ability effectiveness record",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "47",
+   "subject": "Cleanup: score before effects expire (Secure Objective never counted)",
+   "description": "beginCleanupPhaseEngine expired this-round modifiers and statuses before scoreObjectives/scorePrimaryMissions, against core-rule.md:38 (score, then remove expiring effects). Reorder, add regression test, run suite/server/bench, commit.",
+   "activeForm": "Fixing Cleanup Phase order",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "48",
+   "subject": "Benediction targets the unit a heal can mend",
+   "description": "ONCE_PER_BATTLE_TARGETS.most_wounded_friendly counted dead models' HP; heal mends only living models, so Benediction could be spent on a unit with whole survivors. Fix + extend 051 test; build/suite in wf-out2; commit after batch.",
+   "activeForm": "Fixing Benediction target",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "49",
+   "subject": "AI command values: +PER, +OC, +MOVE, weapon tags; burning field hazard",
+   "description": "effect_value.js mod_stat PER (spots a friendly can shoot, from now or likely square, no flat 1), OC (flips only), MOVE (reach gain like grant_move); mod_weapon tags only where missing; _aiHazardPenalty prices fields via expectedFieldDamageAt. Tests.",
+   "activeForm": "Revaluing AI commands",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "50",
+   "subject": "Remove copies: cqb autoSelect pick; AI objective winner",
+   "description": "cqb.js autoSelect → _strayShotDefaultTarget; support.js _aiCommandObjectiveWinner → objectiveControllerFromSummary in objectives.js shared by objectiveController.",
+   "activeForm": "Removing duplicated rules",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "51",
+   "subject": "Penitent Crusade: one Hospitaller; fix old report R2 line",
+   "description": "Preset data change (remove second jordanite_hospitaller); correct immortals-vs-penitents commentary R2 Alchemical Vial line and republish artifact WeziEYb2dY73SDZc3e8boQ.",
+   "activeForm": "Updating preset and report",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "52",
+   "subject": "Share LOS height tests between battle raycast and map generator (no behaviour change)",
+   "description": "New pure board/los_heights.js; elevation.js, line_of_sight.js and map_gen/sight.js call it; register in modules.py and mapgen_bridge.cjs; prove identical.",
+   "activeForm": "Sharing LOS height tests",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "53",
+   "subject": "New LOS rule: raised ground level with the higher end blocks",
+   "description": "losGroundBlocksAt: higher than lower end and at least as high as higher end. Core rules text (lines 131, 905), ends never raised by terrain, figure panel, deep-dive doc, test 040, fix 030 fixtures, full suite, campaign/map tool tests, browser check, commit and push.",
+   "activeForm": "Implementing the new LOS rule",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "54",
+   "subject": "Map generator reads terrain rules through terrainDef (no copied lists)",
+   "description": "Remove CG_MAPGEN_LOS_BLOCKING and CG_MAPGEN_IMPASSABLE; the bridge loads the build's TERRAIN (build_terrain_js) and board/terrain_def.js; checker stops at unknown terrain; prove identical; commit.",
+   "activeForm": "Removing the map generator's terrain copies",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "55",
+   "subject": "Battle report: Iron Imperium vs Cult of Belphegor",
+   "description": "Pick/build presets (Belphegor exercising Sloth abilities), batch first, replay the closest as featured, commentary, analysis incl. Sloth abilities' effectiveness; publish.",
+   "activeForm": "Preparing Iron Imperium vs Belphegor clash",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "56",
+   "subject": "Armory, saves and presets carry the subfaction",
+   "description": "Reader refuses units the army's subfaction (or none) may not field; Armory subfaction picker, pool filter, add guard, deck errors, save/load subfactionId; formation screen load restores it; doctrine resolution by the entry's subfaction; shared subfaction chips helper; tests; browser check; commit.",
+   "activeForm": "Fixing subfactions in the Armory and saves",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "57",
+   "subject": "Battle report: effect damage matched to the wrong log line (phantom cross-map shot)",
+   "description": "Recorder notes each effect's log index; enrich uses it, older records search forward from the previous record's line; test; fix Cohort vs Procession R2 commentary; rebuild and republish.",
+   "activeForm": "Fixing effect attribution in battle reports",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "58",
+   "subject": "AI: cast Daemonium Meridianum (value set_ap)",
+   "description": "ai/effect_value.js has no set_ap value; the Pontifex never casts it. Value it as the APt the target loses times the chance, on an enemy.",
+   "activeForm": "Valuing set_ap for the AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "59",
+   "subject": "AI: Drive the Column grants a move the AI takes",
+   "description": "grant_move valued at flat MOVE_BASE when any plan exists; move order follows the plan only for HQ commands. 15 of 23 granted moves declined.",
+   "activeForm": "Fixing granted moves",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "60",
+   "subject": "AI: Legionnaire zig-zag toward the west objective (R4-R5, Cohort vs Procession)",
+   "description": "A Legionnaire squad moved toward the Taskmaster-held west objective then back. Find the destination-score cause.",
+   "activeForm": "Investigating the Legionnaire zig-zag",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "61",
+   "subject": "AI: Morphean Engine wanders instead of firing its long-range howitzer",
+   "description": "First rounds it moves around; it has a long-range blast cannon and Let Them Come (+1 BS standing still, no Advance/Charge).",
+   "activeForm": "Investigating the Morphean Engine's movement",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "62",
+   "subject": "Measure the AI fixes: 12-battle Cohort vs Procession batch, before vs after",
+   "description": "Rerun batch on fixed build (cohort-vs-procession-fixed), compare Drive the Column / Daemonium / Shield Wall use, Morphean movement vs fire, direction reversals; report to user; update PR #74.",
+   "activeForm": "Measuring the AI fixes on a 12-battle batch",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "63",
+   "subject": "AI: a caster banks Mana toward a spell it cannot yet afford (Daemonium never cast)",
+   "description": "Pontifex never channels (fires its pistol instead); banking potential reads PER not the rite's range, is gated on the cheapest rite, and prices set_ap at the enemy's current APt. Probe seed 702, fix, test, batch.",
+   "activeForm": "Fixing Mana banking toward Daemonium",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "64",
+   "subject": "AI: one destination choice for every move (granted moves follow the unit's own plan)",
+   "description": "aiChooseDestination shared by _aiPickDestination, _aiCommandRepositionPlan, aiRepositionSquare; test ai/173; suite, bench, batch.",
+   "activeForm": "Unifying the AI's destination choice",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "65",
+   "subject": "AI: the long-range planner follows the unit's missive",
+   "description": "Done and measured; reverted at the user's call (Morphean walked to its station, one-square shuffles up).",
+   "activeForm": "Making the planner follow the missive",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "66",
+   "subject": "Battle report: flag back-and-forth moves (wasted tempo)",
+   "description": "Per unit, a move undone by the next (back near where it started), flagged harder when it went toward an objective then away. Pure module, page section, batch table, digest, test.",
+   "activeForm": "Adding the back-and-forth record to battle reports",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "67",
+   "subject": "Revert the planner-follows-missive change; Daemonium Meridianum on a 3+",
+   "description": "git revert d4d98c16; Daemonium chance 4+ -> 3+ (desc and effect), regenerate docs.",
+   "activeForm": "Reverting the planner change and raising Daemonium's odds",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "68",
+   "subject": "AI: no-step-back rule (a move back to the square it left must clearly beat staying)",
+   "description": "Record each unit's last move; the destination choice asks a margin of a square that turns back on it and ends beside where it began. Test, suite, bench, batch.",
+   "activeForm": "Adding the no-step-back rule",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "69",
+   "subject": "Artillery: fire support, not objective holding, unless nobody else can",
+   "description": "Find why the Artillery role does not keep the Morphean Engine off objectives (missive assignment, objective term); report findings and fix per the user's direction.",
+   "activeForm": "Investigating how the artillery role meets objectives",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "70",
+   "subject": "Step-back rule does not bite: find which branch passes step-backs and fix",
+   "description": "Batch after 7e5910e3 still has 17 back-only + 21 back+objective undone pairs (final2: 17 + 19). The global branch compares the far target's score, not the step's, so the 2.0 margin rarely matters. Probe seeds 700/704, then fix and re-measure.",
+   "activeForm": "Probing why step-backs still pass",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "71",
+   "subject": "Morale: remove the after-attack Below Half-Strength test",
+   "description": "User rule 2026-10-23: no Morale Test right after an attack leaves a unit Below Half-Strength. Keep Command Phase Casualty Tally, MORALE BREAKER, COMMAND death, Charge and rule-forced tests. Engine (combat/morale.js, ranged aftermath, melee strike_sequence), AI valuations, rules docs (core-rule.md/html, deep-dive), tests.",
+   "activeForm": "Removing the after-attack morale test",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "72",
+   "subject": "Fire support: position by damage with LOS; indirect artillery stays put",
+   "description": "User call: artillery's FIRE_SUPPORT positioning by expected damage it can deal (with LOS), not objective coverage. Indirect-fire artillery should ideally never move; direct-fire (Morphean Engine) moves to the best damage square. Measure on the Cohort vs Procession batch.",
+   "activeForm": "Building damage-first fire support",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "73",
+   "subject": "Battle report: Spahbed's Host vs Veiled Court (live)",
+   "description": "New preset Veiled Court (Cult of Tempestuous Rapture, 194 RP): Veiled Queen leading Cultists, Masque of Carnality, Queen Consort, Babylonian Assassins, Cultists. 12-battle batch, then the closest battle live. Runs on the engine after the morale and fire-support changes.",
+   "activeForm": "Running the Atashid vs Cult of Lust battle report",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "74",
+   "subject": "Battle reports: price a change of control (Whispers of Forbidden Pleasure)",
+   "description": "The effects record cannot see seize_control: every Whispers use reads \"bought nothing\". Record the controlling player before/after a use as a lever; credit objectives it decided at scoring (with the unit back under its owner for one read). Test in test_battle_report.cjs failing on old judgement; check on host-vs-court.",
+   "activeForm": "Pricing changes of control in the effects record",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "75",
+   "subject": "Explain Court leaving the centre (R3) and Masque/Assassins rarely fighting",
+   "description": "Probe seed 806 replay + batch stats; answer the user's two questions with options for fixes.",
+   "activeForm": "Investigating Court R3 centre and melee engagement",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "76",
+   "subject": "Fire support regression: Morphean Engine deals less damage under damage-first scoring",
+   "description": "cohort-vs-procession-dmg vs sb8: 2.83 -> ~1.45 HP a round; more attacks after a move. Find why and fix toward the user's intent (optimal movement for direct-fire artillery).",
+   "activeForm": "Investigating the Morphean Engine damage regression",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "77",
+   "subject": "AI: objective coverage counts only friends in the Objective Area",
+   "description": "_aiObjectiveScore: ally OC counts only inside the area (no 3-square ring, no missive-sent allies); the unit's own joined partner is not an ally holding it. Test, fingerprint, benchmark.",
+   "activeForm": "Fixing the objective coverage count",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "78",
+   "subject": "AI: a charge competes with the walk's own square",
+   "description": "decide.js: chargeFloor = score of the square the walk reaches, not the far target's; the objective abandon margin applies to whichever leaves the held objective when the other does not. Test.",
+   "activeForm": "Fixing the charge comparison",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "79",
+   "subject": "AI: fire-support artillery does not screen",
+   "description": "_aiScreeningValue is 0 for a unit on FIRE_SUPPORT. Extend ai/177. Measure with the 12-battle Cohort vs Procession batch; measure coverage+charge with the Host vs Court batch.",
+   "activeForm": "Stopping fire-support artillery from screening",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "80",
+   "subject": "Battle reports: record AI decision time and memory (page_ai_perf.js)",
+   "description": "In-page timing of every AI decision (aiChooseAction by phase and type, its parts: prepare/missives, movement, HQ command, action phase; deployment; reactions), CDP heap/metrics per round; pure summary (ai_perf.cjs); wired into record/batch; test in test_battle_report.cjs.",
+   "activeForm": "Building the AI timing and memory recorder",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "81",
+   "subject": "Run real battles across matchups with AI timing/memory on",
+   "description": "Several preset matchups, sides swapped, four maps, on the merged engine.",
+   "activeForm": "Running the AI performance battles",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "82",
+   "subject": "Write and publish the AI performance report",
+   "description": "Decision quality (from real battles), decision time by kind, memory, outliers, findings and recommendations. Artifact.",
+   "activeForm": "Writing the AI performance report",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "83",
+   "subject": "Reports repo: pushed to achilles-hp93/warfront-report",
+   "description": "Integration cannot create repos (403). User creates achilles-hp93/warfront-reports (private, empty) and grants the Claude app access; then add_repo push and git push.",
+   "activeForm": "Staging the reports repo",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "84",
+   "subject": "AI performance: cache per decision, skip unchanged turn set-up, unit list redraws",
+   "description": "From the AI performance report. Same decisions (prove by fingerprints and seed replays), measured with --lean --profile. Responsiveness (yield/worker) as options for the user.",
+   "activeForm": "Finding where the AI's time goes",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "85",
+   "subject": "Decide next AI performance step: responsiveness and rules-engine estimate cost",
+   "description": "Waiting on the user. Options for the remaining freezes (yield between units, Web Worker, accept), and whether to take on the rules-engine estimate costs (weapon profile unit copies, combat-effect membership, aura scans).",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "86",
+   "subject": "Babylonian Assassins: worse at VP, damage and survival after the charge-floor change",
+   "description": "User chose survival-weighted objectives: an objective square's worth times the chance the unit is alive to score it, counting every enemy that can move then shoot or charge it there. Implement, test, batch-check.",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "87",
+   "subject": "Rules engine: Stats memo verified (12 replays) and pushed",
+   "description": "Commit stats.js memo, bridge change, test 510 once r2 replays match base 12/12.",
+   "activeForm": "Verifying the Stats memo replays",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "88",
+   "subject": "Overnight: 5 new matchups (10 new factions), batch + featured report each",
+   "description": "Duat vs Albion, Khaganate vs Novgorod, Caliphate vs Nihon, BLF vs Church of the Beast, Runeforge vs Panhellenic. New preset armies, 6-battle batch, featured replay, commentary, build, publish artifact, push to warfront-report. Plus OPEN_DECISIONS note.",
+   "activeForm": "Running the overnight matchups",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "89",
+   "subject": "Battle record: price unit resources, table entries, weapon-tag spends, phase spends",
+   "description": "User's item 6. page_effects.js: resource lever (Hunger), active-table lever (Fae Flow), Matter Transmutation and Kusanagi as one use each, loot/KILL_GAIN. Verify by re-recording.",
+   "activeForm": "Fixing the battle record's blind spots",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "90",
+   "subject": "Support metric: what low-VP units contribute (damage, buffs, heals)",
+   "description": "User's item 5: Tripod, Heliostat, Heron, Finvarra, Berserkir, Wild Hunt. Damage dealt, passives/effects expected HP added, heals. Propose a support column in reports.",
+   "activeForm": "Measuring support contribution",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "91",
+   "subject": "Tune survival-weighted objectives: less skittish",
+   "description": "User's item 1: 'AI cant be too skittish'. Gentler curve; measure objective presence and VP vs before/after batches.",
+   "activeForm": "Tuning the survival term",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "92",
+   "subject": "Investigate and propose fixes: Forest of Fangs, Rabies, Gatescrolls, idle melee",
+   "description": "User's item 4: investigate each AI problem and propose a fix (do not implement until approved).",
+   "activeForm": "Investigating the AI problems",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "93",
+   "subject": "AI speed: propose next speed-ups with profile numbers",
+   "description": "User's item 7: they want speed-ups. Profile remaining hot spots (collectCombatEffects, _cloneCombatUnit, _unitListRow, _freeze), propose plan.",
+   "activeForm": "Profiling for the next speed-ups",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "94",
+   "subject": "AI: score heals by what they heal, whatever their role label",
+   "description": "Theriac Surgery, Mechanical Repair, Battlefield Baptism, Profane Surgery, Three Bright Birds, Vetustate Conlapsum carry ai_role SUPPORT and score 0. Categorize heal abilities and price heals by their effects.",
+   "activeForm": "Fixing heal scoring",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "95",
+   "subject": "AI: buffs priced by what they achieve (melee buff only if the target melees)",
+   "description": "Forest of Fangs went on shooters. Price friendly rite/ability buffs by their effects; a melee-weapon buff counts only on a unit that will make a melee attack while it lasts.",
+   "activeForm": "Pricing buffs by effect",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "96",
+   "subject": "AI: Blessing of Sacred Rabies only on an enemy that will strike its own side",
+   "description": "Price compel_melee_attack: the free attack's expected damage on the victim the enemy picks (own side = gain, ours = cost) plus SUPPRESSED; target strong enemies whose only reachable victims are their own units.",
+   "activeForm": "Pricing Rabies",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "97",
+   "subject": "AI: Gatescrolls as rapid deployment, emerge as soon as able, far from walking reach",
+   "description": "Waiting on the user's rule redesign (options A Gate Step, B Gate Charge, C core TS keeps APt, D same-round return). Strike-based AI WIP saved at scratchpad/gatescroll_wip and gatescroll_ai_wip.patch.",
+   "activeForm": "Reworking Gatescrolls AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "98",
+   "subject": "AI: Double Time used only when the move needs it",
+   "description": "Investigate why Double Time buys nothing most of the time and fix its valuation.",
+   "activeForm": "Fixing Double Time AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "99",
+   "subject": "Battle reports: per-unit support metric",
+   "description": "HP added to friendly attacks, HP kept off, HP healed (abilities and passives), attacks enabled, objective VP decided, per unit and per 100 RP; RANGE buffs priced.",
+   "activeForm": "Adding the support metric",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "100",
+   "subject": "Investigate: heavy melee walk stops short; charge vs hold; stay-and-shoot vs charge",
+   "description": "Probe the Oni Samurai destination terms; who charges vs who holds objectives; cases where shooting beat charging; shooting vs fighting share; nuance on charging units that can still fall back.",
+   "activeForm": "Investigating melee movement",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "101",
+   "subject": "Analyses: Triple Hills melee bias, Nihon Kusanagi bias, hover/aerial behaviour",
+   "description": "Per-map melee vs ranged share; Three Sacred Treasures AI valuation; altitude changes of HOVER/FLYING units and whether they make sense.",
+   "activeForm": "Running analyses",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "102",
+   "subject": "Five more unique army matchups: batch + featured report each",
+   "description": "After the AI fixes land. Include hover/flying units for the aerial test.",
+   "activeForm": "Playing new matchups",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "103",
+   "subject": "Speed: research and propose a rules-query architecture (weapon profiles, tags)",
+   "description": "Research agent running; turn its report into a proposal.",
+   "activeForm": "Researching rules-query architecture",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "104",
+   "subject": "Answer: emerge range 4, charge fixes, Canopic Priest, Duat, alchemy, Advance OC 0, Novgorod winter",
+   "description": "Data-backed answers to the user's questions; decisions stay with the user.",
+   "activeForm": "Researching the user's questions",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "105",
+   "subject": "Transitional State redesign: Emerge keeps move and APt, 1 Movement Die; Realmwalker A; Ascendants MOVE 3; House of Glass +4 Mana",
+   "description": "Core rule + data + docs + tests; AI emerges as soon as able (adapt the saved Gatescroll WIP).",
+   "activeForm": "Redesigning Transitional State",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "106",
+   "subject": "Triple Hills: forest only on each hill's four corners",
+   "description": "Map data change in data/maps/medium/triple_hills.json.",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "107",
+   "subject": "Kusanagi: only a spotted square; strike animation",
+   "description": "Phase-spend square constraint (data + engine), AI candidates follow it; an animation for the off-field strike, browser-verified.",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "108",
+   "subject": "Hover AI: fly to travel, land by charging or to hold, weak melee keeps flying to shoot",
+   "description": "AI decision for CHANGE ALTITUDE plus a test.",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "109",
+   "subject": "Support record: split into offensive, defensive, heal, movement, objective",
+   "description": "scripts/battle_report/support.cjs, its section and batch tables.",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "110",
+   "subject": "Speed: verify mode, profile/groups memo, zero-copy modifier reads, drop the combat-unit clone",
+   "description": "Steps 0-3 of research/rules-query-architecture.md, proved by identical replays.",
+   "status": "in_progress",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "111",
+   "subject": "Emerge range 4 (Transitional State)",
+   "description": "Emerge squares: more than 4 squares from every enemy and objective (was 3). Shared helper isClearOfEnemiesAndObjectives is also used by Battlefield Infiltration - change only the Emerge distance. Docs + tag text.",
+   "activeForm": "Setting Emerge range to 4",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "112",
+   "subject": "Advance: a unit that Advanced this round has OC 0",
+   "description": "User approved: a unit that has Advanced this Battle Round has effective OC 0 (stops Round 1 scoring). Engine getEffectiveOC, core rules doc, test.",
+   "activeForm": "Making Advanced units OC 0",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "113",
+   "subject": "Novgorod winter: +2 rows a round",
+   "description": "The Novgorod winter front grows 2 rows each Battle Round (was too slow). Find the winter growth data/engine, change, docs.",
+   "activeForm": "Speeding Novgorod's winter",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "114",
+   "subject": "Alchemy: AI and battle-record fixes as proposed",
+   "description": "User approved the alchemy fixes proposed earlier: the AI coated rifles of units that then fought in melee; the record missed the later damage. Look up the exact proposal in the transcript / warfront-report notes and implement both.",
+   "activeForm": "Fixing alchemy AI and record",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "115",
+   "subject": "Charge fixes (all four)",
+   "description": "1) count the unit's best shot this round in full against any target (a CHARGE, success or fail, gives up ranged weapons this round - the findings note's 'failed charge still shoots' is wrong); 2) an enemy in contact shares its attack only among our units beside it; 3) value the fight as the Action Phase does, one weight set by batch; 4) a charge on a unit that can still move = P(stays) x fight + P(leaves) x (disorder damage + objective given up). Also correct the findings note in warfront-report.",
+   "activeForm": "Implementing the charge fixes",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "116",
+   "subject": "Charge: a target that Falls Back loses its shot; the fight when it stays",
+   "description": "In aiChargeOutcomeValue's leaves case add the denied shot (deny x W_CHARGE_DENY_RANGED x own), as the stay case's fight already does; confirm the stay case prices the melee. Test 187 extended, probes re-measured.",
+   "activeForm": "Pricing the shot a Fall Back costs",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "117",
+   "subject": "Investigate INI: an attacker struck first by a higher-INI defender",
+   "description": "How melee strike order works when the charger has lower INI; does it make sense; does the AI's charge pricing account for it; how much difference it makes either way (measure).",
+   "activeForm": "Investigating melee strike order",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "118",
+   "subject": "Pair each CHARACTER with the strongest eligible unit",
+   "description": "Presets (Canopic Priest -> Akhguard and any others) and whatever code picks a CHARACTER's squad for the AI's own formations.",
+   "activeForm": "Pairing CHARACTERs with stronger squads",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "119",
+   "subject": "Speed: next steps (Fall Back check cost, combat effects)",
+   "description": "Continue the speed plan from the measured profile: the charged target's Fall Back check (~20%), collectCombatEffects (~10%). Prove with bench fingerprints on/off/verify.",
+   "activeForm": "Speeding up the AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "120",
+   "subject": "Charge fight: strike order by INI (with tests)",
+   "description": "Second striker keeps the models the first strike leaves; charger +3 via _effectiveMeleeINI(asCharging). Test 187 extended; suite; probes.",
+   "activeForm": "Pricing strike order in charges",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "121",
+   "subject": "Approximate the charged target's Fall Back check",
+   "description": "Keep the answer for the Movement Phase while charger and target stand where they stood; measure time and charge behaviour.",
+   "activeForm": "Approximating the Fall Back check",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "122",
+   "subject": "Presets: tankier squads for the Veiled Queen, War Onmyoji, Merlin",
+   "description": "Replace the scout/stealth pairings with the toughest eligible squad; update the README rule.",
+   "activeForm": "Re-pairing three CHARACTERs",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "123",
+   "subject": "Presets: 'no doctrine' as an option",
+   "description": "A preset can field no doctrine; keep the AI's pick available. Write the existing null presets' doctrine explicitly if behaviour should stay.",
+   "activeForm": "Adding a no-doctrine preset option",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "124",
+   "subject": "AI responsiveness: recommend the best UX option",
+   "description": "Measure the longest AI pauses in the page, read how the AI turn loop yields today, compare options, recommend.",
+   "activeForm": "Weighing AI responsiveness options",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "125",
+   "subject": "Five more batches of unique compositions (+ reports)",
+   "description": "Pick 5 matchups of compositions not yet played; 6-battle batch each, featured closest battle, report page each, records to warfront-report.",
+   "activeForm": "Running five new matchup batches",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "126",
+   "subject": "Exact bound: ask the Fall Back check only where a charge can still win",
+   "description": "The phase-long kept answers reused 2 answers in two 4-round games (no saving). Add an exact bound in the charge-square choice so the Fall Back check is skipped when no charge could clear its floor or beat the best square already found; prove with bench fingerprints (same as without), suite, test.",
+   "activeForm": "Writing the exact charge bound",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "127",
+   "subject": "Find the round-8 hang in Genghis vs Penitent seeds 1240 and 1242",
+   "description": "Both seeds block the page >30 s after Round 7 (CDP timeout), twice each. Replay with a longer eval limit and a CPU profile; find the function; fix if it is a bug.",
+   "activeForm": "Finding the round-8 hang",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "128",
+   "subject": "Q1: why east/west units cross to the other wing (Duat vs Valkyrie, Crossroads)",
+   "description": "Probe missives/deployment in seed 1221; explain; fix if AI bug.",
+   "activeForm": "Probing wing movement",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "129",
+   "subject": "Report-tool fixes: Morphean activity, TS emergence credit, raised units' VP credit",
+   "description": "Activity record misses Morphean Engine attacks; effects record credits Gatescroll/Merlin's Gate by emergence; units placed by an effect (Endless Procession, Troop Requisition) credited with their VP.",
+   "activeForm": "Fixing battle-record gaps",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "130",
+   "subject": "AI issues from the reports: no-target commands, MG no legal attack, Genghis lone charge, unscoreable Primaries",
+   "description": "Name the Omen / Liquidate Assets with NO TARGET; Cultist MG never fires; Genghis charged alone; Primaries chosen that never score; Secure Objective then Fall Back.",
+   "activeForm": "Fixing AI issues from the reports",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "131",
+   "subject": "Regalia rework: phases, costs, mirror buff, AI saves for Kusanagi",
+   "description": "Kusanagi -> Action Phase; Mirror -> Command Phase, 1 Regalia, +1 DMG +1 AP; Magatama -> Movement Phase, 2 Regalia; AI saves Regalia for Kusanagi when enemies are bunched.",
+   "activeForm": "Reworking Nihon's Regalia",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "132",
+   "subject": "HOVER units start the game flying (joined pairs too)",
+   "description": "Default flying at deployment; joined pair consistency; test.",
+   "activeForm": "Making HOVER units start flying",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "133",
+   "subject": "RP cap 250 and Troop Requisition cost by RP (3/5/7, 31+ none); measure rate",
+   "description": "Done: cap 250, bands 3/5/7. Measured: ~0.85 requisitions per side per game overall; 2.0-2.2 for armies with 10-RP troops (all at 3 CP), 0 for armies without. Report to user.",
+   "activeForm": "Changing the RP cap and requisition costs",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "134",
+   "subject": "Cult of Sloth preset: demon engines, fewer chaff; other cults' presets",
+   "description": "Rebuild pontifex_procession around the Morphean Engine; check which cult presets exist and play them.",
+   "activeForm": "Rebuilding the Cult of Sloth preset",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "135",
+   "subject": "Investigations: Encroaching Winter, Runeforge loot AI, Gilded Ledger, Oversoul AI, Genghis",
+   "description": "Answer usefulness questions with evidence; fix what the AI misses.",
+   "activeForm": "Investigating faction mechanics",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "136",
+   "subject": "Final report to user on all 11 items",
+   "description": "Summarize fixes, measurements, open design questions (Mirror vs Kusanagi, cult presets, requisition rate, presets to 250 RP, earlier three questions).",
+   "activeForm": "Writing the final report",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "137",
+   "subject": "Regalia: Mirror loses +1 DMG; Magatama gains +1 DMG",
+   "description": "faction.json phase_spends: drop mirror's mark_damage_bonus; Magatama DMG +1 -> +2; desc/HUD text; tests 030/189/190, rr430 fingerprint.",
+   "activeForm": "Moving the Mirror's DMG to the Magatama",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "138",
+   "subject": "Gilded Ledger thresholds 5/10/15/20",
+   "description": "Doctrine rule text and pool_at_least values; check AI pool tests 195/198 and doctrine test 064.",
+   "activeForm": "Lowering the Gilded Ledger thresholds",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "139",
+   "subject": "Drop the phase-long Fall Back approximation",
+   "description": "Remove the phase-long cache of the charged target's Fall Back answer; keep the exact bound. Prove identical games / fingerprints.",
+   "activeForm": "Removing the Fall Back approximation",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "140",
+   "subject": "Grow presets to 250 RP; rework High Admiral and Dawn King; show comps",
+   "description": "All presets to <=250 RP within tier limits; show each comp to the user for suggestions.",
+   "activeForm": "Growing the presets to 250 RP",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "141",
+   "subject": "Answer: INI strike order with charge +3 and counterattacks",
+   "description": "Read core rules and engine on charge +3 INI, counterattack and strike order; answer the user's four scenarios.",
+   "activeForm": "Checking the INI rules",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "142",
+   "subject": "Merge the Web Worker agent's work when it reports",
+   "description": "Cherry-pick its commits, rebuild, suite/audit/report tests, identity check, browser check, push.",
+   "activeForm": "Waiting on the AI worker agent",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "143",
+   "subject": "Tide Captain leads melee squads; joins a Knight of Tehom in the High Admiral preset",
+   "description": "join_restriction unit_ids knight_of_tehom, cultist_zealots, forsaken; leaderMap {0:1,4:2}; validate legality, build, commit, push",
+   "activeForm": "Validating the Tide Captain join rule",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "144",
+   "subject": "Subfaction identity + add-on table for the user",
+   "description": "All 16 subfactions: identity rule, add-on rule, enforced or not; plus Gilded Ledger options and add-on answer",
+   "activeForm": "Writing the subfaction table",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "145",
+   "subject": "Preset army comps as a readable table page",
+   "description": "All 23 presets: units, tier, RP, gear, leaders, marshal, doctrine, subfaction; what was added in the 250 growth. Publish as an artifact.",
+   "activeForm": "Building the preset comps table",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "146",
+   "subject": "Add-on roster rules: new generic rule kinds + the user's new add-ons",
+   "description": "Marshal selector, unit counts by selector, unit-id minimums, stat limits (MOVE<3, DEF better than 4+), count comparisons (CHARACTER vs non, tiers). Data: Michael and His Angels, Saint George's Cavalcade, Take Up the Cross, Pride, Gluttony, Lust, Envy, Officia (redefined). Lust unique units DEF to 4+.",
+   "activeForm": "Building the add-on roster rules",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "147",
+   "subject": "Wire identities: Wings of Fire, Dauntless Assault, Mantle of Mercy",
+   "description": "Charge-from-air reroll on next melee attack; -1 melee HIT on a charged enemy; Mantle markers preventing the first damaging hit.",
+   "activeForm": "Wiring the Covenant identities",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "148",
+   "subject": "Wire add-on effects: My Brother's Keeper, The Least of These",
+   "description": "Dispatch addonIdentity.effects; conditional Fall Back block; lose EXPENDABLE.",
+   "activeForm": "Wiring add-on effects",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "149",
+   "subject": "Wire Mandata Principum (Officia Caesaris second activation)",
+   "description": "Once per round, after an Officia unit's activation, activate another Officia unit within Command Range of the same Officia COMMAND unit. Engine, UI, AI, replay/MP.",
+   "activeForm": "Wiring Mandata Principum",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "150",
+   "subject": "Cultist Zealots melee weapon +1 AR",
+   "description": "ic_accursed_melee_weapon AR +1 (check other users of the weapon).",
+   "activeForm": "Buffing Cultist Zealots",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "151",
+   "subject": "Accursed Blade AR 2; Liquidate +1 AP; Court of Flies name",
+   "description": "Data changes the user approved.",
+   "activeForm": "Applying the approved data changes",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "152",
+   "subject": "Mantle of Mercy AI gaps: pick threatened units; estimates count the Mantle",
+   "description": "AI army pick for a defensive marker favours units likely attacked; expected casualties count a held prevent_hit_hp_loss.",
+   "activeForm": "Closing the Mantle AI gaps",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "153",
+   "subject": "Lust and Envy add-on names: new options in the cults' naming pattern",
+   "description": "Study existing add-on names; propose thematic options; wait for choice.",
+   "activeForm": "Drafting add-on names",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "154",
+   "subject": "Presets: fix Dawn King and Plague Monarch; new subfaction presets",
+   "description": "Make the two broken presets legal; build presets for subfactions with enough units; show comps.",
+   "activeForm": "Building subfaction presets",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "155",
+   "subject": "Names: Naked Ardor (Lust), Brook No Equal (Envy)",
+   "description": "Write the chosen add-on names into the two cults' subfaction.json; regenerate docs and glossary.",
+   "activeForm": "Writing the chosen add-on names",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "156",
+   "subject": "Presets: Dawn King with the Seraph of Evolution; Officia around the Palatine units",
+   "description": "Pride preset gains the Seraph of Evolution (still more CHARACTERs than not). Caesar's Praetorians reworked to centre on Palatine Custos/Artillerists/Protospatharius with Praetorian support. Validate with the game's army check.",
+   "activeForm": "Reworking the Pride and Officia presets",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "157",
+   "subject": "Feedback: lacklustre faction identities (Novgorod) and the Khaganate's weakness",
+   "description": "Review every faction identity for impact and feel, with Novgorod as the example; identify why the Golden Khaganate underperforms using rules and past battle records. Propose directions, no data edits.",
+   "activeForm": "Reviewing faction identities and the Khaganate",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "158",
+   "subject": "Prep Champion League Season 1 tooling (32-preset knockout, Bo3, Crossroads, no doctrine)",
+   "description": "A tournament tool in scripts/battle_report: seeded random draw, best-of-3 matches on CROSSROADS with no doctrine, round-by-round play with a stop for analysis, replay of chosen matches, status and round summary. Dry-run on a small bracket; do not run the real tournament.",
+   "activeForm": "Building the tournament tool",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "159",
+   "subject": "Presets fight vanilla: every preset names no doctrine",
+   "description": "Set doctrineId to the formation screen's 'none' on every preset so none fields a doctrine anywhere; refresh the comps page.",
+   "activeForm": "Removing doctrines from the presets",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "160",
+   "subject": "Encroaching Winter starts at 4 rows; CHILLED -3 INI",
+   "description": "Blizzard start rows 1 -> 4; CHILLED's INI penalty -2 -> -3 (shared status: every FROST source). Update rule text and docs; propose the extra debuff and the home advantage.",
+   "activeForm": "Changing Encroaching Winter and CHILLED",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "161",
+   "subject": "Palatine units -5 RP; Domus Caesaris allows 2 EPIC per type",
+   "description": "Palatine Custos, Custos (Mounted), Artillerists, Protospatharius each -5 RP. New add-on rule kind raising a tier's per-type copy limit, used by Domus Caesaris for EPIC = 2, enforced wherever the tier limit is checked. Rework Palatine Guard preset.",
+   "activeForm": "Repricing Palatines and raising Domus Caesaris's EPIC limit",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "162",
+   "subject": "CHILLED -1 BS; Novgorod INFANTRY +1 OC per model in its own blizzard; test balance",
+   "description": "CHILLED gains -1 BS. Encroaching Winter gains an effect: Novgorod INFANTRY standing in their own army's blizzard get +1 OC per model (in_zone gains an own option). Tests, docs, then a batch of Rurik's Army battles to see the balance.",
+   "activeForm": "Adding CHILLED -1 BS and the blizzard's +1 OC",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "163",
+   "subject": "Khaganate: new Fall Back identity replaces Fire in the Blood; ASSAULT on mounted guns",
+   "description": "DONE (06ca2938): ASSAULT on mounted ranged weapons; fall_back_keeps_apt op; fell_back_from marks; attackerFellBackFromDefender predicate; AI prices the kept shot. WAITING ON USER: identity name, replacements for First Blood / Universal Ruler / Chant of the Kindling / Borte Chino Pedigree, OK to delete Hunger-only engine code. Then: swap identity, retarget golden_khaganate_hunger + ai/192 + combat_effect 'held' lookup tests, faction text, Tamga-Bound role line, batches.",
+   "activeForm": "Building the Khaganate Fall Back identity",
+   "status": "in_progress",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "164",
+   "subject": "Bogatyr Thunderguards: why top of the Shooting League but weak in battles",
+   "description": "Compare the Shooting League setup with battle behaviour: activity record, damage, deaths, positions.",
+   "activeForm": "Investigating the Bogatyr Thunderguards",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "165",
+   "subject": "Preset names: cooler options for 27 presets (and First Blood's new name)",
+   "description": "Three naming agents (Covenant+Imperium; Infernal+Beast+Atashid; nine factions + Stormlord ability). Present options; write names only after the user picks.",
+   "activeForm": "Gathering preset name options",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "166",
+   "subject": "Data: Miserere Column, Akathist Convent, Bogatyr HP 4, Universal Ruler +1 DMG, MOUNTED Khaganate +1 INI",
+   "description": "Typo fixes in the two Covenant presets; Bogatyr models HP 3->4; Universal Ruler adds weapon.dmg +1; every MOUNTED Khaganate unit +1 INI.",
+   "activeForm": "Editing data",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "167",
+   "subject": "AI: Bogatyrs hold and shoot; EXPENDABLE units take Objective Area fights; EXPENDABLE stray-shot discount",
+   "description": "Generic move-fire penalty counting stand-still rules (Svyatogor's Weight); EXPENDABLE engage in Objective Areas while gunline holds; stray shots into EXPENDABLE friends cost less. Tests per new code path.",
+   "activeForm": "Working on the AI changes",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "168",
+   "subject": "Build, suite, commit, push; re-run Novgorod and Khaganate batches and report",
+   "description": "Full build, suite and audits; explicit-file commit; push; batches s2-rurik-vs-* and Khaganate; report numbers.",
+   "activeForm": "Verifying and testing in battle",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "169",
+   "subject": "AI: a gun team on fire support positions by its damage (the artillery term)",
+   "description": "Bogatyrs on fire support were idle 43 rounds with nothing in reach: the ARTILLERY positioning term is gated on the Artillery role. Give it to any unit on the FIRE_SUPPORT missive; test; build; re-run the Novgorod batches.",
+   "activeForm": "Giving fire-support gun teams the artillery positioning term",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "170",
+   "subject": "Bogatyr MOVE 3; revert gun-team fire support",
+   "description": "Data: both Bogatyr models MOVE 2->3. Revert ai/missives/gun_team_support.js, its assignment hook, the FIRE_SUPPORT positioning generalisation (a9745746), test 204 and doc lines. Keep HP 4, friendly-fire discount, INI, Universal Ruler.",
+   "activeForm": "Raising Bogatyr MOVE and reverting gun-team fire support",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "171",
+   "subject": "Analyse Spot & Mark: is the marked unit shot at?",
+   "description": "From recorded battles: each Spot & Mark use, its target, the intel change, and the attacks on that target by the marking side that round (and the MARKED +1 HIT's value).",
+   "activeForm": "Analysing Spot & Mark",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "172",
+   "subject": "Battle reports: Winter Host vs Legio XIII; Golden Tumen vs Murderhost of Halfa",
+   "description": "6-game batch each on the new build, replay the closest battle with images, digest, commentary.json, build.cjs, publish both as Artifacts.",
+   "activeForm": "Producing the two battle reports",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "173",
+   "subject": "Spot & Mark: explain zero-gain MARKED shots and SPOTTED-only uses; price raise_intel by the attacks it changes",
+   "description": "Read raise_intel op, intel decay, MARKED bonus and the effects record; then AI: price raise_intel like target marks (ai/target_mark_value.js) with a one-reading intel raise; test.",
+   "activeForm": "Investigating and fixing Spot & Mark",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "174",
+   "subject": "Data: Murderhost -1 Hounds +Cultist Zealots; Storm Bore Rifle DMG 2; Universal Ruler +1 AR/FR on all weapons",
+   "description": "hegemon_army preset; gk_storm_bore_rifle dmg 2; universal_ruler combat_effect domain both with dice +1, desc update.",
+   "activeForm": "Editing Murderhost, Storm Bore Rifle and Universal Ruler",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "175",
+   "subject": "Universal Ruler: ranged estimate misses target-conditional modifyDicePool/modifyWeapon effects",
+   "description": "expected_casualties _ecRangedCasualties trusts getWeaponOpts to apply the weapon's dice-pool and weapon effects, but a group's resolved weapon (resolved without a target) skips them. Fire the hooks on the estimate ctx as the resolver does, test, build, suite, commit, push.",
+   "activeForm": "Fixing the ranged estimate for target-conditional effects",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "176",
+   "subject": "AI: price mod_weapon_stat buffs by the attacks they change (Chant of the Kindling)",
+   "description": "AI_BUFF_OPS and aiEffectAttackDomain miss mod_weapon_stat, so Chant of the Kindling and other weapon-stat buffs fall back to proximity pricing and get cast on units with no attack left (11/11 Chants bought nothing). Add it, extend test 183, build, suite, commit, push.",
+   "activeForm": "Pricing weapon-stat buffs by the attacks they change",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "177",
+   "subject": "Battle record: round marks a use puts on its own units (Universal Ruler)",
+   "description": "page_effects_levers.js mark kind: also friendly units other than the user; touches that unit's attacks. Tool test added.",
+   "activeForm": "Tracking own-side round marks in the battle record",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "178",
+   "subject": "AI support timing: price attack buffs by the attacks they improve; support before strike",
+   "description": "1) An attack buff on a friend is worth the increase of that friend's best attack this round (buff read on, then off), like a mark. 2) The Action Phase chooser takes a support (attack buff on a friend, mark on an enemy) that is its user's best action before the attacks it improves. Tests, build, suite, batch, commit, push.",
+   "activeForm": "Improving AI support timing",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "179",
+   "subject": "AI: price defensive buffs by the damage they stop this round",
+   "description": "A save / DEF / Ward / save reroll / incoming HIT penalty buff on a friend is worth the drop in the enemy's best attacks this round (read with the buff on the friend, records put back), for abilities, rites and commands; incoming mod_hit_roll is no attack buff. Tests, build, suite, batch, commit, push.",
+   "activeForm": "Pricing defensive buffs by the damage they stop",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "180",
+   "subject": "Merge main into the branch, PR, merge to main",
+   "description": "Resolve conflicts (regenerated docs, test 443 fingerprint), build, suite, push, open a PR for the follow-up work, merge it.",
+   "activeForm": "Merging the branch to main",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "181",
+   "subject": "Presets for the seven leftover factions (no Drakonic); names pending the user's pick",
+   "description": "Hayk, Euskal Herria, Kalevan Kansa, Great Cossack Host, Great Tang, Mat Akkadi, Commonwealth: legal 239-249 RP, one smoke battle each; present name options with sources; write names after the user picks.",
+   "activeForm": "Building presets for the leftover factions",
+   "status": "pending",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "182",
+   "subject": "Apply decisions: join rules for 8 CHARACTERs, attachments, Mihran Spah, Cappadocian Riders",
+   "description": "Add join_restriction to Kharakternyk (MOUNTED), War-Taoist, Master of Coin, Stygian Actuary, Ashen Chirurgeon, Algedonic Taskmaster, Queen Consort, Winter Witch (INFANTRY); wire the 9 requested attachments; Mihran Spah gets a 2nd Javidan; Cappadocian Riders drop 1 Akritic. Odin stays as is. Check, build, commit, push.",
+   "activeForm": "Applying preset decisions",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "183",
+   "subject": "Recorders for the questions: transport drop-offs, terrain alteration, formation uptime",
+   "description": "Check the battle-report record covers: Somniferous Engine transport (where it goes, where cargo gets off vs where it wants to be), Walls of Uruk terrain-altering units, Longwu formations (how often units are in formation and what it changes). Add a recorder only where the existing record is blind.",
+   "activeForm": "Checking what the battle record captures",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "184",
+   "subject": "Five matchups: batches, then live coverage of each",
+   "description": "Procession vs Vigil of Masis; Walls of Uruk vs Sampo's Song; Longwu vs Oath of Krakow; Bailiffs vs Blaze of Etna; Lightbearers vs Protectores Divini Lateris. 6-battle batch each, then the closest battle live with round-by-round commentary, then the full report with analysis answering the user's questions.",
+   "activeForm": "Running the five matchups",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "185",
+   "subject": "Floodgate Sappers: Hiritu Ditch replaces Open the Sluice; ring frees the first trench",
+   "description": "New ability hiritu_ditch (place_structure trench on an adjacent unoccupied square outside enemy ZoC; text does not explain the trench). Remove open_the_sluice (ability file, unit ref, test 030). Sluice-Key Ring: grant_quick_use on hiritu_ditch. AI: price placed works (a trench) by the shelter it gives units that could stand in it (aiPlacedStructureWorth gave empty works 0). Test for the AI pricing. Flavor via fantasy-lore-writing. Build, suite, commit.",
+   "activeForm": "Reworking the Floodgate Sappers",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "186",
+   "subject": "Palatine vs horde (Akathist Convent): batch + live, baseline before AI change",
+   "description": "Baseline batch (Convent 5-1) and live battle published (https://claude.ai/artifact/JAbPRaX2iMV6nFLi95g4Zr). Rerun seeds 1600-1605 after #191.",
+   "activeForm": "Playing Palatine vs Convent batch",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "187",
+   "subject": "Data: Dawn King weapon buff; Somniferous Engine MACHINE + gas breath weapon",
+   "description": "Dawn King ranged weapon FR 4, DMG D3, AP 1, ABLAZE, SWEEP 2. Somniferous Engine gains MACHINE tag and a ranged weapon R4 FR4 DMG1 AP0 POISON (name per naming guide).",
+   "activeForm": "Editing Dawn King and Somniferous Engine data",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "188",
+   "subject": "Hiritu Ditch: dig under an adjacent friend; not while engaged",
+   "description": "Target an unoccupied square OR one holding a friendly unit, adjacent; the user cannot use it while ENGAGED. Engine support for placing works under a unit (occupant gets the works) if missing; AI pricing via aiSquareChangeGain (own square).",
+   "activeForm": "Reworking Hiritu Ditch targeting",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "189",
+   "subject": "AI: transport stays and screens after dropping its cargo",
+   "description": "After a transport's last passenger disembarks, its movement plan holds near the cargo / screens between cargo and enemies rather than wandering.",
+   "activeForm": "Writing transport screen AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "190",
+   "subject": "AI: price Desperate Worship, Hymns of the Anvil, Extermination Protocol (+ other noticed issues)",
+   "description": "Replace fixed rules/scores by pricing with the attack estimate: DW opt-in vs self damage; hymn choice by attacks changed; Extermination Protocol self-damage vs attacks it improves. Also other AI issues seen: Double Time/Scouting Order buying nothing, Twin Thrones switch negative, debuffs on targets that change nothing.",
+   "activeForm": "Pricing self-damage and hymn choices",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "191",
+   "subject": "AI: low-unit-count armies pick combat missions and concentrate on enough objectives",
+   "description": "User approved both: (1) concentrate on the objectives the army can win when it cannot cover all; (2) pick the Primary by the odds this army can score it (like secondaries) instead of the weighted random draw. Then rerun Palatine vs Convent seeds 1600-1605.",
+   "activeForm": "Designing elite-army objective focus",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "192",
+   "subject": "Scope: formation AI + 'x' squares allowing enemies",
+   "description": "Write the scope doc for an AI formation term and the rule change (enemy units may stand in a pattern's empty squares). Present options; wait for approval before implementing.",
+   "activeForm": "Scoping formation AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "193",
+   "subject": "AI: stop CP wastage (Double Time, Scouting Order bought nothing)",
+   "description": "Code done: +MOVE priced by the AI's own move choice; a bought +MOVE notes its plan and moves first (ai/command/bought_move.js); +PER counts only enemies no other friend's walk would see, from the chosen square. Test 166 extended. Measure in the Palatine rerun.",
+   "activeForm": "Fixing CP wastage",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "194",
+   "subject": "Recorder: price army-wide picks (Hymns, Mantle) - background agent",
+   "description": "Background agent in a worktree adds a 'pick' live-change kind to page_effects.js. Cherry-pick its commit when it reports.",
+   "activeForm": "Recorder gap for army picks",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "195",
+   "subject": "Formations: move the matcher into core/formation_matcher.js (no behaviour change)",
+   "description": "Cut _occupancy/_cell/_match/_candidateSort out of formations.js (503 lines) by line range into their own file, closure helpers passed in; prove with the full suite.",
+   "activeForm": "Moving the formation matcher",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "196",
+   "subject": "Formations: both units of a joined pair are members (bug)",
+   "description": "_occupancy keeps one unit per square, so a joined CHARACTER and its squad count as one o and only one becomes a member. Fix plus the test that fails without it.",
+   "activeForm": "Fixing joined-pair formation membership",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "197",
+   "subject": "Formations rule (a): enemies may stand in x squares, friends block",
+   "description": "formations.js x check friendly-only; rule text core_system.json + deep dive; rewrite test 091 occupied-gap case; evaluation key skips enemies.",
+   "activeForm": "Changing the x-square rule",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "198",
+   "subject": "Formation AI stage 1: keep a formation (withoutFormation, worth, keep/break term)",
+   "description": "Formations.withoutFormation; ai/movement/formation_worth.js; formation_term.js; W_FORMATION; term in destination.js + ai_path_finding.js; recorder page_formations.js uses withoutFormation; tests.",
+   "activeForm": "Building formation AI stage 1",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "199",
+   "subject": "Formation AI stages 2-3: built, pushed, measured; direction for tuning goes to the user",
+   "description": "Anchored probe Formations.matchesThrough on reachable squares; formation_plan.js on AI by player; measure uptime, gain, win rate, decision time.",
+   "activeForm": "Building formation AI stages 2-3",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "200",
+   "subject": "Primary pick: calibrate the estimator against recorded battles (kill rate 10x too high)",
+   "description": "aiPrimaryMissionWorth rates Palatine kills at 3 units/round vs ~0.3 observed; Debt of Blood est 15 vs 2.6 actual. Fit counters to the ~500 recorded Primaries; fix SUPPRESSED estimate.",
+   "activeForm": "Calibrating the Primary pick estimator",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "201",
+   "subject": "Split page_effects.js (913 lines) - background agent, review and cherry-pick",
+   "description": "User asked to do it here. Agent in a worktree; proves byte-identical effects output on seed 1600.",
+   "activeForm": "Splitting page_effects.js",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "202",
+   "subject": "Formations: five one-line shapes replace the diagrams (engine + data)",
+   "description": "Hold/Line(gap)/Pack/Block/Behind(2-col slack) as data-driven shape kinds; one formation per unit in mythological order (Yellow, Azure, Tiger, Tortoise, Vermilion); Surge = formation with most units; consumers (modifiers, FNP, in_formation effects, UI board, recorder) keep working.",
+   "activeForm": "Building the five formation shapes",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "203",
+   "subject": "Formation AI: grade each formation per unit, score squares by the side's change",
+   "description": "Per-decision value table (formation bonus priced as a buff per unit), destination term = side total with the unit on the square minus now, partial credit for pairs, floor before contact; drop the diagram planner.",
+   "activeForm": "Building the formation AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "204",
+   "subject": "Smaller squads + preset; review formation-support abilities",
+   "description": "Commandery Bannermen 5 models 8 RP; Terracotta Vanguard 3 models 15 RP; five_banner_army preset to ~12 units on board; check To Formation!, Array Lynchpin, Flowing File, Dragon Uncoils, Signal Discipline against the new rules; docs.",
+   "activeForm": "Resizing squads and the preset",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "205",
+   "subject": "Verify and measure: suite, browser, batches vs 3-4 opponents",
+   "description": "Build, unit tests, browser check of formation display, batches (Longwu vs Krakow + others) against the baseline: uptime, decision time, win rate.",
+   "activeForm": "Measuring the new formations",
+   "status": "in_progress",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "206",
+   "subject": "Morale on 1D6: engine, data remap, rerolls, campaign, AI, docs, tests",
+   "description": "User mapping: 3+,4+ -> 2+; 5+ -> 3+; 6+,7+ -> 4+; 8+ -> 5+. Convert the MORALE TEST to 1D6 (natural 1 fails), modifier cap +-1 (core), reroll-lowest -> reroll failed, reroll-highest -> reroll a pass, Bogurodzica +2 -> +1, campaign auto-resolve uses the one test, AI odds, docs; then cross-faction batches.",
+   "activeForm": "Converting morale to 1D6",
+   "status": "in_progress",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "207",
+   "subject": "Palatine Artillerists BS 3+; Palatine units -5 RP",
+   "description": "Nerf palatine_artillerists to BS 3+; reduce palatine_artillerists, palatine_custos, palatine_custos_mounted, palatine_protospatharius by 5 RP each.",
+   "activeForm": "Changing Palatine stats and costs",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "208",
+   "subject": "Rework Protectores Divini Lateris and Knights of Camelot presets",
+   "description": "Palatine preset: replace the Praetorians with more Palatine units. Knights of Camelot: more knight-focused.",
+   "activeForm": "Reworking two presets",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "209",
+   "subject": "Six new presets: compositions now, names for the user's pick",
+   "description": "Cliodhna (Albion); Caesar on foot (Iron Imperium); Praetorian-focused Officia Caesaris; BLF regular humans with few knights; mounted Saladin cavalry (Caliphate); Tysyatsky (Novgorod). Validate compositions, propose sourced names, write after pick.",
+   "activeForm": "Designing six new presets",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "210",
+   "subject": "Caesar MOVE 4; Custos (Mounted) 75 RP; six named presets",
+   "description": "Caesar on foot MOVE 3->4. Palatine Custos (Mounted) 85->75 RP. Write Glandore Breakers, Alea Iacta, Scorpion Shields, Caerfyrddin Fencibles, Horns of Hattin, Opoki Hundred with the agreed compositions.",
+   "activeForm": "Applying Caesar/Custos changes and writing six presets",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "211",
+   "subject": "Survey MOUNTED MOVE values and judge them",
+   "description": "List every MOUNTED unit's MOVE, compare with foot versions and other cavalry, say which MOVE 4 mounts are justified.",
+   "activeForm": "Surveying mounted MOVE",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "212",
+   "subject": "Coverage presets for Albion, Imperium, Caliphate",
+   "description": "One more preset each that fields every still-unused unit; validate; propose names; write after pick.",
+   "activeForm": "Designing coverage presets",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "213",
+   "subject": "Champion League S1: league tooling (pots, 8 matchdays, table, seeded knockout)",
+   "description": "48 armies, format A: 4 pots of 12, 8 league battles each (2 per pot, one as A one as B, no same faction, no rematch), 8 matchdays of 24; table 3/1/0, VP diff, VP; 9-24 Bo3 play-off; R16 with 1-8; QF, SF, Final Bo3. Every battle recorded with images into battle_reports/ for a full report. Tests in scripts/test_battle_report.cjs.",
+   "activeForm": "Building league tooling",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "214",
+   "subject": "Champion League S1 Day 1: draw, play 24 battles, full report each, day page, reflect",
+   "description": "Draw the league, update the Champion League page to the 48-army format, play matchday 1 (24 battles with images), build a full battle report for each (commentary + build.cjs), publish a Day 1 page with results, table and the 24 reports, then stop for reflection.",
+   "activeForm": "Running Champion League Day 1",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "215",
+   "subject": "Day 1 AI & identity audit (4 agents) + balance analysis",
+   "description": "Audit all 24 Day 1 reports for weird/wasteful AI behavior and identity/magic performance; balance analysis with cost/stat proposals (OC pricing, Golgothic Paladins, ranged vs melee).",
+   "activeForm": "Auditing Day 1 reports",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "216",
+   "subject": "Engine/rules fixes: scoring+missions, combat+abilities, report tools (3 worktrees)",
+   "description": "cl-d1-scoring: GARRISON DUTY, end-of-round timing, ASSASSINATION, duration N, pair counts once, STRATEGICAL DISRUPTION, 10 VP cap, Take Ground. cl-d1-combat: defect, AOE splash, friendly fire, Introit HQ, Custos Helios Pistol, Centaur/Rally Cry. cl-d1-report: Fall Back probes, pricing gains, Pietas, effect damage, friendly fire, names, granted moves.",
+   "activeForm": "Fixing engine, rules and report tools",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "217",
+   "subject": "AI fixes from Day 1 (after the audit)",
+   "description": "Last-round play, skittishness/Fall Backs, piling in (M02 left wing), Equites, objective walk-offs, Countercharge, Double Time/COMMAND AUTHORITY, Called To Account, casters/Mana, Miracles, Antiphon variety, Raise the Standard, Coblynau tunnelling, PRECISION targeting, Argyraspides Fall Back at 6+.",
+   "activeForm": "Fixing the AI",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "218",
+   "subject": "Integrate, full suite, shadow Day 1 measurement, push, report",
+   "description": "Merge the worktree branches, run the full suite, replay Day 1 on the new code to measure, push, report to the user with balance proposals before Day 2.",
+   "activeForm": "Integrating and measuring",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "219",
+   "subject": "Tithe of Torment: cap 10 Mana per Battle Round (data + docs)",
+   "description": "max_per_round 10, cap_key tithe_of_torment, text; deep-dive and authoring guide mentions; regenerate factions docs.",
+   "activeForm": "Capping Tithe of Torment",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "220",
+   "subject": "Jade Mandate: text says pay once per caster (user: pay once is fine)",
+   "description": "Change the Dragonvein Nodes text so overlapping nodes pay +2 once, matching the engine and melee_combat/092.",
+   "activeForm": "Aligning the Jade Mandate text",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "221",
+   "subject": "AOE and Friendly Fire: read the tag text, make friends in the blast take it, state it in the tag rule",
+   "description": "User: AOE should friendly fire; the tag's rule must say units vs enemy units clearly. Check engine behaviour after the combat merge (friendlyFireRollState).",
+   "activeForm": "Checking AOE friendly fire",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "222",
+   "subject": "Tournament map: evaluate CROSSROADS vs other maps for range/melee balance; recommend",
+   "description": "Terrain stats per skirmish map, past batch data by map (melee vs ranged damage share), Day 1 numbers; options and a recommendation for the user.",
+   "activeForm": "Evaluating tournament maps",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "223",
+   "subject": "Answer: REGENERATION 'while in a Formation' text (Qi-Reinforced Clay)",
+   "description": "Quote the rule text for the user.",
+   "activeForm": "Reading the REGENERATION text",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "224",
+   "subject": "Merge ccr-6962c382-ne55kb into main (PR, merge after suite + CI)",
+   "description": "Main merged in (fd97fe3f), core-rule.html regenerated; full suite running; then push, PR, check CI, merge.",
+   "activeForm": "Merging the branch into main",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "225",
+   "subject": "Fix D1-M09 stall: AI attack-before-move order throws mid-move (agent)",
+   "description": "Sidhe Wardens 1 move with attackFirst Silverhead Spear (Thrown) throws 'no ranged weapon can attack that target' in resolveAttackBeforeMove; AI turn hangs. Agent cl-m09-stall. Blocks the PR #90 merge.",
+   "activeForm": "Fixing the D1-M09 stall",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "226",
+   "subject": "Balance data + preset fixes (agent cl-balance)",
+   "description": "EPIC HERO -10 RP; OC 2/model elites + Custos RP; guns cheaper; Celeritas officia_caesaris; casters/OC squads in presets; refit presets to 250.",
+   "activeForm": "Applying balance data and preset fixes",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "227",
+   "subject": "Atavistic Rage: OC penalty dropped (user's call)",
+   "description": "Needs a stat-halving modifier (none exists). Confirm rounding with the user (propose round up).",
+   "activeForm": "Designing half OC for Atavistic Rage",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "228",
+   "subject": "Legionnaire Squad: BS 3+ (user's call)",
+   "description": "User: buff to fit the cost; Legionnaire is the anchor for 5-model squads. Present options.",
+   "activeForm": "Preparing Legionnaire buff options",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "229",
+   "subject": "Replay all of Day 1 (same draw and seeds) after AI fixes + roster changes",
+   "description": "User agreed: full Day 1 replay. Archive the old Day 1 pages. Needs: M09 stall fix, AI branches, balance/preset branch merged, league build rebuilt.",
+   "activeForm": "Preparing the Day 1 replay",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "230",
+   "subject": "Fix 9 tests broken by Legionnaire BS 3+ (agent cl-fixtures); then merge PR #90",
+   "description": "7 fixture tests assume Legionnaire BS 4+; 2 fingerprint tests need recapture. Runesmith +1 DEF zero gain checked for a real bug.",
+   "activeForm": "Fixing data-dependent tests",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "231",
+   "subject": "Estimate a multi-group attack jointly, not summed (user asked: do it here)",
+   "description": "expectedGroupsCasualtyDetail carries allocation state group to group. Test: split groups == merged group; old sum differs. Suite; recapture fingerprints if they move.",
+   "activeForm": "Estimating multi-group attacks jointly",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "232",
+   "subject": "Day 1 fixes: rules bugs, report tools, AI commands/objectives, AI combat (4 agents)",
+   "description": "Four worktree agents per the user's rulings 2026-10-29; integrate, suite, recapture fingerprints, measure on Day 1 replay before Day 2.",
+   "activeForm": "Running the four fix agents",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "233",
+   "subject": "Merge batch 2 (joint estimate, kill chance, AI) + Plague Monarch MAGIC_CASTER to main",
+   "description": "Commit the tag, local CI phases, PR, merge. Found: selfplay replay checksum fails on the branch - withModifiersAside projected from the reading's kept stats (unit.oc stale). Fixed + test 514; rebuilding to verify.",
+   "activeForm": "Merging batch 2 to main",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "234",
+   "subject": "Idle-analysis bugs: AI charge vs joined CHARACTER, push pre-empting charge, 0-APt FREE weapon gate; pair charge lock; idle recorder",
+   "description": "Two worktree agents (aibugs, rulesrec) from S/cl_fix_brief_round3.md. Merge, gate, push when they report. Valuation changes and rules questions wait on the user.",
+   "activeForm": "Fixing the idle-analysis bugs",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "235",
+   "subject": "Round 4 rulings: MS table, threshold caps ±1, Gatekeeper +1 save aura, advance not idle; AI advance pricing, horizon, formation pull, hold margin, survival 1/d²",
+   "description": "Three worktree agents (rules4, aiact, aiobj) from S/cl_fix_brief_round4.md. Merge, recapture fingerprints, gate, push; then a third Day 1 check run in S/cl-shadow3 and compare with agg.py.",
+   "activeForm": "Applying the round 4 rulings",
+   "status": "completed",
+   "blocks": [],
+   "blockedBy": []
+  },
+  {
+   "id": "236",
+   "subject": "AI: Reaction pricing, walk fixes, blunder fixes merged (gate green); 4th Day 1 check run; performance pass",
+   "description": "react agent: one charger-side Reaction estimate for every Charge (ordinary, ordered, granted), W_REACTION_AVOID. RCA agent: walked-then-idle (incl. target moved out of range), Secure Objective waste, timing breakdown. Then: fixes for obviously-stupid categories, then perf pass (AI time 58s -> 84s per battle). User standard: no single obviously stupid mistake; perfection not needed.",
+   "activeForm": "Pricing charge Reactions and analysing idle walks",
+   "status": "in_progress",
+   "blocks": [],
+   "blockedBy": []
+  }
+ ]
+}

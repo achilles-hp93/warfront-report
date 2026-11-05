@@ -1,0 +1,56 @@
+cl-s1-d1-d1-m08: 35 uses, 24 bought nothing
+  [Bailiffs of Petra] Double Time (command): 3 uses, 2 bought nothing; 7 CP 0 Mana; damage 0; enabled 0 (0); moves 1/1 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Margin Call (ability): 3 uses, 3 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Debt Called Due (ability): 3 uses, 3 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Troop Requisition (command): 2 uses, 0 bought nothing; 6 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Secure Objective (command): 1 uses, 1 bought nothing; 4 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Desperate Worship (ability): 1 uses, 0 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Called To Account (ability): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Gaze of the Abyss (spell): 1 uses, 1 bought nothing; 0 CP 2 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Bailiffs of Petra] Rally Cry (reaction): 1 uses, 0 bought nothing; 2 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 1
+  [Legio XIII] Double Time (command): 4 uses, 1 bought nothing; 8 CP 0 Mana; damage 0; enabled 0 (0); moves 3/4 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Tactica Martis (ability): 3 uses, 3 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Tactica Mercurii (ability): 3 uses, 3 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Sacrificium (spell): 2 uses, 2 bought nothing; 0 CP -5 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Tactica: Tactica Mercurii (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Auspex Scan (ability): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Shield Wall (ability): 1 uses, 0 bought nothing; 0 CP 0 Mana; damage 0.46; enabled 0 (0); moves 0/2 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Tactica: Tactica Martis (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Dies Irae (spell): 1 uses, 1 bought nothing; 0 CP 4 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Legio XIII] Rally Cry (reaction): 1 uses, 0 bought nothing; 2 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 1
+  [Legio XIII] Go to Ground (reaction): 1 uses, 0 bought nothing; 1 CP 0 Mana; damage 0.33; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+    report.json R1 COMMAND Tactica: Tactica Mercurii by - on -: nothing - made mercurii active; 14 attack(s) it touched: +0 expected HP for its side
+    report.json R1 COMMAND Tactica Martis by Legatus on -: nothing - no change
+    report.json R1 COMMAND Double Time by HQ on Legionnaire Squad 1: nothing - gave Legionnaire Squad 1: MOVE +2; Augur: MOVE +2; 1 move(s) with it, 0 out of reach without it
+    report.json R1 ACTION Auspex Scan by Speculatores on -: nothing - gave Speculatores: PER +2; 4 attack(s) it touched: +0 expected HP for its side
+    report.json R2 COMMAND Tactica Martis by Legatus on -: nothing - no change
+    report.json R2 COMMAND Double Time by HQ on Legionnaire Squad 1: paid off - gave Legionnaire Squad 1: MOVE +2; Augur: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R2 COMMAND Double Time by HQ on Master of Coin: nothing - gave Master of Coin: MOVE +2
+    report.json R2 COMMAND Secure Objective by HQ on Cultist Troopers 1: nothing - gave Cultist Troopers 1: OC +1
+    report.json R2 ACTION Margin Call by The Chairman of the Chamber on Legatus: nothing - no change
+    report.json R2 ACTION Shield Wall by Legionnaire Squad 2 on -: paid off - gave Legionnaire Squad 2: REROLL +1, MOVE -1; 3 attack(s) it touched: +0.46 expected HP for its side; 2 move(s) with it, 0 out of reach without it
+    report.json R2 ACTION Debt Called Due by Rapacious Crusader 1 on Augur: nothing - gave Augur: DEF -1
+    report.json R2 ACTION Sacrificium by Augur on -: nothing - no change
+    report.json R3 COMMAND Tactica Martis by Legatus on -: nothing - no change
+    report.json R3 COMMAND Troop Requisition by HQ on (7,2): paid off - placed Cultist Troopers; the unit it placed drew 1 enemy attack(s), 20 HP
+    report.json R3 COMMAND Double Time by HQ on Fulminator Squad: paid off - gave Fulminator Squad: MOVE +2; 1 move(s) with it, 1 out of reach without it
+    report.json R3 ACTION Debt Called Due by Rapacious Crusader 1 on Ironthunder Vanguard 2: nothing - gave Ironthunder Vanguard 2: DEF -1; 1 attack(s) it touched: +0 expected HP for its side
+    report.json R3 ACTION Margin Call by The Chairman of the Chamber on Ironthunder Vanguard 2: nothing - no change
+    report.json R3 ACTION Sacrificium by Augur on -: nothing - no change
+    report.json R4 COMMAND Tactica: Tactica Martis by - on -: nothing - made martis (was mercurii) active; 10 attack(s) it touched: +0 expected HP for its side
+    report.json R4 COMMAND Tactica Mercurii by Legatus on -: nothing - no change
+    report.json R4 COMMAND Double Time by HQ on Legionnaire Squad 2: paid off - gave Legionnaire Squad 2: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R4 COMMAND Double Time by HQ on Forsaken: nothing - gave Forsaken: MOVE +2
+    report.json R4 ACTION Dies Irae by Augur on Cultist Troopers 1: nothing - gave Cultist Troopers 1: SAVE -1; put EXPOSED on Cultist Troopers 1; 2 attack(s) it touched: +0 expected HP for its side
+    report.json R4 ACTION Desperate Worship by Augur on Augur: paid off - 1 attack(s) it touched that the estimate cannot price
+    report.json R5 COMMAND Tactica Mercurii by Legatus on -: nothing - no change
+    report.json R5 COMMAND Troop Requisition by HQ on (7,2): paid off - placed Cultist Troopers; the unit it placed drew 1 enemy attack(s), 6 HP
+    report.json R5 ACTION Called To Account by Master of Coin on Legatus: nothing - marked Legatus (marked for reroll hit), Ironthunder Vanguard 1 (marked for reroll hit)
+    report.json R5 ACTION Margin Call by The Chairman of the Chamber on Legatus: nothing - no change
+    report.json R5 ACTION Debt Called Due by Rapacious Crusader 2 on Ironthunder Vanguard 2: nothing - gave Ironthunder Vanguard 2: DEF -1
+    report.json R5 ACTION Gaze of the Abyss by Stygian Actuary on Ironthunder Vanguard 2: nothing - gave Ironthunder Vanguard 2: MS -1, BS -1
+    report.json R6 COMMAND Tactica Mercurii by Legatus on -: nothing - no change
+    report.json R6 COMMAND Double Time by HQ on The Chairman of the Chamber: paid off - gave The Chairman of the Chamber: MOVE +2; 1 move(s) with it, 1 out of reach without it
+    report.json R6 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R6 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R6 ACTION Go to Ground by Augur on Augur: paid off - 1 attack(s) it touched: +0.33 expected HP for its side

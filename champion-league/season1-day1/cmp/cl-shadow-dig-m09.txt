@@ -1,0 +1,1007 @@
+Knights of Camelot (A, british_liberation_front) vs Cosán Sí Host (B, grand_duchy_of_albion) on CROSSROADS, seed 460703109
+Result: A:Knights of Camelot wins (VP) in round 6, VP 31 / 25
+Initiative: A:Knights of Camelot; formation order [1,0]
+Army A:Knights of Camelot (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Merlin - Wizard of Avalon - 60 RP, 1 models, 8 HP, leads Knight-Excisors, Marshal
+  Knight-Banneret - 33 RP, 1 models, 8 HP, leads Knight-Ascendants
+  Knight-Ascendants - 48 RP, 3 models, 12 HP, led by Knight-Banneret
+  Knight-Excisors - 49 RP, 3 models, 12 HP, led by Merlin - Wizard of Avalon
+  Knight-Scourgers - 45 RP, 3 models, 12 HP
+  Parish Militia - 13 RP, 10 models, 20 HP
+Army B:Cosán Sí Host (246 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Waymarshal - 50 RP, 1 models, 6 HP, leads Sidhe Wardens 1, Marshal
+  Sidhe Wardens 1 - 17 RP, 5 models, 5 HP, led by Waymarshal
+  Sidhe Druid - 18 RP, 1 models, 3 HP, leads Sidhe Wardens 2
+  Sidhe Wardens 2 - 17 RP, 5 models, 5 HP, led by Sidhe Druid
+  Blackflint Archers - 30 RP, 5 models, 5 HP
+  Barghest - 30 RP, 1 models, 7 HP
+  Coblynau Sappers 1 - 12 RP, 3 models, 6 HP
+  Coblynau Sappers 2 - 12 RP, 3 models, 6 HP
+  Rootwall Dryads 1 - 30 RP, 3 models, 18 HP
+  Rootwall Dryads 2 - 30 RP, 3 models, 18 HP
+Primary A:Knights of Camelot: GARRISON DUTY - At the end of each Battle Round, score 1 VP for each friendly unit in an Objective Area that neither moved nor attacked during that Battle Round, up to 3 VP.
+  hand: SILENT MANEUVER (does not fit), RAISE THE STANDARD, GARRISON DUTY; picked garrison_duty
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 0 (count 0), R5 1 (count 1), R6 0 (count null); total 1
+Primary B:Cosán Sí Host: IMPENETRABLE FORTRESS - From the second Battle Round, at the end of each Battle Round, score 1 VP for every 2 friendly units outside your deployment zone that are neither Below Half-Strength nor SUPPRESSED, up to 3 VP.
+  hand: IMPENETRABLE FORTRESS, WIDE SWEEP, RECONNAISSANCE OPERATION (does not fit); picked impenetrable_fortress
+  scored per round: R1 0 (count 8), R2 3 (count 8), R3 3 (count 6), R4 2 (count 5), R5 2 (count 5), R6 0 (count null); total 10
+
+=== BATTLE ROUND 1 ===
+A:Knights of Camelot: VP +8 (obj 5, primary 0, missions 3) = 8; CP +3 -2 holds 1 [2 Double Time → Knight-Excisors]
+  gatescroll: +1 -1 holds 3 [1 GATESCROLLS OF AVALON]
+  mana: +5 -0 holds 5
+B:Cosán Sí Host: VP +0 (obj 0, primary 0, missions 0) = 0; CP +2 -1 holds 1 [1 Go to ground (reaction) for Blackflint Archers]
+A:Knights of Camelot keeps mission DEEP REACH (offered VIGILANT WATCH / DEEP REACH)
+B:Cosán Sí Host keeps mission TERRITORIAL SUPERIORITY (offered COMMAND AUTHORITY / TERRITORIAL SUPERIORITY)
+A:Knights of Camelot mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Knight-Excisors + Merlin - Wizard of Avalon 5,12 -> 6,8
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 1 11,2 -> 9,3 (advance)
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 3,12 -> 2,8 (advance)
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 2 4,2 -> 2,5 (advance)
+  [MOVEMENT] A:Knights of Camelot Knight-Scourgers 4,12 -> 4,9
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 3,1 -> 3,4 (advance)
+  [MOVEMENT] A:Knights of Camelot Parish Militia 9,12 -> 8,8 (advance)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 5,1 -> 5,4 (advance)
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 1 + Waymarshal 7,2 -> 9,6 (advance)
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 2 + Sidhe Druid 9,2 -> 7,6 (advance)
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 5,2 -> 6,6
+  [MOVEMENT] B:Cosán Sí Host Barghest 9,1 -> 5,3 (advance)
+Combat:
+  [ACTION] ranged: A:Knights of Camelot Knight-Excisors -> Blackflint Archers: no damage
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Parish Militia: Parish Militia -9
+  [ACTION] ranged: A:Knights of Camelot Merlin - Wizard of Avalon -> Blackflint Archers: Blackflint Archers -2
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Waymarshal (no legal action), B:Sidhe Wardens 1 (no legal action), B:Barghest (no legal action), B:Coblynau Sappers 1 (no legal action), B:Coblynau Sappers 2 (no legal action), B:Rootwall Dryads 1 (no legal action), B:Rootwall Dryads 2 (no legal action)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Stone: nothing - made stone active; 3 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Double Time on Knight-Excisors: paid off - gave Merlin - Wizard of Avalon: MOVE +2; Knight-Excisors: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [MOVEMENT] A:Knights of Camelot GATESCROLLS OF AVALON on Knight-Scourgers: nothing - sent Knight-Scourgers into TRANSITIONAL STATE; emerged Knight-Scourgers at (6,12) in R2
+  [ACTION] B:Cosán Sí Host Go to Ground on Blackflint Archers: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 2 times (add_resource)
+  Fading Step (Blackflint Archers): fired 1 time (grant_move)
+  EVASION (Blackflint Archers, 5+): 0 of 2 hits turned away
+Scored by:
+  A:Knights of Camelot objectives (7,7) 3 VP: Merlin - Wizard of Avalon 1.0, Knight-Excisors 1.0, Parish Militia 1.0; hinged on Merlin - Wizard of Avalon, Knight-Excisors, Parish Militia
+  A:Knights of Camelot objectives (1,7) 2 VP: Knight-Banneret 1.0, Knight-Ascendants 1.0
+  A:Knights of Camelot missions DEEP REACH 3 VP: HQ 2.0, Knight-Banneret 0.4, Knight-Ascendants 0.4, Merlin - Wizard of Avalon 0.1, Knight-Excisors 0.1, Parish Militia 0.1
+Log:
+  [] Map selected: CROSSROADS (Central Faceoff)
+  [] [AI] Formation selected: ⚔ Cosán Sí Host · Doctrine: None (10 units)
+  [] [AI] Formation selected: ⚔ Knights of Camelot · Doctrine: None (6 units)
+  [] Merlin - Wizard of Avalon leads Knight-Excisors as its bodyguard
+  [] Knight-Banneret leads Knight-Ascendants as its bodyguard
+  [] Waymarshal leads Sidhe Wardens 1 as its bodyguard
+  [] Sidhe Druid leads Sidhe Wardens 2 as its bodyguard
+  [] Player A: HQ auto-deployed at (7,13)
+  [] Player B: HQ auto-deployed at (7,1)
+  [] Seize The Ground: 3 objectives placed
+  [] [AI] Knight-Ascendants deployed at (3,12)
+  [] [AI] Coblynau Sappers 1 deployed at (11,2)
+  [] [AI] Knight-Excisors deployed at (5,12)
+  [] [AI] Coblynau Sappers 2 deployed at (4,2)
+  [] [AI] Knight-Scourgers deployed at (4,12)
+  [] [AI] Barghest deployed at (9,1)
+  [] [AI] Parish Militia deployed at (9,12)
+  [] [AI] Rootwall Dryads 1 deployed at (3,1)
+  [] [AI] Rootwall Dryads 2 deployed at (5,1)
+  [] [AI] Sidhe Wardens 1 deployed at (7,2)
+  [] [AI] Sidhe Wardens 2 deployed at (9,2)
+  [] [AI] Blackflint Archers deployed at (5,2)
+  [COMMAND] GATESCROLL: Player A +1 (4 total) - Archimagus Supremus
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] ◈ BATTLE BEGINS - MAP: CROSSROADS
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] Player A formation (7 units): HQ, Merlin - Wizard of Avalon, Knight-Banneret, Knight-Ascendants, Knight-Excisors, Knight-Scourgers, Parish Militia
+  [COMMAND] Player B formation (11 units): HQ, Waymarshal, Sidhe Wardens 1, Sidhe Druid, Sidhe Wardens 2, Blackflint Archers, Barghest, Coblynau Sappers 1, Coblynau Sappers 2, Rootwall Dryads 1, Rootwall Dryads 2
+  [COMMAND] PRIORITY: Player A (fewer units on the battlefield, 5 to 9)
+  [COMMAND] ⚔ BATTLE ROUND 1 - BEGIN
+  [COMMAND] COMMAND PHASE
+  [COMMAND] [AI] Initialised - AI vs AI mode (both players)
+  [COMMAND] FLOW OF MAGIC: Player B rolls 5 - Stone. Friendly SIDHE units in ROCKY terrain or at elevation 1+ gain +1 BS.
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] Mana: Player A +1 (1 total) - Archimagus Supremus
+  [COMMAND] COMMAND PHASE - Round 1 - A:3 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:3 B:2
+  [COMMAND] Player A keeps a Primary Mission
+  [COMMAND] Player B keeps a Primary Mission
+  [COMMAND] Primary Missions revealed: Player A GARRISON DUTY, Player B IMPENETRABLE FORTRESS
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] HQ Command: Double Time -> Knight-Excisors (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Knight-Excisors gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Knight-Excisors moved to (6,8)
+  [MOVEMENT] [Coblynau Sappers 1] Advance: Movement Dice 3, 1, 2 add 0, 3 Movement Points
+  [MOVEMENT] Coblynau Sappers 1 Advances: +0 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Coblynau Sappers 1 moved to (9,3)
+  [MOVEMENT] [Knight-Ascendants] Advance: Movement Dice 5, 5, 1 add 2, 5 Movement Points
+  [MOVEMENT] Knight-Ascendants Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Knight-Ascendants moved to (2,8)
+  [MOVEMENT] [Coblynau Sappers 2] Advance: Movement Dice 1, 5, 3 add 1, 4 Movement Points
+  [MOVEMENT] Coblynau Sappers 2 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Coblynau Sappers 2 moved to (2,5)
+  [MOVEMENT] Knight-Scourgers moved to (4,9)
+  [MOVEMENT] [Rootwall Dryads 1] Advance: Movement Dice 4, 3, 1 add 1, 3 Movement Points
+  [MOVEMENT] Rootwall Dryads 1 Advances: +1 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Rootwall Dryads 1 moved to (3,4)
+  [MOVEMENT] [Parish Militia] Advance: Movement Dice 1, 2, 6 add 1, 4 Movement Points
+  [MOVEMENT] Parish Militia Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Parish Militia moved to (8,8)
+  [MOVEMENT] [Rootwall Dryads 2] Advance: Movement Dice 6, 1, 3 add 1, 3 Movement Points
+  [MOVEMENT] Rootwall Dryads 2 Advances: +1 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Rootwall Dryads 2 moved to (5,4)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [Sidhe Wardens 1] Advance: Movement Dice 5, 4, 3 add 2, 6 Movement Points
+  [MOVEMENT] Sidhe Wardens 1 Advances: +2 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Sidhe Wardens 1 moved to (9,6)
+  [MOVEMENT] [Sidhe Wardens 2] Advance: Movement Dice 1, 4, 4 add 2, 6 Movement Points
+  [MOVEMENT] Sidhe Wardens 2 Advances: +2 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Sidhe Wardens 2 moved to (7,6)
+  [MOVEMENT] Blackflint Archers moved to (6,6)
+  [MOVEMENT] [Barghest] Advance: Movement Dice 2, 3, 1 add 0, 5 Movement Points
+  [MOVEMENT] Barghest Advances: +0 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Barghest moved to (5,3)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [MOVEMENT] GATESCROLL: Player A -1 (3 total) - GATESCROLLS OF AVALON
+  [MOVEMENT] GATESCROLLS OF AVALON: Knight-Scourgers left the battlefield for TRANSITIONAL STATE
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Blackflint Archers
+  [ACTION] Knight-Excisors opens fire with 1 combat group
+  [ACTION] 3x Four-Bore Rifle (Knight-Excisors) HIT vs Blackflint Archers (FR 3): [1✗][2✗][2✗] → 0/3 hits (needs 3+) [HIT mod: -1 HEAVY(moved), -1 GO TO GROUND]
+  [ACTION] Blackflint Archers opens fire with 2 combat groups
+  [ACTION] 4x Green Stave Longbow (Blackflint Archer) HIT vs Parish Militia (FR 8): [3✓][6✓][4✓][4✓][3✓][4✓][6✓][1✗] → 7/8 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (7 dice): [0✗][0✗][4✗][2✗][4✗][4✗][5✗] → 0/7 saved (5 (+2 from AP) = 7+)
+  [ACTION]   Parish Militia takes 7 damage (20 → 13)
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION] 1x Green Stave Longbow (Knapper) HIT vs Parish Militia (FR 2): [5✓][5✓] → 2/2 hits (needs 2+)
+  [ACTION]   Parish Militia SAVE (2 dice): [0✗][0✗] → 0/2 saved (5 (+2 from AP) = 7+)
+  [ACTION]   Parish Militia takes 2 damage (13 → 11)
+  [ACTION]   Parish Militia destroyed
+  [ACTION] Merlin - Wizard of Avalon opens fire with 1 combat group
+  [ACTION] 1x Staff of Avalon (Merlin - Wizard of Avalon) HIT vs Blackflint Archers (FR 3): [4✓][2✗][3✓] → 2/3 hits (needs 3+)
+  [ACTION]   Blackflint Archers WARD (2 dice): [5✗][5✗] → 0/2 saved (needs 6+)
+  [ACTION]   Blackflint Archers takes 2 damage (5 → 3)
+  [ACTION]   Blackflint Archer destroyed
+  [ACTION]   Blackflint Archer destroyed
+  [ACTION] Blackflint Archers FADING STEP: stays
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player A +4 (5 total) - House of Glass
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 16 vs 14)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 14 vs 0)
+  [CLEANUP] VP - Player A: 5 | Player B: 0
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+
+=== BATTLE ROUND 2 ===
+A:Knights of Camelot: VP +2 (obj 2, primary 0, missions 0) = 10; CP +3 -1 holds 3 [1 Go to ground (reaction) for Knight-Scourgers]
+  mana: +1 -0 holds 6
+B:Cosán Sí Host: VP +6 (obj 3, primary 3, missions 0) = 6; CP +2 -3 holds 0 [3 Secure Objective → Sidhe Wardens 2]
+A:Knights of Camelot keeps mission BREAK CONTACT (offered FORWARD DEPLOYMENT / BREAK CONTACT)
+B:Cosán Sí Host keeps mission PROBING STRIKE (offered LAST STAND / PROBING STRIKE)
+Moves:
+  [MOVEMENT] A:Knights of Camelot Knight-Scourgers 6,12 -> 6,9
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 1 9,3 -> 11,5
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 2,8 -> 2,6 (charge)
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 2 2,5 -> 1,3
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 5,4 -> 5,6
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 3,4 -> 1,4
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 1 + Waymarshal 9,6 -> 8,6
+  [MOVEMENT] B:Cosán Sí Host Barghest 5,3 -> 4,7
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 6,6 -> 3,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Cosán Sí Host Waymarshal -> Knight-Scourgers: no damage
+  [MOVEMENT] ranged (Overwatch): B:Cosán Sí Host Sidhe Wardens 1 -> Knight-Scourgers: no damage
+  [MOVEMENT] ranged (Overwatch): B:Cosán Sí Host Sidhe Wardens 2 -> Knight-Scourgers: Knight-Scourgers -1
+  [MOVEMENT] ranged (Overwatch): B:Cosán Sí Host Waymarshal -> Merlin - Wizard of Avalon: Merlin - Wizard of Avalon -3
+  [MOVEMENT] ranged (Overwatch): A:Knights of Camelot Parish Militia -> Sidhe Wardens 1: no damage
+  [ACTION] ranged: A:Knights of Camelot Knight-Excisors -> Sidhe Wardens 2: Sidhe Druid -3 DESTROYED
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 1 -> Merlin - Wizard of Avalon: no damage
+  [ACTION] ranged: A:Knights of Camelot Merlin - Wizard of Avalon -> Sidhe Wardens 2: no damage
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 2 -> Merlin - Wizard of Avalon: Knight-Excisors -2
+  [ACTION] ranged: A:Knights of Camelot Parish Militia -> Sidhe Wardens 2: no damage
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Knight-Ascendants: Knight-Ascendants -4
+  [ACTION] ranged: A:Knights of Camelot Knight-Banneret -> Barghest: no damage
+  [ACTION] ranged: B:Cosán Sí Host Waymarshal -> Merlin - Wizard of Avalon: Merlin - Wizard of Avalon -3
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Barghest (no legal action), B:Coblynau Sappers 1 (best: ability Tunnel Burrow, 0.3), B:Rootwall Dryads 1 (no legal action), B:Rootwall Dryads 2 (no legal action)
+Moves undone:
+  B:Cosán Sí Host Coblynau Sappers 1: R1 MOVEMENT 11,2 -> 9,3, R2 MOVEMENT -> 11,5 (toward the objective at 1,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Water: nothing - made water active; 22 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Cosán Sí Host Secure Objective on Sidhe Wardens 2: nothing - gave Sidhe Druid: OC +1; Sidhe Wardens 2: OC +1; 5 attack(s) it touched: +0 expected HP for its side
+  [MOVEMENT] A:Knights of Camelot Go to Ground on Knight-Scourgers: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Knights of Camelot Four-Bore Verdict on Sidhe Wardens 2: paid off - 1 attack(s) it touched: +1.66 expected HP for its side
+Passive rules:
+  Cambion Prophetic Sight (Merlin - Wizard of Avalon): 4 attacks, 5.04 expected HP for its side
+  Supernatural Reflex (Knight-Ascendants): 1 attack, 0.59 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.28 expected HP for its side
+  Spectral Stalk (Barghest): 1 attack, 0.75 expected HP for its side
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 1 time (add_resource)
+  Fading Step (Sidhe Wardens 2): fired 2 times (grant_move)
+  EVASION (Merlin - Wizard of Avalon, 5+): 7 of 18 hits turned away
+  EVASION (Sidhe Wardens 2, 5+): 3 of 4 hits turned away
+  EVASION (Knight-Ascendants, 6+): 0 of 5 hits turned away
+  EVASION (Barghest, 4+): 1 of 1 hits turned away
+Scored by:
+  B:Cosán Sí Host objectives (7,7) 3 VP: Sidhe Wardens 2 2.0, Waymarshal 0.5, Sidhe Wardens 1 0.5; hinged on Sidhe Wardens 2
+  A:Knights of Camelot objectives (1,7) 2 VP: Knight-Banneret 1.0, Knight-Ascendants 1.0
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 3 VP: Sidhe Wardens 2 0.4, Blackflint Archers 0.4, Barghest 0.4, Coblynau Sappers 1 0.4, Coblynau Sappers 2 0.4, Rootwall Dryads 1 0.4, Rootwall Dryads 2 0.4, Waymarshal 0.2, Sidhe Wardens 1 0.2
+Log:
+  [CLEANUP] ═══ ROUND 2 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 4 to 9)
+  [CLEANUP] BATTLE ROUND 2 - BEGIN
+  [COMMAND] FLOW OF MAGIC: Player B rolls 2 - Water. Friendly SIDHE units ignore WATER and MARSH movement penalties.
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] Mana: Player A +1 (6 total) - Archimagus Supremus
+  [COMMAND] COMMAND PHASE - Round 2 - A:4 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:4 B:3
+  [COMMAND] Player A picks mission: BREAK CONTACT
+  [COMMAND] Player B picks mission: PROBING STRIKE
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Secure Objective -> Sidhe Wardens 2 (cost 3 CP) by Player B
+  [COMMAND] SECURE OBJECTIVE: each model in Sidhe Wardens 2 gains +1 OC this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Knight-Scourgers EMERGED from TRANSITIONAL STATE at (6,12)
+  [MOVEMENT] Knight-Scourgers moved to (6,9)
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Knight-Scourgers
+  [MOVEMENT] 1x Silverhead Spear (Thrown) (Waymarshal) HIT vs Knight-Scourgers roll: 4 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Waymarshal] Overwatch Reaction vs Knight-Scourgers: no damage
+  [MOVEMENT] 4x Sidhe Longbow (Warden) HIT vs Knight-Scourgers (FR 8): [3✗][2✗][6✓][6✓][3✗][5✗][1✗][4✗] → 2/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Knight-Scourgers SAVE (2 dice): [5✓][2✓] → 2/2 saved (3 (+1 from LIGHT COVER, capped) = 2+)
+  [MOVEMENT] 1x Sidhe Longbow (Warden-Captain) HIT vs Knight-Scourgers (FR 2): [1✗][5✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Sidhe Wardens 1] Overwatch Reaction vs Knight-Scourgers: no damage
+  [MOVEMENT] 4x Sidhe Longbow (Warden) HIT vs Knight-Scourgers (FR 8): [3✗][6✓][6✓][2✗][6✓][4✗][6✓][3✗] → 4/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Knight-Scourgers SAVE (4 dice): [5✓][2✓][5✓][6✓] → 4/4 saved (3 (+1 from LIGHT COVER, capped) = 2+)
+  [MOVEMENT] 1x Sidhe Longbow (Warden-Captain) HIT vs Knight-Scourgers (FR 2): [3✗][6✓] → 1/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Knight-Scourgers SAVE roll: 1 (3 (+1 from LIGHT COVER, capped) = 2+) => FAILED
+  [MOVEMENT]   Knight-Scourgers takes 1 damage (12 → 11)
+  [MOVEMENT] [Sidhe Wardens 2] Overwatch Reaction vs Knight-Scourgers: 1 damage
+  [MOVEMENT] Coblynau Sappers 1 moved to (11,5)
+  [MOVEMENT] Knight-Ascendants moved to (2,6)
+  [MOVEMENT] Knight-Ascendants Charges Coblynau Sappers 2
+  [MOVEMENT] [Coblynau Sappers 2] FALL BACK TEST: INI 3 against 6, needs 5+, rolled 5 - breaks away
+  [MOVEMENT] Coblynau Sappers 2 moved to (1,3)
+  [MOVEMENT] [Coblynau Sappers 2] Fall Back to (1,3)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Rootwall Dryads 2 moved to (5,6)
+  [MOVEMENT] Rootwall Dryads 1 moved to (1,4)
+  [MOVEMENT] 1x Silverhead Spear (Thrown) (Waymarshal) HIT vs Merlin - Wizard of Avalon roll: 4 (needs 3+) => HIT
+  [MOVEMENT]   Merlin - Wizard of Avalon SAVE roll: 4 (6 (+2 from AP, capped) = 7+) => FAILED
+  [MOVEMENT]   Merlin - Wizard of Avalon takes 3 damage (8 → 5)
+  [MOVEMENT] Waymarshal IBAR AND ATHIBAR: attacks Merlin - Wizard of Avalon before moving (3 damage)
+  [MOVEMENT] Sidhe Wardens 1 moved to (8,6)
+  [MOVEMENT] 5x Militia Rifle (Parish Militia) HIT vs Sidhe Wardens 1 (FR 5): [1✗][2✗][1✗][1✗][2✗] → 0/5 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] 1x Militia Rifle (Parish Militia) HIT vs Sidhe Wardens 1 roll: 4 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Parish Militia] Overwatch Reaction vs Sidhe Wardens 1: no damage
+  [MOVEMENT] Barghest moved to (4,7)
+  [MOVEMENT] Blackflint Archers moved to (3,8)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Knight-Excisors opens fire with 1 combat group
+  [ACTION] 3x Four-Bore Rifle (Knight-Excisors) HIT vs Sidhe Wardens 2 (FR 3): [5✓][3✓][5✓] → 3/3 hits (needs 3+)
+  [ACTION] Sidhe Wardens 2 EVASION: 2/3 hits evaded (5+)
+  [ACTION] Sidhe Wardens 2 Morale Test (4+): 4 = 4 - PASSED
+  [ACTION]   Sidhe Wardens 2 SAVE roll: 4 (6 (+3 from AP, capped) = 7+) => FAILED
+  [ACTION]   Sidhe Druid takes 3 damage (3 → 0)
+  [ACTION]   Sidhe Druid destroyed
+  [ACTION]   Sidhe Druid has lost its leader - LEADERLESS
+  [ACTION] Sidhe Wardens 2 FADING STEP: stays
+  [ACTION] Sidhe Wardens 1 opens fire with 2 combat groups
+  [ACTION] 4x Sidhe Longbow (Warden) HIT vs Merlin - Wizard of Avalon (FR 8): [5✓][6✓][2✗][4✓][4✓][3✓][3✓][4✓] → 7/8 hits (needs 3+)
+  [ACTION] Merlin - Wizard of Avalon EVASION: 4/7 hits evaded (5+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE (3 dice): [6✓][6✓][5✓] → 3/3 saved (needs 3+)
+  [ACTION] 1x Sidhe Longbow (Warden-Captain) HIT vs Merlin - Wizard of Avalon (FR 2): [6✓][3✓] → 2/2 hits (needs 3+)
+  [ACTION] Merlin - Wizard of Avalon EVASION: 1/2 hits evaded (5+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE roll: 4 (needs 3+) => SAVED
+  [ACTION] Merlin - Wizard of Avalon opens fire with 1 combat group
+  [ACTION] 1x Staff of Avalon (Merlin - Wizard of Avalon) HIT vs Sidhe Wardens 2 (FR 3): [2✗][2✗][3✓] → 1/3 hits (needs 3+)
+  [ACTION] Sidhe Wardens 2 EVASION: 1/1 hits evaded (5+)
+  [ACTION] Sidhe Wardens 2 FADING STEP: stays
+  [ACTION] Sidhe Wardens 2 opens fire with 2 combat groups
+  [ACTION] 4x Sidhe Longbow (Warden) HIT vs Merlin - Wizard of Avalon (FR 8): [5✓][5✓][6✓][4✓][5✓][2✗][1✗][4✓] → 6/8 hits (needs 3+)
+  [ACTION] Merlin - Wizard of Avalon EVASION: 2/6 hits evaded (5+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE (4 dice): [2✗][6✓][4✓][1✗] → 2/4 saved (needs 3+)
+  [ACTION]   Knight-Excisors takes 2 damage (12 → 10)
+  [ACTION] 1x Sidhe Longbow (Warden-Captain) HIT vs Merlin - Wizard of Avalon (FR 2): [1✗][3✓] → 1/2 hits (needs 3+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE roll: 4 (needs 3+) => SAVED
+  [ACTION] Parish Militia opens fire with 2 combat groups
+  [ACTION] 5x Militia Rifle (Parish Militia) HIT vs Sidhe Wardens 2 (FR 5): [3✗][2✗][2✗][3✗][1✗] → 0/5 hits (needs 5+)
+  [ACTION] 1x Militia Rifle (Parish Militia) HIT vs Sidhe Wardens 2 roll: 3 (needs 4+) => MISS
+  [ACTION] Blackflint Archers opens fire with 2 combat groups
+  [ACTION] 2x Green Stave Longbow (Blackflint Archer) HIT vs Knight-Ascendants (FR 4): [5✓][5✓][2✗][3✓] → 3/4 hits (needs 3+)
+  [ACTION]   Knight-Ascendants SAVE (3 dice): [0✗][0✗][4✗] → 0/3 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Knight-Ascendants takes 3 damage (12 → 9)
+  [ACTION] 1x Green Stave Longbow (Knapper) HIT vs Knight-Ascendants (FR 2): [3✓][3✓] → 2/2 hits (needs 2+)
+  [ACTION]   Knight-Ascendants SAVE (2 dice): [5✓][3✗] → 1/2 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Knight-Ascendants takes 1 damage (9 → 8)
+  [ACTION]   Knight-Ascendants destroyed
+  [ACTION] Knight-Banneret opens fire with 1 combat group
+  [ACTION] 1x Imported Vulcanus Pistol (Knight-Banneret) HIT vs Barghest roll: 5 (needs 4+) => HIT
+  [ACTION] Barghest EVASION: 1/1 hits evaded (4+)
+  [ACTION] Knight-Banneret: FREE weapon attack - costs 0 APt this Battle Round
+  [ACTION] Knight-Banneret ends its activation
+  [ACTION] Waymarshal opens fire with 1 combat group
+  [ACTION] 1x Silverhead Spear (Thrown) (Waymarshal) HIT vs Merlin - Wizard of Avalon roll: 4 (needs 3+) => HIT
+  [ACTION]   Merlin - Wizard of Avalon SAVE roll: 5 (6 (+2 from AP, capped) = 7+) => FAILED
+  [ACTION]   Merlin - Wizard of Avalon takes 3 damage (5 → 2)
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 27 vs 16)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 12 vs 0)
+  [CLEANUP] VP - Player A: 10 | Player B: 3
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (3/10)
+
+=== BATTLE ROUND 3 ===
+A:Knights of Camelot: VP +2 (obj 2, primary 0, missions 0) = 12; CP +3 -5 holds 1 [5 Troop Requisition → Parish Militia]
+  mana: +1 -0 holds 7
+B:Cosán Sí Host: VP +10 (obj 5, primary 3, missions 2) = 16; CP +2 -0 holds 2
+A:Knights of Camelot keeps mission LAST STAND (offered TAKE UP THE GAUNTLET / LAST STAND)
+B:Cosán Sí Host keeps mission DEEP REACH (offered FIRE FOR EFFECT / DEEP REACH)
+B:Cosán Sí Host mission TERRITORIAL SUPERIORITY: completed
+B:Cosán Sí Host mission PROBING STRIKE: expired
+B:Cosán Sí Host mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Parish Militia #2 7,12 -> 7,9
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 2 1,3 -> 0,6
+  [MOVEMENT] A:Knights of Camelot Knight-Scourgers 6,9 -> 7,8
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 1 11,5 -> 12,6
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 2,6 -> 1,6 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 1,4 -> 3,5
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 5,6 -> 3,7
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 3,8 -> 2,8
+  [MOVEMENT] B:Cosán Sí Host Barghest 4,7 -> 8,7 (charge)
+Combat:
+  [ACTION] melee: A:Knights of Camelot Knight-Banneret -> Coblynau Sappers 2: Coblynau Sappers 2 -6 DESTROYED
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Knight-Banneret: Knight-Ascendants -3
+  [ACTION] ranged: A:Knights of Camelot Merlin - Wizard of Avalon -> Sidhe Wardens 2: no damage
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 1 -> Merlin - Wizard of Avalon: Knight-Excisors -1
+  [ACTION] ranged: A:Knights of Camelot Knight-Excisors -> Sidhe Wardens 2: Sidhe Wardens 2 -3
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 2 -> Merlin - Wizard of Avalon: Knight-Excisors -1
+  [ACTION] ranged: B:Cosán Sí Host Waymarshal -> Merlin - Wizard of Avalon: Merlin - Wizard of Avalon -2 DESTROYED
+  [ACTION] melee: B:Cosán Sí Host Barghest -> Parish Militia: Parish Militia -3, Barghest -1
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Rootwall Dryads 1 (no legal action), B:Rootwall Dryads 2 (no legal action)
+Moves undone:
+  B:Cosán Sí Host Rootwall Dryads 1: R2 MOVEMENT 3,4 -> 1,4, R3 MOVEMENT -> 3,5 (back beside its start, 2 squares lost)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Water: nothing - made water active; 9 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Troop Requisition on (7,12): paid off - placed Parish Militia #2; the unit it placed made 2 attack(s), 0 HP off; the unit it placed scored 3.5 VP; the unit it placed drew 6 enemy attack(s), 15 HP
+  [ACTION] A:Knights of Camelot Heroic Hour: paid off - gave Knight-Banneret: weapon AR +2, weapon DMG +1; 2 attack(s) it touched: +1.42 expected HP for its side
+Passive rules:
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.5 expected HP for its side
+  The Lady's Ward (Knight-Banneret): 1 attack, 0.39 expected HP for its side
+  Cambion Prophetic Sight (Merlin - Wizard of Avalon): 3 attacks, 3.03 expected HP for its side
+  Spectral Stalk (Barghest): 1 attack, 0.44 expected HP for its side
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 1 time (add_resource)
+  Fading Step (Sidhe Wardens 2): fired 2 times (grant_move)
+  Portent of Death (Barghest): fired 2 times (mod_stat, force_test)
+  EVASION (Sidhe Wardens 2, 5+): 1 of 4 hits turned away
+  EVASION (Merlin - Wizard of Avalon, 5+): 2 of 9 hits turned away
+  EVASION (Barghest, 4+): 1 of 3 hits turned away
+Scored by:
+  B:Cosán Sí Host objectives (7,7) 3 VP: Sidhe Wardens 1 3.0; hinged on Sidhe Wardens 1
+  A:Knights of Camelot objectives (1,7) 2 VP: Knight-Banneret 1.0, Knight-Ascendants 1.0
+  B:Cosán Sí Host objectives (13,7) 2 VP: Coblynau Sappers 1 2.0; hinged on Coblynau Sappers 1
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 3 VP: Blackflint Archers 0.5, Barghest 0.5, Coblynau Sappers 1 0.5, Rootwall Dryads 1 0.5, Rootwall Dryads 2 0.5, Waymarshal 0.2, Sidhe Wardens 1 0.2
+  B:Cosán Sí Host missions DEEP REACH 2 VP (1 withheld by the round's VP cap): HQ 1.3, Sidhe Wardens 1 0.3, Coblynau Sappers 1 0.3
+Log:
+  [CLEANUP] ═══ ROUND 3 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 5 to 9)
+  [CLEANUP] BATTLE ROUND 3 - BEGIN
+  [COMMAND] FLOW OF MAGIC: Player B rolls 2 - Water. Friendly SIDHE units ignore WATER and MARSH movement penalties.
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] Mana: Player A +1 (7 total) - Archimagus Supremus
+  [COMMAND] COMMAND PHASE - Round 3 - A:6 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:6 B:2
+  [COMMAND] Player A picks mission: LAST STAND
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Troop Requisition -> british_liberation_front:parish_militia (cost 5 CP) by Player A
+  [COMMAND] TROOP REQUISITION: Parish Militia deployed at (7,12) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Knight-Excisors Morale Test (3+): 1 = 1 (natural 1) - FAILED, now SUPPRESSED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Parish Militia moved to (7,9)
+  [MOVEMENT] Coblynau Sappers 2 moved to (0,6)
+  [MOVEMENT] Knight-Scourgers moved to (7,8)
+  [MOVEMENT] Coblynau Sappers 1 moved to (12,6)
+  [MOVEMENT] Knight-Ascendants moved to (1,6)
+  [MOVEMENT] Knight-Ascendants Charges Coblynau Sappers 2
+  [MOVEMENT] Rootwall Dryads 1 moved to (3,5)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Rootwall Dryads 2 moved to (3,7)
+  [MOVEMENT] Blackflint Archers moved to (2,8)
+  [MOVEMENT] Barghest moved to (8,7)
+  [MOVEMENT] Barghest Charges Knight-Scourgers, Parish Militia
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Knight-Banneret uses Heroic Hour!
+  [ACTION] Knight-Banneret HEROIC HOUR: Once per battle, as a Quick Action, this unit's melee weapons gain +2 AR and +1 DMG until the end of the Battle Round.
+  [ACTION] Knight-Banneret attacks in melee with 1 combat group
+  [ACTION] Knight-Banneret engages Coblynau Sappers 2 in melee combat
+  [ACTION]   Knight-Banneret (Faeslayer Blade) MELEE vs Coblynau Sappers 2 (AR 5): [5✓][4✓][3✓][2✓][2✓] → 5 hits [MS 8]
+  [ACTION]   Coblynau Sappers 2: 6 damage (6 → 0)
+  [ACTION]   Coblyn destroyed
+  [ACTION]   Coblyn destroyed
+  [ACTION]   Knocker destroyed
+  [ACTION]   Coblynau Sappers 2 has lost its leader - LEADERLESS
+  [ACTION]   Coblynau Sappers 2 DESTROYED in melee!
+  [ACTION] Knight-Banneret TAKE GROUND: stays
+  [ACTION] Blackflint Archers opens fire with 2 combat groups
+  [ACTION] 2x Green Stave Longbow (Blackflint Archer) HIT vs Knight-Banneret (FR 4): [1✗][6✓][5✓][2✗] → 2/4 hits (needs 3+)
+  [ACTION]   Knight-Banneret SAVE (2 dice): [0✗][0✗] → 0/2 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Knight-Ascendants takes 2 damage (8 → 6)
+  [ACTION] 1x Green Stave Longbow (Knapper) HIT vs Knight-Banneret (FR 2): [4✓][4✓] → 2/2 hits (needs 2+)
+  [ACTION]   Knight-Banneret SAVE (2 dice): [6✓][4✗] → 1/2 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Knight-Ascendants takes 1 damage (6 → 5)
+  [ACTION] Merlin - Wizard of Avalon opens fire with 1 combat group
+  [ACTION] 1x Staff of Avalon (Merlin - Wizard of Avalon) HIT vs Sidhe Wardens 2 (FR 3): [1✗][1✗][3✓] → 1/3 hits (needs 3+)
+  [ACTION] Sidhe Wardens 2 EVASION: 1/1 hits evaded (5+)
+  [ACTION] Sidhe Wardens 2 FADING STEP: stays
+  [ACTION] Sidhe Wardens 1 opens fire with 2 combat groups
+  [ACTION] 4x Sidhe Longbow (Warden) HIT vs Merlin - Wizard of Avalon (FR 8): [1✗][5✓][5✓][1✗][1✗][1✗][4✓][6✓] → 4/8 hits (needs 3+)
+  [ACTION] Merlin - Wizard of Avalon EVASION: 2/4 hits evaded (5+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE (2 dice): [4✓][5✓] → 2/2 saved (needs 3+)
+  [ACTION] 1x Sidhe Longbow (Warden-Captain) HIT vs Merlin - Wizard of Avalon (FR 2): [5✓][2✗] → 1/2 hits (needs 3+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE roll: 2 (needs 3+) => FAILED
+  [ACTION]   Knight-Excisors takes 1 damage (10 → 9)
+  [ACTION] Knight-Excisors opens fire with 1 combat group
+  [ACTION] 3x Four-Bore Rifle (Knight-Excisors) HIT vs Sidhe Wardens 2 (FR 3): [5✓][4✓][4✓] → 3/3 hits (needs 3+) [HIT mod: -1 SUPPRESSED]
+  [ACTION]   Sidhe Wardens 2 SAVE (3 dice): [4✗][3✗][2✗] → 0/3 saved (5 (+3 from AP, capped) = 7+)
+  [ACTION]   Sidhe Wardens 2 takes 3 damage (5 → 2)
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION] Sidhe Wardens 2 FADING STEP: stays
+  [ACTION] Sidhe Wardens 2 opens fire with 2 combat groups
+  [ACTION] 1x Sidhe Longbow (Warden-Captain) HIT vs Merlin - Wizard of Avalon (FR 2): [4✓][2✗] → 1/2 hits (needs 3+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE roll: 3 (needs 3+) => SAVED
+  [ACTION] 1x Sidhe Longbow (Warden) HIT vs Merlin - Wizard of Avalon (FR 2): [6✓][4✓] → 2/2 hits (needs 3+)
+  [ACTION]   Merlin - Wizard of Avalon SAVE (2 dice): [2✗][4✓] → 1/2 saved (needs 3+)
+  [ACTION]   Knight-Excisors takes 1 damage (9 → 8)
+  [ACTION]   Knight-Excisors destroyed
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Waymarshal opens fire with 1 combat group
+  [ACTION] 1x Silverhead Spear (Thrown) (Waymarshal) HIT vs Merlin - Wizard of Avalon roll: 6 (needs 3+) => HIT
+  [ACTION] Knight-Scourgers Morale Test (3+): 5 = 5 - PASSED
+  [ACTION] Parish Militia Morale Test (4+): 2 +1 = 3 - FAILED, now SUPPRESSED
+  [ACTION] Parish Militia Morale Test (4+): 5 = 5 - PASSED
+  [ACTION]   Merlin - Wizard of Avalon SAVE roll: 6 (6 (+2 from AP, capped) = 7+) => FAILED
+  [ACTION]   Merlin - Wizard of Avalon takes 2 damage (2 → 0)
+  [ACTION]   Merlin - Wizard of Avalon destroyed
+  [ACTION]   Merlin - Wizard of Avalon has lost its leader - LEADERLESS
+  [ACTION]   Merlin - Wizard of Avalon DESTROYED
+  [ACTION] Barghest attacks in melee with 1 combat group
+  [ACTION] Barghest engages Parish Militia in melee combat
+  [ACTION]   Initiative: Barghest (INI 10, +3 charge) → Parish Militia (INI 4)
+  [ACTION]   Barghest (Beast Claws and Fangs) MELEE vs Parish Militia (AR 4): [6✓][5✓][5✓][1✗] → 3 hits [MS 3]
+  [ACTION]   Parish Militia: 3 damage (11 → 8)
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia counterattacks
+  [ACTION]   Parish Militia spends 1 APt to counterattack
+  [ACTION]   Barghest EVASION: 1 hit(s) evaded (4+)
+  [ACTION]   Parish Militia (3x Bayonet) MELEE vs Barghest (AR 3): [5✓][5✗][2✗] → 1 hits [MS 3] [HIT mod: -1]
+  [ACTION]   Parish Militia (Bayonet) MELEE vs Barghest (AR 1): [5✓] → 1 hits [MS 3] [HIT mod: -1]
+  [ACTION]   Barghest: 1 damage (7 → 6)
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 16 vs 6)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 12 vs 3)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 12 | Player B: 11
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (6/10)
+  [CLEANUP] VP CAP: Player B MISSION DEEP REACH - 1 of 3 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +2 VP!
+  [CLEANUP] VP CAP: Player B MISSION TERRITORIAL SUPERIORITY - 3 of 3 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player B +0 VP!
+  [CLEANUP] Mission "PROBING STRIKE" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Knights of Camelot: VP +10 (obj 5, primary 0, missions 5) = 22; CP +2 -3 holds 0 [3 Secure Objective → Knight-Ascendants]
+B:Cosán Sí Host: VP +4 (obj 2, primary 2, missions 0) = 20; CP +2 -3 holds 1 [3 Secure Objective → Sidhe Wardens 1]
+A:Knights of Camelot keeps mission COMMAND AUTHORITY (offered MAN OF THE HOUR / COMMAND AUTHORITY)
+B:Cosán Sí Host keeps mission ASSASSINATION (offered ASSASSINATION / FORWARD DEPLOYMENT)
+A:Knights of Camelot mission BREAK CONTACT: expired
+A:Knights of Camelot mission LAST STAND: completed
+A:Knights of Camelot mission COMMAND AUTHORITY: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Parish Militia #2 7,9 -> 6,7 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 3,5 -> 3,6
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 1,6 -> 2,6 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 3,7 -> 4,9
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 2 7,6 -> 10,5
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Rootwall Dryads 2: Rootwall Dryads 2 -2
+  [ACTION] melee: A:Knights of Camelot Knight-Ascendants -> Rootwall Dryads 1: Rootwall Dryads 1 -4
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Knight-Excisors: Knight-Excisors -4
+  [ACTION] melee: A:Knights of Camelot Knight-Banneret -> Rootwall Dryads 1: Rootwall Dryads 1 -8
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 1 -> Parish Militia #2: Parish Militia #2 -2
+  [ACTION] ranged: A:Knights of Camelot Knight-Excisors -> Sidhe Wardens 1: Sidhe Wardens 1 -1
+  [ACTION] melee: B:Cosán Sí Host Barghest -> Parish Militia: Parish Militia -4
+  [ACTION] melee: A:Knights of Camelot Knight-Scourgers -> Barghest: Barghest -1
+  [ACTION] ranged: B:Cosán Sí Host Waymarshal -> Parish Militia #2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Surge: nothing - made surge active; 10 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Secure Objective on Knight-Ascendants: paid off - gave Knight-Banneret: OC +1; Knight-Ascendants: OC +1; completed COMMAND AUTHORITY (+2 VP); 3 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Cosán Sí Host Secure Objective on Sidhe Wardens 1: nothing - gave Waymarshal: OC +1; Sidhe Wardens 1: OC +1; 3 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Supernatural Reflex (Knight-Ascendants): 1 attack, 0.03 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.39 expected HP for its side
+  Fairy Eyes (Blackflint Archers): 1 attack, 0.48 expected HP for its side
+  Spectral Stalk (Barghest): 2 attacks, 1.22 expected HP for its side
+  Fading Step (Sidhe Wardens 1): fired 1 time (grant_move)
+  Fading Step (Waymarshal): fired 1 time (grant_move)
+  Portent of Death (Barghest): fired 2 times (mod_stat, force_test)
+  EVASION (Sidhe Wardens 1, 5+): 0 of 1 hits turned away
+  EVASION (Barghest, 4+): 1 of 2 hits turned away
+Scored by:
+  A:Knights of Camelot missions COMMAND AUTHORITY 2 VP: Knight-Ascendants 2.0 (event)
+  A:Knights of Camelot objectives (7,7) 3 VP: Knight-Scourgers 1.3, Parish Militia #2 1.3, Knight-Excisors 0.3, Parish Militia 0.3; hinged on Knight-Scourgers, Parish Militia #2
+  A:Knights of Camelot objectives (1,7) 2 VP: Knight-Banneret 1.0, Knight-Ascendants 1.0
+  B:Cosán Sí Host objectives (13,7) 2 VP: Coblynau Sappers 1 2.0; hinged on Coblynau Sappers 1
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 2 VP: Blackflint Archers 0.4, Barghest 0.4, Coblynau Sappers 1 0.4, Rootwall Dryads 2 0.4, Waymarshal 0.2, Sidhe Wardens 1 0.2
+  A:Knights of Camelot missions LAST STAND 3 VP: Knight-Scourgers 1.3, Parish Militia #2 1.3, Knight-Excisors 0.3, Parish Militia 0.3
+Log:
+  [CLEANUP] ═══ ROUND 4 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 6 to 8)
+  [CLEANUP] BATTLE ROUND 4 - BEGIN
+  [COMMAND] FLOW OF MAGIC: Player B rolls 6 - Surge. SIDHE spell Mana costs are halved, rounded up.
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 4 - A:3 CP, B:4 CP
+  [COMMAND] Command Phase: CP A:3 B:4
+  [COMMAND] Player A picks mission: COMMAND AUTHORITY
+  [COMMAND] Player B picks mission: ASSASSINATION
+  [COMMAND] HQ Command: Secure Objective -> Knight-Ascendants (cost 3 CP) by Player A
+  [COMMAND] SECURE OBJECTIVE: each model in Knight-Ascendants gains +1 OC this Battle Round
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player A +2 VP!
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Secure Objective -> Sidhe Wardens 1 (cost 3 CP) by Player B
+  [COMMAND] SECURE OBJECTIVE: each model in Sidhe Wardens 1 gains +1 OC this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Sidhe Wardens 2 Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [COMMAND] Knight-Excisors Morale Test (3+): 3 = 3 - PASSED
+  [COMMAND] Parish Militia Morale Test (4+): 3 +1 = 4 - PASSED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Parish Militia moved to (6,7)
+  [MOVEMENT] Parish Militia Charges Sidhe Wardens 2
+  [MOVEMENT] Rootwall Dryads 1 moved to (3,6)
+  [MOVEMENT] Knight-Ascendants moved to (2,6)
+  [MOVEMENT] Knight-Ascendants Charges Rootwall Dryads 1, Rootwall Dryads 2
+  [MOVEMENT] [Rootwall Dryads 2] FALL BACK TEST: INI 2 against 6, needs 6+, rolled 5 - FAILED
+  [MOVEMENT]   Rootwall Dryads 2 SAVES (slow roll): [no save→Rootwall Dryad][no save→Rootwall Dryad] → 0/2 saved, 0 models killed
+  [MOVEMENT] [Rootwall Dryads 2] breaks away in disorder: 2 True Damage, 2 HP lost
+  [MOVEMENT] Rootwall Dryads 2 moved to (4,9)
+  [MOVEMENT] [Rootwall Dryads 2] Fall Back to (4,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [Sidhe Wardens 2] FALL BACK TEST: INI 5 against 4, needs 3+, rolled 5 - breaks away
+  [MOVEMENT] Sidhe Wardens 2 moved to (10,5)
+  [MOVEMENT] [Sidhe Wardens 2] Fall Back to (10,5)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Knight-Ascendants attacks in melee with 1 combat group
+  [ACTION] Knight-Ascendants engages Rootwall Dryads 1 in melee combat
+  [ACTION]   Initiative: Knight-Ascendants (INI 9, +3 charge) → Rootwall Dryads 1 (INI 2)
+  [ACTION]   Knight-Ascendants (2x Blade of Chivalry) MELEE vs Rootwall Dryads 1 (AR 6): [4✓][2✓][1✗][1✗][1✗][1✗] → 2 hits [MS 7]
+  [ACTION]   Rootwall Dryads 1: 4 damage (18 → 14)
+  [ACTION]   Rootwall Dryads 1 counterattacks
+  [ACTION]   Rootwall Dryads 1 spends 1 APt to counterattack
+  [ACTION]   Rootwall Dryads 1 (3x Knotted Fist) MELEE vs Knight-Ascendants (AR 3): [3✗][3✗][3✗] → 0 hits [MS 3]
+  [ACTION] Blackflint Archers opens fire with 2 combat groups
+  [ACTION] 2x Green Stave Longbow (Blackflint Archer) HIT vs Knight-Excisors (FR 4): [5✓][5✓][3✗][2✗] → 2/4 hits (needs 3+) [HIT mod: -1 BLUE MANTLE]
+  [ACTION]   Knight-Excisors SAVE (2 dice): [0✗][0✗] → 0/2 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Knight-Excisors takes 2 damage (8 → 6)
+  [ACTION] 1x Green Stave Longbow (Knapper) HIT vs Knight-Excisors (FR 2): [5✓][4✓] → 2/2 hits (needs 2+) [HIT mod: -1 BLUE MANTLE]
+  [ACTION]   Knight-Excisors SAVE (2 dice): [0✗][1✗] → 0/2 saved (3 (+2 from AP) = 5+)
+  [ACTION]   Knight-Excisors takes 2 damage (6 → 4)
+  [ACTION]   Knight-Excisors destroyed
+  [ACTION] Knight-Banneret attacks in melee with 1 combat group
+  [ACTION] Knight-Banneret engages Rootwall Dryads 1 in melee combat
+  [ACTION]   Knight-Banneret (Faeslayer Blade) MELEE vs Rootwall Dryads 1 (AR 3): [5✓][5✓][4✓] → 3 hits [MS 8]
+  [ACTION]   Rootwall Dryads 1: 8 damage (14 → 6)
+  [ACTION]   Rootwall Dryad destroyed
+  [ACTION]   Rootwall Dryad destroyed
+  [ACTION]   Rootwall Dryads 1 has no APt left - no counterattack
+  [ACTION] Sidhe Wardens 1 opens fire with 2 combat groups
+  [ACTION] 4x Sidhe Longbow (Warden) HIT vs Parish Militia (FR 8): [1✗][5✓][3✓][1✗][5✓][6✓][4✓][5✓] → 6/8 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (6 dice): [6✓][6✓][6✓][6✓][5✓][3✗] → 5/6 saved (needs 5+)
+  [ACTION]   Parish Militia takes 1 damage (20 → 19)
+  [ACTION] 1x Sidhe Longbow (Warden-Captain) HIT vs Parish Militia (FR 2): [4✓][4✓] → 2/2 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (2 dice): [4✗][6✓] → 1/2 saved (needs 5+)
+  [ACTION]   Parish Militia takes 1 damage (19 → 18)
+  [ACTION]   Parish Militia destroyed
+  [ACTION] Knight-Excisors opens fire with 1 combat group
+  [ACTION] 1x Four-Bore Rifle (Knight-Excisors) HIT vs Sidhe Wardens 1 roll: 5 (needs 3+) => HIT
+  [ACTION]   Sidhe Wardens 1 SAVE roll: 5 (5 (+3 from AP, capped) = 7+) => FAILED
+  [ACTION]   Sidhe Wardens 1 takes 1 damage (5 → 4)
+  [ACTION]   Warden destroyed
+  [ACTION] Sidhe Wardens 1 FADING STEP: stays
+  [ACTION] Waymarshal FADING STEP: stays
+  [ACTION] Barghest attacks in melee with 1 combat group
+  [ACTION] Barghest engages Parish Militia in melee combat
+  [ACTION]   Initiative: Barghest (INI 7) → Parish Militia (INI 4)
+  [ACTION]   Barghest (Beast Claws and Fangs) MELEE vs Parish Militia (AR 4): [5✓][5✓][3✗][1✗] → 2 hits [MS 3]
+  [ACTION]   Parish Militia: 4 damage (8 → 4)
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION] Parish Militia Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [ACTION]   Parish Militia counterattacks
+  [ACTION]   Parish Militia spends 1 APt to counterattack
+  [ACTION]   Parish Militia (Bayonet) MELEE vs Barghest (AR 1): [1✗] → 0 hits [MS 3] [HIT mod: -1]
+  [ACTION]   Parish Militia (Bayonet) MELEE vs Barghest (AR 1): [3✗] → 0 hits [MS 3] [HIT mod: -1]
+  [ACTION] Knight-Scourgers attacks in melee with 1 combat group
+  [ACTION] Knight-Scourgers engages Barghest in melee combat
+  [ACTION]   Barghest EVASION: 1 hit(s) evaded (4+)
+  [ACTION]   Knight-Scourgers (3x Misericordia) MELEE vs Barghest (AR 3): [4✗][3✓][1✗] → 1 hits [MS 5]
+  [ACTION]   Barghest: 1 damage (6 → 5)
+  [ACTION]   Barghest has no APt left - no counterattack
+  [ACTION] Waymarshal opens fire with 1 combat group
+  [ACTION] 1x Silverhead Spear (Thrown) (Waymarshal) HIT vs Parish Militia roll: 1 (needs 3+) => MISS
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 17 vs 15)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 15 vs 3)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 19 | Player B: 18
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 2 VP (8/10)
+  [CLEANUP] MISSION COMPLETE: "LAST STAND" -> Player A +3 VP!
+  [CLEANUP] Mission "BREAK CONTACT" EXPIRED (R4)
+
+=== BATTLE ROUND 5 ===
+A:Knights of Camelot: VP +6 (obj 5, primary 1, missions 0) = 28; CP +2 -2 holds 0 [2 Rally cry (reaction) for Knight-Excisors]
+B:Cosán Sí Host: VP +5 (obj 2, primary 2, missions 1) = 25; CP +3 -3 holds 1 [3 Double Time → Blackflint Archers]
+A:Knights of Camelot keeps mission KING OF THE HILL (offered KING OF THE HILL / IRON CURTAIN)
+B:Cosán Sí Host keeps mission STRONGPOINT (offered FOCUSED FIRE / STRONGPOINT)
+B:Cosán Sí Host mission STRONGPOINT: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Parish Militia 8,8 -> 6,9
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 2,8 -> 6,5
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 2 10,5 -> 9,7
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 4,9 -> 5,9 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 3,6 -> 5,5
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Parish Militia: Parish Militia -2
+  [MOVEMENT] ranged (Overwatch): A:Knights of Camelot Parish Militia #2 -> Blackflint Archers: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Rootwall Dryads 1: Rootwall Dryads 1 -1
+  [ACTION] ranged: A:Knights of Camelot Parish Militia #2 -> Sidhe Wardens 1: no damage
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 1 -> Parish Militia #2: Parish Militia #2 -3
+  [ACTION] melee: A:Knights of Camelot Knight-Scourgers -> Barghest: Barghest -1
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Parish Militia #2: Parish Militia #2 -6
+  [ACTION] melee: A:Knights of Camelot Knight-Excisors -> Rootwall Dryads 2: no damage
+  [ACTION] ranged: B:Cosán Sí Host Waymarshal -> Parish Militia #2: no damage
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 2 -> Parish Militia #2: Parish Militia #2 -4
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Moves undone:
+  B:Cosán Sí Host Blackflint Archers: R3 MOVEMENT 3,8 -> 2,8, R5 MOVEMENT -> 6,5 (toward the objective at 1,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Earth: paid off - made earth active; 11 attack(s) it touched: +0.35 expected HP for its side
+  [COMMAND] B:Cosán Sí Host Double Time on Blackflint Archers: paid off - gave Blackflint Archers: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Knights of Camelot Rally Cry on Knight-Excisors: paid off - passed 1 Morale Test(s) outright
+Passive rules:
+  Lios na Sí (Sidhe Wardens 1): 1 attack, 0.35 expected HP for its side
+  Spectral Stalk (Barghest): 1 attack, 1 expected HP for its side
+  Portent of Death (Barghest): fired 1 time (mod_stat)
+  EVASION (Blackflint Archers, 5+): 2 of 3 hits turned away
+  EVASION (Barghest, 4+): 1 of 2 hits turned away
+Scored by:
+  A:Knights of Camelot objectives (7,7) 3 VP: Knight-Excisors 1.0, Knight-Scourgers 1.0, Parish Militia #2 1.0; hinged on Knight-Excisors, Knight-Scourgers, Parish Militia #2
+  A:Knights of Camelot objectives (1,7) 2 VP: Knight-Banneret 1.0, Knight-Ascendants 1.0
+  B:Cosán Sí Host objectives (13,7) 2 VP: Coblynau Sappers 1 2.0; hinged on Coblynau Sappers 1
+  A:Knights of Camelot primary GARRISON DUTY 1 VP: Knight-Banneret 0.5, Knight-Ascendants 0.5
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 2 VP: Blackflint Archers 0.4, Barghest 0.4, Coblynau Sappers 1 0.4, Rootwall Dryads 2 0.4, Waymarshal 0.2, Sidhe Wardens 1 0.2
+  B:Cosán Sí Host missions STRONGPOINT 1 VP: Barghest 0.7, Waymarshal 0.2, Sidhe Wardens 1 0.2
+Log:
+  [CLEANUP] ═══ ROUND 5 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 6 to 8)
+  [CLEANUP] BATTLE ROUND 5 - BEGIN
+  [COMMAND] FLOW OF MAGIC: Player B rolls 4 - Earth. Friendly SIDHE units in OPEN terrain gain LIGHT COVER.
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] REGENERATION: Rootwall Dryads 1 fails (rolled 2, needed 4+)
+  [COMMAND] REGENERATION: Rootwall Dryads 2 regenerates 3 HP (rolled 4)
+  [COMMAND] COMMAND PHASE - Round 5 - A:2 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:2 B:3
+  [COMMAND] Player A picks mission: KING OF THE HILL
+  [COMMAND] Player B picks mission: STRONGPOINT
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Blackflint Archers (cost 3 CP) by Player B
+  [COMMAND] DOUBLE TIME: Blackflint Archers gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Knight-Excisors
+  [COMMAND] Knight-Excisors Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Parish Militia Morale Test (4+): 5 +1 = 6 - PASSED
+  [COMMAND] Sidhe Wardens 2 Morale Test (4+): 4 = 4 - PASSED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] [Parish Militia] FALL BACK TEST: INI 4 against 7, needs 5+, rolled 2 - FAILED
+  [MOVEMENT]   Parish Militia destroyed
+  [MOVEMENT]   Parish Militia SAVES (slow roll): [no save→Parish Militia][no save→Parish Militia] → 0/2 saved, 1 models killed
+  [MOVEMENT] [Parish Militia] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] Parish Militia moved to (6,9)
+  [MOVEMENT] [Parish Militia] Fall Back to (6,9)
+  [MOVEMENT] Blackflint Archers moved to (6,5)
+  [MOVEMENT] 8x Militia Rifle (Parish Militia) HIT vs Blackflint Archers (FR 8): [2✗][4✗][6✓][6✓][3✗][3✗][5✗][6✓] → 3/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Blackflint Archers EVASION: 2/3 hits evaded (5+)
+  [MOVEMENT]   Blackflint Archers SAVE roll: 4 (5 (+1 from LIGHT COVER, capped) = 4+) => SAVED
+  [MOVEMENT] 1x Militia Rifle (Parish Militia) HIT vs Blackflint Archers roll: 5 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Parish Militia] Overwatch Reaction vs Blackflint Archers: no damage
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Sidhe Wardens 2 moved to (9,7)
+  [MOVEMENT] Rootwall Dryads 2 moved to (5,9)
+  [MOVEMENT] Rootwall Dryads 2 Charges Knight-Excisors, Parish Militia
+  [MOVEMENT] [Rootwall Dryads 1] FALL BACK TEST: INI 2 against 6, needs 6+, rolled 1 - FAILED
+  [MOVEMENT]   Rootwall Dryads 1 SAVES (slow roll): [no save→Rootwall Dryad] → 0/1 saved, 0 models killed
+  [MOVEMENT] [Rootwall Dryads 1] breaks away in disorder: 1 True Damage, 1 HP lost
+  [MOVEMENT] Rootwall Dryads 1 moved to (5,5)
+  [MOVEMENT] [Rootwall Dryads 1] Fall Back to (5,5)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Parish Militia opens fire with 2 combat groups
+  [ACTION] 8x Militia Rifle (Parish Militia) HIT vs Sidhe Wardens 1 (FR 8): [4✗][3✗][4✗][2✗][4✗][1✗][3✗][1✗] → 0/8 hits (needs 5+)
+  [ACTION] 1x Militia Rifle (Parish Militia) HIT vs Sidhe Wardens 1 roll: 1 (needs 4+) => MISS
+  [ACTION] Sidhe Wardens 1 opens fire with 2 combat groups
+  [ACTION] 3x Sidhe Longbow (Warden) HIT vs Parish Militia (FR 6): [3✓][1✗][2✗][6✓][4✓][5✓] → 4/6 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (4 dice): [5✓][2✗][2✗][6✓] → 2/4 saved (needs 5+)
+  [ACTION]   Parish Militia takes 2 damage (18 → 16)
+  [ACTION]   Parish Militia destroyed
+  [ACTION] 1x Sidhe Longbow (Warden-Captain) HIT vs Parish Militia (FR 2): [5✓][5✓] → 2/2 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (2 dice): [5✓][3✗] → 1/2 saved (needs 5+)
+  [ACTION]   Parish Militia takes 1 damage (16 → 15)
+  [ACTION] Knight-Scourgers attacks in melee with 1 combat group
+  [ACTION] Knight-Scourgers engages Barghest in melee combat
+  [ACTION]   Initiative: Barghest (INI 7) → Knight-Scourgers (INI 5)
+  [ACTION]   Barghest counterattacks
+  [ACTION]   Barghest spends 1 APt to counterattack
+  [ACTION]   Barghest (Beast Claws and Fangs) MELEE vs Knight-Scourgers (AR 4): [5✓][4✗][4✗][2✗] → 1 hits [MS 3]
+  [ACTION]   Barghest EVASION: 1 hit(s) evaded (4+)
+  [ACTION]   Knight-Scourgers (3x Misericordia) MELEE vs Barghest (AR 3): [5✗][3✓][1✗] → 1 hits [MS 5]
+  [ACTION]   Barghest: 1 damage (5 → 4)
+  [ACTION] Blackflint Archers opens fire with 2 combat groups
+  [ACTION] 2x Green Stave Longbow (Blackflint Archer) HIT vs Parish Militia (FR 4): [5✓][6✓][5✓][6✓] → 4/4 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (4 dice): [0✗][0✗][0✗][0✗] → 0/4 saved (5 (+2 from AP) = 7+)
+  [ACTION]   Parish Militia takes 4 damage (15 → 11)
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION] 1x Green Stave Longbow (Knapper) HIT vs Parish Militia (FR 2): [3✓][5✓] → 2/2 hits (needs 2+)
+  [ACTION]   Parish Militia SAVE (2 dice): [0✗][1✗] → 0/2 saved (5 (+2 from AP) = 7+)
+  [ACTION]   Parish Militia takes 2 damage (11 → 9)
+  [ACTION]   Parish Militia destroyed
+  [ACTION] Knight-Excisors attacks in melee with 1 combat group
+  [ACTION] Knight-Excisors engages Rootwall Dryads 2 in melee combat
+  [ACTION]   Initiative: Knight-Excisors (INI 5) → Rootwall Dryads 2 (INI 5, +3 charge)
+  [ACTION]   Knight-Excisors (Misericordia) MELEE vs Rootwall Dryads 2 (AR 1): [2✗] → 0 hits [MS 5]
+  [ACTION]   Rootwall Dryads 2 counterattacks
+  [ACTION]   Rootwall Dryads 2 spends 1 APt to counterattack
+  [ACTION]   Rootwall Dryads 2 (3x Knotted Fist) MELEE vs Knight-Excisors (AR 3): [6✓][4✗][3✗] → 1 hits [MS 3]
+  [ACTION] Waymarshal opens fire with 1 combat group
+  [ACTION] 1x Silverhead Spear (Thrown) (Waymarshal) HIT vs Parish Militia roll: 2 (needs 3+) => MISS
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Sidhe Wardens 2 opens fire with 2 combat groups
+  [ACTION] 1x Sidhe Longbow (Warden) HIT vs Parish Militia (FR 2): [4✓][5✓] → 2/2 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (2 dice): [2✗][3✗] → 0/2 saved (needs 5+)
+  [ACTION]   Parish Militia takes 2 damage (9 → 7)
+  [ACTION]   Parish Militia destroyed
+  [ACTION] 1x Sidhe Longbow (Warden-Captain) HIT vs Parish Militia (FR 2): [4✓][4✓] → 2/2 hits (needs 3+)
+  [ACTION]   Parish Militia SAVE (2 dice): [3✗][4✗] → 0/2 saved (needs 5+)
+  [ACTION]   Parish Militia takes 2 damage (7 → 5)
+  [ACTION]   Parish Militia destroyed
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 11 vs 10)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 12 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 27 | Player B: 22
+  [CLEANUP] PRIMARY GARRISON DUTY: Player A scores 1 VP (1/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 2 VP (10/10)
+  [CLEANUP] MISSION COMPLETE: "STRONGPOINT" -> Player B +1 VP +1 CP!
+
+=== BATTLE ROUND 6 ===
+A:Knights of Camelot: VP +3 (obj 0, primary 0, missions 3) = 31; CP +2 -2 holds 0 [2 Rally cry (reaction) for Knight-Excisors]
+B:Cosán Sí Host: VP +0 (obj 0, primary 0, missions 0) = 25; CP +2 -2 holds 1 [2 Double Time → Blackflint Archers]
+A:Knights of Camelot keeps mission FOCUSED FIRE (offered FOCUSED FIRE / OBJECTIVE RELAY)
+B:Cosán Sí Host keeps mission FORWARD PRESENCE (offered BAR THE GATES / FORWARD PRESENCE)
+A:Knights of Camelot mission KING OF THE HILL: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Parish Militia 6,9 -> 8,9
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 6,5 -> 2,8
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 2,6 -> 2,7 (charge)
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 2 9,7 -> 7,6 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 5,9 -> 4,10
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 5,5 -> 4,4
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 1 + Waymarshal 8,6 -> 6,6 (charge)
+Combat:
+  [ACTION] melee: A:Knights of Camelot Knight-Ascendants -> Blackflint Archers: Blackflint Archers -3 DESTROYED
+Idle (APt to spend, none spent): A:HQ, A:Knight-Banneret, A:Knight-Excisors, A:Knight-Scourgers, B:HQ, B:Waymarshal, B:Sidhe Wardens 1, B:Sidhe Wardens 2, B:Barghest, B:Coblynau Sappers 1, B:Rootwall Dryads 1, A:Parish Militia #2
+Moves undone:
+  B:Cosán Sí Host Blackflint Archers: R5 MOVEMENT 2,8 -> 6,5, R6 MOVEMENT -> 2,8 (back beside its start; toward the objective at 13,7, then away, 4 squares lost)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Earth: nothing - made earth active; 1 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Cosán Sí Host Double Time on Blackflint Archers: paid off - gave Blackflint Archers: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Knights of Camelot Rally Cry on Knight-Excisors: paid off - passed 1 Morale Test(s) outright
+Passive rules:
+  Supernatural Reflex (Knight-Ascendants): 1 attack, 0.23 expected HP for its side
+  EVASION (Blackflint Archers, 5+): 0 of 3 hits turned away
+Scored by:
+  A:Knights of Camelot missions KING OF THE HILL 3 VP: Knight-Ascendants 3.0 (event)
+Log:
+  [CLEANUP] ═══ ROUND 6 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 6 to 8)
+  [CLEANUP] BATTLE ROUND 6 - BEGIN
+  [COMMAND] FLOW OF MAGIC: Player B rolls 4 - Earth. Friendly SIDHE units in OPEN terrain gain LIGHT COVER.
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] REGENERATION: Rootwall Dryads 1 fails (rolled 1, needed 4+)
+  [COMMAND] COMMAND PHASE - Round 6 - A:2 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:2 B:3
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: FORWARD PRESENCE
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Blackflint Archers (cost 2 CP) by Player B
+  [COMMAND] DOUBLE TIME: Blackflint Archers gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Knight-Excisors
+  [COMMAND] Knight-Excisors Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Parish Militia Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [COMMAND] Sidhe Wardens 2 Morale Test (4+): 5 = 5 - PASSED
+  [COMMAND] Parish Militia Morale Test (4+): 5 +1 = 6 - PASSED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] [Parish Militia] FALL BACK TEST: INI 4 against 2, needs 3+, rolled 5 - breaks away
+  [MOVEMENT] Parish Militia moved to (8,9)
+  [MOVEMENT] [Parish Militia] Fall Back to (8,9)
+  [MOVEMENT] Blackflint Archers moved to (2,8)
+  [MOVEMENT] Knight-Ascendants moved to (2,7)
+  [MOVEMENT] Knight-Ascendants Charges Blackflint Archers
+  [MOVEMENT] Sidhe Wardens 2 moved to (7,6)
+  [MOVEMENT] Sidhe Wardens 2 Charges Parish Militia
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [Rootwall Dryads 2] FALL BACK TEST: INI 2 against 5, needs 6+, rolled 6 - breaks away
+  [MOVEMENT] Rootwall Dryads 2 moved to (4,10)
+  [MOVEMENT] [Rootwall Dryads 2] Fall Back to (4,10)
+  [MOVEMENT] Rootwall Dryads 1 moved to (4,4)
+  [MOVEMENT] Sidhe Wardens 1 moved to (6,6)
+  [MOVEMENT] Sidhe Wardens 1 Charges Parish Militia
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Knight-Ascendants attacks in melee with 1 combat group
+  [ACTION] Knight-Ascendants engages Blackflint Archers in melee combat
+  [ACTION]   Initiative: Knight-Ascendants (INI 9, +3 charge) → Blackflint Archers (INI 6)
+  [ACTION] MISSION COMPLETE: "KING OF THE HILL" -> Player A +3 VP!
+  [ACTION]   Knight-Ascendants (2x Blade of Chivalry) MELEE vs Blackflint Archers (AR 6): [6✓][5✓][2✓][1✗][1✗][1✗] → 3 hits [MS 7]
+  [ACTION]   Blackflint Archers: 3 damage (3 → 0)
+  [ACTION]   Blackflint Archer destroyed
+  [ACTION]   Blackflint Archer destroyed
+  [ACTION]   Knapper destroyed
+  [ACTION]   Blackflint Archers has lost its leader - LEADERLESS
+  [ACTION]   Blackflint Archers DESTROYED in melee!
+  [ACTION]   Blackflint Archers was destroyed - no counterattack
+
+Damage leaders:
+  B:Cosán Sí Host Blackflint Archers: 26 damage, 0 kills, 30 RP, 0.87/RP (destroyed)
+  A:Knights of Camelot Knight-Banneret: 14 damage, 1 kills, 33 RP, 0.42/RP
+  B:Cosán Sí Host Waymarshal: 8 damage, 1 kills, 50 RP, 0.16/RP
+  B:Cosán Sí Host Sidhe Wardens 2: 8 damage, 0 kills, 17 RP, 0.47/RP
+  A:Knights of Camelot Knight-Ascendants: 7 damage, 1 kills, 48 RP, 0.15/RP
+  A:Knights of Camelot Knight-Excisors: 7 damage, 1 kills, 49 RP, 0.14/RP
+  B:Cosán Sí Host Barghest: 7 damage, 0 kills, 30 RP, 0.23/RP
+  B:Cosán Sí Host Sidhe Wardens 1: 6 damage, 0 kills, 17 RP, 0.35/RP
+  A:Knights of Camelot Knight-Scourgers: 2 damage, 0 kills, 45 RP, 0.04/RP
+  A:Knights of Camelot Merlin - Wizard of Avalon: 2 damage, 0 kills, 60 RP, 0.03/RP (destroyed)
+  A:Knights of Camelot Parish Militia: 1 damage, 0 kills, 13 RP, 0.08/RP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Knights of Camelot Knight-Ascendants: 10.9 VP (obj 5.0, primary 0.5, missions 5.4), hinged 0, 22.7/100 RP
+  B:Cosán Sí Host Coblynau Sappers 1: 8.0 VP (obj 6.0, primary 1.7, missions 0.3), hinged 6, 66.8/100 RP
+  A:Knights of Camelot Knight-Banneret: 5.9 VP (obj 5.0, primary 0.5, missions 0.4), hinged 0, 17.9/100 RP
+  B:Cosán Sí Host Sidhe Wardens 1: 4.8 VP (obj 3.5, primary 0.8, missions 0.5), hinged 3, 28.4/100 RP
+  A:Knights of Camelot Knight-Scourgers: 3.5 VP (obj 2.3, primary 0.0, missions 1.3), hinged 6, 7.8/100 RP
+  A:Knights of Camelot Parish Militia #2: 3.5 VP (obj 2.3, primary 0.0, missions 1.3), hinged 6, 26.9/100 RP
+  A:Knights of Camelot Knight-Excisors: 2.5 VP (obj 2.3, primary 0.0, missions 0.3), hinged 6, 5.2/100 RP
+  B:Cosán Sí Host Sidhe Wardens 2: 2.4 VP (obj 2.0, primary 0.4, missions 0.0), hinged 3, 13.9/100 RP
+  B:Cosán Sí Host Barghest: 2.3 VP (obj 0.0, primary 1.7, missions 0.7), hinged 0, 7.8/100 RP
+  A:Knights of Camelot HQ: 2.0 VP (obj 0.0, primary 0.0, missions 2.0), hinged 0, -/100 RP
+  B:Cosán Sí Host Blackflint Archers: 1.7 VP (obj 0.0, primary 1.7, missions 0.0), hinged 0, 5.6/100 RP
+  B:Cosán Sí Host Rootwall Dryads 2: 1.7 VP (obj 0.0, primary 1.7, missions 0.0), hinged 0, 5.6/100 RP
+  A:Knights of Camelot Parish Militia: 1.6 VP (obj 1.3, primary 0.0, missions 0.3), hinged 3, 11.9/100 RP
+  B:Cosán Sí Host Waymarshal: 1.5 VP (obj 0.5, primary 0.8, missions 0.2), hinged 0, 3.0/100 RP
+  B:Cosán Sí Host HQ: 1.3 VP (obj 0.0, primary 0.0, missions 1.3), hinged 0, -/100 RP
+  A:Knights of Camelot Merlin - Wizard of Avalon: 1.1 VP (obj 1.0, primary 0.0, missions 0.1), hinged 3, 1.8/100 RP
+  B:Cosán Sí Host Rootwall Dryads 1: 0.9 VP (obj 0.0, primary 0.9, missions 0.0), hinged 0, 2.9/100 RP
+  B:Cosán Sí Host Coblynau Sappers 2: 0.4 VP (obj 0.0, primary 0.4, missions 0.0), hinged 0, 3.1/100 RP
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  B:Cosán Sí Host Rootwall Dryads 1: inaction 4 (4 idle, 4 after moving, 0 Overwatch); actions 1/0/1/0/0/0
+  B:Cosán Sí Host Barghest: inaction 3 (3 idle, 2 after moving, 0 Overwatch); actions 0/0/3/0/0/0
+  B:Cosán Sí Host Coblynau Sappers 1: inaction 3 (3 idle, 2 after moving, 0 Overwatch); actions 0/0/0/0/0/3
+  B:Cosán Sí Host Rootwall Dryads 2: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 2/0/1/0/0/0
+  B:Cosán Sí Host Sidhe Wardens 1: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/4/0/0/0/4
+  B:Cosán Sí Host Waymarshal: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/5/0/0/0/4
+  B:Cosán Sí Host Coblynau Sappers 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/0/0/0/0/0
+  A:Knights of Camelot Knight-Scourgers: inaction 1 (1 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/0/3
+  A:Knights of Camelot Knight-Banneret: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/2/1/0/5
+  A:Knights of Camelot Knight-Excisors: inaction 1 (1 idle, 0 after moving, 0 Overwatch); actions 0/4/1/0/0/4
+  A:Knights of Camelot Parish Militia #2: inaction 0.75 (1 idle, 0 after moving, 1 Overwatch); actions 0/1/0/0/0/2
+  B:Cosán Sí Host Sidhe Wardens 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 1/3/0/0/0/3
+  B:Cosán Sí Host Sidhe Druid: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/0/1
+  A:Knights of Camelot Merlin - Wizard of Avalon: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/3/0/0/0/2
+  A:Knights of Camelot Knight-Ascendants: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/0/5
+  B:Cosán Sí Host Blackflint Archers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/5/0/0/0/3
+  A:Knights of Camelot Parish Militia: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 2/1/2/0/0/2
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 4
+  B:Cosán Sí Host Blackflint Archers: 2 of 5 moves (1 back, 2 away from an objective), 5 squares lost
+  B:Cosán Sí Host Coblynau Sappers 1: 1 of 3 moves (0 back, 1 away from an objective), 2 squares lost
+  B:Cosán Sí Host Rootwall Dryads 1: 1 of 6 moves (1 back, 0 away from an objective), 2 squares lost
+Secondary missions:
+  A:Knights of Camelot DEEP REACH (+3 VP): kept R1, completed R1 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  A:Knights of Camelot BREAK CONTACT (+2 VP): kept R2, expired R4 - Have a friendly unit Fall Back from an enemy unit, then be alive and not ENGAGED at the end of that Battle Round.
+  A:Knights of Camelot LAST STAND (+3 VP): kept R3, completed R4 - At the end of a Battle Round, control an objective that has a friendly unit Below Half-Strength in its Objective Area.
+  A:Knights of Camelot COMMAND AUTHORITY (+2 VP): kept R4, completed R4 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  A:Knights of Camelot KING OF THE HILL (+3 VP): kept R5, completed R6 - Have a friendly unit in an Objective Area destroy an enemy unit.
+  A:Knights of Camelot FOCUSED FIRE (+2 VP): kept R6, active - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Cosán Sí Host TERRITORIAL SUPERIORITY (+3 VP): kept R1, completed R3 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Cosán Sí Host PROBING STRIKE (+2 VP): kept R2, expired R3 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  B:Cosán Sí Host DEEP REACH (+3 VP): kept R3, completed R3 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Cosán Sí Host ASSASSINATION (+4 VP): kept R4, active - Destroy an enemy CHARACTER or MONSTER.
+  B:Cosán Sí Host STRONGPOINT (+1 VP): kept R5, completed R5 - Maintain at least 2 friendly units in an Objective Area at the end of a Battle Round.
+  B:Cosán Sí Host FORWARD PRESENCE (+3 VP): kept R6, active - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.

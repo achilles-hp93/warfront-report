@@ -1,0 +1,21 @@
+Battle report: a table grant, and what a use queued, are what it bought
+
+Two uses priced "nothing - no change" though they worked (Champion League Day 1).
+
+- The Tri-Banner Chaplain's Three Standards (D1-M06) put its pick in
+  G.tableGrants, which the table_active predicate reads: no modifier, status or HP,
+  so every round's use had `changes: {}`, though the passive record showed the
+  Ruthenian Standard's +1 MOVE on five units. A table grant is now a lever kind
+  (page_effects_levers.js): the use's changes name the standard it granted, and the
+  attacks and moves of the units it reaches are priced with it and with the grant
+  left out for one read (page_effects_moves.js asks a lever kind's moves()).
+- Blessing of Sacred Rabies (D1-M07 R4) queues a compelled attack that is settled
+  after the cast (combat/compelled_attacks.js); the cast was diffed only as its own
+  call ended, so the Bounded Ifrit's strike on its own Saladin and the SUPPRESSED it
+  ended on were no one's. page_effects_deferred.js gives a use the work it queued -
+  a compelled attack, an effect scheduled for a later checkpoint (Black Vortex of
+  Dis) - and diffs the board into the use as that work settles (diffInto, factored
+  out of endUse), with each compelled strike a gain of its own.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

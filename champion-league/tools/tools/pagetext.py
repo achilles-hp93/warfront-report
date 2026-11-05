@@ -1,0 +1,10 @@
+import sys,re,html
+s=open(sys.argv[1]).read()
+s=re.sub(r'<script.*?</script>','',s,flags=re.S)
+s=re.sub(r'<style.*?</style>','',s,flags=re.S)
+s=re.sub(r'<svg.*?</svg>','',s,flags=re.S)
+t=re.sub(r'<[^>]+>',' ',s)
+t=html.unescape(t)
+t=re.sub(r'[ \t]+',' ',t)
+t=re.sub(r'\n\s*\n+','\n',t)
+print(t)

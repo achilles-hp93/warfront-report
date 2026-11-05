@@ -1,0 +1,523 @@
+Sword of Allah (A, caliphate_of_the_two_sanctuaries) vs Wolfshead Pack (B, church_of_the_beast) on CROSSROADS, seed 460703107
+Result: A:Sword of Allah wins (VP) in round 6, VP 32 / 31
+Initiative: A:Sword of Allah; formation order [1,0]
+Army A:Sword of Allah (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Saladin - Al-Malik al-Nasir - 65 RP, 1 models, 9 HP, leads Abna al-Dawla Guard, Marshal
+  Abna al-Dawla Guard - 41 RP, 5 models, 15 HP, led by Saladin - Al-Malik al-Nasir
+  Muqatila Troopers 1 - 13 RP, 10 models, 20 HP, led by Rammal Geomancer
+  Muqatila Troopers 2 - 13 RP, 10 models, 20 HP
+  Muqatila Troopers 3 - 13 RP, 10 models, 20 HP
+  Zamburak Camel-Artillery - 35 RP, 3 models, 12 HP
+  Rammal Geomancer - 18 RP, 1 models, 4 HP, leads Muqatila Troopers 1
+  Bounded Ifrit - 50 RP, 1 models, 9 HP
+Army B:Wolfshead Pack (246 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Herald of Feral Affliction - 60 RP, 1 models, 10 HP, Marshal
+  Assault Lycanthropes - 30 RP, 5 models, 20 HP
+  Wildling Acolytes - 15 RP, 10 models, 30 HP
+  Mongrel Supplicants - 14 RP, 10 models, 20 HP
+  Weretiger Stalkers - 30 RP, 3 models, 12 HP
+  Beast-Monk - 17 RP, 1 models, 7 HP
+  Marrowstring Centaur - 30 RP, 3 models, 15 HP
+  Wendigo Manreaver - 50 RP, 1 models, 18 HP
+Primary A:Sword of Allah: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: WIDE SWEEP, BREAK THEIR HOLD, BLEED THEM WHITE; picked break_their_hold
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 3 (count 3), R4 3 (count 3), R5 1 (count 1), R6 1 (count 1); total 8
+Primary B:Wolfshead Pack: DEBT OF BLOOD - At the start of each Battle Round, mark 1 enemy unit that is in an Objective Area or has destroyed one of your units. At the end of that Battle Round, score 3 VP if you destroyed the marked unit during it.
+  hand: DEBT OF BLOOD, RECONNAISSANCE OPERATION (does not fit), RAISE THE STANDARD; picked debt_of_blood
+  scored per round: R1 0 (count 0), R2 3 (count 1), R3 0 (count 0), R4 0 (count 0), R5 0 (count 0), R6 0 (count 0); total 3
+
+=== BATTLE ROUND 1 ===
+A:Sword of Allah: VP +3 (obj 3, primary 0, missions 0) = 3; CP +2 -1 holds 1 [1 Go to ground (reaction) for Muqatila Troopers 1]
+  mana: +1 -0 holds 1
+  al_kimiya_ingredients: +0 -1 holds 0 [1 Matter Transmutation]
+B:Wolfshead Pack: VP +0 (obj 0, primary 0, missions 0) = 0; CP +2 -1 holds 1 [1 Go to ground (reaction) for Weretiger Stalkers]
+  mana: +2 -0 holds 2
+A:Sword of Allah keeps mission TAKE UP THE GAUNTLET (offered COMMAND AUTHORITY / TAKE UP THE GAUNTLET)
+B:Wolfshead Pack keeps mission ASSASSINATION (offered ASSASSINATION / PUSH FORWARD)
+Moves:
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 1 + Rammal Geomancer 8,12 -> 7,8 (advance)
+  [MOVEMENT] B:Wolfshead Pack Mongrel Supplicants 3,2 -> 7,6 (advance)
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 2 3,12 -> 6,8 (advance)
+  [MOVEMENT] B:Wolfshead Pack Wildling Acolytes 9,2 -> 6,6 (advance)
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 3 11,12 -> 8,8 (advance)
+  [MOVEMENT] B:Wolfshead Pack Assault Lycanthropes 11,2 -> 6,5 (advance)
+  [MOVEMENT] A:Sword of Allah Zamburak Camel-Artillery 10,13 -> 10,8
+  [MOVEMENT] B:Wolfshead Pack Weretiger Stalkers 4,2 -> 8,6 (advance)
+  [MOVEMENT] A:Sword of Allah Abna al-Dawla Guard + Saladin - Al-Malik al-Nasir 4,12 -> 3,9 (advance)
+  [MOVEMENT] B:Wolfshead Pack Wendigo Manreaver 5,1 -> 8,5 (advance)
+  [MOVEMENT] A:Sword of Allah Bounded Ifrit 4,14 -> 3,8 (advance)
+  [MOVEMENT] B:Wolfshead Pack Marrowstring Centaur 8,1 -> 5,6 (advance)
+  [MOVEMENT] B:Wolfshead Pack Beast-Monk 6,2 -> 3,5 (advance)
+Combat:
+  [ACTION] ranged: A:Sword of Allah Zamburak Camel-Artillery -> Weretiger Stalkers: Weretiger Stalkers -3
+  [ACTION] ranged: B:Wolfshead Pack Marrowstring Centaur -> Muqatila Troopers 1: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Saladin - Al-Malik al-Nasir (no legal action), A:Abna al-Dawla Guard (no legal action), A:Bounded Ifrit (no legal action), B:HQ (no legal action), B:Assault Lycanthropes (no legal action), B:Beast-Monk (no legal action), B:Wendigo Manreaver (no legal action)
+Commands and abilities:
+  [COMMAND] A:Sword of Allah Matter Transmutation: Zi'baq Beads on Saladin - Al-Malik al-Nasir: paid off - gave Saladin - Al-Malik al-Nasir: weapons SUSTAINED ATTACK 1; 6 attack(s) it touched: +2.63 expected HP for its side
+  [ACTION] B:Wolfshead Pack Go to Ground on Weretiger Stalkers: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Sword of Allah Go to Ground on Muqatila Troopers 1: paid off - 1 attack(s) it touched: +0.83 expected HP for its side
+Passive rules:
+  Patient Hunter (Weretiger Stalkers): 1 attack, 0.73 expected HP for its side
+  Feline Agility (Weretiger Stalkers): 1 attack, 0.73 expected HP for its side
+  Liberation of Flesh (Herald of Feral Affliction): fired 3 times (grant_ability, remove_ability)
+  Liberation of Flesh (Assault Lycanthropes): fired 1 time (grant_ability)
+  Liberation of Flesh (Wildling Acolytes): fired 1 time (grant_ability)
+  Liberation of Flesh (Mongrel Supplicants): fired 1 time (grant_ability)
+  Liberation of Flesh (Weretiger Stalkers): fired 1 time (grant_ability)
+  Liberation of Flesh (Beast-Monk): fired 1 time (grant_ability)
+  Liberation of Flesh (Marrowstring Centaur): fired 1 time (grant_ability)
+  Liberation of Flesh (Wendigo Manreaver): fired 1 time (grant_ability)
+  Ilm al-Raml (Rammal Geomancer): fired 1 time (add_resource)
+  EVASION (Weretiger Stalkers, 5+): 1 of 2 hits turned away
+Scored by:
+  A:Sword of Allah objectives (7,7) 3 VP: Muqatila Troopers 1 1.0, Muqatila Troopers 2 1.0, Muqatila Troopers 3 1.0; hinged on Muqatila Troopers 1, Muqatila Troopers 2, Muqatila Troopers 3
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A BREAK THEIR HOLD, Player B DEBT OF BLOOD
+  [COMMAND] Player A picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] Player B picks mission: ASSASSINATION
+  [MOVEMENT] Herald of Feral Affliction CHARGE FAILED: it does not move
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Weretiger Stalkers
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Muqatila Troopers 1
+
+=== BATTLE ROUND 2 ===
+A:Sword of Allah: VP +2 (obj 2, primary 0, missions 0) = 5; CP +2 -1 holds 2 [1 Go to ground (reaction) for Bounded Ifrit]
+  mana: +2 -0 holds 3
+  al_kimiya_ingredients: +2 -2 holds 0 [1 Matter Transmutation; 1 Matter Transmutation]
+B:Wolfshead Pack: VP +10 (obj 3, primary 3, missions 4) = 10; CP +2 -3 holds 0 [3 Secure Objective → Wildling Acolytes]
+  mana: +23 -3 holds 22 [3 Cast Forest of Fangs]
+A:Sword of Allah keeps mission PROBING STRIKE (offered PROBING STRIKE / FORWARD DEPLOYMENT)
+B:Wolfshead Pack keeps mission FOCUSED FIRE (offered SECURE THE FLANKS / FOCUSED FIRE)
+B:Wolfshead Pack mission ASSASSINATION: completed
+Moves:
+  [MOVEMENT] A:Sword of Allah Zamburak Camel-Artillery 10,8 -> 14,6
+  [MOVEMENT] B:Wolfshead Pack Assault Lycanthropes 6,5 -> 9,7 (charge)
+  [MOVEMENT] A:Sword of Allah Abna al-Dawla Guard + Saladin - Al-Malik al-Nasir 3,9 -> 5,9
+  [MOVEMENT] B:Wolfshead Pack Herald of Feral Affliction 11,1 -> 12,6
+  [MOVEMENT] A:Sword of Allah Bounded Ifrit 3,8 -> 2,7
+  [MOVEMENT] B:Wolfshead Pack Wendigo Manreaver 8,5 -> 6,7 (charge)
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 1 + Rammal Geomancer 7,8 -> 9,9
+  [MOVEMENT] B:Wolfshead Pack Marrowstring Centaur 5,6 -> 1,5
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 2 6,8 -> 6,10
+  [MOVEMENT] B:Wolfshead Pack Beast-Monk 3,5 -> 0,6
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 3 8,8 -> 8,9
+  [MOVEMENT] B:Wolfshead Pack Mongrel Supplicants 7,6 -> 9,8 (charge)
+  [MOVEMENT] B:Wolfshead Pack Wildling Acolytes 6,6 -> 8,8 (charge)
+  [MOVEMENT] B:Wolfshead Pack Weretiger Stalkers 8,6 -> 10,8 (charge)
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Sword of Allah Bounded Ifrit -> Marrowstring Centaur: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Muqatila Troopers 3: Muqatila Troopers 3 -1
+  [ACTION] ranged: A:Sword of Allah Bounded Ifrit -> Wendigo Manreaver: Wendigo Manreaver -3
+  [ACTION] magic (Forest of Fangs): B:Wolfshead Pack Herald of Feral Affliction -> Weretiger Stalkers: no damage
+  [ACTION] ranged: A:Sword of Allah Zamburak Camel-Artillery -> Herald of Feral Affliction: Herald of Feral Affliction -3
+  [ACTION] melee: B:Wolfshead Pack Wildling Acolytes -> Rammal Geomancer: Muqatila Troopers 1 -20 DESTROYED, Rammal Geomancer -4 DESTROYED
+  [ACTION] melee: B:Wolfshead Pack Mongrel Supplicants -> Muqatila Troopers 3: Muqatila Troopers 3 -7
+  [ACTION] ranged: B:Wolfshead Pack Marrowstring Centaur -> Bounded Ifrit: Bounded Ifrit -3
+  [ACTION] effect (Burning): A:Sword of Allah Bounded Ifrit -> Wendigo Manreaver: Wendigo Manreaver -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Saladin - Al-Malik al-Nasir (no legal action), A:Abna al-Dawla Guard (no legal action), B:HQ (no legal action), B:Assault Lycanthropes (no legal action), B:Weretiger Stalkers (no legal action)
+Commands and abilities:
+  [COMMAND] A:Sword of Allah Matter Transmutation: Zi'baq Beads on Zamburak Camel-Artillery: paid off - gave Zamburak Camel-Artillery: weapons SUSTAINED ATTACK 1; 2 attack(s) it touched: +0.47 expected HP for its side
+  [COMMAND] A:Sword of Allah Matter Transmutation: Zi'baq Beads on Abna al-Dawla Guard: paid off - gave Abna al-Dawla Guard: weapons SUSTAINED ATTACK 1; 7 attack(s) it touched: +3.3 expected HP for its side
+  [COMMAND] B:Wolfshead Pack Secure Objective on Wildling Acolytes: nothing - gave Wildling Acolytes: OC +1; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Sword of Allah Cosmic Surge: paid off - gave Bounded Ifrit: weapon AR +1, weapon DMG +1, weapon AP +1, weapon FR +1; 2 attack(s) it touched: +3.52 expected HP for its side
+  [ACTION] B:Wolfshead Pack Forest of Fangs on Weretiger Stalkers: nothing - gave Weretiger Stalkers: weapon AP +1
+  [ACTION] A:Sword of Allah Go to Ground on Bounded Ifrit: paid off - 1 attack(s) it touched: +0.61 expected HP for its side
+Passive rules:
+  Mark of The Beast (Herald of Feral Affliction): 1 attack, 1.63 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 1.32 expected HP for its side
+  Atavistic Rage (Wildling Acolytes): 2 attacks, 15.2 expected HP for its side
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 2 attacks, 0.94 expected HP for its side
+  Spirit of Fire (Bounded Ifrit): 1 attack, 0.92 expected HP for its side
+  Ilm al-Raml (Rammal Geomancer): fired 1 time (add_resource)
+  Liberation of Flesh (Assault Lycanthropes): fired 2 times (grant_ability, remove_ability)
+  Dream of Trillion-Face Beast Lord (Assault Lycanthropes): fired 1 time (add_resource)
+  Liberation of Flesh (Wendigo Manreaver): fired 2 times (grant_ability, remove_ability)
+  Dream of Trillion-Face Beast Lord (Wendigo Manreaver): fired 1 time (add_resource)
+  Liberation of Flesh (Mongrel Supplicants): fired 2 times (grant_ability, remove_ability)
+  Dream of Trillion-Face Beast Lord (Mongrel Supplicants): fired 1 time (add_resource)
+  Liberation of Flesh (Wildling Acolytes): fired 2 times (grant_ability, remove_ability)
+  Dream of Trillion-Face Beast Lord (Wildling Acolytes): fired 1 time (add_resource)
+  Liberation of Flesh (Weretiger Stalkers): fired 2 times (grant_ability, remove_ability)
+  Dream of Trillion-Face Beast Lord (Weretiger Stalkers): fired 1 time (add_resource)
+  EVASION (Bounded Ifrit, 5+): 0 of 2 hits turned away
+Scored by:
+  B:Wolfshead Pack missions ASSASSINATION 4 VP: Wildling Acolytes 4.0 (event)
+  B:Wolfshead Pack objectives (7,7) 3 VP: Wildling Acolytes 1.5, Wendigo Manreaver 1.5
+  A:Sword of Allah objectives (1,7) 2 VP: Bounded Ifrit 2.0; hinged on Bounded Ifrit
+  B:Wolfshead Pack primary DEBT OF BLOOD 3 VP: Wildling Acolytes 3.0
+Key log lines:
+  [COMMAND] Player A picks mission: PROBING STRIKE
+  [COMMAND] Player B picks mission: FOCUSED FIRE
+  [COMMAND] HQ Command: Secure Objective -> Wildling Acolytes (cost 3 CP) by Player B
+  [MOVEMENT] [Muqatila Troopers 1] Fall Back to (9,9)
+  [MOVEMENT] [Bounded Ifrit] Overwatch Reaction vs Marrowstring Centaur: no damage
+  [MOVEMENT] [Muqatila Troopers 2] Fall Back to (6,10)
+  [MOVEMENT] [Muqatila Troopers 3] Fall Back to (8,9)
+  [ACTION] Bounded Ifrit uses Cosmic Surge!
+  [ACTION] Herald of Feral Affliction casts Forest of Fangs on Weretiger Stalkers
+  [ACTION] MISSION COMPLETE: "ASSASSINATION" -> Player B +4 VP!
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Arif destroyed
+  [ACTION]   Rammal Geomancer destroyed
+  [ACTION]   Rammal Geomancer DESTROYED in melee!
+  [ACTION]   Rammal Geomancer was destroyed - no counterattack
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via Saladin - Al-Malik al-Nasir (cost 1 CP) - Bounded Ifrit
+  [CLEANUP] PRIMARY DEBT OF BLOOD: Player B scores 3 VP (3/10)
+
+=== BATTLE ROUND 3 ===
+A:Sword of Allah: VP +6 (obj 3, primary 3, missions 0) = 11; CP +2 -0 holds 4
+  al_kimiya_ingredients: +3 -2 holds 1 [1 Matter Transmutation; 1 Matter Transmutation]
+B:Wolfshead Pack: VP +4 (obj 4, primary 0, missions 0) = 14; CP +2 -0 holds 2
+  mana: +7 -3 holds 26 [3 Cast Shed the Red Skin]
+A:Sword of Allah keeps mission SECURE THE FLANKS (offered TERRITORIAL SUPERIORITY / SECURE THE FLANKS)
+B:Wolfshead Pack keeps mission IRON CURTAIN (offered IRON CURTAIN / PROBING STRIKE)
+A:Sword of Allah mission PROBING STRIKE: expired
+B:Wolfshead Pack mission FOCUSED FIRE: expired
+Moves:
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 3 8,9 -> 7,11
+  [MOVEMENT] B:Wolfshead Pack Mongrel Supplicants 9,8 -> 12,7
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 2 6,10 -> 4,8
+  [MOVEMENT] B:Wolfshead Pack Assault Lycanthropes 9,7 -> 13,6 (charge)
+  [MOVEMENT] A:Sword of Allah Abna al-Dawla Guard + Saladin - Al-Malik al-Nasir 5,9 -> 6,8 (charge)
+  [MOVEMENT] B:Wolfshead Pack Weretiger Stalkers 10,8 -> 13,7 (charge)
+  [MOVEMENT] B:Wolfshead Pack Marrowstring Centaur 1,5 -> 0,7
+  [MOVEMENT] B:Wolfshead Pack Wildling Acolytes 8,8 -> 8,7
+  [MOVEMENT] B:Wolfshead Pack Herald of Feral Affliction 12,6 -> 13,5 (charge)
+  [ACTION] A:Sword of Allah Abna al-Dawla Guard + Saladin - Al-Malik al-Nasir 6,8 -> 6,7
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Muqatila Troopers 3: Muqatila Troopers 3 -3
+  [ACTION] melee: A:Sword of Allah Abna al-Dawla Guard -> Wendigo Manreaver: Wendigo Manreaver -14 DESTROYED
+  [ACTION] melee: B:Wolfshead Pack Assault Lycanthropes -> Zamburak Camel-Artillery: Zamburak Camel-Artillery -12 DESTROYED
+  [ACTION] ranged: A:Sword of Allah Bounded Ifrit -> Marrowstring Centaur: Marrowstring Centaur -2
+  [ACTION] ranged: B:Wolfshead Pack Marrowstring Centaur -> Bounded Ifrit: no damage
+  [ACTION] magic (Shed the Red Skin): B:Wolfshead Pack Herald of Feral Affliction -> Weretiger Stalkers: no damage
+  [ACTION] effect (Burning): A:Sword of Allah Bounded Ifrit -> Marrowstring Centaur: Marrowstring Centaur -2
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] A:Sword of Allah Matter Transmutation: Zi'baq Beads on Bounded Ifrit: paid off - gave Bounded Ifrit: weapons SUSTAINED ATTACK 1; 3 attack(s) it touched: +0.33 expected HP for its side
+  [COMMAND] A:Sword of Allah Matter Transmutation: Zi'baq Beads on Muqatila Troopers 2: paid off - gave Muqatila Troopers 2: weapons SUSTAINED ATTACK 1; 3 attack(s) it touched: +0.99 expected HP for its side
+  [ACTION] A:Sword of Allah Gather Ingredients: paid off - 1 al_kimiya_ingredients gained
+  [ACTION] B:Wolfshead Pack Shed the Red Skin on Weretiger Stalkers: nothing - gave Weretiger Stalkers: CAPABILITY +1, CHARGE_ROLL +1
+Passive rules:
+  Rip and Tear (Assault Lycanthropes): 1 attack, 0.13 expected HP for its side
+  Atavistic Rage (Assault Lycanthropes): 1 attack, 0.61 expected HP for its side
+  Spirit of Fire (Bounded Ifrit): 1 attack, 0.92 expected HP for its side
+  The Cold That Walks (Wendigo Manreaver): fired 1 time (apply_status)
+  Dream of Trillion-Face Beast Lord (Assault Lycanthropes): fired 1 time (add_resource)
+  Dream of Trillion-Face Beast Lord (Weretiger Stalkers): fired 1 time (add_resource)
+  Dream of Trillion-Face Beast Lord (Herald of Feral Affliction): fired 1 time (add_resource)
+  EVASION (Bounded Ifrit, 5+): 1 of 1 hits turned away
+Scored by:
+  A:Sword of Allah objectives (7,7) 3 VP: Saladin - Al-Malik al-Nasir 1.5, Abna al-Dawla Guard 1.5; hinged on Saladin - Al-Malik al-Nasir, Abna al-Dawla Guard
+  B:Wolfshead Pack objectives (1,7) 2 VP: Marrowstring Centaur 2.0; hinged on Marrowstring Centaur
+  B:Wolfshead Pack objectives (13,7) 2 VP: Assault Lycanthropes 0.7, Mongrel Supplicants 0.7, Weretiger Stalkers 0.7
+  A:Sword of Allah primary BREAK THEIR HOLD 3 VP: Abna al-Dawla Guard 2.0, Saladin - Al-Malik al-Nasir 0.5, Bounded Ifrit 0.5
+Key log lines:
+  [COMMAND] Player A picks mission: SECURE THE FLANKS
+  [COMMAND] Player B picks mission: IRON CURTAIN
+  [MOVEMENT]   Muqatila destroyed
+  [MOVEMENT] [Muqatila Troopers 3] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Muqatila Troopers 3] Fall Back to (7,11)
+  [ACTION]   Wendigo Manreaver destroyed
+  [ACTION]   Wendigo Manreaver DESTROYED in melee!
+  [ACTION]   Wendigo Manreaver was destroyed - no counterattack
+  [ACTION]   Zamburak destroyed
+  [ACTION]   Zamburak destroyed
+  [ACTION]   Zamburak destroyed
+  [ACTION]   Zamburak Camel-Artillery DESTROYED in melee!
+  [ACTION]   Zamburak Camel-Artillery was destroyed - no counterattack
+  [ACTION] Muqatila Troopers 2 uses Gather Ingredients!
+  [ACTION] Herald of Feral Affliction casts Shed the Red Skin on Weretiger Stalkers
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (3/10)
+  [CLEANUP] Mission "PROBING STRIKE" EXPIRED (R3)
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Sword of Allah: VP +10 (obj 5, primary 3, missions 2) = 21; CP +3 -5 holds 2 [5 Troop Requisition → Muqatila Troopers]
+  al_kimiya_ingredients: +3 -3 holds 1 [3 Matter Transmutation]
+B:Wolfshead Pack: VP +2 (obj 2, primary 0, missions 0) = 16; CP +2 -0 holds 4
+  mana: +2 -6 holds 22 [3 Cast Thicken the Hide; 3 Cast Shed the Red Skin]
+A:Sword of Allah keeps mission ASSASSINATION (offered VIGILANT WATCH / ASSASSINATION)
+B:Wolfshead Pack keeps mission COMMAND AUTHORITY (offered COMMAND AUTHORITY / LAST STAND)
+A:Sword of Allah mission TAKE UP THE GAUNTLET: expired
+A:Sword of Allah mission SECURE THE FLANKS: completed
+B:Wolfshead Pack mission IRON CURTAIN: expired
+Moves:
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 3 7,11 -> 6,12
+  [MOVEMENT] B:Wolfshead Pack Herald of Feral Affliction 13,5 -> 9,7
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 6,13 -> 6,10
+  [MOVEMENT] B:Wolfshead Pack Beast-Monk 0,6 -> 3,9 (charge)
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 2 4,8 -> 2,6
+  [MOVEMENT] B:Wolfshead Pack Mongrel Supplicants 12,7 -> 9,8
+  [MOVEMENT] A:Sword of Allah Bounded Ifrit 2,7 -> 1,8 (charge)
+  [MOVEMENT] B:Wolfshead Pack Assault Lycanthropes 13,6 -> 8,6
+  [MOVEMENT] A:Sword of Allah Abna al-Dawla Guard + Saladin - Al-Malik al-Nasir 6,7 -> 7,8 (charge)
+  [MOVEMENT] B:Wolfshead Pack Weretiger Stalkers 13,7 -> 12,7
+  [MOVEMENT] B:Wolfshead Pack Marrowstring Centaur 0,7 -> 0,6
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Sword of Allah Saladin - Al-Malik al-Nasir -> Mongrel Supplicants: Mongrel Supplicants -2
+  [ACTION] melee: A:Sword of Allah Saladin - Al-Malik al-Nasir -> Wildling Acolytes: Wildling Acolytes -9
+  [ACTION] magic (Thicken the Hide): B:Wolfshead Pack Herald of Feral Affliction -> Wildling Acolytes: no damage
+  [ACTION] melee: A:Sword of Allah Abna al-Dawla Guard -> Wildling Acolytes: Abna al-Dawla Guard -1, Wildling Acolytes -15
+  [ACTION] magic (Shed the Red Skin): B:Wolfshead Pack Beast-Monk -> Beast-Monk: no damage
+  [ACTION] effect (Burning): A:Sword of Allah Bounded Ifrit -> Marrowstring Centaur: Marrowstring Centaur -2
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Mongrel Supplicants (no legal action)
+Moves undone:
+  B:Wolfshead Pack Mongrel Supplicants: R3 MOVEMENT 9,8 -> 12,7, R4 MOVEMENT -> 9,8 (back beside its start; toward the objective at 13,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Sword of Allah Matter Transmutation: Red Sulfur on Muqatila Troopers 2: paid off - gave Muqatila Troopers 2: weapons LETHAL; 3 attack(s) it touched: +1.15 expected HP for its side
+  [COMMAND] A:Sword of Allah Troop Requisition on (6,13): paid off - placed Muqatila Troopers; the unit it placed made 1 attack(s), 1 HP off; the unit it placed scored 0.33 VP
+  [ACTION] B:Wolfshead Pack Thicken the Hide on Wildling Acolytes: paid off - gave Wildling Acolytes: SAVE +1; 2 attack(s) it touched: +1.93 expected HP for its side
+  [ACTION] B:Wolfshead Pack Shed the Red Skin on Beast-Monk: nothing - gave Beast-Monk: CAPABILITY +1, CHARGE_ROLL +1
+  [ACTION] A:Sword of Allah Gather Ingredients: paid off - 1 al_kimiya_ingredients gained
+Passive rules:
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 1 attack, 0.6 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 0.6 expected HP for its side
+  Liberation of Flesh (Beast-Monk): fired 2 times (grant_ability, remove_ability)
+  Dream of Trillion-Face Beast Lord (Beast-Monk): fired 1 time (add_resource)
+  Beast-Feed (Mongrel Supplicants): fired 1 time (heal)
+  Liberation of Flesh (Marrowstring Centaur): fired 4 times (grant_ability, remove_ability)
+Scored by:
+  A:Sword of Allah objectives (7,7) 3 VP: Abna al-Dawla Guard 3.0; hinged on Abna al-Dawla Guard
+  A:Sword of Allah objectives (1,7) 2 VP: Muqatila Troopers 2 2.0; hinged on Muqatila Troopers 2
+  B:Wolfshead Pack objectives (13,7) 2 VP: Weretiger Stalkers 2.0; hinged on Weretiger Stalkers
+  A:Sword of Allah primary BREAK THEIR HOLD 3 VP: Muqatila Troopers 2 1.4, Bounded Ifrit 1.4, Saladin - Al-Malik al-Nasir 0.3, Abna al-Dawla Guard -0.1
+  A:Sword of Allah missions SECURE THE FLANKS 2 VP: Muqatila Troopers 2 2.0
+Key log lines:
+  [COMMAND] Player A picks mission: ASSASSINATION
+  [COMMAND] Player B picks mission: COMMAND AUTHORITY
+  [COMMAND] HQ Command: Troop Requisition -> caliphate_of_the_two_sanctuaries:muqatila_troopers (cost 5 CP) by Player A
+  [MOVEMENT] [Muqatila Troopers 2] Fall Back to (2,6)
+  [MOVEMENT]   Mongrel Supplicant destroyed
+  [MOVEMENT] [Saladin - Al-Malik al-Nasir] Overwatch Reaction vs Mongrel Supplicants: 2 damage
+  [MOVEMENT] [Marrowstring Centaur] Fall Back to (0,6)
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION] Herald of Feral Affliction casts Thicken the Hide on Wildling Acolytes
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION] Beast-Monk casts Shed the Red Skin on Beast-Monk
+  [ACTION] Muqatila Troopers 3 uses Gather Ingredients!
+  [ACTION]   Marrowstring Centaur destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (6/10)
+  [CLEANUP] MISSION COMPLETE: "SECURE THE FLANKS" -> Player A +2 VP +1 CP!
+  [CLEANUP] Mission "TAKE UP THE GAUNTLET" EXPIRED (R4)
+  [CLEANUP] Mission "IRON CURTAIN" EXPIRED (R4)
+
+=== BATTLE ROUND 5 ===
+A:Sword of Allah: VP +3 (obj 2, primary 1, missions 0) = 24; CP +2 -4 holds 0 [2 Double Time → Muqatila Troopers 3; 2 Rally cry (reaction) for Abna al-Dawla Guard]
+  al_kimiya_ingredients: +2 -2 holds 1 [1 Matter Transmutation; 1 Matter Transmutation]
+B:Wolfshead Pack: VP +10 (obj 5, primary 0, missions 5) = 26; CP +2 -5 holds 1 [5 Secure Objective → Beast-Monk]
+  mana: +10 -0 holds 32
+A:Sword of Allah keeps mission FORWARD PRESENCE (offered FORWARD PRESENCE / IRON CURTAIN)
+B:Wolfshead Pack keeps mission DEEP REACH (offered MAN OF THE HOUR / DEEP REACH)
+B:Wolfshead Pack mission COMMAND AUTHORITY: completed
+B:Wolfshead Pack mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 3 6,12 -> 6,7
+  [MOVEMENT] B:Wolfshead Pack Mongrel Supplicants 9,8 -> 7,6 (charge)
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 6,10 -> 6,8
+  [MOVEMENT] B:Wolfshead Pack Herald of Feral Affliction 9,7 -> 6,6 (charge)
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 2 2,6 -> 1,6 (charge)
+  [MOVEMENT] B:Wolfshead Pack Beast-Monk 3,9 -> 2,6 (charge)
+  [MOVEMENT] B:Wolfshead Pack Assault Lycanthropes 8,6 -> 7,7 (charge)
+  [ACTION] B:Wolfshead Pack Herald of Feral Affliction 6,6 -> 6,7
+Combat:
+  [ACTION] melee: A:Sword of Allah Saladin - Al-Malik al-Nasir -> Assault Lycanthropes: Abna al-Dawla Guard -2, Assault Lycanthropes -8
+  [ACTION] melee: B:Wolfshead Pack Mongrel Supplicants -> Muqatila Troopers 3: Muqatila Troopers 3 -7
+  [ACTION] melee: A:Sword of Allah Abna al-Dawla Guard -> Assault Lycanthropes: Assault Lycanthropes -7
+  [ACTION] melee: B:Wolfshead Pack Beast-Monk -> Muqatila Troopers 2: Muqatila Troopers 2 -2, Beast-Monk -1
+  [ACTION] melee: A:Sword of Allah Muqatila Troopers -> Assault Lycanthropes: Assault Lycanthropes -1
+  [ACTION] melee: B:Wolfshead Pack Herald of Feral Affliction -> Muqatila Troopers 3: Muqatila Troopers 3 -2 DESTROYED
+  [ACTION] melee: B:Wolfshead Pack Wildling Acolytes -> Abna al-Dawla Guard: no damage
+  [ACTION] effect (Burning): A:Sword of Allah Bounded Ifrit -> Marrowstring Centaur: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] A:Sword of Allah Matter Transmutation: Zi'baq Beads on Muqatila Troopers 3: nothing - gave Muqatila Troopers 3: weapons SUSTAINED ATTACK 1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Sword of Allah Matter Transmutation: Zi'baq Beads on Muqatila Troopers: paid off - gave Muqatila Troopers: weapons SUSTAINED ATTACK 1; 1 attack(s) it touched: +0.32 expected HP for its side
+  [COMMAND] A:Sword of Allah Double Time on Muqatila Troopers 3: paid off - gave Muqatila Troopers 3: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Wolfshead Pack Secure Objective on Beast-Monk: paid off - gave Beast-Monk: OC +1; completed COMMAND AUTHORITY (+2 VP); 2 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Sword of Allah Rally Cry on Abna al-Dawla Guard: paid off - passed 1 Morale Test(s) outright
+Passive rules:
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 3 attacks, 2.16 expected HP for its side
+  Atavistic Rage (Assault Lycanthropes): 7 attacks, 5.58 expected HP for its side
+  Zardkhana Plate (Saladin - Al-Malik al-Nasir): 1 attack, 2.71 expected HP for its side
+  Locust of Primal Fury (Herald of Feral Affliction): 1 attack, 0.08 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 0.17 expected HP for its side
+  Dream of Trillion-Face Beast Lord (Mongrel Supplicants): fired 1 time (add_resource)
+  Dream of Trillion-Face Beast Lord (Herald of Feral Affliction): fired 1 time (add_resource)
+  Liberation of Flesh (Marrowstring Centaur): fired 2 times (grant_ability, remove_ability)
+  Liberation of Flesh (Beast-Monk): fired 2 times (grant_ability, remove_ability)
+  Dream of Trillion-Face Beast Lord (Beast-Monk): fired 1 time (add_resource)
+  Dream of Trillion-Face Beast Lord (Assault Lycanthropes): fired 1 time (add_resource)
+  Call of the Dark Woods (Herald of Feral Affliction): fired 1 time (force_test)
+  Bestial Reflex (Marrowstring Centaur): fired 1 time (grant_move)
+Scored by:
+  B:Wolfshead Pack missions COMMAND AUTHORITY 2 VP: Beast-Monk 2.0 (event)
+  B:Wolfshead Pack objectives (7,7) 3 VP: Mongrel Supplicants 1.5, Herald of Feral Affliction 0.5, Assault Lycanthropes 0.5, Wildling Acolytes 0.5; hinged on Mongrel Supplicants
+  A:Sword of Allah objectives (1,7) 2 VP: Muqatila Troopers 2 2.0; hinged on Muqatila Troopers 2
+  B:Wolfshead Pack objectives (13,7) 2 VP: Weretiger Stalkers 2.0; hinged on Weretiger Stalkers
+  A:Sword of Allah primary BREAK THEIR HOLD 1 VP: Bounded Ifrit 0.5, Saladin - Al-Malik al-Nasir 0.3, Abna al-Dawla Guard 0.3, Muqatila Troopers 0.3, Muqatila Troopers 2 -0.5
+  B:Wolfshead Pack missions DEEP REACH 3 VP: HQ 1.8, Weretiger Stalkers 0.7, Mongrel Supplicants 0.3, Herald of Feral Affliction 0.1, Assault Lycanthropes 0.1, Wildling Acolytes 0.1
+Key log lines:
+  [COMMAND] Player A picks mission: FORWARD PRESENCE
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Double Time -> Muqatila Troopers 3 (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Secure Objective -> Beast-Monk (cost 5 CP) by Player B
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player B +2 VP!
+  [ACTION]   Abna destroyed
+  [ACTION]   Assault Lycanthrope destroyed
+  [ACTION]   Assault Lycanthrope destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Assault Lycanthrope destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Assault Lycanthrope destroyed
+  [ACTION]   Arif destroyed
+  [ACTION]   Muqatila Troopers 3 DESTROYED in melee!
+  [ACTION]   Muqatila Troopers 3 was destroyed - no counterattack
+  [ACTION] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Abna al-Dawla Guard
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (7/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+
+=== BATTLE ROUND 6 ===
+A:Sword of Allah: VP +8 (obj 2, primary 1, missions 5) = 32; CP +3 -2 holds 1 [2 Rally cry (reaction) for Muqatila Troopers]
+  al_kimiya_ingredients: +2 -3 holds 0 [3 Matter Transmutation]
+B:Wolfshead Pack: VP +5 (obj 5, primary 0, missions 0) = 31; CP +2 -3 holds 0 [3 Secure Objective → Mongrel Supplicants]
+A:Sword of Allah keeps mission STRONGPOINT (offered STRONGPOINT / OBJECTIVE RELAY)
+B:Wolfshead Pack keeps mission KING OF THE HILL (offered OBJECTIVE RELAY / KING OF THE HILL)
+A:Sword of Allah mission ASSASSINATION: completed
+A:Sword of Allah mission STRONGPOINT: completed
+Moves:
+  [MOVEMENT] A:Sword of Allah Bounded Ifrit 1,8 -> 1,7 (charge)
+  [MOVEMENT] B:Wolfshead Pack Mongrel Supplicants 7,6 -> 6,6
+  [MOVEMENT] A:Sword of Allah Muqatila Troopers 6,8 -> 6,9
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Muqatila Troopers: Muqatila Troopers -1
+  [ACTION] melee: A:Sword of Allah Saladin - Al-Malik al-Nasir -> Wildling Acolytes: Wildling Acolytes -6 DESTROYED
+  [ACTION] melee: B:Wolfshead Pack Herald of Feral Affliction -> Abna al-Dawla Guard: Abna al-Dawla Guard -3
+  [ACTION] melee: A:Sword of Allah Bounded Ifrit -> Beast-Monk: Beast-Monk -6 DESTROYED
+  [ACTION] melee: A:Sword of Allah Muqatila Troopers 2 -> Marrowstring Centaur: Marrowstring Centaur -4
+  [ACTION] effect (Burning): A:Sword of Allah Bounded Ifrit -> Marrowstring Centaur: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] A:Sword of Allah Matter Transmutation: Red Sulfur on Muqatila Troopers: nothing - gave Muqatila Troopers: weapons LETHAL
+  [COMMAND] B:Wolfshead Pack Secure Objective on Mongrel Supplicants: nothing - gave Mongrel Supplicants: OC +1
+  [COMMAND] A:Sword of Allah Rally Cry on Muqatila Troopers: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Wolfshead Pack Howl of Carnage on Saladin - Al-Malik al-Nasir: nothing - no change
+Passive rules:
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 2 attacks, 0.94 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 0.01 expected HP for its side
+  Locust of Primal Fury (Herald of Feral Affliction): 1 attack, 1.67 expected HP for its side
+  Atavistic Rage (Assault Lycanthropes): 2 attacks, 1.66 expected HP for its side
+  Mark of The Beast (Herald of Feral Affliction): 1 attack, 0.94 expected HP for its side
+  Call of the Dark Woods (Herald of Feral Affliction): fired 1 time (force_test)
+  Bestial Reflex (Marrowstring Centaur): fired 1 time (grant_move)
+Scored by:
+  A:Sword of Allah missions ASSASSINATION 4 VP: Bounded Ifrit 4.0 (event)
+  B:Wolfshead Pack objectives (7,7) 3 VP: Mongrel Supplicants 3.0; hinged on Mongrel Supplicants
+  A:Sword of Allah objectives (1,7) 2 VP: Muqatila Troopers 2 1.0, Bounded Ifrit 1.0
+  B:Wolfshead Pack objectives (13,7) 2 VP: Weretiger Stalkers 2.0; hinged on Weretiger Stalkers
+  A:Sword of Allah primary BREAK THEIR HOLD 1 VP: Saladin - Al-Malik al-Nasir 0.5, Abna al-Dawla Guard 0.5
+  A:Sword of Allah missions STRONGPOINT 1 VP: Muqatila Troopers 2 0.5, Bounded Ifrit 0.5
+Key log lines:
+  [COMMAND] Player A picks mission: STRONGPOINT
+  [COMMAND] Player B picks mission: KING OF THE HILL
+  [COMMAND] HQ Command: Secure Objective -> Mongrel Supplicants (cost 3 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Muqatila Troopers
+  [MOVEMENT] [Muqatila Troopers] Fall Back to (6,9)
+  [ACTION]   Wildling Acolyte destroyed
+  [ACTION]   First-Blooded destroyed
+  [ACTION]   Wildling Acolytes DESTROYED in melee!
+  [ACTION]   Abna destroyed
+  [ACTION] MISSION COMPLETE: "ASSASSINATION" -> Player A +4 VP!
+  [ACTION]   Beast-Monk destroyed
+  [ACTION]   Beast-Monk DESTROYED in melee!
+  [ACTION]   Beast-Monk was destroyed - no counterattack
+  [ACTION] Assault Lycanthropes uses Howl of Carnage!
+  [ACTION]   Marrowstring Centaur destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (8/10)
+  [CLEANUP] MISSION COMPLETE: "STRONGPOINT" -> Player A +1 VP +1 CP!
+
+Damage leaders:
+  A:Sword of Allah Abna al-Dawla Guard: 36 damage, 1 kills, 41 RP, 0.88/RP
+  B:Wolfshead Pack Wildling Acolytes: 25 damage, 2 kills, 15 RP, 1.67/RP (destroyed)
+  A:Sword of Allah Saladin - Al-Malik al-Nasir: 25 damage, 1 kills, 65 RP, 0.38/RP
+  A:Sword of Allah Bounded Ifrit: 16 damage, 1 kills, 50 RP, 0.32/RP
+  B:Wolfshead Pack Assault Lycanthropes: 14 damage, 1 kills, 30 RP, 0.47/RP
+  B:Wolfshead Pack Mongrel Supplicants: 14 damage, 0 kills, 14 RP, 1.00/RP
+  A:Sword of Allah Zamburak Camel-Artillery: 6 damage, 0 kills, 35 RP, 0.17/RP (destroyed)
+  B:Wolfshead Pack Herald of Feral Affliction: 5 damage, 1 kills, 60 RP, 0.08/RP
+  A:Sword of Allah Muqatila Troopers 2: 5 damage, 0 kills, 13 RP, 0.38/RP
+  B:Wolfshead Pack Marrowstring Centaur: 3 damage, 0 kills, 30 RP, 0.10/RP
+  B:Wolfshead Pack Beast-Monk: 2 damage, 0 kills, 17 RP, 0.12/RP (destroyed)
+  A:Sword of Allah Muqatila Troopers: 1 damage, 0 kills, 13 RP, 0.08/RP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Sword of Allah Bounded Ifrit: 9.9 VP (obj 3.0, primary 2.4, missions 4.5), hinged 2, 19.8/100 RP
+  A:Sword of Allah Muqatila Troopers 2: 9.4 VP (obj 6.0, primary 0.9, missions 2.5), hinged 7, 72.4/100 RP
+  B:Wolfshead Pack Wildling Acolytes: 9.1 VP (obj 2.0, primary 3.0, missions 4.1), hinged 0, 60.7/100 RP
+  B:Wolfshead Pack Weretiger Stalkers: 7.4 VP (obj 6.7, primary 0.0, missions 0.7), hinged 6, 24.6/100 RP
+  A:Sword of Allah Abna al-Dawla Guard: 7.3 VP (obj 4.5, primary 2.8, missions 0.0), hinged 6, 17.7/100 RP
+  B:Wolfshead Pack Mongrel Supplicants: 5.4 VP (obj 5.2, primary 0.0, missions 0.3), hinged 6, 38.7/100 RP
+  A:Sword of Allah Saladin - Al-Malik al-Nasir: 3.1 VP (obj 1.5, primary 1.6, missions 0.0), hinged 3, 4.7/100 RP
+  B:Wolfshead Pack Marrowstring Centaur: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 6.7/100 RP
+  B:Wolfshead Pack Beast-Monk: 2.0 VP (obj 0.0, primary 0.0, missions 2.0), hinged 0, 11.8/100 RP
+  B:Wolfshead Pack HQ: 1.8 VP (obj 0.0, primary 0.0, missions 1.8), hinged 0, -/100 RP
+  B:Wolfshead Pack Wendigo Manreaver: 1.5 VP (obj 1.5, primary 0.0, missions 0.0), hinged 0, 3.0/100 RP
+  B:Wolfshead Pack Assault Lycanthropes: 1.3 VP (obj 1.2, primary 0.0, missions 0.1), hinged 0, 4.2/100 RP
+  A:Sword of Allah Muqatila Troopers 1: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 3, 7.7/100 RP
+  A:Sword of Allah Muqatila Troopers 3: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 3, 7.7/100 RP
+  B:Wolfshead Pack Herald of Feral Affliction: 0.6 VP (obj 0.5, primary 0.0, missions 0.1), hinged 0, 1.0/100 RP
+  A:Sword of Allah Muqatila Troopers: 0.3 VP (obj 0.0, primary 0.3, missions 0.0), hinged 0, 2.6/100 RP
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  B:Wolfshead Pack Assault Lycanthropes: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/2/1/0/4
+  A:Sword of Allah Abna al-Dawla Guard: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/4/0/0/4
+  A:Sword of Allah Saladin - Al-Malik al-Nasir: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/0/3/0/0/4
+  B:Wolfshead Pack Wendigo Manreaver: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0/1
+  B:Wolfshead Pack Beast-Monk: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/1/3
+  B:Wolfshead Pack Weretiger Stalkers: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0/5
+  B:Wolfshead Pack Mongrel Supplicants: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/0/0/4
+  A:Sword of Allah Bounded Ifrit: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/1/1/0/5
+  A:Sword of Allah Rammal Geomancer: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/0/1
+  A:Sword of Allah Muqatila Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/1/0/0/0
+  A:Sword of Allah Muqatila Troopers 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/0/0/0/1
+  A:Sword of Allah Zamburak Camel-Artillery: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/2/0/0/0/1
+  A:Sword of Allah Muqatila Troopers 3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 2/0/0/1/0/1
+  B:Wolfshead Pack Marrowstring Centaur: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/3/0/0/0/4
+  B:Wolfshead Pack Herald of Feral Affliction: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/4/3
+  A:Sword of Allah Muqatila Troopers 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 2/0/2/1/0/4
+  B:Wolfshead Pack Wildling Acolytes: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/4/0/0/5
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 1
+  B:Wolfshead Pack Mongrel Supplicants: 1 of 6 moves (1 back, 1 away from an objective), 3 squares lost
+Secondary missions:
+  A:Sword of Allah TAKE UP THE GAUNTLET (+3 VP): kept R1, expired R4 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  A:Sword of Allah PROBING STRIKE (+2 VP): kept R2, expired R3 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  A:Sword of Allah SECURE THE FLANKS (+2 VP): kept R3, completed R4 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  A:Sword of Allah ASSASSINATION (+4 VP): kept R4, completed R6 - Destroy an enemy CHARACTER or MONSTER.
+  A:Sword of Allah FORWARD PRESENCE (+3 VP): kept R5, active - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  A:Sword of Allah STRONGPOINT (+1 VP): kept R6, completed R6 - Maintain at least 2 friendly units in an Objective Area at the end of a Battle Round.
+  B:Wolfshead Pack ASSASSINATION (+4 VP): kept R1, completed R2 - Destroy an enemy CHARACTER or MONSTER.
+  B:Wolfshead Pack FOCUSED FIRE (+2 VP): kept R2, expired R3 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Wolfshead Pack IRON CURTAIN (+2 VP): kept R3, expired R4 - No friendly unit is destroyed during the entire duration of this Mission.
+  B:Wolfshead Pack COMMAND AUTHORITY (+2 VP): kept R4, completed R5 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  B:Wolfshead Pack DEEP REACH (+3 VP): kept R5, completed R5 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Wolfshead Pack KING OF THE HILL (+3 VP): kept R6, active - Have a friendly unit in an Objective Area destroy an enemy unit.

@@ -1,0 +1,34 @@
+cl-s1-d1-d1-m09: 21 uses, 9 bought nothing
+  [Cosán Sí Host] Tunnel Burrow (ability): 4 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 1.5; spotted 0; morale 0
+  [Cosán Sí Host] Double Time (command): 3 uses, 1 bought nothing; 6 CP 0 Mana; damage 0; enabled 0 (0); moves 2/4 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Cosán Sí Host] Flow of Magic: Stone (table): 2 uses, 2 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Cosán Sí Host] Go to Ground (reaction): 1 uses, 0 bought nothing; 1 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Cosán Sí Host] Flow of Magic: Surge (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Cosán Sí Host] Flow of Magic: Water (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Cosán Sí Host] Rally Cry (reaction): 1 uses, 0 bought nothing; 2 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 1
+  [Cosán Sí Host] Flow of Magic: Tree (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Knights of Camelot] Double Time (command): 4 uses, 1 bought nothing; 8 CP 0 Mana; damage 0; enabled 0 (0); moves 3/3 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Knights of Camelot] Go to Ground (reaction): 1 uses, 0 bought nothing; 1 CP 0 Mana; damage 0.33; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Knights of Camelot] Heroic Hour (ability): 1 uses, 0 bought nothing; 0 CP 0 Mana; damage 1.11; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Knights of Camelot] Troop Requisition (command): 1 uses, 1 bought nothing; 5 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+    report.json R1 COMMAND Flow of Magic: Stone by - on -: nothing - made stone active; 3 attack(s) it touched: +0 expected HP for its side
+    report.json R1 COMMAND Double Time by HQ on Knight-Excisors: paid off - gave Merlin - Wizard of Avalon: MOVE +2; Knight-Excisors: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R1 ACTION Go to Ground by Blackflint Archers on Blackflint Archers: paid off - 1 attack(s) it touched that the estimate cannot price
+    report.json R2 COMMAND Flow of Magic: Surge by - on -: nothing - made surge active; 15 attack(s) it touched: +0 expected HP for its side
+    report.json R2 COMMAND Double Time by HQ on Knight-Scourgers: paid off - gave Knight-Scourgers: MOVE +2; 7 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R2 COMMAND Double Time by HQ on Blackflint Archers: paid off - gave Blackflint Archers: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 2 move(s) with it, 1 out of reach without it
+    report.json R2 MOVEMENT Go to Ground by Knight-Scourgers on Knight-Scourgers: paid off - 1 attack(s) it touched: +0.33 expected HP for its side
+    report.json R2 ACTION Heroic Hour by Knight-Banneret on -: paid off - gave Knight-Banneret: weapon AR +2, weapon DMG +1; 2 attack(s) it touched: +1.11 expected HP for its side
+    report.json R2 ACTION Tunnel Burrow by Coblynau Sappers 2 on -: paid off - sent Coblynau Sappers 2 into TRANSITIONAL STATE; emerged Coblynau Sappers 2 at (2,12) in R3; it scored 0.5 VP the round it emerged
+    report.json R2 ACTION Tunnel Burrow by Coblynau Sappers 1 on -: paid off - sent Coblynau Sappers 1 into TRANSITIONAL STATE; emerged Coblynau Sappers 1 at (3,2) in R3; it scored 0.5 VP the round it emerged
+    report.json R3 COMMAND Flow of Magic: Water by - on -: nothing - made water active; 7 attack(s) it touched: +0 expected HP for its side
+    report.json R3 COMMAND Double Time by HQ on Knight-Banneret: nothing - gave Knight-Banneret: MOVE +2
+    report.json R3 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R4 COMMAND Flow of Magic: Stone by - on -: nothing - made stone active; 6 attack(s) it touched: +0 expected HP for its side
+    report.json R4 COMMAND Double Time by HQ on Blackflint Archers: paid off - gave Blackflint Archers: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R4 ACTION Tunnel Burrow by Coblynau Sappers 1 on -: paid off - sent Coblynau Sappers 1 into TRANSITIONAL STATE; emerged Coblynau Sappers 1 at (3,2) in R5; it scored 0.5 VP the round it emerged
+    report.json R5 COMMAND Flow of Magic: Tree by - on -: nothing - made tree active; 7 attack(s) it touched: +0 expected HP for its side
+    report.json R5 COMMAND Troop Requisition by HQ on (6,13): nothing - placed Parish Militia
+    report.json R5 COMMAND Double Time by HQ on Parish Militia: paid off - gave Parish Militia: MOVE +2; 1 move(s) with it, 1 out of reach without it
+    report.json R5 COMMAND Double Time by HQ on Sidhe Druid: nothing - gave Sidhe Druid: MOVE +2; 1 move(s) with it, 0 out of reach without it
+    report.json R5 ACTION Tunnel Burrow by Coblynau Sappers 2 on -: nothing - sent Coblynau Sappers 2 into TRANSITIONAL STATE

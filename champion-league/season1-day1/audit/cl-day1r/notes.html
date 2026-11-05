@@ -1,0 +1,40 @@
+<p>Day 1 was played again on the same 24 pairings and seeds, after the Day 1 fixes, the AI changes and your balance calls. The winner was the same in 20 of 24 battles. The average margin was 15.6 VP (first playing 16.3), three battles ended within 5 VP (M04, M06, M13), eight by 20 or more (ten before), and 16 of 24 went to Round 5 or 6 (12 before). Player A won 10, as before. A seed repeats the dice only while the rules and the AI stay the same, so these are new battles: one battle per pairing is still an anecdote, not a verdict on an army.</p>
+<h3>The four results that flipped</h3>
+<ul>
+<li><b>M09, Cosán Sí Host 33-18</b> (first 10-30). GARRISON DUTY, which paid the Knights of Camelot 4 VP the first time, is now broken by counterattacks, and it scored 0. The Host's ten units scored IMPENETRABLE FORTRESS to its limit.</li>
+<li><b>M12, Ghosts of Lemesos 36-17</b> (first 22-31). Level at 15-17 after Round 3; the Knights of Tehom took the centre and the Evil-Eye Serpent killed the Judgement's HQ. A 4 HP Runesmith walking alone through three Overwatches onto the right objective broke IRON CURTAIN in Round 2.</li>
+<li><b>M20, Popinjay Guild 35-21</b> (first 6-32). The Silver Arrow Brethren destroyed the Champion of Mars, the Speculatores and both Legionnaire Squads in two rounds. The Guild now fields a caster (a preset change).</li>
+<li><b>M22, Soudarion Cortege 35-8</b> (first 25-33). The Cortege took all three objectives in Round 1 and the 10 VP cap was all that slowed it: it lost 10 VP to the cap and still won in Round 4.</li>
+</ul>
+<h3>What your changes did</h3>
+<ul>
+<li><b>Legionnaire Squad BS 3+.</b> Legio XIII won again, closer (33-27; first 32-14), but the squads were not yet an anchor elsewhere: the Armoured Cohort's were charged down one by one by the Magdeburg Warhost (10-36), and Alea Iacta lost both in two rounds (M20).</li>
+<li><b>OC 2 on the low-OC elites.</b> Caesar and the Palatine Custos (Mounted) took the centre from Round 3 and held it; Celeritas lost 23-34 (first 4-32). The Protectores lost 28-32 (first 20-32), two short of the 30 VP target.</li>
+<li><b>Atavistic Rage without its OC penalty.</b> The Wolfshead Pack won 30-19 (first 34-25). Its decisive round was six charges in Round 2, all three Muqatila squads failing their Fall Back tests. It looked strong, not out of line.</li>
+<li><b>Cheaper guns.</b> Longwu's two Vermillion Rocket Batteries did 84 damage (M23), the most of any pair on the Day. The Belfry Battery still lost 11-34 and Kishomon 24-36: those losses came from objectives, not guns.</li>
+<li><b>Tithe of Torment capped at 10 a round.</b> It no longer runs away, but Infernal Mana mostly goes unspent: the Murderhost gained 51 and the Sineaters 28 with no caster in either preset, and the Procession (30), Lightbearers (28) and Ghosts (27 of 29) banked theirs. The Sineaters still won 36-7.</li>
+<li><b>The 10 VP round cap</b> shaped many battles: it withheld 6 VP in M14, 9 in M15 and 10 in M22, and three of the Cortege's missions completed for 0 VP and were used up.</li>
+</ul>
+<h3>Engine and rules bugs found</h3>
+<ul>
+<li><b>A CHARACTER can attach to an embarked squad from anywhere</b> (M01). The adjacency check in <code>canAttachLeader</code> is skipped when the squad is off the board: The Pontifex of Acedia joined Cultist Troopers 1 inside the Somniferous Engine six squares away, and got out with them on the right objective. Confirmed in the code.</li>
+<li><b>A joined pair is still counted as two in a few places</b>, against the new one-unit rule. MAN OF THE HOUR counts a pair destroyed in one attack as two kills and paid the Chonae Wing 4 VP (M15; <code>event_count</code> in <code>missions/rule_evaluator.js</code> adds one per destroy event, confirmed). A joined pair took two Fall Back tests, one per unit, and split (M03).</li>
+<li><b>An engaged CHARACTER can attach to a squad and leave the fight</b> without a Fall Back test (M05, Tysyatsky 2).</li>
+<li><b>Possible:</b> Agnus Dei's restore after a stray shot was spent without restoring (M20). The battle went on one activation after the Rade reached 31 VP in the Action Phase (M10).</li>
+<li><b>Rules questions:</b> a seized unit gives its controller its faction's Mana income (M14, FOUNDATIONS OF AKKAD through a seized Temple Levy). A unit with no MORALE stays SUPPRESSED for good, since it never takes a Regroup test (M07, the Bounded Ifrit).</li>
+</ul>
+<h3>What the AI still gets wrong</h3>
+<ul>
+<li><b>Charging units that strike first.</b> The attacker dies before it swings ("destroyed - no strike") in M12, M14, M15, M16 (the Akhguard into Genghis Khan) and M17 (twice).</li>
+<li><b>Shooting into melee with its own units engaged.</b> Popinjay's shots strayed into its own Covenant Levies six times for 18 HP and two units (M20); the Bogatyrs hit Veche Levy 2 for 11 HP (M17). AOE spells hit their own side: the Mobad's Sunburst (M01), the Sorgin's Sugaar's Hail (M11).</li>
+<li><b>Walking off objectives</b>, often right after buying Secure Objective for the unit: M03, M08 (twice in one round, "obj 0"), M21, M22 (by Double Time), and holders leaving uncontested ground in M05, M06, M10, M17, M23. Secure Objective bought nothing in most of its uses.</li>
+<li><b>Expensive units idle all battle:</b> the Isfahsalar (M19, five rounds), Terracotta Vanguard (M23), Odin's Einherjar (M02), the Staurotheke War-Shrine (M06), the Heliostat Battery (M13, no legal action in four rounds).</li>
+<li><b>Commands and spells that buy nothing:</b> Double Time and Scouting Order (M13, M16, M18, M20, M23), Marksman Mode making the Praetorian Gunners worse (M24), Black Vortex of Dis cast three times for no damage because its delayed blast is priced on the board at cast time (M14).</li>
+</ul>
+<h3>Battle-report tool gaps</h3>
+<ul>
+<li>BURNING FIELD damage is still credited to no unit (M01, M04).</li>
+<li>A Round 1 Troop Requisition is counted as deployed, not as a reinforcement (M21, M24).</li>
+<li>Friendly-fire kills count as the enemy's in the headline (M20), and a seized unit's damage is sided by its final owner (M14).</li>
+<li>Three Standards and Blessing of Sacred Rabies are priced "nothing" although they worked (M06, M07).</li>
+</ul>

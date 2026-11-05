@@ -1,0 +1,388 @@
+Armoured Cohort (A, iron_imperium) vs Magdeburg Warhost (B, runeforge_directorate) on CROSSROADS, seed 460703102
+Result: A:Armoured Cohort wins (VP) in round 4, VP 35 / 11
+Initiative: B:Magdeburg Warhost; formation order [1,0]
+Army A:Armoured Cohort (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Centurion - 22 RP, 1 models, 6 HP, leads Legionnaire Squad 1, Marshal
+  Legionnaire Squad 1 - 20 RP, 5 models, 10 HP, led by Centurion
+  Legionnaire Squad 2 - 20 RP, 5 models, 10 HP
+  Legionnaire Squad 3 - 20 RP, 5 models, 10 HP
+  Chiron Battle Tank 1 - 40 RP, 1 models, 10 HP
+  Equites Igniferi - 25 RP, 5 models, 20 HP
+  Praetorian Fireteam - 35 RP, 3 models, 9 HP, led by Augur
+  Augur - 27 RP, 1 models, 4 HP, leads Praetorian Fireteam
+  Chiron Battle Tank 2 - 40 RP, 1 models, 10 HP
+Army B:Magdeburg Warhost (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Otto of Saxony - 60 RP, 1 models, 10 HP, leads Odin's Einherjar, Marshal
+  Odin's Einherjar - 43 RP, 3 models, 12 HP, led by Otto of Saxony
+  Black Huskarls - 37 RP, 5 models, 10 HP
+  Grey Huskarls - 28 RP, 3 models, 6 HP
+  Corporaider Squad 1 - 22 RP, 5 models, 10 HP
+  Corporaider Squad 2 - 22 RP, 5 models, 10 HP
+  Corporaider Squad 3 - 22 RP, 5 models, 10 HP
+  Runesmith - 15 RP, 1 models, 4 HP
+Primary A:Armoured Cohort: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: BREAK THEIR HOLD, BLEED THEM WHITE, DEEP INFILTRATION; picked break_their_hold
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 0 (count 0); total 0
+Primary B:Magdeburg Warhost: STRATEGICAL DISRUPTION - From the second Battle Round, at the end of each Battle Round, score 1 VP if an enemy unit in an Objective Area is SUPPRESSED or you destroyed an enemy unit in an Objective Area during that Battle Round, and 2 VP if your opponent's Primary Mission scored no VP during that Battle Round; a Primary Mission that earned VP its caps held back counts as scoring. If your opponent also holds STRATEGICAL DISRUPTION, their card counts as scoring only when its 1 VP condition is met.
+  hand: COORDINATED SUPPRESSION, STRATEGICAL DISRUPTION, ERADICATE THE FOE; picked strategical_disruption
+  scored per round: R1 0 (count 2), R2 2 (count 2), R3 3 (count 3), R4 3 (count 3); total 8
+
+=== BATTLE ROUND 1 ===
+A:Armoured Cohort: VP +9 (obj 7, primary 0, missions 2) = 9; CP +2 -2 holds 0 [2 Double Time → Legionnaire Squad 1]
+  mana: +1 -0 holds 1
+  pietas: +4 -0 holds 4
+B:Magdeburg Warhost: VP +0 (obj 0, primary 0, missions 0) = 0; CP +2 -2 holds 0 [2 Double Time → Corporaider Squad 1]
+  loots: +2 -0 holds 2
+A:Armoured Cohort keeps mission BAR THE GATES (offered OBJECTIVE RELAY / BAR THE GATES)
+B:Magdeburg Warhost keeps mission TAKE UP THE GAUNTLET (offered STRONGPOINT / TAKE UP THE GAUNTLET)
+A:Armoured Cohort mission BAR THE GATES: completed
+Moves:
+  [MOVEMENT] B:Magdeburg Warhost Corporaider Squad 1 11,2 -> 6,6 (advance)
+  [MOVEMENT] A:Armoured Cohort Legionnaire Squad 1 + Centurion 9,12 -> 7,8
+  [MOVEMENT] B:Magdeburg Warhost Black Huskarls 5,2 -> 7,6
+  [MOVEMENT] A:Armoured Cohort Equites Igniferi 6,13 -> 6,8 (advance)
+  [MOVEMENT] B:Magdeburg Warhost Odin's Einherjar + Otto of Saxony 3,2 -> 5,4
+  [MOVEMENT] A:Armoured Cohort Legionnaire Squad 2 4,12 -> 6,10
+  [MOVEMENT] B:Magdeburg Warhost Grey Huskarls 9,2 -> 8,6
+  [MOVEMENT] A:Armoured Cohort Legionnaire Squad 3 10,12 -> 9,9
+  [MOVEMENT] B:Magdeburg Warhost Corporaider Squad 2 6,2 -> 4,4
+  [MOVEMENT] A:Armoured Cohort Praetorian Fireteam + Augur 8,12 -> 8,9
+  [MOVEMENT] B:Magdeburg Warhost Corporaider Squad 3 8,2 -> 6,4
+  [MOVEMENT] A:Armoured Cohort Chiron Battle Tank 1 11,12 -> 13,8
+  [MOVEMENT] B:Magdeburg Warhost Runesmith 10,2 -> 10,5
+  [MOVEMENT] A:Armoured Cohort Chiron Battle Tank 2 3,12 -> 1,8
+  [ACTION] A:Armoured Cohort Equites Igniferi 6,8 -> 2,7 (advance)
+Combat:
+  [ACTION] ranged: B:Magdeburg Warhost Grey Huskarls -> Legionnaire Squad 1: Legionnaire Squad 1 -2
+  [ACTION] ranged: A:Armoured Cohort Legionnaire Squad 3 -> Corporaider Squad 1: Corporaider Squad 1 -6
+  [ACTION] ranged: B:Magdeburg Warhost Runesmith -> Chiron Battle Tank 1: no damage
+  [ACTION] ranged: A:Armoured Cohort Praetorian Fireteam -> Grey Huskarls: Grey Huskarls -6 DESTROYED
+  [ACTION] ranged: A:Armoured Cohort Legionnaire Squad 1 -> Corporaider Squad 1: Corporaider Squad 1 -4 DESTROYED
+  [ACTION] magic (Sacrificium): A:Armoured Cohort Augur: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Legionnaire Squad 2 (best: ability Shield Wall, 0.06), B:HQ (no legal action), B:Otto of Saxony (best: ability Mining Baron, 0), B:Odin's Einherjar (no legal action), B:Corporaider Squad 2 (no legal action), B:Corporaider Squad 3 (no legal action)
+Advanced, nothing else: B:Corporaider Squad 1
+Commands and abilities:
+  [COMMAND] A:Armoured Cohort Tactica: Tactica Mercurii: nothing - made mercurii active; 21 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Magdeburg Warhost Double Time on Corporaider Squad 1: paid off - gave Corporaider Squad 1: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Armoured Cohort Double Time on Legionnaire Squad 1: paid off - gave Centurion: MOVE +2; Legionnaire Squad 1: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [ACTION] A:Armoured Cohort Move Order on Equites Igniferi: paid off - granted Equites Igniferi (4 MP, MOVE ORDER) a move; moved Equites Igniferi to (2,7); 1 move(s) with it, 1 out of reach without it
+  [ACTION] A:Armoured Cohort Sacrificium: paid off - 1 Mana gained
+Passive rules:
+  Runewreathed Acquisitors (Grey Huskarls): 2 attacks, 0.41 expected HP for its side
+  Rune of Arrow Protection (Corporaider Squad 1): 2 attacks, 3.51 expected HP for its side
+  Venerated Veterans (Praetorian Fireteam): 1 attack, 0.08 expected HP for its side
+  Rune of Shadow (Black Huskarls): fired 1 time (apply_status)
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+  Chancellor of the Nine (Otto of Saxony): fired 1 time (add_resource)
+  Black Huskarls: MOVE 5 (4 without Rune of Windwalking)
+Scored by:
+  A:Armoured Cohort objectives (7,7) 3 VP: Legionnaire Squad 1 3.0; hinged on Legionnaire Squad 1
+  A:Armoured Cohort objectives (1,7) 2 VP: Equites Igniferi 1.0, Chiron Battle Tank 2 1.0
+  A:Armoured Cohort objectives (13,7) 2 VP: Chiron Battle Tank 1 2.0; hinged on Chiron Battle Tank 1
+  A:Armoured Cohort missions BAR THE GATES 2 VP: no unit, unassigned 2
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A BREAK THEIR HOLD, Player B STRATEGICAL DISRUPTION
+  [COMMAND] Player A picks mission: BAR THE GATES
+  [COMMAND] Player B picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] HQ Command: Double Time -> Corporaider Squad 1 (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Double Time -> Legionnaire Squad 1 (cost 2 CP) by Player A
+  [ACTION]   Legionnaire destroyed
+  [ACTION] Loots: Player B +1 (1 total) - enemy model destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Grey Huskarl destroyed
+  [ACTION]   Grey Huskarl destroyed
+  [ACTION]   Grey Huskarl Pack Leader destroyed
+  [ACTION]   Grey Huskarls DESTROYED
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Sergeant destroyed
+  [ACTION]   Corporaider Squad 1 DESTROYED
+  [ACTION] Centurion uses Move Order!
+  [ACTION] Augur casts Sacrificium
+  [CLEANUP] MISSION COMPLETE: "BAR THE GATES" -> Player A +2 VP!
+  [CLEANUP] Pietas: Player A +4 (4 total, tier 2) - enemy unit destroyed; BAR THE GATES; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier II - enemy unit destroyed; BAR THE GATES; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 2 ===
+A:Armoured Cohort: VP +10 (obj 7, primary 0, missions 3) = 19; CP +2 -1 holds 1 [1 Go to ground (reaction) for Praetorian Fireteam]
+  mana: +2 -0 holds 3
+  pietas: +2 -0 holds 6
+B:Magdeburg Warhost: VP +2 (obj 0, primary 2, missions 0) = 2; CP +2 -1 holds 1 [1 Go to ground (reaction) for Corporaider Squad 3]
+  loots: +2 -2 holds 2 [2 Inscribe Rune of Gale]
+A:Armoured Cohort keeps mission TAKE UP THE GAUNTLET (offered SECURE THE FLANKS / TAKE UP THE GAUNTLET)
+B:Magdeburg Warhost keeps mission DEEP REACH (offered DEEP REACH / COMMAND AUTHORITY)
+A:Armoured Cohort mission TAKE UP THE GAUNTLET: completed
+Moves:
+  [MOVEMENT] B:Magdeburg Warhost Odin's Einherjar + Otto of Saxony 5,4 -> 5,5
+  [MOVEMENT] A:Armoured Cohort Legionnaire Squad 2 6,10 -> 8,8
+  [MOVEMENT] B:Magdeburg Warhost Corporaider Squad 3 6,4 -> 8,6
+  [MOVEMENT] A:Armoured Cohort Legionnaire Squad 3 9,9 -> 12,8
+  [MOVEMENT] B:Magdeburg Warhost Corporaider Squad 2 4,4 -> 3,5
+  [MOVEMENT] A:Armoured Cohort Praetorian Fireteam + Augur 8,9 -> 6,8
+  [MOVEMENT] B:Magdeburg Warhost Runesmith 10,5 -> 8,5
+  [MOVEMENT] A:Armoured Cohort Equites Igniferi 2,7 -> 2,6 (charge)
+  [MOVEMENT] A:Armoured Cohort Chiron Battle Tank 1 13,8 -> 12,7
+  [MOVEMENT] A:Armoured Cohort Chiron Battle Tank 2 1,8 -> 2,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Armoured Cohort Legionnaire Squad 2 -> Corporaider Squad 3: Corporaider Squad 3 -4
+  [MOVEMENT] ranged (Overwatch): B:Magdeburg Warhost Corporaider Squad 3 -> Praetorian Fireteam: no damage
+  [MOVEMENT] ability (Crushing Impact): A:Armoured Cohort Equites Igniferi -> Corporaider Squad 2: Corporaider Squad 2 -2
+  [ACTION] ranged: B:Magdeburg Warhost Otto of Saxony -> Legionnaire Squad 2: Legionnaire Squad 2 -2
+  [ACTION] ranged: A:Armoured Cohort Praetorian Fireteam -> Corporaider Squad 3: Corporaider Squad 3 -6 DESTROYED
+  [ACTION] melee: A:Armoured Cohort Equites Igniferi -> Corporaider Squad 2: Corporaider Squad 2 -7
+  [ACTION] ranged: A:Armoured Cohort Legionnaire Squad 2 -> Runesmith: Runesmith -2
+  [ACTION] ranged: A:Armoured Cohort Legionnaire Squad 1 -> Runesmith: no damage
+  [ACTION] magic (Sacrificium): A:Armoured Cohort Augur: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Odin's Einherjar (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [MOVEMENT] B:Magdeburg Warhost Go to Ground on Corporaider Squad 3: paid off - 1 attack(s) it touched: +1.51 expected HP for its side
+  [MOVEMENT] A:Armoured Cohort Go to Ground on Praetorian Fireteam: paid off - 1 attack(s) it touched: +0.79 expected HP for its side
+  [ACTION] B:Magdeburg Warhost Mining Baron: paid off - gave Otto of Saxony: weapon AP +1; Odin's Einherjar: weapon AP +1; Black Huskarls: weapon AP +1; Corporaider Squad 2: weapon AP +1; Corporaider Squad 3: weapon AP +1; Runesmith: weapon AP +1; 6 attack(s) it touched: +0.65 expected HP for its side
+  [ACTION] A:Armoured Cohort Tactical Supremacy: nothing - no change
+  [ACTION] B:Magdeburg Warhost Inscribe on Corporaider Squad 3: nothing - gave Corporaider Squad 3: weapon AR +1; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Armoured Cohort Sacrificium: paid off - 2 Mana gained
+Passive rules:
+  Rune of Arrow Protection (Corporaider Squad 3): 2 attacks, 3.91 expected HP for its side
+  Runewreathed Acquisitors (Corporaider Squad 3): 3 attacks, 0.65 expected HP for its side
+  Duty and Honor (Praetorian Fireteam): 1 attack, 0.3 expected HP for its side
+  Tactical Supremacy (Centurion): 3 attacks, 0.86 expected HP for its side
+  Master Artificer (Runesmith): 3 attacks, 0.92 expected HP for its side
+  Rune of Shadow (Black Huskarls): fired 1 time (apply_status)
+  Crushing Impact (Equites Igniferi): fired 1 time (deal_damage)
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+  Chancellor of the Nine (Otto of Saxony): fired 1 time (add_resource)
+  Black Huskarls: MOVE 5 (4 without Rune of Windwalking)
+Scored by:
+  A:Armoured Cohort objectives (7,7) 3 VP: Legionnaire Squad 1 1.0, Legionnaire Squad 2 1.0, Praetorian Fireteam 1.0
+  A:Armoured Cohort objectives (1,7) 2 VP: Equites Igniferi 1.0, Chiron Battle Tank 2 1.0
+  A:Armoured Cohort objectives (13,7) 2 VP: Legionnaire Squad 3 1.0, Chiron Battle Tank 1 1.0
+  B:Magdeburg Warhost primary STRATEGICAL DISRUPTION 2 VP: no unit, unassigned 2
+  A:Armoured Cohort missions TAKE UP THE GAUNTLET 3 VP: Equites Igniferi 1.5, Chiron Battle Tank 2 1.5
+Key log lines:
+  [COMMAND] Player A picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] Player B picks mission: DEEP REACH
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Corporaider Squad 3
+  [MOVEMENT]   Corporaider destroyed
+  [MOVEMENT]   Corporaider destroyed
+  [MOVEMENT] [Legionnaire Squad 2] Overwatch Reaction vs Corporaider Squad 3: 4 damage
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Praetorian Fireteam
+  [MOVEMENT] [Corporaider Squad 3] Overwatch Reaction vs Praetorian Fireteam: no damage
+  [ACTION] Otto of Saxony uses Mining Baron!
+  [ACTION]   Legionnaire destroyed
+  [ACTION] Loots: Player B +1 (3 total) - enemy model destroyed
+  [ACTION] Centurion uses Tactical Supremacy!
+  [ACTION] Runesmith uses Inscribe!
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider Sergeant destroyed
+  [ACTION]   Corporaider Squad 3 DESTROYED
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION]   Corporaider destroyed
+  [ACTION] Augur casts Sacrificium
+  [CLEANUP] PRIMARY STRATEGICAL DISRUPTION: Player B scores 2 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "TAKE UP THE GAUNTLET" -> Player A +3 VP!
+  [CLEANUP] Pietas: Player A +2 (6 total, tier 3) - enemy unit destroyed; TAKE UP THE GAUNTLET; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier III - enemy unit destroyed; TAKE UP THE GAUNTLET; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 3 ===
+A:Armoured Cohort: VP +7 (obj 7, primary 0, missions 0) = 26; CP +2 -1 holds 2 [1 Go to ground (reaction) for Chiron Battle Tank 2]
+  pietas: +4 -0 holds 10
+B:Magdeburg Warhost: VP +3 (obj 0, primary 3, missions 0) = 5; CP +2 -2 holds 1 [2 Rally cry (reaction) for Corporaider Squad 2]
+  loots: +8 -0 holds 10
+A:Armoured Cohort keeps mission IRON CURTAIN (offered IRON CURTAIN / FORWARD PRESENCE)
+B:Magdeburg Warhost keeps mission LAST STAND (offered PROBING STRIKE / LAST STAND)
+Moves:
+  [MOVEMENT] B:Magdeburg Warhost Odin's Einherjar + Otto of Saxony 5,5 -> 6,6
+  [MOVEMENT] A:Armoured Cohort Chiron Battle Tank 2 2,7 -> 5,8
+  [MOVEMENT] B:Magdeburg Warhost Runesmith 8,5 -> 8,6
+  [MOVEMENT] B:Magdeburg Warhost Black Huskarls 7,6 -> 7,7 (charge)
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Corporaider Squad 2: Corporaider Squad 2 -1 DESTROYED
+  [ACTION] melee: B:Magdeburg Warhost Black Huskarls -> Legionnaire Squad 2: Legionnaire Squad 2 -8 DESTROYED
+  [ACTION] ranged: A:Armoured Cohort Chiron Battle Tank 2 -> Odin's Einherjar: Black Huskarls -2
+  [ACTION] ranged: B:Magdeburg Warhost Otto of Saxony -> Chiron Battle Tank 2: no damage
+  [ACTION] ranged: A:Armoured Cohort Legionnaire Squad 3 -> Odin's Einherjar: Odin's Einherjar -8
+  [ACTION] melee: A:Armoured Cohort Centurion -> Black Huskarls: Black Huskarls -4
+  [ACTION] melee: A:Armoured Cohort Praetorian Fireteam -> Black Huskarls: Black Huskarls -2
+  [ACTION] melee: A:Armoured Cohort Legionnaire Squad 1 -> Black Huskarls: Black Huskarls -1
+  [ACTION] melee: A:Armoured Cohort Augur -> Black Huskarls: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] B:Magdeburg Warhost Rally Cry on Corporaider Squad 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Armoured Cohort Overpressure Shell: nothing - gave Chiron Battle Tank 2: weapons AOE 1; 2 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Armoured Cohort Go to Ground on Chiron Battle Tank 2: paid off - 1 attack(s) it touched: +0.09 expected HP for its side
+Passive rules:
+  Expert Operator (Black Huskarls): 1 attack, 0.21 expected HP for its side
+  Runewreathed Acquisitors (Black Huskarls): 2 attacks, 0.46 expected HP for its side
+  Master Artificer (Runesmith): 4 attacks, 0.41 expected HP for its side
+  Rune of Shadow (Black Huskarls): fired 1 time (apply_status)
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+  Chancellor of the Nine (Otto of Saxony): fired 4 times (add_resource)
+  Black Huskarls: MOVE 5 (4 without Rune of Windwalking)
+Scored by:
+  A:Armoured Cohort objectives (7,7) 3 VP: Legionnaire Squad 1 2.3, Centurion 0.3, Praetorian Fireteam 0.3, Augur 0.3
+  A:Armoured Cohort objectives (1,7) 2 VP: Equites Igniferi 2.0; hinged on Equites Igniferi
+  A:Armoured Cohort objectives (13,7) 2 VP: Legionnaire Squad 3 1.0, Chiron Battle Tank 1 1.0
+  B:Magdeburg Warhost primary STRATEGICAL DISRUPTION 3 VP: Black Huskarls 1.0, unassigned 2
+Key log lines:
+  [COMMAND] Player A picks mission: IRON CURTAIN
+  [COMMAND] Player B picks mission: LAST STAND
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Corporaider Squad 2
+  [MOVEMENT]   Corporaider Sergeant destroyed
+  [MOVEMENT] [Corporaider Squad 2] breaks away in disorder: 3 True Damage, 1 HP lost, 1 model destroyed
+  [MOVEMENT] [Corporaider Squad 2] was destroyed while attempting to FALL BACK
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Decanus destroyed
+  [ACTION]   Legionnaire Squad 2 DESTROYED in melee!
+  [ACTION]   Legionnaire Squad 2 was destroyed - no counterattack
+  [ACTION] Loots: Player B +1 (3 total) - enemy model destroyed
+  [ACTION] Loots: Player B +1 (5 total) - enemy model destroyed
+  [ACTION] Loots: Player B +1 (7 total) - enemy model destroyed
+  [ACTION] Loots: Player B +1 (9 total) - enemy model destroyed
+  [ACTION] Chiron Battle Tank 2 uses Overpressure Shell!
+  [ACTION]   Black Huskarl destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Chiron Battle Tank 2
+  [ACTION]   Einherjar destroyed
+  [ACTION]   Einherjar destroyed
+  [ACTION]   Black Huskarl destroyed
+  [ACTION]   Black Huskarl destroyed
+  [ACTION]   Black Huskarl destroyed
+  [CLEANUP] PRIMARY STRATEGICAL DISRUPTION: Player B scores 3 VP (5/10)
+  [CLEANUP] Pietas: Player A +4 (10 total, tier 4) - enemy unit destroyed; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier IV - enemy unit destroyed; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 4 ===
+A:Armoured Cohort: VP +9 (obj 7, primary 0, missions 2) = 35; CP +2 -2 holds 2 [2 Scouting Order → Equites Igniferi]
+B:Magdeburg Warhost: VP +6 (obj 0, primary 3, missions 3) = 11; CP +4 -5 holds 0 [5 Troop Requisition → Runesmith]
+  loots: +6 -3 holds 13 [3 Mint Privilege]
+A:Armoured Cohort keeps mission COMMAND AUTHORITY (offered LAST STAND / COMMAND AUTHORITY)
+B:Magdeburg Warhost keeps mission KING OF THE HILL (offered KING OF THE HILL / PUSH FORWARD)
+A:Armoured Cohort mission IRON CURTAIN: expired
+A:Armoured Cohort mission COMMAND AUTHORITY: completed
+B:Magdeburg Warhost mission TAKE UP THE GAUNTLET: expired
+B:Magdeburg Warhost mission KING OF THE HILL: completed
+Moves:
+  [MOVEMENT] B:Magdeburg Warhost Odin's Einherjar + Otto of Saxony 6,6 -> 6,7 (charge)
+  [MOVEMENT] B:Magdeburg Warhost Runesmith 8,6 -> 7,6
+  [MOVEMENT] A:Armoured Cohort Equites Igniferi 2,6 -> 2,7
+  [MOVEMENT] B:Magdeburg Warhost Runesmith #2 7,2 -> 8,5
+  [MOVEMENT] A:Armoured Cohort Chiron Battle Tank 2 5,8 -> 7,9
+  [MOVEMENT] A:Armoured Cohort Legionnaire Squad 1 + Centurion 7,8 -> 8,9
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Chiron Battle Tank 2: Chiron Battle Tank 2 -1, Legionnaire Squad 1 -1
+  [ACTION] melee: B:Magdeburg Warhost Odin's Einherjar -> Praetorian Fireteam: Praetorian Fireteam -5
+  [ACTION] ranged: A:Armoured Cohort Legionnaire Squad 3 -> Runesmith: Runesmith -2 DESTROYED
+  [ACTION] melee: B:Magdeburg Warhost Otto of Saxony -> Augur: Praetorian Fireteam -4 DESTROYED, Odin's Einherjar -1
+  [ACTION] melee: B:Magdeburg Warhost Black Huskarls -> Augur: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] A:Armoured Cohort Tactica: Tactica Martis: nothing - made martis (was mercurii) active; 6 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Magdeburg Warhost Mint Privilege: paid off - 2 CP gained
+  [COMMAND] B:Magdeburg Warhost Troop Requisition on (7,2): nothing - placed Runesmith #2
+  [COMMAND] A:Armoured Cohort Scouting Order on Equites Igniferi: paid off - gave Equites Igniferi: PER +2; completed COMMAND AUTHORITY (+2 VP)
+Passive rules:
+  Wolf-Age (Odin's Einherjar): 1 attack, 1.41 expected HP for its side
+  Runewreathed Acquisitors (Odin's Einherjar): 2 attacks, 1.58 expected HP for its side
+  Duty and Honor (Praetorian Fireteam): 1 attack, 0.15 expected HP for its side
+  Master Artificer (Runesmith): 1 attack, 0.25 expected HP for its side
+  Rune of Protection (Runesmith): 1 attack, 0.07 expected HP for its side
+  Expert Operator (Black Huskarls): 1 attack, 0.11 expected HP for its side
+  Rune of Shadow (Black Huskarls): fired 1 time (apply_status)
+  Svinfylking (Odin's Einherjar): fired 1 time (grant_move)
+  Rune of Valhalla (Odin's Einherjar): fired 1 time (heal)
+  Chancellor of the Nine (Otto of Saxony): fired 3 times (add_resource)
+  Black Huskarls: MOVE 4 (3 without Rune of Windwalking)
+Scored by:
+  A:Armoured Cohort missions COMMAND AUTHORITY 2 VP: Equites Igniferi 2.0 (event)
+  B:Magdeburg Warhost missions KING OF THE HILL 3 VP: Otto of Saxony 3.0 (event)
+  A:Armoured Cohort objectives (7,7) 3 VP: Augur 3.0; hinged on Augur
+  A:Armoured Cohort objectives (1,7) 2 VP: Equites Igniferi 2.0; hinged on Equites Igniferi
+  A:Armoured Cohort objectives (13,7) 2 VP: Legionnaire Squad 3 1.0, Chiron Battle Tank 1 1.0
+  B:Magdeburg Warhost primary STRATEGICAL DISRUPTION 3 VP: Otto of Saxony 1.0, unassigned 2
+Key log lines:
+  [COMMAND] Player A picks mission: COMMAND AUTHORITY
+  [COMMAND] Player B picks mission: KING OF THE HILL
+  [COMMAND] Otto of Saxony uses Mint Privilege!
+  [COMMAND] HQ Command: Troop Requisition -> runeforge_directorate:runesmith (cost 5 CP) by Player B
+  [COMMAND] HQ Command: Scouting Order -> Equites Igniferi (cost 2 CP) by Player A
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player A +2 VP!
+  [MOVEMENT] [Chiron Battle Tank 2] Fall Back to (7,9)
+  [MOVEMENT] [Legionnaire Squad 1] Fall Back to (8,9)
+  [ACTION]   Praetorian destroyed
+  [ACTION] Loots: Player B +1 (8 total) - enemy model destroyed
+  [ACTION]   Runesmith destroyed
+  [ACTION]   Runesmith DESTROYED
+  [ACTION] MISSION COMPLETE: "KING OF THE HILL" -> Player B +3 VP!
+  [ACTION]   Praetorian destroyed
+  [ACTION]   Decanus destroyed
+  [ACTION] Loots: Player B +1 (10 total) - enemy model destroyed
+  [ACTION] Loots: Player B +1 (12 total) - enemy model destroyed
+  [CLEANUP] PRIMARY STRATEGICAL DISRUPTION: Player B scores 3 VP (8/10)
+  [CLEANUP] Mission "IRON CURTAIN" EXPIRED (R4)
+  [CLEANUP] Mission "TAKE UP THE GAUNTLET" EXPIRED (R4)
+
+Damage leaders:
+  A:Armoured Cohort Legionnaire Squad 3: 16 damage, 1 kills, 20 RP, 0.80/RP
+  A:Armoured Cohort Praetorian Fireteam: 14 damage, 2 kills, 35 RP, 0.40/RP (destroyed)
+  A:Armoured Cohort Equites Igniferi: 9 damage, 0 kills, 25 RP, 0.36/RP
+  B:Magdeburg Warhost Black Huskarls: 8 damage, 1 kills, 37 RP, 0.22/RP
+  B:Magdeburg Warhost Otto of Saxony: 6 damage, 1 kills, 60 RP, 0.10/RP
+  A:Armoured Cohort Legionnaire Squad 2: 6 damage, 0 kills, 20 RP, 0.30/RP (destroyed)
+  A:Armoured Cohort Legionnaire Squad 1: 5 damage, 1 kills, 20 RP, 0.25/RP
+  B:Magdeburg Warhost Odin's Einherjar: 5 damage, 0 kills, 43 RP, 0.12/RP
+  A:Armoured Cohort Centurion: 4 damage, 0 kills, 22 RP, 0.18/RP
+  A:Armoured Cohort Chiron Battle Tank 2: 2 damage, 0 kills, 40 RP, 0.05/RP
+  B:Magdeburg Warhost Grey Huskarls: 2 damage, 0 kills, 28 RP, 0.07/RP (destroyed)
+  A:Armoured Cohort Augur: 1 damage, 0 kills, 27 RP, 0.04/RP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Armoured Cohort Equites Igniferi: 9.5 VP (obj 6.0, primary 0.0, missions 3.5), hinged 4, 38.0/100 RP
+  A:Armoured Cohort Legionnaire Squad 1: 6.3 VP (obj 6.3, primary 0.0, missions 0.0), hinged 3, 31.3/100 RP
+  A:Armoured Cohort Chiron Battle Tank 1: 5.0 VP (obj 5.0, primary 0.0, missions 0.0), hinged 2, 12.5/100 RP
+  B:Magdeburg Warhost Otto of Saxony: 4.0 VP (obj 0.0, primary 1.0, missions 3.0), hinged 0, 6.7/100 RP
+  A:Armoured Cohort Chiron Battle Tank 2: 3.5 VP (obj 2.0, primary 0.0, missions 1.5), hinged 0, 8.8/100 RP
+  A:Armoured Cohort Augur: 3.3 VP (obj 3.3, primary 0.0, missions 0.0), hinged 3, 12.0/100 RP
+  A:Armoured Cohort Legionnaire Squad 3: 3.0 VP (obj 3.0, primary 0.0, missions 0.0), hinged 0, 15.0/100 RP
+  A:Armoured Cohort Praetorian Fireteam: 1.3 VP (obj 1.3, primary 0.0, missions 0.0), hinged 0, 3.6/100 RP
+  B:Magdeburg Warhost Black Huskarls: 1.0 VP (obj 0.0, primary 1.0, missions 0.0), hinged 0, 2.7/100 RP
+  A:Armoured Cohort Legionnaire Squad 2: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 5.0/100 RP
+  A:Armoured Cohort Centurion: 0.3 VP (obj 0.3, primary 0.0, missions 0.0), hinged 0, 1.1/100 RP
+  A:Armoured Cohort no unit: obj 0, primary 0, missions 2
+  B:Magdeburg Warhost no unit: obj 0, primary 6, missions 0
+Activity (inaction score; advanced, nothing else; actions: movement/advance/ranged/melee/ability/magic/objective held):
+  B:Magdeburg Warhost Odin's Einherjar: inaction 2 (2 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/1/0/0/1
+  B:Magdeburg Warhost Corporaider Squad 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 1/0/0/1/0/0/0
+  B:Magdeburg Warhost Otto of Saxony: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/1/2/0/1
+  B:Magdeburg Warhost Corporaider Squad 3: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 0; actions 0/0/0/0/0/0/0
+  A:Armoured Cohort Legionnaire Squad 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 0; actions 0/0/1/0/0/0/1
+  B:Magdeburg Warhost Corporaider Squad 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 1 (R1); actions 0/1/0/0/0/0/0
+  B:Magdeburg Warhost Grey Huskarls: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/0/0/0/0
+  B:Magdeburg Warhost Runesmith: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/0/1/0/1
+  A:Armoured Cohort Chiron Battle Tank 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/4
+  B:Magdeburg Warhost Black Huskarls: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/2/0/0/3
+  A:Armoured Cohort Chiron Battle Tank 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/1/0/1/0/2
+  A:Armoured Cohort Equites Igniferi: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/1/0/0/4
+  A:Armoured Cohort Legionnaire Squad 3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/3/0/0/0/3
+  A:Armoured Cohort Praetorian Fireteam: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/2/0/0/2
+  A:Armoured Cohort Augur: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/2/0/2/3
+  A:Armoured Cohort Centurion: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/0/1/2/0/3
+  A:Armoured Cohort Legionnaire Squad 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/2/1/0/0/3
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 0
+Secondary missions:
+  A:Armoured Cohort BAR THE GATES (+2 VP): kept R1, completed R1 - At the end of a Battle Round, have no enemy unit in your half of the battlefield.
+  A:Armoured Cohort TAKE UP THE GAUNTLET (+3 VP): kept R2, completed R2 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  A:Armoured Cohort IRON CURTAIN (+2 VP): kept R3, expired R4 - No friendly unit is destroyed during the entire duration of this Mission.
+  A:Armoured Cohort COMMAND AUTHORITY (+2 VP): kept R4, completed R4 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  B:Magdeburg Warhost TAKE UP THE GAUNTLET (+3 VP): kept R1, expired R4 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  B:Magdeburg Warhost DEEP REACH (+3 VP): kept R2, active - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Magdeburg Warhost LAST STAND (+3 VP): kept R3, active - At the end of a Battle Round, control an objective that has a friendly unit Below Half-Strength in its Objective Area.
+  B:Magdeburg Warhost KING OF THE HILL (+3 VP): kept R4, completed R4 - Have a friendly unit in an Objective Area destroy an enemy unit.

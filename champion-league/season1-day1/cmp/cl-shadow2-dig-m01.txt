@@ -1,0 +1,621 @@
+Mihran Spah (A, atashid_empire) vs Procession of Ugarit (B, infernal_congregations) on CROSSROADS, seed 460703101
+Result: A:Mihran Spah wins (VP) in round 5, VP 30 / 24
+Initiative: A:Mihran Spah; formation order [1,0]
+Army A:Mihran Spah (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Spahbed - 50 RP, 1 models, 6 HP, leads Aswaran 1, Marshal
+  Aswaran 1 - 40 RP, 3 models, 12 HP, led by Spahbed
+  Mobad - 20 RP, 1 models, 4 HP, leads Javidan Immortals 1
+  Javidan Immortals 1 - 30 RP, 5 models, 15 HP, led by Mobad
+  Shieldbearers 1 - 17 RP, 5 models, 10 HP
+  Shieldbearers 2 - 17 RP, 5 models, 10 HP
+  Sagdid Hound-Keepers - 10 RP, 3 models, 6 HP
+  Aswaran 2 - 35 RP, 3 models, 12 HP
+  Javidan Immortals 2 - 30 RP, 5 models, 15 HP
+Army B:Procession of Ugarit (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Pontifex of Acedia - 65 RP, 1 models, 15 HP, Marshal
+  Morphean Engine 1 - 30 RP, 1 models, 10 HP
+  Morphean Engine 2 - 30 RP, 1 models, 10 HP
+  Hellkin - 25 RP, 5 models, 20 HP
+  Algedonic Taskmaster - 18 RP, 1 models, 7 HP, leads Cultist Mortar Squad
+  Somniferous Engine - 30 RP, 1 models, 12 HP
+  Cultist Troopers 1 - 10 RP, 10 models, 20 HP
+  Cultist Mortar Squad - 12 RP, 1 models, 5 HP, led by Algedonic Taskmaster
+  Cultist Troopers 2 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 3 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 4 - 10 RP, 10 models, 20 HP
+Primary A:Mihran Spah: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: SILENT MANEUVER (does not fit), ERADICATE THE FOE, COORDINATED SUPPRESSION; picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 2 (count 1), R4 0 (count 0), R5 2 (count 1); total 4
+Primary B:Procession of Ugarit: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: DEBT OF BLOOD, WIDE SWEEP, BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 1 (count 1), R2 1 (count 1), R3 2 (count 2), R4 3 (count 3), R5 2 (count 2); total 9
+
+=== BATTLE ROUND 1 ===
+A:Mihran Spah: VP +2 (obj 2, primary 0, missions 0) = 2; CP +3 -3 holds 0 [3 Troop Requisition → Sagdid Hound-Keepers]
+  radiance: +1 -0 holds 1
+B:Procession of Ugarit: VP +6 (obj 3, primary 1, missions 2) = 6; CP +2 -0 holds 2
+  mana: +1 -0 holds 1
+A:Mihran Spah keeps mission MAN OF THE HOUR (offered VIGILANT WATCH / MAN OF THE HOUR)
+B:Procession of Ugarit keeps mission BAR THE GATES (offered BAR THE GATES / COMMAND AUTHORITY)
+B:Procession of Ugarit mission BAR THE GATES: completed
+Moves:
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers 5,12 -> 1,8 (advance)
+  [MOVEMENT] B:Procession of Ugarit Hellkin 6,1 -> 1,6 (advance)
+  [MOVEMENT] A:Mihran Spah Shieldbearers 2 10,12 -> 10,9 (advance)
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 2 5,2 -> 6,6 (advance)
+  [MOVEMENT] A:Mihran Spah Javidan Immortals 1 + Mobad 9,12 -> 8,8 (advance)
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 3 3,2 -> 6,5 (advance)
+  [MOVEMENT] A:Mihran Spah Javidan Immortals 2 6,12 -> 7,8 (advance)
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 4 7,2 -> 8,6 (advance)
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers #2 8,12 -> 5,11
+  [MOVEMENT] B:Procession of Ugarit The Pontifex of Acedia 9,2 -> 8,5 (advance)
+  [MOVEMENT] A:Mihran Spah Shieldbearers 1 4,12 -> 5,8 (advance)
+  [MOVEMENT] B:Procession of Ugarit Somniferous Engine 11,1 -> 10,5
+  [MOVEMENT] A:Mihran Spah Aswaran 1 + Spahbed 11,12 -> 12,9 (advance)
+  [MOVEMENT] A:Mihran Spah Aswaran 2 3,12 -> 2,8 (advance)
+Combat:
+  [ACTION] ranged: A:Mihran Spah Aswaran 2 -> Hellkin: Hellkin -1
+  [ACTION] ranged: A:Mihran Spah Aswaran 1 -> Cultist Troopers 1: Cultist Troopers 1 -1
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 2 -> Javidan Immortals 1: Javidan Immortals 1 -3, Javidan Immortals 2 -3
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 1 -> Javidan Immortals 1: no damage
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers 1 -> Aswaran 1: Aswaran 1 -1
+  [ACTION] ranged: B:Procession of Ugarit Cultist Mortar Squad -> Shieldbearers 1: Shieldbearers 1 -4
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Spahbed (no legal action), A:Shieldbearers 1 (no legal action), A:Shieldbearers 2 (no legal action), B:HQ (no legal action), B:The Pontifex of Acedia (no legal action), B:Algedonic Taskmaster (best: ability Drive the Column on Cultist Mortar Squad, 0), B:Cultist Troopers 3 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Mihran Spah Troop Requisition on (8,12): paid off - placed Sagdid Hound-Keepers #2; the unit it placed made 1 attack(s), 0 HP off; the unit it placed scored 2 VP; the unit it placed drew 4 enemy attack(s), 3 HP
+  [ACTION] B:Procession of Ugarit Desperate Worship on Aswaran 1: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Let Them Come (Morphean Engine 2): 2 attacks, 1.33 expected HP for its side
+  Profane Zeal (Cultist Troopers 1): 2 attacks, 0.56 expected HP for its side
+  Shepherd Among Cattle (Algedonic Taskmaster): 1 attack, 0.19 expected HP for its side
+  Tithe of Torment (Cultist Troopers 1): fired 1 time (add_resource)
+Scored by:
+  B:Procession of Ugarit objectives (7,7) 3 VP: Cultist Troopers 2 1.5, Cultist Troopers 4 1.5; hinged on Cultist Troopers 2, Cultist Troopers 4
+  A:Mihran Spah objectives (1,7) 2 VP: Aswaran 2 2.0; hinged on Aswaran 2
+  B:Procession of Ugarit primary BREAK THEIR HOLD 1 VP: Hellkin 1.0
+  B:Procession of Ugarit missions BAR THE GATES 2 VP: no unit, unassigned 2
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B BREAK THEIR HOLD
+  [COMMAND] Player A picks mission: MAN OF THE HOUR
+  [COMMAND] Player B picks mission: BAR THE GATES
+  [COMMAND] HQ Command: Troop Requisition -> atashid_empire:sagdid_hound_keepers (cost 3 CP) by Player A
+  [ACTION] [Cultist Troopers 1] Disembarked from Somniferous Engine at (9,6)
+  [ACTION]   Javidan destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Shieldbearer destroyed
+  [ACTION]   Shieldbearer destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (1/10)
+  [CLEANUP] MISSION COMPLETE: "BAR THE GATES" -> Player B +2 VP!
+
+=== BATTLE ROUND 2 ===
+A:Mihran Spah: VP +4 (obj 2, primary 0, missions 2) = 6; CP +3 -3 holds 0 [1 Double Time → Shieldbearers 2; 2 Secure Objective → Javidan Immortals 1]
+  mana: +4 -0 holds 4
+  radiance: +1 -0 holds 2
+B:Procession of Ugarit: VP +4 (obj 3, primary 1, missions 0) = 10; CP +2 -3 holds 1 [3 Troop Requisition → Cultist Troopers]
+  mana: +10 -3 holds 8 [3 Cast Daemonium Meridianum]
+A:Mihran Spah keeps mission PROBING STRIKE (offered PROBING STRIKE / PUSH FORWARD)
+B:Procession of Ugarit keeps mission MAN OF THE HOUR (offered MAN OF THE HOUR / OMNIPRESENCE)
+A:Mihran Spah mission PROBING STRIKE: completed
+Moves:
+  [MOVEMENT] A:Mihran Spah Shieldbearers 2 10,9 -> 6,8
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 6,2 -> 4,4
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers #2 5,11 -> 8,9
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 1 9,6 -> 7,6
+  [MOVEMENT] A:Mihran Spah Shieldbearers 1 5,8 -> 6,9
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 3 6,5 -> 3,5
+  [MOVEMENT] A:Mihran Spah Aswaran 1 + Spahbed 12,9 -> 9,8
+  [MOVEMENT] B:Procession of Ugarit The Pontifex of Acedia 8,5 -> 6,5
+  [MOVEMENT] A:Mihran Spah Aswaran 2 2,8 -> 2,7 (charge)
+  [MOVEMENT] B:Procession of Ugarit Somniferous Engine 10,5 -> 7,2
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers 1,8 -> 2,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Procession of Ugarit Cultist Troopers 2 -> Shieldbearers 2: Shieldbearers 2 -1; cost paid: Cultist Troopers 2 -2 (DESPERATE WORSHIP)
+  [MOVEMENT] ranged (Overwatch): B:Procession of Ugarit Cultist Troopers 4 -> Shieldbearers 2: Shieldbearers 2 -3
+  [MOVEMENT] ranged (Overwatch): A:Mihran Spah Mobad -> Cultist Troopers 1: no damage
+  [MOVEMENT] ranged (Overwatch): A:Mihran Spah Shieldbearers 1 -> Cultist Troopers 1: no damage
+  [MOVEMENT] ranged (Overwatch): A:Mihran Spah Shieldbearers 2 -> Cultist Troopers 1: no damage
+  [MOVEMENT] ranged (Overwatch): A:Mihran Spah Sagdid Hound-Keepers -> Cultist Troopers 3: Cultist Troopers 3 -1
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers 1 -> Shieldbearers 2: Shieldbearers 2 -3
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers 4 -> Shieldbearers 2: Shieldbearers 2 -3 DESTROYED
+  [ACTION] ranged: A:Mihran Spah Shieldbearers 1 -> Cultist Troopers 1: Cultist Troopers 1 -5
+  [ACTION] magic (Daemonium Meridianum): B:Procession of Ugarit The Pontifex of Acedia -> Aswaran 1: no damage
+  [ACTION] ranged: A:Mihran Spah Aswaran 1 -> Cultist Troopers 4: Cultist Troopers 4 -10
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 2 -> Javidan Immortals 1: Javidan Immortals 1 -6, Javidan Immortals 2 -3
+  [ACTION] melee: A:Mihran Spah Aswaran 2 -> Hellkin: Hellkin -11
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 1 -> Javidan Immortals 1: Javidan Immortals 2 -6
+  [ACTION] ranged: A:Mihran Spah Spahbed -> Cultist Troopers 4: Cultist Troopers 4 -5
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers 2 -> Mobad: Javidan Immortals 1 -3
+  [ACTION] ranged: B:Procession of Ugarit Cultist Mortar Squad -> Sagdid Hound-Keepers: Sagdid Hound-Keepers -2
+  [ACTION] effect (Burning): A:Mihran Spah Shieldbearers 1 -> Cultist Troopers 1: Cultist Troopers 1 -9
+  [ACTION] effect (Burning): A:Mihran Spah Spahbed -> Cultist Troopers 4: Cultist Troopers 4 -4
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Algedonic Taskmaster (best: ability Drive the Column on Cultist Mortar Squad, 0), B:Somniferous Engine (no legal action), B:Cultist Troopers 3 (no legal action)
+Moves undone:
+  A:Mihran Spah Shieldbearers 1: R1 MOVEMENT 4,12 -> 5,8, R2 MOVEMENT -> 6,9 (toward the objective at 1,7, then away, 1 square lost)
+  B:Procession of Ugarit Somniferous Engine: R1 MOVEMENT 11,1 -> 10,5, R2 MOVEMENT -> 7,2 (toward the objective at 13,7, then away, 3 squares lost)
+  B:Procession of Ugarit Cultist Troopers 3: R1 MOVEMENT 3,2 -> 6,5, R2 MOVEMENT -> 3,5 (toward the objective at 13,7, then away, 3 squares lost)
+  A:Mihran Spah Sagdid Hound-Keepers #2: R1 MOVEMENT 8,12 -> 5,11, R2 MOVEMENT -> 8,9 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Mihran Spah Double Time on Shieldbearers 2: paid off - gave Shieldbearers 2: MOVE +2; 5 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Mihran Spah Secure Objective on Javidan Immortals 1: nothing - gave Mobad: OC +1; Javidan Immortals 1: OC +1; 4 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Procession of Ugarit Troop Requisition on (6,2): paid off - placed Cultist Troopers; the unit it placed made 1 attack(s), 2 HP off; the unit it placed drew 2 enemy attack(s), 20 HP
+  [MOVEMENT] B:Procession of Ugarit Desperate Worship on Shieldbearers 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [MOVEMENT] B:Procession of Ugarit Desperate Worship on Shieldbearers 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Mihran Spah Spot & Mark on Cultist Troopers 4: paid off - raised the INTEL LEVEL of Cultist Troopers 4 UNSPOTTED to MARKED; 2 attack(s) it touched: +6.47 expected HP for its side
+  [ACTION] B:Procession of Ugarit Desperate Worship on Shieldbearers 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Mihran Spah Spot & Mark on Cultist Troopers 4: paid off - raised the INTEL LEVEL of Cultist Troopers 4 MARKED to DESIGNATED; 2 attack(s) it touched: +3.89 expected HP for its side
+  [ACTION] A:Mihran Spah Alchemical Vial: paid off - gave Shieldbearers 1: MS +1, BS +1, DEF +1; 1 attack(s) it touched: +1.99 expected HP for its side
+  [ACTION] B:Procession of Ugarit Daemonium Meridianum on Aswaran 1: nothing - no change
+  [ACTION] B:Procession of Ugarit Desperate Worship on Mobad: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Profane Zeal (Cultist Troopers 2): 6 attacks, 2.2 expected HP for its side
+  Bearer of the Sacred Flame (Shieldbearers 2): 10 attacks, 11.36 expected HP for its side
+  Let Them Come (Morphean Engine 2): 2 attacks, 0.88 expected HP for its side
+  Mard-O-Mard Master (Aswaran 2): 1 attack, 1.06 expected HP for its side
+  Shepherd Among Cattle (Algedonic Taskmaster): 1 attack, 0.2 expected HP for its side
+  Tithe of Torment (Cultist Troopers 2): fired 2 times (add_resource)
+  Tithe of Torment (Cultist Troopers 3): fired 1 time (add_resource)
+  Tithe of Torment (Cultist Troopers 1): fired 12 times (add_resource)
+  Tithe of Torment (Cultist Troopers 4): fired 19 times (add_resource)
+  Mobad held still by Vessel of Agares
+  Javidan Immortals 1 held still by Vessel of Agares, a CHARGE denied
+  Shieldbearers 1 held still by Vessel of Agares, a CHARGE denied
+  Javidan Immortals 2 held still by Vessel of Agares, a CHARGE denied
+  Aswaran 1: reaches 38 squares (42 without Effluvium of Inanition)
+  Javidan Immortals 1: reaches 15 squares (19 without Effluvium of Inanition)
+  Shieldbearers 1: reaches 15 squares (22 without Effluvium of Inanition)
+  Shieldbearers 2: reaches 55 squares (61 without Effluvium of Inanition)
+  Sagdid Hound-Keepers: reaches 14 squares (27 without Effluvium of Inanition)
+  Aswaran 2: reaches 19 squares (32 without Effluvium of Inanition)
+  Javidan Immortals 2: reaches 14 squares (19 without Effluvium of Inanition)
+  Sagdid Hound-Keepers #2: reaches 47 squares (50 without Effluvium of Inanition)
+Scored by:
+  A:Mihran Spah missions PROBING STRIKE 2 VP: Spahbed 0.5, Aswaran 1 0.5, Shieldbearers 1 0.5, Aswaran 2 0.5 (actors)
+  B:Procession of Ugarit objectives (7,7) 3 VP: Cultist Troopers 2 3.0; hinged on Cultist Troopers 2
+  A:Mihran Spah objectives (1,7) 2 VP: Aswaran 2 2.0; hinged on Aswaran 2
+  B:Procession of Ugarit primary BREAK THEIR HOLD 1 VP: Hellkin 1.0, Cultist Troopers 4 0.3, Cultist Troopers 1 0.3, Cultist Troopers 2 -0.6
+Key log lines:
+  [COMMAND] Player A picks mission: PROBING STRIKE
+  [COMMAND] Player B picks mission: MAN OF THE HOUR
+  [COMMAND] HQ Command: Double Time -> Shieldbearers 2 (cost 1 CP) by Player A
+  [COMMAND] HQ Command: Secure Objective -> Javidan Immortals 1 (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] [Cultist Troopers 2] Overwatch Reaction vs Shieldbearers 2: 1 damage
+  [MOVEMENT]   Shieldbearer destroyed
+  [MOVEMENT]   Shieldbearer destroyed
+  [MOVEMENT] [Cultist Troopers 4] Overwatch Reaction vs Shieldbearers 2: 3 damage
+  [MOVEMENT] [Mobad] Overwatch Reaction vs Cultist Troopers 1: no damage
+  [MOVEMENT] [Shieldbearers 1] Overwatch Reaction vs Cultist Troopers 1: no damage
+  [MOVEMENT] [Shieldbearers 2] Overwatch Reaction vs Cultist Troopers 1: no damage
+  [MOVEMENT] [Sagdid Hound-Keepers] Overwatch Reaction vs Cultist Troopers 3: 1 damage
+  [ACTION] Sagdid Hound-Keepers uses Spot & Mark!
+  [ACTION]   Shieldbearer destroyed
+  [ACTION] Sagdid Hound-Keepers uses Spot & Mark!
+  [ACTION]   Shieldbearer destroyed
+  [ACTION]   Shieldbearer Dathapati destroyed
+  [ACTION]   Shieldbearers 2 DESTROYED
+  [ACTION] Shieldbearers 1 uses Alchemical Vial!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] The Pontifex of Acedia casts Daemonium Meridianum on Aswaran 1
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Hellkin destroyed
+  [ACTION]   Hellkin destroyed
+  [ACTION]   Hellkin destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Javidan destroyed
+  [ACTION]   Sagdid Pair destroyed
+  [ACTION] MISSION COMPLETE: "PROBING STRIKE" -> Player A +2 VP!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (2/10)
+
+=== BATTLE ROUND 3 ===
+A:Mihran Spah: VP +9 (obj 7, primary 2, missions 0) = 15; CP +3 -2 holds 1 [1 Double Time → Sagdid Hound-Keepers; 1 Rally cry (reaction) for Javidan Immortals 1]
+  mana: +2 -6 holds 0 [6 Cast Sunburst]
+  radiance: +1 -0 holds 3
+B:Procession of Ugarit: VP +2 (obj 0, primary 2, missions 0) = 12; CP +2 -2 holds 1 [2 Rally cry (reaction) for Cultist Troopers 1]
+  mana: +10 -0 holds 18
+A:Mihran Spah keeps mission FORWARD PRESENCE (offered FORWARD PRESENCE / TERRITORIAL SUPERIORITY)
+B:Procession of Ugarit keeps mission DEEP REACH (offered DEEP REACH / ASSASSINATION)
+Moves:
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers 2,8 -> 5,8
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 3 3,5 -> 4,6
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers #2 8,9 -> 12,8
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 4,4 -> 3,5
+  [MOVEMENT] A:Mihran Spah Shieldbearers 1 6,9 -> 6,8
+  [MOVEMENT] B:Procession of Ugarit The Pontifex of Acedia 6,5 -> 5,6
+  [MOVEMENT] A:Mihran Spah Aswaran 1 + Spahbed 9,8 -> 8,7 (charge)
+  [MOVEMENT] B:Procession of Ugarit Hellkin 1,6 -> 0,6
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 1 7,6 -> 10,5
+  [MOVEMENT] B:Procession of Ugarit Somniferous Engine 7,2 -> 6,5
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Procession of Ugarit Cultist Troopers 3 -> Shieldbearers 1: Shieldbearers 1 -4; cost paid: Cultist Troopers 3 -2 (DESPERATE WORSHIP)
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Cultist Troopers 4: Cultist Troopers 4 -1 DESTROYED, Cultist Troopers 1 -2
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers -> Aswaran 2: Aswaran 2 -2
+  [ACTION] ranged: A:Mihran Spah Shieldbearers 1 -> Cultist Troopers 2: Cultist Troopers 2 -4
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 2 -> Javidan Immortals 2: no damage
+  [ACTION] ranged: A:Mihran Spah Aswaran 2 -> Cultist Troopers: Cultist Troopers -8
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 1 -> Javidan Immortals 2: Javidan Immortals 1 -3 DESTROYED
+  [ACTION] ranged: A:Mihran Spah Sagdid Hound-Keepers -> Cultist Troopers 2: Cultist Troopers 2 -3
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers 3 -> Aswaran 2: no damage; cost paid: Cultist Troopers 3 -3 (DESPERATE WORSHIP)
+  [ACTION] magic (Sunburst): A:Mihran Spah Mobad: no damage
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers 2 -> Shieldbearers 1: Shieldbearers 1 -2 DESTROYED
+  [ACTION] ranged: B:Procession of Ugarit Cultist Mortar Squad -> Aswaran 2: no damage
+  [ACTION] ranged: B:Procession of Ugarit The Pontifex of Acedia -> Javidan Immortals 2: no damage
+  [ACTION] ranged: B:Procession of Ugarit Somniferous Engine -> Aswaran 1: no damage
+  [ACTION] effect (Burning): A:Mihran Spah Shieldbearers 1 -> Cultist Troopers 1: Cultist Troopers 1 -3 DESTROYED
+  [ACTION] effect (Burning): A:Mihran Spah Shieldbearers 1 -> Cultist Troopers 2: Cultist Troopers 2 -6
+  [CLEANUP] effect (Burning, Sunburst): A:Mihran Spah Mobad -> The Pontifex of Acedia: The Pontifex of Acedia -1
+  [CLEANUP] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Somniferous Engine: no damage
+  [CLEANUP] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Cultist Troopers 2: Cultist Troopers 2 -1
+  [CLEANUP] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Cultist Troopers 3: Cultist Troopers 3 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Algedonic Taskmaster (best: ability Drive the Column on Cultist Mortar Squad, 0)
+Commands and abilities:
+  [COMMAND] A:Mihran Spah Double Time on Sagdid Hound-Keepers: paid off - gave Sagdid Hound-Keepers: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Mihran Spah Rally Cry on Javidan Immortals 1: paid off - passed 1 Morale Test(s) outright
+  [COMMAND] B:Procession of Ugarit Rally Cry on Cultist Troopers 1: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] B:Procession of Ugarit Desperate Worship on Shieldbearers 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Mihran Spah Spot & Mark on Cultist Troopers 2: paid off - raised the INTEL LEVEL of Cultist Troopers 2 UNSPOTTED to MARKED; 2 attack(s) it touched: +1.5 expected HP for its side
+  [ACTION] B:Procession of Ugarit Desperate Worship on Aswaran 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Mihran Spah Alchemical Vial: paid off - gave Shieldbearers 1: MS +1, BS +1, DEF +1; 2 attack(s) it touched: +0.91 expected HP for its side
+  [ACTION] B:Procession of Ugarit Desperate Worship on Aswaran 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Mihran Spah Sunburst on (5,5): paid off - placed BURNING FIELD at (5,5); 14.5 HP of BURNED or field damage on enemies later
+Passive rules:
+  Profane Zeal (Cultist Troopers 3): 5 attacks, 1.34 expected HP for its side
+  Bearer of the Sacred Flame (Shieldbearers 1): 4 attacks, 2.32 expected HP for its side
+  Let Them Come (Morphean Engine 2): 2 attacks, 0.7 expected HP for its side
+  Shepherd Among Cattle (Algedonic Taskmaster): 1 attack, 0.1 expected HP for its side
+  Tithe of Torment (Cultist Troopers 3): fired 6 times (add_resource)
+  Tithe of Torment (Cultist Troopers 4): fired 1 time (add_resource)
+  Tithe of Torment (Cultist Troopers 1): fired 5 times (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 12 times (add_resource)
+  Tithe of Torment (Cultist Troopers): fired 8 times (add_resource)
+  Spahbed held still by Vessel of Agares
+  Aswaran 1 held still by Vessel of Agares, a CHARGE denied
+  Mobad held still by Vessel of Agares
+  Javidan Immortals 1 held still by Vessel of Agares, a CHARGE denied
+  Javidan Immortals 2 held still by Vessel of Agares, a CHARGE denied
+  Aswaran 1: reaches 36 squares (41 without Effluvium of Inanition)
+  Javidan Immortals 1: reaches 15 squares (20 without Effluvium of Inanition)
+  Shieldbearers 1: reaches 22 squares (25 without Effluvium of Inanition)
+  Sagdid Hound-Keepers: reaches 36 squares (47 without Effluvium of Inanition)
+  Aswaran 2: reaches 9 squares (23 without Effluvium of Inanition)
+  Javidan Immortals 2: reaches 13 squares (19 without Effluvium of Inanition)
+  Sagdid Hound-Keepers #2: reaches 39 squares (42 without Effluvium of Inanition)
+Scored by:
+  A:Mihran Spah objectives (7,7) 3 VP: Spahbed 1.3, Aswaran 1 1.3, Mobad 0.3, Javidan Immortals 2 0.3
+  A:Mihran Spah objectives (1,7) 2 VP: Aswaran 2 2.0; hinged on Aswaran 2
+  A:Mihran Spah objectives (13,7) 2 VP: Sagdid Hound-Keepers #2 2.0; hinged on Sagdid Hound-Keepers #2
+  A:Mihran Spah primary ERADICATE THE FOE 2 VP: no unit, unassigned 2
+  B:Procession of Ugarit primary BREAK THEIR HOLD 2 VP: Hellkin 1.0, Cultist Troopers 2 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: FORWARD PRESENCE
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Double Time -> Sagdid Hound-Keepers (cost 1 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via Spahbed (cost 1 CP) - Javidan Immortals 1
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Cultist Troopers 1
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT]   Shieldbearer destroyed
+  [MOVEMENT]   Shieldbearer destroyed
+  [MOVEMENT] [Cultist Troopers 3] Overwatch Reaction vs Shieldbearers 1: 4 damage
+  [MOVEMENT]   Cultist Chosen destroyed
+  [MOVEMENT] [Cultist Troopers 4] breaks away in disorder: 2 True Damage, 1 HP lost, 1 model destroyed
+  [MOVEMENT] [Cultist Troopers 4] was destroyed while attempting to FALL BACK
+  [MOVEMENT] [Hellkin] Fall Back to (0,6)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] [Cultist Troopers 1] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] [Cultist Troopers 1] Fall Back to (10,5)
+  [ACTION] Sagdid Hound-Keepers uses Spot & Mark!
+  [ACTION] Shieldbearers 1 uses Alchemical Vial!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Javidan Dathapati destroyed
+  [ACTION]   Javidan Immortals 1 DESTROYED
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] Mobad casts Sunburst on (5,5)
+  [ACTION]   Shieldbearer Dathapati destroyed
+  [ACTION]   Shieldbearers 1 DESTROYED
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION] [Cultist Troopers 1] DESTROYED by BURNED
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [CLEANUP]   Cultist destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (2/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 2 VP (4/10)
+
+=== BATTLE ROUND 4 ===
+A:Mihran Spah: VP +5 (obj 5, primary 0, missions 0) = 20; CP +3 -3 holds 1 [1 Double Time → Mobad; 1 Rally cry (reaction) for Javidan Immortals 2; 1 Go to ground (reaction) for Aswaran 1]
+  mana: +3 -0 holds 3
+  radiance: +1 -0 holds 4
+B:Procession of Ugarit: VP +8 (obj 2, primary 3, missions 3) = 20; CP +2 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+  mana: +10 -0 holds 28
+A:Mihran Spah keeps mission ASSASSINATION (offered ASSASSINATION / STRONGPOINT)
+B:Procession of Ugarit keeps mission PROBING STRIKE (offered PROBING STRIKE / PUSH FORWARD)
+B:Procession of Ugarit mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Mihran Spah Mobad 8,8 -> 8,6
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 3,5 -> 1,5
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers #2 12,8 -> 12,7
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers #2 7,2 -> 10,2
+  [MOVEMENT] A:Mihran Spah Aswaran 1 + Spahbed 8,7 -> 6,8
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 3 4,6 -> 5,5
+  [MOVEMENT] A:Mihran Spah Javidan Immortals 2 7,8 -> 8,7
+  [MOVEMENT] B:Procession of Ugarit The Pontifex of Acedia 5,6 -> 7,6 (charge)
+  [MOVEMENT] A:Mihran Spah Aswaran 2 2,7 -> 1,6 (charge)
+  [MOVEMENT] B:Procession of Ugarit Cultist Mortar Squad + Algedonic Taskmaster 11,2 -> 12,6 (charge)
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers 5,8 -> 7,10
+  [MOVEMENT] B:Procession of Ugarit Somniferous Engine 6,5 -> 9,3
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 2 6,6 -> 8,4
+Combat:
+  [ACTION] melee: A:Mihran Spah Aswaran 2 -> Cultist Troopers: Cultist Troopers -12 DESTROYED
+  [ACTION] melee: B:Procession of Ugarit Algedonic Taskmaster -> Sagdid Hound-Keepers #2: Cultist Mortar Squad -1, Sagdid Hound-Keepers #2 -2
+  [ACTION] melee: A:Mihran Spah Javidan Immortals 2 -> The Pontifex of Acedia: no damage
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 2 -> Aswaran 1: no damage
+  [ACTION] melee: A:Mihran Spah Mobad -> The Pontifex of Acedia: no damage
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 1 -> Aswaran 1: no damage
+  [ACTION] melee: B:Procession of Ugarit Hellkin -> Aswaran 2: no damage
+  [ACTION] melee: B:Procession of Ugarit Cultist Mortar Squad -> Sagdid Hound-Keepers #2: no damage
+  [ACTION] effect (Burning, Sunburst): A:Mihran Spah Mobad -> The Pontifex of Acedia: The Pontifex of Acedia -1
+  [ACTION] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Somniferous Engine: Somniferous Engine -1
+  [ACTION] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Cultist Troopers 2: Cultist Troopers 2 -3
+  [ACTION] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Cultist Troopers 3: Cultist Troopers 3 -6
+  [CLEANUP] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Cultist Troopers 3: Cultist Troopers 3 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Sagdid Hound-Keepers (best: ability Spot & Mark on The Pontifex of Acedia, 0), B:HQ (no legal action), B:Somniferous Engine (no legal action), B:Cultist Troopers 2 (no legal action), B:Cultist Troopers 3 (no legal action)
+Moves undone:
+  B:Procession of Ugarit Somniferous Engine: R3 MOVEMENT 7,2 -> 6,5, R4 MOVEMENT -> 9,3 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Mihran Spah Double Time on Mobad: paid off - gave Mobad: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Procession of Ugarit Troop Requisition on (7,2): paid off - placed Cultist Troopers #2; the unit it placed drew 1 enemy attack(s), 0 HP
+  [COMMAND] A:Mihran Spah Rally Cry on Javidan Immortals 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Mihran Spah Go to Ground on Aswaran 1: paid off - 1 attack(s) it touched: +0.44 expected HP for its side
+Passive rules:
+  Mard-O-Mard Master (Aswaran 2): 1 attack, 0.78 expected HP for its side
+  Weight of the World (The Pontifex of Acedia): 1 attack, 0.22 expected HP for its side
+  Bearer of the Sacred Flame (Javidan Immortals 2): 4 attacks, 1.47 expected HP for its side
+  Veterans of Countless Wars (Javidan Immortals 2): 1 attack, 0.21 expected HP for its side
+  Let Them Come (Morphean Engine 2): 2 attacks, 0.88 expected HP for its side
+  Shepherd Among Cattle (Algedonic Taskmaster): 1 attack, 0.08 expected HP for its side
+  Profane Zeal (Cultist Mortar Squad): 1 attack, 0.08 expected HP for its side
+  Tithe of Torment (Cultist Troopers): fired 6 times (add_resource)
+  Tithe of Torment (Cultist Mortar Squad): fired 1 time (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 3 times (add_resource)
+  Tithe of Torment (Cultist Troopers 3): fired 7 times (add_resource)
+  Spahbed held still by Vessel of Agares
+  Aswaran 1 held still by Vessel of Agares, a CHARGE denied
+  Mobad held still by Vessel of Agares, a CHARGE denied
+  Sagdid Hound-Keepers held still by Vessel of Agares, a CHARGE denied
+  Aswaran 2 held still by Vessel of Agares, a CHARGE denied
+  Javidan Immortals 2 held still by Vessel of Agares, a CHARGE denied
+  Aswaran 1: reaches 18 squares (40 without Effluvium of Inanition)
+  Mobad: reaches 42 squares (65 without Effluvium of Inanition)
+  Sagdid Hound-Keepers: reaches 16 squares (34 without Effluvium of Inanition)
+  Aswaran 2: reaches 8 squares (21 without Effluvium of Inanition)
+  Javidan Immortals 2: reaches 8 squares (24 without Effluvium of Inanition)
+  Sagdid Hound-Keepers #2: reaches 40 squares (48 without Effluvium of Inanition)
+Scored by:
+  A:Mihran Spah objectives (7,7) 3 VP: Aswaran 1 1.5, Spahbed 0.5, Mobad 0.5, Javidan Immortals 2 0.5
+  A:Mihran Spah objectives (1,7) 2 VP: Aswaran 2 2.0; hinged on Aswaran 2
+  B:Procession of Ugarit objectives (13,7) 2 VP: Algedonic Taskmaster 2.0; hinged on Algedonic Taskmaster
+  B:Procession of Ugarit primary BREAK THEIR HOLD 3 VP: Algedonic Taskmaster 1.5, The Pontifex of Acedia 0.5, Hellkin 0.5, Cultist Mortar Squad 0.5
+  B:Procession of Ugarit missions DEEP REACH 3 VP: HQ 1.5, Algedonic Taskmaster 1.5
+Key log lines:
+  [COMMAND] Player A picks mission: ASSASSINATION
+  [COMMAND] Player B picks mission: PROBING STRIKE
+  [COMMAND] HQ Command: Double Time -> Mobad (cost 1 CP) by Player A
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via Spahbed (cost 1 CP) - Javidan Immortals 2
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION]   Cultist Troopers DESTROYED in melee!
+  [ACTION]   Cultist Troopers was destroyed - no counterattack
+  [ACTION]   Sagdid Pair destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Aswaran 1
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [CLEANUP]   Cultist destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 3 VP (7/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+
+=== BATTLE ROUND 5 ===
+A:Mihran Spah: VP +10 (obj 5, primary 2, missions 3) = 30; CP +3 -2 holds 2 [1 Rally cry (reaction) for Javidan Immortals 2; 1 Go to ground (reaction) for Aswaran 1]
+  mana: +4 -0 holds 7
+B:Procession of Ugarit: VP +4 (obj 2, primary 2, missions 0) = 24; CP +2 -2 holds 0 [2 Double Time → Cultist Troopers]
+  mana: +6 -0 holds 34
+A:Mihran Spah keeps mission DEEP REACH (offered COMMAND AUTHORITY / DEEP REACH)
+B:Procession of Ugarit keeps mission IRON CURTAIN (offered KING OF THE HILL / IRON CURTAIN)
+A:Mihran Spah mission MAN OF THE HOUR: expired
+A:Mihran Spah mission DEEP REACH: completed
+B:Procession of Ugarit mission PROBING STRIKE: expired
+Moves:
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers 7,10 -> 10,10
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers #2 10,2 -> 6,5
+  [MOVEMENT] A:Mihran Spah Sagdid Hound-Keepers #2 12,7 -> 12,8
+  [MOVEMENT] B:Procession of Ugarit Morphean Engine 2 3,1 -> 3,6
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 2 8,4 -> 9,5 (charge)
+  [MOVEMENT] B:Procession of Ugarit Cultist Troopers 3 5,5 -> 6,6
+  [MOVEMENT] B:Procession of Ugarit Somniferous Engine 9,3 -> 11,6
+  [MOVEMENT] B:Procession of Ugarit Cultist Mortar Squad + Algedonic Taskmaster 12,6 -> 12,7 (charge)
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Mihran Spah Aswaran 1 -> Cultist Troopers #2: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Sagdid Hound-Keepers #2: Sagdid Hound-Keepers #2 -2
+  [ACTION] melee: A:Mihran Spah Aswaran 2 -> Hellkin: Hellkin -2
+  [ACTION] melee: B:Procession of Ugarit The Pontifex of Acedia -> Mobad: Mobad -4 DESTROYED
+  [ACTION] ranged: A:Mihran Spah Aswaran 1 -> Cultist Troopers 3: Cultist Troopers 3 -2
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 1 -> Aswaran 1: no damage
+  [ACTION] ranged: A:Mihran Spah Spahbed -> Cultist Troopers 3: Cultist Troopers 3 -3
+  [ACTION] melee: B:Procession of Ugarit Algedonic Taskmaster -> Sagdid Hound-Keepers #2: no damage
+  [ACTION] melee: A:Mihran Spah Javidan Immortals 2 -> The Pontifex of Acedia: no damage
+  [ACTION] ranged: B:Procession of Ugarit Morphean Engine 2 -> Aswaran 1: no damage
+  [ACTION] ranged: B:Procession of Ugarit Cultist Troopers 3 -> Aswaran 1: Aswaran 1 -1
+  [ACTION] melee: B:Procession of Ugarit Cultist Mortar Squad -> Sagdid Hound-Keepers #2: Sagdid Hound-Keepers #2 -1
+  [ACTION] effect (Burning, Sunburst): A:Mihran Spah Mobad -> The Pontifex of Acedia: no damage
+  [ACTION] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Somniferous Engine: no damage
+  [ACTION] effect (Burning, Sunburst): A:Mihran Spah Mobad -> Cultist Troopers 2: no damage
+  [ACTION] effect (Burning): A:Mihran Spah Spahbed -> Cultist Troopers 3: Cultist Troopers 3 -1 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Sagdid Hound-Keepers (no legal action), B:HQ (no legal action), B:Somniferous Engine (no legal action), B:Cultist Troopers 2 (no legal action), B:Cultist Troopers #2 (no legal action)
+Moves undone:
+  B:Procession of Ugarit Cultist Troopers #2: R4 MOVEMENT 7,2 -> 10,2, R5 MOVEMENT -> 6,5 (toward the objective at 13,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] B:Procession of Ugarit Double Time on Cultist Troopers #2: paid off - gave Cultist Troopers #2: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Mihran Spah Rally Cry on Javidan Immortals 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Mihran Spah Go to Ground on Aswaran 1: paid off - 1 attack(s) it touched: +0.44 expected HP for its side
+Passive rules:
+  Bearer of the Sacred Flame (Aswaran 1): 9 attacks, 3.59 expected HP for its side
+  Mard-O-Mard Master (Aswaran 2): 1 attack, 0.66 expected HP for its side
+  Let Them Come (Morphean Engine 1): 1 attack, 0.44 expected HP for its side
+  Weight of the World (The Pontifex of Acedia): 1 attack, 0.22 expected HP for its side
+  Profane Zeal (Cultist Troopers 3): 2 attacks, 0.09 expected HP for its side
+  Shepherd Among Cattle (Algedonic Taskmaster): 1 attack, 0.08 expected HP for its side
+  Tithe of Torment (Cultist Troopers 3): fired 6 times (add_resource)
+  Spahbed held still by Vessel of Agares
+  Aswaran 1 held still by Vessel of Agares, a CHARGE denied
+  Mobad held still by Vessel of Agares, a FALL BACK denied
+  Javidan Immortals 2 held still by Vessel of Agares, a FALL BACK denied
+  Aswaran 1: reaches 18 squares (41 without Effluvium of Inanition)
+  Mobad: reaches 2 squares (9 without Effluvium of Inanition)
+  Sagdid Hound-Keepers: reaches 42 squares (52 without Effluvium of Inanition)
+  Aswaran 2: reaches 8 squares (28 without Effluvium of Inanition)
+  Javidan Immortals 2: reaches 5 squares (18 without Effluvium of Inanition)
+  Sagdid Hound-Keepers #2: reaches 8 squares (28 without Effluvium of Inanition)
+Scored by:
+  A:Mihran Spah objectives (7,7) 3 VP: Aswaran 1 2.0, Spahbed 0.5, Javidan Immortals 2 0.5
+  A:Mihran Spah objectives (1,7) 2 VP: Aswaran 2 2.0; hinged on Aswaran 2
+  B:Procession of Ugarit objectives (13,7) 2 VP: Algedonic Taskmaster 2.0; hinged on Algedonic Taskmaster
+  A:Mihran Spah primary ERADICATE THE FOE 2 VP: no unit, unassigned 2
+  B:Procession of Ugarit primary BREAK THEIR HOLD 2 VP: The Pontifex of Acedia 1.0, Hellkin 1.0
+  A:Mihran Spah missions DEEP REACH 3 VP: HQ 2.1, Aswaran 1 0.3, Aswaran 2 0.3, Spahbed 0.1, Javidan Immortals 2 0.1
+Key log lines:
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: IRON CURTAIN
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via Spahbed (cost 1 CP) - Javidan Immortals 2
+  [MOVEMENT] [Aswaran 1] Overwatch Reaction vs Cultist Troopers: no damage
+  [MOVEMENT]   Sagdid Pair destroyed
+  [MOVEMENT] [Sagdid Hound-Keepers] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] [Sagdid Hound-Keepers] Fall Back to (12,8)
+  [ACTION]   Mobad destroyed
+  [ACTION]   Mobad DESTROYED in melee!
+  [ACTION]   Cultist destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Aswaran 1
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION] [Cultist Troopers 3] DESTROYED by BURNED
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (4/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 2 VP (9/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+  [CLEANUP] Mission "MAN OF THE HOUR" EXPIRED (R5)
+  [CLEANUP] Mission "PROBING STRIKE" EXPIRED (R5)
+
+Damage leaders:
+  A:Mihran Spah Aswaran 2: 34 damage, 1 kills, 35 RP, 0.97/RP
+  A:Mihran Spah Shieldbearers 1: 27 damage, 1 kills, 17 RP, 1.59/RP (destroyed)
+  A:Mihran Spah Mobad: 15 damage, 0 kills, 20 RP, 0.75/RP (destroyed)
+  B:Procession of Ugarit Morphean Engine 2: 15 damage, 0 kills, 30 RP, 0.50/RP
+  A:Mihran Spah Spahbed: 13 damage, 1 kills, 50 RP, 0.26/RP
+  A:Mihran Spah Aswaran 1: 13 damage, 0 kills, 40 RP, 0.33/RP
+  B:Procession of Ugarit Morphean Engine 1: 9 damage, 1 kills, 30 RP, 0.30/RP
+  B:Procession of Ugarit Cultist Mortar Squad: 7 damage, 0 kills, 12 RP, 0.58/RP
+  B:Procession of Ugarit Cultist Troopers 2: 6 damage, 1 kills, 10 RP, 0.60/RP
+  B:Procession of Ugarit Cultist Troopers 4: 6 damage, 1 kills, 10 RP, 0.60/RP (destroyed)
+  B:Procession of Ugarit Cultist Troopers 3: 5 damage, 0 kills, 10 RP, 0.50/RP (destroyed)
+  B:Procession of Ugarit The Pontifex of Acedia: 4 damage, 1 kills, 65 RP, 0.06/RP
+  B:Procession of Ugarit Cultist Troopers 1: 4 damage, 0 kills, 10 RP, 0.40/RP (destroyed)
+  A:Mihran Spah Sagdid Hound-Keepers: 4 damage, 0 kills, 10 RP, 0.40/RP
+  B:Procession of Ugarit Algedonic Taskmaster: 2 damage, 0 kills, 18 RP, 0.11/RP
+  B:Procession of Ugarit Cultist Troopers: 2 damage, 0 kills, 10 RP, 0.20/RP (destroyed)
+  A:Mihran Spah Sagdid Hound-Keepers #2: 1 damage, 0 kills, 10 RP, 0.10/RP
+Costs paid (HP a unit's own rules took from it):
+  B:Procession of Ugarit Cultist Troopers 3: 5 HP
+  B:Procession of Ugarit Cultist Troopers 2: 2 HP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Mihran Spah Aswaran 2: 10.8 VP (obj 10.0, primary 0.0, missions 0.8), hinged 10, 31.0/100 RP
+  B:Procession of Ugarit Algedonic Taskmaster: 7.0 VP (obj 4.0, primary 1.5, missions 1.5), hinged 4, 38.9/100 RP
+  A:Mihran Spah Aswaran 1: 5.6 VP (obj 4.8, primary 0.0, missions 0.8), hinged 0, 14.0/100 RP
+  B:Procession of Ugarit Cultist Troopers 2: 4.9 VP (obj 4.5, primary 0.4, missions 0.0), hinged 6, 48.8/100 RP
+  B:Procession of Ugarit Hellkin: 4.5 VP (obj 0.0, primary 4.5, missions 0.0), hinged 0, 18.0/100 RP
+  A:Mihran Spah Spahbed: 2.9 VP (obj 2.3, primary 0.0, missions 0.6), hinged 0, 5.7/100 RP
+  A:Mihran Spah HQ: 2.1 VP (obj 0.0, primary 0.0, missions 2.1), hinged 0, -/100 RP
+  A:Mihran Spah Sagdid Hound-Keepers #2: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 20.0/100 RP
+  B:Procession of Ugarit Cultist Troopers 4: 1.8 VP (obj 1.5, primary 0.3, missions 0.0), hinged 3, 18.2/100 RP
+  B:Procession of Ugarit HQ: 1.5 VP (obj 0.0, primary 0.0, missions 1.5), hinged 0, -/100 RP
+  B:Procession of Ugarit The Pontifex of Acedia: 1.5 VP (obj 0.0, primary 1.5, missions 0.0), hinged 0, 2.3/100 RP
+  A:Mihran Spah Javidan Immortals 2: 1.4 VP (obj 1.3, primary 0.0, missions 0.1), hinged 0, 4.5/100 RP
+  A:Mihran Spah Mobad: 0.8 VP (obj 0.8, primary 0.0, missions 0.0), hinged 0, 3.8/100 RP
+  B:Procession of Ugarit Cultist Mortar Squad: 0.5 VP (obj 0.0, primary 0.5, missions 0.0), hinged 0, 4.2/100 RP
+  A:Mihran Spah Shieldbearers 1: 0.5 VP (obj 0.0, primary 0.0, missions 0.5), hinged 0, 2.9/100 RP
+  B:Procession of Ugarit Cultist Troopers 1: 0.3 VP (obj 0.0, primary 0.3, missions 0.0), hinged 0, 3.0/100 RP
+  A:Mihran Spah no unit: obj 0, primary 4, missions 0
+  B:Procession of Ugarit no unit: obj 0, primary 0, missions 2
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  B:Procession of Ugarit Somniferous Engine: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 0/1/0/0/0/0
+  B:Procession of Ugarit Algedonic Taskmaster: inaction 3 (3 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/0/2
+  B:Procession of Ugarit Cultist Troopers 3: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 0/2/0/0/0/0
+  A:Mihran Spah Sagdid Hound-Keepers: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/1/0/1/0/2
+  B:Procession of Ugarit Cultist Troopers 2: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/2/0/0/0/3
+  B:Procession of Ugarit Cultist Troopers #2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0/0
+  A:Mihran Spah Spahbed: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/2/0/0/0/3
+  B:Procession of Ugarit The Pontifex of Acedia: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/2/0/1/2
+  A:Mihran Spah Shieldbearers 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/0/0/0/0/0
+  A:Mihran Spah Shieldbearers 1: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/2/0/0
+  B:Procession of Ugarit Cultist Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0/0
+  A:Mihran Spah Javidan Immortals 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/0/2
+  B:Procession of Ugarit Cultist Troopers 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/2/0/0/0/1
+  B:Procession of Ugarit Morphean Engine 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/5/0/0/0/0
+  B:Procession of Ugarit Morphean Engine 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/5/0/0/0/0
+  B:Procession of Ugarit Cultist Mortar Squad: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/3/2/0/0/2
+  A:Mihran Spah Javidan Immortals 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/0/5
+  A:Mihran Spah Sagdid Hound-Keepers #2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/1/2/0/3
+  B:Procession of Ugarit Hellkin: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/3/0/0/4
+  A:Mihran Spah Aswaran 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/2/3/0/0/5
+  B:Procession of Ugarit Cultist Troopers 4: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 1/1/0/0/0/2
+  A:Mihran Spah Aswaran 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/3/0/0/0/3
+  A:Mihran Spah Mobad: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/0/2/0/2/4
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 6
+  B:Procession of Ugarit Somniferous Engine: 2 of 5 moves (0 back, 2 away from an objective), 6 squares lost
+  B:Procession of Ugarit Cultist Troopers #2: 1 of 2 moves (0 back, 1 away from an objective), 3 squares lost
+  B:Procession of Ugarit Cultist Troopers 3: 1 of 5 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Mihran Spah Sagdid Hound-Keepers #2: 1 of 5 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Mihran Spah Shieldbearers 1: 1 of 3 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Mihran Spah MAN OF THE HOUR (+4 VP): kept R1, expired R5 - Have one friendly unit destroy at least 2 enemy units during this Mission's duration.
+  A:Mihran Spah PROBING STRIKE (+2 VP): kept R2, completed R2 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  A:Mihran Spah FORWARD PRESENCE (+3 VP): kept R3, active - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  A:Mihran Spah ASSASSINATION (+4 VP): kept R4, active - Destroy an enemy CHARACTER or MONSTER.
+  A:Mihran Spah DEEP REACH (+3 VP): kept R5, completed R5 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Procession of Ugarit BAR THE GATES (+2 VP): kept R1, completed R1 - At the end of a Battle Round, have no enemy unit in your half of the battlefield.
+  B:Procession of Ugarit MAN OF THE HOUR (+4 VP): kept R2, active - Have one friendly unit destroy at least 2 enemy units during this Mission's duration.
+  B:Procession of Ugarit DEEP REACH (+3 VP): kept R3, completed R4 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Procession of Ugarit PROBING STRIKE (+2 VP): kept R4, expired R5 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  B:Procession of Ugarit IRON CURTAIN (+2 VP): kept R5, active - No friendly unit is destroyed during the entire duration of this Mission.

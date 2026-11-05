@@ -1,0 +1,43 @@
+<p>All 24 battles were played and every one has its full report. Player A won 10 and Player B 14; the average margin was 16.3 VP, and only four battles ended within 5 VP (M14, M18, M23, M24). The Pot 4 armies won 10 of their 12 battles against Pot 2, and Pot 1 won 8 of 12 against Pot 3. The pots were drawn by faction, not by strength, so that is about these armies, not the pots.</p>
+<h3>Fixed during the Day</h3>
+<ul>
+<li><b>The recorder started too many browsers.</b> Up to twenty Chromiums on four CPUs, so most battles timed out in setup. It now counts a browser while it starts. This was tooling only; no battle was affected.</li>
+<li><b>D1-M03 froze in Round 1.</b> The AI weighed the loaded Comitatus Armored Carrier's two passengers with no cache: 4 to 20 seconds a passenger, 37 in one decision. It now uses a scratch cache, and the battle was replayed from its seed.</li>
+<li><b>D1-M19 stood still in Round 3.</b> Passage by Fire (Dragoon Brethren) handed a MOUNTED unit a 2-square MOVE in the step after the attack, and the browser never started that move. The step now starts it, and the battle was replayed from its seed. A check replay on the final code matched the league record line for line.</li>
+</ul>
+<h3>Engine bugs found, not yet fixed</h3>
+<p>None of these flips a Day 1 result on the numbers in the reports, so no battle is proposed for a replay.</p>
+<ul>
+<li><b>A FREE weapon in an Overwatch rolls nothing.</b> Its FREE use is spent before the shot, and the shot is then refused. This hit the Spahbed (M01, three times), the High Admiral and Tide Captain (M12), the Michaelite Brethren (M15), the Knight-Banneret (M09), the Palatine Custos (Mounted) and Malleus Sappers (M03) and the Praetorian Tribune and Gunners (M24). The fix is ready.</li>
+<li><b>A unit that defects stays joined to the enemy CHARACTER it guarded</b> (Temptation of Earthly Delight, M14). The new owner moved and fought with the enemy Asipu Priest attached.</li>
+<li><b>GARRISON DUTY pays for units that counterattacked or fired Overwatch.</b> Only an Action attack marks a unit as having attacked. It paid Camelot 4 VP in M09.</li>
+<li><b>End-of-round missions are checked after this round's OC bonuses expire.</b> DEEP REACH paid Opoki 3 VP for an objective it no longer held (M05).</li>
+<li><b>ASSASSINATION ignores a death with no attacker; ERADICATE THE FOE counts it.</b> Example: the Fomorian Tidebreaker killed by its own failed Fall Back (M17).</li>
+<li><b>An AOE splash can land outside its blast.</b> Pomegranate Bombs killed the Vigil's own Pahak Riflemen two squares away (M10).</li>
+<li><b>A ranged attack hit its own side.</b> Requisitioned Cultist Troopers shot their own Cultist Troopers 3 (M12).</li>
+<li><b>Introit moved the HQ.</b> The Antiphon's friendly target does not exclude a BASE, so the Cortege's HQ walked three times (M22).</li>
+<li><b>A mission of duration N covers N&minus;1 Battle Rounds</b> (IRON CURTAIN, PROBING STRIKE; M07). Either the count or its meaning needs a decision.</li>
+</ul>
+<h3>What the AI keeps getting wrong</h3>
+<ul>
+<li><b>Commands that buy nothing.</b> Double Time and Scouting Order were bought for nothing in most battles. M07 had six Double Times for 12 CP; M10 had three on one squad.</li>
+<li><b>Countercharge feeds a unit to a stronger one and gives away ASSASSINATION</b>, 4 VP each time: the Firelake Warden into Genghis Khan (M16), the Tsuchigumo Gun Battery into ten-stack Berserkers (M18). In M24 it sent Praetorian Gunners 1 and Tribune 2 into four enemy units, and both died (70 RP).</li>
+<li><b>Units walk off objectives they hold alone.</b> Hellkin (M01), both crusader pairs (M08), League Hoplite 1 (a 5 VP swing, M13), the Lamassu Bastion (M14), the Fading Steps off the centre (M10), Veche Levy 1 (M17).</li>
+<li><b>Casters bank Mana and never cast.</b> The Black Shaman held 20 (M16); Merlin (M09) and the Asipu Priest (M14) also never cast. The Tietaja moves every round, so Raise Luonto is never legal (M05).</li>
+<li><b>Expensive units idle all battle.</b> Javidan Immortals (M01), Adur Furnace Guard (M21) and Equites Igniferi (M02) stood idle; Palatine Custos made five charges and never attacked (M13).</li>
+</ul>
+<h3>Army and design questions</h3>
+<ul>
+<li>The Belfry Battery and Chonae Wing gather Mana, but neither fields a caster.</li>
+<li>LEAD FROM THE FRONT counts a joined CHARACTER and its squad as two units, so one pair reaches the 3 VP tier. The Golden Tumen scored 9 VP from it in M16. In M22 it capped the Cortege's Primary a round early, which paid the Brigade's STRATEGICAL DISRUPTION.</li>
+<li>STRATEGICAL DISRUPTION pays once the opponent's Primary has hit its cap (M18).</li>
+<li>TAKE GROUND can step a unit out of the fight it was charged into (M18).</li>
+</ul>
+<h3>Battle-report tool gaps (the numbers are right; the judgements need care)</h3>
+<ul>
+<li>The Fall Back record also logs the AI's charge-planning probes, so its "risky hold" entries are inflated in every report.</li>
+<li>These are priced "nothing" although the CP, Mana or cancelled charge shows in the log: abilities that grant CP or Mana (Mint Privilege, Overdraw, Sacrificium) and Countercharge.</li>
+<li>Pietas is snapshotted before its ladder pays.</li>
+<li>A granted move from an owed pick (Passage by Fire, M19) leaves no line in the log or the record; units placed by Troop Requisition share their originals' names.</li>
+<li>Damage from plague, the Induction Projector, Lance of God's Wrath and BURNED is labelled with stray log lines and credited to no one; friendly fire counts as damage dealt.</li>
+</ul>

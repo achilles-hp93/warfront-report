@@ -1,0 +1,17 @@
+Battle report: an ADVANCE is an action; advance-only rounds are shown apart
+
+The user's ruling (2026-10-30): "advancing is not idle, but a unit that only advance is
+a problem too. It lost out on shooting usually." page_activity.js records an ADVANCE in
+the Movement Phase (advanceUnit, its dice thrown; a pair's both units) as kind
+'advance', so a round with one is never idle. activity.cjs counts the rounds a unit
+ADVANCED and did nothing else - no other action, no Overwatch shot, no objective held -
+as advanceOnly, per unit and per unit type; the digest prints them each round and per
+unit, the report has a rank chart (rank-advance-only) and the batch one
+(batch-unit-advance-only), and the action mix shows Advance. A record made before
+reads its ADVANCEs from its moves (advanced). Overwatch readiness is unchanged.
+
+On the 24 Day 1 check-run records (S/cl-shadow2): idle rounds 375 -> 196; 365
+ADVANCEs; 188 rounds advanced and nothing else.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

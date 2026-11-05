@@ -1,0 +1,444 @@
+Sampo's Song (A, kalevan_kansa) vs Opoki Hundred (B, principality_of_novgorod) on CROSSROADS, seed 460703105
+Result: A:Sampo's Song wins (VP) in round 5, VP 33 / 26
+Initiative: A:Sampo's Song; formation order [0,1]
+Army A:Sampo's Song (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Vainamoinen - 70 RP, 1 models, 8 HP, leads Nostovaki Militia 1, Marshal
+  Nostovaki Militia 1 - 19 RP, 10 models, 20 HP, led by Vainamoinen
+  Winter Captain - 24 RP, 1 models, 6 HP, leads Peijaiset Wardens
+  Peijaiset Wardens - 40 RP, 5 models, 20 HP, led by Winter Captain
+  Nostovaki Militia 2 - 19 RP, 10 models, 20 HP
+  Nostovaki Militia 3 - 15 RP, 10 models, 20 HP
+  Erankavijat Recons - 18 RP, 3 models, 6 HP
+  Tietaja - 15 RP, 1 models, 4 HP
+  Ukko Thunder-Sledge - 30 RP, 1 models, 7 HP
+Army B:Opoki Hundred (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Tysyatsky 1 - 25 RP, 1 models, 8 HP, leads Koscheyan Troopers 1, Marshal
+  Koscheyan Troopers 1 - 40 RP, 5 models, 15 HP, led by Tysyatsky 1
+  Tysyatsky 2 - 25 RP, 1 models, 8 HP, leads Ushkuynik Marines
+  Ushkuynik Marines - 30 RP, 5 models, 10 HP, led by Tysyatsky 2
+  Koscheyan Troopers 2 - 40 RP, 5 models, 15 HP
+  Leshen Besieger - 45 RP, 1 models, 12 HP
+  Veche Levy 1 - 15 RP, 10 models, 20 HP
+  Veche Levy 2 - 15 RP, 10 models, 20 HP
+  Veche Levy 3 - 15 RP, 10 models, 20 HP
+Primary A:Sampo's Song: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: COORDINATED SUPPRESSION, DEEP INFILTRATION, BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 0 (count 0), R2 1 (count 1), R3 1 (count 1), R4 3 (count 3), R5 3 (count 3); total 8
+Primary B:Opoki Hundred: STRATEGICAL DISRUPTION - From the second Battle Round, at the end of each Battle Round, score 1 VP if an enemy unit in an Objective Area is SUPPRESSED or you destroyed an enemy unit in an Objective Area during that Battle Round, and 2 VP if your opponent's Primary Mission scored no VP during that Battle Round. If your opponent also holds STRATEGICAL DISRUPTION, their card counts as scoring only when its 1 VP condition is met.
+  hand: RAISE THE STANDARD, WIDE SWEEP, STRATEGICAL DISRUPTION; picked strategical_disruption
+  scored per round: R1 0 (count 2), R2 1 (count 1), R3 0 (count 0), R4 1 (count 1), R5 0 (count 0); total 2
+
+=== BATTLE ROUND 1 ===
+A:Sampo's Song: VP +5 (obj 3, primary 0, missions 2) = 5; CP +3 -2 holds 1 [2 Double Time → Peijaiset Wardens]
+B:Opoki Hundred: VP +2 (obj 2, primary 0, missions 0) = 2; CP +3 -2 holds 1 [2 Double Time → Ushkuynik Marines]
+A:Sampo's Song keeps mission BAR THE GATES (offered IRON CURTAIN / BAR THE GATES)
+B:Opoki Hundred keeps mission KING OF THE HILL (offered STRONGPOINT / KING OF THE HILL)
+A:Sampo's Song mission BAR THE GATES: completed
+Moves:
+  [MOVEMENT] A:Sampo's Song Peijaiset Wardens + Winter Captain 11,12 -> 7,8 (advance)
+  [MOVEMENT] B:Opoki Hundred Ushkuynik Marines + Tysyatsky 2 4,2 -> 6,6 (advance)
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 1 + Vainamoinen 4,12 -> 2,10
+  [MOVEMENT] B:Opoki Hundred Veche Levy 1 6,2 -> 7,6 (advance)
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 2 3,12 -> 4,10
+  [MOVEMENT] B:Opoki Hundred Veche Levy 2 3,2 -> 2,5 (advance)
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 3 8,12 -> 8,9
+  [MOVEMENT] B:Opoki Hundred Veche Levy 3 10,2 -> 13,6 (advance)
+  [MOVEMENT] A:Sampo's Song Erankavijat Recons 10,12 -> 9,9
+  [MOVEMENT] B:Opoki Hundred Leshen Besieger 9,0 -> 5,3 (advance)
+  [MOVEMENT] A:Sampo's Song Tietaja 5,12 -> 3,10 (advance)
+  [MOVEMENT] B:Opoki Hundred Koscheyan Troopers 1 + Tysyatsky 1 9,2 -> 8,5 (advance)
+  [MOVEMENT] B:Opoki Hundred Koscheyan Troopers 2 11,2 -> 9,5 (advance)
+Combat:
+  [ACTION] ranged: A:Sampo's Song Ukko Thunder-Sledge -> Veche Levy 1: Veche Levy 1 -8
+  [ACTION] ranged: B:Opoki Hundred Ushkuynik Marines -> Peijaiset Wardens: no damage
+  [ACTION] ranged: A:Sampo's Song Erankavijat Recons -> Ushkuynik Marines: Ushkuynik Marines -6
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 3 -> Veche Levy 1: Veche Levy 1 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Vainamoinen (no legal action), A:Nostovaki Militia 1 (no legal action), A:Winter Captain (no legal action), A:Peijaiset Wardens (no legal action), A:Nostovaki Militia 2 (no legal action), A:Tietaja (no legal action), B:HQ (no legal action), B:Tysyatsky 1 (no legal action), B:Koscheyan Troopers 1 (no legal action), B:Tysyatsky 2 (no legal action), B:Koscheyan Troopers 2 (no legal action), B:Leshen Besieger (no legal action), B:Veche Levy 1 (no legal action), B:Veche Levy 2 (no legal action), B:Veche Levy 3 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Sampo's Song Double Time on Peijaiset Wardens: nothing - gave Winter Captain: MOVE +2; Peijaiset Wardens: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] B:Opoki Hundred Double Time on Ushkuynik Marines: nothing - gave Tysyatsky 2: MOVE +2; Ushkuynik Marines: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+Scored by:
+  A:Sampo's Song objectives (7,7) 3 VP: Peijaiset Wardens 3.0; hinged on Peijaiset Wardens
+  B:Opoki Hundred objectives (13,7) 2 VP: Veche Levy 3 2.0; hinged on Veche Levy 3
+  A:Sampo's Song missions BAR THE GATES 2 VP: no unit, unassigned 2
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A BREAK THEIR HOLD, Player B STRATEGICAL DISRUPTION
+  [COMMAND] Player A picks mission: BAR THE GATES
+  [COMMAND] Player B picks mission: KING OF THE HILL
+  [COMMAND] HQ Command: Double Time -> Peijaiset Wardens (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Ushkuynik Marines (cost 2 CP) by Player B
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Ushkuynik Marine destroyed
+  [ACTION]   Ushkuynik Marine destroyed
+  [ACTION]   Ushkuynik Marine destroyed
+  [ACTION]   Levyman destroyed
+  [CLEANUP] MISSION COMPLETE: "BAR THE GATES" -> Player A +2 VP!
+
+=== BATTLE ROUND 2 ===
+A:Sampo's Song: VP +5 (obj 2, primary 1, missions 2) = 10; CP +4 -3 holds 2 [2 Double Time → Nostovaki Militia 2; 1 Go to ground (reaction) for Nostovaki Militia 1]
+B:Opoki Hundred: VP +9 (obj 5, primary 1, missions 3) = 11; CP +3 -4 holds 0 [2 Double Time → Tysyatsky 2; 2 Rally cry (reaction) for Ushkuynik Marines]
+A:Sampo's Song keeps mission IRON GRIP (offered SECURE THE FLANKS / IRON GRIP)
+B:Opoki Hundred keeps mission SECURE THE FLANKS (offered LAST STAND / SECURE THE FLANKS)
+A:Sampo's Song mission IRON GRIP: completed
+B:Opoki Hundred mission KING OF THE HILL: completed
+Moves:
+  [MOVEMENT] B:Opoki Hundred Veche Levy 2 2,5 -> 1,6
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 2 4,10 -> 9,10
+  [MOVEMENT] B:Opoki Hundred Leshen Besieger 5,3 -> 7,2
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 1 + Vainamoinen 2,10 -> 0,8
+  [MOVEMENT] B:Opoki Hundred Koscheyan Troopers 1 + Tysyatsky 1 8,5 -> 6,5
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 3 8,9 -> 11,10
+  [MOVEMENT] B:Opoki Hundred Koscheyan Troopers 2 9,5 -> 8,6
+  [MOVEMENT] A:Sampo's Song Erankavijat Recons 9,9 -> 13,8
+  [MOVEMENT] A:Sampo's Song Tietaja 3,10 -> 1,10
+  [MOVEMENT] A:Sampo's Song Peijaiset Wardens + Winter Captain 7,8 -> 8,7 (charge)
+  [ACTION] B:Opoki Hundred Koscheyan Troopers 1 + Tysyatsky 1 6,5 -> 6,7
+  [ACTION] B:Opoki Hundred Ushkuynik Marines + Tysyatsky 2 6,6 -> 6,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Opoki Hundred Veche Levy 2 -> Nostovaki Militia 1: Nostovaki Militia 1 -4
+  [MOVEMENT] ranged (Overwatch): A:Sampo's Song Winter Captain -> Koscheyan Troopers 2: no damage
+  [MOVEMENT] ranged (Overwatch): B:Opoki Hundred Veche Levy 3 -> Erankavijat Recons: Erankavijat Recons -2
+  [ACTION] ranged: B:Opoki Hundred Veche Levy 3 -> Erankavijat Recons: Erankavijat Recons -4 DESTROYED
+  [ACTION] melee: A:Sampo's Song Peijaiset Wardens -> Veche Levy 1: Veche Levy 1 -10 DESTROYED
+  [ACTION] ranged: A:Sampo's Song Vainamoinen -> Koscheyan Troopers 1: no damage
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 1 -> Koscheyan Troopers 1: no damage
+  [ACTION] ranged: A:Sampo's Song Ukko Thunder-Sledge -> Veche Levy 2: Veche Levy 2 -8
+  [ACTION] ranged: B:Opoki Hundred Koscheyan Troopers 1 -> Vainamoinen: Nostovaki Militia 1 -7
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 3 -> Veche Levy 3: Veche Levy 3 -5
+  [ACTION] melee: B:Opoki Hundred Koscheyan Troopers 2 -> Peijaiset Wardens: Peijaiset Wardens -2
+  [ACTION] ranged: A:Sampo's Song Vainamoinen -> Veche Levy 2: Veche Levy 2 -2
+  [ACTION] ranged: B:Opoki Hundred Veche Levy 2 -> Vainamoinen: no damage
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 1 -> Koscheyan Troopers 1: no damage
+  [ACTION] effect (Burning): effect: Veche Levy 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Nostovaki Militia 2 (no legal action), A:Tietaja (no legal action), B:HQ (no legal action), B:Ushkuynik Marines (no legal action), B:Leshen Besieger (no legal action)
+Moves undone:
+  A:Sampo's Song Erankavijat Recons: R1 MOVEMENT 10,12 -> 9,9, R2 MOVEMENT -> 13,8 (toward the objective at 7,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] B:Opoki Hundred Double Time on Tysyatsky 2: nothing - gave Tysyatsky 2: MOVE +2
+  [COMMAND] A:Sampo's Song Double Time on Nostovaki Militia 2: paid off - gave Nostovaki Militia 2: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Opoki Hundred Rally Cry: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] A:Sampo's Song Go to Ground on Nostovaki Militia 1: paid off - 1 attack(s) it touched: +2.22 expected HP for its side
+  [ACTION] B:Opoki Hundred Ring the Advance on Koscheyan Troopers 1: paid off - moved Koscheyan Troopers 1 to (6,7); 1 move(s) with it, 1 out of reach without it
+  [ACTION] B:Opoki Hundred Ring the Advance on Ushkuynik Marines: paid off - moved Ushkuynik Marines to (6,8); 1 move(s) with it, 1 out of reach without it
+Scored by:
+  B:Opoki Hundred missions KING OF THE HILL 3 VP: Veche Levy 3 3.0 (event)
+  B:Opoki Hundred objectives (7,7) 3 VP: Tysyatsky 1 0.6, Koscheyan Troopers 1 0.6, Tysyatsky 2 0.6, Ushkuynik Marines 0.6, Koscheyan Troopers 2 0.6
+  A:Sampo's Song objectives (1,7) 2 VP: Nostovaki Militia 1 2.0; hinged on Nostovaki Militia 1
+  B:Opoki Hundred objectives (13,7) 2 VP: Veche Levy 3 2.0; hinged on Veche Levy 3
+  A:Sampo's Song primary BREAK THEIR HOLD 1 VP: Winter Captain 0.5, Peijaiset Wardens 0.5
+  B:Opoki Hundred primary STRATEGICAL DISRUPTION 1 VP: Veche Levy 3 0.3, Tysyatsky 1 -0.1, Koscheyan Troopers 1 -0.1, Tysyatsky 2 -0.1, Ushkuynik Marines -0.1, Koscheyan Troopers 2 -0.1, unassigned 1
+  A:Sampo's Song missions IRON GRIP 2 VP: Vainamoinen 1.0, Nostovaki Militia 1 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: IRON GRIP
+  [COMMAND] Player B picks mission: SECURE THE FLANKS
+  [COMMAND] HQ Command: Double Time -> Tysyatsky 2 (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Double Time -> Nostovaki Militia 2 (cost 2 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Ushkuynik Marines
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via Vainamoinen (cost 1 CP) - Nostovaki Militia 1
+  [MOVEMENT]   Nostovaki destroyed
+  [MOVEMENT]   Nostovaki destroyed
+  [MOVEMENT] [Veche Levy 2] Overwatch Reaction vs Nostovaki Militia 1: 4 damage
+  [MOVEMENT] [Winter Captain] Overwatch Reaction vs Koscheyan Troopers 2: no damage
+  [MOVEMENT]   Erankavija destroyed
+  [MOVEMENT] [Veche Levy 3] Overwatch Reaction vs Erankavijat Recons: 2 damage
+  [ACTION] MISSION COMPLETE: "KING OF THE HILL" -> Player B +3 VP!
+  [ACTION]   Erankavija destroyed
+  [ACTION]   Eranvanhin destroyed
+  [ACTION]   Erankavijat Recons DESTROYED
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Desyatnik destroyed
+  [ACTION]   Veche Levy 1 DESTROYED in melee!
+  [ACTION]   Veche Levy 1 was destroyed - no counterattack
+  [ACTION] Tysyatsky 2 uses Ring the Advance!
+  [ACTION] [Vainamoinen] Overwatch Reaction vs Koscheyan Troopers 1: no damage
+  [ACTION] [Nostovaki Militia 1] Overwatch Reaction vs Koscheyan Troopers 1: no damage
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION] Tysyatsky 1 uses Ring the Advance!
+  [ACTION]   Levyman destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (1/10)
+  [CLEANUP] PRIMARY STRATEGICAL DISRUPTION: Player B scores 1 VP (1/10)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player A +2 VP +1 CP!
+
+=== BATTLE ROUND 3 ===
+A:Sampo's Song: VP +3 (obj 2, primary 1, missions 0) = 13; CP +3 -4 holds 1 [2 Double Time → Nostovaki Militia 3; 2 Rally cry (reaction) for Peijaiset Wardens]
+B:Opoki Hundred: VP +7 (obj 5, primary 0, missions 2) = 18; CP +4 -2 holds 2 [2 Double Time → Ushkuynik Marines]
+A:Sampo's Song keeps mission TAKE UP THE GAUNTLET (offered OMNIPRESENCE / TAKE UP THE GAUNTLET)
+B:Opoki Hundred keeps mission INTO THE FRAY (offered INTO THE FRAY / IRON CURTAIN)
+B:Opoki Hundred mission SECURE THE FLANKS: completed
+Moves:
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 3 11,10 -> 8,8
+  [MOVEMENT] B:Opoki Hundred Ushkuynik Marines + Tysyatsky 2 6,8 -> 2,8
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 2 9,10 -> 7,9
+  [MOVEMENT] A:Sampo's Song Tietaja 1,10 -> 1,13
+  [MOVEMENT] B:Opoki Hundred Veche Levy 2 1,6 -> 2,7
+  [MOVEMENT] B:Opoki Hundred Veche Levy 3 13,6 -> 12,6
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Opoki Hundred Ushkuynik Marines -> Nostovaki Militia 3: Nostovaki Militia 3 -2
+  [MOVEMENT] ranged (Overwatch): B:Opoki Hundred Leshen Besieger -> Nostovaki Militia 2: no damage
+  [ACTION] melee: A:Sampo's Song Peijaiset Wardens -> Koscheyan Troopers 2: Peijaiset Wardens -4, Koscheyan Troopers 2 -6
+  [ACTION] ranged: B:Opoki Hundred Koscheyan Troopers 1 -> Nostovaki Militia 3: Nostovaki Militia 3 -12
+  [ACTION] ranged: A:Sampo's Song Ukko Thunder-Sledge -> Koscheyan Troopers 1: Koscheyan Troopers 1 -6
+  [ACTION] ranged: B:Opoki Hundred Ushkuynik Marines -> Vainamoinen: no damage
+  [ACTION] ranged: A:Sampo's Song Vainamoinen -> Ushkuynik Marines: Ushkuynik Marines -4 DESTROYED
+  [ACTION] ranged: B:Opoki Hundred Leshen Besieger -> Nostovaki Militia 2: Nostovaki Militia 2 -6
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 2 -> Koscheyan Troopers 1: Koscheyan Troopers 1 -2
+  [ACTION] ranged: B:Opoki Hundred Veche Levy 2 -> Vainamoinen: Nostovaki Militia 1 -1
+  [ACTION] melee: A:Sampo's Song Winter Captain -> Koscheyan Troopers 2: no damage
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 1 -> Tysyatsky 2: Tysyatsky 2 -2
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 3 -> Koscheyan Troopers 1: no damage
+  [ACTION] effect (Burning): effect: Tysyatsky 2 -1
+  [ACTION] effect (Burning): effect: Veche Levy 2 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Tietaja (no legal action), B:HQ (no legal action), B:Veche Levy 3 (no legal action)
+Moves undone:
+  A:Sampo's Song Nostovaki Militia 3: R2 MOVEMENT 8,9 -> 11,10, R3 MOVEMENT -> 8,8 (back beside its start; toward the objective at 13,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Sampo's Song Double Time on Nostovaki Militia 3: paid off - gave Nostovaki Militia 3: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Opoki Hundred Double Time on Ushkuynik Marines: paid off - gave Tysyatsky 2: MOVE +2; Ushkuynik Marines: MOVE +2; 4 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Sampo's Song Rally Cry: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] B:Opoki Hundred Earthfast Stance: paid off - gave Leshen Besieger: MOVE_VALUE 0, weapon RANGE +2, weapon FR +1; 1 attack(s) it touched: +1 expected HP for its side
+  [ACTION] B:Opoki Hundred The Bell Carries: nothing - gave Tysyatsky 1: REROLL +1; Koscheyan Troopers 1: REROLL +1; Koscheyan Troopers 2: REROLL +1; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] B:Opoki Hundred The Bell Carries: nothing - gave Tysyatsky 2: REROLL +1; Veche Levy 2: REROLL +1
+Scored by:
+  B:Opoki Hundred objectives (7,7) 3 VP: Tysyatsky 1 1.0, Koscheyan Troopers 1 1.0, Koscheyan Troopers 2 1.0; hinged on Tysyatsky 1, Koscheyan Troopers 1, Koscheyan Troopers 2
+  A:Sampo's Song objectives (1,7) 2 VP: Vainamoinen 1.0, Nostovaki Militia 1 1.0
+  B:Opoki Hundred objectives (13,7) 2 VP: Veche Levy 3 2.0; hinged on Veche Levy 3
+  A:Sampo's Song primary BREAK THEIR HOLD 1 VP: Winter Captain 0.3, Peijaiset Wardens 0.3, Nostovaki Militia 3 0.3
+  B:Opoki Hundred missions SECURE THE FLANKS 2 VP: Tysyatsky 2 2.0
+Key log lines:
+  [COMMAND] Player A picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] Player B picks mission: INTO THE FRAY
+  [COMMAND] HQ Command: Double Time -> Nostovaki Militia 3 (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Ushkuynik Marines (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via Winter Captain (cost 2 CP) - Peijaiset Wardens
+  [MOVEMENT]   Nostovaki destroyed
+  [MOVEMENT] [Ushkuynik Marines] Overwatch Reaction vs Nostovaki Militia 3: 2 damage
+  [MOVEMENT] [Leshen Besieger] Overwatch Reaction vs Nostovaki Militia 2: no damage
+  [MOVEMENT] Leshen Besieger uses Earthfast Stance!
+  [ACTION]   Peijaiset Warden destroyed
+  [ACTION]   Koscheyan Trooper destroyed
+  [ACTION]   Koscheyan Trooper destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Koscheyan Trooper destroyed
+  [ACTION]   Koscheyan Trooper destroyed
+  [ACTION]   Ushkuynik Marine destroyed
+  [ACTION]   Ushkuynik Marine destroyed
+  [ACTION]   Ushkuynik Marines DESTROYED
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION] Tysyatsky 1 uses The Bell Carries!
+  [ACTION] Tysyatsky 2 uses The Bell Carries!
+  [ACTION]   Levyman destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "SECURE THE FLANKS" -> Player B +2 VP +1 CP!
+
+=== BATTLE ROUND 4 ===
+A:Sampo's Song: VP +9 (obj 3, primary 3, missions 3) = 22; CP +3 -3 holds 1 [3 Secure Objective → Peijaiset Wardens]
+B:Opoki Hundred: VP +5 (obj 2, primary 1, missions 2) = 23; CP +3 -4 holds 1 [2 Double Time → Koscheyan Troopers 2; 2 Rally cry (reaction) for Veche Levy 2]
+A:Sampo's Song keeps mission FORWARD PRESENCE (offered FORWARD PRESENCE / COMMAND AUTHORITY)
+B:Opoki Hundred keeps mission ASSASSINATION (offered FOCUSED FIRE / ASSASSINATION)
+A:Sampo's Song mission TAKE UP THE GAUNTLET: completed
+B:Opoki Hundred mission INTO THE FRAY: completed
+Moves:
+  [MOVEMENT] B:Opoki Hundred Koscheyan Troopers 2 8,6 -> 5,4
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 2 7,9 -> 5,9
+  [MOVEMENT] B:Opoki Hundred Leshen Besieger 7,2 -> 5,0
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 3 8,8 -> 6,9
+  [MOVEMENT] B:Opoki Hundred Veche Levy 2 2,7 -> 5,7
+  [MOVEMENT] A:Sampo's Song Tietaja 1,13 -> 0,12
+  [MOVEMENT] B:Opoki Hundred Tysyatsky 2 2,8 -> 1,8 (charge)
+  [MOVEMENT] A:Sampo's Song Peijaiset Wardens + Winter Captain 8,7 -> 6,6 (charge)
+  [MOVEMENT] B:Opoki Hundred Veche Levy 3 12,6 -> 9,6
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Koscheyan Troopers 2: Koscheyan Troopers 2 -3
+  [ACTION] melee: B:Opoki Hundred Koscheyan Troopers 1 -> Winter Captain: Koscheyan Troopers 1 -4
+  [ACTION] melee: A:Sampo's Song Vainamoinen -> Tysyatsky 2: Nostovaki Militia 1 -2
+  [ACTION] melee: B:Opoki Hundred Tysyatsky 1 -> Peijaiset Wardens: Peijaiset Wardens -2
+  [ACTION] ranged: A:Sampo's Song Ukko Thunder-Sledge -> Veche Levy 3: Veche Levy 3 -1
+  [ACTION] melee: B:Opoki Hundred Veche Levy 2 -> Winter Captain: no damage
+  [ACTION] melee: A:Sampo's Song Nostovaki Militia 1 -> Tysyatsky 2: no damage
+  [ACTION] ranged: B:Opoki Hundred Veche Levy 3 -> Nostovaki Militia 3: no damage
+  [ACTION] ranged: A:Sampo's Song Nostovaki Militia 3 -> Veche Levy 3: no damage
+  [ACTION] effect (Burning): effect: Tysyatsky 2 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Nostovaki Militia 2 (no legal action), A:Tietaja (no legal action), B:HQ (no legal action), B:Leshen Besieger (no legal action)
+Moves undone:
+  B:Opoki Hundred Leshen Besieger: R2 MOVEMENT 5,3 -> 7,2, R4 MOVEMENT -> 5,0 (toward the objective at 13,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] B:Opoki Hundred Double Time on Koscheyan Troopers 2: paid off - gave Koscheyan Troopers 2: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Sampo's Song Secure Objective on Peijaiset Wardens: nothing - gave Winter Captain: OC +1; Peijaiset Wardens: OC +1; 5 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Opoki Hundred Rally Cry: paid off - passed 1 Morale Test(s) outright
+Scored by:
+  B:Opoki Hundred missions INTO THE FRAY 2 VP: Tysyatsky 2 2.0 (event)
+  A:Sampo's Song objectives (7,7) 3 VP: Peijaiset Wardens 3.0; hinged on Peijaiset Wardens
+  B:Opoki Hundred objectives (1,7) 2 VP: Tysyatsky 2 2.0; hinged on Tysyatsky 2
+  A:Sampo's Song primary BREAK THEIR HOLD 3 VP: no unit, unassigned 3
+  B:Opoki Hundred primary STRATEGICAL DISRUPTION 1 VP: no unit, unassigned 1
+  A:Sampo's Song missions TAKE UP THE GAUNTLET 3 VP: Peijaiset Wardens 3.0
+Key log lines:
+  [COMMAND] Player A picks mission: FORWARD PRESENCE
+  [COMMAND] Player B picks mission: ASSASSINATION
+  [COMMAND] HQ Command: Double Time -> Koscheyan Troopers 2 (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Secure Objective -> Peijaiset Wardens (cost 3 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via Tysyatsky 2 (cost 2 CP) - Veche Levy 2
+  [MOVEMENT]   Koscheyan Trooper destroyed
+  [MOVEMENT] [Koscheyan Troopers 2] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Koscheyan Troopers 2] Fall Back to (5,4)
+  [MOVEMENT] MISSION COMPLETE: "INTO THE FRAY" -> Player B +2 VP!
+  [ACTION]   Koscheyan Trooper destroyed
+  [ACTION]   Koscheyan Trooper destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Peijaiset Warden destroyed
+  [ACTION]   Levyman destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (5/10)
+  [CLEANUP] PRIMARY STRATEGICAL DISRUPTION: Player B scores 1 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "TAKE UP THE GAUNTLET" -> Player A +3 VP!
+
+=== BATTLE ROUND 5 ===
+A:Sampo's Song: VP +11 (obj 5, primary 3, missions 3) = 33; CP +3 -3 holds 1 [3 Secure Objective → Nostovaki Militia 1]
+B:Opoki Hundred: VP +3 (obj 0, primary 0, missions 3) = 26; CP +3 -4 holds 0 [2 Double Time → Koscheyan Troopers 2; 2 Rally cry (reaction) for Koscheyan Troopers 1]
+A:Sampo's Song keeps mission DEEP REACH (offered DEEP REACH / COORDINATED PUSH)
+B:Opoki Hundred keeps mission DEEP REACH (offered FORWARD DEPLOYMENT / DEEP REACH)
+A:Sampo's Song mission DEEP REACH: completed
+B:Opoki Hundred mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] B:Opoki Hundred Koscheyan Troopers 2 5,4 -> 2,6
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 3 6,9 -> 5,10
+  [MOVEMENT] B:Opoki Hundred Veche Levy 2 5,7 -> 4,6
+  [MOVEMENT] A:Sampo's Song Tietaja 0,12 -> 1,11
+  [MOVEMENT] B:Opoki Hundred Veche Levy 3 9,6 -> 8,6
+  [MOVEMENT] A:Sampo's Song Nostovaki Militia 2 5,9 -> 6,8 (charge)
+  [MOVEMENT] B:Opoki Hundred Leshen Besieger 5,0 -> 7,2
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Veche Levy 2: Veche Levy 2 -3
+  [MOVEMENT] ranged (Overwatch): A:Sampo's Song Nostovaki Militia 2 -> Veche Levy 3: Veche Levy 3 -4
+  [ACTION] melee: B:Opoki Hundred Tysyatsky 1 -> Nostovaki Militia 2: Nostovaki Militia 2 -4, Koscheyan Troopers 1 -1
+  [ACTION] melee: A:Sampo's Song Peijaiset Wardens -> Koscheyan Troopers 1: Koscheyan Troopers 1 -2 DESTROYED
+  [ACTION] melee: B:Opoki Hundred Tysyatsky 2 -> Vainamoinen: Nostovaki Militia 1 -2
+  [ACTION] ranged: A:Sampo's Song Ukko Thunder-Sledge -> Veche Levy 3: Veche Levy 3 -4
+  [ACTION] melee: A:Sampo's Song Winter Captain -> Tysyatsky 1: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Nostovaki Militia 3 (no legal action), A:Tietaja (no legal action), B:HQ (no legal action), B:Koscheyan Troopers 2 (no legal action), B:Leshen Besieger (no legal action), B:Veche Levy 3 (no legal action)
+Moves undone:
+  B:Opoki Hundred Leshen Besieger: R4 MOVEMENT 7,2 -> 5,0, R5 MOVEMENT -> 7,2 (back beside its start, 2 squares lost)
+Commands and abilities:
+  [COMMAND] B:Opoki Hundred Double Time on Koscheyan Troopers 2: paid off - gave Koscheyan Troopers 2: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Sampo's Song Secure Objective on Nostovaki Militia 1: paid off - gave Vainamoinen: OC +1; Nostovaki Militia 1: OC +1; 3 attack(s) it touched: +0 expected HP for its side; decided 2 objective VP
+  [COMMAND] B:Opoki Hundred Rally Cry: paid off - passed 1 Morale Test(s) outright
+Scored by:
+  A:Sampo's Song objectives (7,7) 3 VP: Peijaiset Wardens 1.5, Nostovaki Militia 2 1.5; hinged on Peijaiset Wardens, Nostovaki Militia 2
+  A:Sampo's Song objectives (1,7) 2 VP: Vainamoinen 1.0, Nostovaki Militia 1 1.0; hinged on Vainamoinen, Nostovaki Militia 1
+  A:Sampo's Song primary BREAK THEIR HOLD 3 VP: Vainamoinen 1.3, Nostovaki Militia 1 1.3, Winter Captain 0.3, Peijaiset Wardens 0.1, Nostovaki Militia 2 0.1
+  A:Sampo's Song missions DEEP REACH 3 VP: HQ 1.0, Peijaiset Wardens 1.0, Nostovaki Militia 2 1.0
+  B:Opoki Hundred missions DEEP REACH 3 VP: HQ 1.0, Tysyatsky 2 1.0, Koscheyan Troopers 2 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Double Time -> Koscheyan Troopers 2 (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Secure Objective -> Nostovaki Militia 1 (cost 3 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via Tysyatsky 1 (cost 2 CP) - Koscheyan Troopers 1
+  [MOVEMENT]   Levyman destroyed
+  [MOVEMENT] [Veche Levy 2] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Veche Levy 2] Fall Back to (4,6)
+  [MOVEMENT]   Levyman destroyed
+  [MOVEMENT]   Levyman destroyed
+  [MOVEMENT] [Nostovaki Militia 2] Overwatch Reaction vs Veche Levy 3: 4 damage
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Koscheyan Trooper destroyed
+  [ACTION]   Koscheyan Troopers 1 DESTROYED in melee!
+  [ACTION]   Nostovaki destroyed
+  [ACTION]   Levyman destroyed
+  [ACTION]   Levyman destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (8/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+
+Damage leaders:
+  A:Sampo's Song Ukko Thunder-Sledge: 27 damage, 0 kills, 30 RP, 0.90/RP
+  A:Sampo's Song Peijaiset Wardens: 22 damage, 2 kills, 40 RP, 0.55/RP
+  B:Opoki Hundred Koscheyan Troopers 1: 19 damage, 0 kills, 40 RP, 0.47/RP (destroyed)
+  A:Sampo's Song Nostovaki Militia 2: 7 damage, 0 kills, 19 RP, 0.37/RP
+  A:Sampo's Song Nostovaki Militia 3: 7 damage, 0 kills, 15 RP, 0.47/RP
+  A:Sampo's Song Vainamoinen: 6 damage, 1 kills, 70 RP, 0.09/RP
+  B:Opoki Hundred Veche Levy 3: 6 damage, 1 kills, 15 RP, 0.40/RP
+  A:Sampo's Song Erankavijat Recons: 6 damage, 0 kills, 18 RP, 0.33/RP (destroyed)
+  B:Opoki Hundred Koscheyan Troopers 2: 6 damage, 0 kills, 40 RP, 0.15/RP
+  B:Opoki Hundred Leshen Besieger: 6 damage, 0 kills, 45 RP, 0.13/RP
+  B:Opoki Hundred Tysyatsky 1: 6 damage, 0 kills, 25 RP, 0.24/RP
+  B:Opoki Hundred Veche Levy 2: 5 damage, 0 kills, 15 RP, 0.33/RP
+  B:Opoki Hundred Tysyatsky 2: 4 damage, 0 kills, 25 RP, 0.16/RP
+  A:Sampo's Song Nostovaki Militia 1: 2 damage, 0 kills, 19 RP, 0.11/RP
+  B:Opoki Hundred Ushkuynik Marines: 2 damage, 0 kills, 30 RP, 0.07/RP (destroyed)
+VP contributed (fair share; objective VP that hinged on it):
+  A:Sampo's Song Peijaiset Wardens: 12.4 VP (obj 7.5, primary 0.9, missions 4.0), hinged 9, 31.0/100 RP
+  B:Opoki Hundred Veche Levy 3: 9.3 VP (obj 6.0, primary 0.3, missions 3.0), hinged 6, 62.2/100 RP
+  B:Opoki Hundred Tysyatsky 2: 7.5 VP (obj 2.6, primary -0.1, missions 5.0), hinged 2, 30.1/100 RP
+  A:Sampo's Song Nostovaki Militia 1: 6.3 VP (obj 4.0, primary 1.3, missions 1.0), hinged 4, 33.2/100 RP
+  A:Sampo's Song Vainamoinen: 4.3 VP (obj 2.0, primary 1.3, missions 1.0), hinged 2, 6.1/100 RP
+  A:Sampo's Song Nostovaki Militia 2: 2.5 VP (obj 1.5, primary 0.1, missions 1.0), hinged 3, 13.4/100 RP
+  B:Opoki Hundred Koscheyan Troopers 2: 2.5 VP (obj 1.6, primary -0.1, missions 1.0), hinged 3, 6.3/100 RP
+  B:Opoki Hundred Koscheyan Troopers 1: 1.5 VP (obj 1.6, primary -0.1, missions 0.0), hinged 3, 3.8/100 RP
+  B:Opoki Hundred Tysyatsky 1: 1.5 VP (obj 1.6, primary -0.1, missions 0.0), hinged 3, 6.1/100 RP
+  A:Sampo's Song Winter Captain: 1.1 VP (obj 0.0, primary 1.1, missions 0.0), hinged 0, 4.7/100 RP
+  A:Sampo's Song HQ: 1.0 VP (obj 0.0, primary 0.0, missions 1.0), hinged 0, -/100 RP
+  B:Opoki Hundred HQ: 1.0 VP (obj 0.0, primary 0.0, missions 1.0), hinged 0, -/100 RP
+  B:Opoki Hundred Ushkuynik Marines: 0.5 VP (obj 0.6, primary -0.1, missions 0.0), hinged 0, 1.8/100 RP
+  A:Sampo's Song Nostovaki Militia 3: 0.3 VP (obj 0.0, primary 0.3, missions 0.0), hinged 0, 2.2/100 RP
+  A:Sampo's Song no unit: obj 0, primary 3, missions 2
+  B:Opoki Hundred no unit: obj 0, primary 2, missions 0
+Activity (inaction score; actions: movement/ranged/melee/ability/magic):
+  A:Sampo's Song Tietaja: inaction 5 (5 idle, 5 after moving, 0 Overwatch); actions 0/0/0/0/0
+  B:Opoki Hundred Leshen Besieger: inaction 3.75 (4 idle, 4 after moving, 1 Overwatch); actions 0/1/0/1/0
+  A:Sampo's Song Nostovaki Militia 2: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 0/1/1/0/0
+  B:Opoki Hundred Veche Levy 3: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 0/2/0/0/0
+  B:Opoki Hundred Koscheyan Troopers 2: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 1/0/2/0/0
+  B:Opoki Hundred Veche Levy 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0
+  B:Opoki Hundred Koscheyan Troopers 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/2/2/0/0
+  A:Sampo's Song Nostovaki Militia 3: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/4/0/0/0
+  A:Sampo's Song Peijaiset Wardens: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/4/0/0
+  B:Opoki Hundred Tysyatsky 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/2/0
+  B:Opoki Hundred Tysyatsky 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/2/0
+  B:Opoki Hundred Ushkuynik Marines: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/0/0
+  A:Sampo's Song Nostovaki Militia 1: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/2/0/0
+  A:Sampo's Song Vainamoinen: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/2/0/0
+  B:Opoki Hundred Veche Levy 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 1/2/1/0/0
+  A:Sampo's Song Winter Captain: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/0/4/0/0
+  A:Sampo's Song Erankavijat Recons: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0
+  A:Sampo's Song Ukko Thunder-Sledge: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/5/0/0/0
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 4
+  B:Opoki Hundred Leshen Besieger: 2 of 4 moves (1 back, 1 away from an objective), 4 squares lost
+  A:Sampo's Song Erankavijat Recons: 1 of 2 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Sampo's Song Nostovaki Militia 3: 1 of 5 moves (1 back, 1 away from an objective), 3 squares lost
+Secondary missions:
+  A:Sampo's Song BAR THE GATES (+2 VP): kept R1, completed R1 - At the end of a Battle Round, have no enemy unit in your half of the battlefield.
+  A:Sampo's Song IRON GRIP (+2 VP): kept R2, completed R2 - Maintain a minimum of 7 OC on a single Objective.
+  A:Sampo's Song TAKE UP THE GAUNTLET (+3 VP): kept R3, completed R4 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  A:Sampo's Song FORWARD PRESENCE (+3 VP): kept R4, active - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  A:Sampo's Song DEEP REACH (+3 VP): kept R5, completed R5 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Opoki Hundred KING OF THE HILL (+3 VP): kept R1, completed R2 - Have a friendly unit in an Objective Area destroy an enemy unit.
+  B:Opoki Hundred SECURE THE FLANKS (+2 VP): kept R2, completed R3 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  B:Opoki Hundred INTO THE FRAY (+2 VP): kept R3, completed R4 - Make a successful CHARGE against an enemy unit.
+  B:Opoki Hundred ASSASSINATION (+4 VP): kept R4, active - Destroy an enemy CHARACTER or MONSTER.
+  B:Opoki Hundred DEEP REACH (+3 VP): kept R5, completed R5 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.

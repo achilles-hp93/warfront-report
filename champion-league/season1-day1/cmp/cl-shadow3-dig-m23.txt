@@ -1,0 +1,509 @@
+Lightbearers of Antioch (A, infernal_congregations) vs Longwu Army (B, jade_mandate) on CROSSROADS, seed 460703123
+Result: B:Longwu Army wins (VP) in round 4, VP 20 / 32
+Initiative: A:Lightbearers of Antioch; formation order [1,0]
+Army A:Lightbearers of Antioch (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Dawn King - 60 RP, 1 models, 10 HP, Marshal
+  Seraph of Evolution - 70 RP, 1 models, 12 HP
+  Goetic Ophanim - 45 RP, 1 models, 10 HP
+  Lucent Exemplars - 30 RP, 3 models, 6 HP, led by Ashen Chirurgeon 1
+  Ashen Chirurgeon 1 - 12 RP, 1 models, 6 HP, leads Lucent Exemplars
+  Ashen Chirurgeon 2 - 12 RP, 1 models, 6 HP, leads Cultist Troopers 1
+  Cultist Troopers 1 - 10 RP, 10 models, 20 HP, led by Ashen Chirurgeon 2
+  Cultist Troopers 2 - 10 RP, 10 models, 20 HP
+Army B:Longwu Army (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Five-Banner Marshal - 24 RP, 1 models, 6 HP, leads White Pole Guard, Marshal
+  White Pole Guard - 41 RP, 3 models, 9 HP, led by Five-Banner Marshal
+  War-Taoist - 20 RP, 1 models, 4 HP, leads Commandery Bannermen 1
+  Commandery Bannermen 1 - 10 RP, 5 models, 10 HP, led by War-Taoist
+  Commandery Bannermen 2 - 10 RP, 5 models, 10 HP
+  Commandery Bannermen 3 - 10 RP, 5 models, 10 HP
+  Commandery Bannermen 4 - 10 RP, 5 models, 10 HP
+  Commandery Bannermen 5 - 10 RP, 5 models, 10 HP
+  Commandery Bannermen 6 - 10 RP, 5 models, 10 HP
+  Terracotta Vanguard - 15 RP, 3 models, 9 HP
+  Azure Banner Braves - 30 RP, 5 models, 10 HP
+  Vermillion Rocket Battery 1 - 28 RP, 1 models, 5 HP
+  Vermillion Rocket Battery 2 - 22 RP, 1 models, 5 HP
+  Commandery Bannermen 7 - 10 RP, 5 models, 10 HP
+Primary A:Lightbearers of Antioch: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: BLEED THEM WHITE, RECONNAISSANCE OPERATION (does not fit), BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 2 (count 2), R2 2 (count 2), R3 3 (count 3), R4 1 (count 1); total 8
+Primary B:Longwu Army: IMPENETRABLE FORTRESS - From the second Battle Round, at the end of each Battle Round, score 1 VP for every 2 friendly units outside your deployment zone that are neither Below Half-Strength nor SUPPRESSED, up to 3 VP.
+  hand: IMPENETRABLE FORTRESS, RECONNAISSANCE OPERATION (does not fit), BLEED THEM WHITE; picked impenetrable_fortress
+  scored per round: R1 0 (count 10), R2 3 (count 10), R3 3 (count 8), R4 3 (count 6); total 9
+
+=== BATTLE ROUND 1 ===
+A:Lightbearers of Antioch: VP +2 (obj 0, primary 2, missions 0) = 2; CP +2 -1 holds 1 [1 Go to ground (reaction) for Cultist Troopers 1]
+  mana: +10 -0 holds 10
+B:Longwu Army: VP +5 (obj 5, primary 0, missions 0) = 5; CP +3 -3 holds 0 [3 Troop Requisition → Commandery Bannermen]
+A:Lightbearers of Antioch keeps mission INTO THE FRAY (offered INTO THE FRAY / LAST STAND)
+B:Longwu Army keeps mission PUSH FORWARD (offered SECURE THE FLANKS / PUSH FORWARD)
+Moves:
+  [MOVEMENT] A:Lightbearers of Antioch Lucent Exemplars + Ashen Chirurgeon 1 3,12 -> 6,10 (advance)
+  [MOVEMENT] B:Longwu Army Terracotta Vanguard 6,2 -> 6,6 (advance)
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 1 + Ashen Chirurgeon 2 5,12 -> 6,8 (advance)
+  [MOVEMENT] B:Longwu Army White Pole Guard + Five-Banner Marshal 9,2 -> 8,5
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 2 11,12 -> 8,12
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 1 + War-Taoist 3,2 -> 4,3
+  [MOVEMENT] A:Lightbearers of Antioch Goetic Ophanim 9,13 -> 5,10
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 2 5,2 -> 6,5
+  [MOVEMENT] A:Lightbearers of Antioch Seraph of Evolution 11,13 -> 7,9
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 3 11,2 -> 9,4 (advance)
+  [MOVEMENT] A:Lightbearers of Antioch The Dawn King 4,12 -> 2,7
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 4 10,2 -> 8,6 (advance)
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 5 7,2 -> 7,5
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 7 3,1 -> 2,1
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 6 4,2 -> 2,4
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 6,1 -> 6,4 (advance)
+  [MOVEMENT] B:Longwu Army Azure Banner Braves 8,2 -> 7,6
+  [ACTION] B:Longwu Army Azure Banner Braves 7,6 -> 4,6
+  [ACTION] B:Longwu Army Azure Banner Braves 4,6 -> 2,6
+Combat:
+  [ACTION] ranged: A:Lightbearers of Antioch The Dawn King -> Commandery Bannermen 6: Commandery Bannermen 6 -4
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 1 -> Cultist Troopers 1: Cultist Troopers 1 -2
+  [ACTION] ranged: A:Lightbearers of Antioch Cultist Troopers 2 -> Terracotta Vanguard: no damage
+  [ACTION] ranged: B:Longwu Army Azure Banner Braves -> Cultist Troopers 1: Cultist Troopers 1 -11
+  [ACTION] ranged: A:Lightbearers of Antioch Seraph of Evolution -> Azure Banner Braves: no damage
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 2 -> Cultist Troopers 1: Cultist Troopers 1 -1
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 5 -> Cultist Troopers 1: Cultist Troopers 1 -4
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 1 -> Seraph of Evolution: Seraph of Evolution -1
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 7 -> Seraph of Evolution: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 6 -> Seraph of Evolution: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 2 -> Seraph of Evolution: no damage
+  [ACTION] ranged: B:Longwu Army War-Taoist -> The Dawn King: no damage
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 2 -> Ashen Chirurgeon 2: Ashen Chirurgeon 2 -2
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 2 -> Cultist Troopers 1: Cultist Troopers 1 -2 DESTROYED
+  [ACTION] effect (Burning): A:Lightbearers of Antioch The Dawn King -> Commandery Bannermen 6: Commandery Bannermen 6 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Goetic Ophanim (best: ability Ezekiel's Wheels, 0.3), B:HQ (no legal action), B:White Pole Guard (no legal action)
+Advanced, nothing else: A:Lucent Exemplars, A:Ashen Chirurgeon 1, A:Cultist Troopers 1, B:Commandery Bannermen 3, B:Commandery Bannermen
+Commands and abilities:
+  [COMMAND] B:Longwu Army Troop Requisition on (6,1): paid off - placed Commandery Bannermen; the unit it placed made 1 attack(s), 1 HP off; the unit it placed scored 1.27 VP; the unit it placed drew 3 enemy attack(s), 6 HP
+  [ACTION] B:Longwu Army SPARE ROCKET CRATES: paid off - gave Vermillion Rocket Battery 1: weapon FR +1; 1 attack(s) it touched: +0.39 expected HP for its side
+  [ACTION] A:Lightbearers of Antioch Go to Ground on Cultist Troopers 1: paid off - 1 attack(s) it touched: +4.28 expected HP for its side
+  [ACTION] A:Lightbearers of Antioch Desperate Worship on Terracotta Vanguard: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Longwu Army To Formation! on Azure Banner Braves: paid off - granted Azure Banner Braves (4 MP, TO FORMATION) a move; moved Azure Banner Braves to (4,6); 1 move(s) with it, 1 out of reach without it
+Passive rules:
+  Nest Reload Drill (Vermillion Rocket Battery 1): 2 attacks, 1.46 expected HP for its side
+  Array Lynchpin (Five-Banner Marshal): 3 attacks, 2.51 expected HP for its side
+  Sacred Marble Form (Seraph of Evolution): 4 attacks, 1.45 expected HP for its side
+  Pinnacle of Sacred Evolution (The Dawn King): 1 attack, 0.67 expected HP for its side
+  Tithe of Torment (Cultist Troopers 1): fired 19 times (add_resource)
+  Flowing File (Azure Banner Braves): fired 1 time (grant_move)
+  Tithe of Torment (Ashen Chirurgeon 2): fired 2 times (add_resource)
+Scored by:
+  B:Longwu Army objectives (7,7) 3 VP: Commandery Bannermen 4 1.5, Terracotta Vanguard 1.5
+  B:Longwu Army objectives (1,7) 2 VP: Azure Banner Braves 2.0; hinged on Azure Banner Braves
+  A:Lightbearers of Antioch primary BREAK THEIR HOLD 2 VP: The Dawn King 1.0, Ashen Chirurgeon 2 1.0
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A BREAK THEIR HOLD, Player B IMPENETRABLE FORTRESS
+  [COMMAND] Player A picks mission: INTO THE FRAY
+  [COMMAND] Player B picks mission: PUSH FORWARD
+  [COMMAND] HQ Command: Troop Requisition -> jade_mandate:commandery_bannermen (cost 3 CP) by Player B
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION] Vermillion Rocket Battery 1 uses SPARE ROCKET CRATES!
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Cultist Troopers 1
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] Five-Banner Marshal uses To Formation!!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION] [Cultist Troopers 1] DESTROYED by BURNED
+  [ACTION]   Bannerman destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 2 VP (2/10)
+
+=== BATTLE ROUND 2 ===
+A:Lightbearers of Antioch: VP +4 (obj 0, primary 2, missions 2) = 6; CP +2 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+  mana: +8 -5 holds 13 [5 Cast Fractured Horizon]
+B:Longwu Army: VP +10 (obj 7, primary 3, missions 0) = 15; CP +3 -2 holds 1 [2 Double Time → Commandery Bannermen 7]
+  mana: +6 -0 holds 6
+A:Lightbearers of Antioch keeps mission DEEP REACH (offered DEEP REACH / TAKE UP THE GAUNTLET)
+B:Longwu Army keeps mission OBJECTIVE RELAY (offered PROBING STRIKE / OBJECTIVE RELAY)
+A:Lightbearers of Antioch mission INTO THE FRAY: completed
+Moves:
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 2 8,12 -> 7,11
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 7 2,1 -> 4,5
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 6,12 -> 4,10
+  [MOVEMENT] B:Longwu Army White Pole Guard + Five-Banner Marshal 8,5 -> 11,5
+  [MOVEMENT] A:Lightbearers of Antioch Lucent Exemplars + Ashen Chirurgeon 1 6,10 -> 8,8
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 1 + War-Taoist 4,3 -> 5,3
+  [MOVEMENT] A:Lightbearers of Antioch Goetic Ophanim 5,10 -> 2,8
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 6,4 -> 7,6
+  [MOVEMENT] A:Lightbearers of Antioch Ashen Chirurgeon 2 6,8 -> 7,8
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 5 7,5 -> 7,4
+  [MOVEMENT] A:Lightbearers of Antioch The Dawn King 2,7 -> 6,8
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 3 9,4 -> 11,6
+  [MOVEMENT] A:Lightbearers of Antioch Seraph of Evolution 7,9 -> 8,7 (charge)
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 6 2,4 -> 3,5
+  [MOVEMENT] B:Longwu Army Terracotta Vanguard 6,6 -> 6,7 (charge)
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 2 6,5 -> 9,5
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 4 8,6 -> 6,6
+  [ACTION] B:Longwu Army White Pole Guard + Five-Banner Marshal 11,5 -> 12,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Longwu Army Commandery Bannermen 4 -> Lucent Exemplars: no damage
+  [MOVEMENT] ranged (Overwatch): A:Lightbearers of Antioch Lucent Exemplars -> Commandery Bannermen: Commandery Bannermen -2
+  [MOVEMENT] ranged (Overwatch): B:Longwu Army Commandery Bannermen 3 -> The Dawn King: no damage
+  [MOVEMENT] ranged (Overwatch): A:Lightbearers of Antioch Goetic Ophanim -> Commandery Bannermen 6: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Commandery Bannermen 4: Commandery Bannermen 4 -1
+  [ACTION] ranged: B:Longwu Army Azure Banner Braves -> The Dawn King: The Dawn King -1
+  [ACTION] magic (Fractured Horizon): A:Lightbearers of Antioch Goetic Ophanim: Commandery Bannermen 6 -4 DESTROYED, Azure Banner Braves -2, Commandery Bannermen 7 -3
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 1 -> Lucent Exemplars: Lucent Exemplars -2, Ashen Chirurgeon 2 -2
+  [ACTION] melee: A:Lightbearers of Antioch Seraph of Evolution -> Commandery Bannermen: Seraph of Evolution -1, Commandery Bannermen -2
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 2 -> Lucent Exemplars: no damage
+  [ACTION] melee: B:Longwu Army Terracotta Vanguard -> Ashen Chirurgeon 2: Ashen Chirurgeon 2 -1
+  [ACTION] ranged: A:Lightbearers of Antioch Lucent Exemplars -> Commandery Bannermen 4: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 3 -> The Dawn King: The Dawn King -2
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 2 -> The Dawn King: The Dawn King -2
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 7 -> The Dawn King: The Dawn King -1
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 5 -> The Dawn King: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 1 -> The Dawn King: The Dawn King -1
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Lucent Exemplars: Lucent Exemplars -1
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Ashen Chirurgeon 1: Ashen Chirurgeon 1 -1
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Ashen Chirurgeon 2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Cultist Troopers 2 (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  A:Lightbearers of Antioch The Dawn King: R1 MOVEMENT 4,12 -> 2,7, R2 MOVEMENT -> 6,8 (toward the objective at 1,7, then away, 4 squares lost)
+  B:Longwu Army White Pole Guard: R1 MOVEMENT 9,2 -> 8,5, R2 MOVEMENT -> 11,5 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Lightbearers of Antioch Troop Requisition on (6,12): paid off - placed Cultist Troopers; the unit it placed made 1 attack(s), 1 HP off; the unit it placed drew 2 enemy attack(s), 7 HP
+  [COMMAND] B:Longwu Army Double Time on Commandery Bannermen 7: paid off - gave Commandery Bannermen 7: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [ACTION] A:Lightbearers of Antioch Demonic Essence Injection on Seraph of Evolution: paid off - gave Seraph of Evolution: MS +1, BS +1; 2 attack(s) it touched: +1 expected HP for its side
+  [ACTION] A:Lightbearers of Antioch Fractured Horizon on (3,5): paid off - put LEADERLESS on Commandery Bannermen 6; its effect took 9 HP off enemies
+  [ACTION] B:Longwu Army To Formation! on White Pole Guard: paid off - granted White Pole Guard (3 MP, TO FORMATION) a move; moved White Pole Guard to (12,7); 1 move(s) with it, 1 out of reach without it
+  [ACTION] A:Lightbearers of Antioch Insidious Acheiropoieton on Commandery Bannermen 5: nothing - no change
+  [ACTION] A:Lightbearers of Antioch Profane Surgery on Seraph of Evolution: paid off - healed 2 HP
+Passive rules:
+  Profane Zeal (Lucent Exemplars): 2 attacks, 0.58 expected HP for its side
+  Array Lynchpin (Five-Banner Marshal): 2 attacks, 0.28 expected HP for its side
+  Lunar Shield (Lucent Exemplars): 2 attacks, 1.56 expected HP for its side
+  Sacred Marble Form (Seraph of Evolution): 1 attack, 0.11 expected HP for its side
+  Pinnacle of Sacred Evolution (The Dawn King): 2 attacks, 0.52 expected HP for its side
+  Resplendent Countenance (Seraph of Evolution): fired 1 time (force_test)
+  Tithe of Torment (Lucent Exemplars): fired 2 times (add_resource)
+  Tithe of Torment (Ashen Chirurgeon 2): fired 2 times (add_resource)
+  Flowing File (Azure Banner Braves): fired 1 time (grant_move)
+  Tithe of Torment (Ashen Chirurgeon 1): fired 1 time (add_resource)
+Scored by:
+  A:Lightbearers of Antioch missions INTO THE FRAY 2 VP: Seraph of Evolution 2.0 (event)
+  B:Longwu Army objectives (7,7) 3 VP: Commandery Bannermen 4 1.0, Terracotta Vanguard 1.0, Commandery Bannermen 1.0; hinged on Commandery Bannermen 4, Terracotta Vanguard, Commandery Bannermen
+  B:Longwu Army objectives (1,7) 2 VP: Azure Banner Braves 2.0; hinged on Azure Banner Braves
+  B:Longwu Army objectives (13,7) 2 VP: Five-Banner Marshal 1.0, White Pole Guard 1.0
+  A:Lightbearers of Antioch primary BREAK THEIR HOLD 2 VP: Goetic Ophanim 1.0, The Dawn King 0.2, Seraph of Evolution 0.2, Lucent Exemplars 0.2, Ashen Chirurgeon 1 0.2, Ashen Chirurgeon 2 0.2
+  B:Longwu Army primary IMPENETRABLE FORTRESS 3 VP: Commandery Bannermen 2 0.3, Commandery Bannermen 7 0.3, Commandery Bannermen 5 0.3, Terracotta Vanguard 0.3, Azure Banner Braves 0.3, Commandery Bannermen 0.3, Commandery Bannermen 4 0.3, Commandery Bannermen 3 0.2, Five-Banner Marshal 0.2, White Pole Guard 0.2, War-Taoist 0.2, Commandery Bannermen 1 0.2
+Key log lines:
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: OBJECTIVE RELAY
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Commandery Bannermen 7 (cost 2 CP) by Player B
+  [MOVEMENT] [Commandery Bannermen 4] Overwatch Reaction vs Lucent Exemplars: no damage
+  [MOVEMENT]   Bannerman destroyed
+  [MOVEMENT] [Lucent Exemplars] Overwatch Reaction vs Commandery Bannermen: 2 damage
+  [MOVEMENT] [Commandery Bannermen 3] Overwatch Reaction vs The Dawn King: no damage
+  [MOVEMENT] MISSION COMPLETE: "INTO THE FRAY" -> Player A +2 VP!
+  [MOVEMENT] [Goetic Ophanim] Overwatch Reaction vs Commandery Bannermen 6: no damage
+  [MOVEMENT] [Commandery Bannermen 4] Fall Back to (6,6)
+  [ACTION] Ashen Chirurgeon 1 uses Demonic Essence Injection!
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Sergeant destroyed
+  [ACTION]   Brave destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION] Goetic Ophanim casts Fractured Horizon on (3,5)
+  [ACTION] Five-Banner Marshal uses To Formation!!
+  [ACTION] The Dawn King uses Insidious Acheiropoieton!
+  [ACTION]   Lucent Exemplar destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION] Ashen Chirurgeon 2 uses Profane Surgery!
+  [ACTION]   Ashen Chirurgeon destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 2 VP (4/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (3/10)
+
+=== BATTLE ROUND 3 ===
+A:Lightbearers of Antioch: VP +10 (obj 3, primary 3, missions 4) = 16; CP +3 -1 holds 2 [1 Go to ground (reaction) for Lucent Exemplars]
+  mana: +9 -5 holds 17 [5 Cast Fractured Horizon]
+B:Longwu Army: VP +10 (obj 4, primary 3, missions 3) = 25; CP +3 -2 holds 2 [2 Rally cry (reaction) for Commandery Bannermen]
+  mana: +0 -4 holds 2 [4 Cast Shattered Sword Talisman]
+A:Lightbearers of Antioch keeps mission STRONGPOINT (offered VIGILANT WATCH / STRONGPOINT)
+B:Longwu Army keeps mission DEEP REACH (offered DEEP REACH / FORWARD PRESENCE)
+A:Lightbearers of Antioch mission DEEP REACH: completed
+A:Lightbearers of Antioch mission STRONGPOINT: completed
+B:Longwu Army mission PUSH FORWARD: expired
+B:Longwu Army mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 2 7,11 -> 9,11
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 1 + War-Taoist 5,3 -> 5,4
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 4,10 -> 5,9
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 5 7,4 -> 6,5
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 2 9,5 -> 10,6
+  [ACTION] B:Longwu Army Commandery Bannermen 3 11,6 -> 8,5
+Combat:
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 4 -> Lucent Exemplars: Lucent Exemplars -1
+  [ACTION] magic (Fractured Horizon): A:Lightbearers of Antioch Goetic Ophanim: Seraph of Evolution -5, Commandery Bannermen 4 -4, Commandery Bannermen 5 -6, Terracotta Vanguard -4, Commandery Bannermen -4
+  [ACTION] ranged: B:Longwu Army Azure Banner Braves -> The Dawn King: The Dawn King -2
+  [ACTION] magic (Shattered Sword Talisman): B:Longwu Army War-Taoist -> Vermillion Rocket Battery 1: no damage
+  [ACTION] melee: A:Lightbearers of Antioch Seraph of Evolution -> Commandery Bannermen: Commandery Bannermen -2 DESTROYED
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 1 -> Lucent Exemplars: Seraph of Evolution -3, Lucent Exemplars -2 DESTROYED, Ashen Chirurgeon 1 -4
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 2 -> Seraph of Evolution: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 3 -> Seraph of Evolution: Seraph of Evolution -3
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 2 -> Ashen Chirurgeon 1: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 5 -> Seraph of Evolution: Seraph of Evolution -1
+  [ACTION] melee: B:Longwu Army Terracotta Vanguard -> Ashen Chirurgeon 2: no damage
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Seraph of Evolution: Seraph of Evolution -1
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Ashen Chirurgeon 1: no damage
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 2 -> Ashen Chirurgeon 2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Cultist Troopers 2 (no legal action), B:HQ (no legal action), B:Commandery Bannermen 1 (no legal action), B:Commandery Bannermen 7 (no legal action), A:Cultist Troopers (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  A:Lightbearers of Antioch Cultist Troopers 2: R2 MOVEMENT 8,12 -> 7,11, R3 MOVEMENT -> 9,11 (toward the objective at 1,7, then away, 1 square lost)
+  B:Longwu Army Commandery Bannermen 3: R2 MOVEMENT 9,4 -> 11,6, R3 ACTION -> 8,5 (back beside its start; toward the objective at 13,7, then away, 2 squares lost)
+Commands and abilities:
+  [ACTION] B:Longwu Army Rally Cry on Commandery Bannermen: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Lightbearers of Antioch Demonic Essence Injection on Seraph of Evolution: paid off - gave Seraph of Evolution: MS +1, BS +1; 4 attack(s) it touched: +0.17 expected HP for its side
+  [ACTION] A:Lightbearers of Antioch Go to Ground on Lucent Exemplars: paid off - 1 attack(s) it touched: +0.83 expected HP for its side
+  [ACTION] A:Lightbearers of Antioch Fractured Horizon on (7,6): paid off - its effect took 18 HP off enemies; cost its own unit 5 HP
+  [ACTION] B:Longwu Army Shattered Sword Talisman on Vermillion Rocket Battery 1: paid off - gave Vermillion Rocket Battery 1: weapon DMG +1; 1 attack(s) it touched: +0.11 expected HP for its side
+  [ACTION] A:Lightbearers of Antioch Profane Surgery on Seraph of Evolution: paid off - healed 5 HP
+  [ACTION] B:Longwu Army To Formation! on Commandery Bannermen 3: paid off - granted Commandery Bannermen 3 (3 MP, TO FORMATION) a move; moved Commandery Bannermen 3 to (8,5); 1 move(s) with it, 1 out of reach without it
+Passive rules:
+  Lunar Shield (Lucent Exemplars): 1 attack, 0.9 expected HP for its side
+  Sacred Marble Form (Seraph of Evolution): 3 attacks, 1.63 expected HP for its side
+  Array Lynchpin (Five-Banner Marshal): 1 attack, 0.02 expected HP for its side
+  Resplendent Countenance (Seraph of Evolution): fired 1 time (force_test)
+  Tithe of Torment (Lucent Exemplars): fired 2 times (add_resource)
+  Vainglorious Manifestation (The Dawn King): fired 1 time (heal)
+  Tithe of Torment (Ashen Chirurgeon 1): fired 2 times (add_resource)
+  Tithe of Torment (Ashen Chirurgeon 2): fired 1 time (add_resource)
+  Flowing File (Azure Banner Braves): fired 1 time (grant_move)
+Scored by:
+  A:Lightbearers of Antioch objectives (7,7) 3 VP: Seraph of Evolution 1.5, The Dawn King 0.5, Ashen Chirurgeon 1 0.5, Ashen Chirurgeon 2 0.5
+  B:Longwu Army objectives (1,7) 2 VP: Azure Banner Braves 2.0; hinged on Azure Banner Braves
+  B:Longwu Army objectives (13,7) 2 VP: Five-Banner Marshal 1.0, White Pole Guard 1.0
+  A:Lightbearers of Antioch primary BREAK THEIR HOLD 3 VP: The Dawn King 0.8, Seraph of Evolution 0.8, Ashen Chirurgeon 1 0.5, Ashen Chirurgeon 2 0.5, Goetic Ophanim 0.4
+  B:Longwu Army primary IMPENETRABLE FORTRESS 3 VP: Commandery Bannermen 7 0.4, Terracotta Vanguard 0.4, Commandery Bannermen 4 0.4, Commandery Bannermen 3 0.4, Commandery Bannermen 2 0.3, Azure Banner Braves 0.3, Five-Banner Marshal 0.2, Commandery Bannermen 1 0.2, White Pole Guard 0.2, War-Taoist 0.2
+  A:Lightbearers of Antioch missions STRONGPOINT 1 VP: The Dawn King 0.3, Seraph of Evolution 0.3, Ashen Chirurgeon 1 0.3, Ashen Chirurgeon 2 0.3
+  A:Lightbearers of Antioch missions DEEP REACH 3 VP: HQ 1.5, Seraph of Evolution 0.8, The Dawn King 0.3, Ashen Chirurgeon 1 0.3, Ashen Chirurgeon 2 0.3
+  B:Longwu Army missions DEEP REACH 3 VP: HQ 2.1, Azure Banner Braves 0.3, Five-Banner Marshal 0.3, White Pole Guard 0.3
+Key log lines:
+  [COMMAND] Player A picks mission: STRONGPOINT
+  [COMMAND] Player B picks mission: DEEP REACH
+  [ACTION] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Commandery Bannermen
+  [ACTION] Ashen Chirurgeon 1 uses Demonic Essence Injection!
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Lucent Exemplars
+  [ACTION]   Lucent Exemplar destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Terracotta Vanguard destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION] Goetic Ophanim casts Fractured Horizon on (7,6)
+  [ACTION]   The Dawn King destroyed
+  [ACTION] [The Dawn King] Change Altitude: The Dawn King descends - PRIMARY stats
+  [ACTION] War-Taoist casts Shattered Sword Talisman on Vermillion Rocket Battery 1
+  [ACTION]   Sergeant destroyed
+  [ACTION]   Commandery Bannermen DESTROYED in melee!
+  [ACTION]   Commandery Bannermen was destroyed - no counterattack
+  [ACTION]   Exemplar-Prime destroyed
+  [ACTION]   Ashen Chirurgeon destroyed
+  [ACTION]   Lucent Exemplars DESTROYED
+  [ACTION] Ashen Chirurgeon 2 uses Profane Surgery!
+  [ACTION]   Ashen Chirurgeon destroyed
+  [ACTION] Five-Banner Marshal uses To Formation!!
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (7/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (6/10)
+  [CLEANUP] MISSION COMPLETE: "STRONGPOINT" -> Player A +1 VP +1 CP!
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+  [CLEANUP] Mission "PUSH FORWARD" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Lightbearers of Antioch: VP +4 (obj 3, primary 1, missions 0) = 20; CP +2 -3 holds 1 [3 Troop Requisition → Cultist Troopers]
+  mana: +10 -5 holds 22 [5 Cast Fractured Horizon]
+B:Longwu Army: VP +7 (obj 4, primary 3, missions 0) = 32; CP +3 -5 holds 0 [2 Double Time → Commandery Bannermen 1; 3 Secure Objective → Commandery Bannermen 4]
+  mana: +0 -2 holds 0 [2 Cast Shattered Sword Talisman]
+A:Lightbearers of Antioch keeps mission FOCUSED FIRE (offered FOCUSED FIRE / OBJECTIVE RELAY)
+B:Longwu Army keeps mission BAR THE GATES (offered VIGILANT WATCH / BAR THE GATES)
+Moves:
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 2 9,11 -> 9,8
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 1 + War-Taoist 5,4 -> 3,6
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers #2 7,12 -> 6,9
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 7 4,5 -> 1,6
+  [MOVEMENT] A:Lightbearers of Antioch Cultist Troopers 5,9 -> 4,8
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 3 8,5 -> 5,7 (charge)
+  [MOVEMENT] A:Lightbearers of Antioch Ashen Chirurgeon 1 8,8 -> 7,6 (charge)
+  [MOVEMENT] B:Longwu Army Commandery Bannermen 2 10,6 -> 10,8 (charge)
+  [MOVEMENT] A:Lightbearers of Antioch Seraph of Evolution 8,7 -> 7,7 (charge)
+  [MOVEMENT] B:Longwu Army White Pole Guard + Five-Banner Marshal 12,7 -> 12,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Longwu Army Commandery Bannermen 1 -> Cultist Troopers: no damage
+  [ACTION] melee: A:Lightbearers of Antioch Seraph of Evolution -> Terracotta Vanguard: Terracotta Vanguard -2
+  [ACTION] magic (Shattered Sword Talisman): B:Longwu Army War-Taoist -> Azure Banner Braves: no damage
+  [ACTION] magic (Fractured Horizon): A:Lightbearers of Antioch Goetic Ophanim: Commandery Bannermen 1 -3, Azure Banner Braves -3, Commandery Bannermen 7 -6
+  [ACTION] melee: B:Longwu Army Commandery Bannermen 3 -> Cultist Troopers: Commandery Bannermen 3 -1, Cultist Troopers -7
+  [ACTION] ranged: B:Longwu Army Azure Banner Braves -> Goetic Ophanim: Goetic Ophanim -4
+  [ACTION] melee: B:Longwu Army Commandery Bannermen 2 -> Cultist Troopers 2: Cultist Troopers 2 -4, Commandery Bannermen 2 -1
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 1 -> Cultist Troopers #2: Ashen Chirurgeon 2 -1 DESTROYED, Cultist Troopers #2 -6
+  [ACTION] melee: B:Longwu Army Commandery Bannermen 4 -> Ashen Chirurgeon 1: no damage
+  [ACTION] melee: B:Longwu Army Commandery Bannermen 5 -> Ashen Chirurgeon 1: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 1 -> Goetic Ophanim: Goetic Ophanim -2
+  [ACTION] ranged: B:Longwu Army Vermillion Rocket Battery 2 -> Cultist Troopers #2: no damage
+  [ACTION] ranged: B:Longwu Army Commandery Bannermen 7 -> Goetic Ophanim: no damage
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Seraph of Evolution: Seraph of Evolution -1
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Ashen Chirurgeon 1: no damage
+  [ACTION] effect (Burning): B:Longwu Army Vermillion Rocket Battery 1 -> Cultist Troopers #2: Cultist Troopers #2 -3
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  B:Longwu Army Commandery Bannermen 7: R2 MOVEMENT 2,1 -> 4,5, R4 MOVEMENT -> 1,6 (toward the objective at 7,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Lightbearers of Antioch Troop Requisition on (7,12): paid off - placed Cultist Troopers #2; the unit it placed drew 3 enemy attack(s), 9 HP
+  [COMMAND] B:Longwu Army Double Time on Commandery Bannermen 1: paid off - gave War-Taoist: MOVE +2; Commandery Bannermen 1: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Longwu Army Secure Objective on Commandery Bannermen 4: nothing - gave Commandery Bannermen 4: OC +1; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] B:Longwu Army Shattered Sword Talisman on Azure Banner Braves: paid off - gave Azure Banner Braves: weapon DMG +1; 1 attack(s) it touched: +2.04 expected HP for its side
+  [ACTION] A:Lightbearers of Antioch Fractured Horizon on (2,5): paid off - its effect took 12 HP off enemies
+  [ACTION] A:Lightbearers of Antioch Insidious Acheiropoieton on Commandery Bannermen 3: nothing - no change
+  [ACTION] A:Lightbearers of Antioch Profane Surgery on Seraph of Evolution: paid off - healed 3 HP
+  [ACTION] A:Lightbearers of Antioch Profane Surgery on Seraph of Evolution: paid off - healed 2 HP
+Passive rules:
+  Sacred Marble Form (Seraph of Evolution): 1 attack, 0.35 expected HP for its side
+  Profane Zeal (Cultist Troopers): 2 attacks, 0.56 expected HP for its side
+  Blasphemous Constitution (Goetic Ophanim): 3 attacks, 2.46 expected HP for its side
+  Resplendent Countenance (Seraph of Evolution): fired 1 time (force_test)
+  Tithe of Torment (Cultist Troopers): fired 7 times (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 4 times (add_resource)
+  Tithe of Torment (Cultist Troopers #2): fired 6 times (add_resource)
+  Tithe of Torment (Ashen Chirurgeon 2): fired 1 time (add_resource)
+  Vainglorious Manifestation (The Dawn King): fired 1 time (heal)
+  Tithe of Torment (Ashen Chirurgeon 1): fired 1 time (add_resource)
+  Flowing File (Azure Banner Braves): fired 1 time (grant_move)
+  EVASION (Goetic Ophanim, 5+): 2 of 8 hits turned away
+Scored by:
+  A:Lightbearers of Antioch objectives (7,7) 3 VP: The Dawn King 1.5, Seraph of Evolution 1.5; hinged on The Dawn King, Seraph of Evolution
+  B:Longwu Army objectives (1,7) 2 VP: Azure Banner Braves 2.0; hinged on Azure Banner Braves
+  B:Longwu Army objectives (13,7) 2 VP: Five-Banner Marshal 1.0, White Pole Guard 1.0
+  A:Lightbearers of Antioch primary BREAK THEIR HOLD 1 VP: Goetic Ophanim 1.0, Ashen Chirurgeon 1 0.3, The Dawn King -0.2, Seraph of Evolution -0.2
+  B:Longwu Army primary IMPENETRABLE FORTRESS 3 VP: Commandery Bannermen 4 0.5, Azure Banner Braves 0.5, Commandery Bannermen 3 0.5, Commandery Bannermen 2 0.5, Five-Banner Marshal 0.3, White Pole Guard 0.2, War-Taoist 0.2, Commandery Bannermen 1 0.2
+Key log lines:
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: BAR THE GATES
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Commandery Bannermen 1 (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Secure Objective -> Commandery Bannermen 4 (cost 3 CP) by Player B
+  [MOVEMENT] [Commandery Bannermen 1] Overwatch Reaction vs Cultist Troopers: no damage
+  [ACTION]   Terracotta Vanguard destroyed
+  [ACTION] War-Taoist casts Shattered Sword Talisman on Azure Banner Braves
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Brave destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION]   Bannerman destroyed
+  [ACTION] Goetic Ophanim casts Fractured Horizon on (2,5)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] The Dawn King uses Insidious Acheiropoieton!
+  [ACTION] Ashen Chirurgeon 1 uses Profane Surgery!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] Ashen Chirurgeon 2 uses Profane Surgery!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Ashen Chirurgeon destroyed
+  [ACTION]   Ashen Chirurgeon 2 DESTROYED
+  [ACTION]   Ashen Chirurgeon destroyed
+  [ACTION]   Cultist destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (8/10)
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (9/10)
+
+Damage leaders:
+  A:Lightbearers of Antioch Goetic Ophanim: 39 damage, 1 kills, 45 RP, 0.87/RP
+  B:Longwu Army Vermillion Rocket Battery 1: 29 damage, 2 kills, 28 RP, 1.04/RP
+  B:Longwu Army Azure Banner Braves: 18 damage, 0 kills, 30 RP, 0.60/RP
+  B:Longwu Army Commandery Bannermen 3: 12 damage, 0 kills, 10 RP, 1.20/RP
+  A:Lightbearers of Antioch Seraph of Evolution: 6 damage, 1 kills, 70 RP, 0.09/RP
+  B:Longwu Army Commandery Bannermen 2: 6 damage, 0 kills, 10 RP, 0.60/RP
+  A:Lightbearers of Antioch The Dawn King: 6 damage, 0 kills, 60 RP, 0.10/RP
+  B:Longwu Army Vermillion Rocket Battery 2: 5 damage, 1 kills, 22 RP, 0.23/RP
+  B:Longwu Army Commandery Bannermen 5: 5 damage, 0 kills, 10 RP, 0.50/RP
+  B:Longwu Army Commandery Bannermen 1: 4 damage, 0 kills, 10 RP, 0.40/RP
+  A:Lightbearers of Antioch Lucent Exemplars: 2 damage, 0 kills, 30 RP, 0.07/RP (destroyed)
+  B:Longwu Army Commandery Bannermen: 1 damage, 0 kills, 10 RP, 0.10/RP (destroyed)
+  B:Longwu Army Commandery Bannermen 4: 1 damage, 0 kills, 10 RP, 0.10/RP
+  B:Longwu Army Commandery Bannermen 7: 1 damage, 0 kills, 10 RP, 0.10/RP
+  A:Lightbearers of Antioch Cultist Troopers: 1 damage, 0 kills, 10 RP, 0.10/RP
+  A:Lightbearers of Antioch Cultist Troopers 2: 1 damage, 0 kills, 10 RP, 0.10/RP
+  B:Longwu Army Terracotta Vanguard: 1 damage, 0 kills, 15 RP, 0.07/RP
+Friendly fire (HP and units a unit took off its own side):
+  A:Lightbearers of Antioch Goetic Ophanim: 5 HP
+VP contributed (fair share; objective VP that hinged on it):
+  B:Longwu Army Azure Banner Braves: 9.5 VP (obj 8.0, primary 1.1, missions 0.3), hinged 8, 31.6/100 RP
+  A:Lightbearers of Antioch Seraph of Evolution: 6.8 VP (obj 3.0, primary 0.8, missions 3.0), hinged 3, 9.7/100 RP
+  A:Lightbearers of Antioch The Dawn King: 4.3 VP (obj 2.0, primary 1.8, missions 0.5), hinged 3, 7.2/100 RP
+  B:Longwu Army Five-Banner Marshal: 3.9 VP (obj 3.0, primary 0.7, missions 0.3), hinged 0, 16.4/100 RP
+  B:Longwu Army White Pole Guard: 3.9 VP (obj 3.0, primary 0.6, missions 0.3), hinged 0, 9.5/100 RP
+  B:Longwu Army Commandery Bannermen 4: 3.7 VP (obj 2.5, primary 1.2, missions 0.0), hinged 3, 36.7/100 RP
+  B:Longwu Army Terracotta Vanguard: 3.2 VP (obj 2.5, primary 0.7, missions 0.0), hinged 3, 21.0/100 RP
+  A:Lightbearers of Antioch Ashen Chirurgeon 2: 2.7 VP (obj 0.5, primary 1.7, missions 0.5), hinged 0, 22.6/100 RP
+  A:Lightbearers of Antioch Goetic Ophanim: 2.4 VP (obj 0.0, primary 2.4, missions 0.0), hinged 0, 5.4/100 RP
+  B:Longwu Army HQ: 2.1 VP (obj 0.0, primary 0.0, missions 2.1), hinged 0, -/100 RP
+  A:Lightbearers of Antioch Ashen Chirurgeon 1: 2.0 VP (obj 0.5, primary 1.1, missions 0.5), hinged 0, 17.1/100 RP
+  A:Lightbearers of Antioch HQ: 1.5 VP (obj 0.0, primary 0.0, missions 1.5), hinged 0, -/100 RP
+  B:Longwu Army Commandery Bannermen: 1.3 VP (obj 1.0, primary 0.3, missions 0.0), hinged 3, 12.7/100 RP
+  B:Longwu Army Commandery Bannermen 2: 1.2 VP (obj 0.0, primary 1.2, missions 0.0), hinged 0, 11.6/100 RP
+  B:Longwu Army Commandery Bannermen 3: 1.1 VP (obj 0.0, primary 1.1, missions 0.0), hinged 0, 11.3/100 RP
+  B:Longwu Army Commandery Bannermen 7: 0.7 VP (obj 0.0, primary 0.7, missions 0.0), hinged 0, 7.1/100 RP
+  B:Longwu Army Commandery Bannermen 1: 0.6 VP (obj 0.0, primary 0.6, missions 0.0), hinged 0, 6.0/100 RP
+  B:Longwu Army War-Taoist: 0.6 VP (obj 0.0, primary 0.6, missions 0.0), hinged 0, 3.0/100 RP
+  B:Longwu Army Commandery Bannermen 5: 0.3 VP (obj 0.0, primary 0.3, missions 0.0), hinged 0, 2.8/100 RP
+  A:Lightbearers of Antioch Lucent Exemplars: 0.2 VP (obj 0.0, primary 0.2, missions 0.0), hinged 0, 0.7/100 RP
+Activity (inaction score; advanced, nothing else; actions: movement/advance/ranged/melee/ability/magic/objective held):
+  A:Lightbearers of Antioch Cultist Troopers 2: inaction 2 (2 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/1/0/0/0
+  A:Lightbearers of Antioch Cultist Troopers: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/1/0/0/0
+  B:Longwu Army White Pole Guard: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/3
+  B:Longwu Army Commandery Bannermen 7: inaction 1 (1 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/3/0/0/0/1
+  B:Longwu Army Commandery Bannermen 1: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 0; actions 0/0/3/0/0/0/0
+  A:Lightbearers of Antioch Goetic Ophanim: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 0; actions 0/0/0/0/0/3/3
+  B:Longwu Army Commandery Bannermen 6: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/0/0/0/0
+  A:Lightbearers of Antioch Cultist Troopers 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 1 (R1); actions 0/1/0/0/0/0/0
+  B:Longwu Army Commandery Bannermen: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 1 (R1); actions 0/1/0/1/0/0/1
+  B:Longwu Army Commandery Bannermen 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/3/1/0/0/0
+  B:Longwu Army Commandery Bannermen 5: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/3/1/0/0/0
+  B:Longwu Army Vermillion Rocket Battery 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/4/0/0/0/0
+  B:Longwu Army War-Taoist: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/0/0/3/0
+  B:Longwu Army Vermillion Rocket Battery 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/4/0/1/0/0
+  B:Longwu Army Five-Banner Marshal: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/3/0/3
+  A:Lightbearers of Antioch The Dawn King: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/1/0/2/0/2
+  A:Lightbearers of Antioch Ashen Chirurgeon 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 1 (R1); actions 0/1/0/0/3/0/3
+  A:Lightbearers of Antioch Ashen Chirurgeon 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/0/3/0/3
+  A:Lightbearers of Antioch Seraph of Evolution: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/1/3/0/0/3
+  B:Longwu Army Azure Banner Braves: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/4/0/0/0/4
+  B:Longwu Army Terracotta Vanguard: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/3/0/0/4
+  A:Lightbearers of Antioch Lucent Exemplars: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 1 (R1); actions 0/1/1/0/0/0/1
+  B:Longwu Army Commandery Bannermen 3: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 1 (R1); actions 0/1/2/1/0/0/0
+  B:Longwu Army Commandery Bannermen 4: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 0; actions 1/1/1/1/0/0/4
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 5
+  A:Lightbearers of Antioch The Dawn King: 1 of 2 moves (0 back, 1 away from an objective), 4 squares lost
+  B:Longwu Army Commandery Bannermen 7: 1 of 3 moves (0 back, 1 away from an objective), 3 squares lost
+  B:Longwu Army White Pole Guard: 1 of 4 moves (0 back, 1 away from an objective), 3 squares lost
+  B:Longwu Army Commandery Bannermen 3: 1 of 4 moves (1 back, 1 away from an objective), 2 squares lost
+  A:Lightbearers of Antioch Cultist Troopers 2: 1 of 4 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Lightbearers of Antioch INTO THE FRAY (+2 VP): kept R1, completed R2 - Make a successful CHARGE against an enemy unit.
+  A:Lightbearers of Antioch DEEP REACH (+3 VP): kept R2, completed R3 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  A:Lightbearers of Antioch STRONGPOINT (+1 VP): kept R3, completed R3 - Maintain at least 2 friendly units in an Objective Area at the end of a Battle Round.
+  A:Lightbearers of Antioch FOCUSED FIRE (+2 VP): kept R4, active - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Longwu Army PUSH FORWARD (+2 VP): kept R1, expired R3 - In a single Movement Phase, have at least 2 friendly units use the Advance action and end it in the enemy half of the battlefield.
+  B:Longwu Army OBJECTIVE RELAY (+2 VP): kept R2, active - Move a unit that was within an Objective Area at Mission entry to a different Objective Area.
+  B:Longwu Army DEEP REACH (+3 VP): kept R3, completed R3 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Longwu Army BAR THE GATES (+2 VP): kept R4, active - At the end of a Battle Round, have no enemy unit in your half of the battlefield.

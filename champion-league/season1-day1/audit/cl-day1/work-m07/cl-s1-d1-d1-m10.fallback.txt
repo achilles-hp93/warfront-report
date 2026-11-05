@@ -1,0 +1,19 @@
+cl-s1-d1-d1-m10: 18 decisions, 8 Fall Backs (6 sound, 0 costly, 0 left a winning fight, 2 doubtful), 10 stayed (7 held, 0 risky hold, 0 held to the end, 0 should have left, 1 could not escape, 2 caught by others)
+  report.json R2 Azat Lancers 1 [Vigil of Masis] stayed: held - danger 4.07 expected melee damage against 20 HP; its death would score the enemy 2 VP; the square it falls back to takes 3 objective VP; leaving opens 1 shot(s) at its enemies | after: lost 6 HP
+  report.json R2 Parsawor Grenadiers [Vigil of Masis] FELL BACK: sound - danger 6 expected melee damage against 6 HP; its death would score the enemy 2 VP | after: lost 0 HP
+  report.json R2 Azat Lancers 2 [Vigil of Masis] FELL BACK: sound - danger 12.5 expected melee damage against 20 HP; its death would score the enemy 2 VP | after: lost 0 HP
+  report.json R2 Sidhe Wardens 2 [Summer Rade] stayed: held - danger 1.85 expected melee damage against 5 HP | after: lost 0 HP; its enemies then struck Sidhe Wardens 1
+  report.json R2 Blackflint Archers [Summer Rade] stayed: held - danger 1.85 expected melee damage against 5 HP | after: lost 0 HP; its enemies then struck Sidhe Wardens 1
+  report.json R2 Sidhe Wardens 1 [Summer Rade] stayed: held - danger 2.22 expected melee damage against 13 HP | after: lost 2 HP
+  report.json R2 Sidhe Wardens 3 [Summer Rade] FELL BACK: doubtful - danger 2.22 expected melee damage against 8 HP | after: lost 0 HP; its enemies then struck Sidhe Wardens 1
+  report.json R3 Vishap Harpooners [Vigil of Masis] stayed: held - danger 4.58 expected melee damage against 15 HP; its death would score the enemy 3 VP | after: lost 0 HP
+  report.json R3 Parsawor Grenadiers [Vigil of Masis] FELL BACK: sound - danger 6 expected melee damage against 6 HP; its death would score the enemy 2 VP | after: lost 5 HP
+  report.json R3 Azat Lancers 1 [Vigil of Masis] FELL BACK: doubtful - danger 2.78 expected melee damage against 14 HP; its death would score the enemy 2 VP | after: lost 2 HP
+  report.json R4 Azat Lancers 2 [Vigil of Masis] stayed: could not escape - danger 8 expected melee damage against 8 HP; its death would score the enemy 2 VP | after: lost 8 HP, destroyed
+  report.json R5 Sidhe Wardens 2 [Summer Rade] stayed: caught by others - danger 0.97 expected melee damage against 1 HP; leaving opens 3 shot(s) at its enemies | after: lost 1 HP, destroyed
+  report.json R5 Moonless Veilblades [Summer Rade] stayed: held - danger 0.28 expected melee damage against 3 HP; it was winning the fight: 8 expected damage dealt; leaving opens 3 shot(s) at its enemies | after: lost 0 HP
+  report.json R5 Blackflint Archers [Summer Rade] FELL BACK: sound - danger 1.67 expected melee damage against 3 HP; leaving opens 2 shot(s) at its enemies; 2 taken | after: lost 1 HP
+  report.json R5 Pahak Riflemen 2 [Vigil of Masis] stayed: caught by others - danger 1 expected melee damage against 5 HP; its death would score the enemy 3 VP | after: lost 1 HP, destroyed
+  report.json R6 Pahak Riflemen [Vigil of Masis] FELL BACK: sound - danger 4 expected melee damage against 4 HP; its death would score the enemy 2 VP; leaving opens 1 shot(s) at its enemies; 0 taken | after: lost 0 HP
+  report.json R6 Redcap Reivers [Summer Rade] stayed: held - danger 0.33 expected melee damage against 10 HP; it was winning the fight: 4 expected damage dealt, enough to destroy an engager; the square it falls back to takes 2 objective VP; leaving opens 2 shot(s) at its enemies | after: lost 0 HP
+  report.json R6 Pahak Riflemen 3 [Vigil of Masis] FELL BACK: sound - danger 3.98 expected melee damage against 5 HP; its death would score the enemy 2 VP | after: lost 0 HP; its enemies then struck Azat Lancers 1

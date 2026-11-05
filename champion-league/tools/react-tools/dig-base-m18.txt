@@ -1,0 +1,500 @@
+Murderhost of Halfa (A, infernal_congregations) vs Kishomon Company (B, empire_of_nihon) on CROSSROADS, seed 460703118
+Result: A:Murderhost of Halfa wins (VP) in round 5, VP 32 / 11
+Initiative: B:Kishomon Company; formation order [0,1]
+Army A:Murderhost of Halfa (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Blooded Hegemon - 60 RP, 1 models, 8 HP, leads Furyforged Berserkers 1, Marshal
+  Furyforged Berserkers 1 - 25 RP, 5 models, 10 HP, led by The Blooded Hegemon
+  Furyforged Berserkers 2 - 25 RP, 5 models, 10 HP
+  Avatar of Wrath - 60 RP, 1 models, 12 HP
+  Hounds of Satan 1 - 20 RP, 5 models, 10 HP
+  Hounds of Satan 2 - 20 RP, 5 models, 10 HP
+  Cultist Zealots 1 - 10 RP, 10 models, 20 HP
+  Cultist Zealots 2 - 10 RP, 10 models, 20 HP
+  Cultist Zealots 3 - 10 RP, 10 models, 20 HP
+  Cultist Troopers - 10 RP, 10 models, 20 HP
+Army B:Kishomon Company (249 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Taichou - 32 RP, 1 models, 6 HP, leads Oni Samurai, Marshal
+  Ashigaru Riflemen 1 - 15 RP, 10 models, 20 HP, led by War Onmyoji
+  Ashigaru Riflemen 2 - 15 RP, 10 models, 20 HP
+  Oni Samurai - 44 RP, 3 models, 12 HP, led by Taichou
+  Armored Gashadokuro - 55 RP, 1 models, 16 HP
+  Kitsune Shinobi - 27 RP, 3 models, 6 HP
+  War Onmyoji - 20 RP, 1 models, 4 HP, leads Ashigaru Riflemen 1
+  Tsuchigumo Gun Battery - 26 RP, 1 models, 8 HP
+  Ashigaru Riflemen 3 - 15 RP, 10 models, 20 HP
+Primary A:Murderhost of Halfa: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: DEBT OF BLOOD, COORDINATED SUPPRESSION, BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 1 (count 1), R2 3 (count 3), R3 1 (count 3), R4 1 (count 1), R5 0 (count null); total 6
+Primary B:Kishomon Company: STRATEGICAL DISRUPTION - From the second Battle Round, at the end of each Battle Round, score 1 VP if an enemy unit in an Objective Area is SUPPRESSED or you destroyed an enemy unit in an Objective Area during that Battle Round, and 2 VP if your opponent's Primary Mission scored no VP during that Battle Round; a Primary Mission that earned VP its caps held back counts as scoring. If your opponent also holds STRATEGICAL DISRUPTION, their card counts as scoring only when its 1 VP condition is met.
+  hand: GARRISON DUTY, STRATEGICAL DISRUPTION, BLEED THEM WHITE; picked strategical_disruption
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 1 (count 1), R5 0 (count null); total 1
+
+=== BATTLE ROUND 1 ===
+A:Murderhost of Halfa: VP +4 (obj 3, primary 1, missions 0) = 4; CP +2 -1 holds 1 [1 Go to ground (reaction) for Hounds of Satan 2]
+  mana: +4 -0 holds 4
+B:Kishomon Company: VP +4 (obj 4, primary 0, missions 0) = 4; CP +3 -2 holds 1 [2 Double Time → Ashigaru Riflemen 1]
+  regalia: +1 -1 holds 3 [1 YATA NO KAGAMI]
+A:Murderhost of Halfa keeps mission ASSASSINATION (offered INTO THE FRAY / ASSASSINATION)
+B:Kishomon Company keeps mission VIGILANT WATCH (offered VIGILANT WATCH / OBJECTIVE RELAY)
+Moves:
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 1 + War Onmyoji 9,2 -> 8,6
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 1 4,13 -> 6,8 (advance)
+  [MOVEMENT] B:Kishomon Company Oni Samurai + Taichou 11,2 -> 14,6 (advance)
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 2 11,13 -> 8,8 (advance)
+  [MOVEMENT] B:Kishomon Company Kitsune Shinobi 1,3 -> 0,6
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers 5,12 -> 6,9
+  [MOVEMENT] B:Kishomon Company Armored Gashadokuro 5,1 -> 6,6 (advance)
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 1 7,12 -> 7,7 (charge)
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 2 3,2 -> 3,5
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 2 4,12 -> 7,8 (advance)
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 3 7,2 -> 7,5
+  [MOVEMENT] A:Murderhost of Halfa Furyforged Berserkers 2 10,12 -> 8,11
+  [MOVEMENT] A:Murderhost of Halfa Avatar of Wrath 9,12 -> 12,8
+  [ACTION] A:Murderhost of Halfa Hounds of Satan 2 8,8 -> 8,7 (charge) (advance)
+Combat:
+  [ACTION] melee: A:Murderhost of Halfa Cultist Zealots 1 -> Ashigaru Riflemen 1: Cultist Zealots 1 -2, Ashigaru Riflemen 1 -14
+  [ACTION] ranged: B:Kishomon Company Tsuchigumo Gun Battery -> Cultist Zealots 2: Cultist Zealots 2 -2
+  [ACTION] ranged: A:Murderhost of Halfa Avatar of Wrath -> Taichou: Oni Samurai -2
+  [ACTION] ranged: B:Kishomon Company Ashigaru Riflemen 3 -> Hounds of Satan 2: Hounds of Satan 2 -4
+  [ACTION] effect (Burning): A:Murderhost of Halfa Avatar of Wrath -> Taichou: Taichou -1
+  [ACTION] effect (Burning): A:Murderhost of Halfa Avatar of Wrath -> Oni Samurai: Oni Samurai -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:The Blooded Hegemon (best: ability Champion of The Pit, 0), A:Furyforged Berserkers 1 (no legal action), A:Furyforged Berserkers 2 (no legal action), A:Cultist Zealots 3 (no legal action), A:Cultist Troopers (best: compositionAttack on Armored Gashadokuro, -4.83), B:HQ (no legal action), B:Ashigaru Riflemen 2 (no legal action)
+Advanced, nothing else: A:Cultist Zealots 2
+Commands and abilities:
+  [COMMAND] B:Kishomon Company YATA NO KAGAMI on (5,12): paid off - marked The Blooded Hegemon (intel floor:1:1), The Blooded Hegemon (marked for ap bonus), Furyforged Berserkers 1 (intel floor:1:1), Furyforged Berserkers 1 (marked for ap bonus), Hounds of Satan 1 (intel floor:1:1), Hounds of Satan 1 (marked for ap bonus), Cultist Zealots 2 (intel floor:1:1), Cultist Zealots 2 (marked for ap bonus), Cultist Troopers (intel floor:1:1), Cultist Troopers (marked for ap bonus); 2 attack(s) it touched: +0.83 expected HP for its side
+  [COMMAND] B:Kishomon Company Double Time on Ashigaru Riflemen 1: paid off - gave Ashigaru Riflemen 1: MOVE +2; War Onmyoji: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [ACTION] B:Kishomon Company Spot & Mark on Hounds of Satan 2: paid off - raised the INTEL LEVEL of Hounds of Satan 2 UNSPOTTED to MARKED; 1 attack(s) it touched: +0.74 expected HP for its side
+  [ACTION] A:Murderhost of Halfa Go to Ground on Hounds of Satan 2: paid off - 1 attack(s) it touched: +0.74 expected HP for its side
+Passive rules:
+  Zealous Charge (Cultist Zealots 1): 1 attack, 7.66 expected HP for its side
+  Profane Zeal (Cultist Zealots 1): 1 attack, 2.11 expected HP for its side
+  Armor of Devotion (Cultist Zealots 1): 3 attacks, 1.26 expected HP for its side
+  Tithe of Torment (Cultist Zealots 1): fired 2 times (add_resource)
+  Tithe of Torment (Cultist Zealots 2): fired 1 time (add_resource)
+  Insatiable Rage (Hounds of Satan 2): fired 2 times (mod_weapon_stat, grant_move)
+Scored by:
+  A:Murderhost of Halfa objectives (7,7) 3 VP: Hounds of Satan 1 1.5, Hounds of Satan 2 1.5; hinged on Hounds of Satan 1, Hounds of Satan 2
+  B:Kishomon Company objectives (1,7) 2 VP: Kitsune Shinobi 2.0; hinged on Kitsune Shinobi
+  B:Kishomon Company objectives (13,7) 2 VP: Oni Samurai 2.0; hinged on Oni Samurai
+  A:Murderhost of Halfa primary BREAK THEIR HOLD 1 VP: Avatar of Wrath 1.0, Cultist Zealots 1 0.3, Cultist Zealots 2 0.3, Hounds of Satan 1 -0.3, Hounds of Satan 2 -0.3
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A BREAK THEIR HOLD, Player B STRATEGICAL DISRUPTION
+  [COMMAND] Player A picks mission: ASSASSINATION
+  [COMMAND] Player B picks mission: VIGILANT WATCH
+  [COMMAND] HQ Command: Double Time -> Ashigaru Riflemen 1 (cost 2 CP) by Player B
+  [MOVEMENT] Cultist Zealots 3 CHARGE FAILED: it does not move
+  [MOVEMENT] Furyforged Berserkers 1 CHARGE FAILED: it does not move
+  [ACTION] Kitsune Shinobi uses Spot & Mark!
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Hounds of Satan 2
+  [ACTION]   Bloodhound destroyed
+  [ACTION]   Bloodhound destroyed
+  [ACTION]   Oni Samurai destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (1/10)
+
+=== BATTLE ROUND 2 ===
+A:Murderhost of Halfa: VP +8 (obj 5, primary 3, missions 0) = 12; CP +2 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+  mana: +10 -0 holds 14
+B:Kishomon Company: VP +2 (obj 2, primary 0, missions 0) = 6; CP +3 -3 holds 1 [2 Rally cry (reaction) for Ashigaru Riflemen 1; 1 Go to ground (reaction) for Taichou]
+  regalia: +1 -3 holds 1 [3 KUSANAGI NO TSURUGI]
+A:Murderhost of Halfa keeps mission COMMAND AUTHORITY (offered COMMAND AUTHORITY / BAR THE GATES)
+B:Kishomon Company keeps mission ASSASSINATION (offered FORWARD PRESENCE / ASSASSINATION)
+Moves:
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 2 3,5 -> 2,6
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers #2 8,12 -> 5,12
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 3 7,5 -> 7,6 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers 6,9 -> 8,8
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 1 + War Onmyoji 8,6 -> 10,5
+  [MOVEMENT] B:Kishomon Company Kitsune Shinobi 0,6 -> 4,6
+  [MOVEMENT] A:Murderhost of Halfa Furyforged Berserkers 1 + The Blooded Hegemon 6,12 -> 4,10
+  [MOVEMENT] B:Kishomon Company Oni Samurai + Taichou 14,6 -> 12,6
+  [MOVEMENT] A:Murderhost of Halfa Furyforged Berserkers 2 8,11 -> 10,9
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 2 7,8 -> 8,6 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 1 6,8 -> 6,7 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 2 8,7 -> 13,8
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Ashigaru Riflemen 1: Ashigaru Riflemen 1 -1, Hounds of Satan 2 -1
+  [ACTION] ability (KUSANAGI NO TSURUGI (phase_spend)): B:Kishomon Company KUSANAGI NO TSURUGI: Hounds of Satan 1 -4, Cultist Zealots 1 -4, Cultist Troopers -2
+  [ACTION] melee: B:Kishomon Company Armored Gashadokuro -> Cultist Zealots 1: Cultist Zealots 1 -6
+  [ACTION] melee: A:Murderhost of Halfa Cultist Zealots 2 -> Ashigaru Riflemen 3: Cultist Zealots 2 -1, Ashigaru Riflemen 3 -14
+  [ACTION] ranged: B:Kishomon Company Tsuchigumo Gun Battery -> Cultist Troopers: Cultist Troopers -4
+  [ACTION] melee: A:Murderhost of Halfa Hounds of Satan 1 -> Ashigaru Riflemen 3: Ashigaru Riflemen 3 -3
+  [ACTION] ranged: A:Murderhost of Halfa Avatar of Wrath -> Taichou: no damage
+  [ACTION] effect (Burning): A:Murderhost of Halfa Avatar of Wrath -> Taichou: Taichou -1
+  [ACTION] effect (Burning): A:Murderhost of Halfa Avatar of Wrath -> Oni Samurai: Oni Samurai -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:The Blooded Hegemon (best: ability Champion of The Pit, 0), A:Furyforged Berserkers 1 (no legal action), A:Furyforged Berserkers 2 (no legal action), A:Cultist Zealots 3 (no legal action), B:HQ (no legal action), B:Kitsune Shinobi (best: ability SMOKE PELLET, 0.3)
+Advanced, nothing else: none
+Moves undone:
+  A:Murderhost of Halfa Furyforged Berserkers 2: R1 MOVEMENT 10,12 -> 8,11, R2 MOVEMENT -> 10,9 (toward the objective at 1,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] A:Murderhost of Halfa Troop Requisition on (8,12): paid off - placed Cultist Troopers #2; the unit it placed scored 0.25 VP
+  [COMMAND] B:Kishomon Company Rally Cry on Ashigaru Riflemen 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Kishomon Company KUSANAGI NO TSURUGI on (7,8): paid off - gave Hounds of Satan 1: weapon AR +1, MS -1, BS -1; Cultist Zealots 1: MS -1, BS -1; Cultist Troopers: MS -1, BS -1; put PARALYZED on Hounds of Satan 1, PARALYZED on Cultist Zealots 1, PARALYZED on Cultist Troopers; 16 attack(s) it touched: +2.12 expected HP for its side; its effect took 10 HP off enemies
+  [ACTION] B:Kishomon Company Sake of Mount Oe: paid off - healed 2 HP
+  [ACTION] B:Kishomon Company Go to Ground on Taichou: paid off - 1 attack(s) it touched: +0.5 expected HP for its side
+Passive rules:
+  Profane Zeal (Cultist Zealots 1): 2 attacks, 1.79 expected HP for its side
+  Armor of Devotion (Cultist Zealots 1): 2 attacks, 1.32 expected HP for its side
+  Zealous Charge (Cultist Zealots 2): 1 attack, 7.71 expected HP for its side
+  Insatiable Rage (Hounds of Satan 1): fired 1 time (mod_weapon_stat)
+  Tithe of Torment (Cultist Zealots 1): fired 5 times (add_resource)
+  Tithe of Torment (Cultist Troopers): fired 3 times (add_resource)
+  Tithe of Torment (Cultist Zealots 2): fired 1 time (add_resource)
+  Hounds of Satan 1: MOVE 6 (5 without ability:bloodseeker)
+  Hounds of Satan 2: MOVE 6 (5 without ability:bloodseeker)
+Scored by:
+  A:Murderhost of Halfa objectives (7,7) 3 VP: Cultist Troopers 3.0; hinged on Cultist Troopers
+  B:Kishomon Company objectives (1,7) 2 VP: Ashigaru Riflemen 2 2.0; hinged on Ashigaru Riflemen 2
+  A:Murderhost of Halfa objectives (13,7) 2 VP: Avatar of Wrath 1.0, Hounds of Satan 2 1.0; hinged on Avatar of Wrath, Hounds of Satan 2
+  A:Murderhost of Halfa primary BREAK THEIR HOLD 3 VP: Avatar of Wrath 1.4, Hounds of Satan 2 1.4, Hounds of Satan 1 0.2, Cultist Zealots 1 0.2, Cultist Zealots 2 0.2, Cultist Troopers -0.4
+Key log lines:
+  [COMMAND] Player A picks mission: COMMAND AUTHORITY
+  [COMMAND] Player B picks mission: ASSASSINATION
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Ashigaru Riflemen 1
+  [MOVEMENT] [Ashigaru Riflemen 1] Fall Back to (10,5)
+  [MOVEMENT] Cultist Zealots 3 CHARGE FAILED: it does not move
+  [MOVEMENT] [Hounds of Satan 2] Fall Back to (13,8)
+  [ACTION]   Bloodhound destroyed
+  [ACTION]   Bloodhound destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION] Oni Samurai uses Sake of Mount Oe!
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Taichou
+  [ACTION]   Oni Samurai destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (4/10)
+
+=== BATTLE ROUND 3 ===
+A:Murderhost of Halfa: VP +10 (obj 5, primary 1, missions 4) = 22; CP +3 -2 holds 1 [2 Scouting Order → Cultist Zealots 2]
+  mana: +10 -0 holds 24
+B:Kishomon Company: VP +2 (obj 2, primary 0, missions 0) = 8; CP +3 -3 holds 1 [2 Rally cry (reaction) for Ashigaru Riflemen 1; 1 Go to ground (reaction) for Armored Gashadokuro]
+  regalia: +1 -1 holds 1 [1 YATA NO KAGAMI]
+A:Murderhost of Halfa keeps mission COORDINATED PUSH (offered PUSH FORWARD / COORDINATED PUSH)
+B:Kishomon Company keeps mission COORDINATED PUSH (offered COORDINATED PUSH / STRONGPOINT)
+A:Murderhost of Halfa mission COMMAND AUTHORITY: completed
+A:Murderhost of Halfa mission COORDINATED PUSH: completed
+B:Kishomon Company mission VIGILANT WATCH: expired
+Moves:
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 1 + War Onmyoji 10,5 -> 13,6
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers #2 5,12 -> 3,10
+  [MOVEMENT] B:Kishomon Company Kitsune Shinobi 4,6 -> 6,5
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 1 7,7 -> 5,9
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 3 7,6 -> 4,5
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 3 3,12 -> 2,7 (charge)
+  [MOVEMENT] B:Kishomon Company Oni Samurai + Taichou 12,6 -> 12,7 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Furyforged Berserkers 1 + The Blooded Hegemon 4,10 -> 1,7 (charge)
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 2 2,6 -> 4,4
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 2 8,6 -> 7,6 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 2 13,8 -> 10,10
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 1 6,7 -> 9,5
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers 8,8 -> 8,7
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Cultist Zealots 1: Cultist Zealots 1 -2, Ashigaru Riflemen 3 -2, Ashigaru Riflemen 2 -2
+  [ACTION] ranged: B:Kishomon Company Tsuchigumo Gun Battery -> Cultist Troopers: Cultist Troopers -6
+  [ACTION] melee: A:Murderhost of Halfa Cultist Zealots 2 -> Kitsune Shinobi: Kitsune Shinobi -6 DESTROYED
+  [ACTION] melee: B:Kishomon Company Taichou -> Avatar of Wrath: no damage
+  [ACTION] melee: A:Murderhost of Halfa Avatar of Wrath -> Oni Samurai: Avatar of Wrath -2, Oni Samurai -8 DESTROYED
+  [ACTION] melee: B:Kishomon Company Armored Gashadokuro -> Cultist Zealots 2: Cultist Zealots 2 -5
+  [ACTION] ranged: A:Murderhost of Halfa Cultist Troopers -> Armored Gashadokuro: no damage
+  [ACTION] ranged: B:Kishomon Company Ashigaru Riflemen 1 -> Cultist Troopers: Cultist Troopers -1
+  [ACTION] ranged: B:Kishomon Company War Onmyoji -> Cultist Troopers: Cultist Troopers -1
+  [ACTION] effect (Burning): A:Murderhost of Halfa Avatar of Wrath -> Taichou: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Furyforged Berserkers 1 (no legal action), A:Furyforged Berserkers 2 (no legal action), A:Cultist Zealots 3 (no legal action), B:HQ (no legal action), A:Cultist Troopers #2 (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] B:Kishomon Company YATA NO KAGAMI on (7,7): paid off - marked Hounds of Satan 1 (intel floor:1:1), Hounds of Satan 1 (marked for ap bonus), Cultist Zealots 1 (intel floor:1:1), Cultist Zealots 1 (marked for ap bonus), Cultist Zealots 2 (intel floor:1:1), Cultist Zealots 2 (marked for ap bonus), Cultist Troopers (intel floor:1:1), Cultist Troopers (marked for ap bonus); 8 attack(s) it touched: +0.86 expected HP for its side
+  [COMMAND] A:Murderhost of Halfa Scouting Order on Cultist Zealots 2: paid off - gave Cultist Zealots 2: PER +2; completed COMMAND AUTHORITY (+2 VP); 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Kishomon Company Rally Cry on Ashigaru Riflemen 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Kishomon Company Go to Ground on Armored Gashadokuro: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Zealous Charge (Cultist Zealots 2): 1 attack, 0.84 expected HP for its side
+  Profane Zeal (Cultist Zealots 2): 2 attacks, 0.12 expected HP for its side
+  Hellforged Flesh (Avatar of Wrath): 2 attacks, 1.92 expected HP for its side
+  Armor of Devotion (Cultist Zealots 2): 1 attack, 0.86 expected HP for its side
+  Tithe of Torment (Cultist Zealots 1): fired 2 times (add_resource)
+  Tithe of Torment (Cultist Troopers): fired 5 times (add_resource)
+  Insatiable Rage (Avatar of Wrath): fired 1 time (mod_weapon_stat)
+  Tithe of Torment (Cultist Zealots 2): fired 3 times (add_resource)
+  Hounds of Satan 1: MOVE 6 (5 without ability:bloodseeker)
+  Hounds of Satan 2: MOVE 6 (5 without ability:bloodseeker)
+Scored by:
+  A:Murderhost of Halfa missions COMMAND AUTHORITY 2 VP: Cultist Zealots 2 2.0 (event)
+  A:Murderhost of Halfa missions COORDINATED PUSH 2 VP: Furyforged Berserkers 1 0.3, Hounds of Satan 1 0.3, Hounds of Satan 2 0.3, Cultist Zealots 1 0.3, Cultist Zealots 2 0.3, Cultist Zealots 3 0.3, Cultist Troopers 0.3, Cultist Troopers #2 0.3 (actors)
+  A:Murderhost of Halfa objectives (7,7) 3 VP: Cultist Zealots 2 1.5, Cultist Troopers 1.5; hinged on Cultist Zealots 2, Cultist Troopers
+  A:Murderhost of Halfa objectives (1,7) 2 VP: The Blooded Hegemon 2.0; hinged on The Blooded Hegemon
+  B:Kishomon Company objectives (13,7) 2 VP: Ashigaru Riflemen 1 1.3, Taichou 0.3, War Onmyoji 0.3
+  A:Murderhost of Halfa primary BREAK THEIR HOLD 1 VP (2 withheld by the round's VP cap): no unit, unassigned 1
+Key log lines:
+  [COMMAND] Player A picks mission: COORDINATED PUSH
+  [COMMAND] Player B picks mission: COORDINATED PUSH
+  [COMMAND] HQ Command: Scouting Order -> Cultist Zealots 2 (cost 2 CP) by Player A
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player A +2 VP!
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Ashigaru Riflemen 1
+  [MOVEMENT]   Zealot destroyed
+  [MOVEMENT] [Cultist Zealots 1] breaks away in disorder: 3 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] [Cultist Zealots 1] Fall Back to (5,9)
+  [MOVEMENT]   Ashigaru destroyed
+  [MOVEMENT] [Ashigaru Riflemen 3] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] [Ashigaru Riflemen 3] Fall Back to (4,5)
+  [MOVEMENT]   Ashigaru destroyed
+  [MOVEMENT] [Ashigaru Riflemen 2] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] [Ashigaru Riflemen 2] Fall Back to (4,4)
+  [MOVEMENT] [Hounds of Satan 2] Fall Back to (10,10)
+  [MOVEMENT] [Hounds of Satan 1] Fall Back to (9,5)
+  [MOVEMENT] Furyforged Berserkers 2 CHARGE FAILED: it does not move
+  [MOVEMENT] MISSION COMPLETE: "COORDINATED PUSH" -> Player A +2 VP +1 CP!
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Kitsune Shinobi destroyed
+  [ACTION]   Kitsune Shinobi destroyed
+  [ACTION]   Kitsune Elder destroyed
+  [ACTION]   Kitsune Shinobi DESTROYED in melee!
+  [ACTION]   Kitsune Shinobi was destroyed - no counterattack
+  [ACTION]   Oni Samurai destroyed
+  [ACTION]   Oni Captain destroyed
+  [ACTION]   Oni Samurai DESTROYED in melee!
+  [ACTION]   Zealot destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION]   Zealot destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Armored Gashadokuro
+  [ACTION]   Cultist destroyed
+  [CLEANUP] VP CAP: Player A PRIMARY BREAK THEIR HOLD - 2 of 3 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (5/10)
+  [CLEANUP] Mission "VIGILANT WATCH" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Murderhost of Halfa: VP +6 (obj 5, primary 1, missions 0) = 28; CP +2 -2 holds 1 [2 Double Time → Furyforged Berserkers 2]
+  mana: +3 -0 holds 27
+B:Kishomon Company: VP +3 (obj 2, primary 1, missions 0) = 11; CP +3 -3 holds 1 [3 Secure Objective → Armored Gashadokuro]
+  regalia: +1 -0 holds 2
+A:Murderhost of Halfa keeps mission FOCUSED FIRE (offered FIRE FOR EFFECT / FOCUSED FIRE)
+B:Kishomon Company keeps mission FOCUSED FIRE (offered FOCUSED FIRE / PROBING STRIKE)
+Moves:
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 1 + War Onmyoji 13,6 -> 12,6
+  [MOVEMENT] A:Murderhost of Halfa Furyforged Berserkers 2 10,9 -> 13,7 (charge)
+  [MOVEMENT] B:Kishomon Company Taichou 12,7 -> 12,5
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 1 9,5 -> 8,6
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 2 4,4 -> 5,7
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 2 10,10 -> 8,8
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 3 4,5 -> 5,4
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers #2 3,10 -> 4,9
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 1 5,9 -> 2,8
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 3 2,7 -> 4,8 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Furyforged Berserkers 1 + The Blooded Hegemon 1,7 -> 1,6
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 2 7,6 -> 9,8
+  [MOVEMENT] A:Murderhost of Halfa Avatar of Wrath 12,8 -> 7,6 (charge)
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Taichou: Taichou -1
+  [ACTION] melee: B:Kishomon Company Armored Gashadokuro -> Avatar of Wrath: Armored Gashadokuro -5
+  [ACTION] melee: A:Murderhost of Halfa Cultist Zealots 3 -> Ashigaru Riflemen 2: Cultist Zealots 3 -1, Ashigaru Riflemen 2 -12
+  [ACTION] ranged: B:Kishomon Company Tsuchigumo Gun Battery -> Hounds of Satan 1: no damage
+  [ACTION] melee: A:Murderhost of Halfa Furyforged Berserkers 2 -> Ashigaru Riflemen 1: Ashigaru Riflemen 1 -5 DESTROYED, War Onmyoji -3
+  [ACTION] ranged FRIENDLY FIRE: A:Murderhost of Halfa Cultist Troopers -> Cultist Zealots 3: Cultist Zealots 3 -2
+  [ACTION] effect (Burning): A:Murderhost of Halfa Avatar of Wrath -> Taichou: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Furyforged Berserkers 1 (no legal action), A:Cultist Zealots 1 (no legal action), B:HQ (no legal action), B:Ashigaru Riflemen 3 (no legal action), A:Cultist Troopers #2 (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] B:Kishomon Company Secure Objective on Armored Gashadokuro: nothing - gave Armored Gashadokuro: OC +1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Murderhost of Halfa Double Time on Furyforged Berserkers 2: paid off - gave Furyforged Berserkers 2: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+Passive rules:
+  Incandescent Rage (Avatar of Wrath): 1 attack, 1.5 expected HP for its side
+  Hellforged Flesh (Avatar of Wrath): 1 attack, 0.56 expected HP for its side
+  Zealous Charge (Cultist Zealots 3): 1 attack, 6.37 expected HP for its side
+  Armor of Devotion (Cultist Zealots 3): 2 attacks, 0.08 expected HP for its side
+  Profane Zeal (Cultist Troopers): 1 attack, 0.09 expected HP for its side
+  Tithe of Torment (Cultist Zealots 3): fired 3 times (add_resource)
+  Blood Frenzy (Furyforged Berserkers 2): fired 3 times (mod_weapon_stat)
+  Hounds of Satan 1: MOVE 6 (5 without ability:bloodseeker)
+  Hounds of Satan 2: MOVE 6 (5 without ability:bloodseeker)
+Scored by:
+  A:Murderhost of Halfa objectives (7,7) 3 VP: Avatar of Wrath 1.0, Hounds of Satan 1 1.0, Hounds of Satan 2 1.0
+  A:Murderhost of Halfa objectives (1,7) 2 VP: The Blooded Hegemon 2.0; hinged on The Blooded Hegemon
+  B:Kishomon Company objectives (13,7) 2 VP: War Onmyoji 2.0; hinged on War Onmyoji
+  A:Murderhost of Halfa primary BREAK THEIR HOLD 1 VP: Furyforged Berserkers 2 1.0, Cultist Troopers 0.3, Avatar of Wrath -0.1, Hounds of Satan 1 -0.1, Hounds of Satan 2 -0.1
+  B:Kishomon Company primary STRATEGICAL DISRUPTION 1 VP: no unit, unassigned 1
+Key log lines:
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: FOCUSED FIRE
+  [COMMAND] HQ Command: Secure Objective -> Armored Gashadokuro (cost 3 CP) by Player B
+  [COMMAND] HQ Command: Double Time -> Furyforged Berserkers 2 (cost 2 CP) by Player A
+  [MOVEMENT] [Taichou] Fall Back to (12,5)
+  [MOVEMENT] [Cultist Zealots 2] Fall Back to (9,8)
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Ashigaru destroyed
+  [ACTION]   Kumigashira destroyed
+  [ACTION]   War Onmyoji destroyed
+  [ACTION]   PAPER BODY: War Onmyoji survives; a unit will be destroyed in its place
+  [ACTION]   Ashigaru Riflemen 1 DESTROYED in melee!
+  [ACTION]   Ashigaru Riflemen 1 was destroyed - no counterattack
+  [ACTION] Paper Body: Shikigami Token 1 is destroyed in its place
+  [ACTION] [Shikigami Token 1] DESTROYED
+  [ACTION]   Zealot destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 1 VP (6/10)
+  [CLEANUP] PRIMARY STRATEGICAL DISRUPTION: Player B scores 1 VP (1/10)
+
+=== BATTLE ROUND 5 ===
+A:Murderhost of Halfa: VP +4 (obj 0, primary 0, missions 4) = 32; CP +2 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+  mana: +4 -0 holds 31
+B:Kishomon Company: VP +0 (obj 0, primary 0, missions 0) = 11; CP +3 -4 holds 0 [2 Double Time → Ashigaru Riflemen 3; 2 Rally cry (reaction) for War Onmyoji]
+  regalia: +0 -2 holds 0 [2 YASAKANI NO MAGATAMA]
+A:Murderhost of Halfa keeps mission PROBING STRIKE (offered PROBING STRIKE / VIGILANT WATCH)
+B:Kishomon Company keeps mission DEEP REACH (offered TAKE UP THE GAUNTLET / DEEP REACH)
+A:Murderhost of Halfa mission ASSASSINATION: completed
+Moves:
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 3 5,4 -> 10,5
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers #3 7,12 -> 8,10
+  [MOVEMENT] B:Kishomon Company Ashigaru Riflemen 2 5,7 -> 6,9
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers #2 4,9 -> 2,7
+  [MOVEMENT] B:Kishomon Company Taichou 12,5 -> 12,7 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 1 2,8 -> 2,6
+  [MOVEMENT] B:Kishomon Company War Onmyoji 12,6 -> 10,6
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 2 9,8 -> 7,5 (charge)
+  [MOVEMENT] B:Kishomon Company Armored Gashadokuro 6,6 -> 5,4
+  [MOVEMENT] A:Murderhost of Halfa Furyforged Berserkers 1 + The Blooded Hegemon 1,6 -> 4,5 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Cultist Zealots 3 4,8 -> 5,9 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 1 8,6 -> 7,8 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Hounds of Satan 2 8,8 -> 6,8 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Avatar of Wrath 7,6 -> 6,5 (charge)
+  [MOVEMENT] A:Murderhost of Halfa Cultist Troopers 8,7 -> 8,5
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Armored Gashadokuro: Armored Gashadokuro -3
+  [ACTION] melee: B:Kishomon Company Taichou -> Furyforged Berserkers 2: Furyforged Berserkers 2 -4, Taichou -3 DESTROYED
+Idle (APt to spend, none spent): A:HQ, A:The Blooded Hegemon, A:Furyforged Berserkers 1, A:Avatar of Wrath, A:Hounds of Satan 1, A:Hounds of Satan 2, A:Cultist Zealots 1, A:Cultist Zealots 2, A:Cultist Zealots 3, A:Cultist Troopers, B:HQ, B:Tsuchigumo Gun Battery, B:Ashigaru Riflemen 3, A:Cultist Troopers #2
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] B:Kishomon Company Double Time on Ashigaru Riflemen 3: paid off - gave Ashigaru Riflemen 3: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Murderhost of Halfa Troop Requisition on (7,12): nothing - placed Cultist Troopers #3
+  [COMMAND] B:Kishomon Company Rally Cry on War Onmyoji: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] B:Kishomon Company YASAKANI NO MAGATAMA on Armored Gashadokuro: nothing - gave Armored Gashadokuro: weapon AR +2, weapon FR +2, weapon DMG +1, weapon AP +1
+Passive rules:
+  Master Swordsman (Taichou): 1 attack, 0.51 expected HP for its side
+  Tithe of Torment (Furyforged Berserkers 2): fired 2 times (add_resource)
+  Insatiable Rage (Furyforged Berserkers 2): fired 1 time (mod_weapon_stat)
+  Blood Frenzy (Furyforged Berserkers 2): fired 2 times (mod_weapon_stat)
+  Hounds of Satan 1: MOVE 6 (5 without ability:bloodseeker)
+  Hounds of Satan 2: MOVE 6 (5 without ability:bloodseeker)
+Scored by:
+  A:Murderhost of Halfa missions ASSASSINATION 4 VP: Furyforged Berserkers 2 4.0 (event)
+Key log lines:
+  [COMMAND] Player A picks mission: PROBING STRIKE
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Double Time -> Ashigaru Riflemen 3 (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - War Onmyoji
+  [MOVEMENT] [Ashigaru Riflemen 2] Fall Back to (6,9)
+  [MOVEMENT]   War Onmyoji destroyed
+  [MOVEMENT]   PAPER BODY: War Onmyoji survives; a unit will be destroyed in its place
+  [MOVEMENT] [War Onmyoji] breaks away in disorder: 3 True Damage, 1 HP lost, 1 model destroyed
+  [MOVEMENT] [War Onmyoji] Fall Back to (10,6)
+  [MOVEMENT] Paper Body: Shikigami Token 2 is destroyed in its place
+  [MOVEMENT] [Shikigami Token 2] DESTROYED
+  [MOVEMENT] [Armored Gashadokuro] Fall Back to (5,4)
+  [ACTION]   Furyforged Berserker destroyed
+  [ACTION]   Furyforged Berserker destroyed
+  [ACTION]   Taichou destroyed
+  [ACTION] MISSION COMPLETE: "ASSASSINATION" -> Player A +4 VP!
+  [ACTION]   Taichou destroyed
+  [ACTION]   Taichou DESTROYED in melee!
+
+Damage leaders:
+  A:Murderhost of Halfa Avatar of Wrath: 21 damage, 1 kills, 60 RP, 0.35/RP
+  A:Murderhost of Halfa Cultist Zealots 2: 20 damage, 1 kills, 10 RP, 2.00/RP
+  A:Murderhost of Halfa Cultist Zealots 1: 14 damage, 0 kills, 10 RP, 1.40/RP
+  A:Murderhost of Halfa Cultist Zealots 3: 12 damage, 0 kills, 10 RP, 1.20/RP
+  B:Kishomon Company Tsuchigumo Gun Battery: 12 damage, 0 kills, 26 RP, 0.46/RP
+  A:Murderhost of Halfa Furyforged Berserkers 2: 11 damage, 2 kills, 25 RP, 0.44/RP
+  B:Kishomon Company Armored Gashadokuro: 11 damage, 0 kills, 55 RP, 0.20/RP
+  B:Kishomon Company Ashigaru Riflemen 3: 5 damage, 0 kills, 15 RP, 0.33/RP
+  B:Kishomon Company Taichou: 4 damage, 0 kills, 32 RP, 0.13/RP (destroyed)
+  B:Kishomon Company Ashigaru Riflemen 1: 3 damage, 0 kills, 15 RP, 0.20/RP (destroyed)
+  A:Murderhost of Halfa Hounds of Satan 1: 3 damage, 0 kills, 20 RP, 0.15/RP
+  B:Kishomon Company Oni Samurai: 2 damage, 0 kills, 44 RP, 0.05/RP (destroyed)
+  B:Kishomon Company Ashigaru Riflemen 2: 1 damage, 0 kills, 15 RP, 0.07/RP
+  B:Kishomon Company War Onmyoji: 1 damage, 0 kills, 20 RP, 0.05/RP
+Friendly fire (HP and units a unit took off its own side):
+  A:Murderhost of Halfa Cultist Troopers: 2 HP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Murderhost of Halfa Furyforged Berserkers 2: 5.0 VP (obj 0.0, primary 1.0, missions 4.0), hinged 0, 20.0/100 RP
+  A:Murderhost of Halfa Hounds of Satan 2: 4.8 VP (obj 3.5, primary 1.0, missions 0.3), hinged 5, 23.9/100 RP
+  A:Murderhost of Halfa Cultist Troopers: 4.6 VP (obj 4.5, primary -0.2, missions 0.3), hinged 6, 45.7/100 RP
+  A:Murderhost of Halfa Avatar of Wrath: 4.3 VP (obj 2.0, primary 2.3, missions 0.0), hinged 2, 7.1/100 RP
+  A:Murderhost of Halfa Cultist Zealots 2: 4.2 VP (obj 1.5, primary 0.5, missions 2.3), hinged 3, 42.3/100 RP
+  A:Murderhost of Halfa The Blooded Hegemon: 4.0 VP (obj 4.0, primary 0.0, missions 0.0), hinged 4, 6.7/100 RP
+  A:Murderhost of Halfa Hounds of Satan 1: 2.6 VP (obj 2.5, primary -0.1, missions 0.3), hinged 3, 13.3/100 RP
+  B:Kishomon Company War Onmyoji: 2.3 VP (obj 2.3, primary 0.0, missions 0.0), hinged 2, 11.7/100 RP
+  B:Kishomon Company Ashigaru Riflemen 2: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 13.3/100 RP
+  B:Kishomon Company Kitsune Shinobi: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 7.4/100 RP
+  B:Kishomon Company Oni Samurai: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 4.5/100 RP
+  B:Kishomon Company Ashigaru Riflemen 1: 1.3 VP (obj 1.3, primary 0.0, missions 0.0), hinged 0, 8.9/100 RP
+  A:Murderhost of Halfa Cultist Zealots 1: 0.7 VP (obj 0.0, primary 0.5, missions 0.3), hinged 0, 7.3/100 RP
+  B:Kishomon Company Taichou: 0.3 VP (obj 0.3, primary 0.0, missions 0.0), hinged 0, 1.0/100 RP
+  A:Murderhost of Halfa Cultist Troopers #2: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 2.5/100 RP
+  A:Murderhost of Halfa Cultist Zealots 3: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 2.5/100 RP
+  A:Murderhost of Halfa Furyforged Berserkers 1: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 1.0/100 RP
+  A:Murderhost of Halfa no unit: obj 0, primary 1, missions 0
+  B:Kishomon Company no unit: obj 0, primary 1, missions 0
+Activity (inaction score; advanced, nothing else; actions: movement/advance/ranged/melee/ability/magic/objective held):
+  A:Murderhost of Halfa Furyforged Berserkers 1: inaction 5 (5 idle, 4 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/0
+  A:Murderhost of Halfa Cultist Zealots 3: inaction 4 (4 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/1/0/0/0
+  A:Murderhost of Halfa Cultist Troopers #2: inaction 3 (3 idle, 3 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/0
+  A:Murderhost of Halfa Furyforged Berserkers 2: inaction 3 (3 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/2/0/0/0
+  A:Murderhost of Halfa The Blooded Hegemon: inaction 3 (3 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/0/0/2
+  A:Murderhost of Halfa Cultist Zealots 1: inaction 2 (2 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 1/0/0/2/0/0/0
+  B:Kishomon Company Ashigaru Riflemen 3: inaction 2 (2 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 1/0/1/1/0/0/1
+  A:Murderhost of Halfa Cultist Troopers: inaction 2 (2 idle, 2 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/0/0/0/2
+  B:Kishomon Company Kitsune Shinobi: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/1/0/1
+  B:Kishomon Company Ashigaru Riflemen 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 2/0/0/1/0/0/1
+  A:Murderhost of Halfa Cultist Zealots 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 1 (R1); actions 1/1/0/2/0/0/0
+  B:Kishomon Company Tsuchigumo Gun Battery: inaction 1 (1 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/4/0/0/0/0
+  A:Murderhost of Halfa Hounds of Satan 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 1/1/0/1/0/0/3
+  A:Murderhost of Halfa Hounds of Satan 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 2/1/0/0/0/0/3
+  A:Murderhost of Halfa Avatar of Wrath: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/2/0/0/4
+  B:Kishomon Company Ashigaru Riflemen 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/1/1/0/0/2
+  B:Kishomon Company Oni Samurai: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/1/1/0/2
+  B:Kishomon Company Taichou: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/1/0/2/0/0/3
+  B:Kishomon Company War Onmyoji: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 2/0/1/2/0/0/3
+  B:Kishomon Company Armored Gashadokuro: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/1/0/3/0/0/4
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 1
+  A:Murderhost of Halfa Furyforged Berserkers 2: 1 of 3 moves (0 back, 1 away from an objective), 2 squares lost
+Secondary missions:
+  A:Murderhost of Halfa ASSASSINATION (+4 VP): kept R1, completed R5 - Destroy an enemy CHARACTER or MONSTER.
+  A:Murderhost of Halfa COMMAND AUTHORITY (+2 VP): kept R2, completed R3 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  A:Murderhost of Halfa COORDINATED PUSH (+2 VP): kept R3, completed R3 - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  A:Murderhost of Halfa FOCUSED FIRE (+2 VP): kept R4, active - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Murderhost of Halfa PROBING STRIKE (+2 VP): kept R5, active - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  B:Kishomon Company VIGILANT WATCH (+1 VP): kept R1, expired R3 - Perform an OVERWATCH Reaction with a unit within an Objective Area.
+  B:Kishomon Company ASSASSINATION (+4 VP): kept R2, active - Destroy an enemy CHARACTER or MONSTER.
+  B:Kishomon Company COORDINATED PUSH (+2 VP): kept R3, active - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  B:Kishomon Company FOCUSED FIRE (+2 VP): kept R4, active - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Kishomon Company DEEP REACH (+3 VP): kept R5, active - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.

@@ -1,0 +1,15 @@
+A granted Charge is a Charge: it locks ranged weapons and counts for missions
+
+The user's ruling (2026-10-30): "granted charge are charges so they should have the
+same rule". A granted as_charge move (core/movement/reposition.js; Insatiable Rage)
+called markCharge but set no charge_ranged_lock, so the unit, and a pair's CHARACTER,
+could still shoot. lockRangedAfterCharge (core/movement/charge.js) is now the one place
+a performed Charge is marked, asked by the Charge roll and by the granted Charge; on
+arrival beside an enemy the granted Charge goes through resolveChargeOnArrival, so the
+missions that count a Charge count it too (it already had the charged mark and the +3
+INI strike). Like every granted move it still provokes no Reaction.
+
+Test: ops/grant_move's as_charge section, on a joined pair.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

@@ -1,0 +1,20 @@
+MS table: an MS of 0 or below reads as 0; only no MS on the datasheet forbids melee
+
+The user's ruling (2026-10-30): "Ms table". meleeMSThreshold answered 7 for any MS
+at or below 0, which meleeHitThreshold's 2+..6+ clamp read as 6+: an MS 4 attacker hit
+an MS 0 defender (the HQ, a Structure, a unit debuffed to 0) on 6+, not 2+. Every MS
+now goes through the table, an effective MS below 0 counting as 0 (the OC precedent):
+MS 4 vs MS 0 hits on 2+, MS 0 vs MS 4 on 6+, MS 0 vs MS 0 on 4+.
+
+Weapons._msBase read the EFFECTIVE MS to decide whether a user had an MS at all, so
+a unit whose MS a debuff took to 0 or below (Heartburning Shriek + PARALYZED +
+FATIGUED is -4) could not attack or counterattack. It now reads the datasheet MS;
+Weapons.hasMeleeSkill is the one question the attack checks (base_profile.js), melee
+legality (_hasCanonicalMeleeSkill, which also added the melee_skill aura) and the AI's
+role reading (unit_role_tags.js) ask.
+
+Tests: melee_combat/017 (was 'MS 0 returns 7') pins the table at 0 and below;
+rules_refactor/170 adds the debuffed unit that still strikes.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

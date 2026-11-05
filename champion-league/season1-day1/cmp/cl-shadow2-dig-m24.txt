@@ -1,0 +1,434 @@
+Scorpion Shields (A, iron_imperium) vs Miserere Column (B, covenant_of_new_jerusalem) on CROSSROADS, seed 460703124
+Result: B:Miserere Column wins (VP) in round 4, VP 20 / 33
+Initiative: A:Scorpion Shields; formation order [0,1]
+Army A:Scorpion Shields (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Praetorian Tribune 1 - 35 RP, 1 models, 6 HP, leads Praetorian Strikers 1, Marshal
+  Praetorian Strikers 1 - 40 RP, 3 models, 9 HP, led by Praetorian Tribune 1
+  Praetorian Tribune 2 - 30 RP, 1 models, 6 HP, leads Praetorian Gunners 1
+  Praetorian Gunners 1 - 40 RP, 3 models, 9 HP, led by Praetorian Tribune 2
+  Praetorian Strikers 2 - 35 RP, 3 models, 9 HP
+  Praetorian Gunners 2 - 35 RP, 3 models, 9 HP
+  Praetorian Fireteam - 35 RP, 3 models, 9 HP
+Army B:Miserere Column (246 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Cain - The First Penitent - 65 RP, 1 models, 8 HP, leads Knight-Apostle Squad, Marshal
+  Knight-Apostle Squad - 35 RP, 3 models, 12 HP, led by Cain - The First Penitent
+  Cantor-Preceptor - 21 RP, 1 models, 4 HP, leads Covenant Levies 1
+  Covenant Levies 1 - 10 RP, 10 models, 20 HP, led by Cantor-Preceptor
+  Covenant Levies 2 - 10 RP, 10 models, 20 HP
+  Covenant Levies 3 - 10 RP, 10 models, 20 HP
+  Jordanite Hospitallers - 15 RP, 3 models, 9 HP
+  Golgothic Paladins - 60 RP, 3 models, 15 HP
+  Covenant Levies 4 - 10 RP, 10 models, 20 HP
+  Covenant Levies 5 - 10 RP, 10 models, 20 HP
+Primary A:Scorpion Shields: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: ERADICATE THE FOE, DEEP INFILTRATION (does not fit), BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 2 (count 2), R2 3 (count 3), R3 0 (count 0), R4 0 (count 0); total 5
+Primary B:Miserere Column: LEAD FROM THE FRONT - At the end of each Battle Round, score 2 VP if a friendly CHARACTER, or a friendly squad a CHARACTER has joined, is in an Objective Area or the enemy half of the battlefield. Score 3 VP instead if two or more are; a CHARACTER and the squad it has joined count as one.
+  hand: COORDINATED SUPPRESSION, IMPENETRABLE FORTRESS, LEAD FROM THE FRONT; picked lead_from_the_front
+  scored per round: R1 2 (count 1), R2 2 (count 1), R3 3 (count 2), R4 0 (count 0); total 7
+
+=== BATTLE ROUND 1 ===
+A:Scorpion Shields: VP +4 (obj 2, primary 2, missions 0) = 4; CP +5 -5 holds 0 [5 Troop Requisition → Legionnaire Squad]
+  pietas: +4 -0 holds 4
+B:Miserere Column: VP +10 (obj 5, primary 2, missions 3) = 10; CP +3 -3 holds 0 [3 Troop Requisition → Covenant Levies]
+  mana: +13 -0 holds 13
+A:Scorpion Shields keeps mission FOCUSED FIRE (offered FOCUSED FIRE / OBJECTIVE RELAY)
+B:Miserere Column keeps mission DEEP REACH (offered FORWARD DEPLOYMENT / DEEP REACH)
+B:Miserere Column mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Scorpion Shields Praetorian Strikers 1 + Praetorian Tribune 1 10,12 -> 8,8 (advance)
+  [MOVEMENT] B:Miserere Column Jordanite Hospitallers 4,2 -> 1,6 (advance)
+  [MOVEMENT] A:Scorpion Shields Praetorian Strikers 2 3,12 -> 2,8 (advance)
+  [MOVEMENT] B:Miserere Column Covenant Levies 1 + Cantor-Preceptor 3,2 -> 6,6 (advance)
+  [MOVEMENT] A:Scorpion Shields Praetorian Gunners 2 5,12 -> 6,8 (advance)
+  [MOVEMENT] B:Miserere Column Covenant Levies 2 6,2 -> 7,6 (advance)
+  [MOVEMENT] A:Scorpion Shields Legionnaire Squad 7,12 -> 7,9 (advance)
+  [MOVEMENT] B:Miserere Column Covenant Levies 3 8,2 -> 3,4 (advance)
+  [MOVEMENT] A:Scorpion Shields Praetorian Gunners 1 + Praetorian Tribune 2 6,12 -> 7,8 (advance)
+  [MOVEMENT] B:Miserere Column Covenant Levies 4 5,2 -> 6,4 (advance)
+  [MOVEMENT] A:Scorpion Shields Praetorian Fireteam 11,12 -> 12,8 (advance)
+  [MOVEMENT] B:Miserere Column Covenant Levies 5 10,2 -> 13,6 (advance)
+  [MOVEMENT] B:Miserere Column Covenant Levies 7,2 -> 8,6 (advance)
+  [MOVEMENT] B:Miserere Column Golgothic Paladins 11,2 -> 12,7 (charge)
+  [MOVEMENT] B:Miserere Column Knight-Apostle Squad + Cain - The First Penitent 9,2 -> 5,3 (advance)
+Combat:
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 1 -> Covenant Levies 2: Covenant Levies 2 -7
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 2 -> Covenant Levies: Covenant Levies -7
+  [ACTION] melee: B:Miserere Column Golgothic Paladins -> Praetorian Fireteam: Praetorian Fireteam -6
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Cain - The First Penitent (no legal action), B:Knight-Apostle Squad (no legal action), B:Covenant Levies 3 (no legal action), B:Covenant Levies 4 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Scorpion Shields Troop Requisition on (7,12): paid off - placed Legionnaire Squad; the unit it placed made 2 attack(s), 0 HP off; the unit it placed scored 0.4 VP; the unit it placed drew 3 enemy attack(s), 8 HP
+  [COMMAND] B:Miserere Column Troop Requisition on (7,2): paid off - placed Covenant Levies; the unit it placed scored 1.05 VP; the unit it placed drew 3 enemy attack(s), 20 HP
+  [ACTION] B:Miserere Column Exaltation on Praetorian Fireteam: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  PERFORATED BARREL SLEEVE (Praetorian Gunners 1): 1 attack, 1.11 expected HP for its side
+  Duty and Honor (Praetorian Fireteam): 1 attack, 0.83 expected HP for its side
+  JASPER SIGNET (Praetorian Tribune 1): fired 1 time (add_resource)
+Scored by:
+  B:Miserere Column objectives (7,7) 3 VP: Covenant Levies 1 1.0, Covenant Levies 2 1.0, Covenant Levies 1.0; hinged on Covenant Levies 1, Covenant Levies 2, Covenant Levies
+  A:Scorpion Shields objectives (1,7) 2 VP: Praetorian Strikers 2 2.0; hinged on Praetorian Strikers 2
+  B:Miserere Column objectives (13,7) 2 VP: Golgothic Paladins 1.0, Covenant Levies 5 1.0
+  A:Scorpion Shields primary BREAK THEIR HOLD 2 VP: Praetorian Fireteam 1.0, Praetorian Tribune 1 0.2, Praetorian Strikers 1 0.2, Praetorian Tribune 2 0.2, Praetorian Gunners 1 0.2, Praetorian Gunners 2 0.2
+  B:Miserere Column primary LEAD FROM THE FRONT 2 VP: Cantor-Preceptor 1.0, Covenant Levies 1 1.0
+  B:Miserere Column missions DEEP REACH 3 VP: HQ 2.0, Golgothic Paladins 0.4, Covenant Levies 5 0.4, Covenant Levies 1 0.1, Covenant Levies 2 0.1, Covenant Levies 0.1
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A BREAK THEIR HOLD, Player B LEAD FROM THE FRONT
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Troop Requisition -> iron_imperium:legionnaire_squad (cost 5 CP) by Player A
+  [COMMAND] HQ Command: Troop Requisition -> covenant_of_new_jerusalem:covenant_levies (cost 3 CP) by Player B
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Praetorian destroyed
+  [ACTION]   Praetorian destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 2 VP (2/10)
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player B scores 2 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+
+=== BATTLE ROUND 2 ===
+A:Scorpion Shields: VP +10 (obj 5, primary 3, missions 2) = 14; CP +4 -2 holds 2 [2 Rally cry (reaction) for Praetorian Fireteam]
+  pietas: +2 -0 holds 6
+B:Miserere Column: VP +8 (obj 2, primary 2, missions 4) = 18; CP +3 -1 holds 2 [1 Go to ground (reaction) for Covenant Levies 1]
+  mana: +2 -6 holds 9 [6 Cast Agnus Dei]
+A:Scorpion Shields keeps mission FIRE FOR EFFECT (offered FORWARD PRESENCE / FIRE FOR EFFECT)
+B:Miserere Column keeps mission OMNIPRESENCE (offered OMNIPRESENCE / STRONGPOINT)
+A:Scorpion Shields mission FOCUSED FIRE: completed
+B:Miserere Column mission OMNIPRESENCE: completed
+Moves:
+  [MOVEMENT] A:Scorpion Shields Legionnaire Squad 7,9 -> 9,8
+  [MOVEMENT] B:Miserere Column Covenant Levies 3 3,4 -> 2,6
+  [MOVEMENT] A:Scorpion Shields Praetorian Strikers 2 2,8 -> 2,7 (charge)
+  [MOVEMENT] B:Miserere Column Covenant Levies 4 6,4 -> 3,4
+  [MOVEMENT] A:Scorpion Shields Praetorian Strikers 1 + Praetorian Tribune 1 8,8 -> 3,7 (charge)
+  [MOVEMENT] B:Miserere Column Knight-Apostle Squad + Cain - The First Penitent 5,3 -> 2,4
+  [MOVEMENT] A:Scorpion Shields Praetorian Gunners 2 6,8 -> 8,8
+  [MOVEMENT] B:Miserere Column Jordanite Hospitallers 1,6 -> 0,6
+  [MOVEMENT] B:Miserere Column Covenant Levies 2 7,6 -> 4,5
+  [MOVEMENT] B:Miserere Column Covenant Levies 1 + Cantor-Preceptor 6,6 -> 7,6
+  [ACTION] A:Scorpion Shields Praetorian Strikers 1 + Praetorian Tribune 1 3,7 -> 2,6
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Miserere Column Covenant Levies 2 -> Legionnaire Squad: Legionnaire Squad -3
+  [MOVEMENT] ranged (Overwatch): B:Miserere Column Covenant Levies 1 -> Praetorian Gunners 2: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Jordanite Hospitallers: Jordanite Hospitallers -3
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 1 -> Covenant Levies: Covenant Levies -6
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 1 -> Covenant Levies: Covenant Levies -7 DESTROYED
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 2 -> Covenant Levies 1: Covenant Levies 1 -6
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 2 -> Covenant Levies 1: Covenant Levies 1 -11
+  [ACTION] magic (Agnus Dei): B:Miserere Column Cantor-Preceptor -> Covenant Levies 1: no damage
+  [ACTION] melee: A:Scorpion Shields Praetorian Strikers 1 -> Covenant Levies 3: Covenant Levies 3 -20 DESTROYED
+  [ACTION] ability (Retribution (interjection)): B:Miserere Column Covenant Levies 3 -> Covenant Levies 3: Praetorian Strikers 1 -1
+  [ACTION] ranged: B:Miserere Column Covenant Levies 4 -> Praetorian Strikers 1: Praetorian Strikers 1 -1
+  [ACTION] ranged: A:Scorpion Shields Legionnaire Squad -> Covenant Levies 1: no damage
+  [ACTION] melee: B:Miserere Column Golgothic Paladins -> Praetorian Fireteam: Praetorian Fireteam -3 DESTROYED
+  [ACTION] ranged: A:Scorpion Shields Praetorian Tribune 2 -> Cantor-Preceptor: Covenant Levies 1 -1
+  [ACTION] ranged: B:Miserere Column Covenant Levies 2 -> Praetorian Strikers 1: no damage
+  [ACTION] ranged: B:Miserere Column Knight-Apostle Squad -> Praetorian Strikers 1: no damage
+  [ACTION] ranged: B:Miserere Column Covenant Levies 1 -> Praetorian Gunners 1: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Moves undone:
+  B:Miserere Column Covenant Levies 2: R1 MOVEMENT 6,2 -> 7,6, R2 MOVEMENT -> 4,5 (toward the objective at 13,7, then away, 3 squares lost)
+  B:Miserere Column Covenant Levies 4: R1 MOVEMENT 5,2 -> 6,4, R2 MOVEMENT -> 3,4 (toward the objective at 13,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] A:Scorpion Shields Rally Cry on Praetorian Fireteam: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] B:Miserere Column Providence on Legionnaire Squad: paid off - 1 attack(s) it touched: +0.97 expected HP for its side
+  [ACTION] A:Scorpion Shields Raking Bursts on Covenant Levies: paid off - its effect took 13 HP off enemies
+  [ACTION] A:Scorpion Shields Raking Bursts on Covenant Levies 1: paid off - its effect took 17 HP off enemies
+  [ACTION] B:Miserere Column Agnus Dei on Covenant Levies 1: nothing - gave Covenant Levies 1: weapon DMG +1; set the Antiphon agnus_dei on Covenant Levies 1; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] B:Miserere Column Retribution: paid off - its effect took 1 HP off enemies
+  [ACTION] B:Miserere Column Go to Ground on Covenant Levies 1: paid off - 1 attack(s) it touched: +0.87 expected HP for its side
+  [ACTION] B:Miserere Column Patriarch of the Covenant: paid off - put back retribution, used again
+Passive rules:
+  PERFORATED BARREL SLEEVE (Praetorian Gunners 1): 2 attacks, 1.18 expected HP for its side
+  Duty and Honor (Praetorian Fireteam): 1 attack, 0.16 expected HP for its side
+  Resonant Mitre (Cantor-Preceptor): 1 attack, 0.22 expected HP for its side
+Scored by:
+  A:Scorpion Shields missions FOCUSED FIRE 2 VP: Praetorian Strikers 1 0.4, Praetorian Tribune 2 0.4, Praetorian Gunners 1 0.4, Praetorian Gunners 2 0.4, Legionnaire Squad 0.4 (actors)
+  A:Scorpion Shields objectives (7,7) 3 VP: Praetorian Gunners 1 1.5, Praetorian Gunners 2 1.5
+  A:Scorpion Shields objectives (1,7) 2 VP: Praetorian Strikers 1 1.0, Praetorian Strikers 2 1.0
+  B:Miserere Column objectives (13,7) 2 VP: Golgothic Paladins 1.0, Covenant Levies 5 1.0
+  A:Scorpion Shields primary BREAK THEIR HOLD 3 VP: Praetorian Tribune 2 1.0, Praetorian Gunners 1 1.0, Praetorian Gunners 2 1.0
+  B:Miserere Column primary LEAD FROM THE FRONT 2 VP: Cantor-Preceptor 1.0, Covenant Levies 1 1.0
+  B:Miserere Column missions OMNIPRESENCE 4 VP: Cantor-Preceptor 1.2, Covenant Levies 1 1.2, Jordanite Hospitallers 1.2, Golgothic Paladins 0.2, Covenant Levies 5 0.2
+Key log lines:
+  [COMMAND] Player A picks mission: FIRE FOR EFFECT
+  [COMMAND] Player B picks mission: OMNIPRESENCE
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Praetorian Fireteam
+  [MOVEMENT]   Legionnaire destroyed
+  [MOVEMENT] [Covenant Levies 2] Overwatch Reaction vs Legionnaire Squad: 3 damage
+  [MOVEMENT] [Covenant Levies 1] Overwatch Reaction vs Praetorian Gunners 2: no damage
+  [MOVEMENT]   Jordanite Hospitaller destroyed
+  [MOVEMENT] [Jordanite Hospitallers] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Jordanite Hospitallers] Fall Back to (0,6)
+  [ACTION] Praetorian Gunners 1 uses Raking Bursts!
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Covenant Levies DESTROYED
+  [ACTION] Praetorian Gunners 2 uses Raking Bursts!
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] Cantor-Preceptor casts Agnus Dei on Covenant Levies 1
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Covenant Levies 3 DESTROYED in melee!
+  [ACTION]   Covenant Levies 3 was destroyed - no counterattack
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Covenant Levies 1
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Decanus destroyed
+  [ACTION]   Praetorian Fireteam DESTROYED in melee!
+  [ACTION]   Levy destroyed
+  [ACTION] Cain - The First Penitent uses Patriarch of the Covenant!
+  [ACTION] MISSION COMPLETE: "FOCUSED FIRE" -> Player A +2 VP +1 CP!
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player A scores 3 VP (5/10)
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player B scores 2 VP (4/10)
+  [CLEANUP] MISSION COMPLETE: "OMNIPRESENCE" -> Player B +4 VP!
+  [CLEANUP] Pietas: Player A +2 (6 total, tier 3) - enemy unit destroyed; FOCUSED FIRE; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier III - enemy unit destroyed; FOCUSED FIRE; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 3 ===
+A:Scorpion Shields: VP +6 (obj 3, primary 0, missions 3) = 20; CP +3 -5 holds 0 [5 Troop Requisition → Legionnaire Squad]
+B:Miserere Column: VP +9 (obj 4, primary 3, missions 2) = 27; CP +4 -5 holds 1 [2 Double Time → Covenant Levies 4; 2 Rally cry (reaction) for Covenant Levies 1; 1 Go to ground (reaction) for Cantor-Preceptor]
+  mana: +5 -4 holds 10 [4 Cast Gloria]
+A:Scorpion Shields keeps mission TAKE UP THE GAUNTLET (offered TAKE UP THE GAUNTLET / LAST STAND)
+B:Miserere Column keeps mission COORDINATED PUSH (offered COORDINATED PUSH / FOCUSED FIRE)
+A:Scorpion Shields mission TAKE UP THE GAUNTLET: completed
+B:Miserere Column mission COORDINATED PUSH: completed
+Moves:
+  [MOVEMENT] A:Scorpion Shields Legionnaire Squad 9,8 -> 12,9
+  [MOVEMENT] B:Miserere Column Covenant Levies 4 3,4 -> 6,6
+  [MOVEMENT] A:Scorpion Shields Legionnaire Squad #2 7,12 -> 10,12
+  [MOVEMENT] B:Miserere Column Covenant Levies 2 4,5 -> 7,5
+  [MOVEMENT] A:Scorpion Shields Praetorian Strikers 1 + Praetorian Tribune 1 2,6 -> 5,7 (charge)
+  [MOVEMENT] B:Miserere Column Knight-Apostle Squad + Cain - The First Penitent 2,4 -> 1,7 (charge)
+  [MOVEMENT] A:Scorpion Shields Praetorian Strikers 2 2,7 -> 4,5
+  [MOVEMENT] B:Miserere Column Covenant Levies 1 + Cantor-Preceptor 7,6 -> 8,6
+  [MOVEMENT] A:Scorpion Shields Praetorian Gunners 2 8,8 -> 6,8
+  [MOVEMENT] B:Miserere Column Jordanite Hospitallers 0,6 -> 1,8
+  [MOVEMENT] A:Scorpion Shields Praetorian Gunners 1 + Praetorian Tribune 2 7,8 -> 6,7 (charge)
+  [MOVEMENT] B:Miserere Column Covenant Levies 5 13,6 -> 10,6
+  [MOVEMENT] B:Miserere Column Golgothic Paladins 12,7 -> 12,8 (charge)
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Miserere Column Covenant Levies 5 -> Legionnaire Squad: no damage
+  [ACTION] melee: A:Scorpion Shields Praetorian Strikers 1 -> Covenant Levies 4: Covenant Levies 4 -14
+  [ACTION] melee: A:Scorpion Shields Praetorian Gunners 1 -> Covenant Levies 4: Covenant Levies 4 -6 DESTROYED
+  [ACTION] magic (Gloria): B:Miserere Column Cantor-Preceptor -> Covenant Levies 2: no damage
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 2 -> Cantor-Preceptor: Cantor-Preceptor -4 DESTROYED, Covenant Levies 1 -2 DESTROYED
+  [ACTION] melee: B:Miserere Column Golgothic Paladins -> Legionnaire Squad: Legionnaire Squad -5
+  [ACTION] ranged: B:Miserere Column Covenant Levies 2 -> Praetorian Strikers 1: Praetorian Strikers 1 -2
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Praetorian Tribune 1 (best: ability Bane of Usurper, 0), B:HQ (no legal action), B:Covenant Levies 5 (no legal action)
+Moves undone:
+  A:Scorpion Shields Praetorian Gunners 2: R2 MOVEMENT 6,8 -> 8,8, R3 MOVEMENT -> 6,8 (back beside its start; toward the objective at 13,7, then away, 2 squares lost)
+  B:Miserere Column Covenant Levies 2: R2 MOVEMENT 7,6 -> 4,5, R3 MOVEMENT -> 7,5 (back beside its start; toward the objective at 1,7, then away, 3 squares lost)
+  B:Miserere Column Covenant Levies 4: R2 MOVEMENT 6,4 -> 3,4, R3 MOVEMENT -> 6,6 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Scorpion Shields Troop Requisition on (7,12): paid off - placed Legionnaire Squad #2; the unit it placed made 1 attack(s), 0 HP off
+  [COMMAND] B:Miserere Column Double Time on Covenant Levies 4: paid off - gave Covenant Levies 4: MOVE +2; 4 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Miserere Column Rally Cry on Covenant Levies 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Miserere Column Retribution: nothing - no change
+  [ACTION] B:Miserere Column Gloria on Covenant Levies 2: paid off - gave Covenant Levies 2: BS +1, MS +1; set the Antiphon gloria on Covenant Levies 2; 1 attack(s) it touched: +0.78 expected HP for its side
+  [ACTION] B:Miserere Column Go to Ground on Cantor-Preceptor: paid off - 1 attack(s) it touched: +0.49 expected HP for its side
+  [ACTION] B:Miserere Column Reprieve: paid off - gave Cantor-Preceptor: SPECIAL_SAVE +5; 1 attack(s) it touched: +0.07 expected HP for its side; healed 2 HP
+Passive rules:
+  Resonant Mitre (Cantor-Preceptor): 1 attack, 0.15 expected HP for its side
+Scored by:
+  B:Miserere Column missions COORDINATED PUSH 2 VP: Knight-Apostle Squad 0.3, Covenant Levies 1 0.3, Covenant Levies 2 0.3, Jordanite Hospitallers 0.3, Golgothic Paladins 0.3, Covenant Levies 4 0.3, Covenant Levies 5 0.3 (actors)
+  A:Scorpion Shields objectives (7,7) 3 VP: Praetorian Tribune 2 1.0, Praetorian Gunners 1 1.0, Praetorian Gunners 2 1.0
+  B:Miserere Column objectives (1,7) 2 VP: Cain - The First Penitent 0.7, Knight-Apostle Squad 0.7, Jordanite Hospitallers 0.7
+  B:Miserere Column objectives (13,7) 2 VP: Golgothic Paladins 2.0; hinged on Golgothic Paladins
+  B:Miserere Column primary LEAD FROM THE FRONT 3 VP: Cantor-Preceptor 1.3, Cain - The First Penitent 0.8, Knight-Apostle Squad 0.8
+  A:Scorpion Shields missions TAKE UP THE GAUNTLET 3 VP: Praetorian Tribune 2 1.0, Praetorian Gunners 1 1.0, Praetorian Gunners 2 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] Player B picks mission: COORDINATED PUSH
+  [COMMAND] HQ Command: Troop Requisition -> iron_imperium:legionnaire_squad (cost 5 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Covenant Levies 4 (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Covenant Levies 1
+  [MOVEMENT] [Covenant Levies 5] Overwatch Reaction vs Legionnaire Squad: no damage
+  [MOVEMENT] [Praetorian Strikers 2] Fall Back to (4,5)
+  [MOVEMENT] MISSION COMPLETE: "COORDINATED PUSH" -> Player B +2 VP +1 CP!
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Covenant Levies 4 DESTROYED in melee!
+  [ACTION] Cantor-Preceptor casts Gloria on Covenant Levies 2
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Cantor-Preceptor
+  [ACTION]   Levy Elder destroyed
+  [ACTION]   Cantor-Preceptor destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Praetorian Striker destroyed
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player B scores 3 VP (7/10)
+  [CLEANUP] MISSION COMPLETE: "TAKE UP THE GAUNTLET" -> Player A +3 VP!
+  [CLEANUP] Pietas: Player A completed an Act of Pietas, but A friendly unit made a Fall Back move prevented advancement
+
+=== BATTLE ROUND 4 ===
+A:Scorpion Shields: VP +0 (obj 0, primary 0, missions 0) = 20; CP +3 -2 holds 1 [2 Rally cry (reaction) for Legionnaire Squad]
+B:Miserere Column: VP +6 (obj 4, primary 0, missions 2) = 33; CP +4 -3 holds 2 [3 Countercharge (reaction) for Knight-Apostle Squad]
+  mana: +2 -0 holds 12
+A:Scorpion Shields keeps mission PUSH FORWARD (offered PUSH FORWARD / FORWARD DEPLOYMENT)
+B:Miserere Column keeps mission SECURE THE FLANKS (offered SECURE THE FLANKS / MAN OF THE HOUR)
+A:Scorpion Shields mission FIRE FOR EFFECT: expired
+B:Miserere Column mission SECURE THE FLANKS: completed
+Moves:
+  [MOVEMENT] B:Miserere Column Covenant Levies 2 7,5 -> 8,7
+  [MOVEMENT] B:Miserere Column Knight-Apostle Squad + Cain - The First Penitent 1,7 -> 4,6 (charge)
+  [MOVEMENT] B:Miserere Column Covenant Levies 5 10,6 -> 8,8
+  [MOVEMENT] A:Scorpion Shields Praetorian Strikers 2 4,5 -> 1,4
+  [MOVEMENT] B:Miserere Column Cantor-Preceptor 8,6 -> 7,8 (charge)
+  [MOVEMENT] A:Scorpion Shields Legionnaire Squad #2 10,12 -> 10,9
+  [MOVEMENT] A:Scorpion Shields Legionnaire Squad 12,9 -> 10,10
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Legionnaire Squad: Legionnaire Squad -1
+  [ACTION] melee: B:Miserere Column Knight-Apostle Squad -> Praetorian Strikers 1: Praetorian Strikers 1 -5 DESTROYED, Knight-Apostle Squad -4
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 1 -> Cantor-Preceptor: Cantor-Preceptor -4 DESTROYED
+  [ACTION] ranged: A:Scorpion Shields Praetorian Gunners 2 -> Covenant Levies 2: Covenant Levies 2 -9
+  [ACTION] melee: B:Miserere Column Cain - The First Penitent -> Praetorian Tribune 1: Praetorian Tribune 1 -6 DESTROYED
+  [ACTION] ranged: A:Scorpion Shields Legionnaire Squad #2 -> Golgothic Paladins: no damage
+  [ACTION] ranged: B:Miserere Column Covenant Levies 5 -> Praetorian Gunners 1: Praetorian Gunners 1 -3
+  [ACTION] ranged: A:Scorpion Shields Praetorian Tribune 2 -> Covenant Levies 5: no damage
+  [ACTION] ranged: B:Miserere Column Covenant Levies 2 -> Praetorian Gunners 2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] B:Miserere Column Benediction on Cantor-Preceptor: paid off - healed 2 HP
+  [COMMAND] A:Scorpion Shields Rally Cry on Legionnaire Squad: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] B:Miserere Column Countercharge on Knight-Apostle Squad: paid off - canceled the CHARGE of Praetorian Strikers 1
+  [ACTION] A:Scorpion Shields Raking Bursts on Cantor-Preceptor: paid off - its effect took 4 HP off enemies
+  [ACTION] B:Miserere Column Fortitude on Golgothic Paladins: paid off - 1 attack(s) it touched: +1.08 expected HP for its side
+Passive rules:
+  Prophetic Vision (Knight-Apostle Squad): 1 attack, 0.4 expected HP for its side
+  PERFORATED BARREL SLEEVE (Praetorian Gunners 1): 1 attack, 0.04 expected HP for its side
+  Resonant Mitre (Cantor-Preceptor): 1 attack, 0.07 expected HP for its side
+  Primeval Murderer (Cain - The First Penitent): 1 attack, 0.71 expected HP for its side
+  Imperii Aegis (Praetorian Tribune 1): 1 attack, 0.81 expected HP for its side
+  EVASION (Knight-Apostle Squad, 6+): 0 of 4 hits turned away
+Scored by:
+  B:Miserere Column objectives (1,7) 2 VP: Jordanite Hospitallers 2.0; hinged on Jordanite Hospitallers
+  B:Miserere Column objectives (13,7) 2 VP: Golgothic Paladins 2.0; hinged on Golgothic Paladins
+  B:Miserere Column missions SECURE THE FLANKS 2 VP: Jordanite Hospitallers 1.0, Golgothic Paladins 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: PUSH FORWARD
+  [COMMAND] Player B picks mission: SECURE THE FLANKS
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Legionnaire Squad
+  [MOVEMENT] REACTION COMMAND: COUNTERCHARGE via Cain - The First Penitent (cost 3 CP) - Knight-Apostle Squad
+  [MOVEMENT] Knight-Apostle Squad COUNTERCHARGES Praetorian Strikers 1
+  [MOVEMENT] [Praetorian Strikers 2] Fall Back to (1,4)
+  [MOVEMENT] [Legionnaire Squad] Fall Back to (10,10)
+  [ACTION]   Praetorian Striker destroyed
+  [ACTION]   Decanus destroyed
+  [ACTION]   Praetorian Strikers 1 DESTROYED in melee!
+  [ACTION]   Praetorian Strikers 1 was destroyed - no counterattack
+  [ACTION]   Knight-Apostle destroyed
+  [ACTION] Praetorian Gunners 1 uses Raking Bursts!
+  [ACTION]   Cantor-Preceptor destroyed
+  [ACTION]   Cantor-Preceptor DESTROYED
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Praetorian Tribune destroyed
+  [ACTION]   Praetorian Tribune 1 DESTROYED in melee!
+  [ACTION]   Praetorian Gunner destroyed
+  [CLEANUP] MISSION COMPLETE: "SECURE THE FLANKS" -> Player B +2 VP +1 CP!
+  [CLEANUP] Mission "FIRE FOR EFFECT" EXPIRED (R4)
+
+Damage leaders:
+  A:Scorpion Shields Praetorian Gunners 2: 39 damage, 1 kills, 35 RP, 1.11/RP
+  A:Scorpion Shields Praetorian Strikers 1: 34 damage, 1 kills, 40 RP, 0.85/RP (destroyed)
+  A:Scorpion Shields Praetorian Gunners 1: 30 damage, 3 kills, 40 RP, 0.75/RP
+  B:Miserere Column Golgothic Paladins: 14 damage, 1 kills, 60 RP, 0.23/RP
+  B:Miserere Column Cain - The First Penitent: 6 damage, 1 kills, 65 RP, 0.09/RP
+  B:Miserere Column Knight-Apostle Squad: 5 damage, 1 kills, 35 RP, 0.14/RP
+  B:Miserere Column Covenant Levies 2: 5 damage, 0 kills, 10 RP, 0.50/RP
+  A:Scorpion Shields Praetorian Tribune 1: 4 damage, 0 kills, 35 RP, 0.11/RP (destroyed)
+  B:Miserere Column Covenant Levies 5: 3 damage, 0 kills, 10 RP, 0.30/RP
+  B:Miserere Column Covenant Levies 3: 1 damage, 0 kills, 10 RP, 0.10/RP (destroyed)
+  B:Miserere Column Covenant Levies 4: 1 damage, 0 kills, 10 RP, 0.10/RP (destroyed)
+  A:Scorpion Shields Praetorian Tribune 2: 1 damage, 0 kills, 30 RP, 0.03/RP
+VP contributed (fair share; objective VP that hinged on it):
+  B:Miserere Column Golgothic Paladins: 7.9 VP (obj 6.0, primary 0.0, missions 1.9), hinged 4, 13.1/100 RP
+  B:Miserere Column Jordanite Hospitallers: 5.2 VP (obj 2.7, primary 0.0, missions 2.5), hinged 2, 34.4/100 RP
+  A:Scorpion Shields Praetorian Gunners 1: 5.1 VP (obj 2.5, primary 1.2, missions 1.4), hinged 0, 12.7/100 RP
+  A:Scorpion Shields Praetorian Gunners 2: 5.1 VP (obj 2.5, primary 1.2, missions 1.4), hinged 0, 14.6/100 RP
+  B:Miserere Column Covenant Levies 1: 4.5 VP (obj 1.0, primary 2.0, missions 1.5), hinged 3, 45.4/100 RP
+  B:Miserere Column Cantor-Preceptor: 4.5 VP (obj 0.0, primary 3.3, missions 1.2), hinged 0, 21.6/100 RP
+  A:Scorpion Shields Praetorian Tribune 2: 3.6 VP (obj 1.0, primary 1.2, missions 1.4), hinged 0, 12.0/100 RP
+  A:Scorpion Shields Praetorian Strikers 2: 3.0 VP (obj 3.0, primary 0.0, missions 0.0), hinged 2, 8.6/100 RP
+  B:Miserere Column Covenant Levies 5: 2.9 VP (obj 2.0, primary 0.0, missions 0.9), hinged 0, 28.9/100 RP
+  B:Miserere Column HQ: 2.0 VP (obj 0.0, primary 0.0, missions 2.0), hinged 0, -/100 RP
+  B:Miserere Column Knight-Apostle Squad: 1.8 VP (obj 0.7, primary 0.8, missions 0.3), hinged 0, 5.1/100 RP
+  A:Scorpion Shields Praetorian Strikers 1: 1.6 VP (obj 1.0, primary 0.2, missions 0.4), hinged 0, 4.0/100 RP
+  B:Miserere Column Cain - The First Penitent: 1.5 VP (obj 0.7, primary 0.8, missions 0.0), hinged 0, 2.3/100 RP
+  B:Miserere Column Covenant Levies 2: 1.3 VP (obj 1.0, primary 0.0, missions 0.3), hinged 3, 13.4/100 RP
+  B:Miserere Column Covenant Levies: 1.1 VP (obj 1.0, primary 0.0, missions 0.1), hinged 3, 10.5/100 RP
+  A:Scorpion Shields Praetorian Fireteam: 1.0 VP (obj 0.0, primary 1.0, missions 0.0), hinged 0, 2.9/100 RP
+  A:Scorpion Shields Legionnaire Squad: 0.4 VP (obj 0.0, primary 0.0, missions 0.4), hinged 0, 2.0/100 RP
+  B:Miserere Column Covenant Levies 4: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 2.9/100 RP
+  A:Scorpion Shields Praetorian Tribune 1: 0.2 VP (obj 0.0, primary 0.2, missions 0.0), hinged 0, 0.6/100 RP
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  B:Miserere Column Covenant Levies 3: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/0/0
+  B:Miserere Column Covenant Levies 4: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/1/0/0/0
+  B:Miserere Column Cain - The First Penitent: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/1/0/1
+  B:Miserere Column Knight-Apostle Squad: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/1/0/0/1
+  A:Scorpion Shields Praetorian Tribune 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0/2
+  B:Miserere Column Covenant Levies 5: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/1/0/0/0/3
+  B:Miserere Column Covenant Levies: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/0/1
+  A:Scorpion Shields Legionnaire Squad #2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0/0
+  A:Scorpion Shields Legionnaire Squad: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/1/1/0/0/0
+  A:Scorpion Shields Praetorian Fireteam: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/0/1
+  A:Scorpion Shields Praetorian Strikers 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/2/0/0/2
+  A:Scorpion Shields Praetorian Strikers 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 2/0/0/0/0/2
+  B:Miserere Column Cantor-Preceptor: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/2/3
+  B:Miserere Column Jordanite Hospitallers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/0/0/0/4
+  A:Scorpion Shields Praetorian Tribune 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/2/0/0/0/4
+  B:Miserere Column Golgothic Paladins: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/3/0/0/4
+  A:Scorpion Shields Praetorian Gunners 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/3/1/0/0/4
+  A:Scorpion Shields Praetorian Gunners 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/4/0/0/0/4
+  B:Miserere Column Covenant Levies 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/1/0/0/0/2
+  B:Miserere Column Covenant Levies 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/3/0/0/0/2
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 5
+  B:Miserere Column Covenant Levies 2: 2 of 4 moves (1 back, 2 away from an objective), 6 squares lost
+  B:Miserere Column Covenant Levies 4: 2 of 3 moves (0 back, 2 away from an objective), 5 squares lost
+  A:Scorpion Shields Praetorian Gunners 2: 1 of 3 moves (1 back, 1 away from an objective), 2 squares lost
+Secondary missions:
+  A:Scorpion Shields FOCUSED FIRE (+2 VP): kept R1, completed R2 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Scorpion Shields FIRE FOR EFFECT (+2 VP): kept R2, expired R4 - Damage an enemy unit you hold at Intel Level 2 or higher (MARKED or DESIGNATED).
+  A:Scorpion Shields TAKE UP THE GAUNTLET (+3 VP): kept R3, completed R3 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  A:Scorpion Shields PUSH FORWARD (+2 VP): kept R4, active - In a single Movement Phase, have at least 2 friendly units use the Advance action and end it in the enemy half of the battlefield.
+  B:Miserere Column DEEP REACH (+3 VP): kept R1, completed R1 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Miserere Column OMNIPRESENCE (+4 VP): kept R2, completed R2 - Maintain a minimum of 2 OC on every Objective.
+  B:Miserere Column COORDINATED PUSH (+2 VP): kept R3, completed R3 - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  B:Miserere Column SECURE THE FLANKS (+2 VP): kept R4, completed R4 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.

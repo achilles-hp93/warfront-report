@@ -1,0 +1,91 @@
+{
+ "attacks": [
+  {
+   "name": "Omen of War",
+   "ability": "omen_of_war",
+   "player": 0,
+   "army": "Summer Rade",
+   "owners": [
+    "Wild Hunt Riders"
+   ],
+   "attacks": 1,
+   "added": 2.5,
+   "prevented": 0,
+   "total": 2.5
+  },
+  {
+   "name": "Vanishing Elf-Shot",
+   "ability": "vanishing_elf_shot",
+   "player": 0,
+   "army": "Summer Rade",
+   "owners": [
+    "Blackflint Archers"
+   ],
+   "attacks": 2,
+   "added": 1.03,
+   "prevented": 0,
+   "total": 1.03
+  },
+  {
+   "name": "The King's Wager",
+   "ability": "the_kings_wager",
+   "player": 0,
+   "army": "Summer Rade",
+   "owners": [
+    "High King Finvarra"
+   ],
+   "attacks": 1,
+   "added": 0,
+   "prevented": 0.67,
+   "total": 0.67
+  },
+  {
+   "name": "Ceo Druidechta",
+   "ability": "ceo_druidechta",
+   "player": 0,
+   "army": "Summer Rade",
+   "owners": [
+    "Moonless Veilblades"
+   ],
+   "attacks": 3,
+   "added": 0,
+   "prevented": 0.5,
+   "total": 0.5
+  },
+  {
+   "name": "Warden of the Caucasus",
+   "ability": "warden_of_the_caucasus",
+   "player": 1,
+   "army": "Vigil of Masis",
+   "owners": [
+    "Andranik Ozanian"
+   ],
+   "attacks": 11,
+   "added": 0,
+   "prevented": 2.77,
+   "total": 2.77
+  }
+ ],
+ "stilled": [],
+ "move": [],
+ "reach": []
+}
+--- by round
+R2
+  Warden of the Caucasus (Andranik Ozanian): 5 attacks, 1.4 expected HP for its side
+R3
+  Omen of War (Wild Hunt Riders): 1 attack, 2.5 expected HP for its side
+  Ceo Druidechta (Moonless Veilblades): 1 attack, 0.19 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.64 expected HP for its side
+  Warden of the Caucasus (Andranik Ozanian): 1 attack, 0.11 expected HP for its side
+R4
+  Warden of the Caucasus (Andranik Ozanian): 1 attack, 0.01 expected HP for its side
+R5
+  Ceo Druidechta (Moonless Veilblades): 1 attack, 0.22 expected HP for its side
+  Warden of the Caucasus (Andranik Ozanian): 1 attack, 0.37 expected HP for its side
+R6
+  Ceo Druidechta (Moonless Veilblades): 1 attack, 0.09 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.39 expected HP for its side
+  Warden of the Caucasus (Andranik Ozanian): 3 attacks, 0.88 expected HP for its side
+  The King's Wager (High King Finvarra): 1 attack, 0.67 expected HP for its side
+--- heals []

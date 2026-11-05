@@ -1,0 +1,19 @@
+A joined pair's FALL BACK spends 1 APt of each unit
+
+The user's ruling (2026-10-30): "yeah fall back is a pair action". fallBack spent the
+squad's APt only, so the CHARACTER kept its own: the Master of Coin fired his Gilded
+Machine Gun after his pair fell back (Champion League D1-M08 R3, the first check run).
+spendFallBackAPt spends 1 APt of each unit of the footprint, each keeping its own when
+fallBackKeepsAPt holds for it; the Hooked Hafts failure costs both. A unit at 0 APt
+still uses a FREE weapon or a QUICK ability, as before.
+
+AI: the charge on a pair that would Fall Back counts both units' denied shot
+(_aiChargeLeavingParts); a pair's Fall Back opens shots as one (fall_back_fire.js: its
+CHARACTER no longer shields the enemy it leaves with its squad, nor counts as a shooter).
+The Fall Back square's score never counted the CHARACTER's fire, so the weighing already
+priced its action as lost (comment).
+
+Tests: joined_units/030 (the pair's Fall Back), ai/145 (a pair leaving opens the shot).
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

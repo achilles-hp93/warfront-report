@@ -1,0 +1,400 @@
+Knights of Camelot (A, british_liberation_front) vs Cosán Sí Host (B, grand_duchy_of_albion) on CROSSROADS, seed 460703109
+Result: B:Cosán Sí Host wins (VP) in round 5, VP 18 / 33
+Initiative: A:Knights of Camelot; formation order [1,0]
+Army A:Knights of Camelot (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Merlin - Wizard of Avalon - 60 RP, 1 models, 8 HP, leads Knight-Excisors, Marshal
+  Knight-Banneret - 33 RP, 1 models, 8 HP, leads Knight-Ascendants
+  Knight-Ascendants - 48 RP, 3 models, 12 HP, led by Knight-Banneret
+  Knight-Excisors - 49 RP, 3 models, 12 HP, led by Merlin - Wizard of Avalon
+  Knight-Scourgers - 45 RP, 3 models, 12 HP
+  Parish Militia - 13 RP, 10 models, 20 HP
+Army B:Cosán Sí Host (246 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Waymarshal - 50 RP, 1 models, 6 HP, leads Sidhe Wardens 1, Marshal
+  Sidhe Wardens 1 - 17 RP, 5 models, 5 HP, led by Waymarshal
+  Sidhe Druid - 18 RP, 1 models, 3 HP, leads Sidhe Wardens 2
+  Sidhe Wardens 2 - 17 RP, 5 models, 5 HP, led by Sidhe Druid
+  Blackflint Archers - 30 RP, 5 models, 5 HP
+  Barghest - 30 RP, 1 models, 7 HP
+  Coblynau Sappers 1 - 12 RP, 3 models, 6 HP
+  Coblynau Sappers 2 - 12 RP, 3 models, 6 HP
+  Rootwall Dryads 1 - 30 RP, 3 models, 18 HP
+  Rootwall Dryads 2 - 30 RP, 3 models, 18 HP
+Primary A:Knights of Camelot: GARRISON DUTY - At the end of each Battle Round, score 1 VP for each friendly unit in an Objective Area that neither moved nor attacked during that Battle Round, up to 3 VP.
+  hand: SILENT MANEUVER (does not fit), RAISE THE STANDARD, GARRISON DUTY; picked garrison_duty
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 0 (count 0), R4 0 (count 0), R5 0 (count 0); total 0
+Primary B:Cosán Sí Host: IMPENETRABLE FORTRESS - From the second Battle Round, at the end of each Battle Round, score 1 VP for every 2 friendly units outside your deployment zone that are neither Below Half-Strength nor SUPPRESSED, up to 3 VP.
+  hand: IMPENETRABLE FORTRESS, WIDE SWEEP, RECONNAISSANCE OPERATION (does not fit); picked impenetrable_fortress
+  scored per round: R1 0 (count 8), R2 3 (count 7), R3 2 (count 5), R4 3 (count 6), R5 2 (count 5); total 10
+
+=== BATTLE ROUND 1 ===
+A:Knights of Camelot: VP +0 (obj 0, primary 0, missions 0) = 0; CP +3 -0 holds 3
+  gatescroll: +1 -0 holds 4
+  mana: +2 -0 holds 2
+B:Cosán Sí Host: VP +6 (obj 3, primary 0, missions 3) = 6; CP +2 -0 holds 2
+A:Knights of Camelot keeps mission DEEP REACH (offered VIGILANT WATCH / DEEP REACH)
+B:Cosán Sí Host keeps mission TERRITORIAL SUPERIORITY (offered COMMAND AUTHORITY / TERRITORIAL SUPERIORITY)
+B:Cosán Sí Host mission TERRITORIAL SUPERIORITY: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 3,12 -> 4,10 (advance)
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 1 11,2 -> 8,6 (advance)
+  [MOVEMENT] A:Knights of Camelot Parish Militia 9,12 -> 8,8 (advance)
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 2 4,2 -> 1,5 (advance)
+  [MOVEMENT] A:Knights of Camelot Knight-Scourgers 4,12 -> 4,9
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 3,1 -> 3,4 (advance)
+  [MOVEMENT] A:Knights of Camelot Knight-Excisors + Merlin - Wizard of Avalon 5,12 -> 5,11
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 5,1 -> 5,4 (advance)
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 1 + Waymarshal 7,2 -> 6,8 (advance)
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 2 + Sidhe Druid 9,2 -> 1,4 (advance)
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 5,2 -> 2,5
+  [MOVEMENT] B:Cosán Sí Host Barghest 9,1 -> 8,5 (advance)
+Combat:
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Parish Militia: Parish Militia -8
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Knight-Banneret (no legal action), A:Knight-Ascendants (no legal action), A:Knight-Excisors (no legal action), A:Knight-Scourgers (no legal action), A:Parish Militia (no legal action), B:HQ (no legal action), B:Waymarshal (no legal action), B:Sidhe Wardens 1 (no legal action), B:Sidhe Druid (no legal action), B:Sidhe Wardens 2 (no legal action), B:Barghest (no legal action), B:Coblynau Sappers 1 (no legal action), B:Coblynau Sappers 2 (no legal action), B:Rootwall Dryads 1 (no legal action), B:Rootwall Dryads 2 (no legal action)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Stone: nothing - made stone active; 13 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 2 times (add_resource)
+Scored by:
+  B:Cosán Sí Host objectives (7,7) 3 VP: Sidhe Wardens 1 3.0; hinged on Sidhe Wardens 1
+  B:Cosán Sí Host missions TERRITORIAL SUPERIORITY 3 VP: Sidhe Wardens 1 3.0
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A GARRISON DUTY, Player B IMPENETRABLE FORTRESS
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: TERRITORIAL SUPERIORITY
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player B +3 VP!
+
+=== BATTLE ROUND 2 ===
+A:Knights of Camelot: VP +6 (obj 3, primary 0, missions 3) = 6; CP +3 -5 holds 1 [2 Double Time → Knight-Scourgers; 2 Rally cry (reaction) for Parish Militia; 1 Go to ground (reaction) for Merlin - Wizard of Avalon]
+  mana: +6 -0 holds 8
+B:Cosán Sí Host: VP +5 (obj 2, primary 3, missions 0) = 11; CP +2 -3 holds 1 [3 Secure Objective → Sidhe Wardens 1]
+  mana: +2 -0 holds 2
+A:Knights of Camelot keeps mission BREAK CONTACT (offered FORWARD DEPLOYMENT / BREAK CONTACT)
+B:Cosán Sí Host keeps mission PROBING STRIKE (offered LAST STAND / PROBING STRIKE)
+A:Knights of Camelot mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Knight-Scourgers 4,9 -> 6,6
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 2 1,5 -> 5,8 (advance)
+  [MOVEMENT] A:Knights of Camelot Knight-Excisors + Merlin - Wizard of Avalon 5,11 -> 7,10
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 3,4 -> 4,4
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 4,10 -> 5,9 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 5,4 -> 3,5
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 2 + Sidhe Druid 1,4 -> 6,3
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 2,5 -> 1,8
+  [MOVEMENT] B:Cosán Sí Host Barghest 8,5 -> 7,8 (charge)
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 1 8,6 -> 9,7 (charge)
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Cosán Sí Host Waymarshal -> Knight-Scourgers: no damage
+  [MOVEMENT] ranged (Overwatch): B:Cosán Sí Host Sidhe Wardens 1 -> Knight-Scourgers: no damage
+  [MOVEMENT] ranged (Overwatch): B:Cosán Sí Host Sidhe Wardens 2 -> Knight-Scourgers: Knight-Scourgers -1
+  [MOVEMENT] ranged (Overwatch): A:Knights of Camelot Knight-Scourgers -> Coblynau Sappers 2: Coblynau Sappers 2 -4
+  [ACTION] melee: A:Knights of Camelot Knight-Banneret -> Sidhe Wardens 1: Sidhe Wardens 1 -3
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Knight-Scourgers: Knight-Scourgers -7
+  [ACTION] melee: A:Knights of Camelot Knight-Ascendants -> Sidhe Wardens 1: Knight-Ascendants -2, Waymarshal -2, Sidhe Wardens 1 -2 DESTROYED
+  [ACTION] melee: B:Cosán Sí Host Barghest -> Parish Militia: Parish Militia -2
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 2 -> Merlin - Wizard of Avalon: no damage
+  [ACTION] melee: B:Cosán Sí Host Coblynau Sappers 1 -> Parish Militia: Parish Militia -1
+  [ACTION] effect (Burning): A:Knights of Camelot Knight-Scourgers -> Coblynau Sappers 2: Coblynau Sappers 2 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Knight-Excisors (no legal action), A:Knight-Scourgers (no legal action), B:HQ (no legal action), B:Coblynau Sappers 2 (no legal action), B:Rootwall Dryads 1 (no legal action), B:Rootwall Dryads 2 (no legal action)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Stone: nothing - made stone active; 12 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Double Time on Knight-Scourgers: paid off - gave Knight-Scourgers: MOVE +2; 5 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Cosán Sí Host Secure Objective on Sidhe Wardens 1: nothing - gave Waymarshal: OC +1; Sidhe Wardens 1: OC +1; 5 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Knights of Camelot Heroic Hour: paid off - gave Knight-Banneret: weapon AR +2, weapon DMG +1; 1 attack(s) it touched: +0.89 expected HP for its side
+  [ACTION] A:Knights of Camelot Rally Cry on Parish Militia: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Knights of Camelot Go to Ground on Merlin - Wizard of Avalon: paid off - 1 attack(s) it touched: +0.93 expected HP for its side
+Passive rules:
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.56 expected HP for its side
+  Supernatural Reflex (Knight-Ascendants): 2 attacks, 1.56 expected HP for its side
+  Spectral Stalk (Barghest): 1 attack, 0.83 expected HP for its side
+  Cambion Prophetic Sight (Merlin - Wizard of Avalon): 1 attack, 1.85 expected HP for its side
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 1 time (add_resource)
+  Fading Step (Sidhe Wardens 1): fired 1 time (grant_move)
+  Fading Step (Waymarshal): fired 2 times (grant_move)
+  Portent of Death (Barghest): fired 2 times (mod_stat, force_test)
+  EVASION (Sidhe Wardens 1, 5+): 2 of 11 hits turned away
+  EVASION (Knight-Ascendants, 6+): 0 of 1 hits turned away
+  EVASION (Merlin - Wizard of Avalon, 5+): 1 of 3 hits turned away
+Scored by:
+  A:Knights of Camelot objectives (7,7) 3 VP: Parish Militia 3.0; hinged on Parish Militia
+  B:Cosán Sí Host objectives (1,7) 2 VP: Blackflint Archers 2.0; hinged on Blackflint Archers
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 3 VP: Waymarshal 0.4, Blackflint Archers 0.4, Barghest 0.4, Coblynau Sappers 1 0.4, Rootwall Dryads 1 0.4, Rootwall Dryads 2 0.4, Sidhe Druid 0.2, Sidhe Wardens 2 0.2
+  A:Knights of Camelot missions DEEP REACH 3 VP: HQ 1.5, Parish Militia 1.5
+Key log lines:
+  [COMMAND] Player A picks mission: BREAK CONTACT
+  [COMMAND] Player B picks mission: PROBING STRIKE
+  [COMMAND] HQ Command: Double Time -> Knight-Scourgers (cost 2 CP) by Player A
+  [COMMAND] HQ Command: Secure Objective -> Sidhe Wardens 1 (cost 3 CP) by Player B
+  [MOVEMENT] [Waymarshal] Overwatch Reaction vs Knight-Scourgers: no damage
+  [MOVEMENT] [Sidhe Wardens 1] Overwatch Reaction vs Knight-Scourgers: no damage
+  [MOVEMENT] [Sidhe Wardens 2] Overwatch Reaction vs Knight-Scourgers: 1 damage
+  [MOVEMENT]   Coblyn destroyed
+  [MOVEMENT]   Coblyn destroyed
+  [MOVEMENT] [Knight-Scourgers] Overwatch Reaction vs Coblynau Sappers 2: 4 damage
+  [ACTION] Knight-Banneret uses Heroic Hour!
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Knight-Scourgers destroyed
+  [ACTION]   Knight-Scourgers destroyed
+  [ACTION]   Warden destroyed
+  [ACTION]   Warden-Captain destroyed
+  [ACTION]   Sidhe Wardens 1 DESTROYED in melee!
+  [ACTION]   Sidhe Wardens 1 was destroyed - no counterattack
+  [ACTION]   Parish Militia destroyed
+  [ACTION] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Parish Militia
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Merlin - Wizard of Avalon
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (3/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +3 VP!
+
+=== BATTLE ROUND 3 ===
+A:Knights of Camelot: VP +0 (obj 0, primary 0, missions 0) = 6; CP +3 -3 holds 1 [3 Secure Objective → Parish Militia]
+  mana: +1 -4 holds 5 [4 Cast Light of Dyrnwyn]
+B:Cosán Sí Host: VP +9 (obj 4, primary 2, missions 3) = 20; CP +2 -2 holds 1 [2 Rally cry (reaction) for Coblynau Sappers 2]
+A:Knights of Camelot keeps mission LAST STAND (offered TAKE UP THE GAUNTLET / LAST STAND)
+B:Cosán Sí Host keeps mission DEEP REACH (offered FIRE FOR EFFECT / DEEP REACH)
+B:Cosán Sí Host mission PROBING STRIKE: expired
+B:Cosán Sí Host mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Knight-Excisors + Merlin - Wizard of Avalon 7,10 -> 4,10
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 3,5 -> 2,7
+  [MOVEMENT] B:Cosán Sí Host Coblynau Sappers 1 9,7 -> 12,6
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 4,4 -> 5,5 (charge)
+  [MOVEMENT] B:Cosán Sí Host Sidhe Wardens 2 + Sidhe Druid 6,3 -> 8,6
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 1,8 -> 4,5
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Coblynau Sappers 2: Coblynau Sappers 2 -1 DESTROYED
+  [ACTION] magic (Light of Dyrnwyn): A:Knights of Camelot Merlin - Wizard of Avalon -> Knight-Ascendants: no damage
+  [ACTION] melee: B:Cosán Sí Host Barghest -> Parish Militia: Parish Militia -3
+  [ACTION] melee: A:Knights of Camelot Knight-Ascendants -> Waymarshal: Knight-Ascendants -4, Waymarshal -3
+  [ACTION] melee: B:Cosán Sí Host Rootwall Dryads 1 -> Knight-Scourgers: no damage
+  [ACTION] melee: A:Knights of Camelot Knight-Banneret -> Waymarshal: Waymarshal -1 DESTROYED
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Knight-Banneret: Knight-Ascendants -3
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Druid -> Knight-Ascendants: no damage
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 2 -> Knight-Banneret: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Knight-Excisors (no legal action), B:HQ (no legal action), B:Rootwall Dryads 2 (no legal action)
+Moves undone:
+  A:Knights of Camelot Knight-Excisors: R2 MOVEMENT 5,11 -> 7,10, R3 MOVEMENT -> 4,10 (back beside its start; toward the objective at 13,7, then away, 2 squares lost)
+  B:Cosán Sí Host Blackflint Archers: R2 MOVEMENT 2,5 -> 1,8, R3 MOVEMENT -> 4,5 (toward the objective at 1,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Water: nothing - made water active; 10 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Secure Objective on Parish Militia: nothing - gave Parish Militia: OC +1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Cosán Sí Host Rally Cry on Coblynau Sappers 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Knights of Camelot Light of Dyrnwyn on Knight-Ascendants: paid off - gave Knight-Banneret: weapons ABLAZE, weapon DMG +1, weapon AP +1; Knight-Ascendants: weapons ABLAZE, weapon DMG +1, weapon AP +1; 6 attack(s) it touched: +0.39 expected HP for its side
+Passive rules:
+  Spectral Stalk (Barghest): 1 attack, 0.33 expected HP for its side
+  Supernatural Reflex (Knight-Ascendants): 3 attacks, 0.72 expected HP for its side
+  Mantle of the Mound (Waymarshal): 2 attacks, 1.35 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.97 expected HP for its side
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 1 time (add_resource)
+  Portent of Death (Barghest): fired 2 times (mod_stat, force_test)
+  Fading Step (Waymarshal): fired 1 time (grant_move)
+  EVASION (Barghest, 4+): 1 of 1 hits turned away
+  EVASION (Knight-Ascendants, 6+): 0 of 4 hits turned away
+  EVASION (Waymarshal, 5+): 2 of 5 hits turned away
+Scored by:
+  B:Cosán Sí Host objectives (1,7) 2 VP: Rootwall Dryads 2 2.0; hinged on Rootwall Dryads 2
+  B:Cosán Sí Host objectives (13,7) 2 VP: Coblynau Sappers 1 2.0; hinged on Coblynau Sappers 1
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 2 VP: Blackflint Archers 0.4, Barghest 0.4, Coblynau Sappers 1 0.4, Rootwall Dryads 1 0.4, Rootwall Dryads 2 0.4
+  B:Cosán Sí Host missions DEEP REACH 3 VP: HQ 2.0, Coblynau Sappers 1 0.5, Rootwall Dryads 2 0.5
+Key log lines:
+  [COMMAND] Player A picks mission: LAST STAND
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Secure Objective -> Parish Militia (cost 3 CP) by Player A
+  [COMMAND] REACTION COMMAND: RALLY CRY via Waymarshal (cost 2 CP) - Coblynau Sappers 2
+  [MOVEMENT] [Coblynau Sappers 1] Fall Back to (12,6)
+  [MOVEMENT]   Knocker destroyed
+  [MOVEMENT] [Coblynau Sappers 2] breaks away in disorder: 2 True Damage, 1 HP lost, 1 model destroyed
+  [MOVEMENT] [Coblynau Sappers 2] was destroyed while attempting to FALL BACK
+  [ACTION] Merlin - Wizard of Avalon casts Light of Dyrnwyn on Knight-Ascendants
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Knight-Ascendants destroyed
+  [ACTION]   Waymarshal destroyed
+  [ACTION]   Waymarshal DESTROYED in melee!
+  [ACTION]   Knight-Ascendants destroyed
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 2 VP (5/10)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+  [CLEANUP] Mission "PROBING STRIKE" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Knights of Camelot: VP +4 (obj 2, primary 0, missions 2) = 10; CP +3 -4 holds 0 [2 Scouting Order → Knight-Scourgers; 2 Rally cry (reaction) for Knight-Ascendants]
+  mana: +1 -0 holds 6
+B:Cosán Sí Host: VP +8 (obj 5, primary 3, missions 0) = 28; CP +1 -2 holds 0 [2 Rally cry (reaction) for Sidhe Wardens 2]
+  mana: +0 -2 holds 0 [2 Cast Feth Fiada]
+A:Knights of Camelot keeps mission COMMAND AUTHORITY (offered MAN OF THE HOUR / COMMAND AUTHORITY)
+B:Cosán Sí Host keeps mission ASSASSINATION (offered ASSASSINATION / FORWARD DEPLOYMENT)
+A:Knights of Camelot mission BREAK CONTACT: expired
+A:Knights of Camelot mission COMMAND AUTHORITY: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Knight-Excisors + Merlin - Wizard of Avalon 4,10 -> 2,8 (charge)
+  [MOVEMENT] B:Cosán Sí Host Blackflint Archers 4,5 -> 1,6
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 5,9 -> 6,8 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 2,7 -> 0,6
+  [MOVEMENT] B:Cosán Sí Host Barghest 7,8 -> 4,8
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Rootwall Dryads 2: Rootwall Dryads 2 -2, Barghest -1
+  [ACTION] ranged: A:Knights of Camelot Merlin - Wizard of Avalon -> Rootwall Dryads 2: Rootwall Dryads 2 -6
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Parish Militia: Parish Militia -6 DESTROYED
+  [ACTION] ranged: A:Knights of Camelot Knight-Banneret -> Sidhe Wardens 2: no damage
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 2 -> Merlin - Wizard of Avalon: no damage
+  [ACTION] melee: A:Knights of Camelot Knight-Scourgers -> Rootwall Dryads 1: Rootwall Dryads 1 -1
+  [ACTION] magic (Feth Fiada): B:Cosán Sí Host Sidhe Druid -> Sidhe Wardens 2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Knight-Banneret, A:Knight-Ascendants (no legal action), A:Knight-Excisors (no legal action), B:HQ (no legal action), B:Coblynau Sappers 1 (best: ability Tunnel Burrow, 0.3)
+Moves undone:
+  B:Cosán Sí Host Blackflint Archers: R3 MOVEMENT 1,8 -> 4,5, R4 MOVEMENT -> 1,6 (toward the objective at 7,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Stone: nothing - made stone active; 6 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Scouting Order on Knight-Scourgers: paid off - gave Knight-Scourgers: PER +2; completed COMMAND AUTHORITY (+2 VP); 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Rally Cry on Knight-Ascendants: paid off - passed 1 Morale Test(s) outright
+  [COMMAND] B:Cosán Sí Host Rally Cry on Sidhe Wardens 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Cosán Sí Host Feth Fiada on Sidhe Wardens 2: nothing - put HIDDEN on Sidhe Druid, HIDDEN on Sidhe Wardens 2
+Passive rules:
+  Cambion Prophetic Sight (Merlin - Wizard of Avalon): 1 attack, 1.85 expected HP for its side
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 1 time (add_resource)
+  EVASION (Merlin - Wizard of Avalon, 5+): 5 of 8 hits turned away
+Scored by:
+  A:Knights of Camelot missions COMMAND AUTHORITY 2 VP: Knight-Scourgers 2.0 (event)
+  B:Cosán Sí Host objectives (7,7) 3 VP: Sidhe Druid 1.5, Sidhe Wardens 2 1.5; hinged on Sidhe Druid, Sidhe Wardens 2
+  A:Knights of Camelot objectives (1,7) 2 VP: Merlin - Wizard of Avalon 1.0, Knight-Excisors 1.0; hinged on Merlin - Wizard of Avalon, Knight-Excisors
+  B:Cosán Sí Host objectives (13,7) 2 VP: Coblynau Sappers 1 2.0; hinged on Coblynau Sappers 1
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 3 VP: Blackflint Archers 0.5, Barghest 0.5, Coblynau Sappers 1 0.5, Rootwall Dryads 1 0.5, Rootwall Dryads 2 0.5, Sidhe Druid 0.2, Sidhe Wardens 2 0.2
+Key log lines:
+  [COMMAND] Player A picks mission: COMMAND AUTHORITY
+  [COMMAND] Player B picks mission: ASSASSINATION
+  [COMMAND] HQ Command: Scouting Order -> Knight-Scourgers (cost 2 CP) by Player A
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player A +2 VP!
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Knight-Ascendants
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Sidhe Wardens 2
+  [MOVEMENT] [Rootwall Dryads 2] Fall Back to (0,6)
+  [MOVEMENT] [Barghest] Fall Back to (4,8)
+  [ACTION]   Rootwall Dryad destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia destroyed
+  [ACTION]   Parish Militia DESTROYED
+  [ACTION] Sidhe Druid casts Feth Fiada on Sidhe Wardens 2
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 3 VP (8/10)
+  [CLEANUP] Mission "BREAK CONTACT" EXPIRED (R4)
+
+=== BATTLE ROUND 5 ===
+A:Knights of Camelot: VP +8 (obj 5, primary 0, missions 3) = 18; CP +3 -3 holds 0 [3 Secure Objective → Knight-Banneret]
+  mana: +1 -0 holds 7
+B:Cosán Sí Host: VP +5 (obj 2, primary 2, missions 1) = 33; CP +2 -0 holds 2
+A:Knights of Camelot keeps mission KING OF THE HILL (offered KING OF THE HILL / IRON CURTAIN)
+B:Cosán Sí Host keeps mission STRONGPOINT (offered FOCUSED FIRE / STRONGPOINT)
+A:Knights of Camelot mission LAST STAND: completed
+B:Cosán Sí Host mission STRONGPOINT: completed
+Moves:
+  [MOVEMENT] A:Knights of Camelot Knight-Ascendants + Knight-Banneret 6,8 -> 7,8
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 1 5,5 -> 4,5
+  [MOVEMENT] B:Cosán Sí Host Barghest 4,8 -> 2,7 (charge)
+  [MOVEMENT] B:Cosán Sí Host Rootwall Dryads 2 0,6 -> 1,7 (charge)
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Rootwall Dryads 1: Rootwall Dryads 1 -3
+  [ACTION] melee: A:Knights of Camelot Merlin - Wizard of Avalon -> Rootwall Dryads 2: Rootwall Dryads 2 -6
+  [ACTION] ranged: B:Cosán Sí Host Blackflint Archers -> Knight-Banneret: Knight-Ascendants -3 DESTROYED
+  [ACTION] melee: A:Knights of Camelot Knight-Excisors -> Rootwall Dryads 2: Rootwall Dryads 2 -2
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Wardens 2 -> Knight-Banneret: Knight-Banneret -3
+  [ACTION] ranged: A:Knights of Camelot Knight-Banneret -> Sidhe Wardens 2: Sidhe Wardens 2 -1
+  [ACTION] melee: B:Cosán Sí Host Barghest -> Merlin - Wizard of Avalon: no damage
+  [ACTION] ranged: A:Knights of Camelot Knight-Scourgers -> Sidhe Wardens 2: no damage
+  [ACTION] ranged: B:Cosán Sí Host Sidhe Druid -> Knight-Banneret: Knight-Banneret -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Knight-Banneret, B:HQ (no legal action), B:Coblynau Sappers 1 (best: ability Tunnel Burrow, 0.3)
+Commands and abilities:
+  [COMMAND] B:Cosán Sí Host Flow of Magic: Surge: nothing - made surge active; 9 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Knights of Camelot Secure Objective on Knight-Banneret: paid off - gave Knight-Banneret: OC +1; 4 attack(s) it touched: +0 expected HP for its side; decided 6 objective VP
+Passive rules:
+  Cambion Prophetic Sight (Merlin - Wizard of Avalon): 2 attacks, 1.17 expected HP for its side
+  Vanishing Elf-Shot (Blackflint Archers): 1 attack, 0.97 expected HP for its side
+  Fairy Eyes (Blackflint Archers): 1 attack, 0.86 expected HP for its side
+  The Lady's Ward (Knight-Banneret): 2 attacks, 0.79 expected HP for its side
+  Archimagus Supremus (Merlin - Wizard of Avalon): fired 1 time (add_resource)
+  Fading Step (Sidhe Wardens 2): fired 2 times (grant_move)
+  Fading Step (Sidhe Druid): fired 2 times (grant_move)
+  EVASION (Sidhe Wardens 2, 5+): 0 of 2 hits turned away
+  EVASION (Merlin - Wizard of Avalon, 5+): 2 of 2 hits turned away
+Scored by:
+  A:Knights of Camelot objectives (7,7) 3 VP: Knight-Banneret 1.5, Knight-Scourgers 1.5; hinged on Knight-Banneret, Knight-Scourgers
+  A:Knights of Camelot objectives (1,7) 2 VP: Merlin - Wizard of Avalon 1.0, Knight-Excisors 1.0; hinged on Merlin - Wizard of Avalon, Knight-Excisors
+  B:Cosán Sí Host objectives (13,7) 2 VP: Coblynau Sappers 1 2.0; hinged on Coblynau Sappers 1
+  B:Cosán Sí Host primary IMPENETRABLE FORTRESS 2 VP: Blackflint Archers 0.4, Barghest 0.4, Coblynau Sappers 1 0.4, Rootwall Dryads 1 0.4, Sidhe Druid 0.2, Sidhe Wardens 2 0.2
+  A:Knights of Camelot missions LAST STAND 3 VP: Knight-Banneret 1.5, Knight-Scourgers 1.5
+  B:Cosán Sí Host missions STRONGPOINT 1 VP: Blackflint Archers 0.3, Barghest 0.3, Rootwall Dryads 2 0.3
+Key log lines:
+  [COMMAND] Player A picks mission: KING OF THE HILL
+  [COMMAND] Player B picks mission: STRONGPOINT
+  [COMMAND] HQ Command: Secure Objective -> Knight-Banneret (cost 3 CP) by Player A
+  [MOVEMENT] [Rootwall Dryads 1] Fall Back to (4,5)
+  [ACTION]   Rootwall Dryad destroyed
+  [ACTION]   Knight-Ascendants destroyed
+  [ACTION]   Warden destroyed
+  [CLEANUP] PRIMARY IMPENETRABLE FORTRESS: Player B scores 2 VP (10/10)
+  [CLEANUP] MISSION COMPLETE: "LAST STAND" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "STRONGPOINT" -> Player B +1 VP +1 CP!
+
+Damage leaders:
+  B:Cosán Sí Host Blackflint Archers: 27 damage, 2 kills, 30 RP, 0.90/RP
+  A:Knights of Camelot Merlin - Wizard of Avalon: 12 damage, 0 kills, 60 RP, 0.20/RP
+  A:Knights of Camelot Knight-Ascendants: 7 damage, 1 kills, 48 RP, 0.15/RP (destroyed)
+  A:Knights of Camelot Knight-Scourgers: 6 damage, 0 kills, 45 RP, 0.13/RP
+  B:Cosán Sí Host Waymarshal: 6 damage, 0 kills, 50 RP, 0.12/RP (destroyed)
+  A:Knights of Camelot Knight-Banneret: 5 damage, 1 kills, 33 RP, 0.15/RP
+  B:Cosán Sí Host Barghest: 5 damage, 0 kills, 30 RP, 0.17/RP
+  B:Cosán Sí Host Sidhe Wardens 2: 4 damage, 0 kills, 17 RP, 0.24/RP
+  A:Knights of Camelot Knight-Excisors: 2 damage, 0 kills, 49 RP, 0.04/RP
+  B:Cosán Sí Host Coblynau Sappers 1: 1 damage, 0 kills, 12 RP, 0.08/RP
+  B:Cosán Sí Host Sidhe Druid: 1 damage, 0 kills, 18 RP, 0.06/RP
+VP contributed (fair share; objective VP that hinged on it):
+  B:Cosán Sí Host Coblynau Sappers 1: 8.2 VP (obj 6.0, primary 1.7, missions 0.5), hinged 6, 68.7/100 RP
+  B:Cosán Sí Host Sidhe Wardens 1: 6.0 VP (obj 3.0, primary 0.0, missions 3.0), hinged 3, 35.3/100 RP
+  A:Knights of Camelot Knight-Scourgers: 5.0 VP (obj 1.5, primary 0.0, missions 3.5), hinged 3, 11.1/100 RP
+  A:Knights of Camelot Parish Militia: 4.5 VP (obj 3.0, primary 0.0, missions 1.5), hinged 3, 34.6/100 RP
+  B:Cosán Sí Host Rootwall Dryads 2: 4.2 VP (obj 2.0, primary 1.3, missions 0.8), hinged 2, 13.9/100 RP
+  B:Cosán Sí Host Blackflint Archers: 4.1 VP (obj 2.0, primary 1.7, missions 0.3), hinged 2, 13.6/100 RP
+  A:Knights of Camelot Knight-Banneret: 3.0 VP (obj 1.5, primary 0.0, missions 1.5), hinged 3, 9.1/100 RP
+  B:Cosán Sí Host Sidhe Druid: 2.1 VP (obj 1.5, primary 0.6, missions 0.0), hinged 3, 11.8/100 RP
+  B:Cosán Sí Host Sidhe Wardens 2: 2.1 VP (obj 1.5, primary 0.6, missions 0.0), hinged 3, 12.5/100 RP
+  B:Cosán Sí Host Barghest: 2.1 VP (obj 0.0, primary 1.7, missions 0.3), hinged 0, 6.9/100 RP
+  A:Knights of Camelot Knight-Excisors: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 4, 4.1/100 RP
+  A:Knights of Camelot Merlin - Wizard of Avalon: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 4, 3.3/100 RP
+  B:Cosán Sí Host HQ: 2.0 VP (obj 0.0, primary 0.0, missions 2.0), hinged 0, -/100 RP
+  B:Cosán Sí Host Rootwall Dryads 1: 1.7 VP (obj 0.0, primary 1.7, missions 0.0), hinged 0, 5.8/100 RP
+  A:Knights of Camelot HQ: 1.5 VP (obj 0.0, primary 0.0, missions 1.5), hinged 0, -/100 RP
+  B:Cosán Sí Host Waymarshal: 0.4 VP (obj 0.0, primary 0.4, missions 0.0), hinged 0, 0.9/100 RP
+Activity (inaction score; actions: movement/ranged/melee/ability/magic):
+  A:Knights of Camelot Knight-Excisors: inaction 4 (4 idle, 4 after moving, 0 Overwatch); actions 0/0/1/0/0
+  B:Cosán Sí Host Coblynau Sappers 1: inaction 3 (3 idle, 1 after moving, 0 Overwatch); actions 1/0/1/0/0
+  B:Cosán Sí Host Rootwall Dryads 2: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 1/0/1/0/0
+  A:Knights of Camelot Knight-Banneret: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 0/2/2/1/0
+  B:Cosán Sí Host Coblynau Sappers 2: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 1/0/0/0/0
+  A:Knights of Camelot Knight-Ascendants: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/2/0/0
+  B:Cosán Sí Host Rootwall Dryads 1: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 1/0/2/0/0
+  A:Knights of Camelot Knight-Scourgers: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/1/2/0/0
+  A:Knights of Camelot Parish Militia: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/0/0
+  B:Cosán Sí Host Barghest: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/0/3/0/0
+  B:Cosán Sí Host Sidhe Druid: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/2/0/0/2
+  B:Cosán Sí Host Sidhe Wardens 1: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/0/0/0/0
+  B:Cosán Sí Host Waymarshal: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/0/2/0/0
+  B:Cosán Sí Host Sidhe Wardens 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/4/0/0/0
+  B:Cosán Sí Host Blackflint Archers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/5/0/0/0
+  A:Knights of Camelot Merlin - Wizard of Avalon: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/1/0/3
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 3
+  B:Cosán Sí Host Blackflint Archers: 2 of 4 moves (0 back, 2 away from an objective), 6 squares lost
+  A:Knights of Camelot Knight-Excisors: 1 of 4 moves (1 back, 1 away from an objective), 2 squares lost
+Secondary missions:
+  A:Knights of Camelot DEEP REACH (+3 VP): kept R1, completed R2 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  A:Knights of Camelot BREAK CONTACT (+2 VP): kept R2, expired R4 - Have a friendly unit Fall Back from an enemy unit, then be alive and not ENGAGED at the end of that Battle Round.
+  A:Knights of Camelot LAST STAND (+3 VP): kept R3, completed R5 - At the end of a Battle Round, control an objective that has a friendly unit Below Half-Strength in its Objective Area.
+  A:Knights of Camelot COMMAND AUTHORITY (+2 VP): kept R4, completed R4 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  A:Knights of Camelot KING OF THE HILL (+3 VP): kept R5, active - Have a friendly unit in an Objective Area destroy an enemy unit.
+  B:Cosán Sí Host TERRITORIAL SUPERIORITY (+3 VP): kept R1, completed R1 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Cosán Sí Host PROBING STRIKE (+2 VP): kept R2, expired R3 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  B:Cosán Sí Host DEEP REACH (+3 VP): kept R3, completed R3 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Cosán Sí Host ASSASSINATION (+4 VP): kept R4, active - Destroy an enemy CHARACTER or MONSTER.
+  B:Cosán Sí Host STRONGPOINT (+1 VP): kept R5, completed R5 - Maintain at least 2 friendly units in an Objective Area at the end of a Battle Round.

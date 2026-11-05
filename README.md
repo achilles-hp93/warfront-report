@@ -17,6 +17,7 @@ linked below; the records here are what rebuilds them, and what a later batch is
 - `probes/2026-10-24/` - survival-weighted objectives: each unit's Round 1 objective survival under the first cut and the committed version (seed 960), the Assassin's moves on seed 950, and the probe scripts.
 - `notes/` - open decisions left for the user.
 - `research/` - background research (morale, fatigue and battle weariness in other games).
+- `champion-league/` - Champion League Season 1, Day 1: the 24 battles of the official league and of four check runs on newer builds (compressed records), the comparison and probe scripts, the agent briefs, the token-cost analysis scripts and the task history; its README says how to unpack and use them.
 - `index.json` - this table, machine-readable.
 
 A seed repeats a battle exactly on the engine that played it: `engine` is the game repo's last commit before

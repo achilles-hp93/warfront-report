@@ -1,0 +1,1349 @@
+Legio XIII (A, iron_imperium) vs Bailiffs of Petra (B, infernal_congregations) on CROSSROADS, seed 460703108
+Result: A:Legio XIII wins (VP) in round 6, VP 33 / 27
+Initiative: A:Legio XIII; formation order [1,0]
+Army A:Legio XIII (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Legatus - 50 RP, 1 models, 6 HP, leads Ironthunder Vanguard 1, Marshal
+  Ironthunder Vanguard 1 - 40 RP, 3 models, 12 HP, led by Legatus
+  Legionnaire Squad 1 - 20 RP, 5 models, 10 HP, led by Augur
+  Legionnaire Squad 2 - 20 RP, 5 models, 10 HP
+  Fulminator Squad - 20 RP, 3 models, 6 HP
+  Earthshaker Mortar - 30 RP, 1 models, 6 HP
+  Speculatores - 18 RP, 3 models, 6 HP
+  Ironthunder Vanguard 2 - 35 RP, 3 models, 12 HP
+  Augur - 17 RP, 1 models, 4 HP, leads Legionnaire Squad 1
+Army B:Bailiffs of Petra (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Chairman of the Chamber - 60 RP, 1 models, 12 HP, leads Rapacious Crusader 1, Marshal
+  Rapacious Crusader 1 - 30 RP, 3 models, 6 HP, led by The Chairman of the Chamber
+  Rapacious Crusader 2 - 30 RP, 3 models, 6 HP, led by Master of Coin
+  Master of Coin - 35 RP, 1 models, 8 HP, leads Rapacious Crusader 2
+  Stygian Actuary - 16 RP, 1 models, 6 HP, leads Rapacious Crusader 3
+  Cultist Troopers 1 - 10 RP, 10 models, 20 HP
+  Forsaken - 7 RP, 10 models, 10 HP
+  Rapacious Crusader 3 - 30 RP, 3 models, 6 HP, led by Stygian Actuary
+  Cultist Troopers 2 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 3 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 4 - 10 RP, 10 models, 20 HP
+Primary A:Legio XIII: COORDINATED SUPPRESSION - At the end of each Battle Round, score 1 VP for each SUPPRESSED enemy unit, up to 3 VP.
+  hand: COORDINATED SUPPRESSION, DEEP INFILTRATION (does not fit), DECAPITATION STRIKE; picked coordinated_suppression
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 2 (count 2), R4 2 (count 2), R5 2 (count 2), R6 3 (count 3); total 9
+Primary B:Bailiffs of Petra: RAISE THE STANDARD - After choosing this card, plant your standard on a square at least 3 squares from your deployment zone and from every objective, outside the enemy deployment zone. At the end of each Battle Round, score 1 VP if a friendly unit is within 1 square of the standard and no enemy unit is, or 2 VP if the standard stands in the enemy half. Score 1 VP more if you also held it at the end of the previous Battle Round. If an enemy unit is within 1 square of it and no friendly unit is at the end of a Battle Round, it is torn down for good.
+  hand: RECONNAISSANCE OPERATION (does not fit), DEEP INFILTRATION (does not fit), RAISE THE STANDARD; picked raise_the_standard
+  scored per round: R1 2 (count 2), R2 3 (count 2), R3 3 (count 2), R4 2 (count 2), R5 0 (count 0), R6 0 (count 2); total 10
+
+=== BATTLE ROUND 1 ===
+A:Legio XIII: VP +0 (obj 0, primary 0, missions 0) = 0; CP +2 -0 holds 2
+  pietas: +4 -0 holds 4
+B:Bailiffs of Petra: VP +7 (obj 5, primary 2, missions 0) = 7; CP +3 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+  mana: +10 -0 holds 10
+A:Legio XIII keeps mission BREAK CONTACT (offered COMMAND AUTHORITY / BREAK CONTACT)
+B:Bailiffs of Petra keeps mission FOCUSED FIRE (offered FORWARD PRESENCE / FOCUSED FIRE)
+Moves:
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 1 + Legatus 10,12 -> 10,9 (advance)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 2 10,2 -> 9,6 (advance)
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 2 8,12 -> 8,8 (advance)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 3 4,2 -> 4,6 (advance)
+  [MOVEMENT] A:Legio XIII Speculatores 7,12 -> 6,9
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 1 9,2 -> 6,7 (advance)
+  [MOVEMENT] A:Legio XIII Fulminator Squad 9,12 -> 9,10
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 4 6,2 -> 3,7 (advance)
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 1 + Augur 11,12 -> 9,9 (advance)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 8,2 -> 12,6 (advance)
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 2 3,12 -> 7,9 (advance)
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 1 + The Chairman of the Chamber 11,2 -> 7,6 (advance)
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 2 + Master of Coin 5,2 -> 8,6 (advance)
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 3 + Stygian Actuary 7,2 -> 4,5 (advance)
+  [MOVEMENT] B:Bailiffs of Petra Forsaken 3,2 -> 1,6 (advance)
+Combat:
+  [ACTION] ranged: A:Legio XIII Earthshaker Mortar -> Cultist Troopers 1: Cultist Troopers 1 -14
+  [ACTION] ranged: A:Legio XIII Speculatores -> Rapacious Crusader 1: The Chairman of the Chamber -3
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Legatus (no legal action), A:Ironthunder Vanguard 1 (no legal action), A:Legionnaire Squad 1 (no legal action), A:Legionnaire Squad 2 (no legal action), A:Fulminator Squad (no legal action), A:Ironthunder Vanguard 2 (no legal action), A:Augur (no legal action), B:HQ (no legal action), B:The Chairman of the Chamber (no legal action), B:Rapacious Crusader 1 (no legal action), B:Rapacious Crusader 2 (no legal action), B:Master of Coin (no legal action), B:Stygian Actuary (no legal action), B:Cultist Troopers 1 (no legal action), B:Forsaken (no legal action), B:Rapacious Crusader 3 (no legal action), B:Cultist Troopers 2 (no legal action), B:Cultist Troopers 3 (no legal action), B:Cultist Troopers 4 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Legio XIII Tactica: Tactica Mercurii: nothing - made mercurii active; 25 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Legio XIII Legion Master: nothing - no change
+  [COMMAND] B:Bailiffs of Petra Troop Requisition on (8,2): paid off - placed Cultist Troopers; the unit it placed scored 2 VP; the unit it placed drew 2 enemy attack(s), 20 HP
+Passive rules:
+  Slave To Cupidity (The Chairman of the Chamber): fired 1 time (mod_stat)
+  Slave To Cupidity (Rapacious Crusader 1): fired 1 time (mod_stat)
+  Slave To Cupidity (Rapacious Crusader 2): fired 1 time (mod_stat)
+  Slave To Cupidity (Master of Coin): fired 1 time (mod_stat)
+  Slave To Cupidity (Stygian Actuary): fired 1 time (mod_stat)
+  Slave To Cupidity (Cultist Troopers 1): fired 1 time (mod_stat)
+  Slave To Cupidity (Forsaken): fired 1 time (mod_stat)
+  Slave To Cupidity (Rapacious Crusader 3): fired 1 time (mod_stat)
+  Slave To Cupidity (Cultist Troopers 2): fired 1 time (mod_stat)
+  Slave To Cupidity (Cultist Troopers 3): fired 1 time (mod_stat)
+  Slave To Cupidity (Cultist Troopers 4): fired 1 time (mod_stat)
+  Tithe of Torment (Cultist Troopers 1): fired 7 times (add_resource)
+  Tithe of Torment (The Chairman of the Chamber): fired 1 time (add_resource)
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 2: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 4: MOVE 4 (3 without Slave To Cupidity)
+Scored by:
+  B:Bailiffs of Petra objectives (7,7) 3 VP: Rapacious Crusader 1 0.8, Rapacious Crusader 2 0.8, The Chairman of the Chamber 0.6, Cultist Troopers 1 0.6, Master of Coin 0.3
+  B:Bailiffs of Petra objectives (13,7) 2 VP: Cultist Troopers 2.0; hinged on Cultist Troopers
+  B:Bailiffs of Petra primary RAISE THE STANDARD 2 VP: Cultist Troopers 4 2.0
+Log:
+  [] Map selected: CROSSROADS (Central Faceoff)
+  [] [AI] Formation selected: ⚔ Bailiffs of Petra · Doctrine: None (11 units)
+  [] [AI] Formation selected: ⚔ Legio XIII · Doctrine: None (9 units)
+  [] Legatus leads Ironthunder Vanguard 1 as its bodyguard
+  [] Augur leads Legionnaire Squad 1 as its bodyguard
+  [] The Chairman of the Chamber leads Rapacious Crusader 1 as its bodyguard
+  [] Master of Coin leads Rapacious Crusader 2 as its bodyguard
+  [] Stygian Actuary leads Rapacious Crusader 3 as its bodyguard
+  [] Player A: HQ auto-deployed at (7,13)
+  [] Player B: HQ auto-deployed at (7,1)
+  [] Seize The Ground: 3 objectives placed
+  [] [AI] Earthshaker Mortar deployed at (5,13)
+  [] [AI] Rapacious Crusader 1 deployed at (11,2)
+  [] [AI] Ironthunder Vanguard 1 deployed at (10,12)
+  [] [AI] Rapacious Crusader 2 deployed at (5,2)
+  [] [AI] Legionnaire Squad 1 deployed at (11,12)
+  [] [AI] Cultist Troopers 1 deployed at (9,2)
+  [] [AI] Legionnaire Squad 2 deployed at (3,12)
+  [] [AI] Forsaken deployed at (3,2)
+  [] [AI] Fulminator Squad deployed at (9,12)
+  [] [AI] Rapacious Crusader 3 deployed at (7,2)
+  [] [AI] Speculatores deployed at (7,12)
+  [] [AI] Cultist Troopers 2 deployed at (10,2)
+  [] [AI] Ironthunder Vanguard 2 deployed at (8,12)
+  [] [AI] Cultist Troopers 3 deployed at (4,2)
+  [] [AI] Cultist Troopers 4 deployed at (6,2)
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] ◈ BATTLE BEGINS - MAP: CROSSROADS
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] Player A formation (10 units): HQ, Legatus, Ironthunder Vanguard 1, Legionnaire Squad 1, Legionnaire Squad 2, Fulminator Squad, Earthshaker Mortar, Speculatores, Ironthunder Vanguard 2, Augur
+  [COMMAND] Player B formation (12 units): HQ, The Chairman of the Chamber, Rapacious Crusader 1, Rapacious Crusader 2, Master of Coin, Stygian Actuary, Cultist Troopers 1, Forsaken, Rapacious Crusader 3, Cultist Troopers 2, Cultist Troopers 3, Cultist Troopers 4
+  [COMMAND] PRIORITY: Player A (fewer units on the battlefield, 8 to 9)
+  [COMMAND] ⚔ BATTLE ROUND 1 - BEGIN
+  [COMMAND] COMMAND PHASE
+  [COMMAND] [AI] Initialised - AI vs AI mode (both players)
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 1 - A:2 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:2 B:3
+  [COMMAND] Player A keeps a Primary Mission
+  [COMMAND] Player B keeps a Primary Mission
+  [COMMAND] Primary Missions revealed: Player A COORDINATED SUPPRESSION, Player B RAISE THE STANDARD
+  [COMMAND] RAISE THE STANDARD: Player B plants a standard at (4,8)
+  [COMMAND] Player A picks mission: BREAK CONTACT
+  [COMMAND] Player B picks mission: FOCUSED FIRE
+  [COMMAND] TACTICA: Player A selects Tactica Mercurii
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [COMMAND] TROOP REQUISITION: Cultist Troopers deployed at (8,2) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] [Ironthunder Vanguard 1] Advance: Movement Dice 2, 3, 1 add 0, 3 Movement Points
+  [MOVEMENT] Ironthunder Vanguard 1 Advances: +0 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Ironthunder Vanguard 1 moved to (10,9)
+  [MOVEMENT] [Cultist Troopers 2] Advance: Movement Dice 3, 2, 1 add 0, 4 Movement Points
+  [MOVEMENT] Cultist Troopers 2 Advances: +0 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Cultist Troopers 2 moved to (9,6)
+  [MOVEMENT] [Ironthunder Vanguard 2] Advance: Movement Dice 5, 5, 2 add 2, 4 Movement Points
+  [MOVEMENT] Ironthunder Vanguard 2 Advances: +2 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Ironthunder Vanguard 2 moved to (8,8)
+  [MOVEMENT] [Cultist Troopers 3] Advance: Movement Dice 3, 3, 3 add 0, 4 Movement Points
+  [MOVEMENT] Cultist Troopers 3 Advances: +0 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Cultist Troopers 3 moved to (4,6)
+  [MOVEMENT] Speculatores moved to (6,9)
+  [MOVEMENT] [Cultist Troopers 1] Advance: Movement Dice 4, 6, 3 add 2, 6 Movement Points
+  [MOVEMENT] Cultist Troopers 1 Advances: +2 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Cultist Troopers 1 moved to (6,7)
+  [MOVEMENT] Fulminator Squad moved to (9,10)
+  [MOVEMENT] [Cultist Troopers 4] Advance: Movement Dice 4, 6, 1 add 2, 6 Movement Points
+  [MOVEMENT] Cultist Troopers 4 Advances: +2 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Cultist Troopers 4 moved to (3,7)
+  [MOVEMENT] [Legionnaire Squad 1] Advance: Movement Dice 6, 5, 5 add 3, 6 Movement Points
+  [MOVEMENT] Legionnaire Squad 1 Advances: +3 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Legionnaire Squad 1 moved to (9,9)
+  [MOVEMENT] [Cultist Troopers] Advance: Movement Dice 4, 6, 4 add 3, 6 Movement Points
+  [MOVEMENT] Cultist Troopers Advances: +3 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Cultist Troopers moved to (12,6)
+  [MOVEMENT] [Legionnaire Squad 2] Advance: Movement Dice 6, 3, 6 add 2, 5 Movement Points
+  [MOVEMENT] Legionnaire Squad 2 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Legionnaire Squad 2 moved to (7,9)
+  [MOVEMENT] [Rapacious Crusader 1] Advance: Movement Dice 6, 2, 4 add 2, 6 Movement Points
+  [MOVEMENT] Rapacious Crusader 1 Advances: +2 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Rapacious Crusader 1 moved to (7,6)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] [Rapacious Crusader 2] Advance: Movement Dice 2, 5, 6 add 2, 6 Movement Points
+  [MOVEMENT] Rapacious Crusader 2 Advances: +2 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Rapacious Crusader 2 moved to (8,6)
+  [MOVEMENT] [Rapacious Crusader 3] Advance: Movement Dice 3, 1, 6 add 1, 5 Movement Points
+  [MOVEMENT] Rapacious Crusader 3 Advances: +1 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Rapacious Crusader 3 moved to (4,5)
+  [MOVEMENT] [Forsaken] Advance: Movement Dice 2, 4, 3 add 1, 5 Movement Points
+  [MOVEMENT] Forsaken Advances: +1 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Forsaken moved to (1,6)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Earthshaker Mortar opens fire with 1 combat group
+  [ACTION]   SWEEP 5: +10 FR (10 per model x 1 model, vs 10 target models)
+  [ACTION] 1x Earthshaker Mortar Shell (Earthshaker Mortar Wagon) HIT vs Cultist Troopers 1 (FR 11): [4✓][6✓][3✗][6✓][6✓][2✗][2✗][6✓][1✗][5✓][4✓] → 7/11 hits (needs 4+)
+  [ACTION] Mana: Player B +2 (2 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (4 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (6 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (8 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (10 total) - TITHE OF TORMENT
+  [ACTION]   Cultist Troopers 1 SAVE (7 dice): [6✗][2✗][5✗][6✗][1✗][2✗][4✗] → 0/7 saved (6 (+1 from AP) = 7+)
+  [ACTION]   Cultist Troopers 1 takes 14 damage (20 → 6)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Speculatores opens fire with 1 combat group
+  [ACTION] 1x Sagittarius Sniper Rifle (Speculatore Decanus) HIT vs Rapacious Crusader 1 roll: 2 (needs 2+) => HIT
+  [ACTION]   Rapacious Crusader 1 SAVE roll: 2 (needs 3+) => FAILED
+  [ACTION]   The Chairman of the Chamber takes 3 damage (12 → 9)
+  [ACTION]   The Chairman of the Chamber INVULNERABLE SAVE: using 3+ save
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 20 vs 6)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 10 vs 0)
+  [CLEANUP] VP - Player A: 0 | Player B: 5
+  [CLEANUP] PRIMARY RAISE THE STANDARD: Player B scores 2 VP (2/10)
+  [CLEANUP] Pietas: Player A +4 (4 total, tier 2) - friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier II - friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 2 ===
+A:Legio XIII: VP +5 (obj 5, primary 0, missions 0) = 5; CP +2 -1 holds 3 [1 Go to ground (reaction) for Legionnaire Squad 1]
+  mana: +2 -0 holds 2
+  pietas: +2 -0 holds 6
+B:Bailiffs of Petra: VP +5 (obj 2, primary 3, missions 0) = 12; CP +3 -3 holds 0 [3 Secure Objective → Cultist Troopers 1]
+  mana: +10 -2 holds 18 [2 Cast Gaze of the Abyss]
+A:Legio XIII keeps mission ASSASSINATION (offered OMNIPRESENCE / ASSASSINATION)
+B:Bailiffs of Petra keeps mission TAKE UP THE GAUNTLET (offered TAKE UP THE GAUNTLET / PUSH FORWARD)
+B:Bailiffs of Petra mission FOCUSED FIRE: expired
+Moves:
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 1 + Legatus 10,9 -> 13,7 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 2 9,6 -> 5,7
+  [MOVEMENT] A:Legio XIII Speculatores 6,9 -> 5,9
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 4 3,7 -> 5,8
+  [MOVEMENT] A:Legio XIII Fulminator Squad 9,10 -> 11,9
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 3 4,6 -> 4,9
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 1 + Augur 9,9 -> 8,9
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 3 + Stygian Actuary 4,5 -> 2,7
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 2 7,9 -> 9,8
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 1 6,7 -> 5,9
+  [MOVEMENT] A:Legio XIII Earthshaker Mortar 5,13 -> 6,11
+  [MOVEMENT] B:Bailiffs of Petra Forsaken 1,6 -> 3,7
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 2 8,8 -> 6,8 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 12,6 -> 10,6
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 1 + The Chairman of the Chamber 7,6 -> 11,6
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Legio XIII Legionnaire Squad 2 -> Cultist Troopers 2: Cultist Troopers 2 -2
+  [MOVEMENT] ranged (Overwatch): B:Bailiffs of Petra Rapacious Crusader 2 -> Speculatores: Speculatores -6 DESTROYED
+  [MOVEMENT] ranged (Overwatch): B:Bailiffs of Petra Cultist Troopers 1 -> Legionnaire Squad 1: no damage
+  [MOVEMENT] ranged (Overwatch): B:Bailiffs of Petra The Chairman of the Chamber -> Legionnaire Squad 2: no damage
+  [MOVEMENT] ranged (Overwatch): B:Bailiffs of Petra Rapacious Crusader 1 -> Legionnaire Squad 2: no damage
+  [MOVEMENT] ranged (Overwatch): B:Bailiffs of Petra Master of Coin -> Legionnaire Squad 2: Legionnaire Squad 2 -2
+  [MOVEMENT] ranged (Overwatch): A:Legio XIII Fulminator Squad -> Cultist Troopers: Cultist Troopers -4
+  [ACTION] melee: A:Legio XIII Ironthunder Vanguard 2 -> Cultist Troopers 2: Cultist Troopers 2 -16
+  [ACTION] magic (Gaze of the Abyss): B:Bailiffs of Petra Stygian Actuary -> Legionnaire Squad 2: no damage
+  [ACTION] ranged: A:Legio XIII Legionnaire Squad 1 -> Rapacious Crusader 2: Rapacious Crusader 2 -6 DESTROYED
+  [ACTION] ranged: B:Bailiffs of Petra Rapacious Crusader 1 -> Legatus: Ironthunder Vanguard 1 -1
+  [ACTION] ranged: A:Legio XIII Legionnaire Squad 2 -> Master of Coin: Master of Coin -2
+  [ACTION] ability (Suppressing Barrage): A:Legio XIII Fulminator Squad -> Rapacious Crusader 1: Rapacious Crusader 1 -2
+  [ACTION] ranged FRIENDLY FIRE: B:Bailiffs of Petra Master of Coin -> Cultist Troopers 2: Cultist Troopers 2 -2 DESTROYED
+  [ACTION] magic (Sacrificium): A:Legio XIII Augur: no damage
+  [ACTION] melee: B:Bailiffs of Petra Cultist Troopers 4 -> Ironthunder Vanguard 2: no damage
+  [ACTION] melee: B:Bailiffs of Petra Cultist Troopers 1 -> Ironthunder Vanguard 2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Legatus (no legal action), A:Ironthunder Vanguard 1 (no legal action), A:Earthshaker Mortar (no legal action), B:HQ (no legal action), B:Forsaken (no legal action), B:Rapacious Crusader 3 (best: ability Debt Called Due on Legatus, 0), B:Cultist Troopers 3 (no legal action)
+Moves undone:
+  B:Bailiffs of Petra Rapacious Crusader 1: R1 MOVEMENT 11,2 -> 7,6, R2 MOVEMENT -> 11,6 (toward the objective at 1,7, then away, 4 squares lost)
+Commands and abilities:
+  [COMMAND] A:Legio XIII Legion Master: nothing - no change
+  [COMMAND] B:Bailiffs of Petra Secure Objective on Cultist Troopers 1: nothing - gave Cultist Troopers 1: OC +1; 2 attack(s) it touched: +0 expected HP for its side
+  [MOVEMENT] A:Legio XIII Go to Ground on Legionnaire Squad 1: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Bailiffs of Petra Gaze of the Abyss on Legionnaire Squad 2: paid off - gave Legionnaire Squad 2: MS -1, BS -1; 3 attack(s) it touched: +1.09 expected HP for its side
+  [ACTION] B:Bailiffs of Petra Margin Call on Legatus: nothing - no change
+  [ACTION] A:Legio XIII Suppressing Barrage on Rapacious Crusader 1: paid off - marked The Chairman of the Chamber (targeted by player:0), Rapacious Crusader 1 (attacked against), Rapacious Crusader 1 (targeted by player:0); its effect took 2 HP off enemies
+  [ACTION] A:Legio XIII Sacrificium: paid off - 2 Mana gained
+Passive rules:
+  Profane Zeal (Cultist Troopers 1): 1 attack, 0.06 expected HP for its side
+  Hunger For Wealth (Master of Coin): 2 attacks, 0.65 expected HP for its side
+  Ornate Cuirass (Master of Coin): 1 attack, 1.59 expected HP for its side
+  Thundershock Assault (Ironthunder Vanguard 1): fired 1 time (force_test)
+  Tithe of Torment (Cultist Troopers 2): fired 10 times (add_resource)
+  Thundershock Assault (Ironthunder Vanguard 2): fired 1 time (force_test)
+  Tithe of Torment (Cultist Troopers): fired 2 times (add_resource)
+  Tithe of Torment (Rapacious Crusader 2): fired 3 times (add_resource)
+  Tithe of Torment (Master of Coin): fired 1 time (add_resource)
+  Tithe of Torment (Rapacious Crusader 1): fired 1 time (add_resource)
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 2: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 2: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 4: MOVE 4 (3 without Slave To Cupidity)
+Scored by:
+  A:Legio XIII objectives (7,7) 3 VP: Ironthunder Vanguard 2 3.0; hinged on Ironthunder Vanguard 2
+  B:Bailiffs of Petra objectives (1,7) 2 VP: Rapacious Crusader 3 2.0; hinged on Rapacious Crusader 3
+  A:Legio XIII objectives (13,7) 2 VP: Legatus 1.0, Ironthunder Vanguard 1 1.0
+  B:Bailiffs of Petra primary RAISE THE STANDARD 3 VP: Cultist Troopers 4 0.8, Cultist Troopers 3 0.8, Forsaken 0.7, Cultist Troopers 1 0.7
+Log:
+  [CLEANUP] ═══ ROUND 2 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 8 to 10)
+  [CLEANUP] BATTLE ROUND 2 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 2 - A:4 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:4 B:3
+  [COMMAND] Player A picks mission: ASSASSINATION
+  [COMMAND] Player B picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] TAKE UP THE GAUNTLET: Player A picks the objective at (13,7)
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Secure Objective -> Cultist Troopers 1 (cost 3 CP) by Player B
+  [COMMAND] SECURE OBJECTIVE: each model in Cultist Troopers 1 gains +1 OC this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Cultist Troopers 1 Morale Test (4+): 4 = 4 - PASSED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Ironthunder Vanguard 1 moved to (13,7)
+  [MOVEMENT] Ironthunder Vanguard 1 Charges Cultist Troopers
+  [MOVEMENT] Cultist Troopers 2 moved to (5,7)
+  [MOVEMENT] 4x Imperial Bolt-Action Rifle (Legionnaire) HIT vs Cultist Troopers 2 (FR 8): [4✗][4✗][2✗][1✗][5✗][4✗][1✗][1✗] → 0/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] 1x Imperial Bolt-Action Rifle (Decanus) HIT vs Cultist Troopers 2 (FR 2): [5✗][6✓] → 1/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player B +2 (12 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 2 SAVE roll: 2 (6 (+1 from AP) = 7+) => FAILED
+  [MOVEMENT]   Cultist Troopers 2 takes 2 damage (20 → 18)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] [Legionnaire Squad 2] Overwatch Reaction vs Cultist Troopers 2: 2 damage
+  [MOVEMENT] Speculatores moved to (5,9)
+  [MOVEMENT] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) SUSTAINED ATTACK 1: 4 extra dice from 4 critical hits
+  [MOVEMENT] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) HIT vs Speculatores (FR 15): [3✗][6✓][4✗][6✓][5✗][4✗][6✓][2✗][2✗][4✗][4✗][5✗][3✗][6✓][3✗][4✗][4✗][4✗][6✓] → 5/15 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Speculatores SAVE (5 dice): [6✓][2✗][(1→)5✓][3✗][3✗] → 2/5 saved (needs 5+)
+  [MOVEMENT]   Speculatores takes 6 damage (6 → 0)
+  [MOVEMENT]   Speculatore destroyed
+  [MOVEMENT]   Speculatore destroyed
+  [MOVEMENT]   Speculatore Decanus destroyed
+  [MOVEMENT]   Speculatores has lost its leader - LEADERLESS
+  [MOVEMENT]   Speculatores DESTROYED
+  [MOVEMENT] [Rapacious Crusader 2] Overwatch Reaction vs Speculatores: 6 damage
+  [MOVEMENT] Cultist Troopers 4 moved to (5,8)
+  [MOVEMENT] Fulminator Squad moved to (11,9)
+  [MOVEMENT] Cultist Troopers 3 moved to (4,9)
+  [MOVEMENT] Legionnaire Squad 1 moved to (8,9)
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Legionnaire Squad 1
+  [MOVEMENT] 2x Renegade Bolt-Action Rifle (Cultist) HIT vs Legionnaire Squad 1 (FR 4): [3✗][2✗][3✗][4✗] → 0/4 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Legionnaire Squad 1 (FR 2): [1✗][1✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Cultist Troopers 1] Overwatch Reaction vs Legionnaire Squad 1: no damage
+  [MOVEMENT] Rapacious Crusader 3 moved to (2,7)
+  [MOVEMENT] Legionnaire Squad 2 moved to (9,8)
+  [MOVEMENT] 1x Dividend Engine (The Chairman of the Chamber) HIT vs Legionnaire Squad 2 (FR 6): [2✗][1✗][2✗][1✗][2✗][3✗] → 0/6 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [The Chairman of the Chamber] Overwatch Reaction vs Legionnaire Squad 2: no damage
+  [MOVEMENT] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) HIT vs Legionnaire Squad 2 (FR 15): [5✗][4✗][4✗][4✗][3✗][4✗][3✗][1✗][2✗][3✗][1✗][2✗][3✗][2✗][6✓][3✗] → 1/15 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Legionnaire Squad 2 SAVE roll: 6 (needs 4+) => SAVED
+  [MOVEMENT] [Rapacious Crusader 1] Overwatch Reaction vs Legionnaire Squad 2: no damage
+  [MOVEMENT] 1x Gilded Machine Gun (Master of Coin) SUSTAINED ATTACK 2: 4 extra dice from 2 critical hits
+  [MOVEMENT] 1x Gilded Machine Gun (Master of Coin) HIT vs Legionnaire Squad 2 (FR 6): [6✓][4✗][6✓][1✗][5✗][2✗][4✗][3✗][5✗][2✗] → 2/6 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Legionnaire Squad 2 SAVE (2 dice): [2✗][5✓] → 1/2 saved (needs 4+)
+  [MOVEMENT]   Legionnaire Squad 2 takes 2 damage (10 → 8)
+  [MOVEMENT]   Legionnaire destroyed
+  [MOVEMENT] [Master of Coin] Overwatch Reaction vs Legionnaire Squad 2: 2 damage
+  [MOVEMENT] Cultist Troopers 1 moved to (5,9)
+  [MOVEMENT] Earthshaker Mortar moved to (6,11)
+  [MOVEMENT] Forsaken moved to (3,7)
+  [MOVEMENT] Ironthunder Vanguard 2 moved to (6,8)
+  [MOVEMENT] Ironthunder Vanguard 2 Charges Cultist Troopers 1, Cultist Troopers 2, Cultist Troopers 4
+  [MOVEMENT] Cultist Troopers 2 Morale Test (4+): 5 = 5 - PASSED
+  [MOVEMENT] [Cultist Troopers] FALL BACK TEST: INI 5 against 5, needs 4+, rolled 4 - breaks away
+  [MOVEMENT] Cultist Troopers moved to (10,6)
+  [MOVEMENT] 2x Stormspitter (Fulminator Legionary) SUSTAINED ATTACK 1: 2 extra dice from 2 critical hits
+  [MOVEMENT] 2x Stormspitter (Fulminator Legionary) HIT vs Cultist Troopers (FR 10): [2✗][6✓][4✗][5✗][1✗][3✗][6✓][1✗][1✗][5✗][1✗][5✗] → 2/10 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player B +2 (14 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player B +2 (16 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers SAVE (2 dice): [1✗][3✗] → 0/2 saved (needs 6+)
+  [MOVEMENT]   Cultist Troopers takes 4 damage (20 → 16)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] 1x Stormspitter (Fulminator Decanus) HIT vs Cultist Troopers (FR 5): [2✗][1✗][2✗][2✗][4✗] → 0/5 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Fulminator Squad] Overwatch Reaction vs Cultist Troopers: 4 damage
+  [MOVEMENT] [Cultist Troopers] Fall Back to (10,6)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Rapacious Crusader 1 moved to (11,6)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Ironthunder Vanguard 2 attacks in melee with 2 combat groups
+  [ACTION] Ironthunder Vanguard 2 engages Cultist Troopers 2 in melee combat
+  [ACTION]   Initiative: Ironthunder Vanguard 2 (INI 7, +3 charge) → Cultist Troopers 2 (INI 5)
+  [ACTION] Mana: Player B +2 (18 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (20 total) - TITHE OF TORMENT
+  [ACTION]   Ironthunder Vanguard 2 (2x Ironthunder Spatha) MELEE vs Cultist Troopers 2 (AR 6): [6✓][5✓][5✓][3✓][3✓][1✗] → 5 hits [MS 7]
+  [ACTION]   Cultist Troopers 2: 10 damage (18 → 8)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Ironthunder Vanguard 2 (Ironthunder Spatha) MELEE vs Cultist Troopers 2 (AR 3): [6✓][5✓][3✓] → 3 hits [MS 7]
+  [ACTION]   Cultist Troopers 2: 6 damage (8 → 2)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 2 counterattacks
+  [ACTION]   Cultist Troopers 2 spends 1 APt to counterattack
+  [ACTION]   Cultist Troopers 2 (Renegade Bayonet) MELEE vs Ironthunder Vanguard 2 (AR 1): [6✓] → 1 hits [MS 3]
+  [ACTION] Mana: Player B -2 (18 total) - spent
+  [ACTION] Stygian Actuary casts Gaze of the Abyss on Legionnaire Squad 2
+  [ACTION] Legionnaire Squad 1 opens fire with 2 combat groups
+  [ACTION] 4x Imperial Bolt-Action Rifle (Legionnaire) HIT vs Rapacious Crusader 2 (FR 8): [6✓][3✓][3✓][3✓][5✓][1✗][6✓][4✓] → 7/8 hits (needs 3+)
+  [ACTION]   Rapacious Crusader 2 SAVE (7 dice): [4✓][3✗][5✓][1✗][6✓][5✓][1✗] → 4/7 saved (3 (+1 from AP) = 4+)
+  [ACTION]   Rapacious Crusader 2 takes 6 damage (6 → 0)
+  [ACTION]   Rapacious Crusader destroyed
+  [ACTION]   Rapacious Crusader destroyed
+  [ACTION]   Rapacious Crusader Baron-Sergeant destroyed
+  [ACTION]   Rapacious Crusader 2 has lost its leader - LEADERLESS
+  [ACTION]   Rapacious Crusader 2 DESTROYED
+  [ACTION] Rapacious Crusader 1 opens fire with 1 combat group
+  [ACTION] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) SUSTAINED ATTACK 1: 4 extra dice from 4 critical hits
+  [ACTION] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) HIT vs Legatus (FR 15): [1✗][4✓][4✓][6✓][6✓][5✓][2✗][4✓][6✓][2✗][4✓][3✗][1✗][1✗][6✓][5✓][5✓][6✓][3✗] → 12/15 hits (needs 4+)
+  [ACTION]   Legatus SAVE (12 dice): [4✓][(2→)4✓][5✓][6✓][6✓][6✓][(1→)6✓][(3→)1✗][(3→)5✓][4✓][(3→)6✓][(1→)4✓] → 11/12 saved (3 (+1 from AP) = 4+)
+  [ACTION]   Ironthunder Vanguard 1 takes 1 damage (12 → 11)
+  [ACTION] Legionnaire Squad 2 opens fire with 2 combat groups
+  [ACTION] 3x Imperial Bolt-Action Rifle (Legionnaire) HIT vs Master of Coin (FR 6): [2✗][5✓][3✗][5✓][3✗][5✓] → 3/6 hits (needs 4+)
+  [ACTION]   Master of Coin SAVE (3 dice): [6✓][(1→)5✓][5✓] → 3/3 saved (4 (+1 from AP) = 5+)
+  [ACTION] 1x Imperial Bolt-Action Rifle (Decanus) HIT vs Master of Coin (FR 2): [3✗][5✓] → 1/2 hits (needs 4+)
+  [ACTION]   Master of Coin SAVE roll: 1 (4→rerolled 1) (4 (+1 from AP) = 5+) => FAILED
+  [ACTION]   Master of Coin takes 2 damage (8 → 6)
+  [ACTION] The Chairman of the Chamber uses Margin Call!
+  [ACTION] The Chairman of the Chamber MARGIN CALL: Target 1 ELITE/EPIC/EPIC HERO enemy unit. That target's weapons suffer -X AR/FR (min 1), where X is the number of friendly GREED units holding at least 1 Gold within this unit's Command Range, until the end of the Battle Round.
+  [ACTION] Fulminator Squad uses Suppressing Barrage!
+  [ACTION] Suppressing Barrage SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] Suppressing Barrage HIT vs Rapacious Crusader 1 (FR 5): [2✗][6✓][5✗][5✗][5✗][6✓] → 2/5 hits (5 (-1 from ability) = 6+) [HIT mod: -1 HEAVY(moved)]
+  [ACTION]   Rapacious Crusader 1 SAVE (2 dice): [6✓][2✗] → 1/2 saved (3 (+1 from AP) = 4+)
+  [ACTION]   Rapacious Crusader 1 takes 2 damage (6 → 4)
+  [ACTION]   Rapacious Crusader destroyed
+  [ACTION] Suppressing Barrage SUSTAINED ATTACK 1: 2 extra dice from 2 critical hits
+  [ACTION] Suppressing Barrage HIT vs Rapacious Crusader 1 (FR 5): [3✗][4✗][6✓][3✗][6✓][1✗][1✗] → 2/5 hits (5 (-1 from ability) = 6+) [HIT mod: -1 HEAVY(moved)]
+  [ACTION]   Rapacious Crusader 1 SAVE (2 dice): [5✓][5✓] → 2/2 saved (3 (+1 from AP) = 4+)
+  [ACTION] Fulminator Squad SUPPRESSING BARRAGE: Target an enemy unit within Stormspitter range to perform 2 Stormspitter attacks at -1 BS.
+  [ACTION] Master of Coin RANGED ATTACK INTO MELEE vs Ironthunder Vanguard 2: rolled 2 - the shot strays into Cultist Troopers 2
+  [ACTION] Master of Coin opens fire with 1 combat group
+  [ACTION] 1x Gilded Machine Gun (Master of Coin) HIT vs Cultist Troopers 2 (FR 6): [1✗][2✗][3✓][1✗][4✓][5✓] → 3/6 hits (needs 3+)
+  [ACTION]   Cultist Troopers 2 SAVE (3 dice): [5✗][5✗][5✗] → 0/3 saved (6 (+1 from AP) = 7+)
+  [ACTION]   Cultist Troopers 2 takes 2 damage (2 → 0)
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION]   Cultist Troopers 2 has lost its leader - LEADERLESS
+  [ACTION]   Cultist Troopers 2 DESTROYED
+  [ACTION] Mana: Player A +2 (2 total) - Sacrificium
+  [ACTION] Augur casts Sacrificium
+  [ACTION] Cultist Troopers 4 attacks in melee with 2 combat groups
+  [ACTION] Cultist Troopers 4 engages Ironthunder Vanguard 2 in melee combat
+  [ACTION]   Cultist Troopers 4 (9x Renegade Bayonet) MELEE vs Ironthunder Vanguard 2 (AR 9): [6✓][6✓][5✗][5✗][5✗][4✗][3✗][2✗][1✗] → 2 hits [MS 3]
+  [ACTION]   Cultist Troopers 4 (Renegade Bayonet) MELEE vs Ironthunder Vanguard 2 (AR 1): [3✗] → 0 hits [MS 3]
+  [ACTION]   Ironthunder Vanguard 2 has no APt left - no counterattack
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Cultist Troopers 1 attacks in melee with 2 combat groups
+  [ACTION] Cultist Troopers 1 engages Ironthunder Vanguard 2 in melee combat
+  [ACTION]   Cultist Troopers 1 (2x Renegade Bayonet) MELEE vs Ironthunder Vanguard 2 (AR 2): [4✗][4✗] → 0 hits [MS 3]
+  [ACTION]   Cultist Troopers 1 (Renegade Bayonet) MELEE vs Ironthunder Vanguard 2 (AR 1): [1✗] → 0 hits [MS 3]
+  [ACTION]   Ironthunder Vanguard 2 has no APt left - no counterattack
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 6 vs 2)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 6 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 7 vs 0)
+  [CLEANUP] VP - Player A: 5 | Player B: 9
+  [CLEANUP] PRIMARY RAISE THE STANDARD: Player B scores 3 VP (5/10)
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R2)
+  [CLEANUP] Pietas: Player A +2 (6 total, tier 3) - enemy unit destroyed; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier III - enemy unit destroyed; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 3 ===
+A:Legio XIII: VP +9 (obj 3, primary 2, missions 4) = 14; CP +2 -5 holds 0 [3 Secure Objective → Ironthunder Vanguard 1; 2 Double Time → Fulminator Squad]
+  mana: +0 -2 holds 0 [2 Cast Iudicium]
+  pietas: +4 -0 holds 10
+B:Bailiffs of Petra: VP +5 (obj 2, primary 3, missions 0) = 17; CP +3 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+  mana: +10 -0 holds 28
+A:Legio XIII keeps mission COORDINATED PUSH (offered COORDINATED PUSH / VIGILANT WATCH)
+B:Bailiffs of Petra keeps mission COORDINATED PUSH (offered COORDINATED PUSH / INTO THE FRAY)
+A:Legio XIII mission BREAK CONTACT: expired
+A:Legio XIII mission ASSASSINATION: completed
+Moves:
+  [MOVEMENT] A:Legio XIII Fulminator Squad 11,9 -> 7,10
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 1 5,9 -> 2,8
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 1 + Augur 8,9 -> 6,10
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers #2 8,2 -> 10,4
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 1 + Legatus 13,7 -> 11,4 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 10,6 -> 7,6
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 2 9,8 -> 7,8
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 4 5,8 -> 6,6
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 2 6,8 -> 6,7 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 3 4,9 -> 5,5
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 1 + The Chairman of the Chamber 11,6 -> 9,7
+  [MOVEMENT] B:Bailiffs of Petra Forsaken 3,7 -> 4,9
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 3 + Stygian Actuary 2,7 -> 4,6
+  [ACTION] A:Legio XIII Ironthunder Vanguard 1 + Legatus 11,4 -> 10,4
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Legio XIII Earthshaker Mortar -> Cultist Troopers #2: Cultist Troopers #2 -2
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Cultist Troopers 4: Cultist Troopers 4 -3
+  [ACTION] melee: A:Legio XIII Ironthunder Vanguard 2 -> Cultist Troopers: Cultist Troopers -16 DESTROYED
+  [ACTION] ranged: B:Bailiffs of Petra Rapacious Crusader 1 -> Legionnaire Squad 2: Legionnaire Squad 2 -4
+  [ACTION] melee: A:Legio XIII Ironthunder Vanguard 1 -> Cultist Troopers #2: Cultist Troopers #2 -16
+  [ACTION] ranged: B:Bailiffs of Petra Master of Coin -> Legionnaire Squad 2: Legionnaire Squad 2 -4 DESTROYED
+  [ACTION] ranged: A:Legio XIII Legionnaire Squad 1 -> Rapacious Crusader 1: Rapacious Crusader 1 -2
+  [ACTION] ranged: B:Bailiffs of Petra The Chairman of the Chamber -> Legionnaire Squad 1: no damage
+  [ACTION] ability (Suppressing Barrage): A:Legio XIII Fulminator Squad -> Master of Coin: Master of Coin -2
+  [ACTION] ability (Suppressing Barrage): A:Legio XIII Fulminator Squad -> Master of Coin: Master of Coin -4 DESTROYED
+  [ACTION] melee: A:Legio XIII Legatus -> Cultist Troopers #2: Cultist Troopers #2 -2 DESTROYED
+  [ACTION] magic (Iudicium): A:Legio XIII Augur -> The Chairman of the Chamber: no damage
+  [ACTION] ranged: A:Legio XIII Earthshaker Mortar -> The Chairman of the Chamber: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action), B:Stygian Actuary (best: castRite on Cultist Troopers 1, -3.32), B:Forsaken (no legal action), B:Rapacious Crusader 3 (no legal action), B:Cultist Troopers 3 (no legal action)
+Moves undone:
+  A:Legio XIII Legionnaire Squad 2: R2 MOVEMENT 7,9 -> 9,8, R3 MOVEMENT -> 7,8 (back beside its start; toward the objective at 13,7, then away, 2 squares lost)
+  A:Legio XIII Fulminator Squad: R2 MOVEMENT 9,10 -> 11,9, R3 MOVEMENT -> 7,10 (toward the objective at 13,7, then away, 2 squares lost)
+  B:Bailiffs of Petra Rapacious Crusader 3: R2 MOVEMENT 4,5 -> 2,7, R3 MOVEMENT -> 4,6 (back beside its start; toward the objective at 1,7, then away, 2 squares lost)
+  B:Bailiffs of Petra Cultist Troopers 3: R2 MOVEMENT 4,6 -> 4,9, R3 MOVEMENT -> 5,5 (back beside its start, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Legio XIII Legion Master: nothing - no change
+  [COMMAND] A:Legio XIII Secure Objective on Ironthunder Vanguard 1: nothing - gave Legatus: OC +1; Ironthunder Vanguard 1: OC +1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Legio XIII Double Time on Fulminator Squad: paid off - gave Fulminator Squad: MOVE +2; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Bailiffs of Petra Troop Requisition on (8,2): paid off - placed Cultist Troopers #2; the unit it placed drew 3 enemy attack(s), 20 HP
+  [ACTION] A:Legio XIII Suppressing Barrage on Master of Coin: paid off - completed ASSASSINATION (+4 VP); put SUPPRESSED on The Chairman of the Chamber, SUPPRESSED on Rapacious Crusader 1; 1 attack(s) it touched: +0 expected HP for its side; its effect took 6 HP off enemies
+  [ACTION] A:Legio XIII Iudicium on The Chairman of the Chamber: nothing - put EXPOSED on The Chairman of the Chamber, EXPOSED on Rapacious Crusader 1; 1 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Legio Divinitus Benedicta (Ironthunder Vanguard 1): 1 attack, 1.46 expected HP for its side
+  Hunger For Wealth (Master of Coin): 1 attack, 0.18 expected HP for its side
+  Armor of Tainted Gold (The Chairman of the Chamber): 1 attack, 0.17 expected HP for its side
+  Tithe of Torment (Cultist Troopers #2): fired 10 times (add_resource)
+  Thundershock Assault (Ironthunder Vanguard 1): fired 1 time (force_test)
+  Tithe of Torment (Cultist Troopers 4): fired 3 times (add_resource)
+  Thundershock Assault (Ironthunder Vanguard 2): fired 1 time (force_test)
+  Tithe of Torment (Cultist Troopers): fired 8 times (add_resource)
+  Tithe of Torment (Rapacious Crusader 1): fired 1 time (add_resource)
+  Tithe of Torment (Master of Coin): fired 3 times (add_resource)
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Master of Coin: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 4: MOVE 4 (3 without Slave To Cupidity)
+Scored by:
+  A:Legio XIII missions ASSASSINATION 4 VP: Fulminator Squad 4.0 (event)
+  A:Legio XIII objectives (7,7) 3 VP: Ironthunder Vanguard 2 3.0; hinged on Ironthunder Vanguard 2
+  B:Bailiffs of Petra objectives (1,7) 2 VP: Cultist Troopers 1 2.0; hinged on Cultist Troopers 1
+  A:Legio XIII primary COORDINATED SUPPRESSION 2 VP: no unit, unassigned 2
+  B:Bailiffs of Petra primary RAISE THE STANDARD 3 VP: Forsaken 3.0
+Log:
+  [CLEANUP] ═══ ROUND 3 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 7 to 9)
+  [CLEANUP] BATTLE ROUND 3 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 3 - A:5 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:5 B:3
+  [COMMAND] Player A picks mission: COORDINATED PUSH
+  [COMMAND] Player B picks mission: COORDINATED PUSH
+  [COMMAND] HQ Command: Secure Objective -> Ironthunder Vanguard 1 (cost 3 CP) by Player A
+  [COMMAND] SECURE OBJECTIVE: each model in Ironthunder Vanguard 1 gains +1 OC this Battle Round
+  [COMMAND] HQ Command: Double Time -> Fulminator Squad (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Fulminator Squad gains +2 MOVE until the end of the Battle Round
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [COMMAND] TROOP REQUISITION: Cultist Troopers deployed at (8,2) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Cultist Troopers 1 Morale Test (4+): 5 = 5 - PASSED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Fulminator Squad moved to (7,10)
+  [MOVEMENT] [Cultist Troopers 1] FALL BACK TEST: INI 5 against 4, needs 3+, rolled 5 - breaks away
+  [MOVEMENT] Cultist Troopers 1 moved to (2,8)
+  [MOVEMENT] [Cultist Troopers 1] Fall Back to (2,8)
+  [MOVEMENT] Legionnaire Squad 1 moved to (6,10)
+  [MOVEMENT] Cultist Troopers moved to (10,4)
+  [MOVEMENT]   SWEEP 5: +10 FR (10 per model x 1 model, vs 10 target models)
+  [MOVEMENT] 1x Earthshaker Mortar Shell (Earthshaker Mortar Wagon) HIT vs Cultist Troopers (FR 11): [3✗][1✗][4✗][3✗][6✓][1✗][2✗][3✗][2✗][2✗][5✗] → 1/11 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player B +2 (20 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers SAVE roll: 4 (needs 6+) => FAILED
+  [MOVEMENT]   Cultist Troopers takes 2 damage (20 → 18)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] [Earthshaker Mortar] Overwatch Reaction vs Cultist Troopers: 2 damage
+  [MOVEMENT] Ironthunder Vanguard 1 moved to (11,4)
+  [MOVEMENT] Ironthunder Vanguard 1 Charges Cultist Troopers
+  [MOVEMENT] Cultist Troopers Morale Test (4+): 3 = 3 - FAILED, now SUPPRESSED
+  [MOVEMENT] Cultist Troopers moved to (7,6)
+  [MOVEMENT] Legionnaire Squad 2 moved to (7,8)
+  [MOVEMENT] [Cultist Troopers 4] FALL BACK TEST: INI 5 against 4, needs 3+, rolled 1 - FAILED
+  [MOVEMENT] Mana: Player B +1 (21 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player B +1 (22 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] Mana: Player B +1 (23 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 4 SAVES (slow roll): [no save→Cultist][no save→Cultist][no save→Cultist] → 0/3 saved, 1 models killed
+  [MOVEMENT] [Cultist Troopers 4] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] Cultist Troopers 4 moved to (6,6)
+  [MOVEMENT] [Cultist Troopers 4] Fall Back to (6,6)
+  [MOVEMENT] Ironthunder Vanguard 2 moved to (6,7)
+  [MOVEMENT] Ironthunder Vanguard 2 Charges Cultist Troopers 4, Cultist Troopers
+  [MOVEMENT] Cultist Troopers 4 Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [MOVEMENT] Cultist Troopers 3 moved to (5,5)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Rapacious Crusader 1 moved to (9,7)
+  [MOVEMENT] Forsaken moved to (4,9)
+  [MOVEMENT] Rapacious Crusader 3 moved to (4,6)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Ironthunder Vanguard 2 attacks in melee with 2 combat groups
+  [ACTION] Ironthunder Vanguard 2 engages Cultist Troopers in melee combat
+  [ACTION]   Initiative: Ironthunder Vanguard 2 (INI 7, +3 charge) → Cultist Troopers (INI 5)
+  [ACTION] Mana: Player B +2 (25 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (27 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +1 (28 total) - TITHE OF TORMENT
+  [ACTION]   Ironthunder Vanguard 2 (2x Ironthunder Spatha) MELEE vs Cultist Troopers (AR 6): [5✓][4✓][4✓][2✓][2✓][2✓] → 6 hits [MS 7]
+  [ACTION]   Cultist Troopers: 12 damage (16 → 4)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Ironthunder Vanguard 2 (Ironthunder Spatha) MELEE vs Cultist Troopers (AR 3): [4✓][4✓][2✓] → 3 hits [MS 7]
+  [ACTION]   Cultist Troopers: 4 damage (4 → 0)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION]   Cultist Troopers has lost its leader - LEADERLESS
+  [ACTION]   Cultist Troopers DESTROYED in melee!
+  [ACTION]   Cultist Troopers was destroyed - no counterattack
+  [ACTION] Rapacious Crusader 1 opens fire with 1 combat group
+  [ACTION] 2x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) HIT vs Legionnaire Squad 2 (FR 10): [3✗][2✗][4✓][3✗][4✓][4✓][2✗][2✗][1✗][2✗] → 3/10 hits (needs 4+)
+  [ACTION]   Legionnaire Squad 2 SAVE (3 dice): [5✓][2✗][2✗] → 1/3 saved (4 (+1 from AP) = 5+)
+  [ACTION]   Legionnaire Squad 2 takes 4 damage (8 → 4)
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION] Ironthunder Vanguard 1 attacks in melee with 2 combat groups
+  [ACTION] Ironthunder Vanguard 1 engages Cultist Troopers in melee combat
+  [ACTION] Ironthunder Vanguard 1 SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Ironthunder Vanguard 1 (2x Ironthunder Spatha) MELEE vs Cultist Troopers (AR 6): [6✓][5✓][4✓][3✓][2✓][1✗][1✗] → 5 hits [MS 9]
+  [ACTION]   Cultist Troopers: 10 damage (18 → 8)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] Ironthunder Vanguard 1 SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Ironthunder Vanguard 1 (Ironthunder Spatha) MELEE vs Cultist Troopers (AR 3): [6✓][5✓][3✓][1✗] → 3 hits [MS 9]
+  [ACTION]   Cultist Troopers: 6 damage (8 → 2)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers has no APt left - no counterattack
+  [ACTION] Master of Coin opens fire with 1 combat group
+  [ACTION] 1x Gilded Machine Gun (Master of Coin) HIT vs Legionnaire Squad 2 (FR 6): [4✓][5✓][2✗][4✓][4✓][5✓] → 5/6 hits (needs 3+)
+  [ACTION]   Legionnaire Squad 2 SAVE (5 dice): [4✗][2✗][2✗][3✗][6✓] → 1/5 saved (4 (+1 from AP) = 5+)
+  [ACTION]   Legionnaire Squad 2 takes 4 damage (4 → 0)
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Decanus destroyed
+  [ACTION]   Legionnaire Squad 2 has lost its leader - LEADERLESS
+  [ACTION]   Legionnaire Squad 2 DESTROYED
+  [ACTION] Legionnaire Squad 1 opens fire with 2 combat groups
+  [ACTION] 4x Imperial Bolt-Action Rifle (Legionnaire) HIT vs Rapacious Crusader 1 (FR 8): [3✓][1✗][2✗][5✓][6✓][3✓][2✗][4✓] → 5/8 hits (needs 3+)
+  [ACTION]   Rapacious Crusader 1 SAVE (5 dice): [2✗][6✓][4✓][5✓][6✓] → 4/5 saved (3 (+1 from AP) = 4+)
+  [ACTION]   Rapacious Crusader 1 takes 2 damage (4 → 2)
+  [ACTION]   Rapacious Crusader destroyed
+  [ACTION] 1x Imperial Bolt-Action Rifle (Decanus) HIT vs Rapacious Crusader 1 (FR 2): [1✗][1✗] → 0/2 hits (needs 3+)
+  [ACTION] The Chairman of the Chamber opens fire with 1 combat group
+  [ACTION] 1x Dividend Engine (The Chairman of the Chamber) SUSTAINED ATTACK 2: 2 extra dice from 1 critical hit
+  [ACTION] 1x Dividend Engine (The Chairman of the Chamber) HIT vs Legionnaire Squad 1 (FR 6): [6✓][2✗][2✗][4✓][1✗][1✗][1✗][5✓] → 3/6 hits (needs 3+) [HIT mod: -1 ruins CONCEALMENT]
+  [ACTION]   Legionnaire Squad 1 SAVE (3 dice): [6✓][4✓][4✓] → 3/3 saved (needs 4+)
+  [ACTION] Fulminator Squad uses Suppressing Barrage!
+  [ACTION] Suppressing Barrage SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] Suppressing Barrage HIT vs Master of Coin (FR 5): [6✓][3✗][2✗][5✗][1✗][5✗] → 1/5 hits (5 (-1 from ability) = 6+) [HIT mod: -1 HEAVY(moved)]
+  [ACTION]   Master of Coin SAVE roll: 2 (1→rerolled 2) (4 (+1 from AP) = 5+) => FAILED
+  [ACTION]   Master of Coin takes 2 damage (6 → 4)
+  [ACTION] Suppressing Barrage SUSTAINED ATTACK 1: 3 extra dice from 3 critical hits
+  [ACTION] Suppressing Barrage HIT vs Master of Coin (FR 5): [6✓][6✓][1✗][6✓][5✗][2✗][2✗][2✗] → 3/5 hits (5 (-1 from ability) = 6+) [HIT mod: -1 HEAVY(moved)]
+  [ACTION] MISSION COMPLETE: "ASSASSINATION" -> Player A +4 VP!
+  [ACTION] Rapacious Crusader 1 Morale Test (4+): 1 = 1 (natural 1) - FAILED, now SUPPRESSED
+  [ACTION]   Master of Coin SAVE (3 dice): [(1→)1✗][(2→)1✗][6✓] → 1/3 saved (4 (+1 from AP) = 5+)
+  [ACTION]   Master of Coin takes 4 damage (4 → 0)
+  [ACTION]   Master of Coin destroyed
+  [ACTION]   Master of Coin DESTROYED
+  [ACTION] Fulminator Squad SUPPRESSING BARRAGE: Target an enemy unit within Stormspitter range to perform 2 Stormspitter attacks at -1 BS.
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Legatus attacks in melee with 1 combat group
+  [ACTION] Legatus engages Cultist Troopers in melee combat
+  [ACTION] Legatus SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Legatus (Legate's Spatha) MELEE vs Cultist Troopers (AR 4): [6✓][5✓][3✓][1✗][1✗] → 3 hits [MS 10]
+  [ACTION]   Cultist Troopers: 2 damage (2 → 0)
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION]   Cultist Troopers has lost its leader - LEADERLESS
+  [ACTION]   Cultist Troopers DESTROYED in melee!
+  [ACTION] Legatus TAKE GROUND: moved to (10,4)
+  [ACTION] Mana: Player A -2 (0 total) - spent
+  [ACTION] Augur casts Iudicium on The Chairman of the Chamber
+  [ACTION] Earthshaker Mortar opens fire with 1 combat group
+  [ACTION] 1x Earthshaker Mortar Shell (Earthshaker Mortar Wagon) HIT vs The Chairman of the Chamber roll: 2 (needs 4+) => MISS
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 6 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 12 | Player B: 14
+  [CLEANUP] PRIMARY COORDINATED SUPPRESSION: Player A scores 2 VP (2/10)
+  [CLEANUP] PRIMARY RAISE THE STANDARD: Player B scores 3 VP (8/10)
+  [CLEANUP] Mission "BREAK CONTACT" EXPIRED (R3)
+  [CLEANUP] Pietas: Player A +4 (10 total, tier 4) - enemy unit destroyed; ASSASSINATION; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier IV - enemy unit destroyed; ASSASSINATION; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 4 ===
+A:Legio XIII: VP +7 (obj 5, primary 2, missions 0) = 21; CP +2 -1 holds 1 [1 Go to ground (reaction) for Fulminator Squad]
+  mana: +5 -0 holds 5
+  pietas: +5 -0 holds 15
+B:Bailiffs of Petra: VP +6 (obj 2, primary 2, missions 2) = 23; CP +3 -2 holds 1 [2 Rally cry (reaction) for Rapacious Crusader 1]
+  mana: +10 -3 holds 35 [3 Cast Whisper of Despair]
+A:Legio XIII keeps mission MAN OF THE HOUR (offered PUSH FORWARD / MAN OF THE HOUR)
+B:Bailiffs of Petra keeps mission MAN OF THE HOUR (offered STRONGPOINT / MAN OF THE HOUR)
+B:Bailiffs of Petra mission COORDINATED PUSH: completed
+Moves:
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 1 + Legatus 10,4 -> 12,6
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 3 5,5 -> 8,7
+  [MOVEMENT] A:Legio XIII Fulminator Squad 7,10 -> 6,9
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 3 + Stygian Actuary 4,6 -> 2,7
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 1 + Augur 6,10 -> 6,8
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 1 2,8 -> 3,9
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 1 + The Chairman of the Chamber 9,7 -> 8,8
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 4 6,6 -> 9,5
+  [MOVEMENT] B:Bailiffs of Petra Forsaken 4,9 -> 5,10 (charge)
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Bailiffs of Petra Cultist Troopers 3 -> Fulminator Squad: no damage
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Cultist Troopers 4: Cultist Troopers 4 -2
+  [ACTION] ranged: A:Legio XIII Legionnaire Squad 1 -> Cultist Troopers 3: Cultist Troopers 3 -18
+  [ACTION] ranged: A:Legio XIII Earthshaker Mortar -> Rapacious Crusader 1: no damage
+  [ACTION] ranged: B:Bailiffs of Petra Rapacious Crusader 1 -> Legionnaire Squad 1: Legionnaire Squad 1 -6
+  [ACTION] melee: A:Legio XIII Fulminator Squad -> Forsaken: Fulminator Squad -1, Forsaken -2
+  [ACTION] ranged: B:Bailiffs of Petra Rapacious Crusader 3 -> Ironthunder Vanguard 2: Ironthunder Vanguard 2 -3
+  [ACTION] ranged: B:Bailiffs of Petra Cultist Troopers 3 -> Legionnaire Squad 1: Legionnaire Squad 1 -1
+  [ACTION] magic (Whisper of Despair): B:Bailiffs of Petra Stygian Actuary -> Ironthunder Vanguard 2: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Legatus (no legal action), A:Ironthunder Vanguard 1 (no legal action), A:Ironthunder Vanguard 2 (no legal action), B:HQ (no legal action), B:Cultist Troopers 1 (no legal action)
+Moves undone:
+  A:Legio XIII Ironthunder Vanguard 1: R3 ACTION 11,4 -> 10,4, R4 MOVEMENT -> 12,6 (toward the objective at 7,7, then away, 1 square lost)
+  B:Bailiffs of Petra Rapacious Crusader 3: R3 MOVEMENT 2,7 -> 4,6, R4 MOVEMENT -> 2,7 (back beside its start; toward the objective at 7,7, then away, 2 squares lost)
+Commands and abilities:
+  [COMMAND] A:Legio XIII Tactica: Tactica Martis: paid off - made martis (was mercurii) active; 19 attack(s) it touched: +0.49 expected HP for its side
+  [COMMAND] A:Legio XIII Legion Master: nothing - no change
+  [COMMAND] B:Bailiffs of Petra Rally Cry on Rapacious Crusader 1: paid off - passed 1 Morale Test(s) outright
+  [MOVEMENT] A:Legio XIII Go to Ground on Fulminator Squad: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Bailiffs of Petra Margin Call on Augur: nothing - no change
+  [ACTION] B:Bailiffs of Petra Whisper of Despair on Ironthunder Vanguard 2: nothing - no change
+Passive rules:
+  Legio Divinitus Benedicta (Fulminator Squad): 1 attack, 0.21 expected HP for its side
+  Artificer Heavy Shield (Ironthunder Vanguard 2): 1 attack, 2.17 expected HP for its side
+  Tithe of Torment (Cultist Troopers 4): fired 2 times (add_resource)
+  Tithe of Torment (Cultist Troopers 3): fired 9 times (add_resource)
+  Tithe of Torment (Forsaken): fired 2 times (add_resource)
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 3 (2 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 4: MOVE 3 (2 without Slave To Cupidity)
+Scored by:
+  B:Bailiffs of Petra missions COORDINATED PUSH 2 VP: Rapacious Crusader 1 0.3, Cultist Troopers 1 0.3, Forsaken 0.3, Rapacious Crusader 3 0.3, Cultist Troopers 3 0.3, Cultist Troopers 4 0.3 (actors)
+  A:Legio XIII objectives (7,7) 3 VP: Ironthunder Vanguard 2 2.0, Legionnaire Squad 1 0.5, Augur 0.5; hinged on Ironthunder Vanguard 2
+  B:Bailiffs of Petra objectives (1,7) 2 VP: Rapacious Crusader 3 2.0; hinged on Rapacious Crusader 3
+  A:Legio XIII objectives (13,7) 2 VP: Legatus 1.0, Ironthunder Vanguard 1 1.0
+  A:Legio XIII primary COORDINATED SUPPRESSION 2 VP: no unit, unassigned 2
+  B:Bailiffs of Petra primary RAISE THE STANDARD 2 VP: Cultist Troopers 1 2.0
+Log:
+  [CLEANUP] ═══ ROUND 4 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 6 to 7)
+  [CLEANUP] BATTLE ROUND 4 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 4 - A:2 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:2 B:2
+  [COMMAND] Player A picks mission: MAN OF THE HOUR
+  [COMMAND] Player B picks mission: MAN OF THE HOUR
+  [COMMAND] TACTICA: Player A selects Tactica Martis
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via The Chairman of the Chamber (cost 2 CP) - Rapacious Crusader 1
+  [COMMAND] Cultist Troopers 1 Morale Test (4+): 1 = 1 (natural 1) - FAILED, now SUPPRESSED
+  [COMMAND] Rapacious Crusader 1 Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Cultist Troopers 4 Morale Test (4+): 1 = 1 (natural 1) - FAILED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Ironthunder Vanguard 1 moved to (12,6)
+  [MOVEMENT] Cultist Troopers 3 moved to (8,7)
+  [MOVEMENT] Fulminator Squad moved to (6,9)
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Fulminator Squad
+  [MOVEMENT] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Fulminator Squad (FR 18): [2✗][4✗][3✗][5✗][1✗][6✓][3✗][3✗][4✗][4✗][1✗][1✗][3✗][1✗][6✓][6✓][4✗][4✗] → 3/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Fulminator Squad SAVE (3 dice): [3✓][4✓][5✓] → 3/3 saved (3 (+1 from LIGHT COVER, capped) = 2+)
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Fulminator Squad (FR 2): [3✗][5✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Cultist Troopers 3] Overwatch Reaction vs Fulminator Squad: no damage
+  [MOVEMENT] Rapacious Crusader 3 moved to (2,7)
+  [MOVEMENT] Legionnaire Squad 1 moved to (6,8)
+  [MOVEMENT] Cultist Troopers 1 moved to (3,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Rapacious Crusader 1 moved to (8,8)
+  [MOVEMENT] [Cultist Troopers 4] FALL BACK TEST: INI 5 against 4, needs 3+, rolled 1 - FAILED
+  [MOVEMENT] Mana: Player B +1 (29 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] Mana: Player B +1 (30 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 4 SAVES (slow roll): [no save→Cultist][no save→Cultist] → 0/2 saved, 1 models killed
+  [MOVEMENT] [Cultist Troopers 4] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] Cultist Troopers 4 moved to (9,5)
+  [MOVEMENT] [Cultist Troopers 4] Fall Back to (9,5)
+  [MOVEMENT] Forsaken moved to (5,10)
+  [MOVEMENT] Forsaken Charges Fulminator Squad, Earthshaker Mortar
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [MOVEMENT] MISSION COMPLETE: "COORDINATED PUSH" -> Player B +2 VP +1 CP!
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Legionnaire Squad 1 opens fire with 2 combat groups
+  [ACTION] 4x Imperial Bolt-Action Rifle (Legionnaire) HIT vs Cultist Troopers 3 (FR 8): [3✓][5✓][5✓][4✓][3✓][5✓][4✓][2✗] → 7/8 hits (needs 3+)
+  [ACTION] Mana: Player B +2 (32 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (34 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (36 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (38 total) - TITHE OF TORMENT
+  [ACTION]   Cultist Troopers 3 SAVE (7 dice): [5✗][1✗][6✗][6✗][6✗][3✗][6✗] → 0/7 saved (6 (+1 from AP) = 7+)
+  [ACTION]   Cultist Troopers 3 takes 14 damage (20 → 6)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] 1x Imperial Bolt-Action Rifle (Decanus) HIT vs Cultist Troopers 3 (FR 2): [3✓][4✓] → 2/2 hits (needs 3+)
+  [ACTION]   Cultist Troopers 3 SAVE (2 dice): [6✗][5✗] → 0/2 saved (6 (+1 from AP) = 7+)
+  [ACTION]   Cultist Troopers 3 takes 4 damage (6 → 2)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] The Chairman of the Chamber uses Margin Call!
+  [ACTION] The Chairman of the Chamber MARGIN CALL: Target 1 ELITE/EPIC/EPIC HERO enemy unit. That target's weapons suffer -X AR/FR (min 1), where X is the number of friendly GREED units holding at least 1 Gold within this unit's Command Range, until the end of the Battle Round.
+  [ACTION] Earthshaker Mortar opens fire with 1 combat group
+  [ACTION] 1x Earthshaker Mortar Shell (Earthshaker Mortar Wagon) HIT vs Rapacious Crusader 1 roll: 6 (needs 4+) => HIT
+  [ACTION]   Rapacious Crusader 1 SAVE roll: 5 (3 (+1 from AP) = 4+) => SAVED
+  [ACTION] Rapacious Crusader 1 opens fire with 1 combat group
+  [ACTION] 1x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 1x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) HIT vs Legionnaire Squad 1 (FR 5): [1✗][3✗][6✓][5✓][5✓][5✓] → 4/5 hits (needs 4+)
+  [ACTION]   Legionnaire Squad 1 SAVE (4 dice): [1✗][6✓][3✗][1✗] → 1/4 saved (4 (+1 from AP) = 5+)
+  [ACTION]   Legionnaire Squad 1 takes 6 damage (10 → 4)
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION] Fulminator Squad attacks in melee with 2 combat groups
+  [ACTION] Fulminator Squad engages Forsaken in melee combat
+  [ACTION]   Initiative: Forsaken (INI 7, +3 charge) → Fulminator Squad (INI 5)
+  [ACTION]   Forsaken counterattacks
+  [ACTION]   Forsaken spends 1 APt to counterattack
+  [ACTION]   Forsaken (10x Nailed Cross-Club) MELEE vs Fulminator Squad (AR 10): [5✓][4✓][4✓][4✓][4✓][2✗][2✗][2✗][2✗][1✗] → 5 hits [MS 3]
+  [ACTION]   Fulminator Squad: 1 damage (6 → 5)
+  [ACTION]   Fulminator Squad (2x Combat Knife) MELEE vs Forsaken (AR 2): [4✓][1✗] → 1 hits [MS 3]
+  [ACTION]   Forsaken: 1 damage (10 → 9)
+  [ACTION]   Forsaken destroyed
+  [ACTION] Fulminator Squad SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Fulminator Squad (Combat Knife) MELEE vs Forsaken (AR 1): [6✓][1✗] → 1 hits [MS 3]
+  [ACTION]   Forsaken: 1 damage (9 → 8)
+  [ACTION]   Forsaken destroyed
+  [ACTION] Rapacious Crusader 3 opens fire with 1 combat group
+  [ACTION] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) SUSTAINED ATTACK 1: 3 extra dice from 3 critical hits
+  [ACTION] 3x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) HIT vs Ironthunder Vanguard 2 (FR 15): [5✓][6✓][3✗][1✗][6✓][4✓][2✗][6✓][2✗][1✗][4✓][5✓][4✓][4✓][5✓][5✓][4✓][3✗] → 12/15 hits (needs 4+)
+  [ACTION]   Ironthunder Vanguard 2 SAVE (12 dice): [5✓][6✓][6✓][(2→)4✓][(3→)2✗][(3→)1✗][4✓][5✓][5✓][5✓][4✓][(2→)3✗] → 9/12 saved (3 (+1 from AP) = 4+)
+  [ACTION]   Ironthunder Vanguard 2 takes 3 damage (12 → 9)
+  [ACTION] Mana: Player A +5 (5 total) - Channel Mana
+  [ACTION] Augur channels Mana: +5
+  [ACTION] Cultist Troopers 3 opens fire with 1 combat group
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Legionnaire Squad 1 (FR 2): [4✗][6✓] → 1/2 hits (needs 5+)
+  [ACTION]   Legionnaire Squad 1 SAVE roll: 2 (needs 4+) => FAILED
+  [ACTION]   Legionnaire Squad 1 takes 1 damage (4 → 3)
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Ironthunder Vanguard 2 Morale Test (4+): 5 -1 = 4 - PASSED
+  [ACTION] Mana: Player B -3 (35 total) - spent
+  [ACTION] Stygian Actuary casts Whisper of Despair on Ironthunder Vanguard 2
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 11 vs 6)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 6 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 7 vs 0)
+  [CLEANUP] VP - Player A: 19 | Player B: 21
+  [CLEANUP] PRIMARY COORDINATED SUPPRESSION: Player A scores 2 VP (4/10)
+  [CLEANUP] PRIMARY RAISE THE STANDARD: Player B scores 2 VP (10/10)
+  [CLEANUP] Pietas: Player A +5 (15 total, tier 5) - friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player A advances to Tier V - friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 5 ===
+A:Legio XIII: VP +2 (obj 0, primary 2, missions 0) = 23; CP +2 -3 holds 0 [3 Secure Objective → Legionnaire Squad 1]
+  mana: +0 -4 holds 1 [4 Cast Ira Iovis]
+B:Bailiffs of Petra: VP +4 (obj 2, primary 0, missions 2) = 27; CP +3 -3 holds 1 [3 Troop Requisition → Cultist Troopers]
+  mana: +10 -2 holds 43 [2 Cast Gaze of the Abyss]
+A:Legio XIII keeps mission TAKE UP THE GAUNTLET (offered FORWARD DEPLOYMENT / TAKE UP THE GAUNTLET)
+B:Bailiffs of Petra keeps mission SECURE THE FLANKS (offered VIGILANT WATCH / SECURE THE FLANKS)
+B:Bailiffs of Petra mission TAKE UP THE GAUNTLET: expired
+B:Bailiffs of Petra mission SECURE THE FLANKS: completed
+Moves:
+  [MOVEMENT] A:Legio XIII Legionnaire Squad 1 + Augur 6,8 -> 5,7
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers #3 8,2 -> 8,5
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 1 + Legatus 12,6 -> 9,7 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 1 + The Chairman of the Chamber 8,8 -> 8,10
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 2 6,7 -> 3,7 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 3 8,7 -> 7,7
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 4 9,5 -> 8,4
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 3 + Stygian Actuary 2,7 -> 1,8
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 1 3,9 -> 4,9
+Combat:
+  [ACTION] magic (Ira Iovis): A:Legio XIII Augur -> Stygian Actuary: Rapacious Crusader 3 -5
+  [ACTION] magic (Gaze of the Abyss): B:Bailiffs of Petra Stygian Actuary -> Legionnaire Squad 1: no damage
+  [ACTION] ranged: A:Legio XIII Earthshaker Mortar -> Cultist Troopers #3: Cultist Troopers #3 -10
+  [ACTION] ranged: B:Bailiffs of Petra The Chairman of the Chamber -> Legionnaire Squad 1: Legionnaire Squad 1 -3 DESTROYED, Augur -2
+  [ACTION] melee: A:Legio XIII Fulminator Squad -> Forsaken: Fulminator Squad -2, Forsaken -1
+  [ACTION] ranged: B:Bailiffs of Petra Cultist Troopers 4 -> Augur: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Legatus (no legal action), A:Ironthunder Vanguard 1 (no legal action), A:Ironthunder Vanguard 2 (no legal action), B:HQ (no legal action), B:Cultist Troopers 1 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Legio XIII Legion Master: nothing - no change
+  [COMMAND] A:Legio XIII Secure Objective on Legionnaire Squad 1: nothing - gave Legionnaire Squad 1: OC +1; Augur: OC +1; 2 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Bailiffs of Petra Troop Requisition on (8,2): paid off - placed Cultist Troopers #3; the unit it placed made 1 attack(s), 2 HP off; the unit it placed drew 2 enemy attack(s), 10 HP
+  [ACTION] A:Legio XIII Ira Iovis on Stygian Actuary: paid off - its effect took 5 HP off enemies
+  [ACTION] B:Bailiffs of Petra Gaze of the Abyss on Legionnaire Squad 1: nothing - gave Legionnaire Squad 1: MS -1, BS -1; Augur: MS -1, BS -1; 3 attack(s) it touched: +0 expected HP for its side
+Passive rules:
+  Legio Divinitus Benedicta (Fulminator Squad): 1 attack, 0.21 expected HP for its side
+  Thundershock Assault (Ironthunder Vanguard 1): fired 1 time (force_test)
+  Thundershock Assault (Ironthunder Vanguard 2): fired 1 time (force_test)
+  Tithe of Torment (Rapacious Crusader 3): fired 5 times (add_resource)
+  Tithe of Torment (Cultist Troopers #3): fired 5 times (add_resource)
+  Tithe of Torment (Forsaken): fired 1 time (add_resource)
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 4 (3 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 3 (2 without Slave To Cupidity)
+  Cultist Troopers 4: MOVE 3 (2 without Slave To Cupidity)
+Scored by:
+  B:Bailiffs of Petra objectives (1,7) 2 VP: Rapacious Crusader 3 2.0; hinged on Rapacious Crusader 3
+  A:Legio XIII primary COORDINATED SUPPRESSION 2 VP: no unit, unassigned 2
+  B:Bailiffs of Petra missions SECURE THE FLANKS 2 VP: Stygian Actuary 1.0, Rapacious Crusader 3 1.0
+Log:
+  [CLEANUP] ═══ ROUND 5 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 6 to 7)
+  [CLEANUP] BATTLE ROUND 5 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 5 - A:3 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:3 B:3
+  [COMMAND] Player A picks mission: TAKE UP THE GAUNTLET
+  [COMMAND] Player B picks mission: SECURE THE FLANKS
+  [COMMAND] TAKE UP THE GAUNTLET: Player B picks the objective at (1,7)
+  [COMMAND] HQ Command: Secure Objective -> Legionnaire Squad 1 (cost 3 CP) by Player A
+  [COMMAND] SECURE OBJECTIVE: each model in Legionnaire Squad 1 gains +1 OC this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player B
+  [COMMAND] TROOP REQUISITION: Cultist Troopers deployed at (8,2) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Legionnaire Squad 1 Morale Test (3+): 5 = 5 - PASSED
+  [COMMAND] Rapacious Crusader 1 Morale Test (4+): 4 = 4 - PASSED
+  [COMMAND] Cultist Troopers 3 Morale Test (4+): 3 = 3 - FAILED, now SUPPRESSED
+  [COMMAND] Cultist Troopers 1 Morale Test (4+): 4 = 4 - PASSED
+  [COMMAND] Cultist Troopers 4 Morale Test (4+): 3 = 3 - FAILED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Legionnaire Squad 1 moved to (5,7)
+  [MOVEMENT] Cultist Troopers moved to (8,5)
+  [MOVEMENT] Ironthunder Vanguard 1 moved to (9,7)
+  [MOVEMENT] Ironthunder Vanguard 1 Charges The Chairman of the Chamber, Rapacious Crusader 1, Cultist Troopers 3
+  [MOVEMENT] [Rapacious Crusader 1] FALL BACK TEST: INI 5 against 5, needs 4+, rolled 5 - breaks away
+  [MOVEMENT] Rapacious Crusader 1 moved to (8,10)
+  [MOVEMENT] [Rapacious Crusader 1] Fall Back to (8,10)
+  [MOVEMENT] Ironthunder Vanguard 2 moved to (3,7)
+  [MOVEMENT] Ironthunder Vanguard 2 Charges Stygian Actuary, Rapacious Crusader 3
+  [MOVEMENT] [Cultist Troopers 3] FALL BACK TEST: INI 5 against 5, needs 4+, rolled 4 - breaks away
+  [MOVEMENT] Cultist Troopers 3 moved to (7,7)
+  [MOVEMENT] [Cultist Troopers 3] Fall Back to (7,7)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Cultist Troopers 4 moved to (8,4)
+  [MOVEMENT] [Rapacious Crusader 3] FALL BACK TEST: INI 5 against 4, needs 3+, rolled 6 - breaks away
+  [MOVEMENT] Rapacious Crusader 3 moved to (1,8)
+  [MOVEMENT] [Rapacious Crusader 3] Fall Back to (1,8)
+  [MOVEMENT] Cultist Troopers 1 moved to (4,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Mana: Player B +1 (36 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +1 (37 total) - TITHE OF TORMENT
+  [ACTION]   Rapacious Crusader destroyed
+  [ACTION] Mana: Player B +1 (38 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +1 (39 total) - TITHE OF TORMENT
+  [ACTION]   Rapacious Crusader destroyed
+  [ACTION] Mana: Player B +1 (40 total) - TITHE OF TORMENT
+  [ACTION]   Rapacious Crusader 3 SAVES (slow roll): [no save→Rapacious Crusader][no save→Rapacious Crusader][no save→Rapacious Crusader][no save→Rapacious Crusader][no save→Rapacious Crusader Baron-Sergeant] → 0/5 saved, 2 models killed
+  [ACTION] Mana: Player A -4 (1 total) - spent
+  [ACTION] Augur casts Ira Iovis on Stygian Actuary
+  [ACTION] Mana: Player B -2 (38 total) - spent
+  [ACTION] Stygian Actuary casts Gaze of the Abyss on Legionnaire Squad 1
+  [ACTION] Earthshaker Mortar opens fire with 1 combat group
+  [ACTION]   SWEEP 5: +10 FR (10 per model x 1 model, vs 10 target models)
+  [ACTION] 1x Earthshaker Mortar Shell (Earthshaker Mortar Wagon) HIT vs Cultist Troopers (FR 11): [5✓][6✓][5✓][5✓][3✗][3✗][4✗][1✗][2✗][5✓][5✓] → 6/11 hits (needs 4+) [HIT mod: -1 ruins CONCEALMENT]
+  [ACTION] Mana: Player B +2 (40 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (42 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +1 (43 total) - TITHE OF TORMENT
+  [ACTION]   Cultist Troopers SAVE (6 dice): [5✗][2✗][3✗][6✓][5✗][5✗] → 1/6 saved (needs 6+)
+  [ACTION]   Cultist Troopers takes 10 damage (20 → 10)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] The Chairman of the Chamber opens fire with 1 combat group
+  [ACTION] 1x Dividend Engine (The Chairman of the Chamber) HIT vs Legionnaire Squad 1 (FR 6): [2✗][5✓][1✗][5✓][5✓][1✗] → 3/6 hits (needs 3+)
+  [ACTION]   Legionnaire Squad 1 SAVE (3 dice): [1✗@5+→Legionnaire][3✗@5+→Legionnaire][5✗@6+→Legionnaire] → 0/3 saved
+  [ACTION]   Legionnaire Squad 1 takes 3 damage (3 → 0)
+  [ACTION]   Augur takes 2 damage (4 → 2)
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Decanus destroyed
+  [ACTION]   Legionnaire Squad 1 has lost its leader - LEADERLESS
+  [ACTION]   Legionnaire Squad 1 DESTROYED
+  [ACTION] Fulminator Squad attacks in melee with 2 combat groups
+  [ACTION] Fulminator Squad engages Forsaken in melee combat
+  [ACTION]   Initiative: Fulminator Squad (INI 5) → Forsaken (INI 4)
+  [ACTION]   Fulminator Squad (2x Combat Knife) MELEE vs Forsaken (AR 2): [5✓][3✗] → 1 hits [MS 3]
+  [ACTION]   Fulminator Squad (Combat Knife) MELEE vs Forsaken (AR 1): [4✓] → 1 hits [MS 3]
+  [ACTION]   Forsaken: 1 damage (8 → 7)
+  [ACTION]   Forsaken destroyed
+  [ACTION]   Forsaken counterattacks
+  [ACTION]   Forsaken spends 1 APt to counterattack
+  [ACTION]   Forsaken (7x Nailed Cross-Club) MELEE vs Fulminator Squad (AR 7): [6✓][5✓][3✗][3✗][2✗][1✗][1✗] → 2 hits [MS 3]
+  [ACTION]   Fulminator Squad: 2 damage (5 → 3)
+  [ACTION]   Fulminator Legionary destroyed
+  [ACTION] Cultist Troopers 4 opens fire with 2 combat groups
+  [ACTION] 7x Renegade Bolt-Action Rifle (Cultist) HIT vs Augur (FR 14): [2✗][6✓][4✗][5✗][4✗][4✗][2✗][5✗][3✗][2✗][6✓][5✗][5✗][2✗] → 2/14 hits (needs 5+) [HIT mod: -1 SUPPRESSED]
+  [ACTION]   Augur SAVE (2 dice): [5✓][6✓] → 2/2 saved (needs 5+)
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Augur (FR 2): [6✓][5✗] → 1/2 hits (needs 5+) [HIT mod: -1 SUPPRESSED]
+  [ACTION]   Augur SAVE roll: 6 (needs 5+) => SAVED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 2 vs 0)
+  [CLEANUP] VP - Player A: 21 | Player B: 25
+  [CLEANUP] PRIMARY COORDINATED SUPPRESSION: Player A scores 2 VP (6/10)
+  [CLEANUP] MISSION COMPLETE: "SECURE THE FLANKS" -> Player B +2 VP +1 CP!
+  [CLEANUP] Mission "TAKE UP THE GAUNTLET" EXPIRED (R5)
+
+=== BATTLE ROUND 6 ===
+A:Legio XIII: VP +10 (obj 5, primary 3, missions 2) = 33; CP +2 -2 holds 0 [2 Rally cry (reaction) for Ironthunder Vanguard 2]
+B:Bailiffs of Petra: VP +0 (obj 0, primary 0, missions 0) = 27; CP +2 -2 holds 1 [2 Rally cry (reaction) for Rapacious Crusader 1]
+  mana: +7 -3 holds 47 [3 Cast Whisper of Despair]
+A:Legio XIII keeps mission DEEP REACH (offered INTO THE FRAY / DEEP REACH)
+B:Bailiffs of Petra keeps mission FORWARD DEPLOYMENT (offered FORWARD DEPLOYMENT / OMNIPRESENCE)
+A:Legio XIII mission COORDINATED PUSH: expired
+A:Legio XIII mission TAKE UP THE GAUNTLET: completed
+A:Legio XIII mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 2 3,7 -> 2,8 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers #3 8,5 -> 6,8 (charge)
+  [MOVEMENT] A:Legio XIII Ironthunder Vanguard 1 + Legatus 9,7 -> 8,7 (charge)
+  [MOVEMENT] B:Bailiffs of Petra Cultist Troopers 1 4,9 -> 5,9 (charge)
+  [MOVEMENT] A:Legio XIII Augur 5,7 -> 6,5
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 3 + Stygian Actuary 1,8 -> 0,8
+  [MOVEMENT] B:Bailiffs of Petra Rapacious Crusader 1 + The Chairman of the Chamber 8,10 -> 8,9
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Cultist Troopers 3: Cultist Troopers 3 -2 DESTROYED
+  [ACTION] melee: A:Legio XIII Fulminator Squad -> Cultist Troopers #3: Fulminator Squad -2
+  [ACTION] ranged: A:Legio XIII Earthshaker Mortar -> Cultist Troopers 4: Cultist Troopers 4 -5
+  [ACTION] ranged: B:Bailiffs of Petra Rapacious Crusader 1 -> Legatus: Ironthunder Vanguard 1 -2
+  [ACTION] melee: B:Bailiffs of Petra Forsaken -> Fulminator Squad: Fulminator Squad -1 DESTROYED
+  [ACTION] magic (Whisper of Despair): B:Bailiffs of Petra Stygian Actuary -> Ironthunder Vanguard 2: no damage
+  [ACTION] ranged: B:Bailiffs of Petra Cultist Troopers 4 -> Augur: Augur -2 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Legatus (no legal action), A:Ironthunder Vanguard 1 (no legal action), A:Ironthunder Vanguard 2 (no legal action), B:HQ (no legal action), B:Cultist Troopers 1 (no legal action)
+Commands and abilities:
+  [COMMAND] A:Legio XIII Legion Master: nothing - no change
+  [COMMAND] B:Bailiffs of Petra Rally Cry on Rapacious Crusader 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] B:Bailiffs of Petra Margin Call on Legatus: nothing - no change
+  [ACTION] B:Bailiffs of Petra Whisper of Despair on Ironthunder Vanguard 2: nothing - no change
+  [ACTION] A:Legio XIII Rally Cry on Ironthunder Vanguard 2: paid off - passed 1 Morale Test(s) outright
+Passive rules:
+  Legio Divinitus Benedicta (Fulminator Squad): 1 attack, 0.07 expected HP for its side
+  Thundershock Assault (Ironthunder Vanguard 2): fired 1 time (force_test)
+  Thundershock Assault (Ironthunder Vanguard 1): fired 1 time (force_test)
+  Tithe of Torment (Cultist Troopers 3): fired 2 times (add_resource)
+  Tithe of Torment (Cultist Troopers 4): fired 3 times (add_resource)
+  Slave To Cupidity (Cultist Troopers 4): fired 1 time (mod_unit_resource)
+  Legatus: MOVE 3 (2 without Ichor Injectors)
+  Ironthunder Vanguard 1: MOVE 3 (2 without Ichor Injectors)
+  The Chairman of the Chamber: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 1: MOVE 4 (3 without Slave To Cupidity)
+  Stygian Actuary: MOVE 3 (2 without Slave To Cupidity)
+  Cultist Troopers 1: MOVE 3 (2 without Slave To Cupidity)
+  Forsaken: MOVE 4 (3 without Slave To Cupidity)
+  Rapacious Crusader 3: MOVE 3 (2 without Slave To Cupidity)
+  Cultist Troopers 3: MOVE 4 (3 without Slave To Cupidity)
+  Cultist Troopers 4: MOVE 3 (2 without Slave To Cupidity)
+Scored by:
+  A:Legio XIII objectives (7,7) 3 VP: Ironthunder Vanguard 1 3.0; hinged on Ironthunder Vanguard 1
+  A:Legio XIII objectives (1,7) 2 VP: Ironthunder Vanguard 2 2.0; hinged on Ironthunder Vanguard 2
+  A:Legio XIII primary COORDINATED SUPPRESSION 3 VP: no unit, unassigned 3
+  A:Legio XIII missions DEEP REACH 2 VP (1 withheld by the round's VP cap): HQ 1.3, Ironthunder Vanguard 1 0.3, Ironthunder Vanguard 2 0.3
+Log:
+  [CLEANUP] ═══ ROUND 6 BEGINS ═══
+  [CLEANUP] PRIORITY: Player A (fewer units on the battlefield, 6 to 8)
+  [CLEANUP] BATTLE ROUND 6 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 6 - A:2 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:2 B:3
+  [COMMAND] Player A picks mission: DEEP REACH
+  [COMMAND] Player B picks mission: FORWARD DEPLOYMENT
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via The Chairman of the Chamber (cost 2 CP) - Rapacious Crusader 1
+  [COMMAND] Rapacious Crusader 1 Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Cultist Troopers 1 Morale Test (4+): 3 = 3 - FAILED, now SUPPRESSED
+  [COMMAND] Rapacious Crusader 3 Morale Test (4+): 2 = 2 - FAILED, now SUPPRESSED
+  [COMMAND] Cultist Troopers 3 Morale Test (4+): 5 = 5 - PASSED
+  [COMMAND] Cultist Troopers 4 Morale Test (4+): 2 = 2 - FAILED
+  [MOVEMENT] MOVEMENT PHASE - Player A has Priority
+  [MOVEMENT] Ironthunder Vanguard 2 moved to (2,8)
+  [MOVEMENT] Ironthunder Vanguard 2 Charges Stygian Actuary, Rapacious Crusader 3
+  [MOVEMENT] Cultist Troopers moved to (6,8)
+  [MOVEMENT] Cultist Troopers Charges Fulminator Squad, Augur
+  [MOVEMENT] Ironthunder Vanguard 1 moved to (8,7)
+  [MOVEMENT] Ironthunder Vanguard 1 Charges Cultist Troopers 3
+  [MOVEMENT] Cultist Troopers 3 Morale Test (4+): 4 = 4 - PASSED
+  [MOVEMENT] Cultist Troopers 1 moved to (5,9)
+  [MOVEMENT] Cultist Troopers 1 Charges Fulminator Squad
+  [MOVEMENT] [Augur] FALL BACK TEST: INI 5 against 5, needs 4+, rolled 6 - breaks away
+  [MOVEMENT] Augur moved to (6,5)
+  [MOVEMENT] [Augur] Fall Back to (6,5)
+  [MOVEMENT] [Rapacious Crusader 3] FALL BACK TEST: INI 5 against 4, needs 3+, rolled 6 - breaks away
+  [MOVEMENT] Rapacious Crusader 3 moved to (0,8)
+  [MOVEMENT] [Rapacious Crusader 3] Fall Back to (0,8)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Rapacious Crusader 1 moved to (8,9)
+  [MOVEMENT] [Cultist Troopers 3] FALL BACK TEST: INI 5 against 5, needs 4+, rolled 3 - FAILED
+  [MOVEMENT] Mana: Player B +1 (44 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player B +1 (45 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Chosen destroyed
+  [MOVEMENT]   Cultist Troopers 3 has lost its leader - LEADERLESS
+  [MOVEMENT]   Cultist Troopers 3 SAVES (slow roll): [no save→Cultist Chosen][no save→Cultist Chosen] → 0/2 saved, 1 models killed
+  [MOVEMENT] [Cultist Troopers 3] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] [Cultist Troopers 3] was destroyed while attempting to FALL BACK
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player A has Priority
+  [ACTION] Fulminator Squad attacks in melee with 2 combat groups
+  [ACTION] Fulminator Squad engages Cultist Troopers in melee combat
+  [ACTION]   Initiative: Cultist Troopers (INI 8, +3 charge) → Fulminator Squad (INI 5)
+  [ACTION]   Cultist Troopers counterattacks
+  [ACTION]   Cultist Troopers spends 1 APt to counterattack
+  [ACTION]   Cultist Troopers (4x Renegade Bayonet) MELEE vs Fulminator Squad (AR 4): [6✓][5✓][5✓][3✗] → 3 hits [MS 3]
+  [ACTION]   Fulminator Squad: 2 damage (3 → 1)
+  [ACTION]   Fulminator Legionary destroyed
+  [ACTION]   Cultist Troopers (Renegade Bayonet) MELEE vs Fulminator Squad (AR 1): [6✓] → 1 hits [MS 3]
+  [ACTION]   Fulminator Squad (Combat Knife) MELEE vs Cultist Troopers (AR 1): [3✗] → 0 hits [MS 3]
+  [ACTION] The Chairman of the Chamber uses Margin Call!
+  [ACTION] The Chairman of the Chamber MARGIN CALL: Target 1 ELITE/EPIC/EPIC HERO enemy unit. That target's weapons suffer -X AR/FR (min 1), where X is the number of friendly GREED units holding at least 1 Gold within this unit's Command Range, until the end of the Battle Round.
+  [ACTION] Earthshaker Mortar opens fire with 1 combat group
+  [ACTION]   SWEEP 5: +5 FR (5 per model x 1 model, vs 8 target models)
+  [ACTION] 1x Earthshaker Mortar Shell (Earthshaker Mortar Wagon) HIT vs Cultist Troopers 4 (FR 6): [3✗][6✓][1✗][3✗][5✓][5✓] → 3/6 hits (needs 4+) [HIT mod: -1 ruins CONCEALMENT]
+  [ACTION] Mana: Player B +1 (46 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (48 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player B +2 (50 total) - TITHE OF TORMENT
+  [ACTION]   Cultist Troopers 4 SAVE (3 dice): [1✗][5✗][1✗] → 0/3 saved (needs 6+)
+  [ACTION]   Cultist Troopers 4 takes 5 damage (15 → 10)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] Rapacious Crusader 1 opens fire with 1 combat group
+  [ACTION] 1x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 1x .303-inch Machine Gun (Rapacious Crusader Baron-Sergeant) HIT vs Legatus (FR 5): [2✗][3✗][6✓][4✓][5✓][2✗] → 3/5 hits (needs 4+)
+  [ACTION]   Legatus SAVE (3 dice): [(3→)3✗][(2→)2✗][6✓] → 1/3 saved (3 (+1 from AP) = 4+)
+  [ACTION]   Ironthunder Vanguard 1 takes 2 damage (11 → 9)
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Forsaken attacks in melee with 1 combat group
+  [ACTION] Forsaken engages Fulminator Squad in melee combat
+  [ACTION]   Forsaken (7x Nailed Cross-Club) MELEE vs Fulminator Squad (AR 7): [6✓][6✓][5✓][4✓][2✗][2✗][2✗] → 4 hits [MS 3]
+  [ACTION]   Fulminator Squad: 1 damage (1 → 0)
+  [ACTION]   Fulminator Decanus destroyed
+  [ACTION]   Fulminator Squad has lost its leader - LEADERLESS
+  [ACTION]   Fulminator Squad DESTROYED in melee!
+  [ACTION] Mana: Player B -3 (47 total) - spent
+  [ACTION] Stygian Actuary casts Whisper of Despair on Ironthunder Vanguard 2
+  [ACTION] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Ironthunder Vanguard 2
+  [ACTION] Ironthunder Vanguard 2 Morale Test - PASSED (RALLY CRY)
+  [ACTION] Cultist Troopers 4 opens fire with 2 combat groups
+  [ACTION] 4x Renegade Bolt-Action Rifle (Cultist) HIT vs Augur (FR 8): [6✓][1✗][2✗][5✗][5✗][1✗][6✓][3✗] → 2/8 hits (needs 5+) [HIT mod: -1 ruins CONCEALMENT, -1 SUPPRESSED]
+  [ACTION] Cultist Troopers 4 Gold 0 -> 1 (Slave To Cupidity)
+  [ACTION]   Augur SAVE (2 dice): [2✗][1✗] → 0/2 saved (5 (+1 from LIGHT COVER, capped) = 4+)
+  [ACTION]   Augur takes 2 damage (2 → 0)
+  [ACTION]   Augur destroyed
+  [ACTION]   Augur has lost its leader - LEADERLESS
+  [ACTION]   Augur DESTROYED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 7 vs 5)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 6 vs 0)
+  [CLEANUP] VP - Player A: 28 | Player B: 27
+  [CLEANUP] PRIMARY COORDINATED SUPPRESSION: Player A scores 3 VP (9/10)
+  [CLEANUP] VP CAP: Player A MISSION DEEP REACH - 1 of 3 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player A +2 VP!
+  [CLEANUP] VP CAP: Player A MISSION TAKE UP THE GAUNTLET - 3 of 3 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "TAKE UP THE GAUNTLET" -> Player A +0 VP!
+  [CLEANUP] Mission "COORDINATED PUSH" EXPIRED (R6)
+
+Damage leaders:
+  A:Legio XIII Ironthunder Vanguard 2: 32 damage, 1 kills, 35 RP, 0.91/RP
+  A:Legio XIII Earthshaker Mortar: 31 damage, 0 kills, 30 RP, 1.03/RP
+  A:Legio XIII Legionnaire Squad 1: 26 damage, 1 kills, 20 RP, 1.30/RP (destroyed)
+  A:Legio XIII Ironthunder Vanguard 1: 16 damage, 0 kills, 40 RP, 0.40/RP
+  A:Legio XIII Fulminator Squad: 15 damage, 1 kills, 20 RP, 0.75/RP (destroyed)
+  B:Bailiffs of Petra Rapacious Crusader 1: 13 damage, 0 kills, 30 RP, 0.43/RP
+  B:Bailiffs of Petra Master of Coin: 6 damage, 1 kills, 35 RP, 0.17/RP (destroyed)
+  B:Bailiffs of Petra Rapacious Crusader 2: 6 damage, 1 kills, 30 RP, 0.20/RP (destroyed)
+  B:Bailiffs of Petra The Chairman of the Chamber: 5 damage, 1 kills, 60 RP, 0.08/RP
+  A:Legio XIII Augur: 5 damage, 0 kills, 17 RP, 0.29/RP (destroyed)
+  B:Bailiffs of Petra Forsaken: 4 damage, 1 kills, 7 RP, 0.57/RP
+  A:Legio XIII Legionnaire Squad 2: 4 damage, 0 kills, 20 RP, 0.20/RP (destroyed)
+  B:Bailiffs of Petra Rapacious Crusader 3: 3 damage, 0 kills, 30 RP, 0.10/RP
+  A:Legio XIII Speculatores: 3 damage, 0 kills, 18 RP, 0.17/RP (destroyed)
+  B:Bailiffs of Petra Cultist Troopers 4: 2 damage, 1 kills, 10 RP, 0.20/RP
+  A:Legio XIII Legatus: 2 damage, 1 kills, 50 RP, 0.04/RP
+  B:Bailiffs of Petra Cultist Troopers #3: 2 damage, 0 kills, 10 RP, 0.20/RP
+  B:Bailiffs of Petra Cultist Troopers 3: 1 damage, 0 kills, 10 RP, 0.10/RP (destroyed)
+Friendly fire (HP and units a unit took off its own side):
+  B:Bailiffs of Petra Master of Coin: 2 HP, destroyed Cultist Troopers 2
+VP contributed (fair share; objective VP that hinged on it):
+  A:Legio XIII Ironthunder Vanguard 2: 10.3 VP (obj 10.0, primary 0.0, missions 0.3), hinged 11, 29.5/100 RP
+  B:Bailiffs of Petra Rapacious Crusader 3: 7.3 VP (obj 6.0, primary 0.0, missions 1.3), hinged 6, 24.4/100 RP
+  B:Bailiffs of Petra Cultist Troopers 1: 5.6 VP (obj 2.5, primary 2.7, missions 0.3), hinged 2, 55.7/100 RP
+  A:Legio XIII Ironthunder Vanguard 1: 5.3 VP (obj 5.0, primary 0.0, missions 0.3), hinged 3, 13.3/100 RP
+  B:Bailiffs of Petra Forsaken: 4.1 VP (obj 0.0, primary 3.7, missions 0.3), hinged 0, 58.0/100 RP
+  A:Legio XIII Fulminator Squad: 4.0 VP (obj 0.0, primary 0.0, missions 4.0), hinged 0, 20.0/100 RP
+  B:Bailiffs of Petra Cultist Troopers 4: 3.1 VP (obj 0.0, primary 2.8, missions 0.3), hinged 0, 31.4/100 RP
+  B:Bailiffs of Petra Cultist Troopers: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 2, 20.0/100 RP
+  A:Legio XIII Legatus: 2.0 VP (obj 2.0, primary 0.0, missions 0.0), hinged 0, 4.0/100 RP
+  A:Legio XIII HQ: 1.3 VP (obj 0.0, primary 0.0, missions 1.3), hinged 0, -/100 RP
+  B:Bailiffs of Petra Rapacious Crusader 1: 1.1 VP (obj 0.8, primary 0.0, missions 0.3), hinged 0, 3.8/100 RP
+  B:Bailiffs of Petra Cultist Troopers 3: 1.1 VP (obj 0.0, primary 0.8, missions 0.3), hinged 0, 11.1/100 RP
+  B:Bailiffs of Petra Stygian Actuary: 1.0 VP (obj 0.0, primary 0.0, missions 1.0), hinged 0, 6.3/100 RP
+  B:Bailiffs of Petra Rapacious Crusader 2: 0.8 VP (obj 0.8, primary 0.0, missions 0.0), hinged 0, 2.7/100 RP
+  B:Bailiffs of Petra The Chairman of the Chamber: 0.6 VP (obj 0.6, primary 0.0, missions 0.0), hinged 0, 0.9/100 RP
+  A:Legio XIII Augur: 0.5 VP (obj 0.5, primary 0.0, missions 0.0), hinged 0, 2.9/100 RP
+  A:Legio XIII Legionnaire Squad 1: 0.5 VP (obj 0.5, primary 0.0, missions 0.0), hinged 0, 2.5/100 RP
+  B:Bailiffs of Petra Master of Coin: 0.3 VP (obj 0.3, primary 0.0, missions 0.0), hinged 0, 0.9/100 RP
+  A:Legio XIII no unit: obj 0, primary 9, missions 0
+Activity (inaction score; actions: movement/ranged/melee/ability/magic):
+  A:Legio XIII Ironthunder Vanguard 1: inaction 5 (5 idle, 5 after moving, 0 Overwatch); actions 0/0/1/0/0
+  A:Legio XIII Legatus: inaction 5 (5 idle, 5 after moving, 0 Overwatch); actions 0/0/1/0/0
+  A:Legio XIII Ironthunder Vanguard 2: inaction 4 (4 idle, 3 after moving, 0 Overwatch); actions 0/0/2/0/0
+  B:Bailiffs of Petra Cultist Troopers 1: inaction 3.75 (4 idle, 4 after moving, 1 Overwatch); actions 1/0/1/0/0
+  B:Bailiffs of Petra Forsaken: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 0/0/3/0/0
+  B:Bailiffs of Petra Rapacious Crusader 3: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 2/1/0/0/0
+  B:Bailiffs of Petra Cultist Troopers 3: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 2/1/0/0/0
+  B:Bailiffs of Petra Stygian Actuary: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/0/0/4
+  B:Bailiffs of Petra Cultist Troopers 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0
+  A:Legio XIII Legionnaire Squad 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/3/0/0/0
+  A:Legio XIII Augur: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 1/0/0/0/4
+  B:Bailiffs of Petra Cultist Troopers 4: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 2/2/1/0/0
+  B:Bailiffs of Petra Rapacious Crusader 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/0/0/0/0
+  A:Legio XIII Legionnaire Squad 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/1/0/0/0
+  B:Bailiffs of Petra Master of Coin: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/0/0
+  A:Legio XIII Earthshaker Mortar: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/5/0/0/0
+  A:Legio XIII Fulminator Squad: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/0/3/2/0
+  B:Bailiffs of Petra Rapacious Crusader 1: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 1/4/0/0/0
+  B:Bailiffs of Petra The Chairman of the Chamber: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/3/0
+  B:Bailiffs of Petra Cultist Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/0/0/0/0
+  B:Bailiffs of Petra Cultist Troopers #3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/1/0/0
+  A:Legio XIII Speculatores: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 7
+  B:Bailiffs of Petra Rapacious Crusader 3: 2 of 6 moves (2 back, 2 away from an objective), 4 squares lost
+  B:Bailiffs of Petra Rapacious Crusader 1: 1 of 6 moves (0 back, 1 away from an objective), 4 squares lost
+  B:Bailiffs of Petra Cultist Troopers 3: 1 of 5 moves (1 back, 0 away from an objective), 3 squares lost
+  A:Legio XIII Fulminator Squad: 1 of 4 moves (0 back, 1 away from an objective), 2 squares lost
+  A:Legio XIII Legionnaire Squad 2: 1 of 3 moves (1 back, 1 away from an objective), 2 squares lost
+  A:Legio XIII Ironthunder Vanguard 1: 1 of 7 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Legio XIII BREAK CONTACT (+2 VP): kept R1, expired R3 - Have a friendly unit Fall Back from an enemy unit, then be alive and not ENGAGED at the end of that Battle Round.
+  A:Legio XIII ASSASSINATION (+4 VP): kept R2, completed R3 - Destroy an enemy CHARACTER or MONSTER.
+  A:Legio XIII COORDINATED PUSH (+2 VP): kept R3, expired R6 - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  A:Legio XIII MAN OF THE HOUR (+4 VP): kept R4, active - Have one friendly unit destroy at least 2 enemy units during this Mission's duration.
+  A:Legio XIII TAKE UP THE GAUNTLET (+3 VP): kept R5, completed R6 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  A:Legio XIII DEEP REACH (+3 VP): kept R6, completed R6 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Bailiffs of Petra FOCUSED FIRE (+2 VP): kept R1, expired R2 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Bailiffs of Petra TAKE UP THE GAUNTLET (+3 VP): kept R2, expired R5 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  B:Bailiffs of Petra COORDINATED PUSH (+2 VP): kept R3, completed R4 - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  B:Bailiffs of Petra MAN OF THE HOUR (+4 VP): kept R4, active - Have one friendly unit destroy at least 2 enemy units during this Mission's duration.
+  B:Bailiffs of Petra SECURE THE FLANKS (+2 VP): kept R5, completed R5 - At the end of a Battle Round, have a friendly unit in the enemy half of the battlefield within 2 squares of a side edge.
+  B:Bailiffs of Petra FORWARD DEPLOYMENT (+1 VP): kept R6, active - At the end of a Battle Round, have no friendly units within 5 squares of your own HQ.

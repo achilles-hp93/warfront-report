@@ -1,0 +1,101 @@
+{
+ "attacks": [
+  {
+   "name": "Paragon of Chivalry",
+   "ability": "paragon_of_chivalry",
+   "player": 0,
+   "army": "Sword of Allah",
+   "owners": [
+    "Saladin - Al-Malik al-Nasir"
+   ],
+   "attacks": 12,
+   "added": 0,
+   "prevented": 5.33,
+   "total": 5.33
+  },
+  {
+   "name": "Atavistic Rage",
+   "ability": "atavistic_rage",
+   "player": 1,
+   "army": "Wolfshead Pack",
+   "owners": [
+    "Wildling Acolytes",
+    "Assault Lycanthropes",
+    "Beast-Monk",
+    "Mongrel Supplicants",
+    "Herald of Feral Affliction",
+    "Weretiger Stalkers"
+   ],
+   "attacks": 11,
+   "added": 12.74,
+   "prevented": 0,
+   "total": 12.74
+  },
+  {
+   "name": "Carrion Tide",
+   "ability": "carrion_tide",
+   "player": 1,
+   "army": "Wolfshead Pack",
+   "owners": [
+    "Wildling Acolytes"
+   ],
+   "attacks": 4,
+   "added": 2.54,
+   "prevented": 0,
+   "total": 2.54
+  },
+  {
+   "name": "Locust of Primal Fury",
+   "ability": "locust_of_primal_fury",
+   "player": 1,
+   "army": "Wolfshead Pack",
+   "owners": [
+    "Herald of Feral Affliction"
+   ],
+   "attacks": 3,
+   "added": 2.53,
+   "prevented": 0,
+   "total": 2.53
+  },
+  {
+   "name": "Rip and Tear",
+   "ability": "rip_and_tear",
+   "player": 1,
+   "army": "Wolfshead Pack",
+   "owners": [
+    "Assault Lycanthropes"
+   ],
+   "attacks": 1,
+   "added": 2,
+   "prevented": 0,
+   "total": 2
+  }
+ ],
+ "stilled": [],
+ "move": [],
+ "reach": []
+}
+--- by round
+R1
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 1 attack, 0.08 expected HP for its side
+R2
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 1 attack, 1.98 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 1.33 expected HP for its side
+  Atavistic Rage (Wildling Acolytes): 3 attacks, 5.06 expected HP for its side
+R3
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 4 attacks, 1.66 expected HP for its side
+  Atavistic Rage (Mongrel Supplicants): 5 attacks, 7.3 expected HP for its side
+  Rip and Tear (Assault Lycanthropes): 1 attack, 2 expected HP for its side
+  Locust of Primal Fury (Herald of Feral Affliction): 1 attack, 2.15 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 0.43 expected HP for its side
+R4
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 2 attacks, 0.76 expected HP for its side
+  Locust of Primal Fury (Herald of Feral Affliction): 1 attack, 0.16 expected HP for its side
+  Atavistic Rage (Wildling Acolytes): 1 attack, 0.16 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 0.43 expected HP for its side
+R5
+  Paragon of Chivalry (Saladin - Al-Malik al-Nasir): 4 attacks, 0.85 expected HP for its side
+  Locust of Primal Fury (Herald of Feral Affliction): 1 attack, 0.22 expected HP for its side
+  Atavistic Rage (Wildling Acolytes): 2 attacks, 0.22 expected HP for its side
+  Carrion Tide (Wildling Acolytes): 1 attack, 0.35 expected HP for its side
+--- heals [{"round":3,"phase":"ACTION","ability":"insatiable_hunger","name":"Insatiable Hunger","owner":34,"ownerPlayer":1,"uid":34,"hp":2},{"round":4,"phase":"ACTION","ability":"insatiable_hunger","name":"Insatiable Hunger","owner":34,"ownerPlayer":1,"uid":34,"hp":1}]

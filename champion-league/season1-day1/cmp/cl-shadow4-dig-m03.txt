@@ -1,0 +1,463 @@
+Akathist Convent (A, covenant_of_new_jerusalem) vs Celeritas Squadron (B, iron_imperium) on CROSSROADS, seed 460703103
+Result: A:Akathist Convent wins (VP) in round 5, VP 35 / 26
+Initiative: B:Celeritas Squadron; formation order [1,0]
+Army A:Akathist Convent (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Abbatissa Dolorosa - 30 RP, 1 models, 7 HP, leads Maphorion Nuns, Marshal
+  Maphorion Nuns - 40 RP, 5 models, 10 HP, led by Abbatissa Dolorosa
+  Saint-Militant - 50 RP, 1 models, 7 HP
+  Myrrhbearer Sisters - 35 RP, 5 models, 10 HP, led by Seven-Sword Intercessor
+  Seven-Sword Intercessor - 35 RP, 1 models, 8 HP, leads Myrrhbearer Sisters
+  Field Confessor - 20 RP, 1 models, 5 HP, leads Covenant Levies 1
+  Covenant Levies 1 - 10 RP, 10 models, 20 HP, led by Field Confessor
+  Covenant Levies 2 - 10 RP, 10 models, 20 HP
+  Covenant Levies 3 - 10 RP, 10 models, 20 HP
+  Covenant Levies 4 - 10 RP, 10 models, 20 HP
+Army B:Celeritas Squadron (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Caesar - Divus Imperator (Mounted) - 75 RP, 1 models, 10 HP, leads Palatine Custos (Mounted), Marshal
+  Palatine Custos (Mounted) - 70 RP, 3 models, 18 HP, led by Caesar - Divus Imperator (Mounted)
+  Comitatus Armored Carrier - 35 RP, 1 models, 10 HP
+  Retiarius Squad 1 - 24 RP, 3 models, 15 HP
+  Legionnaire Squad - 20 RP, 5 models, 10 HP
+  Retiarius Squad 2 - 24 RP, 3 models, 15 HP
+Primary A:Akathist Convent: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: ERADICATE THE FOE, RECONNAISSANCE OPERATION (does not fit), GARRISON DUTY; picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 3 (count 2), R3 0 (count 0), R4 0 (count 0), R5 2 (count 1); total 5
+Primary B:Celeritas Squadron: BREAK THEIR HOLD - At the end of each Battle Round, score 1 VP for each objective the enemy controls with a friendly unit in its Objective Area. Score 3 VP instead if an objective the enemy controlled at the start of the Battle Round is no longer theirs.
+  hand: FORLORN HOPE, SILENT MANEUVER (does not fit), BREAK THEIR HOLD; picked break_their_hold
+  scored per round: R1 1 (count 1), R2 0 (count 0), R3 0 (count 0), R4 3 (count 3), R5 1 (count 1); total 5
+
+=== BATTLE ROUND 1 ===
+A:Akathist Convent: VP +4 (obj 4, primary 0, missions 0) = 4; CP +2 -1 holds 1 [1 Go to ground (reaction) for Covenant Levies 1]
+  mana: +8 -0 holds 8
+B:Celeritas Squadron: VP +4 (obj 3, primary 1, missions 0) = 4; CP +2 -0 holds 2
+  pietas: +4 -0 holds 4
+A:Akathist Convent keeps mission LAST STAND (offered BREAK CONTACT / LAST STAND)
+B:Celeritas Squadron keeps mission TERRITORIAL SUPERIORITY (offered TERRITORIAL SUPERIORITY / OBJECTIVE RELAY)
+Moves:
+  [MOVEMENT] B:Celeritas Squadron Retiarius Squad 2 3,2 -> 0,6 (advance)
+  [MOVEMENT] A:Akathist Convent Myrrhbearer Sisters + Seven-Sword Intercessor 11,12 -> 8,8 (advance)
+  [MOVEMENT] B:Celeritas Squadron Palatine Custos (Mounted) + Caesar - Divus Imperator (Mounted) 9,1 -> 6,6 (advance)
+  [MOVEMENT] A:Akathist Convent Maphorion Nuns + Abbatissa Dolorosa 5,12 -> 7,8 (advance)
+  [MOVEMENT] B:Celeritas Squadron Comitatus Armored Carrier 5,1 -> 7,5
+  [MOVEMENT] A:Akathist Convent Covenant Levies 1 + Field Confessor 9,12 -> 6,8 (advance)
+  [MOVEMENT] A:Akathist Convent Covenant Levies 2 7,12 -> 5,8 (advance)
+  [MOVEMENT] A:Akathist Convent Covenant Levies 3 3,12 -> 0,8 (advance)
+  [MOVEMENT] A:Akathist Convent Covenant Levies 4 4,12 -> 4,9
+  [MOVEMENT] A:Akathist Convent Saint-Militant 10,12 -> 12,8
+Combat:
+  [ACTION] ranged: B:Celeritas Squadron Legionnaire Squad -> Covenant Levies 1: Covenant Levies 1 -8
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 4 -> Retiarius Squad 2: Retiarius Squad 2 -10
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: A:Covenant Levies 2
+Commands and abilities:
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Abbatissa Dolorosa: Mantle of Mercy
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Maphorion Nuns: Mantle of Mercy
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Saint-Militant: Mantle of Mercy
+  [ACTION] A:Akathist Convent Fortitude on Covenant Levies 1: paid off - 1 attack(s) it touched: +1.39 expected HP for its side
+  [ACTION] A:Akathist Convent Go to Ground on Covenant Levies 1: paid off - 1 attack(s) it touched: +2.31 expected HP for its side
+  [ACTION] B:Celeritas Squadron Net Launcher on Maphorion Nuns: nothing - put IMMOBILIZED on Abbatissa Dolorosa, IMMOBILIZED on Maphorion Nuns; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Akathist Convent Providence on Retiarius Squad 2: paid off - 1 attack(s) it touched: +3.89 expected HP for its side
+Passive rules:
+  At the Foot of the Cross (Abbatissa Dolorosa): 1 attack, 2.22 expected HP for its side
+  Clearing Burst (Comitatus Armored Carrier): fired 1 time (offer_ranged_attack)
+  Litany for the Fallen (Seven-Sword Intercessor): fired 3 times (mod_weapon_stat)
+  Golden Ichor (Caesar - Divus Imperator (Mounted)): fired 1 time (heal)
+  Scions of Caesar (Palatine Custos (Mounted)): fired 1 time (heal)
+  Ichor Injection (Retiarius Squad 1): fired 1 time (heal)
+  Ichor Injection (Retiarius Squad 2): fired 1 time (heal)
+Scored by:
+  B:Celeritas Squadron objectives (7,7) 3 VP: Caesar - Divus Imperator (Mounted) 0.8, Palatine Custos (Mounted) 0.8, Retiarius Squad 1 0.8, Legionnaire Squad 0.8; hinged on Caesar - Divus Imperator (Mounted), Palatine Custos (Mounted), Retiarius Squad 1, Legionnaire Squad
+  A:Akathist Convent objectives (1,7) 2 VP: Covenant Levies 3 2.0; hinged on Covenant Levies 3
+  A:Akathist Convent objectives (13,7) 2 VP: Saint-Militant 2.0; hinged on Saint-Militant
+  B:Celeritas Squadron primary BREAK THEIR HOLD 1 VP: Retiarius Squad 2 1.0
+Key log lines:
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B BREAK THEIR HOLD
+  [COMMAND] Player A picks mission: LAST STAND
+  [COMMAND] Player B picks mission: TERRITORIAL SUPERIORITY
+  [MOVEMENT] [Retiarius Squad 1] Disembarked from Comitatus Armored Carrier at (8,6)
+  [MOVEMENT] [Legionnaire Squad] Disembarked from Comitatus Armored Carrier at (7,6)
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Covenant Levies 1
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] Retiarius Squad 1 uses Net Launcher!
+  [ACTION]   Retiarius destroyed
+  [ACTION]   Retiarius destroyed
+  [ACTION] [Saint-Militant] Change Altitude: Saint-Militant descends - PRIMARY stats
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (1/10)
+
+=== BATTLE ROUND 2 ===
+A:Akathist Convent: VP +7 (obj 4, primary 3, missions 0) = 11; CP +2 -1 holds 2 [1 Go to ground (reaction) for Myrrhbearer Sisters]
+  mana: +8 -6 holds 10 [6 Cast Agnus Dei]
+B:Celeritas Squadron: VP +6 (obj 3, primary 0, missions 3) = 10; CP +2 -0 holds 4
+  pietas: +2 -0 holds 6
+A:Akathist Convent keeps mission FOCUSED FIRE (offered FOCUSED FIRE / COMMAND AUTHORITY)
+B:Celeritas Squadron keeps mission TAKE UP THE GAUNTLET (offered IRON CURTAIN / TAKE UP THE GAUNTLET)
+B:Celeritas Squadron mission TAKE UP THE GAUNTLET: completed
+Moves:
+  [MOVEMENT] B:Celeritas Squadron Retiarius Squad 2 0,6 -> 2,7
+  [MOVEMENT] A:Akathist Convent Covenant Levies 4 4,9 -> 4,8
+  [MOVEMENT] B:Celeritas Squadron Comitatus Armored Carrier 7,5 -> 5,6
+  [MOVEMENT] A:Akathist Convent Saint-Militant 12,8 -> 12,7
+  [MOVEMENT] B:Celeritas Squadron Retiarius Squad 1 8,6 -> 6,7 (charge)
+  [MOVEMENT] A:Akathist Convent Covenant Levies 2 5,8 -> 8,9
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Akathist Convent Covenant Levies 3 -> Retiarius Squad 2: Retiarius Squad 2 -1
+  [MOVEMENT] ranged (Overwatch): B:Celeritas Squadron Caesar - Divus Imperator (Mounted) -> Covenant Levies 4: Covenant Levies 4 -4
+  [MOVEMENT] ranged (Overwatch): A:Akathist Convent Covenant Levies 1 -> Comitatus Armored Carrier: no damage
+  [MOVEMENT] ranged (Overwatch): A:Akathist Convent Covenant Levies 2 -> Comitatus Armored Carrier: Comitatus Armored Carrier -1
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Covenant Levies 2: Covenant Levies 2 -2
+  [ACTION] ranged: B:Celeritas Squadron Legionnaire Squad -> Myrrhbearer Sisters: Myrrhbearer Sisters -4
+  [ACTION] ranged: B:Celeritas Squadron Palatine Custos (Mounted) -> Myrrhbearer Sisters: Myrrhbearer Sisters -4
+  [ACTION] magic (Agnus Dei): A:Akathist Convent Abbatissa Dolorosa -> Maphorion Nuns: no damage
+  [ACTION] melee: A:Akathist Convent Maphorion Nuns -> Retiarius Squad 1: Retiarius Squad 1 -15 DESTROYED
+  [ACTION] ranged: B:Celeritas Squadron Comitatus Armored Carrier -> Covenant Levies 1: Covenant Levies 1 -5
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 3 -> Retiarius Squad 2: Retiarius Squad 2 -4 DESTROYED
+  [ACTION] ranged: B:Celeritas Squadron Caesar - Divus Imperator (Mounted) -> Seven-Sword Intercessor: Myrrhbearer Sisters -2 DESTROYED
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 1 -> Legionnaire Squad: Legionnaire Squad -3
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 4 -> Caesar - Divus Imperator (Mounted): no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] A:Akathist Convent Mantle of Mercy: paid off - picked Myrrhbearer Sisters: Mantle of Mercy; 3 attack(s) it touched: +1.92 expected HP for its side
+  [COMMAND] A:Akathist Convent Mantle of Mercy: paid off - picked Covenant Levies 1: Mantle of Mercy; 3 attack(s) it touched: +0.99 expected HP for its side
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Maphorion Nuns: Mantle of Mercy; 1 attack(s) it touched: +0 expected HP for its side
+  [MOVEMENT] B:Celeritas Squadron Go to Ground on Comitatus Armored Carrier: paid off - 1 attack(s) it touched: +0.22 expected HP for its side
+  [ACTION] A:Akathist Convent Go to Ground on Myrrhbearer Sisters: paid off - 1 attack(s) it touched: +1.79 expected HP for its side
+  [ACTION] A:Akathist Convent Agnus Dei on Maphorion Nuns: paid off - gave Maphorion Nuns: weapon DMG +1; set the Antiphon agnus_dei on Maphorion Nuns; 5 attack(s) it touched: +8.44 expected HP for its side
+  [ACTION] B:Celeritas Squadron Net Launcher on Maphorion Nuns: nothing - no change
+  [ACTION] A:Akathist Convent Exaltation on Retiarius Squad 1: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  At the Foot of the Cross (Abbatissa Dolorosa): 2 attacks, 1.91 expected HP for its side
+  Litany for the Fallen (Seven-Sword Intercessor): fired 3 times (mod_weapon_stat)
+  Golden Ichor (Caesar - Divus Imperator (Mounted)): fired 1 time (heal)
+  Scions of Caesar (Palatine Custos (Mounted)): fired 1 time (heal)
+Scored by:
+  B:Celeritas Squadron objectives (7,7) 3 VP: Caesar - Divus Imperator (Mounted) 1.0, Palatine Custos (Mounted) 1.0, Legionnaire Squad 1.0; hinged on Caesar - Divus Imperator (Mounted), Palatine Custos (Mounted), Legionnaire Squad
+  A:Akathist Convent objectives (1,7) 2 VP: Covenant Levies 3 2.0; hinged on Covenant Levies 3
+  A:Akathist Convent objectives (13,7) 2 VP: Saint-Militant 2.0; hinged on Saint-Militant
+  A:Akathist Convent primary ERADICATE THE FOE 3 VP: Maphorion Nuns 1.5, Covenant Levies 3 1.5
+  B:Celeritas Squadron missions TAKE UP THE GAUNTLET 3 VP: Caesar - Divus Imperator (Mounted) 1.0, Palatine Custos (Mounted) 1.0, Legionnaire Squad 1.0
+Key log lines:
+  [COMMAND] Player A picks mission: FOCUSED FIRE
+  [COMMAND] Player B picks mission: TAKE UP THE GAUNTLET
+  [MOVEMENT] [Covenant Levies 3] Overwatch Reaction vs Retiarius Squad 2: 1 damage
+  [MOVEMENT]   Levy destroyed
+  [MOVEMENT]   Levy destroyed
+  [MOVEMENT] [Caesar - Divus Imperator (Mounted)] Overwatch Reaction vs Covenant Levies 4: 4 damage
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via Caesar - Divus Imperator (Mounted) (cost 0 CP) - Comitatus Armored Carrier
+  [MOVEMENT] [Covenant Levies 1] Overwatch Reaction vs Comitatus Armored Carrier: no damage
+  [MOVEMENT] [Covenant Levies 2] Overwatch Reaction vs Comitatus Armored Carrier: 1 damage
+  [MOVEMENT]   Levy destroyed
+  [MOVEMENT] [Covenant Levies 2] breaks away in disorder: 2 True Damage, 2 HP lost, 1 model destroyed
+  [MOVEMENT] [Covenant Levies 2] Fall Back to (8,9)
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Myrrhbearer Sisters
+  [ACTION]   Myrrhbearer Sister destroyed
+  [ACTION]   Myrrhbearer Sister destroyed
+  [ACTION]   Myrrhbearer Sister destroyed
+  [ACTION]   Myrrhbearer Sister destroyed
+  [ACTION] Abbatissa Dolorosa casts Agnus Dei on Maphorion Nuns
+  [ACTION] Retiarius Squad 1 uses Net Launcher!
+  [ACTION]   Retiarius destroyed
+  [ACTION]   Retiarius destroyed
+  [ACTION]   Retiarius Decanus destroyed
+  [ACTION]   Retiarius Squad 1 DESTROYED in melee!
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Retiarius Decanus destroyed
+  [ACTION]   Retiarius Squad 2 DESTROYED
+  [ACTION]   Myrrhbearer Sister destroyed
+  [ACTION]   Legionnaire destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 3 VP (3/10)
+  [CLEANUP] MISSION COMPLETE: "TAKE UP THE GAUNTLET" -> Player B +3 VP!
+  [CLEANUP] Pietas: Player B +2 (6 total, tier 3) - enemy unit destroyed; TAKE UP THE GAUNTLET; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+  [CLEANUP] Pietas: Player B advances to Tier III - enemy unit destroyed; TAKE UP THE GAUNTLET; friendly unit ended the Battle Round in an Objective Area while not SUPPRESSED
+
+=== BATTLE ROUND 3 ===
+A:Akathist Convent: VP +6 (obj 4, primary 0, missions 2) = 17; CP +3 -2 holds 3 [2 Rally cry (reaction) for Covenant Levies 1]
+  mana: +4 -6 holds 8 [6 Cast Agnus Dei]
+B:Celeritas Squadron: VP +3 (obj 3, primary 0, missions 0) = 13; CP +2 -5 holds 1 [5 Troop Requisition → Legionnaire Squad]
+  pietas: +4 -0 holds 10
+A:Akathist Convent keeps mission IRON GRIP (offered IRON GRIP / FORWARD PRESENCE)
+B:Celeritas Squadron keeps mission INTO THE FRAY (offered INTO THE FRAY / VIGILANT WATCH)
+A:Akathist Convent mission FOCUSED FIRE: expired
+A:Akathist Convent mission IRON GRIP: completed
+Moves:
+  [MOVEMENT] B:Celeritas Squadron Legionnaire Squad #2 6,2 -> 4,4
+  [MOVEMENT] A:Akathist Convent Covenant Levies 4 4,8 -> 5,8
+  [MOVEMENT] A:Akathist Convent Covenant Levies 2 8,9 -> 9,8
+  [MOVEMENT] A:Akathist Convent Seven-Sword Intercessor 8,8 -> 6,7 (charge)
+  [MOVEMENT] A:Akathist Convent Covenant Levies 3 0,8 -> 1,6
+  [MOVEMENT] A:Akathist Convent Covenant Levies 1 + Field Confessor 6,8 -> 8,7 (charge)
+Combat:
+  [ACTION] melee: B:Celeritas Squadron Caesar - Divus Imperator (Mounted) -> Seven-Sword Intercessor: Seven-Sword Intercessor -6
+  [ACTION] melee: B:Celeritas Squadron Palatine Custos (Mounted) -> Seven-Sword Intercessor: Seven-Sword Intercessor -2 DESTROYED
+  [ACTION] magic (Agnus Dei): A:Akathist Convent Abbatissa Dolorosa -> Seven-Sword Intercessor: no damage
+  [ACTION] melee: A:Akathist Convent Seven-Sword Intercessor -> Comitatus Armored Carrier: Comitatus Armored Carrier -8
+  [ACTION] melee: A:Akathist Convent Covenant Levies 1 -> Legionnaire Squad: Legionnaire Squad -1
+  [ACTION] melee: A:Akathist Convent Field Confessor -> Legionnaire Squad: no damage
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 3 -> Legionnaire Squad #2: Legionnaire Squad #2 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Covenant Levies 2 (no legal action), A:Covenant Levies 4 (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Maphorion Nuns: Mantle of Mercy
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Covenant Levies 3: Mantle of Mercy; 1 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Saint-Militant: Mantle of Mercy
+  [COMMAND] B:Celeritas Squadron Troop Requisition on (6,2): paid off - placed Legionnaire Squad #2; the unit it placed made 2 attack(s), 22 HP off; the unit it placed scored 7.83 VP; the unit it placed drew 4 enemy attack(s), 4 HP
+  [COMMAND] A:Akathist Convent Rally Cry on Covenant Levies 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Akathist Convent Reprieve: paid off - gave Seven-Sword Intercessor: TAG +1, MS -1, BS -1; 3 attack(s) it touched: +0 expected HP for its side; healed 4 HP
+  [ACTION] A:Akathist Convent Agnus Dei on Seven-Sword Intercessor: paid off - gave Seven-Sword Intercessor: weapon DMG +1; set the Antiphon agnus_dei on Seven-Sword Intercessor; 3 attack(s) it touched: +3.34 expected HP for its side
+  [ACTION] B:Celeritas Squadron Shield Wall: paid off - gave Legionnaire Squad: REROLL +1, MOVE -1; 3 attack(s) it touched: +0.65 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [ACTION] B:Celeritas Squadron Go to Ground on Legionnaire Squad #2: paid off - 1 attack(s) it touched that the estimate cannot price
+Passive rules:
+  Lorica Immortalis (Caesar - Divus Imperator (Mounted)): 1 attack, 0.5 expected HP for its side
+  At the Foot of the Cross (Abbatissa Dolorosa): 2 attacks, 0.91 expected HP for its side
+  Intercessory Guard (Maphorion Nuns): 3 attacks, 0.94 expected HP for its side
+  Stabat Mater (Seven-Sword Intercessor): 2 attacks, 1.47 expected HP for its side
+  GILDED HASTAE (Palatine Custos (Mounted)): 1 attack, 0.3 expected HP for its side
+  Fruits of Penance (Field Confessor): 1 attack, 0.54 expected HP for its side
+  Golden Ichor (Caesar - Divus Imperator (Mounted)): fired 1 time (heal)
+  Scions of Caesar (Palatine Custos (Mounted)): fired 1 time (heal)
+Scored by:
+  B:Celeritas Squadron objectives (7,7) 3 VP: Caesar - Divus Imperator (Mounted) 1.0, Palatine Custos (Mounted) 1.0, Legionnaire Squad 1.0; hinged on Caesar - Divus Imperator (Mounted), Palatine Custos (Mounted), Legionnaire Squad
+  A:Akathist Convent objectives (1,7) 2 VP: Covenant Levies 3 2.0; hinged on Covenant Levies 3
+  A:Akathist Convent objectives (13,7) 2 VP: Saint-Militant 2.0; hinged on Saint-Militant
+  A:Akathist Convent missions IRON GRIP 2 VP: Covenant Levies 3 0.9, Maphorion Nuns 0.4, Covenant Levies 1 0.2, Abbatissa Dolorosa 0.2, Seven-Sword Intercessor 0.2, Field Confessor 0.1
+Key log lines:
+  [COMMAND] Player A picks mission: IRON GRIP
+  [COMMAND] Player B picks mission: INTO THE FRAY
+  [COMMAND] HQ Command: Troop Requisition -> iron_imperium:legionnaire_squad (cost 5 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Covenant Levies 1
+  [ACTION]   Seven-Sword Intercessor destroyed
+  [ACTION]   Seven-Sword Intercessor DESTROYED in melee!
+  [ACTION]   Seven-Sword Intercessor was destroyed - no counterattack
+  [ACTION] Abbatissa Dolorosa casts Agnus Dei on Seven-Sword Intercessor
+  [ACTION] Legionnaire Squad uses Shield Wall!
+  [ACTION]   Legionnaire destroyed
+  [ACTION] REACTION COMMAND: GO TO GROUND via Caesar - Divus Imperator (Mounted) (cost 0 CP) - Legionnaire Squad
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player A +2 VP +1 CP!
+  [CLEANUP] Mission "FOCUSED FIRE" EXPIRED (R3)
+
+=== BATTLE ROUND 4 ===
+A:Akathist Convent: VP +8 (obj 5, primary 0, missions 3) = 25; CP +2 -2 holds 3 [2 Rally cry (reaction) for Covenant Levies 1]
+  mana: +2 -6 holds 4 [6 Cast Agnus Dei]
+B:Celeritas Squadron: VP +8 (obj 2, primary 3, missions 3) = 21; CP +2 -3 holds 0 [1 Double Time → Legionnaire Squad; 2 Secure Objective → Palatine Custos (Mounted)]
+A:Akathist Convent keeps mission PUSH FORWARD (offered PUSH FORWARD / FORWARD DEPLOYMENT)
+B:Celeritas Squadron keeps mission DEEP REACH (offered BAR THE GATES / DEEP REACH)
+A:Akathist Convent mission LAST STAND: completed
+B:Celeritas Squadron mission DEEP REACH: completed
+Moves:
+  [MOVEMENT] B:Celeritas Squadron Legionnaire Squad #2 4,4 -> 2,8
+  [MOVEMENT] A:Akathist Convent Covenant Levies 4 5,8 -> 8,8
+  [MOVEMENT] A:Akathist Convent Covenant Levies 2 9,8 -> 6,8
+  [MOVEMENT] B:Celeritas Squadron Legionnaire Squad 7,6 -> 8,4
+  [MOVEMENT] A:Akathist Convent Covenant Levies 1 + Field Confessor 8,7 -> 8,6
+  [MOVEMENT] A:Akathist Convent Seven-Sword Intercessor 6,7 -> 8,9
+  [MOVEMENT] A:Akathist Convent Maphorion Nuns + Abbatissa Dolorosa 7,8 -> 8,5 (charge)
+  [MOVEMENT] A:Akathist Convent Saint-Militant 12,7 -> 12,8
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Comitatus Armored Carrier: Comitatus Armored Carrier -1 DESTROYED, Legionnaire Squad -3
+  [ACTION] ranged: B:Celeritas Squadron Legionnaire Squad #2 -> Covenant Levies 3: Covenant Levies 3 -14
+  [ACTION] magic (Agnus Dei): A:Akathist Convent Field Confessor -> Covenant Levies 2: no damage
+  [ACTION] ranged: B:Celeritas Squadron Palatine Custos (Mounted) -> Covenant Levies 2: Covenant Levies 2 -2
+  [ACTION] ranged: B:Celeritas Squadron Caesar - Divus Imperator (Mounted) -> Covenant Levies 2: Covenant Levies 2 -4
+  [ACTION] melee: A:Akathist Convent Maphorion Nuns -> Legionnaire Squad: Legionnaire Squad -3 DESTROYED
+  [ACTION] ranged: A:Akathist Convent Saint-Militant -> Palatine Custos (Mounted): Palatine Custos (Mounted) -5
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 3 -> Legionnaire Squad #2: Legionnaire Squad #2 -1
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 4 -> Caesar - Divus Imperator (Mounted): no damage
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 1 -> Legionnaire Squad #2: Legionnaire Squad #2 -1
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 2 -> Caesar - Divus Imperator (Mounted): no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Moves undone:
+  A:Akathist Convent Covenant Levies 2: R3 MOVEMENT 8,9 -> 9,8, R4 MOVEMENT -> 6,8 (toward the objective at 13,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] A:Akathist Convent Benediction on Seven-Sword Intercessor: paid off - healed 2 HP
+  [COMMAND] A:Akathist Convent Mantle of Mercy: paid off - picked Covenant Levies 3: Mantle of Mercy; 2 attack(s) it touched: +2 expected HP for its side
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Covenant Levies 1: Mantle of Mercy; 1 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Maphorion Nuns: Mantle of Mercy; 1 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Celeritas Squadron Double Time on Legionnaire Squad #2: paid off - gave Legionnaire Squad #2: MOVE +2; 3 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] B:Celeritas Squadron Secure Objective on Palatine Custos (Mounted): nothing - gave Caesar - Divus Imperator (Mounted): OC +1; Palatine Custos (Mounted): OC +1; 5 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Akathist Convent Rally Cry on Covenant Levies 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Akathist Convent Agnus Dei on Covenant Levies 2: paid off - gave Covenant Levies 2: weapon DMG +1; set the Antiphon agnus_dei on Covenant Levies 2; 4 attack(s) it touched: +0.05 expected HP for its side
+  [ACTION] B:Celeritas Squadron Go to Ground on Palatine Custos (Mounted): paid off - 1 attack(s) it touched: +0.69 expected HP for its side
+Passive rules:
+  Litany for the Fallen (Seven-Sword Intercessor): fired 3 times (mod_weapon_stat)
+  Golden Ichor (Caesar - Divus Imperator (Mounted)): fired 1 time (heal)
+  Scions of Caesar (Palatine Custos (Mounted)): fired 1 time (heal)
+  Legionnaire Squad: MOVE 2 (3 without Shield Wall)
+Scored by:
+  A:Akathist Convent objectives (7,7) 3 VP: Covenant Levies 2 1.3, Covenant Levies 4 1.3, Field Confessor 0.3, Covenant Levies 1 0.3; hinged on Covenant Levies 2, Covenant Levies 4
+  B:Celeritas Squadron objectives (1,7) 2 VP: Legionnaire Squad #2 2.0; hinged on Legionnaire Squad #2
+  A:Akathist Convent objectives (13,7) 2 VP: Saint-Militant 2.0; hinged on Saint-Militant
+  B:Celeritas Squadron primary BREAK THEIR HOLD 3 VP: Legionnaire Squad #2 2.3, Caesar - Divus Imperator (Mounted) 0.3, Palatine Custos (Mounted) 0.3
+  A:Akathist Convent missions LAST STAND 3 VP: Covenant Levies 1 1.0, Covenant Levies 2 1.0, Covenant Levies 4 1.0
+  B:Celeritas Squadron missions DEEP REACH 3 VP: HQ 1.5, Legionnaire Squad #2 1.5
+Key log lines:
+  [COMMAND] Player A picks mission: PUSH FORWARD
+  [COMMAND] Player B picks mission: DEEP REACH
+  [COMMAND] HQ Command: Double Time -> Legionnaire Squad (cost 1 CP) by Player B
+  [COMMAND] HQ Command: Secure Objective -> Palatine Custos (Mounted) (cost 2 CP) by Player B
+  [COMMAND] REACTION COMMAND: RALLY CRY via Abbatissa Dolorosa (cost 2 CP) - Covenant Levies 1
+  [MOVEMENT]   Comitatus Armored Carrier destroyed
+  [MOVEMENT] [Comitatus Armored Carrier] breaks away in disorder: 1 True Damage, 1 HP lost, 1 model destroyed
+  [MOVEMENT] [Comitatus Armored Carrier] was destroyed while attempting to FALL BACK
+  [MOVEMENT]   Legionnaire destroyed
+  [MOVEMENT] [Legionnaire Squad] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] [Legionnaire Squad] Fall Back to (8,4)
+  [MOVEMENT] [Seven-Sword Intercessor] Fall Back to (8,9)
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] Field Confessor casts Agnus Dei on Covenant Levies 2
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Legionnaire destroyed
+  [ACTION]   Decanus destroyed
+  [ACTION]   Legionnaire Squad DESTROYED in melee!
+  [ACTION] REACTION COMMAND: GO TO GROUND via Caesar - Divus Imperator (Mounted) (cost 0 CP) - Palatine Custos (Mounted)
+  [ACTION]   Legionnaire destroyed
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 3 VP (4/10)
+  [CLEANUP] MISSION COMPLETE: "LAST STAND" -> Player A +3 VP!
+  [CLEANUP] MISSION COMPLETE: "DEEP REACH" -> Player B +3 VP!
+  [CLEANUP] Pietas: Player B completed an Act of Pietas, but Legionnaire Squad made a Fall Back move prevented advancement
+
+=== BATTLE ROUND 5 ===
+A:Akathist Convent: VP +10 (obj 5, primary 2, missions 3) = 35; CP +2 -5 holds 0 [3 Secure Objective → Covenant Levies 4; 2 Double Time → Covenant Levies 2]
+  mana: +4 -0 holds 8
+B:Celeritas Squadron: VP +5 (obj 2, primary 1, missions 2) = 26; CP +2 -2 holds 0 [2 Secure Objective → Palatine Custos (Mounted)]
+A:Akathist Convent keeps mission TERRITORIAL SUPERIORITY (offered FIRE FOR EFFECT / TERRITORIAL SUPERIORITY)
+B:Celeritas Squadron keeps mission MAN OF THE HOUR (offered STRONGPOINT / MAN OF THE HOUR)
+A:Akathist Convent mission TERRITORIAL SUPERIORITY: completed
+B:Celeritas Squadron mission TERRITORIAL SUPERIORITY: expired
+B:Celeritas Squadron mission INTO THE FRAY: completed
+Moves:
+  [MOVEMENT] B:Celeritas Squadron Palatine Custos (Mounted) + Caesar - Divus Imperator (Mounted) 6,6 -> 7,7 (charge)
+  [MOVEMENT] A:Akathist Convent Covenant Levies 2 6,8 -> 2,6
+  [MOVEMENT] A:Akathist Convent Maphorion Nuns + Abbatissa Dolorosa 8,5 -> 7,6 (charge)
+  [MOVEMENT] A:Akathist Convent Covenant Levies 1 + Field Confessor 8,6 -> 8,5
+  [MOVEMENT] A:Akathist Convent Seven-Sword Intercessor 8,9 -> 6,8 (charge)
+Combat:
+  [ACTION] ranged: B:Celeritas Squadron Legionnaire Squad #2 -> Covenant Levies 2: Covenant Levies 2 -8
+  [ACTION] melee: A:Akathist Convent Maphorion Nuns -> Palatine Custos (Mounted): Maphorion Nuns -4, Palatine Custos (Mounted) -12
+  [ACTION] melee: A:Akathist Convent Seven-Sword Intercessor -> Palatine Custos (Mounted): Palatine Custos (Mounted) -4 DESTROYED
+  [ACTION] ranged: A:Akathist Convent Covenant Levies 3 -> Legionnaire Squad #2: Legionnaire Squad #2 -1
+  [ACTION] melee: A:Akathist Convent Covenant Levies 4 -> Caesar - Divus Imperator (Mounted): no damage
+  [ACTION] melee: A:Akathist Convent Abbatissa Dolorosa -> Caesar - Divus Imperator (Mounted): no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), B:HQ (no legal action)
+Advanced, nothing else: none
+Commands and abilities:
+  [COMMAND] A:Akathist Convent Mantle of Mercy: paid off - picked Covenant Levies 2: Mantle of Mercy; 1 attack(s) it touched: +1.61 expected HP for its side
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Covenant Levies 4: Mantle of Mercy; 1 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Akathist Convent Mantle of Mercy: nothing - picked Covenant Levies 1: Mantle of Mercy
+  [COMMAND] B:Celeritas Squadron Secure Objective on Palatine Custos (Mounted): nothing - gave Caesar - Divus Imperator (Mounted): OC +1; Palatine Custos (Mounted): OC +1; 6 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Akathist Convent Secure Objective on Covenant Levies 4: nothing - gave Covenant Levies 4: OC +1; 1 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] A:Akathist Convent Double Time on Covenant Levies 2: paid off - gave Covenant Levies 2: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+Passive rules:
+  At the Foot of the Cross (Abbatissa Dolorosa): 2 attacks, 1.16 expected HP for its side
+  GILDED HASTAE (Palatine Custos (Mounted)): 1 attack, 0.19 expected HP for its side
+  Lorica Immortalis (Caesar - Divus Imperator (Mounted)): 1 attack, 0.67 expected HP for its side
+  Litany for the Fallen (Seven-Sword Intercessor): fired 2 times (mod_weapon_stat)
+  Golden Ichor (Caesar - Divus Imperator (Mounted)): fired 1 time (heal)
+Scored by:
+  B:Celeritas Squadron missions INTO THE FRAY 2 VP: Palatine Custos (Mounted) 2.0 (event)
+  A:Akathist Convent objectives (7,7) 3 VP: Covenant Levies 4 2.3, Abbatissa Dolorosa 0.3, Maphorion Nuns 0.3, Seven-Sword Intercessor 0.3
+  B:Celeritas Squadron objectives (1,7) 2 VP: Legionnaire Squad #2 2.0; hinged on Legionnaire Squad #2
+  A:Akathist Convent objectives (13,7) 2 VP: Saint-Militant 2.0; hinged on Saint-Militant
+  A:Akathist Convent primary ERADICATE THE FOE 2 VP: Seven-Sword Intercessor 2.0
+  B:Celeritas Squadron primary BREAK THEIR HOLD 1 VP: Caesar - Divus Imperator (Mounted) 1.0
+  A:Akathist Convent missions TERRITORIAL SUPERIORITY 3 VP: Saint-Militant 1.6, Covenant Levies 4 0.9, Abbatissa Dolorosa 0.1, Maphorion Nuns 0.1, Seven-Sword Intercessor 0.1
+Key log lines:
+  [COMMAND] Player A picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] Player B picks mission: MAN OF THE HOUR
+  [COMMAND] HQ Command: Secure Objective -> Palatine Custos (Mounted) (cost 2 CP) by Player B
+  [COMMAND] HQ Command: Secure Objective -> Covenant Levies 4 (cost 3 CP) by Player A
+  [COMMAND] HQ Command: Double Time -> Covenant Levies 2 (cost 2 CP) by Player A
+  [MOVEMENT] MISSION COMPLETE: "INTO THE FRAY" -> Player B +2 VP!
+  [MOVEMENT] [Covenant Levies 2] Fall Back to (2,6)
+  [MOVEMENT] [Covenant Levies 1] Fall Back to (8,5)
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Candidatus destroyed
+  [ACTION]   Candidatus destroyed
+  [ACTION]   Maphorion Nun destroyed
+  [ACTION]   Maphorion Nun destroyed
+  [ACTION]   Primicerius destroyed
+  [ACTION]   Palatine Custos (Mounted) DESTROYED in melee!
+  [ACTION]   Legionnaire destroyed
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 2 VP (5/10)
+  [CLEANUP] PRIMARY BREAK THEIR HOLD: Player B scores 1 VP (5/10)
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player A +3 VP!
+  [CLEANUP] Mission "TERRITORIAL SUPERIORITY" EXPIRED (R5)
+
+Damage leaders:
+  A:Akathist Convent Maphorion Nuns: 30 damage, 2 kills, 40 RP, 0.75/RP
+  B:Celeritas Squadron Legionnaire Squad #2: 22 damage, 0 kills, 20 RP, 1.10/RP
+  B:Celeritas Squadron Caesar - Divus Imperator (Mounted): 20 damage, 1 kills, 75 RP, 0.27/RP
+  A:Akathist Convent Seven-Sword Intercessor: 12 damage, 1 kills, 35 RP, 0.34/RP
+  B:Celeritas Squadron Legionnaire Squad: 12 damage, 0 kills, 20 RP, 0.60/RP (destroyed)
+  A:Akathist Convent Covenant Levies 4: 10 damage, 0 kills, 10 RP, 1.00/RP
+  A:Akathist Convent Covenant Levies 3: 8 damage, 1 kills, 10 RP, 0.80/RP
+  B:Celeritas Squadron Palatine Custos (Mounted): 8 damage, 0 kills, 70 RP, 0.11/RP (destroyed)
+  B:Celeritas Squadron Comitatus Armored Carrier: 5 damage, 0 kills, 35 RP, 0.14/RP (destroyed)
+  A:Akathist Convent Covenant Levies 1: 5 damage, 0 kills, 10 RP, 0.50/RP
+  A:Akathist Convent Saint-Militant: 5 damage, 0 kills, 50 RP, 0.10/RP
+  A:Akathist Convent Covenant Levies 2: 1 damage, 0 kills, 10 RP, 0.10/RP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Akathist Convent Saint-Militant: 11.7 VP (obj 10.0, primary 0.0, missions 1.6), hinged 10, 23.3/100 RP
+  A:Akathist Convent Covenant Levies 3: 8.4 VP (obj 6.0, primary 1.5, missions 0.9), hinged 6, 84.3/100 RP
+  B:Celeritas Squadron Legionnaire Squad #2: 7.8 VP (obj 4.0, primary 2.3, missions 1.5), hinged 4, 39.2/100 RP
+  B:Celeritas Squadron Palatine Custos (Mounted): 6.1 VP (obj 2.8, primary 0.3, missions 3.0), hinged 9, 8.7/100 RP
+  A:Akathist Convent Covenant Levies 4: 5.4 VP (obj 3.5, primary 0.0, missions 1.9), hinged 3, 54.0/100 RP
+  B:Celeritas Squadron Caesar - Divus Imperator (Mounted): 5.1 VP (obj 2.8, primary 1.3, missions 1.0), hinged 9, 6.8/100 RP
+  B:Celeritas Squadron Legionnaire Squad: 3.8 VP (obj 2.8, primary 0.0, missions 1.0), hinged 9, 18.8/100 RP
+  A:Akathist Convent Seven-Sword Intercessor: 2.6 VP (obj 0.3, primary 2.0, missions 0.3), hinged 0, 7.3/100 RP
+  A:Akathist Convent Maphorion Nuns: 2.3 VP (obj 0.3, primary 1.5, missions 0.6), hinged 0, 5.8/100 RP
+  A:Akathist Convent Covenant Levies 2: 2.3 VP (obj 1.3, primary 0.0, missions 1.0), hinged 3, 22.5/100 RP
+  B:Celeritas Squadron HQ: 1.5 VP (obj 0.0, primary 0.0, missions 1.5), hinged 0, -/100 RP
+  A:Akathist Convent Covenant Levies 1: 1.5 VP (obj 0.3, primary 0.0, missions 1.2), hinged 0, 14.8/100 RP
+  B:Celeritas Squadron Retiarius Squad 2: 1.0 VP (obj 0.0, primary 1.0, missions 0.0), hinged 0, 4.2/100 RP
+  B:Celeritas Squadron Retiarius Squad 1: 0.8 VP (obj 0.8, primary 0.0, missions 0.0), hinged 3, 3.1/100 RP
+  A:Akathist Convent Abbatissa Dolorosa: 0.6 VP (obj 0.3, primary 0.0, missions 0.3), hinged 0, 1.9/100 RP
+  A:Akathist Convent Field Confessor: 0.3 VP (obj 0.3, primary 0.0, missions 0.1), hinged 0, 1.6/100 RP
+Activity (inaction score; advanced, nothing else; actions: movement/advance/ranged/melee/ability/magic/objective held):
+  A:Akathist Convent Covenant Levies 4: inaction 1 (1 idle, 1 after moving, 0 Overwatch); advanced only 0; actions 0/0/3/1/0/0/2
+  A:Akathist Convent Covenant Levies 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); advanced only 1 (R1); actions 2/1/1/0/0/0/2
+  A:Akathist Convent Myrrhbearer Sisters: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/0/0/0/1
+  B:Celeritas Squadron Retiarius Squad 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/0/0/0/1
+  B:Celeritas Squadron Retiarius Squad 1: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/0/0/2/0/1
+  B:Celeritas Squadron Comitatus Armored Carrier: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 2/0/1/1/0/0/0
+  B:Celeritas Squadron Legionnaire Squad #2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/0/2/0/0/0/2
+  B:Celeritas Squadron Legionnaire Squad: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/2/0/1/0/3
+  A:Akathist Convent Saint-Militant: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/0/1/0/0/0/5
+  A:Akathist Convent Maphorion Nuns: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/3/0/0/4
+  A:Akathist Convent Abbatissa Dolorosa: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/0/1/0/3/4
+  A:Akathist Convent Field Confessor: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/1/0/1/0/2/4
+  B:Celeritas Squadron Palatine Custos (Mounted): inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 0/1/2/2/0/0/4
+  A:Akathist Convent Seven-Sword Intercessor: inaction 0 (0 idle, 0 after moving, 0 Overwatch); advanced only 0; actions 1/1/0/3/0/0/4
+  A:Akathist Convent Covenant Levies 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 0; actions 1/1/2/1/0/0/4
+  B:Celeritas Squadron Caesar - Divus Imperator (Mounted): inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 0; actions 0/1/2/2/0/0/5
+  A:Akathist Convent Covenant Levies 3: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); advanced only 0; actions 0/1/4/0/0/0/5
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 1
+  A:Akathist Convent Covenant Levies 2: 1 of 5 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Akathist Convent LAST STAND (+3 VP): kept R1, completed R4 - At the end of a Battle Round, control an objective that has a friendly unit Below Half-Strength in its Objective Area.
+  A:Akathist Convent FOCUSED FIRE (+2 VP): kept R2, expired R3 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  A:Akathist Convent IRON GRIP (+2 VP): kept R3, completed R3 - Maintain a minimum of 7 OC on a single Objective.
+  A:Akathist Convent PUSH FORWARD (+2 VP): kept R4, active - In a single Movement Phase, have at least 2 friendly units use the Advance action and end it in the enemy half of the battlefield.
+  A:Akathist Convent TERRITORIAL SUPERIORITY (+3 VP): kept R5, completed R5 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Celeritas Squadron TERRITORIAL SUPERIORITY (+3 VP): kept R1, expired R5 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Celeritas Squadron TAKE UP THE GAUNTLET (+3 VP): kept R2, completed R2 - When you keep this mission, your opponent picks an objective outside their deployment zone. At the end of a Battle Round, control that objective.
+  B:Celeritas Squadron INTO THE FRAY (+2 VP): kept R3, completed R5 - Make a successful CHARGE against an enemy unit.
+  B:Celeritas Squadron DEEP REACH (+3 VP): kept R4, completed R4 - At the end of a Battle Round, control an Objective that is furthest from your HQ. If multiple Objectives share the same maximum distance, all are eligible.
+  B:Celeritas Squadron MAN OF THE HOUR (+4 VP): kept R5, active - Have one friendly unit destroy at least 2 enemy units during this Mission's duration.

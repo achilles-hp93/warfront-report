@@ -1,0 +1,11 @@
+const path=require('path');
+const { summarize } = require('/home/user/warfront/scripts/battle_report/summarize.cjs');
+const name=process.argv[2];
+const r=require(name.endsWith(".json")?name:process.env.WARFRONT_OUTPUT_DIR+"/battle_reports/"+name+"/report.json");
+const s=summarize(r);
+console.log("result", JSON.stringify(s.result), "errors", r.errors.length);
+s.armies.forEach(a=>console.log("army", a.player, "rp", a.rp, "arrived", a.arrivedRp, "lostRp", a.lostRp, "lostUnits", a.lostUnits, "vp", a.vp));
+s.economy.forEach(e=>console.log("R"+e.round, e.players.map((p,i)=>`P${i} vp ${p.vp.total} (o${p.vp.objectives} p${p.vp.primary} m${p.vp.missions} x${p.vp.other}) cp +${p.cp.gained}-${p.cp.spent} held ${p.cp.held} ${Object.entries(p.pools).map(([k,v])=>k+' +'+v.gained+'-'+v.spent+' held '+v.held).join(' ')}`).join(' || ')));
+s.attrition.forEach(a=>console.log("R"+a.round, "dealt", a.dealt, "lost A", a.lost[0].join(","), "| lost B", a.lost[1].join(","), "friendly", a.friendly));
+const k=[0,1].map(p=>s.leaderboard.rows.filter(r=>r.player===p).reduce((t,r)=>t+r.kills,0));
+console.log("kills credited", k, "dealt", [0,1].map(p=>s.leaderboard.rows.filter(r=>r.player===p).reduce((t,r)=>t+r.dealt,0)));

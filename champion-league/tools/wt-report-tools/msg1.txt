@@ -1,0 +1,34 @@
+Battle report: credit fields, side events as they happened, keep costs apart
+
+Four bugs the Champion League Day 1 replay found in the credit ledger and the
+numbers built on it.
+
+- A field's damage went to no unit. A BURNING FIELD deals its Cleanup damage with
+  no attacker and books the damage, its BURNED and a death one call after another
+  (phases/action_cleanup.js), outside any call the record's actors cover: "by null
+  src null" in D1-M01 (Sunburst) and D1-M04 (Phlegraean Fields killed the Eire
+  Pathfinders). page_credit.js now notes who placed each field (placeFieldObject,
+  inside the use or attack that leaves it) and credits the field's damage, its
+  BURNED stacks and its kills to that unit, as a combat point named BURNING FIELD
+  by its rule.
+- The armies were read once Round 1 was under way (record.cjs META), so a Round 1
+  Troop Requisition counted as deployed, not as a reinforcement (D1-M21, D1-M24).
+  The page now reads them at deployment (R.deployed); summarize.cjs trims an older
+  record's meta.armies to its deployment snapshot.
+- "Enemy units destroyed" credited a side with the units its enemy lost to its own
+  fire (D1-M20: 7 : 6, two of them the Popinjay Guild's own stray shots). Each
+  army's losses are now split by who destroyed them (sides.cjs deaths), and the
+  headline tiles, the RP-trade charts and the attrition tips count only the
+  enemy's kills.
+- Every credit was sided by its unit's final owner, so a seized unit's damage
+  before its seizure read as friendly fire (D1-M14, Temple Levy 1). Each credit now
+  carries both sides as they stood; an older record's are read from the combat
+  point each happened in. A unit that fought for both sides has a row for each.
+- A cost a unit's own rule makes it pay is no friendly fire (D1-M18: Desperate
+  Worship's 2 HP read "ranged FRIENDLY FIRE ... -> Armored Gashadokuro"). A cost
+  paid inside a combat point is kept as its `costs`, apart from its losses; a
+  credit a unit took from itself is a cost; a loss on the attacker itself is no
+  friendly fire in an older record either. The digest lists costs paid apart.
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

@@ -1,0 +1,19 @@
+Gatekeeper of Babylon: adjacent friendly units gain +1 to their SAVE rolls
+
+The user's ruling (2026-10-30): "Gatekeeper of Babylon should have a different effect,
+how about adjacent friendly unit gain +1 to their save roll?" Its 2-square Zone of
+Control, with "a Charge may land in ZOC but cannot continue" and "ENGAGED units cannot
+CHARGE", made the Lamassu Bastion impossible to charge.
+
+Data over the aura op's save channel (Epicurean Provocation's shape, allies, range 1,
+min_range 1 like Intercessory Guard): read by effectiveSaveMod for the physical SAVE,
+ranged and melee, not a WARD roll; capped with the other SAVE roll modifiers at +/-1
+(settleSave) and dropped for an Invulnerable Save. Moved to abilities/aura/. The
+extend_zoc op now has no data user (left in place, its op test kept). Flavor unchanged.
+
+Fingerprint: rules_refactor/443's role readings recaptured, 2286 / 98fb121ae7833d78 ->
+2288 / deb3947c64e6b16e; per template, only the Lamassu Bastion moves (it gains
+Defensive Support 0.75).
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01Csi7Q66Y74mhVBGcnqnUNM

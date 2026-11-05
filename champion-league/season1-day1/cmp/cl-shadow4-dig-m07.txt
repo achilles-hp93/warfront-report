@@ -1,0 +1,11 @@
+Error: ENOENT: no such file or directory, stat '/tmp/claude-0/-home-user/c3aa8c53-db35-52df-a72e-77d6eaa55425/scratchpad/cl-shadow4/battle_reports/cl-s1-d1-d1-m07'
+    at Object.statSync (node:fs:1753:25)
+    at main (/home/user/warfront/scripts/battle_report/digest.cjs:156:19)
+    at Object.<anonymous> (/home/user/warfront/scripts/battle_report/digest.cjs:162:9)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)

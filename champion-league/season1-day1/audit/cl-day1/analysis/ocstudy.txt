@@ -1,0 +1,20 @@
+VP ~ const 0.880, OC 0.082, dmg dealt 0.115, HP 0.036, CHARACTER 0.878; R2 0.11
+VP ~ const 1.774, OC 0.112, HP -0.003, meleeW 0.075, rangedW -0.057, CHARACTER 0.313; R2 0.07
+objVP ~ const 0.981, OC 0.120, HP -0.007, meleeW 0.039, rangedW -0.039, CHARACTER 0.069; R2 0.06
+baseRP ~ const 14.498, OC -0.863, HP 0.668, meleeW 1.005, rangedW 0.182, CHARACTER 17.470; R2 0.24 templates 241
+side OC 0-25: 5 sides, W 1, objVP 6.6, VP 15.4: Celeritas Squadron, Blaze of Etna, Protectores Divini Lateris, Murderhost of Halfa*, Horns of Hattin
+side OC 25-40: 10 sides, W 4, objVP 14.1, VP 25.3: Procession of Ugarit, Wolfshead Pack*, Knights of Camelot*, Sineaters of Damascus*, Walls of Uruk, Bulava of the Rada, Cappadocian Riders*, Belfry Battery, Lightbearers of Antioch, Scorpion Shields
+side OC 40-50: 14 sides, W 8, objVP 15.0, VP 26.4: Armoured Cohort, Magdeburg Warhost*, Sampo's Song*, Sword of Allah, Legio XIII*, Cosán Sí Host, Oak of Gernika, Judgement of Odin*, Mouseion Contingent*, Winter Host, Kishomon Company, Alea Iacta*, Alembic Brigade*, Longwu Army*
+side OC 50-100: 19 sides, W 11, objVP 15.6, VP 27.5: Mihran Spah*, Akathist Convent*, Caerfyrddin Fencibles*, Opoki Hundred, Oath of Kraków, Martyrs' Legion*, Bailiffs of Petra, Summer Rade*, Vigil of Masis, Ghosts of Lemesos, Veiled Court*, Chonae Wing*, March of the Restless Dead, Golden Tumen*, Glandore Breakers*, Popinjay Guild, Flamewrought Company*, Soudarion Cortege, Miserere Column*
+side models 0-25: 10 sides, W 3, objVP 11.4
+side models 25-35: 13 sides, W 7, objVP 13.9
+side models 35-45: 8 sides, W 4, objVP 16.9
+side models 45-100: 17 sides, W 10, objVP 14.7
+battle OC diff vs obj VP diff r 0.44 vs VP diff r 0.40
+EPIC char          n 43 objVP per round on objective 0.61 rounds on obj per copy 3.07 OC per model 3.56 RP per model 65.0 RP per OC 18.3
+ELITE              n 90 objVP per round on objective 1.01 rounds on obj per copy 2.18 OC per model 1.64 RP per model 12.3 RP per OC 7.5
+ELITE char         n 67 objVP per round on objective 0.53 rounds on obj per copy 2.07 OC per model 1.34 RP per model 24.7 RP per OC 18.4
+STANDARD           n 148 objVP per round on objective 1.02 rounds on obj per copy 1.55 OC per model 1.08 RP per model 1.8 RP per OC 1.7
+SPECIALIST char    n 3 objVP per round on objective 0.80 rounds on obj per copy 1.67 OC per model 1.67 RP per model 17.7 RP per OC 10.6
+SPECIALIST         n 55 objVP per round on objective 0.63 rounds on obj per copy 1.29 OC per model 1.10 RP per model 8.9 RP per OC 8.1
+EPIC               n 6 objVP per round on objective 0.88 rounds on obj per copy 2.33 OC per model 1.29 RP per model 28.9 RP per OC 22.5

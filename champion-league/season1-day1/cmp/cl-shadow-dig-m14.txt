@@ -1,0 +1,1081 @@
+Veiled Court (A, infernal_congregations) vs Walls of Uruk (B, mat_akkadi) on CROSSROADS, seed 460703114
+Result: B:Walls of Uruk wins (VP) in round 5, VP 25 / 31
+Initiative: B:Walls of Uruk; formation order [1,0]
+Army A:Veiled Court (250 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  The Veiled Queen - 60 RP, 1 models, 9 HP, leads Cultist Troopers 1, Marshal
+  Cultist Troopers 1 - 10 RP, 10 models, 20 HP, led by The Veiled Queen
+  Masque of Carnality - 55 RP, 1 models, 6 HP
+  Queen Consort - 25 RP, 1 models, 6 HP, leads Cultist Troopers 2
+  Babylonian Assassin 1 - 24 RP, 3 models, 3 HP
+  Cultist Troopers 2 - 10 RP, 10 models, 20 HP, led by Queen Consort
+  Babylonian Assassin 2 - 24 RP, 3 models, 3 HP
+  Lector - 22 RP, 1 models, 6 HP
+  Cultist Troopers 3 - 10 RP, 10 models, 20 HP
+  Cultist Troopers 4 - 10 RP, 10 models, 20 HP
+Army B:Walls of Uruk (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Gilgamesh - 65 RP, 1 models, 10 HP, leads Ashur Breachguard, Marshal
+  Ashur Breachguard - 35 RP, 3 models, 9 HP, led by Gilgamesh
+  Asipu Priest - 18 RP, 1 models, 5 HP, leads Temple Levy 1
+  Temple Levy 1 - 20 RP, 10 models, 20 HP, led by Asipu Priest
+  Temple Levy 2 - 15 RP, 10 models, 20 HP
+  Temple Levy 3 - 15 RP, 10 models, 20 HP
+  Lamassu Bastion - 60 RP, 1 models, 14 HP
+  Floodgate Sappers - 20 RP, 3 models, 6 HP
+Primary A:Veiled Court: ERADICATE THE FOE - At the end of each Battle Round, score 2 VP if you destroyed an enemy unit in an Objective Area during that Battle Round, or 3 VP if you destroyed two or more.
+  hand: ERADICATE THE FOE, BLEED THEM WHITE, DEBT OF BLOOD; picked eradicate_the_foe
+  scored per round: R1 0 (count 0), R2 3 (count 2), R3 0 (count 0), R4 3 (count 2), R5 0 (count 0); total 6
+Primary B:Walls of Uruk: FORLORN HOPE - At the start of each Battle Round, your opponent picks one of your units outside your deployment zone. At the end of that Battle Round, score 2 VP if that unit is alive and still outside your deployment zone.
+  hand: ERADICATE THE FOE, DEBT OF BLOOD, FORLORN HOPE; picked forlorn_hope
+  scored per round: R1 0 (count 0), R2 2 (count 1), R3 2 (count 1), R4 0 (count 0), R5 2 (count 1); total 6
+
+=== BATTLE ROUND 1 ===
+A:Veiled Court: VP +0 (obj 0, primary 0, missions 0) = 0; CP +3 -3 holds 0 [3 Troop Requisition → Cultist Troopers]
+B:Walls of Uruk: VP +8 (obj 5, primary 0, missions 3) = 8; CP +2 -2 holds 0 [2 Double Time → Temple Levy 1]
+  recension: +1 -0 holds 3
+  mana: +2 -0 holds 2
+A:Veiled Court keeps mission IRON GRIP (offered IRON GRIP / INTO THE FRAY)
+B:Walls of Uruk keeps mission TERRITORIAL SUPERIORITY (offered INTO THE FRAY / TERRITORIAL SUPERIORITY)
+B:Walls of Uruk mission TERRITORIAL SUPERIORITY: completed
+Moves:
+  [MOVEMENT] B:Walls of Uruk Temple Levy 1 + Asipu Priest 3,2 -> 8,7 (advance)
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 1 10,12 -> 6,8 (advance)
+  [MOVEMENT] B:Walls of Uruk Floodgate Sappers 7,2 -> 10,5 (advance)
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 2 8,12 -> 6,7 (advance)
+  [MOVEMENT] B:Walls of Uruk Lamassu Bastion 11,1 -> 11,5 (advance)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 5,12 -> 5,7 (advance)
+  [MOVEMENT] B:Walls of Uruk Temple Levy 2 9,2 -> 12,6 (advance)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3,12 -> 4,8 (advance)
+  [MOVEMENT] B:Walls of Uruk Temple Levy 3 11,2 -> 8,6 (advance)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 11,12 -> 8,10 (advance)
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 5,2 -> 4,4 (advance)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2 + Queen Consort 9,12 -> 7,9 (advance)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 7,12 -> 9,9 (advance)
+  [MOVEMENT] A:Veiled Court Masque of Carnality 3,13 -> 8,9 (advance)
+  [MOVEMENT] A:Veiled Court Lector 5,13 -> 2,8 (advance)
+Combat:
+  [ACTION] ranged: B:Walls of Uruk Ashur Breachguard -> Lector: Lector -3
+Idle (APt to spend, none spent): A:HQ (no legal action), A:The Veiled Queen (no legal action), A:Cultist Troopers 1 (no legal action), A:Masque of Carnality (no legal action), A:Queen Consort (no legal action), A:Cultist Troopers 2 (no legal action), A:Lector (no legal action), A:Cultist Troopers 3 (no legal action), A:Cultist Troopers 4 (no legal action), B:HQ (no legal action), B:Gilgamesh (no legal action), B:Lamassu Bastion (no legal action), B:Floodgate Sappers (no legal action)
+Commands and abilities:
+  [COMMAND] B:Walls of Uruk Twin Thrones: Marduk Enthroned: nothing - made marduk active; 1 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Walls of Uruk Double Time on Temple Levy 1: nothing - gave Asipu Priest: MOVE +2; Temple Levy 1: MOVE +2; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] A:Veiled Court Troop Requisition on (3,12): paid off - placed Cultist Troopers; the unit it placed made 2 attack(s), 2 HP off; the unit it placed scored 2.73 VP; the unit it placed drew 2 enemy attack(s), 17 HP
+Passive rules:
+  Legendary Hero (Gilgamesh): 1 attack, 0.54 expected HP for its side
+  King of Uruk (Gilgamesh): fired 1 time (add_resource)
+Scored by:
+  B:Walls of Uruk objectives (7,7) 3 VP: Temple Levy 1 1.5, Temple Levy 3 1.5
+  B:Walls of Uruk objectives (13,7) 2 VP: Temple Levy 2 2.0; hinged on Temple Levy 2
+  B:Walls of Uruk missions TERRITORIAL SUPERIORITY 3 VP: Temple Levy 1 1.5, Temple Levy 3 1.5
+Log:
+  [] Map selected: CROSSROADS (Central Faceoff)
+  [] [AI] Formation selected: ⚔ Walls of Uruk · Doctrine: None (8 units)
+  [] [AI] Formation selected: ⚔ Veiled Court · Doctrine: None (10 units)
+  [] The Veiled Queen leads Cultist Troopers 1 as its bodyguard
+  [] Queen Consort leads Cultist Troopers 2 as its bodyguard
+  [] Gilgamesh leads Ashur Breachguard as its bodyguard
+  [] Asipu Priest leads Temple Levy 1 as its bodyguard
+  [] Player A: HQ auto-deployed at (7,13)
+  [] Player B: HQ auto-deployed at (7,1)
+  [] Seize The Ground: 3 objectives placed
+  [] [AI] Masque of Carnality deployed at (3,13)
+  [] [AI] Lamassu Bastion deployed at (11,1)
+  [] [AI] Lector deployed at (5,13)
+  [] [AI] Ashur Breachguard deployed at (5,2)
+  [] [AI] Cultist Troopers 1 deployed at (11,12)
+  [] [AI] Temple Levy 1 deployed at (3,2)
+  [] [AI] Babylonian Assassin 1 deployed at (10,12)
+  [] [AI] Temple Levy 2 deployed at (9,2)
+  [] [AI] Cultist Troopers 2 deployed at (9,12)
+  [] [AI] Temple Levy 3 deployed at (11,2)
+  [] [AI] Babylonian Assassin 2 deployed at (8,12)
+  [] [AI] Floodgate Sappers deployed at (7,2)
+  [] [AI] Cultist Troopers 3 deployed at (5,12)
+  [] [AI] Cultist Troopers 4 deployed at (7,12)
+  [COMMAND] Lector begins the battle in the air
+  [COMMAND] Recension: Player B +1 (3 total) - King of Uruk
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] ◈ BATTLE BEGINS - MAP: CROSSROADS
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] Player A formation (11 units): HQ, The Veiled Queen, Cultist Troopers 1, Masque of Carnality, Queen Consort, Babylonian Assassin 1, Cultist Troopers 2, Babylonian Assassin 2, Lector, Cultist Troopers 3, Cultist Troopers 4
+  [COMMAND] Player B formation (9 units): HQ, Gilgamesh, Ashur Breachguard, Asipu Priest, Temple Levy 1, Temple Levy 2, Temple Levy 3, Lamassu Bastion, Floodgate Sappers
+  [COMMAND] PRIORITY: Player B (fewer units on the battlefield, 7 to 9)
+  [COMMAND] ⚔ BATTLE ROUND 1 - BEGIN
+  [COMMAND] COMMAND PHASE
+  [COMMAND] [AI] Initialised - AI vs AI mode (both players)
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 1 - A:3 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:3 B:2
+  [COMMAND] Player A keeps a Primary Mission
+  [COMMAND] Player B keeps a Primary Mission
+  [COMMAND] Primary Missions revealed: Player A ERADICATE THE FOE, Player B FORLORN HOPE
+  [COMMAND] Player A picks mission: IRON GRIP
+  [COMMAND] Player B picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] TWIN THRONES: Player B selects Marduk Enthroned
+  [COMMAND] HQ Command: Double Time -> Temple Levy 1 (cost 2 CP) by Player B
+  [COMMAND] DOUBLE TIME: Temple Levy 1 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Troop Requisition -> infernal_congregations:cultists (cost 3 CP) by Player A
+  [COMMAND] TROOP REQUISITION: Cultist Troopers deployed at (3,12) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] [Temple Levy 1] Advance: Movement Dice 4, 4, 6 add 3, 8 Movement Points
+  [MOVEMENT] Temple Levy 1 Advances: +3 from the Movement Dice, 8 Movement Points.
+  [MOVEMENT] Temple Levy 1 moved to (8,7)
+  [MOVEMENT] [Babylonian Assassin 1] Advance: Movement Dice 6, 4, 6 add 3, 7 Movement Points
+  [MOVEMENT] Babylonian Assassin 1 Advances: +3 from the Movement Dice, 7 Movement Points.
+  [MOVEMENT] Babylonian Assassin 1 moved to (6,8)
+  [MOVEMENT] [Floodgate Sappers] Advance: Movement Dice 2, 3, 4 add 1, 4 Movement Points
+  [MOVEMENT] Floodgate Sappers Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Floodgate Sappers moved to (10,5)
+  [MOVEMENT] [Babylonian Assassin 2] Advance: Movement Dice 5, 3, 4 add 2, 6 Movement Points
+  [MOVEMENT] Babylonian Assassin 2 Advances: +2 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Babylonian Assassin 2 moved to (6,7)
+  [MOVEMENT] [Lamassu Bastion] Advance: Movement Dice 5, 1, 5 add 2, 4 Movement Points
+  [MOVEMENT] Lamassu Bastion Advances: +2 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Lamassu Bastion moved to (11,5)
+  [MOVEMENT] [Cultist Troopers 3] Advance: Movement Dice 6, 6, 3 add 2, 5 Movement Points
+  [MOVEMENT] Cultist Troopers 3 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Cultist Troopers 3 moved to (5,7)
+  [MOVEMENT] [Temple Levy 2] Advance: Movement Dice 5, 2, 5 add 2, 5 Movement Points
+  [MOVEMENT] Temple Levy 2 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Temple Levy 2 moved to (12,6)
+  [MOVEMENT] [Cultist Troopers] Advance: Movement Dice 5, 5, 6 add 3, 6 Movement Points
+  [MOVEMENT] Cultist Troopers Advances: +3 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Cultist Troopers moved to (4,8)
+  [MOVEMENT] [Temple Levy 3] Advance: Movement Dice 5, 4, 4 add 3, 6 Movement Points
+  [MOVEMENT] Temple Levy 3 Advances: +3 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Temple Levy 3 moved to (8,6)
+  [MOVEMENT] [Cultist Troopers 1] Advance: Movement Dice 1, 1, 6 add 1, 4 Movement Points
+  [MOVEMENT] Cultist Troopers 1 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Cultist Troopers 1 moved to (8,10)
+  [MOVEMENT] [Ashur Breachguard] Advance: Movement Dice 3, 1, 1 add 0, 2 Movement Points
+  [MOVEMENT] Ashur Breachguard Advances: +0 from the Movement Dice, 2 Movement Points.
+  [MOVEMENT] Ashur Breachguard moved to (4,4)
+  [MOVEMENT] [Cultist Troopers 2] Advance: Movement Dice 4, 3, 4 add 2, 5 Movement Points
+  [MOVEMENT] Cultist Troopers 2 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Cultist Troopers 2 moved to (7,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] [Cultist Troopers 4] Advance: Movement Dice 6, 1, 2 add 1, 4 Movement Points
+  [MOVEMENT] Cultist Troopers 4 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Cultist Troopers 4 moved to (9,9)
+  [MOVEMENT] [Masque of Carnality] Advance: Movement Dice 4, 4, 6 add 3, 8 Movement Points
+  [MOVEMENT] Masque of Carnality Advances: +3 from the Movement Dice, 8 Movement Points.
+  [MOVEMENT] Masque of Carnality moved to (8,9)
+  [MOVEMENT] [Lector] Advance: Movement Dice 2, 6, 2 add 1, 6 Movement Points
+  [MOVEMENT] Lector Advances: +1 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Lector moved to (2,8)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Ashur Breachguard opens fire with 2 combat groups
+  [ACTION] 2x Gate-Breaker Carbine (Breachguard) HIT vs Lector (FR 10): [4✓][4✓][5✓][2✗][(1→)6✓][2✗][(1→)2✗][2✗][4✓][3✗] → 5/10 hits (needs 3+) [HIT mod: -1 vs FLYING]
+  [ACTION]   Lector SAVE (5 dice): [1✗][2✗][5✗][1✗][3✗] → 0/5 saved (needs 6+)
+  [ACTION]   Lector takes 3 damage (6 → 3)
+  [ACTION]   Lector FEEL NO PAIN: rolled 4 (needs 5+) => FAILED
+  [ACTION]   Lector FEEL NO PAIN: rolled 4 (needs 5+) => FAILED
+  [ACTION]   Lector FEEL NO PAIN: rolled 5 (needs 5+) => IGNORED
+  [ACTION]   Lector FEEL NO PAIN: rolled 3 (needs 5+) => FAILED
+  [ACTION]   Lector FEEL NO PAIN: rolled 6 (needs 5+) => IGNORED
+  [ACTION] 1x Gate-Breaker Carbine (Breach-Leader) HIT vs Lector (FR 5): [(1→)5✓][4✓][6✓][4✓][2✗] → 4/5 hits (needs 3+) [HIT mod: -1 vs FLYING]
+  [ACTION]   Lector SAVE (4 dice): [6✓][6✓][4✗][1✗] → 2/4 saved (needs 6+)
+  [ACTION]   Lector FEEL NO PAIN: rolled 6 (needs 5+) => IGNORED
+  [ACTION]   Lector FEEL NO PAIN: rolled 6 (needs 5+) => IGNORED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player B +2 (2 total) - FOUNDATIONS OF AKKAD
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 21 vs 6)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 10 vs 0)
+  [CLEANUP] VP - Player A: 0 | Player B: 5
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player B +3 VP!
+
+=== BATTLE ROUND 2 ===
+A:Veiled Court: VP +9 (obj 4, primary 3, missions 2) = 9; CP +4 -2 holds 2 [2 Double Time → Cultist Troopers 2]
+  mana: +10 -5 holds 5 [5 Cast Black Vortex of Dis]
+B:Walls of Uruk: VP +9 (obj 3, primary 2, missions 4) = 17; CP +2 -2 holds 0 [2 Double Time → Ashur Breachguard]
+  recension: +0 -1 holds 2 [1 Twin Thrones]
+  mana: +3 -0 holds 5
+A:Veiled Court keeps mission FIRE FOR EFFECT (offered FIRE FOR EFFECT / PUSH FORWARD)
+B:Walls of Uruk keeps mission ASSASSINATION (offered ASSASSINATION / STRONGPOINT)
+A:Veiled Court mission IRON GRIP: completed
+B:Walls of Uruk mission ASSASSINATION: completed
+Moves:
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 4,4 -> 2,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2 + Queen Consort 7,9 -> 12,8
+  [MOVEMENT] B:Walls of Uruk Floodgate Sappers 10,5 -> 13,7 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 5,7 -> 6,6
+  [MOVEMENT] B:Walls of Uruk Lamassu Bastion 11,5 -> 12,7 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 8,10 -> 11,10
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 9,9 -> 12,10
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4,8 -> 1,8
+  [MOVEMENT] A:Veiled Court Masque of Carnality 8,9 -> 7,8 (charge)
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 1 6,8 -> 8,8 (charge)
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 2 6,7 -> 3,7 (charge)
+  [MOVEMENT] A:Veiled Court Lector 2,8 -> 6,7
+  [ACTION] A:Veiled Court Masque of Carnality 7,8 -> 8,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court Lector -> Ashur Breachguard: no damage
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court Cultist Troopers 3 -> Ashur Breachguard: no damage; cost paid: Cultist Troopers 3 -1 (DESPERATE WORSHIP)
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Temple Levy 2 -> Cultist Troopers 2: Cultist Troopers 2 -2
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Asipu Priest -> Cultist Troopers 3: no damage
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Temple Levy 1 -> Cultist Troopers 3: Cultist Troopers 3 -2
+  [MOVEMENT] ranged (Overwatch): B:Walls of Uruk Temple Levy 3 -> Cultist Troopers 3: Cultist Troopers 3 -4
+  [ACTION] ranged: B:Walls of Uruk Ashur Breachguard -> Babylonian Assassin 2: Babylonian Assassin 2 -3 DESTROYED
+  [ACTION] melee: A:Veiled Court Babylonian Assassin 1 -> Temple Levy 1: Temple Levy 1 -20 DESTROYED
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 3 -> Cultist Troopers 3: Cultist Troopers 3 -5
+  [ACTION] melee: A:Veiled Court Masque of Carnality -> Asipu Priest: Asipu Priest -5 DESTROYED
+  [ACTION] melee: B:Walls of Uruk Lamassu Bastion -> Cultist Troopers 2: Cultist Troopers 2 -4, Lamassu Bastion -1
+  [ACTION] ranged: A:Veiled Court Cultist Troopers -> Ashur Breachguard: Ashur Breachguard -2
+  [ACTION] melee: B:Walls of Uruk Floodgate Sappers -> Cultist Troopers 2: Cultist Troopers 2 -4
+  [ACTION] magic (Black Vortex of Dis): A:Veiled Court Lector: no damage
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 2 -> Lector: Lector -3 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Cultist Troopers 1 (no legal action), A:Cultist Troopers 4 (no legal action), B:HQ (no legal action)
+Moves undone:
+  A:Veiled Court Cultist Troopers 1: R1 MOVEMENT 11,12 -> 8,10, R2 MOVEMENT -> 11,10 (toward the objective at 1,7, then away, 3 squares lost)
+  A:Veiled Court Cultist Troopers 2: R1 MOVEMENT 9,12 -> 7,9, R2 MOVEMENT -> 12,8 (toward the objective at 7,7, then away, 3 squares lost)
+  A:Veiled Court Cultist Troopers: R1 MOVEMENT 3,12 -> 4,8, R2 MOVEMENT -> 1,8 (toward the objective at 7,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] B:Walls of Uruk Double Time on Ashur Breachguard: paid off - gave Gilgamesh: MOVE +2; Ashur Breachguard: MOVE +2; 4 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [COMMAND] A:Veiled Court Double Time on Cultist Troopers 2: paid off - gave Queen Consort: MOVE +2; Cultist Troopers 2: MOVE +2; 5 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [MOVEMENT] B:Walls of Uruk Twin Thrones: Ashur Enthroned: nothing - made ashur (was marduk) active; 36 attack(s) it touched: -19.67 expected HP for its side
+  [MOVEMENT] A:Veiled Court Desperate Worship on Ashur Breachguard: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Desperate Worship on Ashur Breachguard: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Black Vortex of Dis on (12,7): paid off - its effect took 7 HP off enemies; cost its own unit 7 HP
+  [ACTION] A:Veiled Court Whispers of Forbidden Pleasure on Temple Levy 2: paid off - marked Temple Levy 2 (seized); took control of Temple Levy 2; decided 4 objective VP
+Passive rules:
+  Rapturous Visage (Queen Consort): 3 attacks, 0.58 expected HP for its side
+  Narcotic Perfume (Babylonian Assassin 2): 1 attack, 0.04 expected HP for its side
+  Legendary Hero (Gilgamesh): 1 attack, 0.06 expected HP for its side
+  Lethal Temptresses (Babylonian Assassin 1): 1 attack, 4.78 expected HP for its side
+  Fish-Cloak of the Apkallu (Asipu Priest): 1 attack, 0.4 expected HP for its side
+  Epicurean Provocation (The Veiled Queen): 2 attacks, 0.42 expected HP for its side
+  Tithe of Torment (Cultist Troopers 3): fired 12 times (add_resource)
+  Tithe of Torment (Cultist Troopers 2): fired 8 times (add_resource)
+  Tithe of Torment (Babylonian Assassin 2): fired 3 times (add_resource)
+  Awakened Stone (Lamassu Bastion): fired 1 time (heal)
+Scored by:
+  B:Walls of Uruk missions ASSASSINATION 4 VP: Temple Levy 2 4.0 (event)
+  B:Walls of Uruk objectives (7,7) 3 VP: Temple Levy 3 3.0; hinged on Temple Levy 3
+  A:Veiled Court objectives (1,7) 2 VP: Cultist Troopers 2.0; hinged on Cultist Troopers
+  A:Veiled Court objectives (13,7) 2 VP: Temple Levy 2 1.3, Queen Consort 0.3, Cultist Troopers 2 0.3
+  A:Veiled Court primary ERADICATE THE FOE 3 VP: Babylonian Assassin 1 1.5, Masque of Carnality 1.5
+  B:Walls of Uruk primary FORLORN HOPE 2 VP: Temple Levy 3 2.0
+  A:Veiled Court missions IRON GRIP 2 VP: Temple Levy 2 0.7, Cultist Troopers 0.7, Queen Consort 0.1, Babylonian Assassin 1 0.1, Cultist Troopers 2 0.1, Cultist Troopers 3 0.1
+Log:
+  [CLEANUP] ═══ ROUND 2 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 7 to 10)
+  [CLEANUP] BATTLE ROUND 2 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 2 - A:3 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:3 B:2
+  [COMMAND] FORLORN HOPE: Player A picks Temple Levy 3
+  [COMMAND] Player A picks mission: FIRE FOR EFFECT
+  [COMMAND] Player B picks mission: ASSASSINATION
+  [COMMAND] HQ Command: Double Time -> Ashur Breachguard (cost 2 CP) by Player B
+  [COMMAND] DOUBLE TIME: Ashur Breachguard gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers 2 (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Cultist Troopers 2 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Recension: Player B -1 (2 total) - Twin Thrones
+  [MOVEMENT] TWIN THRONES: Player B selects Ashur Enthroned
+  [MOVEMENT] Ashur Breachguard moved to (2,6)
+  [MOVEMENT] 1x Hellfire Orbs (Lector) HIT vs Ashur Breachguard (FR 4): [1✗][3✗][4✗][1✗] → 0/4 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Lector] Overwatch Reaction vs Ashur Breachguard: no damage
+  [MOVEMENT] Cultist Troopers 3 DESPERATE WORSHIP (4+): 6 = 6 (natural 6) - PASSED
+  [MOVEMENT] Mana: Player A +1 (1 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 3 SAVES (slow roll): [no save→Cultist] → 0/1 saved, 0 models killed
+  [MOVEMENT]   Cultist Troopers 3 DESPERATE WORSHIP: passed the gamble for +1 FR, suffers 1 absolute damage
+  [MOVEMENT] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Ashur Breachguard (FR 27): [2✗][(1→)4✗][4✗][5✗][5✗][5✗][3✗][5✗][5✗][2✗][3✗][5✗][(1→)5✗][(1→)2✗][6✓][2✗][5✗][2✗][5✗][2✗][4✗][5✗][2✗][4✗][(1→)6✓][4✗][3✗] → 2/27 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Ashur Breachguard SAVE (2 dice): [3✓][6✓] → 2/2 saved (needs 3+)
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Ashur Breachguard (FR 3): [6✓][3✗][3✗] → 1/3 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Ashur Breachguard SAVE roll: 3 (needs 3+) => SAVED
+  [MOVEMENT] [Cultist Troopers 3] Overwatch Reaction vs Ashur Breachguard: no damage
+  [MOVEMENT] Cultist Troopers 2 moved to (12,8)
+  [MOVEMENT] 9x Akkad-Pattern Rifle (Levy Rifleman) HIT vs Cultist Troopers 2 (FR 18): [3✗][6✓][2✗][3✗][3✗][2✗][6✓][3✗][1✗][5✗][6✓][3✗][3✗][2✗][6✓][2✗][1✗][5✗] → 4/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player A +1 (2 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player A +1 (3 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 2 SAVE (4 dice): [6✓][1✗][3✗][6✓] → 2/4 saved (needs 6+)
+  [MOVEMENT]   Cultist Troopers 2 takes 2 damage (20 → 18)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] 1x Akkad-Pattern Rifle (Levy Sergeant) HIT vs Cultist Troopers 2 (FR 2): [1✗][3✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Temple Levy 2] Overwatch Reaction vs Cultist Troopers 2: 2 damage
+  [MOVEMENT] Floodgate Sappers moved to (13,7)
+  [MOVEMENT] Floodgate Sappers Charges Queen Consort, Cultist Troopers 2
+  [MOVEMENT] Cultist Troopers 3 moved to (6,6)
+  [MOVEMENT] 1x Lustration Censer (Asipu Priest) HIT vs Cultist Troopers 3 roll: 3 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Asipu Priest] Overwatch Reaction vs Cultist Troopers 3: no damage
+  [MOVEMENT] 9x Akkad-Pattern Rifle (Levy Rifleman) HIT vs Cultist Troopers 3 (FR 18): [1✗][5✗][2✗][4✗][2✗][1✗][2✗][2✗][3✗][2✗][5✗][5✗][3✗][1✗][4✗][6✓][4✗][3✗] → 1/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player A +1 (4 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 3 SAVE roll: 4 (needs 6+) => FAILED
+  [MOVEMENT]   Cultist Troopers 3 takes 1 damage (19 → 18)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] 1x Akkad-Pattern Rifle (Levy Sergeant) HIT vs Cultist Troopers 3 (FR 2): [1✗][6✓] → 1/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player A +1 (5 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 3 SAVE roll: 4 (needs 6+) => FAILED
+  [MOVEMENT]   Cultist Troopers 3 takes 1 damage (18 → 17)
+  [MOVEMENT] [Temple Levy 1] Overwatch Reaction vs Cultist Troopers 3: 2 damage
+  [MOVEMENT] 9x Akkad-Pattern Rifle (Levy Rifleman) HIT vs Cultist Troopers 3 (FR 18): [6✓][6✓][5✗][5✗][2✗][1✗][2✗][1✗][4✗][1✗][1✗][6✓][6✓][2✗][1✗][3✗][4✗][4✗] → 4/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] Mana: Player A +1 (6 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player A +1 (7 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player A +1 (8 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player A +1 (9 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers 3 SAVE (4 dice): [5✗][5✗][3✗][4✗] → 0/4 saved (needs 6+)
+  [MOVEMENT]   Cultist Troopers 3 takes 4 damage (17 → 13)
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] 1x Akkad-Pattern Rifle (Levy Sergeant) HIT vs Cultist Troopers 3 (FR 2): [3✗][1✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Temple Levy 3] Overwatch Reaction vs Cultist Troopers 3: 4 damage
+  [MOVEMENT] Lamassu Bastion moved to (12,7)
+  [MOVEMENT] Lamassu Bastion Charges Queen Consort, Cultist Troopers 2
+  [MOVEMENT] Cultist Troopers 1 moved to (11,10)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Cultist Troopers 4 moved to (12,10)
+  [MOVEMENT] Cultist Troopers moved to (1,8)
+  [MOVEMENT] Masque of Carnality moved to (7,8)
+  [MOVEMENT] Masque of Carnality Charges Asipu Priest, Temple Levy 1
+  [MOVEMENT] Babylonian Assassin 1 moved to (8,8)
+  [MOVEMENT] Babylonian Assassin 1 Charges Asipu Priest, Temple Levy 1
+  [MOVEMENT] Babylonian Assassin 2 moved to (3,7)
+  [MOVEMENT] Babylonian Assassin 2 Charges Gilgamesh, Ashur Breachguard
+  [MOVEMENT] Lector moved to (6,7)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Ashur Breachguard opens fire with 2 combat groups
+  [ACTION] 2x Gate-Breaker Carbine (Breachguard) HIT vs Babylonian Assassin 2 (FR 10): [6✓][5✓][2✗][3✗][6✓][6✓][6✓][5✓][5✓][2✗] → 7/10 hits (needs 3+) [HIT mod: -1 Narcotic Perfume]
+  [ACTION] Mana: Player A +1 (10 total) - TITHE OF TORMENT
+  [ACTION]   Babylonian Assassin 2 SAVE (7 dice): [4✗][4✗][5✓][1✗][5✓][1✗][1✗] → 2/7 saved (needs 5+)
+  [ACTION]   Babylonian Assassin 2 takes 3 damage (3 → 0)
+  [ACTION]   Babylonian Assassin destroyed
+  [ACTION]   Babylonian Assassin destroyed
+  [ACTION]   Babylonian Bride destroyed
+  [ACTION]   Babylonian Assassin 2 has lost its leader - LEADERLESS
+  [ACTION]   Babylonian Assassin 2 DESTROYED
+  [ACTION] Babylonian Assassin 1 attacks in melee with 1 combat group
+  [ACTION] Babylonian Assassin 1 engages Temple Levy 1 in melee combat
+  [ACTION]   Initiative: Babylonian Assassin 1 (INI 10, +3 charge) → Temple Levy 1 (INI 4) → Asipu Priest (INI 4)
+  [ACTION] Babylonian Assassin 1 SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] DUAL WIELD: duplicated 10 dice
+  [ACTION]   Babylonian Assassin 1 (3x Twin Serrated Daggers) MELEE vs Temple Levy 1 (AR 9): [6✓][6✓][4✓][4✓][4✓][4✓][3✓][3✓][↻5✓][↻5✓][↻6✓][↻5✓][↻6✓][↻3✓][↻6✓][↻3✓][↻6✓][↻3✓][↻5✓][↻5✓] → 20 hits [MS 7]
+  [ACTION]   Temple Levy 1: 20 damage (20 → 0)
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Sergeant destroyed
+  [ACTION]   Temple Levy 1 has lost its leader - LEADERLESS
+  [ACTION] COUNTER-IMAGE: Asipu Priest rolls 5 against POISONED - removed.
+  [ACTION]   Temple Levy 1 DESTROYED in melee!
+  [ACTION]   Temple Levy 1 was destroyed - no counterattack
+  [ACTION]   Asipu Priest counterattacks
+  [ACTION]   Asipu Priest spends 1 APt to counterattack
+  [ACTION]   Asipu Priest (Censer-Bulb) MELEE vs Babylonian Assassin 1 (AR 1): [4✗] → 0 hits [MS 4] [HIT mod: -1]
+  [ACTION] Temple Levy 3 opens fire with 2 combat groups
+  [ACTION] 9x Akkad-Pattern Rifle (Levy Rifleman) HIT vs Cultist Troopers 3 (FR 18): [5✓][2✗][2✗][2✗][2✗][4✗][6✓][3✗][1✗][4✗][1✗][2✗][4✗][6✓][3✗][1✗][2✗][6✓] → 4/18 hits (needs 5+)
+  [ACTION]   Cultist Troopers 3 SAVE (4 dice): [6✓][2✗][1✗][2✗] → 1/4 saved (needs 6+)
+  [ACTION]   Cultist Troopers 3 takes 3 damage (13 → 10)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] 1x Akkad-Pattern Rifle (Levy Sergeant) HIT vs Cultist Troopers 3 (FR 2): [6✓][6✓] → 2/2 hits (needs 4+)
+  [ACTION]   Cultist Troopers 3 SAVE (2 dice): [2✗][1✗] → 0/2 saved (needs 6+)
+  [ACTION]   Cultist Troopers 3 takes 2 damage (10 → 8)
+  [ACTION]   Cultist destroyed
+  [ACTION] Masque of Carnality attacks in melee with 1 combat group
+  [ACTION] Masque of Carnality engages Asipu Priest in melee combat
+  [ACTION] DUAL WIELD: duplicated 3 dice
+  [ACTION]   Masque of Carnality (Carnal Scimitars) MELEE vs Asipu Priest (AR 3): [6✓][6✓][4✓][4✓][2✓][2✓] → 6 hits [MS 9]
+  [ACTION]   Asipu Priest: 5 damage (5 → 0)
+  [ACTION]   Asipu Priest destroyed
+  [ACTION]   Asipu Priest has lost its leader - LEADERLESS
+  [ACTION]   Asipu Priest DESTROYED in melee!
+  [ACTION] Masque of Carnality TAKE GROUND: moved to (8,7)
+  [ACTION] Lamassu Bastion attacks in melee with 1 combat group
+  [ACTION] Lamassu Bastion engages Cultist Troopers 2 in melee combat
+  [ACTION]   Initiative: Lamassu Bastion (INI 5, +3 charge) → Cultist Troopers 2 (INI 5)
+  [ACTION]   SWEEP 1: +1 AR (1 per model x 1 model, vs 9 target models)
+  [ACTION]   Lamassu Bastion (Horned Crown) MELEE vs Cultist Troopers 2 (AR 4): [5✓][3✓][1✗][1✗] → 2 hits [MS 6]
+  [ACTION]   Cultist Troopers 2: 4 damage (18 → 14)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 2 counterattacks
+  [ACTION]   Cultist Troopers 2 spends 1 APt to counterattack
+  [ACTION]   Cultist Troopers 2 (6x Renegade Bayonet) MELEE vs Lamassu Bastion (AR 6): [5✓][4✗][3✗][2✗][2✗][2✗] → 1 hits [MS 3]
+  [ACTION]   Lamassu Bastion: 1 damage (14 → 13)
+  [ACTION]   Cultist Troopers 2 (Renegade Bayonet) MELEE vs Lamassu Bastion (AR 1): [4✗] → 0 hits [MS 3]
+  [ACTION]   Queen Consort holds - no counterattack
+  [ACTION] Cultist Troopers opens fire with 2 combat groups
+  [ACTION] Cultist Troopers DESPERATE WORSHIP (4+): 3 = 3 - FAILED
+  [ACTION] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Ashur Breachguard (FR 18): [3✗][4✗][2✗][1✗][6✓][6✓][2✗][3✗][2✗][2✗][5✓][2✗][4✗][3✗][6✓][6✓][2✗][5✓] → 6/18 hits (needs 5+)
+  [ACTION]   Ashur Breachguard SAVE (6 dice): [5✓][4✓][6✓][1✗][5✓][2✗] → 4/6 saved (needs 3+)
+  [ACTION]   Ashur Breachguard takes 2 damage (9 → 7)
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Ashur Breachguard (FR 2): [3✗][6✓] → 1/2 hits (needs 5+)
+  [ACTION]   Ashur Breachguard SAVE roll: 6 (needs 3+) => SAVED
+  [ACTION] Floodgate Sappers attacks in melee with 2 combat groups
+  [ACTION] Floodgate Sappers engages Cultist Troopers 2 in melee combat
+  [ACTION]   Initiative: Floodgate Sappers (INI 7, +3 charge) → Queen Consort (INI 5)
+  [ACTION]   Floodgate Sappers (2x Sluice-Key Pick) MELEE vs Cultist Troopers 2 (AR 4): [5✓][5✓][1✗][1✗] → 2 hits [MS 6]
+  [ACTION]   Cultist Troopers 2: 2 damage (14 → 12)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Floodgate Sappers (Sluice-Key Pick) MELEE vs Cultist Troopers 2 (AR 2): [6✓][4✓] → 2 hits [MS 6]
+  [ACTION]   Cultist Troopers 2: 2 damage (12 → 10)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Queen Consort counterattacks
+  [ACTION]   Queen Consort spends 1 APt to counterattack
+  [ACTION]   Queen Consort (Gilded Talons) MELEE vs Floodgate Sappers (AR 3): [4✗][↻4✗][3✗] → 0 hits [MS 4]
+  [ACTION]   Cultist Troopers 2 has no APt left - no counterattack
+  [ACTION] Mana: Player A -5 (5 total) - spent
+  [ACTION] Lector casts Black Vortex of Dis on (12,7)
+  [ACTION] Temple Levy 2 opens fire with 2 combat groups
+  [ACTION] 9x Akkad-Pattern Rifle (Levy Rifleman) HIT vs Lector (FR 18): [4✗][1✗][3✗][2✗][6✓][1✗][2✗][3✗][6✓][6✓][1✗][2✗][6✓][4✗][4✗][6✓][3✗][1✗] → 5/18 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] MISSION COMPLETE: "ASSASSINATION" -> Player B +4 VP!
+  [ACTION]   Lector SAVE (5 dice): [3✗][1✗][2✗][1✗][5✗] → 0/5 saved (needs 6+)
+  [ACTION]   Lector takes 3 damage (3 → 0)
+  [ACTION]   Lector FEEL NO PAIN: rolled 2 (needs 5+) => FAILED
+  [ACTION]   Lector FEEL NO PAIN: rolled 4 (needs 5+) => FAILED
+  [ACTION]   Lector FEEL NO PAIN: rolled 2 (needs 5+) => FAILED
+  [ACTION]   Lector destroyed
+  [ACTION]   Lector FEEL NO PAIN: rolled 5 (needs 5+) => IGNORED
+  [ACTION]   Lector FEEL NO PAIN: rolled 4 (needs 5+) => FAILED
+  [ACTION]   Lector DESTROYED
+  [ACTION] The Veiled Queen uses Whispers of Forbidden Pleasure!
+  [ACTION] [Temple Levy 2] is seized by Player A until the end of the next Command Phase
+  [ACTION] The Veiled Queen WHISPERS OF FORBIDDEN PLEASURE: Target 1 enemy STANDARD or SPECIALIST unit. You gain control of that unit until the end of the next Command Phase.
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player B +3 (5 total) - FOUNDATIONS OF AKKAD
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] [Lamassu Bastion] AWAKENED STONE: heals 1 HP
+  [CLEANUP] ★ Objective (7,7): Player B +3 VP (OC 10 vs 8)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 10 vs 8)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 18 vs 7)
+  [CLEANUP] VP - Player A: 4 | Player B: 15
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 3 VP (3/10)
+  [CLEANUP] PRIMARY FORLORN HOPE: Player B scores 2 VP (2/10)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player A +2 VP +1 CP!
+
+=== BATTLE ROUND 3 ===
+A:Veiled Court: VP +7 (obj 5, primary 0, missions 2) = 16; CP +3 -4 holds 1 [2 Scouting Order → Temple Levy 3; 2 Double Time → Cultist Troopers 4]
+  mana: +10 -0 holds 15
+B:Walls of Uruk: VP +4 (obj 2, primary 2, missions 0) = 21; CP +2 -1 holds 1 [1 Go to ground (reaction) for Ashur Breachguard]
+  mana: +2 -0 holds 7
+A:Veiled Court keeps mission COMMAND AUTHORITY (offered IRON CURTAIN / COMMAND AUTHORITY)
+B:Walls of Uruk keeps mission FORWARD PRESENCE (offered FORWARD PRESENCE / OMNIPRESENCE)
+A:Veiled Court mission COMMAND AUTHORITY: completed
+Moves:
+  [MOVEMENT] B:Walls of Uruk Temple Levy 2 12,6 -> 14,7
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 12,10 -> 9,7
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 2,6 -> 0,6
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 11,10 -> 12,10
+  [MOVEMENT] A:Veiled Court Cultist Troopers 3 6,6 -> 7,6
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 1 8,8 -> 9,8
+  [MOVEMENT] A:Veiled Court Masque of Carnality 8,7 -> 11,10
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1,8 -> 2,6
+  [MOVEMENT] A:Veiled Court Temple Levy 3 8,6 -> 8,7
+Combat:
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court Cultist Troopers 1 -> Temple Levy 2: Temple Levy 2 -2
+  [MOVEMENT] ranged (Overwatch): A:Veiled Court Cultist Troopers 4 -> Temple Levy 2: Temple Levy 2 -1
+  [ACTION] ability (Black Vortex of Dis): A:Veiled Court Lector -> Queen Consort: Cultist Troopers 2 -7, Lamassu Bastion -4, Floodgate Sappers -3
+  [ACTION] ranged: B:Walls of Uruk Ashur Breachguard -> Cultist Troopers: Cultist Troopers -8
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 1 -> Temple Levy 2: Temple Levy 2 -8
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 2 -> Cultist Troopers 1: Cultist Troopers 1 -2
+  [ACTION] melee: B:Walls of Uruk Floodgate Sappers -> Temple Levy 2: Temple Levy 2 -3
+  [ACTION] melee: A:Veiled Court Queen Consort -> Floodgate Sappers: Floodgate Sappers -1
+  [ACTION] melee: B:Walls of Uruk Lamassu Bastion -> Cultist Troopers 2: Queen Consort -3, Cultist Troopers 2 -3 DESTROYED
+  [ACTION] ranged: A:Veiled Court Cultist Troopers -> Ashur Breachguard: no damage
+  [ACTION] effect (Poison): A:Veiled Court Queen Consort -> Floodgate Sappers: Floodgate Sappers -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Masque of Carnality (no legal action), A:Babylonian Assassin 1 (no legal action), A:Cultist Troopers 3 (no legal action), A:Cultist Troopers 4 (no legal action), B:HQ (no legal action)
+Moves undone:
+  A:Veiled Court Cultist Troopers 4: R2 MOVEMENT 9,9 -> 12,10, R3 MOVEMENT -> 9,7 (toward the objective at 13,7, then away, 3 squares lost)
+Commands and abilities:
+  [COMMAND] A:Veiled Court Scouting Order on Temple Levy 3: paid off - gave Temple Levy 3: PER +2; completed COMMAND AUTHORITY (+2 VP)
+  [COMMAND] A:Veiled Court Double Time on Cultist Troopers 4: paid off - gave Cultist Troopers 4: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [MOVEMENT] A:Veiled Court Desperate Worship on Temple Levy 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [MOVEMENT] A:Veiled Court Desperate Worship on Temple Levy 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Desperate Worship on Temple Levy 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Veiled Court Whispers of Forbidden Pleasure on Temple Levy 2: paid off - marked Temple Levy 2 (seized); took control of Temple Levy 2; decided 4 objective VP
+  [ACTION] A:Veiled Court Desperate Worship on Ashur Breachguard: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] B:Walls of Uruk Go to Ground on Ashur Breachguard: paid off - 1 attack(s) it touched: +0.67 expected HP for its side
+Passive rules:
+  Epicurean Provocation (The Veiled Queen): 4 attacks, 4.23 expected HP for its side
+  Rapturous Visage (Queen Consort): 5 attacks, 3.35 expected HP for its side
+  Legendary Hero (Gilgamesh): 1 attack, 1.39 expected HP for its side
+  Profane Zeal (Cultist Troopers 1): 3 attacks, 1.46 expected HP for its side
+  Tithe of Torment (Cultist Troopers 2): fired 9 times (add_resource)
+  Tithe of Torment (Cultist Troopers): fired 8 times (add_resource)
+  Tithe of Torment (Cultist Troopers 1): fired 2 times (add_resource)
+  Tithe of Torment (Queen Consort): fired 1 time (add_resource)
+  Awakened Stone (Lamassu Bastion): fired 1 time (heal)
+  Temple Levy 2: MOVE 4 (3 without ability:recited_line)
+Scored by:
+  A:Veiled Court missions COMMAND AUTHORITY 2 VP: Temple Levy 3 2.0 (event)
+  A:Veiled Court objectives (7,7) 3 VP: Temple Levy 3 3.0; hinged on Temple Levy 3
+  B:Walls of Uruk objectives (1,7) 2 VP: Gilgamesh 1.0, Ashur Breachguard 1.0; hinged on Gilgamesh, Ashur Breachguard
+  A:Veiled Court objectives (13,7) 2 VP: Queen Consort 1.0, Temple Levy 2 1.0; hinged on Queen Consort, Temple Levy 2
+  B:Walls of Uruk primary FORLORN HOPE 2 VP: Floodgate Sappers 2.0
+Log:
+  [CLEANUP] ═══ ROUND 3 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 5 to 9)
+  [CLEANUP] BATTLE ROUND 3 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] [Temple Levy 3] TEMPTATION OF EARTHLY DELIGHT: defects from Player B to Player A
+  [COMMAND] COMMAND PHASE - Round 3 - A:5 CP, B:2 CP
+  [COMMAND] Command Phase: CP A:5 B:2
+  [COMMAND] FORLORN HOPE: Player A picks Floodgate Sappers
+  [COMMAND] Player A picks mission: COMMAND AUTHORITY
+  [COMMAND] Player B picks mission: FORWARD PRESENCE
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Scouting Order -> Temple Levy 3 (cost 2 CP) by Player A
+  [COMMAND] SCOUTING ORDER: each model in Temple Levy 3 gains +2 PER this Battle Round
+  [COMMAND] MISSION COMPLETE: "COMMAND AUTHORITY" -> Player A +2 VP!
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers 4 (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Cultist Troopers 4 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Cultist Troopers 3 Morale Test (4+): 1 = 1 (natural 1) - FAILED, now SUPPRESSED
+  [COMMAND] [Temple Levy 2] returns to Player B
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Temple Levy 2 moved to (14,7)
+  [MOVEMENT] Cultist Troopers 1 DESPERATE WORSHIP (4+): 2 = 2 - FAILED
+  [MOVEMENT] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Temple Levy 2 (FR 18): [5✗][(1→)4✗][5✗][4✗][3✗][6✓][5✗][2✗][(1→)2✗][3✗][(1→)2✗][(1→)1✗][4✗][2✗][5✗][(1→)1✗][3✗][(1→)2✗] → 1/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Temple Levy 2 SAVE roll: 4 (needs 5+) [SAVE mod: -1 EPICUREAN PROVOCATION] => FAILED
+  [MOVEMENT]   Temple Levy 2 takes 1 damage (20 → 19)
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Temple Levy 2 (FR 2): [4✗][6✓] → 1/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Temple Levy 2 SAVE roll: 1 (needs 5+) [SAVE mod: -1 EPICUREAN PROVOCATION] => FAILED
+  [MOVEMENT]   Temple Levy 2 takes 1 damage (19 → 18)
+  [MOVEMENT]   Levy Rifleman destroyed
+  [MOVEMENT] [Cultist Troopers 1] Overwatch Reaction vs Temple Levy 2: 2 damage
+  [MOVEMENT] Cultist Troopers 4 DESPERATE WORSHIP (4+): 1 = 1 (natural 1) - FAILED
+  [MOVEMENT] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Temple Levy 2 (FR 18): [5✗][5✗][3✗][2✗][3✗][4✗][2✗][2✗][6✓][5✗][4✗][2✗][4✗][5✗][2✗][2✗][3✗][4✗] → 1/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Temple Levy 2 SAVE roll: 2 (needs 5+) [SAVE mod: -1 EPICUREAN PROVOCATION] => FAILED
+  [MOVEMENT]   Temple Levy 2 takes 1 damage (18 → 17)
+  [MOVEMENT] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Temple Levy 2 (FR 2): [4✗][2✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Cultist Troopers 4] Overwatch Reaction vs Temple Levy 2: 1 damage
+  [MOVEMENT] Cultist Troopers 4 moved to (9,7)
+  [MOVEMENT] Ashur Breachguard moved to (0,6)
+  [MOVEMENT] Cultist Troopers 1 moved to (12,10)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Cultist Troopers 3 moved to (7,6)
+  [MOVEMENT] Babylonian Assassin 1 moved to (9,8)
+  [MOVEMENT] Masque of Carnality moved to (11,10)
+  [MOVEMENT] Cultist Troopers moved to (2,6)
+  [MOVEMENT] Temple Levy 3 moved to (8,7)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] Mana: Player A +1 (6 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (7 total) - TITHE OF TORMENT
+  [ACTION]   Cultist destroyed
+  [ACTION]   Queen Consort SAVES (slow roll): [4✗@6+→Cultist][5✗@6+→Cultist][6✓@6+→Cultist][6✓@6+→Cultist] → 2/4 saved, 1 models killed
+  [ACTION] Mana: Player A +1 (8 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (9 total) - TITHE OF TORMENT
+  [ACTION]   Cultist destroyed
+  [ACTION] Mana: Player A +1 (10 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (11 total) - TITHE OF TORMENT
+  [ACTION]   Cultist destroyed
+  [ACTION] Mana: Player A +1 (12 total) - TITHE OF TORMENT
+  [ACTION]   Cultist Troopers 2 SAVES (slow roll): [1✗@6+→Cultist][2✗@6+→Cultist][2✗@6+→Cultist][3✗@6+→Cultist][3✗@6+→Cultist] → 0/5 saved, 2 models killed
+  [ACTION]   Lamassu Bastion SAVES (slow roll): [1✗@6+→Lamassu Bastion][1✗@6+→Lamassu Bastion][3✗@6+→Lamassu Bastion][4✗@6+→Lamassu Bastion][6✓@6+→Lamassu Bastion] → 1/5 saved, 0 models killed
+  [ACTION]   Floodgate Sapper destroyed
+  [ACTION]   Floodgate Sappers SAVES (slow roll): [1✗@6+→Floodgate Sapper][1✗@6+→Floodgate Sapper][3✗@6+→Floodgate Sapper] → 0/3 saved, 1 models killed
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Ashur Breachguard opens fire with 2 combat groups
+  [ACTION] 2x Gate-Breaker Carbine (Breachguard) HIT vs Cultist Troopers (FR 10): [2✗][2✗][2✗][5✓][(1→)6✓][2✗][6✓][5✓][4✓][4✓] → 6/10 hits (needs 3+)
+  [ACTION] Mana: Player A +1 (13 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (14 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (15 total) - TITHE OF TORMENT
+  [ACTION]   Cultist Troopers SAVE (6 dice): [2✗][2✗][4✗][3✗][3✗][4✗] → 0/6 saved (needs 6+)
+  [ACTION]   Cultist Troopers takes 6 damage (20 → 14)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] 1x Gate-Breaker Carbine (Breach-Leader) HIT vs Cultist Troopers (FR 5): [3✓][(1→)3✓][(1→)5✓][(1→)5✓][4✓] → 5/5 hits (needs 3+)
+  [ACTION]   Cultist Troopers SAVE (5 dice): [4✗][6✓][1✗][6✓][6✓] → 3/5 saved (needs 6+)
+  [ACTION]   Cultist Troopers takes 2 damage (14 → 12)
+  [ACTION]   Cultist destroyed
+  [ACTION] Cultist Troopers 1 opens fire with 2 combat groups
+  [ACTION] Cultist Troopers 1 DESPERATE WORSHIP (4+): 3 = 3 - FAILED
+  [ACTION] 9x Renegade Bolt-Action Rifle (Cultist) SUSTAINED ATTACK 1: 3 extra dice from 3 critical hits
+  [ACTION] 9x Renegade Bolt-Action Rifle (Cultist) HIT vs Temple Levy 2 (FR 18): [(1→)3✗][2✗][(1→)4✗][5✓][4✗][2✗][(1→)2✗][5✓][3✗][(1→)1✗][6✓][6✓][2✗][3✗][(1→)2✗][5✓][(1→)1✗][6✓][5✓][2✗][6✓] → 8/18 hits (needs 5+)
+  [ACTION]   Temple Levy 2 SAVE (8 dice): [6✓][4✗][3✗][1✗][3✗][2✗][4✗][4✗] → 1/8 saved (needs 5+) [SAVE mod: -1 EPICUREAN PROVOCATION]
+  [ACTION]   Temple Levy 2 takes 7 damage (17 → 10)
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) SUSTAINED ATTACK 1: 2 extra dice from 2 critical hits
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Temple Levy 2 (FR 2): [6✓][6✓][2✗][5✓] → 3/2 hits (needs 5+)
+  [ACTION]   Temple Levy 2 SAVE (3 dice): [6✓][6✓][2✗] → 2/3 saved (needs 5+) [SAVE mod: -1 EPICUREAN PROVOCATION]
+  [ACTION]   Temple Levy 2 takes 1 damage (10 → 9)
+  [ACTION] Temple Levy 2 opens fire with 2 combat groups
+  [ACTION] 4x Akkad-Pattern Rifle (Levy Rifleman) HIT vs Cultist Troopers 1 (FR 8): [5✓][1✗][5✓][1✗][4✗][1✗][2✗][1✗] → 2/8 hits (needs 5+)
+  [ACTION]   Cultist Troopers 1 SAVE (2 dice): [5✗][3✗] → 0/2 saved (needs 6+)
+  [ACTION]   Cultist Troopers 1 takes 2 damage (20 → 18)
+  [ACTION]   Cultist destroyed
+  [ACTION] 1x Akkad-Pattern Rifle (Levy Sergeant) HIT vs Cultist Troopers 1 (FR 2): [6✓][6✓] → 2/2 hits (needs 4+)
+  [ACTION]   Cultist Troopers 1 SAVE (2 dice): [6✓][6✓] → 2/2 saved (needs 6+)
+  [ACTION] The Veiled Queen uses Whispers of Forbidden Pleasure!
+  [ACTION] [Temple Levy 2] is seized by Player A until the end of the next Command Phase
+  [ACTION] The Veiled Queen WHISPERS OF FORBIDDEN PLEASURE: Target 1 enemy STANDARD or SPECIALIST unit. You gain control of that unit until the end of the next Command Phase.
+  [ACTION] Floodgate Sappers attacks in melee with 2 combat groups
+  [ACTION] Floodgate Sappers engages Temple Levy 2 in melee combat
+  [ACTION]   Floodgate Sappers (Sluice-Key Pick) MELEE vs Temple Levy 2 (AR 2): [6✓][3✓] → 2 hits [MS 6]
+  [ACTION]   Temple Levy 2: 2 damage (9 → 7)
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Floodgate Sappers (Sluice-Key Pick) MELEE vs Temple Levy 2 (AR 2): [6✓][2✗] → 1 hits [MS 6]
+  [ACTION]   Temple Levy 2: 1 damage (7 → 6)
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Temple Levy 2 has no APt left - no counterattack
+  [ACTION] Queen Consort attacks in melee with 1 combat group
+  [ACTION] Queen Consort engages Floodgate Sappers in melee combat
+  [ACTION] Queen Consort SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Queen Consort (Gilded Talons) MELEE vs Floodgate Sappers (AR 3): [6✓][4✗][4✗][2✗] → 1 hits [MS 4]
+  [ACTION]   Floodgate Sappers: 1 damage (3 → 2)
+  [ACTION]   Floodgate Sapper destroyed
+  [ACTION]   Floodgate Sappers: POISONED
+  [ACTION]   Floodgate Sappers has no APt left - no counterattack
+  [ACTION] Lamassu Bastion attacks in melee with 1 combat group
+  [ACTION] Lamassu Bastion engages Cultist Troopers 2 in melee combat
+  [ACTION]   Initiative: Cultist Troopers 2 (INI 5) → Lamassu Bastion (INI 2)
+  [ACTION]   Cultist Troopers 2 counterattacks
+  [ACTION]   Cultist Troopers 2 spends 1 APt to counterattack
+  [ACTION]   Cultist Troopers 2 (Renegade Bayonet) MELEE vs Lamassu Bastion (AR 1): [↻5✓] → 1 hits [MS 3]
+  [ACTION]   Cultist Troopers 2 (Renegade Bayonet) MELEE vs Lamassu Bastion (AR 1): [2✗] → 0 hits [MS 3]
+  [ACTION]   Lamassu Bastion (Horned Crown) MELEE vs Cultist Troopers 2 (AR 3): [3✓][3✓][3✓] → 3 hits [MS 6]
+  [ACTION]   Cultist Troopers 2: 3 damage (3 → 0)
+  [ACTION]   Queen Consort: 3 damage (6 → 3)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION]   Cultist Troopers 2 has lost its leader - LEADERLESS
+  [ACTION]   Cultist Troopers 2 DESTROYED in melee!
+  [ACTION]   Queen Consort has no APt left - no counterattack
+  [ACTION] REACTION COMMAND: GO TO GROUND via Gilgamesh (cost 1 CP) - Ashur Breachguard
+  [ACTION] Cultist Troopers opens fire with 2 combat groups
+  [ACTION] Cultist Troopers DESPERATE WORSHIP (4+): 3 = 3 - FAILED
+  [ACTION] 5x Renegade Bolt-Action Rifle (Cultist) HIT vs Ashur Breachguard (FR 10): [1✗][3✗][2✗][1✗][2✗][6✓][4✗][1✗][5✗][2✗] → 1/10 hits (needs 5+) [HIT mod: -1 GO TO GROUND]
+  [ACTION]   Ashur Breachguard SAVE roll: 5 (needs 3+) => SAVED
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Ashur Breachguard (FR 2): [1✗][6✓] → 1/2 hits (needs 5+) [HIT mod: -1 GO TO GROUND]
+  [ACTION]   Ashur Breachguard SAVE roll: 3 (needs 3+) => SAVED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player B +2 (7 total) - FOUNDATIONS OF AKKAD
+  [ACTION]   Floodgate Sappers SAVES (slow roll): [no save→Gate-Warden] → 0/1 saved, 0 models killed
+  [ACTION] [Floodgate Sappers] POISONED: 1 True Damage (1 stack x 1) (1 HP remaining)
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] [Lamassu Bastion] AWAKENED STONE: heals 1 HP
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 10 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 8 vs 6)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 6 vs 5)
+  [CLEANUP] VP - Player A: 16 | Player B: 19
+  [CLEANUP] PRIMARY FORLORN HOPE: Player B scores 2 VP (4/10)
+
+=== BATTLE ROUND 4 ===
+A:Veiled Court: VP +6 (obj 3, primary 3, missions 0) = 22; CP +3 -4 holds 0 [2 Double Time → Babylonian Assassin 1; 2 Rally cry (reaction) for Temple Levy 2]
+  mana: +10 -5 holds 20 [5 Cast Flesh Temptation]
+B:Walls of Uruk: VP +4 (obj 4, primary 0, missions 0) = 25; CP +2 -0 holds 3
+  mana: +2 -0 holds 9
+A:Veiled Court keeps mission KING OF THE HILL (offered OBJECTIVE RELAY / KING OF THE HILL)
+B:Walls of Uruk keeps mission PROBING STRIKE (offered PROBING STRIKE / FIRE FOR EFFECT)
+A:Veiled Court mission FIRE FOR EFFECT: expired
+Moves:
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 0,6 -> 1,6 (charge)
+  [MOVEMENT] A:Veiled Court Babylonian Assassin 1 9,8 -> 2,7 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 9,7 -> 6,7
+  [MOVEMENT] A:Veiled Court Cultist Troopers 2,6 -> 2,8
+  [ACTION] B:Walls of Uruk Ashur Breachguard + Gilgamesh 1,6 -> 2,7
+  [ACTION] B:Walls of Uruk Ashur Breachguard + Gilgamesh 2,7 -> 2,8
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Cultist Troopers: Cultist Troopers -3
+  [ACTION] melee: B:Walls of Uruk Gilgamesh -> Babylonian Assassin 1: Babylonian Assassin 1 -3 DESTROYED
+  [ACTION] ranged: A:Veiled Court Cultist Troopers 1 -> Temple Levy 2: Temple Levy 2 -3
+  [ACTION] melee: B:Walls of Uruk Ashur Breachguard -> Cultist Troopers: Cultist Troopers -9 DESTROYED
+  [ACTION] magic (Flesh Temptation): A:Veiled Court Queen Consort -> Lamassu Bastion: no damage
+  [ACTION] melee: B:Walls of Uruk Floodgate Sappers -> Queen Consort: Queen Consort -1
+  [ACTION] ranged: A:Veiled Court The Veiled Queen -> Temple Levy 2: Temple Levy 2 -2
+  [ACTION] ranged: B:Walls of Uruk Temple Levy 2 -> Cultist Troopers 1: Cultist Troopers 1 -1
+  [ACTION] effect (Poison): A:Veiled Court The Veiled Queen -> Temple Levy 2: Temple Levy 2 -1 DESTROYED
+  [ACTION] effect (Poison): A:Veiled Court Queen Consort -> Floodgate Sappers: Floodgate Sappers -1 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Masque of Carnality (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] A:Veiled Court Double Time on Babylonian Assassin 1: nothing - gave Babylonian Assassin 1: MOVE +2; 1 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 0 out of reach without it
+  [COMMAND] A:Veiled Court Rally Cry on Temple Levy 2: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Veiled Court Flesh Temptation on Lamassu Bastion: nothing - no change
+Passive rules:
+  Narcotic Perfume (Babylonian Assassin 1): 1 attack, 0.53 expected HP for its side
+  Legendary Hero (Gilgamesh): 2 attacks, 1.34 expected HP for its side
+  Epicurean Provocation (The Veiled Queen): 2 attacks, 0.82 expected HP for its side
+  Rapturous Visage (Queen Consort): 2 attacks, 0.64 expected HP for its side
+  Profane Zeal (Cultist Troopers 1): 2 attacks, 0.41 expected HP for its side
+  Sevenfold Widow (The Veiled Queen): 1 attack, 0.36 expected HP for its side
+  Tithe of Torment (Cultist Troopers): fired 8 times (add_resource)
+  Tithe of Torment (Babylonian Assassin 1): fired 3 times (add_resource)
+  Tithe of Torment (Queen Consort): fired 1 time (add_resource)
+  Tithe of Torment (Cultist Troopers 1): fired 1 time (add_resource)
+  Awakened Stone (Lamassu Bastion): fired 1 time (heal)
+  Temple Levy 2: MOVE 4 (3 without ability:recited_line)
+Scored by:
+  A:Veiled Court objectives (7,7) 3 VP: Cultist Troopers 3 1.0, Cultist Troopers 4 1.0, Temple Levy 3 1.0
+  B:Walls of Uruk objectives (1,7) 2 VP: Gilgamesh 1.0, Ashur Breachguard 1.0
+  B:Walls of Uruk objectives (13,7) 2 VP: Lamassu Bastion 2.0; hinged on Lamassu Bastion
+  A:Veiled Court primary ERADICATE THE FOE 3 VP: no unit, unassigned 3
+Log:
+  [CLEANUP] ═══ ROUND 4 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 4 to 10)
+  [CLEANUP] BATTLE ROUND 4 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 4 - A:4 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:4 B:3
+  [COMMAND] FORLORN HOPE: Player A picks Floodgate Sappers
+  [COMMAND] Player A picks mission: KING OF THE HILL
+  [COMMAND] Player B picks mission: PROBING STRIKE
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Babylonian Assassin 1 (cost 2 CP) by Player A
+  [COMMAND] DOUBLE TIME: Babylonian Assassin 1 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via The Veiled Queen (cost 2 CP) - Temple Levy 2
+  [COMMAND] Temple Levy 2 Morale Test - PASSED (RALLY CRY)
+  [COMMAND] Floodgate Sappers Morale Test (4+): 1 = 1 (natural 1) - FAILED, now SUPPRESSED
+  [COMMAND] Cultist Troopers 3 Morale Test (4+): 5 = 5 - PASSED
+  [COMMAND] [Temple Levy 2] returns to Player B
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Ashur Breachguard moved to (1,6)
+  [MOVEMENT] Ashur Breachguard Charges Cultist Troopers
+  [MOVEMENT] Babylonian Assassin 1 moved to (2,7)
+  [MOVEMENT] Babylonian Assassin 1 Charges Gilgamesh, Ashur Breachguard
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Cultist Troopers 4 moved to (6,7)
+  [MOVEMENT] [Cultist Troopers] FALL BACK TEST: INI 5 against 7, needs 5+, rolled 1 - FAILED
+  [MOVEMENT] Mana: Player A +1 (16 total) - TITHE OF TORMENT
+  [MOVEMENT] Mana: Player A +1 (17 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist destroyed
+  [MOVEMENT] Mana: Player A +1 (18 total) - TITHE OF TORMENT
+  [MOVEMENT]   Cultist Troopers SAVES (slow roll): [no save→Cultist][no save→Cultist][no save→Cultist] → 0/3 saved, 1 models killed
+  [MOVEMENT] [Cultist Troopers] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] Cultist Troopers moved to (2,8)
+  [MOVEMENT] [Cultist Troopers] Fall Back to (2,8)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Gilgamesh attacks in melee with 1 combat group
+  [ACTION] Gilgamesh engages Babylonian Assassin 1 in melee combat
+  [ACTION]   Initiative: Gilgamesh (INI 10, +3 charge) → Babylonian Assassin 1 (INI 10, +3 charge)
+  [ACTION] Mana: Player A +1 (19 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (20 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (21 total) - TITHE OF TORMENT
+  [ACTION]   Gilgamesh (Sappara of Uruk) MELEE vs Babylonian Assassin 1 (AR 4): [6✓][6✓][4✓][2✗] → 3 hits [MS 11] [HIT mod: -1]
+  [ACTION]   Babylonian Assassin 1: 3 damage (3 → 0)
+  [ACTION]   Babylonian Assassin destroyed
+  [ACTION]   Babylonian Assassin destroyed
+  [ACTION]   Babylonian Bride destroyed
+  [ACTION]   Babylonian Assassin 1 has lost its leader - LEADERLESS
+  [ACTION]   Babylonian Assassin 1 DESTROYED in melee!
+  [ACTION]   Babylonian Assassin 1 was destroyed - no counterattack
+  [ACTION] Gilgamesh TAKE GROUND: moved to (2,7)
+  [ACTION] Cultist Troopers 1 opens fire with 2 combat groups
+  [ACTION] 8x Renegade Bolt-Action Rifle (Cultist) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 8x Renegade Bolt-Action Rifle (Cultist) HIT vs Temple Levy 2 (FR 16): [6✓][3✗][2✗][3✗][2✗][5✓][5✓][(1→)2✗][(1→)1✗][(1→)4✗][2✗][4✗][2✗][2✗][2✗][3✗][(1→)3✗] → 3/16 hits (needs 5+)
+  [ACTION]   Temple Levy 2 SAVE (3 dice): [2✗][5✗][3✗] → 0/3 saved (needs 5+) [SAVE mod: -1 EPICUREAN PROVOCATION]
+  [ACTION]   Temple Levy 2 takes 3 damage (6 → 3)
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION] 1x Renegade Bolt-Action Rifle (Cultist Chosen) HIT vs Temple Levy 2 (FR 2): [(1→)3✗][2✗] → 0/2 hits (needs 5+)
+  [ACTION] Ashur Breachguard attacks in melee with 2 combat groups
+  [ACTION] Ashur Breachguard engages Cultist Troopers in melee combat
+  [ACTION] Mana: Player A +1 (22 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +2 (24 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +1 (25 total) - TITHE OF TORMENT
+  [ACTION]   Ashur Breachguard (2x Breaching Axe) MELEE vs Cultist Troopers (AR 4): [6✓][↻5✓][4✓][4✓] → 4 hits [MS 6]
+  [ACTION]   Cultist Troopers: 7 damage (9 → 2)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Ashur Breachguard (Breaching Axe) MELEE vs Cultist Troopers (AR 2): [6✓][4✓] → 2 hits [MS 6]
+  [ACTION]   Cultist Troopers: 2 damage (2 → 0)
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION]   Cultist Troopers has lost its leader - LEADERLESS
+  [ACTION]   Cultist Troopers DESTROYED in melee!
+  [ACTION] Ashur Breachguard TAKE GROUND: moved to (2,8)
+  [ACTION] Mana: Player A -5 (20 total) - spent
+  [ACTION] Queen Consort casts Flesh Temptation on Lamassu Bastion
+  [ACTION] Floodgate Sappers attacks in melee with 1 combat group
+  [ACTION] Floodgate Sappers engages Queen Consort in melee combat
+  [ACTION]   Floodgate Sappers (Sluice-Key Pick) MELEE vs Queen Consort (AR 2): [6✓][3✗] → 1 hits [MS 6] [HIT mod: -1]
+  [ACTION]   Queen Consort: 1 damage (3 → 2)
+  [ACTION]   Queen Consort has no APt left - no counterattack
+  [ACTION] The Veiled Queen opens fire with 1 combat group
+  [ACTION] 1x Lotus Censer Ejection (The Veiled Queen) HIT vs Temple Levy 2 (FR 7): [3✗][4✓][2✗][2✗][2✗][(1→)2✗][4✓] → 2/7 hits (needs 4+)
+  [ACTION]   Temple Levy 2 SAVE (2 dice): [5✗][5✗] → 0/2 saved (needs 5+) [SAVE mod: -1 EPICUREAN PROVOCATION]
+  [ACTION]   Temple Levy 2 takes 2 damage (3 → 1)
+  [ACTION]   Levy Rifleman destroyed
+  [ACTION]   Temple Levy 2: POISONED
+  [ACTION] Temple Levy 2 opens fire with 1 combat group
+  [ACTION] 1x Akkad-Pattern Rifle (Levy Sergeant) HIT vs Cultist Troopers 1 (FR 2): [4✓][1✗] → 1/2 hits (needs 4+)
+  [ACTION]   Cultist Troopers 1 SAVE roll: 5 (needs 6+) => FAILED
+  [ACTION]   Cultist Troopers 1 takes 1 damage (18 → 17)
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player B +2 (9 total) - FOUNDATIONS OF AKKAD
+  [ACTION]   Levy Sergeant destroyed
+  [ACTION]   Temple Levy 2 has lost its leader - LEADERLESS
+  [ACTION]   Temple Levy 2 SAVES (slow roll): [no save→Levy Sergeant] → 0/1 saved, 1 models killed
+  [ACTION] [Temple Levy 2] POISONED: 1 True Damage (1 stack x 1) (0 HP remaining)
+  [ACTION] [Temple Levy 2] DESTROYED by POISONED
+  [ACTION]   Gate-Warden destroyed
+  [ACTION]   Floodgate Sappers has lost its leader - LEADERLESS
+  [ACTION]   Floodgate Sappers SAVES (slow roll): [no save→Gate-Warden] → 0/1 saved, 1 models killed
+  [ACTION] [Floodgate Sappers] POISONED: 1 True Damage (1 stack x 1) (0 HP remaining)
+  [ACTION] [Floodgate Sappers] DESTROYED by POISONED
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] [Lamassu Bastion] AWAKENED STONE: heals 1 HP
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 24 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 8 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 4 vs 3)
+  [CLEANUP] VP - Player A: 19 | Player B: 25
+  [CLEANUP] PRIMARY ERADICATE THE FOE: Player A scores 3 VP (6/10)
+  [CLEANUP] Mission "FIRE FOR EFFECT" EXPIRED (R4)
+
+=== BATTLE ROUND 5 ===
+A:Veiled Court: VP +3 (obj 3, primary 0, missions 0) = 25; CP +3 -3 holds 0 [3 Double Time → Cultist Troopers 4]
+  mana: +10 -5 holds 25 [5 Cast Flesh Temptation]
+B:Walls of Uruk: VP +6 (obj 4, primary 2, missions 0) = 31; CP +2 -5 holds 0 [5 Troop Requisition → Temple Levy]
+  mana: +2 -0 holds 11
+A:Veiled Court keeps mission COORDINATED PUSH (offered TAKE UP THE GAUNTLET / COORDINATED PUSH)
+B:Walls of Uruk keeps mission KING OF THE HILL (offered KING OF THE HILL / FORWARD DEPLOYMENT)
+B:Walls of Uruk mission PROBING STRIKE: expired
+Moves:
+  [MOVEMENT] B:Walls of Uruk Temple Levy 7,2 -> 10,4
+  [MOVEMENT] A:Veiled Court Cultist Troopers 4 6,7 -> 2,6
+  [MOVEMENT] B:Walls of Uruk Ashur Breachguard + Gilgamesh 2,8 -> 2,7 (charge)
+  [MOVEMENT] A:Veiled Court Cultist Troopers 1 + The Veiled Queen 12,10 -> 10,10
+  [MOVEMENT] A:Veiled Court Masque of Carnality 11,10 -> 9,9
+Combat:
+  [ACTION] melee: B:Walls of Uruk Ashur Breachguard -> Cultist Troopers 4: Cultist Troopers 4 -6
+  [ACTION] magic (Flesh Temptation): A:Veiled Court Queen Consort -> Lamassu Bastion: no damage
+  [ACTION] melee: B:Walls of Uruk Gilgamesh -> Cultist Troopers 4: Cultist Troopers 4 -8
+  [ACTION] ranged FRIENDLY FIRE: A:Veiled Court Temple Levy 3 -> Cultist Troopers 4: Cultist Troopers 4 -6 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:The Veiled Queen (no legal action), A:Cultist Troopers 1 (no legal action), A:Masque of Carnality (no legal action), A:Cultist Troopers 3 (no legal action), B:HQ (no legal action)
+Commands and abilities:
+  [COMMAND] B:Walls of Uruk Troop Requisition on (7,2): nothing - placed Temple Levy
+  [COMMAND] A:Veiled Court Double Time on Cultist Troopers 4: paid off - gave Cultist Troopers 4: MOVE +2; 4 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+  [ACTION] A:Veiled Court Flesh Temptation on Lamassu Bastion: nothing - no change
+Passive rules:
+  Legendary Hero (Gilgamesh): 2 attacks, 2.44 expected HP for its side
+  Tithe of Torment (Cultist Troopers 4): fired 13 times (add_resource)
+  Awakened Stone (Lamassu Bastion): fired 1 time (heal)
+  Temple Levy: MOVE 4 (3 without ability:recited_line)
+Scored by:
+  A:Veiled Court objectives (7,7) 3 VP: Temple Levy 3 3.0; hinged on Temple Levy 3
+  B:Walls of Uruk objectives (1,7) 2 VP: Gilgamesh 1.0, Ashur Breachguard 1.0
+  B:Walls of Uruk objectives (13,7) 2 VP: Lamassu Bastion 2.0; hinged on Lamassu Bastion
+  B:Walls of Uruk primary FORLORN HOPE 2 VP: Gilgamesh 2.0
+Log:
+  [CLEANUP] ═══ ROUND 5 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 3 to 7)
+  [CLEANUP] BATTLE ROUND 5 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +2 CP from 2 COMMAND unit(s)
+  [COMMAND] COMMAND PHASE - Round 5 - A:3 CP, B:5 CP
+  [COMMAND] Command Phase: CP A:3 B:5
+  [COMMAND] FORLORN HOPE: Player A picks Gilgamesh
+  [COMMAND] Player A picks mission: COORDINATED PUSH
+  [COMMAND] Player B picks mission: KING OF THE HILL
+  [COMMAND] HQ Command: Troop Requisition -> mat_akkadi:temple_levy (cost 5 CP) by Player B
+  [COMMAND] TROOP REQUISITION: Temple Levy deployed at (7,2) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Double Time -> Cultist Troopers 4 (cost 3 CP) by Player A
+  [COMMAND] DOUBLE TIME: Cultist Troopers 4 gains +2 MOVE until the end of the Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] Queen Consort Morale Test (4+): 3 = 3 - FAILED, now SUPPRESSED
+  [COMMAND] Cultist Troopers 3 Morale Test (4+): 1 = 1 (natural 1) - FAILED, now SUPPRESSED
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Temple Levy moved to (10,4)
+  [MOVEMENT] Cultist Troopers 4 moved to (2,6)
+  [MOVEMENT] Ashur Breachguard moved to (2,7)
+  [MOVEMENT] Ashur Breachguard Charges Cultist Troopers 4
+  [MOVEMENT] Cultist Troopers 1 moved to (10,10)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] Masque of Carnality moved to (9,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Ashur Breachguard attacks in melee with 2 combat groups
+  [ACTION] Ashur Breachguard engages Cultist Troopers 4 in melee combat
+  [ACTION]   Initiative: Ashur Breachguard (INI 6, +3 charge) → Cultist Troopers 4 (INI 5)
+  [ACTION] Mana: Player A +2 (22 total) - TITHE OF TORMENT
+  [ACTION]   Ashur Breachguard (2x Breaching Axe) MELEE vs Cultist Troopers 4 (AR 4): [3✓][2✗][2✗][↻1✗] → 1 hits [MS 6]
+  [ACTION]   Cultist Troopers 4: 2 damage (20 → 18)
+  [ACTION]   Cultist destroyed
+  [ACTION] Mana: Player A +2 (24 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +2 (26 total) - TITHE OF TORMENT
+  [ACTION]   Ashur Breachguard (Breaching Axe) MELEE vs Cultist Troopers 4 (AR 2): [5✓][3✓] → 2 hits [MS 6]
+  [ACTION]   Cultist Troopers 4: 4 damage (18 → 14)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 4 counterattacks
+  [ACTION]   Cultist Troopers 4 spends 1 APt to counterattack
+  [ACTION]   Cultist Troopers 4 (6x Renegade Bayonet) MELEE vs Ashur Breachguard (AR 6): [6✓][5✓][5✓][4✗][3✗][2✗] → 3 hits [MS 3]
+  [ACTION]   Cultist Troopers 4 (Renegade Bayonet) MELEE vs Ashur Breachguard (AR 1): [1✗] → 0 hits [MS 3]
+  [ACTION] Mana: Player A -5 (21 total) - spent
+  [ACTION] Queen Consort casts Flesh Temptation on Lamassu Bastion
+  [ACTION] Gilgamesh attacks in melee with 1 combat group
+  [ACTION] Gilgamesh engages Cultist Troopers 4 in melee combat
+  [ACTION] Mana: Player A +2 (23 total) - TITHE OF TORMENT
+  [ACTION] Mana: Player A +2 (25 total) - TITHE OF TORMENT
+  [ACTION]   Gilgamesh (Sappara of Uruk) MELEE vs Cultist Troopers 4 (AR 4): [6✓][3✓][↻2✓][↻2✓] → 4 hits [MS 11]
+  [ACTION]   Cultist Troopers 4: 8 damage (14 → 6)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist Troopers 4 has no APt left - no counterattack
+  [ACTION] Temple Levy 3 RANGED ATTACK INTO MELEE vs Ashur Breachguard: rolled 1 - the shot strays into Cultist Troopers 4
+  [ACTION] Temple Levy 3 opens fire with 2 combat groups
+  [ACTION] 9x Akkad-Pattern Rifle (Levy Rifleman) HIT vs Cultist Troopers 4 (FR 18): [3✗][1✗][4✗][2✗][4✗][3✗][5✓][5✓][6✓][2✗][2✗][6✓][2✗][4✗][5✓][1✗][1✗][5✓] → 6/18 hits (needs 5+)
+  [ACTION]   Cultist Troopers 4 SAVE (6 dice): [5✗][4✗][4✗][6✓][3✗][2✗] → 1/6 saved (needs 6+)
+  [ACTION]   Cultist Troopers 4 takes 5 damage (6 → 1)
+  [ACTION]   Cultist destroyed
+  [ACTION]   Cultist destroyed
+  [ACTION] 1x Akkad-Pattern Rifle (Levy Sergeant) HIT vs Cultist Troopers 4 (FR 2): [2✗][4✓] → 1/2 hits (needs 4+)
+  [ACTION]   Cultist Troopers 4 SAVE roll: 2 (needs 6+) => FAILED
+  [ACTION]   Cultist Troopers 4 takes 1 damage (1 → 0)
+  [ACTION]   Cultist Chosen destroyed
+  [ACTION]   Cultist Troopers 4 has lost its leader - LEADERLESS
+  [ACTION]   Cultist Troopers 4 DESTROYED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player B +2 (11 total) - FOUNDATIONS OF AKKAD
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] [Lamassu Bastion] AWAKENED STONE: heals 1 HP
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 10 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 8 vs 0)
+  [CLEANUP] ★ Objective (13,7): Player B +2 VP (OC 4 vs 0)
+  [CLEANUP] VP - Player A: 25 | Player B: 29
+  [CLEANUP] PRIMARY FORLORN HOPE: Player B scores 2 VP (6/10)
+  [CLEANUP] Mission "PROBING STRIKE" EXPIRED (R5)
+
+Damage leaders:
+  B:Walls of Uruk Ashur Breachguard: 29 damage, 2 kills, 35 RP, 0.83/RP
+  A:Veiled Court Babylonian Assassin 1: 20 damage, 1 kills, 24 RP, 0.83/RP (destroyed)
+  A:Veiled Court Cultist Troopers 1: 13 damage, 0 kills, 10 RP, 1.30/RP
+  B:Walls of Uruk Gilgamesh: 11 damage, 1 kills, 65 RP, 0.17/RP
+  B:Walls of Uruk Lamassu Bastion: 10 damage, 1 kills, 60 RP, 0.17/RP
+  B:Walls of Uruk Temple Levy 3: 9 damage, 0 kills, 15 RP, 0.60/RP (seized by the enemy)
+  B:Walls of Uruk Temple Levy 2: 8 damage, 1 kills, 15 RP, 0.53/RP (destroyed) (seized by the enemy)
+  B:Walls of Uruk Floodgate Sappers: 8 damage, 0 kills, 20 RP, 0.40/RP (destroyed)
+  A:Veiled Court Masque of Carnality: 5 damage, 1 kills, 55 RP, 0.09/RP
+  A:Veiled Court Queen Consort: 3 damage, 1 kills, 25 RP, 0.12/RP
+  A:Veiled Court The Veiled Queen: 3 damage, 1 kills, 60 RP, 0.05/RP
+  A:Veiled Court Cultist Troopers: 2 damage, 0 kills, 10 RP, 0.20/RP (destroyed)
+  B:Walls of Uruk Temple Levy 1: 2 damage, 0 kills, 20 RP, 0.10/RP (destroyed)
+  A:Veiled Court Cultist Troopers 2: 1 damage, 0 kills, 10 RP, 0.10/RP (destroyed)
+  A:Veiled Court Cultist Troopers 4: 1 damage, 0 kills, 10 RP, 0.10/RP (destroyed)
+Friendly fire (HP and units a unit took off its own side):
+  A:Veiled Court Temple Levy 3: 6 HP, destroyed Cultist Troopers 4
+Costs paid (HP a unit's own rules took from it):
+  A:Veiled Court Cultist Troopers 3: 1 HP
+VP contributed (fair share; objective VP that hinged on it):
+  A:Veiled Court Temple Levy 3: 9.0 VP (obj 7.0, primary 0.0, missions 2.0), hinged 6, 60.0/100 RP (seized from the enemy)
+  B:Walls of Uruk Temple Levy 3: 8.0 VP (obj 4.5, primary 2.0, missions 1.5), hinged 3, 53.3/100 RP (seized by the enemy)
+  B:Walls of Uruk Temple Levy 2: 6.0 VP (obj 2.0, primary 0.0, missions 4.0), hinged 2, 40.0/100 RP (seized by the enemy)
+  B:Walls of Uruk Gilgamesh: 5.0 VP (obj 3.0, primary 2.0, missions 0.0), hinged 2, 7.7/100 RP
+  B:Walls of Uruk Lamassu Bastion: 4.0 VP (obj 4.0, primary 0.0, missions 0.0), hinged 4, 6.7/100 RP
+  A:Veiled Court Temple Levy 2: 3.1 VP (obj 2.3, primary 0.0, missions 0.7), hinged 2, 20.4/100 RP (seized from the enemy)
+  B:Walls of Uruk Ashur Breachguard: 3.0 VP (obj 3.0, primary 0.0, missions 0.0), hinged 2, 8.6/100 RP
+  B:Walls of Uruk Temple Levy 1: 3.0 VP (obj 1.5, primary 0.0, missions 1.5), hinged 0, 15.0/100 RP
+  A:Veiled Court Cultist Troopers: 2.7 VP (obj 2.0, primary 0.0, missions 0.7), hinged 2, 27.3/100 RP
+  B:Walls of Uruk Floodgate Sappers: 2.0 VP (obj 0.0, primary 2.0, missions 0.0), hinged 0, 10.0/100 RP
+  A:Veiled Court Babylonian Assassin 1: 1.7 VP (obj 0.0, primary 1.5, missions 0.1), hinged 0, 7.0/100 RP
+  A:Veiled Court Queen Consort: 1.5 VP (obj 1.3, primary 0.0, missions 0.1), hinged 2, 5.9/100 RP
+  A:Veiled Court Masque of Carnality: 1.5 VP (obj 0.0, primary 1.5, missions 0.0), hinged 0, 2.6/100 RP
+  A:Veiled Court Cultist Troopers 3: 1.1 VP (obj 1.0, primary 0.0, missions 0.1), hinged 0, 11.3/100 RP
+  A:Veiled Court Cultist Troopers 4: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 10.0/100 RP
+  A:Veiled Court Cultist Troopers 2: 0.5 VP (obj 0.3, primary 0.0, missions 0.1), hinged 0, 4.7/100 RP
+  A:Veiled Court no unit: obj 0, primary 3, missions 0
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  A:Veiled Court Masque of Carnality: inaction 4 (4 idle, 3 after moving, 0 Overwatch); actions 0/0/1/0/0/1
+  A:Veiled Court Cultist Troopers 1: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 0/2/0/0/0/0
+  A:Veiled Court Cultist Troopers 3: inaction 2.75 (3 idle, 2 after moving, 1 Overwatch); actions 0/0/0/0/0/2
+  A:Veiled Court Cultist Troopers 4: inaction 2.75 (3 idle, 3 after moving, 1 Overwatch); actions 0/0/1/0/0/1
+  A:Veiled Court The Veiled Queen: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/1/0/2/0/0
+  A:Veiled Court Babylonian Assassin 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0/2
+  A:Veiled Court Cultist Troopers 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/0/0/1
+  B:Walls of Uruk Floodgate Sappers: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/3/0/0/2
+  B:Walls of Uruk Gilgamesh: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/0/0/4
+  B:Walls of Uruk Lamassu Bastion: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/0/0/4
+  A:Veiled Court Queen Consort: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/2/0/2/3
+  A:Veiled Court Lector: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/0/0/0/1/0
+  A:Veiled Court Babylonian Assassin 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/0/1
+  A:Veiled Court Temple Levy 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/0/0/2 (seized from the enemy)
+  A:Veiled Court Temple Levy 3: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/1/0/0/0/3 (seized from the enemy)
+  A:Veiled Court Cultist Troopers: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 1/2/0/0/0/2
+  B:Walls of Uruk Ashur Breachguard: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/3/2/0/0/4
+  B:Walls of Uruk Temple Levy 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/0/0/0/0/1
+  B:Walls of Uruk Asipu Priest: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/0/1/0/0/1
+  B:Walls of Uruk Temple Levy 3: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/1/0/0/0/2 (seized by the enemy)
+  B:Walls of Uruk Temple Levy 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/3/0/0/0/1 (seized by the enemy)
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 4
+  A:Veiled Court Cultist Troopers: 1 of 4 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Veiled Court Cultist Troopers 1: 1 of 4 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Veiled Court Cultist Troopers 2: 1 of 2 moves (0 back, 1 away from an objective), 3 squares lost
+  A:Veiled Court Cultist Troopers 4: 1 of 5 moves (0 back, 1 away from an objective), 3 squares lost
+Secondary missions:
+  A:Veiled Court IRON GRIP (+2 VP): kept R1, completed R2 - Maintain a minimum of 7 OC on a single Objective.
+  A:Veiled Court FIRE FOR EFFECT (+2 VP): kept R2, expired R4 - Damage an enemy unit you hold at Intel Level 2 or higher (MARKED or DESIGNATED).
+  A:Veiled Court COMMAND AUTHORITY (+2 VP): kept R3, completed R3 - Issue an HQ Command to a friendly unit in the enemy half of the battlefield.
+  A:Veiled Court KING OF THE HILL (+3 VP): kept R4, active - Have a friendly unit in an Objective Area destroy an enemy unit.
+  A:Veiled Court COORDINATED PUSH (+2 VP): kept R5, active - From the second Battle Round, in a single Movement Phase, move 4 or more friendly units closer to the enemy HQ.
+  B:Walls of Uruk TERRITORIAL SUPERIORITY (+3 VP): kept R1, completed R1 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Walls of Uruk ASSASSINATION (+4 VP): kept R2, completed R2 - Destroy an enemy CHARACTER or MONSTER.
+  B:Walls of Uruk FORWARD PRESENCE (+3 VP): kept R3, active - At the end of any Action Phase, have at least 1 friendly unit within 3 squares of the enemy HQ.
+  B:Walls of Uruk PROBING STRIKE (+2 VP): kept R4, expired R5 - In a single Action Phase, attack 3 different enemy units in the enemy half of the battlefield.
+  B:Walls of Uruk KING OF THE HILL (+3 VP): kept R5, active - Have a friendly unit in an Objective Area destroy an enemy unit.

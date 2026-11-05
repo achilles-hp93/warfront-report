@@ -1,0 +1,1 @@
+[{"old":"var drawn = rangedChoices.length ? aiAttackDrawnCost(unit, target) : 0;","new":"var drawn = 0;"},{"old":"var drawn = values.length ? aiAttackDrawnCost(watcher, target) / Math.max(aiTargetValue(target), 1e-9) : 0;","new":"var drawn = 0;"}]

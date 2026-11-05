@@ -1,0 +1,46 @@
+cl-s1-d1-d1-m10: 29 uses, 15 bought nothing
+  [Summer Rade] Feth Fiada (spell): 4 uses, 4 bought nothing; 0 CP 6 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Summer Rade] Flow of Magic: Surge (table): 3 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; +2 mana; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Summer Rade] Double Time (command): 2 uses, 1 bought nothing; 4 CP 0 Mana; damage 0; enabled 0 (0); moves 1/2 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Summer Rade] Flow of Magic: Tree (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Summer Rade] Go to Ground (reaction): 1 uses, 0 bought nothing; 1 CP 0 Mana; damage 0.37; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Summer Rade] Troop Requisition (command): 1 uses, 0 bought nothing; 5 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 3.22; spotted 0; morale 0
+  [Summer Rade] Flow of Magic: Earth (table): 1 uses, 0 bought nothing; 0 CP 0 Mana; damage 0.17; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Summer Rade] Flow of Magic: Water (table): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Summer Rade] Secure Objective (command): 1 uses, 1 bought nothing; 3 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Vigil of Masis] Double Time (command): 4 uses, 1 bought nothing; 9 CP 0 Mana; damage 0; enabled 0 (0); moves 3/4 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Vigil of Masis] Second Watch (ability): 3 uses, 3 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Vigil of Masis] Go to Ground (reaction): 2 uses, 0 bought nothing; 2 CP 0 Mana; damage 2.69; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Vigil of Masis] Troop Requisition (command): 2 uses, 0 bought nothing; 10 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Vigil of Masis] Name the Quarry (ability): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+  [Vigil of Masis] Rally Cry (reaction): 1 uses, 0 bought nothing; 2 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 1
+  [Vigil of Masis] Reedfire (spell): 1 uses, 1 bought nothing; 0 CP 0 Mana; damage 0; enabled 0 (0); moves 0/0 needed; VP 0; VP of its units 0; spotted 0; morale 0
+    report.json R1 COMMAND Flow of Magic: Tree by - on -: nothing - made tree active; 1 attack(s) it touched: +0 expected HP for its side
+    report.json R1 COMMAND Double Time by HQ on Sidhe Wardens 1: nothing - gave High King Finvarra: MOVE +2; Sidhe Wardens 1: MOVE +2; 1 move(s) with it, 0 out of reach without it
+    report.json R1 ACTION Go to Ground by Pahak Riflemen 1 on Pahak Riflemen 1: paid off - 1 attack(s) it touched: +1.67 expected HP for its side
+    report.json R1 ACTION Name the Quarry by Reedfire Champion on Sidhe Wardens 3: nothing - put QUARRY on Sidhe Wardens 3; 5 attack(s) it touched: +0 expected HP for its side
+    report.json R2 COMMAND Flow of Magic: Surge by - on -: nothing - made surge active; 10 attack(s) it touched: +0 expected HP for its side
+    report.json R2 COMMAND Double Time by HQ on Pahak Riflemen 3: paid off - gave Pahak Riflemen 3: MOVE +2; 1 move(s) with it, 1 out of reach without it
+    report.json R2 MOVEMENT Go to Ground by Moonless Veilblades on Moonless Veilblades: paid off - 1 attack(s) it touched: +0.37 expected HP for its side
+    report.json R2 MOVEMENT Go to Ground by Pahak Riflemen 1 on Pahak Riflemen 1: paid off - 1 attack(s) it touched: +1.02 expected HP for its side
+    report.json R2 ACTION Second Watch by Andranik Ozanian on Blackflint Archers: nothing - put VIGIL on Blackflint Archers; 2 attack(s) it touched: +0 expected HP for its side
+    report.json R3 COMMAND Flow of Magic: Surge by - on -: paid off - made surge active; 1 mana saved on casts; 7 attack(s) it touched: +0 expected HP for its side
+    report.json R3 COMMAND Double Time by HQ on Pahak Riflemen 3: nothing - gave Pahak Riflemen 3: MOVE +2; 1 move(s) with it, 0 out of reach without it
+    report.json R3 COMMAND Troop Requisition by HQ on (6,2): paid off - placed Pahak Riflemen; the unit it placed drew 3 enemy attack(s), 20 HP
+    report.json R3 ACTION Feth Fiada by High King Finvarra on Moonless Veilblades: nothing - put HIDDEN on Moonless Veilblades
+    report.json R4 COMMAND Flow of Magic: Surge by - on -: paid off - made surge active; 1 mana saved on casts; 10 attack(s) it touched: +0 expected HP for its side
+    report.json R4 COMMAND Troop Requisition by HQ on (7,12): paid off - placed Sidhe Wardens; the unit it placed made 2 attack(s), 3 HP off; the unit it placed scored 3.22 VP; the unit it placed drew 2 enemy attack(s), 1 HP
+    report.json R4 COMMAND Double Time by HQ on Pahak Riflemen 3: paid off - gave Pahak Riflemen 3: MOVE +2; 2 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R4 COMMAND Rally Cry by - on -: paid off - passed 1 Morale Test(s) outright
+    report.json R4 ACTION Reedfire by Dream-Reader of Tir on Pahak Riflemen 2: nothing - no change
+    report.json R4 ACTION Second Watch by Andranik Ozanian on Redcap Reivers: nothing - put VIGIL on Redcap Reivers; 1 attack(s) it touched: +0 expected HP for its side
+    report.json R4 ACTION Feth Fiada by High King Finvarra on High King Finvarra: nothing - put HIDDEN on High King Finvarra
+    report.json R5 COMMAND Flow of Magic: Earth by - on -: paid off - made earth active; 7 attack(s) it touched: +0.17 expected HP for its side
+    report.json R5 COMMAND Troop Requisition by HQ on (8,2): paid off - placed Pahak Riflemen; the unit it placed drew 1 enemy attack(s), 16 HP
+    report.json R5 COMMAND Double Time by HQ on High King Finvarra: paid off - gave High King Finvarra: MOVE +2; 1 move(s) with it, 1 out of reach without it
+    report.json R5 ACTION Feth Fiada by Sidhe Druid on Wild Hunt Riders: nothing - put HIDDEN on Wild Hunt Riders
+    report.json R6 COMMAND Flow of Magic: Water by - on -: nothing - made water active; 11 attack(s) it touched: +0 expected HP for its side
+    report.json R6 COMMAND Double Time by HQ on Andranik Ozanian: paid off - gave Andranik Ozanian: MOVE +2; 4 attack(s) it touched: +0 expected HP for its side; 1 move(s) with it, 1 out of reach without it
+    report.json R6 COMMAND Secure Objective by HQ on Moonless Veilblades: nothing - gave Moonless Veilblades: OC +1; 2 attack(s) it touched: +0 expected HP for its side
+    report.json R6 ACTION Second Watch by Andranik Ozanian on Wild Hunt Riders: nothing - put VIGIL on Wild Hunt Riders
+    report.json R6 ACTION Feth Fiada by Sidhe Druid on High King Finvarra: nothing - put HIDDEN on High King Finvarra

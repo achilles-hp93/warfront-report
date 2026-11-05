@@ -1,0 +1,1024 @@
+Soudarion Cortege (A, covenant_of_new_jerusalem) vs Alembic Brigade (B, caliphate_of_the_two_sanctuaries) on CROSSROADS, seed 460703122
+Result: A:Soudarion Cortege wins (VP) in round 4, VP 32 / 10
+Initiative: B:Alembic Brigade; formation order [0,1]
+Army A:Soudarion Cortege (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Lazarite Prelate 1 - 25 RP, 1 models, 6 HP, leads Sepulchre Guard 1, Marshal
+  Sepulchre Guard 1 - 45 RP, 3 models, 15 HP, led by Lazarite Prelate 1
+  Lazarite Prelate 2 - 25 RP, 1 models, 6 HP, leads Sepulchre Guard 2
+  Sepulchre Guard 2 - 45 RP, 3 models, 15 HP, led by Lazarite Prelate 2
+  Jordanite Hospitallers 1 - 15 RP, 3 models, 9 HP
+  Jordanite Hospitallers 2 - 15 RP, 3 models, 9 HP
+  Covenant Levies 1 - 10 RP, 10 models, 20 HP
+  Covenant Levies 2 - 10 RP, 10 models, 20 HP
+  Covenant Levies 3 - 10 RP, 10 models, 20 HP
+  Staurotheke War-Shrine - 30 RP, 1 models, 8 HP
+  St. Barbara Field Gun - 18 RP, 1 models, 5 HP
+Army B:Alembic Brigade (248 RP, null):
+  HQ - 0 RP, 1 models, 8 HP
+  Naqib 1 - 32 RP, 1 models, 6 HP, leads Muqatila Troopers 1, Marshal
+  Muqatila Troopers 1 - 13 RP, 10 models, 20 HP, led by Naqib 1
+  Naqib 2 - 25 RP, 1 models, 6 HP, leads Muqatila Troopers 2
+  Muqatila Troopers 2 - 13 RP, 10 models, 20 HP, led by Naqib 2
+  Rammal Geomancer - 18 RP, 1 models, 4 HP, leads Muqatila Troopers 3
+  Muqatila Troopers 3 - 13 RP, 10 models, 20 HP, led by Rammal Geomancer
+  Muqatila Troopers 4 - 13 RP, 10 models, 20 HP
+  Royal Alchemist - 25 RP, 1 models, 5 HP
+  Carpet-Bomber 1 - 30 RP, 3 models, 9 HP
+  Carpet-Bomber 2 - 30 RP, 3 models, 9 HP
+  Abna al-Dawla Guard - 36 RP, 5 models, 15 HP
+Primary A:Soudarion Cortege: LEAD FROM THE FRONT - At the end of each Battle Round, score 2 VP if a friendly CHARACTER, or a friendly squad a CHARACTER has joined, is in an Objective Area or the enemy half of the battlefield. Score 3 VP instead if two or more are; a CHARACTER and the squad it has joined count as one.
+  hand: IMPENETRABLE FORTRESS, BREAK THEIR HOLD, LEAD FROM THE FRONT; picked lead_from_the_front
+  scored per round: R1 0 (count 0), R2 0 (count 0), R3 2 (count 1), R4 3 (count 2); total 5
+Primary B:Alembic Brigade: STRATEGICAL DISRUPTION - From the second Battle Round, at the end of each Battle Round, score 1 VP if an enemy unit in an Objective Area is SUPPRESSED or you destroyed an enemy unit in an Objective Area during that Battle Round, and 2 VP if your opponent's Primary Mission scored no VP during that Battle Round; a Primary Mission that earned VP its caps held back counts as scoring. If your opponent also holds STRATEGICAL DISRUPTION, their card counts as scoring only when its 1 VP condition is met.
+  hand: RECONNAISSANCE OPERATION (does not fit), BLEED THEM WHITE, STRATEGICAL DISRUPTION; picked strategical_disruption
+  scored per round: R1 0 (count 2), R2 2 (count 2), R3 0 (count 0), R4 0 (count 0); total 2
+
+=== BATTLE ROUND 1 ===
+A:Soudarion Cortege: VP +5 (obj 5, primary 0, missions 0) = 5; CP +3 -3 holds 0 [3 Troop Requisition → Covenant Levies]
+  mana: +11 -0 holds 11
+B:Alembic Brigade: VP +4 (obj 2, primary 0, missions 2) = 4; CP +3 -1 holds 2 [1 Go to ground (reaction) for Muqatila Troopers 2]
+  mana: +1 -0 holds 1
+  al_kimiya_ingredients: +0 -1 holds 0 [1 Matter Transmutation]
+A:Soudarion Cortege keeps mission LAST STAND (offered LAST STAND / OMNIPRESENCE)
+B:Alembic Brigade keeps mission BAR THE GATES (offered LAST STAND / BAR THE GATES)
+B:Alembic Brigade mission BAR THE GATES: completed
+Moves:
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 3 + Rammal Geomancer 5,2 -> 5,5 (advance)
+  [MOVEMENT] A:Soudarion Cortege Jordanite Hospitallers 1 4,12 -> 0,8 (advance)
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 4 10,2 -> 10,5 (advance)
+  [MOVEMENT] A:Soudarion Cortege Jordanite Hospitallers 2 11,12 -> 12,8 (advance)
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 1 + Naqib 1 8,2 -> 8,7 (advance)
+  [MOVEMENT] A:Soudarion Cortege Sepulchre Guard 1 + Lazarite Prelate 1 9,12 -> 9,9 (advance)
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 2 + Naqib 2 3,2 -> 2,6 (advance)
+  [MOVEMENT] A:Soudarion Cortege Sepulchre Guard 2 + Lazarite Prelate 2 3,12 -> 5,10 (advance)
+  [MOVEMENT] B:Alembic Brigade Abna al-Dawla Guard 7,2 -> 11,3 (advance)
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 1 6,12 -> 6,7 (advance)
+  [MOVEMENT] B:Alembic Brigade Carpet-Bomber 1 5,1 -> 10,3 (advance)
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 5,12 -> 5,9 (advance)
+  [MOVEMENT] B:Alembic Brigade Carpet-Bomber 2 3,1 -> 8,2 (advance)
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 2 7,12 -> 6,8 (advance)
+  [MOVEMENT] B:Alembic Brigade Royal Alchemist 11,2 -> 8,6 (advance)
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 3 8,12 -> 4,9 (advance)
+  [MOVEMENT] A:Soudarion Cortege Staurotheke War-Shrine 10,12 -> 7,10 (advance)
+  [MOVEMENT] A:Soudarion Cortege St. Barbara Field Gun 4,14 -> 4,13
+Combat:
+  [ACTION] ranged: A:Soudarion Cortege St. Barbara Field Gun -> Muqatila Troopers 2: Muqatila Troopers 2 -2
+  [ACTION] effect (Burning): A:Soudarion Cortege St. Barbara Field Gun -> Muqatila Troopers 2: Muqatila Troopers 2 -4
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Lazarite Prelate 1 (no legal action), A:Sepulchre Guard 1 (no legal action), A:Lazarite Prelate 2 (no legal action), A:Sepulchre Guard 2 (no legal action), A:Covenant Levies 3 (no legal action), A:Staurotheke War-Shrine (no legal action), B:HQ (no legal action), B:Rammal Geomancer (no legal action), B:Muqatila Troopers 3 (no legal action), B:Muqatila Troopers 4 (no legal action), B:Carpet-Bomber 1 (no legal action), B:Carpet-Bomber 2 (no legal action), B:Abna al-Dawla Guard (no legal action)
+Commands and abilities:
+  [COMMAND] B:Alembic Brigade Matter Transmutation: Zi'baq Beads on Carpet-Bomber 1: paid off - gave Carpet-Bomber 1: weapons SUSTAINED ATTACK 1; 5 attack(s) it touched: +0.22 expected HP for its side
+  [COMMAND] A:Soudarion Cortege Troop Requisition on (5,12): paid off - placed Covenant Levies; the unit it placed made 3 attack(s), 12 HP off; the unit it placed scored 4.89 VP; the unit it placed drew 3 enemy attack(s), 6 HP
+  [MOVEMENT] B:Alembic Brigade Sulayman's Wind: nothing - gave Carpet-Bomber 1: weapons ASSAULT
+  [MOVEMENT] B:Alembic Brigade Sulayman's Wind: nothing - gave Carpet-Bomber 2: weapons ASSAULT
+  [ACTION] A:Soudarion Cortege Blessing of St. Barbara: paid off - gave St. Barbara Field Gun: REROLL +1; 1 attack(s) it touched: +1.68 expected HP for its side
+  [ACTION] A:Soudarion Cortege Providence on Muqatila Troopers 2: paid off - 1 attack(s) it touched: +1.73 expected HP for its side
+  [ACTION] B:Alembic Brigade Go to Ground on Muqatila Troopers 2: paid off - 1 attack(s) it touched: +1.04 expected HP for its side
+Passive rules:
+  Crusade Eternal (Staurotheke War-Shrine): 1 attack, 0.75 expected HP for its side
+  Ilm al-Raml (Rammal Geomancer): fired 1 time (add_resource)
+  Ilm al-Raml (Royal Alchemist): fired 1 time (add_resource)
+Scored by:
+  A:Soudarion Cortege objectives (7,7) 3 VP: Covenant Levies 1 1.5, Covenant Levies 2 1.5; hinged on Covenant Levies 1, Covenant Levies 2
+  B:Alembic Brigade objectives (1,7) 2 VP: Muqatila Troopers 2 2.0; hinged on Muqatila Troopers 2
+  A:Soudarion Cortege objectives (13,7) 2 VP: Jordanite Hospitallers 2 2.0; hinged on Jordanite Hospitallers 2
+  B:Alembic Brigade missions BAR THE GATES 2 VP: no unit, unassigned 2
+Log:
+  [] Map selected: CROSSROADS (Central Faceoff)
+  [] [AI] Formation selected: ⚔ Soudarion Cortege · Doctrine: None (11 units)
+  [] [AI] Formation selected: ⚔ Alembic Brigade · Doctrine: None (11 units)
+  [] Lazarite Prelate 1 leads Sepulchre Guard 1 as its bodyguard
+  [] Lazarite Prelate 2 leads Sepulchre Guard 2 as its bodyguard
+  [] Naqib 1 leads Muqatila Troopers 1 as its bodyguard
+  [] Naqib 2 leads Muqatila Troopers 2 as its bodyguard
+  [] Rammal Geomancer leads Muqatila Troopers 3 as its bodyguard
+  [] Player A: HQ auto-deployed at (7,13)
+  [] Player B: HQ auto-deployed at (7,1)
+  [] Seize The Ground: 3 objectives placed
+  [] [AI] Royal Alchemist deployed at (11,2)
+  [] [AI] St. Barbara Field Gun deployed at (4,14)
+  [] [AI] Muqatila Troopers 1 deployed at (8,2)
+  [] [AI] Sepulchre Guard 1 deployed at (9,12)
+  [] [AI] Muqatila Troopers 2 deployed at (3,2)
+  [] [AI] Sepulchre Guard 2 deployed at (3,12)
+  [] [AI] Muqatila Troopers 3 deployed at (5,2)
+  [] [AI] Jordanite Hospitallers 1 deployed at (4,12)
+  [] [AI] Muqatila Troopers 4 deployed at (10,2)
+  [] [AI] Jordanite Hospitallers 2 deployed at (11,12)
+  [] [AI] Carpet-Bomber 1 deployed at (5,1)
+  [] [AI] Staurotheke War-Shrine deployed at (10,12)
+  [] [AI] Carpet-Bomber 2 deployed at (3,1)
+  [] [AI] Covenant Levies 1 deployed at (6,12)
+  [] [AI] Abna al-Dawla Guard deployed at (7,2)
+  [] [AI] Covenant Levies 2 deployed at (7,12)
+  [] [AI] Covenant Levies 3 deployed at (8,12)
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] ◈ BATTLE BEGINS - MAP: CROSSROADS
+  [COMMAND] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [COMMAND] Player A formation (12 units): HQ, Lazarite Prelate 1, Sepulchre Guard 1, Lazarite Prelate 2, Sepulchre Guard 2, Jordanite Hospitallers 1, Jordanite Hospitallers 2, Covenant Levies 1, Covenant Levies 2, Covenant Levies 3, Staurotheke War-Shrine, St. Barbara Field Gun
+  [COMMAND] Player B formation (12 units): HQ, Naqib 1, Muqatila Troopers 1, Naqib 2, Muqatila Troopers 2, Rammal Geomancer, Muqatila Troopers 3, Muqatila Troopers 4, Royal Alchemist, Carpet-Bomber 1, Carpet-Bomber 2, Abna al-Dawla Guard
+  [COMMAND] PRIORITY: Player B (fewer units on the battlefield, 9 to 10)
+  [COMMAND] ⚔ BATTLE ROUND 1 - BEGIN
+  [COMMAND] COMMAND PHASE
+  [COMMAND] [AI] Initialised - AI vs AI mode (both players)
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] Mana: Player B +1 (1 total) - DARB AL-RAML
+  [COMMAND] COMMAND PHASE - Round 1 - A:3 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:3 B:3
+  [COMMAND] Player A keeps a Primary Mission
+  [COMMAND] Player B keeps a Primary Mission
+  [COMMAND] Primary Missions revealed: Player A LEAD FROM THE FRONT, Player B STRATEGICAL DISRUPTION
+  [COMMAND] Al-Kimiya Ingredients: Player B -1 (0 total) - Matter Transmutation
+  [COMMAND] Matter Transmutation: Zi'baq Beads (SUSTAINED ATTACK 1) on the Drop-Bombs of Carpet-Bomber 1 for 1 Al-Kimiya Ingredients
+  [COMMAND] Player A picks mission: LAST STAND
+  [COMMAND] Player B picks mission: BAR THE GATES
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Troop Requisition -> covenant_of_new_jerusalem:covenant_levies (cost 3 CP) by Player A
+  [COMMAND] TROOP REQUISITION: Covenant Levies deployed at (5,12) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] [Muqatila Troopers 3] Advance: Movement Dice 1, 3, 3 add 0, 3 Movement Points
+  [MOVEMENT] Muqatila Troopers 3 Advances: +0 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Muqatila Troopers 3 moved to (5,5)
+  [MOVEMENT] [Jordanite Hospitallers 1] Advance: Movement Dice 6, 5, 5 add 3, 6 Movement Points
+  [MOVEMENT] Jordanite Hospitallers 1 Advances: +3 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Jordanite Hospitallers 1 moved to (0,8)
+  [MOVEMENT] [Muqatila Troopers 4] Advance: Movement Dice 1, 1, 3 add 0, 3 Movement Points
+  [MOVEMENT] Muqatila Troopers 4 Advances: +0 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Muqatila Troopers 4 moved to (10,5)
+  [MOVEMENT] [Jordanite Hospitallers 2] Advance: Movement Dice 2, 3, 5 add 1, 4 Movement Points
+  [MOVEMENT] Jordanite Hospitallers 2 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Jordanite Hospitallers 2 moved to (12,8)
+  [MOVEMENT] [Muqatila Troopers 1] Advance: Movement Dice 6, 4, 2 add 2, 5 Movement Points
+  [MOVEMENT] Muqatila Troopers 1 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Muqatila Troopers 1 moved to (8,7)
+  [MOVEMENT] [Sepulchre Guard 1] Advance: Movement Dice 3, 3, 6 add 1, 3 Movement Points
+  [MOVEMENT] Sepulchre Guard 1 Advances: +1 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Sepulchre Guard 1 moved to (9,9)
+  [MOVEMENT] [Muqatila Troopers 2] Advance: Movement Dice 2, 2, 4 add 1, 4 Movement Points
+  [MOVEMENT] Muqatila Troopers 2 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Muqatila Troopers 2 moved to (2,6)
+  [MOVEMENT] [Sepulchre Guard 2] Advance: Movement Dice 3, 3, 6 add 1, 3 Movement Points
+  [MOVEMENT] Sepulchre Guard 2 Advances: +1 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Sepulchre Guard 2 moved to (5,10)
+  [MOVEMENT] [Abna al-Dawla Guard] Advance: Movement Dice 5, 2, 3 add 1, 4 Movement Points
+  [MOVEMENT] Abna al-Dawla Guard Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Abna al-Dawla Guard moved to (11,3)
+  [MOVEMENT] [Covenant Levies 1] Advance: Movement Dice 4, 6, 1 add 2, 5 Movement Points
+  [MOVEMENT] Covenant Levies 1 Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Covenant Levies 1 moved to (6,7)
+  [MOVEMENT] Carpet-Bomber 1 uses Sulayman's Wind!
+  [MOVEMENT] Carpet-Bomber 1 SULAYMAN'S WIND: QUICK, 2 charges. Activate in the Movement Phase: this unit's ranged weapons gain ASSAULT until the end of the Battle Round.
+  [MOVEMENT] [Carpet-Bomber 1] Advance: Movement Dice 2, 2, 3 add 0, 6 Movement Points
+  [MOVEMENT] Carpet-Bomber 1 Advances: +0 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Carpet-Bomber 1 moved to (10,3)
+  [MOVEMENT] [Covenant Levies] Advance: Movement Dice 1, 1, 2 add 0, 3 Movement Points
+  [MOVEMENT] Covenant Levies Advances: +0 from the Movement Dice, 3 Movement Points.
+  [MOVEMENT] Covenant Levies moved to (5,9)
+  [MOVEMENT] Carpet-Bomber 2 uses Sulayman's Wind!
+  [MOVEMENT] Carpet-Bomber 2 SULAYMAN'S WIND: QUICK, 2 charges. Activate in the Movement Phase: this unit's ranged weapons gain ASSAULT until the end of the Battle Round.
+  [MOVEMENT] [Carpet-Bomber 2] Advance: Movement Dice 2, 1, 2 add 0, 6 Movement Points
+  [MOVEMENT] Carpet-Bomber 2 Advances: +0 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Carpet-Bomber 2 moved to (8,2)
+  [MOVEMENT] [Covenant Levies 2] Advance: Movement Dice 3, 1, 5 add 1, 4 Movement Points
+  [MOVEMENT] Covenant Levies 2 Advances: +1 from the Movement Dice, 4 Movement Points.
+  [MOVEMENT] Covenant Levies 2 moved to (6,8)
+  [MOVEMENT] [Royal Alchemist] Advance: Movement Dice 3, 5, 4 add 2, 5 Movement Points
+  [MOVEMENT] Royal Alchemist Advances: +2 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Royal Alchemist moved to (8,6)
+  [MOVEMENT] [Covenant Levies 3] Advance: Movement Dice 5, 4, 6 add 3, 6 Movement Points
+  [MOVEMENT] Covenant Levies 3 Advances: +3 from the Movement Dice, 6 Movement Points.
+  [MOVEMENT] Covenant Levies 3 moved to (4,9)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] [Staurotheke War-Shrine] Advance: Movement Dice 6, 5, 6 add 3, 5 Movement Points
+  [MOVEMENT] Staurotheke War-Shrine Advances: +3 from the Movement Dice, 5 Movement Points.
+  [MOVEMENT] Staurotheke War-Shrine moved to (7,10)
+  [MOVEMENT] St. Barbara Field Gun moved to (4,13)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] St. Barbara Field Gun uses Blessing of St. Barbara!
+  [ACTION] St. Barbara Field Gun BLESSING OF ST. BARBARA: Once per game. This unit's ranged attacks can reroll failed HIT rolls until the end of the Battle Round.
+  [ACTION] MIRACLE: Player A uses PROVIDENCE
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Muqatila Troopers 2
+  [ACTION] St. Barbara Field Gun opens fire with 1 combat group
+  [ACTION] 1x Sanctified AP Shell (St. Barbara Field Gun) SUSTAINED ATTACK 2: 2 extra dice from 1 critical hit
+  [ACTION] 1x Sanctified AP Shell (St. Barbara Field Gun) HIT vs Muqatila Troopers 2 (FR 2): [(1→)6✓][(1→)2✗][(2→)2✗][(4→)3✗] → 1/2 hits (needs 4+) [HIT mod: -1 GO TO GROUND]
+  [ACTION]   Muqatila Troopers 2 SAVE roll: 6 (5 (+4 from AP, capped) = 7+) => FAILED
+  [ACTION]   Muqatila Troopers 2 takes 2 damage (20 → 18)
+  [ACTION]   Muqatila destroyed
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player A +11 (11 total) - PRAYING
+  [ACTION] PRAYING: Player A gains +11 Mana at Action Phase end
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila Troopers 2 SAVES (slow roll): [no save→Muqatila][no save→Muqatila][no save→Muqatila][no save→Muqatila] → 0/4 saved, 2 models killed
+  [ACTION] [Muqatila Troopers 2] BURNED: 4 True Damage (1 stack x 4) (14 HP remaining)
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 20 vs 12)
+  [CLEANUP] ★ Objective (1,7): Player B +2 VP (OC 8 vs 3)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 5 | Player B: 2
+  [CLEANUP] MISSION COMPLETE: "BAR THE GATES" -> Player B +2 VP!
+
+=== BATTLE ROUND 2 ===
+A:Soudarion Cortege: VP +7 (obj 7, primary 0, missions 0) = 12; CP +3 -1 holds 2 [1 Go to ground (reaction) for Sepulchre Guard 2]
+  mana: +6 -10 holds 7 [6 Cast Agnus Dei; 4 Cast Gloria]
+B:Alembic Brigade: VP +2 (obj 0, primary 2, missions 0) = 6; CP +3 -5 holds 0 [5 Troop Requisition → Muqatila Troopers]
+  mana: +4 -5 holds 0 [5 Cast Khatt]
+  al_kimiya_ingredients: +3 -1 holds 2 [1 Matter Transmutation]
+A:Soudarion Cortege keeps mission MAN OF THE HOUR (offered MAN OF THE HOUR / BAR THE GATES)
+B:Alembic Brigade keeps mission FOCUSED FIRE (offered FORWARD DEPLOYMENT / FOCUSED FIRE)
+Moves:
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 8,1 -> 8,4
+  [MOVEMENT] A:Soudarion Cortege Sepulchre Guard 2 + Lazarite Prelate 2 5,10 -> 6,9
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 3 + Rammal Geomancer 5,5 -> 6,5
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 5,9 -> 2,8
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 4 10,5 -> 8,5
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 3 4,9 -> 1,8
+  [MOVEMENT] B:Alembic Brigade Abna al-Dawla Guard 11,3 -> 9,5
+  [MOVEMENT] A:Soudarion Cortege Sepulchre Guard 1 + Lazarite Prelate 1 9,9 -> 9,8 (charge)
+  [MOVEMENT] B:Alembic Brigade Carpet-Bomber 2 8,2 -> 8,8
+  [MOVEMENT] A:Soudarion Cortege Staurotheke War-Shrine 7,10 -> 7,9
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 2 + Naqib 2 2,6 -> 1,6
+  [MOVEMENT] A:Soudarion Cortege St. Barbara Field Gun 4,13 -> 5,11
+  [MOVEMENT] B:Alembic Brigade Carpet-Bomber 1 10,3 -> 4,4
+  [MOVEMENT] A:Soudarion Cortege Jordanite Hospitallers 1 0,8 -> 3,8
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 1 + Naqib 1 8,7 -> 9,4
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 2 6,8 -> 7,8
+Combat:
+  [MOVEMENT] ranged (Overwatch): B:Alembic Brigade Naqib 1 -> Sepulchre Guard 2: no damage
+  [MOVEMENT] ranged (Overwatch): B:Alembic Brigade Muqatila Troopers 1 -> Sepulchre Guard 2: no damage
+  [MOVEMENT] ranged (Overwatch): A:Soudarion Cortege Covenant Levies 1 -> Muqatila Troopers 3: Muqatila Troopers 3 -2
+  [MOVEMENT] ranged (Overwatch): B:Alembic Brigade Naqib 2 -> Covenant Levies: no damage
+  [MOVEMENT] ranged (Overwatch): B:Alembic Brigade Muqatila Troopers 2 -> Covenant Levies: Covenant Levies -1
+  [MOVEMENT] ranged (Overwatch): A:Soudarion Cortege Covenant Levies 2 -> Carpet-Bomber 2: Carpet-Bomber 2 -5
+  [MOVEMENT] ranged (Overwatch): A:Soudarion Cortege Covenant Levies 3 -> Carpet-Bomber 2: Carpet-Bomber 2 -1
+  [MOVEMENT] ranged (Overwatch): B:Alembic Brigade Muqatila Troopers 3 -> Covenant Levies 2: Covenant Levies 2 -1
+  [MOVEMENT] ranged (Overwatch): B:Alembic Brigade Royal Alchemist -> Covenant Levies 2: no damage
+  [ACTION] ranged: B:Alembic Brigade Muqatila Troopers 4 -> Covenant Levies 1: Covenant Levies 1 -7
+  [ACTION] magic (Agnus Dei): A:Soudarion Cortege Lazarite Prelate 1 -> Covenant Levies 2: no damage
+  [ACTION] ranged: B:Alembic Brigade Muqatila Troopers 3 -> Covenant Levies 2: Covenant Levies 2 -4
+  [ACTION] magic (Gloria): A:Soudarion Cortege Lazarite Prelate 2 -> Covenant Levies 2: no damage
+  [ACTION] ranged: B:Alembic Brigade Muqatila Troopers 2 -> Covenant Levies 3: Covenant Levies 3 -5
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies 2 -> Carpet-Bomber 1: Carpet-Bomber 1 -6
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies -> Muqatila Troopers 2: Muqatila Troopers 2 -7
+  [ACTION] ranged: B:Alembic Brigade Naqib 2 -> Covenant Levies 3: Covenant Levies 3 -1
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies 3 -> Muqatila Troopers 2: Muqatila Troopers 2 -3
+  [ACTION] ranged: B:Alembic Brigade Carpet-Bomber 2 -> Covenant Levies 2: Covenant Levies 2 -1
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies 1 -> Carpet-Bomber 2: Carpet-Bomber 2 -3 DESTROYED
+  [ACTION] magic (Khatt): B:Alembic Brigade Rammal Geomancer -> Covenant Levies 1: no damage
+  [ACTION] ranged: A:Soudarion Cortege St. Barbara Field Gun -> Carpet-Bomber 1: no damage
+  [ACTION] effect (Burning): A:Soudarion Cortege St. Barbara Field Gun -> Muqatila Troopers 2: Muqatila Troopers 2 -1
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Sepulchre Guard 1 (no legal action), A:Sepulchre Guard 2 (no legal action), A:Staurotheke War-Shrine (no legal action), B:HQ (no legal action), B:Naqib 1 (no legal action), B:Carpet-Bomber 1 (no legal action), B:Abna al-Dawla Guard (no legal action)
+Moves undone:
+  A:Soudarion Cortege Covenant Levies 2: R1 MOVEMENT 7,12 -> 6,8, R2 MOVEMENT -> 7,8 (toward the objective at 1,7, then away, 1 square lost)
+  B:Alembic Brigade Carpet-Bomber 1: R1 MOVEMENT 5,1 -> 10,3, R2 MOVEMENT -> 4,4 (toward the objective at 13,7, then away, 5 squares lost)
+Commands and abilities:
+  [COMMAND] B:Alembic Brigade Matter Transmutation: Zi'baq Beads on Muqatila Troopers 1: nothing - gave Muqatila Troopers 1: weapons SUSTAINED ATTACK 1; 3 attack(s) it touched: +0 expected HP for its side
+  [COMMAND] B:Alembic Brigade Troop Requisition on (8,1): paid off - placed Muqatila Troopers; the unit it placed made 1 attack(s), 7 HP off
+  [MOVEMENT] A:Soudarion Cortege Go to Ground on Sepulchre Guard 2: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Soudarion Cortege Agnus Dei on Covenant Levies 2: nothing - gave Covenant Levies 2: weapon DMG +1; set the Antiphon agnus_dei on Covenant Levies 2; 1 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Soudarion Cortege Gloria on Covenant Levies 2: paid off - gave Covenant Levies 2: BS +1, MS +1; set the Antiphon gloria on Covenant Levies 2; 1 attack(s) it touched: +2.32 expected HP for its side
+  [ACTION] B:Alembic Brigade Gather Ingredients: paid off - 2 al_kimiya_ingredients gained
+  [ACTION] B:Alembic Brigade Khatt on Covenant Levies 1: nothing - put EXHAUSTED on Covenant Levies 1, HIDDEN on Rammal Geomancer; 3 attack(s) it touched: +0 expected HP for its side
+  [ACTION] A:Soudarion Cortege Battlefield Baptism on Covenant Levies: paid off - healed 1 HP
+Passive rules:
+  Gisant Ward (Sepulchre Guard 2): 1 attack, 0.05 expected HP for its side
+  Crusade Eternal (Staurotheke War-Shrine): 4 attacks, 2.74 expected HP for its side
+  Rashq Tactics (Muqatila Troopers 2): 1 attack, 0.35 expected HP for its side
+  Ilm al-Raml (Rammal Geomancer): fired 1 time (add_resource)
+  Ilm al-Raml (Royal Alchemist): fired 1 time (add_resource)
+  Desert Mirage (Rammal Geomancer): fired 1 time (gain_hidden)
+Scored by:
+  A:Soudarion Cortege objectives (7,7) 3 VP: Covenant Levies 1 1.5, Covenant Levies 2 1.5
+  A:Soudarion Cortege objectives (1,7) 2 VP: Covenant Levies 3 1.0, Covenant Levies 1.0
+  A:Soudarion Cortege objectives (13,7) 2 VP: Jordanite Hospitallers 2 2.0; hinged on Jordanite Hospitallers 2
+  B:Alembic Brigade primary STRATEGICAL DISRUPTION 2 VP: no unit, unassigned 2
+Log:
+  [CLEANUP] ═══ ROUND 2 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 9 to 11)
+  [CLEANUP] BATTLE ROUND 2 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] Mana: Player B +1 (2 total) - DARB AL-RAML
+  [COMMAND] Mana: Player B +3 (5 total) - DARB AL-RAML
+  [COMMAND] Al-Kimiya Ingredients: Player B +1 (1 total) - Secrets of Al-Kimiya
+  [COMMAND] COMMAND PHASE - Round 2 - A:3 CP, B:5 CP
+  [COMMAND] Command Phase: CP A:3 B:5
+  [COMMAND] Al-Kimiya Ingredients: Player B -1 (0 total) - Matter Transmutation
+  [COMMAND] Matter Transmutation: Zi'baq Beads (SUSTAINED ATTACK 1) on the Khanjar of Muqatila Troopers 1 for 1 Al-Kimiya Ingredients
+  [COMMAND] Player A picks mission: MAN OF THE HOUR
+  [COMMAND] Player B picks mission: FOCUSED FIRE
+  [COMMAND] HQ Command: Troop Requisition -> caliphate_of_the_two_sanctuaries:muqatila_troopers (cost 5 CP) by Player B
+  [COMMAND] TROOP REQUISITION: Muqatila Troopers deployed at (8,1) - 0 APt this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Muqatila Troopers moved to (8,4)
+  [MOVEMENT] Sepulchre Guard 2 moved to (6,9)
+  [MOVEMENT] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Sepulchre Guard 2
+  [MOVEMENT] 1x Hijaz Revolver (Naqib) HIT vs Sepulchre Guard 2 roll: 2 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Naqib 1] Overwatch Reaction vs Sepulchre Guard 2: no damage
+  [MOVEMENT] 9x Medina-Pattern Rifle (Muqatila) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 9x Medina-Pattern Rifle (Muqatila) HIT vs Sepulchre Guard 2 (FR 9): [4✗][2✗][5✗][(6→)6✓][1✗][2✗][1✗][2✗][1✗][1✗] → 1/9 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Sepulchre Guard 2 SAVE roll: 3 (3 (+1 from LIGHT COVER, capped) = 2+) => SAVED
+  [MOVEMENT] 1x Medina-Pattern Rifle (Arif) HIT vs Sepulchre Guard 2 roll: 1 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Muqatila Troopers 1] Overwatch Reaction vs Sepulchre Guard 2: no damage
+  [MOVEMENT] Muqatila Troopers 3 moved to (6,5)
+  [MOVEMENT] 9x Levy Rifle (Levy) SUSTAINED ATTACK 2: 4 extra dice from 2 critical hits
+  [MOVEMENT] 9x Levy Rifle (Levy) HIT vs Muqatila Troopers 3 (FR 18): [6✓][4✗][2✗][6✓][1✗][1✗][5✗][3✗][2✗][2✗][3✗][1✗][5✗][1✗][4✗][1✗][3✗][4✗][6✓][1✗][4✗][4✗] → 3/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Muqatila Troopers 3 SAVE (3 dice): [5✓][3✗][3✗] → 1/3 saved (5 (+1 from LIGHT COVER, capped) = 4+)
+  [MOVEMENT]   Muqatila Troopers 3 takes 2 damage (20 → 18)
+  [MOVEMENT]   Muqatila destroyed
+  [MOVEMENT] 1x Levy Rifle (Levy Elder) HIT vs Muqatila Troopers 3 (FR 2): [2✗][1✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Covenant Levies 1] Overwatch Reaction vs Muqatila Troopers 3: 2 damage
+  [MOVEMENT] Covenant Levies moved to (2,8)
+  [MOVEMENT] 1x Hijaz Revolver (Naqib) HIT vs Covenant Levies roll: 3 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Naqib 2] Overwatch Reaction vs Covenant Levies: no damage
+  [MOVEMENT] 6x Medina-Pattern Rifle (Muqatila) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [MOVEMENT] 6x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies (FR 6): [1✗][1✗][5✗][4✗][6✓][2✗][6✓] → 2/6 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Covenant Levies SAVE (2 dice): [5✗][6✓] → 1/2 saved (needs 6+)
+  [MOVEMENT]   Covenant Levies takes 1 damage (20 → 19)
+  [MOVEMENT] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies roll: 3 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Muqatila Troopers 2] Overwatch Reaction vs Covenant Levies: 1 damage
+  [MOVEMENT] Muqatila Troopers 4 moved to (8,5)
+  [MOVEMENT] Covenant Levies 3 moved to (1,8)
+  [MOVEMENT] Abna al-Dawla Guard moved to (9,5)
+  [MOVEMENT] Sepulchre Guard 1 moved to (9,8)
+  [MOVEMENT] Sepulchre Guard 1 Charges Naqib 1, Muqatila Troopers 1
+  [MOVEMENT] Carpet-Bomber 2 moved to (8,8)
+  [MOVEMENT] 9x Levy Rifle (Levy) SUSTAINED ATTACK 2: 8 extra dice from 4 critical hits
+  [MOVEMENT] 9x Levy Rifle (Levy) HIT vs Carpet-Bomber 2 (FR 18): [5✗][1✗][1✗][5✗][4✗][5✗][5✗][6✓][3✗][5✗][6✓][2✗][3✗][5✗][1✗][2✗][6✓][6✓][2✗][3✗][5✗][5✗][2✗][6✓][6✓][1✗] → 6/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Carpet-Bomber 2 SAVE (6 dice): [2✗][4✗][4✗][6✓][4✗][2✗] → 1/6 saved (needs 5+)
+  [MOVEMENT]   Carpet-Bomber 2 takes 5 damage (9 → 4)
+  [MOVEMENT]   Carpet-Bomber destroyed
+  [MOVEMENT] 1x Levy Rifle (Levy Elder) HIT vs Carpet-Bomber 2 (FR 2): [4✗][5✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Covenant Levies 2] Overwatch Reaction vs Carpet-Bomber 2: 5 damage
+  [MOVEMENT] 9x Levy Rifle (Levy) HIT vs Carpet-Bomber 2 (FR 18): [4✗][2✗][1✗][1✗][6✓][5✗][1✗][5✗][2✗][1✗][5✗][1✗][1✗][3✗][4✗][5✗][2✗][1✗] → 1/18 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Carpet-Bomber 2 SAVE roll: 2 (needs 5+) => FAILED
+  [MOVEMENT]   Carpet-Bomber 2 takes 1 damage (4 → 3)
+  [MOVEMENT]   Carpet-Bomber destroyed
+  [MOVEMENT] 1x Levy Rifle (Levy Elder) HIT vs Carpet-Bomber 2 (FR 2): [1✗][1✗] → 0/2 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT] [Covenant Levies 3] Overwatch Reaction vs Carpet-Bomber 2: 1 damage
+  [MOVEMENT] Staurotheke War-Shrine moved to (7,9)
+  [MOVEMENT] Muqatila Troopers 2 moved to (1,6)
+  [MOVEMENT] St. Barbara Field Gun moved to (5,11)
+  [MOVEMENT] Carpet-Bomber 1 moved to (4,4)
+  [MOVEMENT] Jordanite Hospitallers 1 moved to (3,8)
+  [MOVEMENT] [Muqatila Troopers 1] FALL BACK TEST: INI 4 against 3, needs 3+, rolled 5 - breaks away
+  [MOVEMENT] Muqatila Troopers 1 moved to (9,4)
+  [MOVEMENT] [Muqatila Troopers 1] Fall Back to (9,4)
+  [MOVEMENT] Covenant Levies 2 moved to (7,8)
+  [MOVEMENT] 8x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies 2 (FR 8): [6✓][6✓][3✗][1✗][1✗][2✗][2✗][2✗] → 2/8 hits (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored]
+  [MOVEMENT]   Covenant Levies 2 SAVE (2 dice): [2✗][6✓] → 1/2 saved (needs 6+)
+  [MOVEMENT]   Covenant Levies 2 takes 1 damage (20 → 19)
+  [MOVEMENT] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies 2 roll: 2 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Muqatila Troopers 3] Overwatch Reaction vs Covenant Levies 2: 1 damage
+  [MOVEMENT] 1x Qinnina Vials (Royal Alchemist) HIT vs Covenant Levies 2 roll: 4 (needs natural 6+) [HIT rule: NATURAL 6+; modifiers ignored] => MISS
+  [MOVEMENT] [Royal Alchemist] Overwatch Reaction vs Covenant Levies 2: no damage
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Muqatila Troopers 4 opens fire with 2 combat groups
+  [ACTION] 9x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies 1 (FR 9): [6✓][1✗][6✓][5✓][1✗][4✗][6✓][6✓][5✓] → 6/9 hits (needs 5+)
+  [ACTION]   Covenant Levies 1 SAVE (6 dice): [3✗][1✗][5✗][3✗][2✗][2✗] → 0/6 saved (needs 6+)
+  [ACTION]   Covenant Levies 1 takes 6 damage (20 → 14)
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies 1 roll: 5 (needs 4+) => HIT
+  [ACTION]   Covenant Levies 1 SAVE roll: 2 (needs 6+) => FAILED
+  [ACTION]   Covenant Levies 1 takes 1 damage (14 → 13)
+  [ACTION] Lazarite Prelate 1 intones Agnus Dei over Covenant Levies 2
+  [ACTION] Mana: Player A -6 (5 total) - spent
+  [ACTION] Lazarite Prelate 1 casts Agnus Dei on Covenant Levies 2
+  [ACTION] Muqatila Troopers 3 opens fire with 2 combat groups
+  [ACTION] 8x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies 2 (FR 8): [4✗][4✗][2✗][6✓][5✓][2✗][6✓][1✗] → 3/8 hits (needs 5+)
+  [ACTION]   Covenant Levies 2 SAVE (3 dice): [3✗][2✗][5✗] → 0/3 saved (needs 6+)
+  [ACTION]   Covenant Levies 2 takes 3 damage (19 → 16)
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies 2 roll: 6 (needs 4+) => HIT
+  [ACTION]   Covenant Levies 2 SAVE roll: 3 (needs 6+) => FAILED
+  [ACTION]   Covenant Levies 2 takes 1 damage (16 → 15)
+  [ACTION] Agnus Dei replaced on Covenant Levies 2
+  [ACTION] Lazarite Prelate 2 intones Gloria over Covenant Levies 2
+  [ACTION] Mana: Player A -4 (1 total) - spent
+  [ACTION] Lazarite Prelate 2 casts Gloria on Covenant Levies 2
+  [ACTION] Muqatila Troopers 2 opens fire with 2 combat groups
+  [ACTION] 6x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies 3 (FR 6): [4✗][6✓][6✓][2✗][6✓][5✓] → 4/6 hits (needs 5+)
+  [ACTION]   Covenant Levies 3 SAVE (4 dice): [5✗][2✗][3✗][4✗] → 0/4 saved (needs 6+)
+  [ACTION]   Covenant Levies 3 takes 4 damage (20 → 16)
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies 3 roll: 4 (needs 4+) => HIT
+  [ACTION]   Covenant Levies 3 SAVE roll: 1 (needs 6+) => FAILED
+  [ACTION]   Covenant Levies 3 takes 1 damage (16 → 15)
+  [ACTION] Covenant Levies 2 opens fire with 2 combat groups
+  [ACTION] 7x Levy Rifle (Levy) SUSTAINED ATTACK 2: 8 extra dice from 4 critical hits
+  [ACTION] 7x Levy Rifle (Levy) HIT vs Carpet-Bomber 1 (FR 14): [1✗][6✓][2✗][6✓][2✗][4✗][5✓][4✗][4✗][4✗][5✓][6✓][3✗][6✓][4✗][2✗][6✓][4✗][5✓][4✗][5✓][1✗] → 9/14 hits (needs 4+) [HIT mod: -1 vs FLYING]
+  [ACTION] Mana: Player A +2 (3 total) - Gloria Response
+  [ACTION] GLORIA RESPONSE: +2 Mana
+  [ACTION]   Carpet-Bomber 1 SAVE (9 dice): [1✗][2✗][6✓][4✗][5✓][4✗][1✗][4✗][6✓] → 3/9 saved (needs 5+)
+  [ACTION]   Carpet-Bomber 1 takes 6 damage (9 → 3)
+  [ACTION]   Carpet-Bomber destroyed
+  [ACTION]   Carpet-Bomber destroyed
+  [ACTION] 1x Levy Rifle (Levy Elder) HIT vs Carpet-Bomber 1 (FR 2): [1✗][4✗] → 0/2 hits (needs 4+) [HIT mod: -1 vs FLYING]
+  [ACTION] Royal Alchemist uses Gather Ingredients!
+  [ACTION] Al-Kimiya Ingredients: Player B +2 (2 total) - Gather Ingredients
+  [ACTION] Royal Alchemist GATHER INGREDIENTS: Once per Battle Round, during your Action Phase, 1 friendly Caliphate of the Two Sanctuaries unit with STANDARD, SPECIALIST, or ALCHEMIST can spend 1 APt to gain 1 Al-Kimiya Ingredient token.
+  [ACTION] Covenant Levies opens fire with 2 combat groups
+  [ACTION] 9x Levy Rifle (Levy) HIT vs Muqatila Troopers 2 (FR 18): [1✗][3✗][5✓][6✓][3✗][2✗][3✗][5✓][2✗][6✓][4✗][6✓][1✗][5✓][6✓][6✓][3✗][6✓] → 9/18 hits (needs 5+)
+  [ACTION]   Muqatila Troopers 2 SAVE (9 dice): [4✗][2✗][3✗][6✓][3✗][2✗][4✗][2✗][6✓] → 2/9 saved (needs 5+)
+  [ACTION]   Muqatila Troopers 2 takes 7 damage (14 → 7)
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION] 1x Levy Rifle (Levy Elder) HIT vs Muqatila Troopers 2 (FR 2): [1✗][1✗] → 0/2 hits (needs 5+)
+  [ACTION] Naqib 2 opens fire with 1 combat group
+  [ACTION] 1x Hijaz Revolver (Naqib) HIT vs Covenant Levies 3 roll: 4 (needs 3+) => HIT
+  [ACTION]   Covenant Levies 3 SAVE roll: 2 (needs 6+) => FAILED
+  [ACTION]   Covenant Levies 3 takes 1 damage (15 → 14)
+  [ACTION]   Levy destroyed
+  [ACTION] Covenant Levies 3 opens fire with 2 combat groups
+  [ACTION] 6x Levy Rifle (Levy) HIT vs Muqatila Troopers 2 (FR 12): [3✗][6✓][5✓][5✓][1✗][2✗][4✗][5✓][4✗][4✗][1✗][6✓] → 5/12 hits (needs 5+)
+  [ACTION]   Muqatila Troopers 2 SAVE (5 dice): [1✗][3✗][6✓][4✗][5✓] → 2/5 saved (needs 5+)
+  [ACTION]   Muqatila Troopers 2 takes 3 damage (7 → 4)
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION] 1x Levy Rifle (Levy Elder) HIT vs Muqatila Troopers 2 (FR 2): [3✗][3✗] → 0/2 hits (needs 5+)
+  [ACTION] Carpet-Bomber 2 fires 1 combat group at 7,8
+  [ACTION] [Carpet-Bomber 2] 1x Drop-Bombs (Carpet-Bomber): 1 attack on center
+  [ACTION]   SWEEP 1: +1 FR (1 per model x 1 model, vs 8 target models)
+  [ACTION] 1x Drop-Bombs (Carpet-Bomber) HIT vs Covenant Levies 2 (FR 2): [4✗][6✓] → 1/2 hits (needs 5+)
+  [ACTION]   Covenant Levies 2 SAVE roll: 2 (6 (+1 from AP) = 7+) => FAILED
+  [ACTION]   Covenant Levies 2 takes 1 damage (15 → 14)
+  [ACTION]   Levy destroyed
+  [ACTION] Covenant Levies 1 opens fire with 2 combat groups
+  [ACTION] 6x Levy Rifle (Levy) SUSTAINED ATTACK 2: 6 extra dice from 3 critical hits
+  [ACTION] 6x Levy Rifle (Levy) HIT vs Carpet-Bomber 2 (FR 12): [6✓][2✗][6✓][3✗][3✗][1✗][3✗][3✗][2✗][5✗][1✗][6✓][4✗][6✓][1✗][4✗][2✗][5✗] → 4/12 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION]   Carpet-Bomber 2 SAVE (4 dice): [2✗][6✓][1✗][2✗] → 1/4 saved (needs 5+)
+  [ACTION]   Carpet-Bomber 2 takes 3 damage (3 → 0)
+  [ACTION]   Carpet-Bomber destroyed
+  [ACTION]   Carpet-Bomber 2 DESTROYED
+  [ACTION] Mana: Player B -5 (0 total) - spent
+  [ACTION] [Rammal Geomancer] HIDDEN: gained from DESERT MIRAGE
+  [ACTION] Rammal Geomancer casts Khatt on Covenant Levies 1
+  [ACTION] St. Barbara Field Gun opens fire with 1 combat group
+  [ACTION] 1x Sanctified AP Shell (St. Barbara Field Gun) HIT vs Carpet-Bomber 1 roll: 4 (needs 4+) [HIT mod: -1 vs FLYING] => MISS
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Jordanite Hospitallers 1 uses Battlefield Baptism!
+  [ACTION] [Covenant Levies] BATTLEFIELD BAPTISM: heals 1 HP
+  [ACTION] Jordanite Hospitallers 1 BATTLEFIELD BAPTISM: Target a friendly unit within 2 squares. That unit heals 1D6 HP.
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player A +4 (7 total) - PRAYING
+  [ACTION] PRAYING: Player A gains +4 Mana at Action Phase end
+  [ACTION]   Muqatila Troopers 2 SAVES (slow roll): [no save→Muqatila] → 0/1 saved, 0 models killed
+  [ACTION] [Muqatila Troopers 2] BURNED: 1 True Damage (1 stack x 1) (3 HP remaining)
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 14 vs 1)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 17 vs 3)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 12 | Player B: 4
+  [CLEANUP] PRIMARY STRATEGICAL DISRUPTION: Player B scores 2 VP (2/10)
+
+=== BATTLE ROUND 3 ===
+A:Soudarion Cortege: VP +10 (obj 7, primary 2, missions 1) = 22; CP +4 -0 holds 6
+  mana: +5 -7 holds 5 [4 Cast Gloria; 3 Cast Sanctus]
+B:Alembic Brigade: VP +2 (obj 0, primary 0, missions 2) = 8; CP +4 -2 holds 2 [2 Rally cry (reaction) for Carpet-Bomber 1]
+  mana: +7 -0 holds 7
+  al_kimiya_ingredients: +2 -3 holds 1 [1 Matter Transmutation; 1 Matter Transmutation; 1 Matter Transmutation]
+A:Soudarion Cortege keeps mission IRON GRIP (offered IRON GRIP / FIRE FOR EFFECT)
+B:Alembic Brigade keeps mission IRON CURTAIN (offered IRON CURTAIN / VIGILANT WATCH)
+A:Soudarion Cortege mission IRON GRIP: completed
+B:Alembic Brigade mission FOCUSED FIRE: completed
+Moves:
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 3 + Rammal Geomancer 6,5 -> 3,5
+  [MOVEMENT] A:Soudarion Cortege Jordanite Hospitallers 1 3,8 -> 5,10
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 8,4 -> 5,4
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 4 8,5 -> 5,5
+  [MOVEMENT] A:Soudarion Cortege Sepulchre Guard 1 + Lazarite Prelate 1 9,8 -> 10,6 (charge)
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 1 + Naqib 1 9,4 -> 8,5
+  [MOVEMENT] A:Soudarion Cortege Staurotheke War-Shrine 7,9 -> 8,7 (charge)
+  [MOVEMENT] B:Alembic Brigade Carpet-Bomber 1 4,4 -> 2,6
+  [MOVEMENT] A:Soudarion Cortege St. Barbara Field Gun 5,11 -> 3,11
+  [MOVEMENT] B:Alembic Brigade Royal Alchemist 8,6 -> 10,4
+  [MOVEMENT] A:Soudarion Cortege Jordanite Hospitallers 2 12,8 -> 12,7
+Combat:
+  [ACTION] ranged: B:Alembic Brigade Muqatila Troopers 1 -> Covenant Levies 1: Covenant Levies 1 -2
+  [ACTION] magic (Gloria): A:Soudarion Cortege Lazarite Prelate 1 -> Sepulchre Guard 1: no damage
+  [ACTION] ranged: B:Alembic Brigade Muqatila Troopers 3 -> Covenant Levies: Covenant Levies -5
+  [ACTION] melee: A:Soudarion Cortege Sepulchre Guard 1 -> Abna al-Dawla Guard: Sepulchre Guard 1 -4, Abna al-Dawla Guard -9
+  [ACTION] ranged: B:Alembic Brigade Muqatila Troopers 2 -> Covenant Levies 3: Covenant Levies 3 -1
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies -> Muqatila Troopers 3: Muqatila Troopers 3 -5
+  [ACTION] ranged: B:Alembic Brigade Naqib 2 -> Covenant Levies 3: Covenant Levies 3 -1
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies 3 -> Muqatila Troopers 2: Naqib 2 -1, Muqatila Troopers 2 -3 DESTROYED
+  [ACTION] ranged: B:Alembic Brigade Naqib 1 -> Covenant Levies 1: no damage
+  [ACTION] ranged: B:Alembic Brigade Carpet-Bomber 1 -> Covenant Levies 3: no damage
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies 1 -> Carpet-Bomber 1: Carpet-Bomber 1 -2
+  [ACTION] ranged: A:Soudarion Cortege Covenant Levies 2 -> Muqatila Troopers 1: no damage
+  [ACTION] magic (Sanctus): A:Soudarion Cortege Lazarite Prelate 2 -> Covenant Levies 1: no damage
+  [ACTION] ranged: A:Soudarion Cortege St. Barbara Field Gun -> Carpet-Bomber 1: Carpet-Bomber 1 -1 DESTROYED
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Sepulchre Guard 2 (no legal action), A:Jordanite Hospitallers 1 (best: ability Cleansing Rain, 0), B:HQ (no legal action), B:Muqatila Troopers (no legal action)
+Moves undone:
+  A:Soudarion Cortege St. Barbara Field Gun: R2 MOVEMENT 4,13 -> 5,11, R3 MOVEMENT -> 3,11 (toward the objective at 13,7, then away, 2 squares lost)
+  B:Alembic Brigade Muqatila Troopers 3: R2 MOVEMENT 5,5 -> 6,5, R3 MOVEMENT -> 3,5 (toward the objective at 13,7, then away, 1 square lost)
+Commands and abilities:
+  [COMMAND] B:Alembic Brigade Matter Transmutation: Zi'baq Beads on Muqatila Troopers 4: nothing - gave Muqatila Troopers 4: weapons SUSTAINED ATTACK 1; 2 attack(s) it touched: +0.01 expected HP for its side
+  [COMMAND] B:Alembic Brigade Matter Transmutation: Zi'baq Beads on Muqatila Troopers: paid off - gave Muqatila Troopers: weapons SUSTAINED ATTACK 1; 2 attack(s) it touched: +0.66 expected HP for its side
+  [COMMAND] B:Alembic Brigade Matter Transmutation: Zi'baq Beads on Abna al-Dawla Guard: paid off - gave Abna al-Dawla Guard: weapons SUSTAINED ATTACK 1; 2 attack(s) it touched: +0.04 expected HP for its side
+  [COMMAND] B:Alembic Brigade Rally Cry on Carpet-Bomber 1: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Soudarion Cortege Gloria on Sepulchre Guard 1: paid off - gave Sepulchre Guard 1: BS +1, MS +1; set the Antiphon gloria on Sepulchre Guard 1; 1 attack(s) it touched: +1.87 expected HP for its side
+  [ACTION] A:Soudarion Cortege Exaltation on Abna al-Dawla Guard: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Soudarion Cortege Battlefield Baptism on Sepulchre Guard 1: paid off - healed 3 HP
+  [ACTION] B:Alembic Brigade Gather Ingredients: paid off - 1 al_kimiya_ingredients gained
+  [ACTION] A:Soudarion Cortege Sanctus on Covenant Levies 1: nothing - gave Covenant Levies 1: SPECIAL_SAVE +6; set the Antiphon sanctus on Covenant Levies 1
+Passive rules:
+  Crusade Eternal (Staurotheke War-Shrine): 3 attacks, 2.51 expected HP for its side
+  Gisant Ward (Sepulchre Guard 1): 1 attack, 0.53 expected HP for its side
+  Rashq Tactics (Muqatila Troopers 2): 1 attack, 0.12 expected HP for its side
+  Ilm al-Raml (Rammal Geomancer): fired 1 time (add_resource)
+  Ilm al-Raml (Royal Alchemist): fired 1 time (add_resource)
+Scored by:
+  B:Alembic Brigade missions FOCUSED FIRE 2 VP: Naqib 1 0.3, Muqatila Troopers 1 0.3, Naqib 2 0.3, Muqatila Troopers 2 0.3, Muqatila Troopers 3 0.3, Carpet-Bomber 1 0.3 (actors)
+  A:Soudarion Cortege objectives (7,7) 3 VP: Covenant Levies 1 1.0, Covenant Levies 2 1.0, Staurotheke War-Shrine 1.0
+  A:Soudarion Cortege objectives (1,7) 2 VP: Covenant Levies 3 1.0, Covenant Levies 1.0
+  A:Soudarion Cortege objectives (13,7) 2 VP: Jordanite Hospitallers 2 2.0; hinged on Jordanite Hospitallers 2
+  A:Soudarion Cortege primary LEAD FROM THE FRONT 2 VP: Sepulchre Guard 1 1.0, Lazarite Prelate 1 1.0
+  A:Soudarion Cortege missions IRON GRIP 1 VP (1 withheld by the round's VP cap): Covenant Levies 1 0.3, Covenant Levies 0.3, Covenant Levies 2 0.3
+Log:
+  [CLEANUP] ═══ ROUND 3 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 9 to 11)
+  [CLEANUP] BATTLE ROUND 3 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] Mana: Player B +1 (1 total) - DARB AL-RAML
+  [COMMAND] Mana: Player B +2 (3 total) - DARB AL-RAML
+  [COMMAND] Al-Kimiya Ingredients: Player B +1 (3 total) - Secrets of Al-Kimiya
+  [COMMAND] REGENERATION: Covenant Levies 1 regenerates 3 HP (rolled 6)
+  [COMMAND] REGENERATION: Covenant Levies 2 fails (rolled 2, needed 5+)
+  [COMMAND] REGENERATION: Covenant Levies 3 fails (rolled 3, needed 5+)
+  [COMMAND] COMMAND PHASE - Round 3 - A:5 CP, B:3 CP
+  [COMMAND] Command Phase: CP A:5 B:3
+  [COMMAND] Al-Kimiya Ingredients: Player B -1 (2 total) - Matter Transmutation
+  [COMMAND] Matter Transmutation: Zi'baq Beads (SUSTAINED ATTACK 1) on the Khanjar of Muqatila Troopers 4 for 1 Al-Kimiya Ingredients
+  [COMMAND] Al-Kimiya Ingredients: Player B -1 (1 total) - Matter Transmutation
+  [COMMAND] Matter Transmutation: Zi'baq Beads (SUSTAINED ATTACK 1) on the Khanjar of Muqatila Troopers for 1 Al-Kimiya Ingredients
+  [COMMAND] Al-Kimiya Ingredients: Player B -1 (0 total) - Matter Transmutation
+  [COMMAND] Matter Transmutation: Zi'baq Beads (SUSTAINED ATTACK 1) on the Harbiya Tabar of Abna al-Dawla Guard for 1 Al-Kimiya Ingredients
+  [COMMAND] Player A picks mission: IRON GRIP
+  [COMMAND] Player B picks mission: IRON CURTAIN
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Carpet-Bomber 1
+  [COMMAND] Muqatila Troopers 2 Morale Test (3+): 5 +1 = 6 - PASSED
+  [COMMAND] Carpet-Bomber 1 Morale Test - PASSED (RALLY CRY)
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Muqatila Troopers 3 moved to (3,5)
+  [MOVEMENT] Jordanite Hospitallers 1 moved to (5,10)
+  [MOVEMENT] Muqatila Troopers moved to (5,4)
+  [MOVEMENT] Sepulchre Guard 2 CHARGE FAILED: it does not move
+  [MOVEMENT] Muqatila Troopers 4 moved to (5,5)
+  [MOVEMENT] Sepulchre Guard 1 moved to (10,6)
+  [MOVEMENT] Sepulchre Guard 1 Charges Abna al-Dawla Guard
+  [MOVEMENT] Muqatila Troopers 1 moved to (8,5)
+  [MOVEMENT] Staurotheke War-Shrine moved to (8,7)
+  [MOVEMENT] Staurotheke War-Shrine Charges Royal Alchemist
+  [MOVEMENT] Carpet-Bomber 1 moved to (2,6)
+  [MOVEMENT] St. Barbara Field Gun moved to (3,11)
+  [MOVEMENT] [Royal Alchemist] FALL BACK TEST: INI 4 against 1, needs 2+, rolled 4 - breaks away
+  [MOVEMENT] Royal Alchemist moved to (10,4)
+  [MOVEMENT] [Royal Alchemist] Fall Back to (10,4)
+  [MOVEMENT] Jordanite Hospitallers 2 moved to (12,7)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] Muqatila Troopers 1 opens fire with 2 combat groups
+  [ACTION] 9x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies 1 (FR 9): [3✗][1✗][6✓][4✗][6✓][3✗][1✗][3✗][4✗] → 2/9 hits (needs 5+)
+  [ACTION]   Covenant Levies 1 SAVE (2 dice): [1✗][6✓] → 1/2 saved (needs 6+)
+  [ACTION]   Covenant Levies 1 takes 1 damage (16 → 15)
+  [ACTION] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies 1 roll: 5 (needs 4+) => HIT
+  [ACTION]   Covenant Levies 1 SAVE roll: 3 (needs 6+) => FAILED
+  [ACTION]   Covenant Levies 1 takes 1 damage (15 → 14)
+  [ACTION]   Levy destroyed
+  [ACTION] Lazarite Prelate 1 intones Gloria over Sepulchre Guard 1
+  [ACTION] Mana: Player A -4 (3 total) - spent
+  [ACTION] Lazarite Prelate 1 casts Gloria on Sepulchre Guard 1
+  [ACTION] Muqatila Troopers 3 opens fire with 2 combat groups
+  [ACTION] 8x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies (FR 8): [5✓][6✓][6✓][1✗][5✓][5✓][1✗][3✗] → 5/8 hits (needs 5+)
+  [ACTION]   Covenant Levies SAVE (5 dice): [5✗][2✗][4✗][2✗][3✗] → 0/5 saved (needs 6+)
+  [ACTION]   Covenant Levies takes 5 damage (20 → 15)
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies roll: 3 (needs 4+) => MISS
+  [ACTION] MIRACLE: Player A uses EXALTATION
+  [ACTION] Sepulchre Guard 1 attacks in melee with 1 combat group
+  [ACTION] Sepulchre Guard 1 engages Abna al-Dawla Guard in melee combat
+  [ACTION]   Initiative: Sepulchre Guard 1 (INI 6, +3 charge) → Abna al-Dawla Guard (INI 4)
+  [ACTION] Sepulchre Guard 1 SUSTAINED ATTACK 2: 6 extra dice from 3 critical hits
+  [ACTION] Mana: Player A +2 (5 total) - Gloria Response
+  [ACTION] GLORIA RESPONSE: +2 Mana
+  [ACTION]   Sepulchre Guard 1 (3x War Hammer) MELEE vs Abna al-Dawla Guard (AR 9): [6✓][6✓][6✓][5✓][5✓][5✓][5✓][5✓][4✓][4✓][4✓][4✓][2✗][1✗][1✗] → 12 hits [MS 7]
+  [ACTION]   Abna al-Dawla Guard: 9 damage (15 → 6)
+  [ACTION]   Abna destroyed
+  [ACTION]   Abna destroyed
+  [ACTION]   Abna destroyed
+  [ACTION]   Abna al-Dawla Guard counterattacks
+  [ACTION]   Abna al-Dawla Guard spends 1 APt to counterattack
+  [ACTION]   Abna al-Dawla Guard (Harbiya Tabar) MELEE vs Sepulchre Guard 1 (AR 2): [3✗][1✗] → 0 hits [MS 6]
+  [ACTION]   Abna al-Dawla Guard (Harbiya Tabar) MELEE vs Sepulchre Guard 1 (AR 2): [5✓][5✓] → 2 hits [MS 6]
+  [ACTION]   Sepulchre Guard 1: 4 damage (15 → 11)
+  [ACTION] Muqatila Troopers 2 opens fire with 2 combat groups
+  [ACTION] 1x Medina-Pattern Rifle (Arif) HIT vs Covenant Levies 3 roll: 4 (needs 4+) => HIT
+  [ACTION]   Covenant Levies 3 SAVE roll: 3 (needs 6+) => FAILED
+  [ACTION]   Covenant Levies 3 takes 1 damage (14 → 13)
+  [ACTION] 1x Medina-Pattern Rifle (Muqatila) SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION] 1x Medina-Pattern Rifle (Muqatila) HIT vs Covenant Levies 3 roll: 6 (needs 5+) => HIT
+  [ACTION]   Covenant Levies 3 SAVE roll: 6 (needs 6+) => SAVED
+  [ACTION] Covenant Levies opens fire with 2 combat groups
+  [ACTION] 7x Levy Rifle (Levy) HIT vs Muqatila Troopers 3 (FR 14): [3✗][6✓][4✗][6✓][1✗][6✓][2✗][6✓][5✓][5✓][4✗][5✓][3✗][6✓] → 8/14 hits (needs 5+)
+  [ACTION]   Muqatila Troopers 3 SAVE (8 dice): [5✓][6✓][1✗][6✓][1✗][5✓][1✗][2✗] → 4/8 saved (needs 5+)
+  [ACTION]   Muqatila Troopers 3 takes 4 damage (18 → 14)
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION] 1x Levy Rifle (Levy Elder) HIT vs Muqatila Troopers 3 (FR 2): [2✗][6✓] → 1/2 hits (needs 5+)
+  [ACTION]   Muqatila Troopers 3 SAVE roll: 1 (needs 5+) => FAILED
+  [ACTION]   Muqatila Troopers 3 takes 1 damage (14 → 13)
+  [ACTION] Naqib 2 opens fire with 1 combat group
+  [ACTION] 1x Hijaz Revolver (Naqib) HIT vs Covenant Levies 3 roll: 6 (needs 3+) => HIT
+  [ACTION]   Covenant Levies 3 SAVE roll: 1 (needs 6+) => FAILED
+  [ACTION]   Covenant Levies 3 takes 1 damage (13 → 12)
+  [ACTION]   Levy destroyed
+  [ACTION] Covenant Levies 3 opens fire with 2 combat groups
+  [ACTION] 5x Levy Rifle (Levy) HIT vs Muqatila Troopers 2 (FR 10): [6✓][1✗][6✓][4✗][4✗][2✗][3✗][5✓][4✗][6✓] → 4/10 hits (needs 5+)
+  [ACTION]   Muqatila Troopers 2 SAVE (4 dice): [2✗@5+→Muqatila][3✗@5+→Muqatila][1✗@5+→Muqatila][(2→)2✗@3+→Muqatila] → 0/4 saved
+  [ACTION]   Muqatila Troopers 2 takes 3 damage (3 → 0)
+  [ACTION]   Naqib 2 takes 1 damage (6 → 5)
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Arif destroyed
+  [ACTION]   Muqatila Troopers 2 has lost its leader - LEADERLESS
+  [ACTION]   Muqatila Troopers 2 DESTROYED
+  [ACTION] Naqib 1 opens fire with 1 combat group
+  [ACTION] 1x Hijaz Revolver (Naqib) HIT vs Covenant Levies 1 roll: 5 (needs 3+) => HIT
+  [ACTION]   Covenant Levies 1 SAVE roll: 6 (needs 6+) => SAVED
+  [ACTION] Jordanite Hospitallers 2 uses Battlefield Baptism!
+  [ACTION] [Sepulchre Guard 1] BATTLEFIELD BAPTISM: heals 3 HP
+  [ACTION] Jordanite Hospitallers 2 BATTLEFIELD BAPTISM: Target a friendly unit within 2 squares. That unit heals 1D6 HP.
+  [ACTION] Carpet-Bomber 1 fires 1 combat group at 1,8
+  [ACTION] [Carpet-Bomber 1] 1x Drop-Bombs (Carpet-Bomber): 1 attack on center
+  [ACTION]   SWEEP 1: +1 FR (1 per model x 1 model, vs 6 target models)
+  [ACTION] 1x Drop-Bombs (Carpet-Bomber) HIT vs Covenant Levies 3 (FR 2): [3✗][4✗] → 0/2 hits (needs 5+)
+  [ACTION] Covenant Levies 1 opens fire with 2 combat groups
+  [ACTION] 6x Levy Rifle (Levy) SUSTAINED ATTACK 2: 4 extra dice from 2 critical hits
+  [ACTION] 6x Levy Rifle (Levy) HIT vs Carpet-Bomber 1 (FR 12): [6✓][6✓][2✗][5✗][2✗][3✗][2✗][2✗][3✗][5✗][4✗][5✗][6✓][2✗][1✗][5✗] → 3/12 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION]   Carpet-Bomber 1 SAVE (3 dice): [5✓][2✗][2✗] → 1/3 saved (needs 5+)
+  [ACTION]   Carpet-Bomber 1 takes 2 damage (3 → 1)
+  [ACTION] 1x Levy Rifle (Levy Elder) HIT vs Carpet-Bomber 1 (FR 2): [3✗][5✗] → 0/2 hits (needs 5+) [HIT mod: -1 vs FLYING]
+  [ACTION] Muqatila Troopers 4 uses Gather Ingredients!
+  [ACTION] Al-Kimiya Ingredients: Player B +1 (1 total) - Gather Ingredients
+  [ACTION] Muqatila Troopers 4 GATHER INGREDIENTS: Once per Battle Round, during your Action Phase, 1 friendly Caliphate of the Two Sanctuaries unit with STANDARD, SPECIALIST, or ALCHEMIST can spend 1 APt to gain 1 Al-Kimiya Ingredient token.
+  [ACTION] Covenant Levies 2 opens fire with 2 combat groups
+  [ACTION] 6x Levy Rifle (Levy) SUSTAINED ATTACK 2: 2 extra dice from 1 critical hit
+  [ACTION] 6x Levy Rifle (Levy) HIT vs Muqatila Troopers 1 (FR 12): [2✗][4✗][2✗][5✗][3✗][3✗][2✗][5✗][5✗][6✓][2✗][3✗][5✗][4✗] → 1/12 hits (needs 5+) [HIT mod: -1 ruins CONCEALMENT]
+  [ACTION]   Muqatila Troopers 1 SAVE roll: 5 (5 (+1 from LIGHT COVER, capped) = 4+) => SAVED
+  [ACTION] 1x Levy Rifle (Levy Elder) HIT vs Muqatila Troopers 1 (FR 2): [4✗][2✗] → 0/2 hits (needs 5+) [HIT mod: -1 ruins CONCEALMENT]
+  [ACTION] Mana: Player B +4 (7 total) - Channel Mana
+  [ACTION] Rammal Geomancer channels Mana: +4
+  [ACTION] Lazarite Prelate 2 intones Sanctus over Covenant Levies 1
+  [ACTION] Mana: Player A -3 (2 total) - spent
+  [ACTION] Lazarite Prelate 2 casts Sanctus on Covenant Levies 1
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] St. Barbara Field Gun opens fire with 1 combat group
+  [ACTION] 1x Sanctified AP Shell (St. Barbara Field Gun) HIT vs Carpet-Bomber 1 roll: 5 (needs 4+) [HIT mod: -1 vs FLYING] => HIT
+  [ACTION]   Carpet-Bomber 1 SAVE roll: 3 (5 (+3 from AP, capped) = 7+) => FAILED
+  [ACTION]   Carpet-Bomber 1 takes 1 damage (1 → 0)
+  [ACTION]   Carpet-Bomber destroyed
+  [ACTION]   Carpet-Bomber 1 DESTROYED
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] MISSION COMPLETE: "FOCUSED FIRE" -> Player B +2 VP +1 CP!
+  [ACTION] Mana: Player A +3 (5 total) - PRAYING
+  [ACTION] PRAYING: Player A gains +3 Mana at Action Phase end
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (7,7): Player A +3 VP (OC 16 vs 0)
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 14 vs 1)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 19 | Player B: 8
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player A scores 2 VP (2/10)
+  [CLEANUP] VP CAP: Player A MISSION IRON GRIP - 1 of 2 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player A +1 VP +1 CP!
+
+=== BATTLE ROUND 4 ===
+A:Soudarion Cortege: VP +10 (obj 4, primary 3, missions 3) = 32; CP +3 -6 holds 3 [3 Troop Requisition → Covenant Levies; 3 Secure Objective → Covenant Levies 1]
+  mana: +9 -4 holds 10 [4 Cast Gloria]
+B:Alembic Brigade: VP +2 (obj 0, primary 0, missions 2) = 10; CP +4 -3 holds 3 [2 Rally cry (reaction) for Abna al-Dawla Guard; 1 Go to ground (reaction) for Muqatila Troopers 3]
+  mana: +7 -6 holds 8 [6 Cast Samum]
+  al_kimiya_ingredients: +1 -2 holds 0 [1 Matter Transmutation; 1 Matter Transmutation]
+A:Soudarion Cortege keeps mission TERRITORIAL SUPERIORITY (offered STRONGPOINT / TERRITORIAL SUPERIORITY)
+B:Alembic Brigade keeps mission IRON GRIP (offered FIRE FOR EFFECT / IRON GRIP)
+A:Soudarion Cortege mission LAST STAND: completed
+A:Soudarion Cortege mission TERRITORIAL SUPERIORITY: completed
+B:Alembic Brigade mission IRON CURTAIN: expired
+B:Alembic Brigade mission IRON GRIP: completed
+Moves:
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 3 + Rammal Geomancer 3,5 -> 2,6
+  [MOVEMENT] A:Soudarion Cortege Jordanite Hospitallers 1 5,10 -> 5,9
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 5,4 -> 7,5
+  [MOVEMENT] A:Soudarion Cortege Sepulchre Guard 2 + Lazarite Prelate 2 6,9 -> 7,6 (charge)
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 4 5,5 -> 6,6 (charge)
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies #2 7,12 -> 9,10
+  [MOVEMENT] B:Alembic Brigade Abna al-Dawla Guard 9,5 -> 6,4
+  [MOVEMENT] A:Soudarion Cortege Sepulchre Guard 1 + Lazarite Prelate 1 10,6 -> 9,6 (charge)
+  [MOVEMENT] B:Alembic Brigade Muqatila Troopers 1 + Naqib 1 8,5 -> 6,3
+  [MOVEMENT] A:Soudarion Cortege St. Barbara Field Gun 3,11 -> 3,9
+  [MOVEMENT] B:Alembic Brigade Royal Alchemist 10,4 -> 7,3
+  [MOVEMENT] A:Soudarion Cortege Staurotheke War-Shrine 8,7 -> 8,6 (charge)
+  [MOVEMENT] B:Alembic Brigade Naqib 2 1,6 -> 1,7 (charge)
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 2 7,8 -> 8,7
+  [MOVEMENT] A:Soudarion Cortege Covenant Levies 1 6,7 -> 6,8
+Combat:
+  [MOVEMENT] effect (Fall Back in disorder): effect -> Muqatila Troopers 1: Muqatila Troopers 1 -3
+  [ACTION] melee: B:Alembic Brigade Naqib 2 -> Covenant Levies 3: Covenant Levies 3 -6
+  [ACTION] magic (Gloria): A:Soudarion Cortege Lazarite Prelate 1 -> Sepulchre Guard 2: no damage
+  [ACTION] melee: B:Alembic Brigade Muqatila Troopers -> Staurotheke War-Shrine: Staurotheke War-Shrine -7
+  [ACTION] melee: A:Soudarion Cortege Sepulchre Guard 2 -> Muqatila Troopers 4: Muqatila Troopers 4 -4
+  [ACTION] magic (Samum): B:Alembic Brigade Royal Alchemist: no damage
+  [ACTION] melee: A:Soudarion Cortege Covenant Levies -> Naqib 2: no damage
+  [ACTION] ranged: B:Alembic Brigade Muqatila Troopers 3 -> St. Barbara Field Gun: St. Barbara Field Gun -2
+  [ACTION] ranged: A:Soudarion Cortege St. Barbara Field Gun -> Muqatila Troopers 3: no damage
+Idle (APt to spend, none spent): A:HQ (no legal action), A:Sepulchre Guard 1 (no legal action), A:Lazarite Prelate 2 (no legal action), A:Jordanite Hospitallers 1 (best: ability Cleansing Rain, 0), A:Covenant Levies 2 (no legal action), B:HQ (no legal action), B:Naqib 1 (no legal action)
+Moves undone:
+  B:Alembic Brigade Muqatila Troopers: R3 MOVEMENT 8,4 -> 5,4, R4 MOVEMENT -> 7,5 (back beside its start, 2 squares lost)
+Commands and abilities:
+  [COMMAND] A:Soudarion Cortege Benediction on Sepulchre Guard 1: paid off - healed 1 HP
+  [COMMAND] B:Alembic Brigade Matter Transmutation: Zi'baq Beads on Naqib 1: nothing - gave Naqib 1: weapons SUSTAINED ATTACK 1
+  [COMMAND] B:Alembic Brigade Matter Transmutation: Zi'baq Beads on Naqib 2: paid off - gave Naqib 2: weapons SUSTAINED ATTACK 1; 3 attack(s) it touched: +0.91 expected HP for its side
+  [COMMAND] A:Soudarion Cortege Troop Requisition on (7,12): nothing - placed Covenant Levies #2
+  [COMMAND] A:Soudarion Cortege Secure Objective on Covenant Levies 1: nothing - gave Covenant Levies 1: OC +1
+  [COMMAND] B:Alembic Brigade Rally Cry on Abna al-Dawla Guard: paid off - passed 1 Morale Test(s) outright
+  [ACTION] A:Soudarion Cortege Fortitude on Covenant Levies 3: paid off - 1 attack(s) it touched that the estimate cannot price
+  [ACTION] A:Soudarion Cortege Gloria on Sepulchre Guard 2: nothing - gave Sepulchre Guard 2: BS +1, MS +1; set the Antiphon gloria on Sepulchre Guard 2; 2 attack(s) it touched: +0 expected HP for its side
+  [ACTION] B:Alembic Brigade Samum on (7,7): paid off - put BLINDED on Lazarite Prelate 2, BLINDED on Sepulchre Guard 2, BLINDED on Covenant Levies 1, BLINDED on Covenant Levies 2, BLINDED on Staurotheke War-Shrine, BLINDED on Muqatila Troopers 4; decided 12 objective VP
+  [ACTION] B:Alembic Brigade Go to Ground on Muqatila Troopers 3: paid off - 1 attack(s) it touched: +0.17 expected HP for its side
+Passive rules:
+  Perfervid Warrior (Naqib 2): 1 attack, 0.91 expected HP for its side
+  Jawshan Cuirass (Naqib 2): 2 attacks, 0.81 expected HP for its side
+  Crusade Eternal (Staurotheke War-Shrine): 2 attacks, 2.26 expected HP for its side
+  Gisant Ward (Sepulchre Guard 2): 1 attack, 0.18 expected HP for its side
+  Ilm al-Raml (Rammal Geomancer): fired 1 time (add_resource)
+  Ilm al-Raml (Royal Alchemist): fired 1 time (add_resource)
+Scored by:
+  A:Soudarion Cortege objectives (1,7) 2 VP: Covenant Levies 3 1.0, Covenant Levies 1.0; hinged on Covenant Levies 3, Covenant Levies
+  A:Soudarion Cortege objectives (13,7) 2 VP: Jordanite Hospitallers 2 2.0; hinged on Jordanite Hospitallers 2
+  A:Soudarion Cortege primary LEAD FROM THE FRONT 3 VP: Lazarite Prelate 1 0.8, Sepulchre Guard 2 0.8, Sepulchre Guard 1 0.7, Lazarite Prelate 2 0.7
+  A:Soudarion Cortege missions TERRITORIAL SUPERIORITY 3 VP: Covenant Levies 1.6, Covenant Levies 3 1.4
+  B:Alembic Brigade missions IRON GRIP 2 VP: Muqatila Troopers 3 2.0
+Log:
+  [CLEANUP] ═══ ROUND 4 BEGINS ═══
+  [CLEANUP] PRIORITY: Player B (fewer units on the battlefield, 8 to 11)
+  [CLEANUP] BATTLE ROUND 4 - BEGIN
+  [COMMAND] COMMAND bonus: Player A gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] COMMAND bonus: Player B gains +3 CP from 3 COMMAND unit(s)
+  [COMMAND] Mana: Player B +2 (9 total) - DARB AL-RAML
+  [COMMAND] Mana: Player B +1 (10 total) - DARB AL-RAML
+  [COMMAND] Al-Kimiya Ingredients: Player B +1 (2 total) - Secrets of Al-Kimiya
+  [COMMAND] MIRACLE: Player A uses BENEDICTION
+  [COMMAND] [Sepulchre Guard 1] BENEDICTION: heals 1 HP
+  [COMMAND] REGENERATION: Covenant Levies 1 regenerates 2 HP (rolled 6)
+  [COMMAND] REGENERATION: Covenant Levies 2 fails (rolled 2, needed 5+)
+  [COMMAND] REGENERATION: Covenant Levies 3 fails (rolled 4, needed 5+)
+  [COMMAND] REGENERATION: Covenant Levies fails (rolled 4, needed 5+)
+  [COMMAND] COMMAND PHASE - Round 4 - A:9 CP, B:5 CP
+  [COMMAND] Command Phase: CP A:9 B:5
+  [COMMAND] Al-Kimiya Ingredients: Player B -1 (1 total) - Matter Transmutation
+  [COMMAND] Matter Transmutation: Zi'baq Beads (SUSTAINED ATTACK 1) on the Damascus Sabre of Naqib 1 for 1 Al-Kimiya Ingredients
+  [COMMAND] Al-Kimiya Ingredients: Player B -1 (0 total) - Matter Transmutation
+  [COMMAND] Matter Transmutation: Zi'baq Beads (SUSTAINED ATTACK 1) on the Damascus Sabre of Naqib 2 for 1 Al-Kimiya Ingredients
+  [COMMAND] Player A picks mission: TERRITORIAL SUPERIORITY
+  [COMMAND] Player B picks mission: IRON GRIP
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player B passes COMMAND phase
+  [COMMAND] HQ Command: Troop Requisition -> covenant_of_new_jerusalem:covenant_levies (cost 3 CP) by Player A
+  [COMMAND] TROOP REQUISITION: Covenant Levies deployed at (7,12) - 0 APt this Battle Round
+  [COMMAND] HQ Command: Secure Objective -> Covenant Levies 1 (cost 3 CP) by Player A
+  [COMMAND] SECURE OBJECTIVE: each model in Covenant Levies 1 gains +1 OC this Battle Round
+  [COMMAND] [AI] Command Phase - pass
+  [COMMAND] Player A passes COMMAND phase
+  [COMMAND] Both players passed - ending COMMAND phase
+  [COMMAND] REACTION COMMAND: RALLY CRY via HQ (cost 2 CP) - Abna al-Dawla Guard
+  [COMMAND] Abna al-Dawla Guard Morale Test - PASSED (RALLY CRY)
+  [MOVEMENT] MOVEMENT PHASE - Player B has Priority
+  [MOVEMENT] Muqatila Troopers 3 moved to (2,6)
+  [MOVEMENT] Jordanite Hospitallers 1 moved to (5,9)
+  [MOVEMENT] Muqatila Troopers moved to (7,5)
+  [MOVEMENT] Sepulchre Guard 2 moved to (7,6)
+  [MOVEMENT] Sepulchre Guard 2 Charges Naqib 1, Muqatila Troopers 1, Muqatila Troopers
+  [MOVEMENT] Muqatila Troopers 4 moved to (6,6)
+  [MOVEMENT] Muqatila Troopers 4 Charges Lazarite Prelate 2, Sepulchre Guard 2, Covenant Levies 1
+  [MOVEMENT] Covenant Levies moved to (9,10)
+  [MOVEMENT] [Abna al-Dawla Guard] FALL BACK TEST: INI 4 against 3, needs 3+, rolled 4 - breaks away
+  [MOVEMENT] Abna al-Dawla Guard moved to (6,4)
+  [MOVEMENT] [Abna al-Dawla Guard] Fall Back to (6,4)
+  [MOVEMENT] Sepulchre Guard 1 moved to (9,6)
+  [MOVEMENT] Sepulchre Guard 1 Charges Naqib 1, Muqatila Troopers 1
+  [MOVEMENT] [Muqatila Troopers 1] FALL BACK TEST: INI 4 against 3 (-1), needs 4+, rolled 3 - FAILED
+  [MOVEMENT]   Muqatila destroyed
+  [MOVEMENT]   Muqatila Troopers 1 SAVES (slow roll): [no save→Muqatila][no save→Muqatila][no save→Muqatila] → 0/3 saved, 1 models killed
+  [MOVEMENT] [Muqatila Troopers 1] breaks away in disorder: 3 True Damage, 3 HP lost, 1 model destroyed
+  [MOVEMENT] Muqatila Troopers 1 moved to (6,3)
+  [MOVEMENT] [Muqatila Troopers 1] Fall Back to (6,3)
+  [MOVEMENT] St. Barbara Field Gun moved to (3,9)
+  [MOVEMENT] Royal Alchemist moved to (7,3)
+  [MOVEMENT] Staurotheke War-Shrine moved to (8,6)
+  [MOVEMENT] Staurotheke War-Shrine Charges Muqatila Troopers
+  [MOVEMENT] Naqib 2 moved to (1,7)
+  [MOVEMENT] Naqib 2 Charges Covenant Levies 3, Covenant Levies
+  [MOVEMENT] Covenant Levies 2 moved to (8,7)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player B passes MOVEMENT phase
+  [MOVEMENT] [Covenant Levies 1] FALL BACK TEST: INI 5 against 4, needs 3+, rolled 6 - breaks away
+  [MOVEMENT] Covenant Levies 1 moved to (6,8)
+  [MOVEMENT] [Covenant Levies 1] Fall Back to (6,8)
+  [MOVEMENT] [AI] Movement Phase - pass
+  [MOVEMENT] Player A passes MOVEMENT phase
+  [MOVEMENT] Both players passed - ending MOVEMENT phase
+  [ACTION] ACTION PHASE - Player B has Priority
+  [ACTION] MIRACLE: Player A uses FORTITUDE
+  [ACTION] Naqib 2 attacks in melee with 1 combat group
+  [ACTION] Naqib 2 engages Covenant Levies 3 in melee combat
+  [ACTION]   Initiative: Naqib 2 (INI 8, +3 charge) → Covenant Levies 3 (INI 5)
+  [ACTION]   Naqib 2 (Damascus Sabre) MELEE vs Covenant Levies 3 (AR 3): [5✓][5✓][3✓] → 3 hits [MS 6]
+  [ACTION]   Covenant Levies 3: 6 damage (12 → 6)
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Levy destroyed
+  [ACTION]   Covenant Levies 3 counterattacks
+  [ACTION]   Covenant Levies 3 spends 1 APt to counterattack
+  [ACTION]   Covenant Levies 3 (2x Levy Bayonet) MELEE vs Naqib 2 (AR 2): [5✓][4✗] → 1 hits [MS 3]
+  [ACTION]   Covenant Levies 3 (Levy Bayonet) MELEE vs Naqib 2 (AR 1): [5✓] → 1 hits [MS 3]
+  [ACTION] Lazarite Prelate 1 intones Gloria over Sepulchre Guard 2
+  [ACTION] Mana: Player A -4 (1 total) - spent
+  [ACTION] Lazarite Prelate 1 casts Gloria on Sepulchre Guard 2
+  [ACTION] Muqatila Troopers attacks in melee with 2 combat groups
+  [ACTION] Muqatila Troopers engages Staurotheke War-Shrine in melee combat
+  [ACTION]   Initiative: Muqatila Troopers (INI 4) → Staurotheke War-Shrine (INI 4, +3 charge)
+  [ACTION] Muqatila Troopers SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Muqatila Troopers (9x Khanjar) MELEE vs Staurotheke War-Shrine (AR 9): [6✓][5✓][4✓][2✓][2✓][2✓][2✓][2✓][1✗][1✗] → 8 hits [MS 4]
+  [ACTION]   Staurotheke War-Shrine: 6 damage (8 → 2)
+  [ACTION] Muqatila Troopers SUSTAINED ATTACK 1: 1 extra dice from 1 critical hit
+  [ACTION]   Muqatila Troopers (Khanjar) MELEE vs Staurotheke War-Shrine (AR 1): [6✓][1✗] → 1 hits [MS 4]
+  [ACTION]   Staurotheke War-Shrine: 1 damage (2 → 1)
+  [ACTION]   Staurotheke War-Shrine counterattacks
+  [ACTION]   Staurotheke War-Shrine spends 1 APt to counterattack
+  [ACTION]   Staurotheke War-Shrine (Attendant's Bayonet) MELEE vs Muqatila Troopers (AR 1): [2✗] → 0 hits [MS 1]
+  [ACTION] Sepulchre Guard 2 attacks in melee with 1 combat group
+  [ACTION] Sepulchre Guard 2 engages Muqatila Troopers 4 in melee combat
+  [ACTION]   Initiative: Muqatila Troopers 4 (INI 7, +3 charge) → Sepulchre Guard 2 (INI 6, +3 charge)
+  [ACTION]   Muqatila Troopers 4 counterattacks
+  [ACTION]   Muqatila Troopers 4 spends 1 APt to counterattack
+  [ACTION]   Muqatila Troopers 4 (9x Khanjar) MELEE vs Sepulchre Guard 2 (AR 9): [5✓][↻5✓][4✗][4✗][2✗][1✗][1✗][↻1✗][1✗] → 2 hits [MS 4]
+  [ACTION]   Muqatila Troopers 4 (Khanjar) MELEE vs Sepulchre Guard 2 (AR 1): [5✓] → 1 hits [MS 4]
+  [ACTION] Mana: Player A +2 (3 total) - Gloria Response
+  [ACTION] GLORIA RESPONSE: +2 Mana
+  [ACTION]   Sepulchre Guard 2 (3x War Hammer) MELEE vs Muqatila Troopers 4 (AR 6): [5✓][4✓][2✗][2✗][1✗][1✗] → 2 hits [MS 7]
+  [ACTION]   Muqatila Troopers 4: 4 damage (20 → 16)
+  [ACTION]   Muqatila destroyed
+  [ACTION]   Muqatila destroyed
+  [ACTION] Mana: Player B -6 (4 total) - spent
+  [ACTION] Royal Alchemist casts Samum on (7,7)
+  [ACTION] Covenant Levies attacks in melee with 2 combat groups
+  [ACTION] Covenant Levies engages Naqib 2 in melee combat
+  [ACTION]   Covenant Levies (7x Levy Bayonet) MELEE vs Naqib 2 (AR 7): [5✓][5✓][4✗][3✗][3✗][2✗][2✗] → 2 hits [MS 3]
+  [ACTION]   Covenant Levies (Levy Bayonet) MELEE vs Naqib 2 (AR 1): [1✗] → 0 hits [MS 3]
+  [ACTION]   Naqib 2 has no APt left - no counterattack
+  [ACTION] Muqatila Troopers 3 opens fire with 2 combat groups
+  [ACTION] 6x Medina-Pattern Rifle (Muqatila) HIT vs St. Barbara Field Gun (FR 6): [2✗][2✗][2✗][3✗][5✓][6✓] → 2/6 hits (needs 5+)
+  [ACTION]   St. Barbara Field Gun SAVE (2 dice): [2✗][2✗] → 0/2 saved (needs 5+)
+  [ACTION]   St. Barbara Field Gun takes 2 damage (5 → 3)
+  [ACTION] 1x Medina-Pattern Rifle (Arif) HIT vs St. Barbara Field Gun roll: 5 (needs 4+) => HIT
+  [ACTION]   St. Barbara Field Gun SAVE roll: 6 (needs 5+) => SAVED
+  [ACTION] REACTION COMMAND: GO TO GROUND via HQ (cost 1 CP) - Muqatila Troopers 3
+  [ACTION] St. Barbara Field Gun opens fire with 1 combat group
+  [ACTION] 1x Sanctified AP Shell (St. Barbara Field Gun) HIT vs Muqatila Troopers 3 roll: 4 (needs 4+) [HIT mod: -1 GO TO GROUND] => MISS
+  [ACTION] Mana: Player B +4 (8 total) - Channel Mana
+  [ACTION] Rammal Geomancer channels Mana: +4
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player A passes ACTION phase
+  [ACTION] [AI] Action Phase - pass
+  [ACTION] Player B passes ACTION phase
+  [ACTION] Both players passed - ending ACTION phase
+  [ACTION] Mana: Player A +7 (10 total) - PRAYING
+  [ACTION] PRAYING: Player A gains +7 Mana at Action Phase end
+  [CLEANUP] CLEANUP PHASE
+  [CLEANUP] ★ Objective (1,7): Player A +2 VP (OC 11 vs 9)
+  [CLEANUP] ★ Objective (13,7): Player A +2 VP (OC 3 vs 0)
+  [CLEANUP] VP - Player A: 26 | Player B: 8
+  [CLEANUP] PRIMARY LEAD FROM THE FRONT: Player A scores 3 VP (5/10)
+  [CLEANUP] MISSION COMPLETE: "TERRITORIAL SUPERIORITY" -> Player A +3 VP!
+  [CLEANUP] VP CAP: Player A MISSION LAST STAND - 3 of 3 VP withheld (at most 10 VP a Battle Round)
+  [CLEANUP] MISSION COMPLETE: "LAST STAND" -> Player A +0 VP!
+  [CLEANUP] MISSION COMPLETE: "IRON GRIP" -> Player B +2 VP +1 CP!
+  [CLEANUP] Mission "IRON CURTAIN" EXPIRED (R4)
+
+Damage leaders:
+  A:Soudarion Cortege Covenant Levies: 12 damage, 0 kills, 10 RP, 1.20/RP
+  B:Alembic Brigade Muqatila Troopers 3: 12 damage, 0 kills, 13 RP, 0.92/RP
+  A:Soudarion Cortege Covenant Levies 2: 11 damage, 0 kills, 10 RP, 1.10/RP
+  A:Soudarion Cortege Sepulchre Guard 1: 9 damage, 0 kills, 45 RP, 0.20/RP
+  A:Soudarion Cortege Covenant Levies 3: 8 damage, 1 kills, 10 RP, 0.80/RP
+  A:Soudarion Cortege St. Barbara Field Gun: 8 damage, 1 kills, 18 RP, 0.44/RP
+  B:Alembic Brigade Naqib 2: 8 damage, 0 kills, 25 RP, 0.32/RP
+  A:Soudarion Cortege Covenant Levies 1: 7 damage, 1 kills, 10 RP, 0.70/RP
+  B:Alembic Brigade Muqatila Troopers: 7 damage, 0 kills, 13 RP, 0.54/RP
+  B:Alembic Brigade Muqatila Troopers 2: 7 damage, 0 kills, 13 RP, 0.54/RP (destroyed)
+  B:Alembic Brigade Muqatila Troopers 4: 7 damage, 0 kills, 13 RP, 0.54/RP
+  B:Alembic Brigade Abna al-Dawla Guard: 4 damage, 0 kills, 36 RP, 0.11/RP
+  A:Soudarion Cortege Sepulchre Guard 2: 4 damage, 0 kills, 45 RP, 0.09/RP
+  B:Alembic Brigade Muqatila Troopers 1: 2 damage, 0 kills, 13 RP, 0.15/RP
+  B:Alembic Brigade Carpet-Bomber 2: 1 damage, 0 kills, 30 RP, 0.03/RP (destroyed)
+VP contributed (fair share; objective VP that hinged on it):
+  A:Soudarion Cortege Jordanite Hospitallers 2: 8.0 VP (obj 8.0, primary 0.0, missions 0.0), hinged 8, 53.3/100 RP
+  A:Soudarion Cortege Covenant Levies: 4.9 VP (obj 3.0, primary 0.0, missions 1.9), hinged 2, 48.9/100 RP
+  A:Soudarion Cortege Covenant Levies 3: 4.4 VP (obj 3.0, primary 0.0, missions 1.4), hinged 2, 44.4/100 RP
+  A:Soudarion Cortege Covenant Levies 1: 4.3 VP (obj 4.0, primary 0.0, missions 0.3), hinged 3, 43.4/100 RP
+  A:Soudarion Cortege Covenant Levies 2: 4.3 VP (obj 4.0, primary 0.0, missions 0.3), hinged 3, 43.3/100 RP
+  B:Alembic Brigade Muqatila Troopers 2: 2.3 VP (obj 2.0, primary 0.0, missions 0.3), hinged 2, 17.9/100 RP
+  B:Alembic Brigade Muqatila Troopers 3: 2.3 VP (obj 0.0, primary 0.0, missions 2.3), hinged 0, 17.9/100 RP
+  A:Soudarion Cortege Lazarite Prelate 1: 1.8 VP (obj 0.0, primary 1.8, missions 0.0), hinged 0, 7.2/100 RP
+  A:Soudarion Cortege Sepulchre Guard 1: 1.7 VP (obj 0.0, primary 1.7, missions 0.0), hinged 0, 3.9/100 RP
+  A:Soudarion Cortege Staurotheke War-Shrine: 1.0 VP (obj 1.0, primary 0.0, missions 0.0), hinged 0, 3.3/100 RP
+  A:Soudarion Cortege Sepulchre Guard 2: 0.8 VP (obj 0.0, primary 0.8, missions 0.0), hinged 0, 1.7/100 RP
+  A:Soudarion Cortege Lazarite Prelate 2: 0.7 VP (obj 0.0, primary 0.7, missions 0.0), hinged 0, 2.7/100 RP
+  B:Alembic Brigade Carpet-Bomber 1: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 1.1/100 RP
+  B:Alembic Brigade Muqatila Troopers 1: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 2.6/100 RP
+  B:Alembic Brigade Naqib 1: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 1.0/100 RP
+  B:Alembic Brigade Naqib 2: 0.3 VP (obj 0.0, primary 0.0, missions 0.3), hinged 0, 1.3/100 RP
+  B:Alembic Brigade no unit: obj 0, primary 2, missions 2
+Activity (inaction score; actions: movement/ranged/melee/ability/magic/objective held):
+  A:Soudarion Cortege Sepulchre Guard 1: inaction 3 (3 idle, 3 after moving, 0 Overwatch); actions 0/0/1/0/0/0
+  A:Soudarion Cortege Sepulchre Guard 2: inaction 3 (3 idle, 2 after moving, 0 Overwatch); actions 0/0/1/0/0/0
+  B:Alembic Brigade Abna al-Dawla Guard: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 1/0/1/0/0/0
+  B:Alembic Brigade Carpet-Bomber 1: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/1/0/1/0/0
+  A:Soudarion Cortege Jordanite Hospitallers 1: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/0/1/0/1
+  A:Soudarion Cortege Lazarite Prelate 2: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/0/0/2/0
+  A:Soudarion Cortege Staurotheke War-Shrine: inaction 2 (2 idle, 2 after moving, 0 Overwatch); actions 0/0/1/0/0/1
+  B:Alembic Brigade Naqib 1: inaction 1.75 (2 idle, 2 after moving, 1 Overwatch); actions 0/1/0/0/0/1
+  B:Alembic Brigade Muqatila Troopers: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/1/0/0/0
+  B:Alembic Brigade Carpet-Bomber 2: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/0/1/0/0
+  A:Soudarion Cortege Lazarite Prelate 1: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/3/0
+  B:Alembic Brigade Muqatila Troopers 4: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/1/1/1/0/0
+  B:Alembic Brigade Rammal Geomancer: inaction 1 (1 idle, 1 after moving, 0 Overwatch); actions 0/0/0/0/3/1
+  B:Alembic Brigade Muqatila Troopers 3: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/3/0/0/0/1
+  A:Soudarion Cortege Covenant Levies 2: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/0/0/0/3
+  A:Soudarion Cortege Covenant Levies 3: inaction 0.75 (1 idle, 1 after moving, 1 Overwatch); actions 0/2/1/0/0/3
+  A:Soudarion Cortege Jordanite Hospitallers 2: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/0/0/1/0/4
+  A:Soudarion Cortege St. Barbara Field Gun: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/4/0/1/0/0
+  A:Soudarion Cortege Covenant Levies: inaction 0 (0 idle, 0 after moving, 0 Overwatch); actions 0/2/1/0/0/3
+  B:Alembic Brigade Muqatila Troopers 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 2/1/0/0/0/1
+  B:Alembic Brigade Muqatila Troopers 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/2/0/0/0/2
+  B:Alembic Brigade Royal Alchemist: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 1/0/0/1/1/2
+  A:Soudarion Cortege Covenant Levies 1: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 1/2/0/0/0/3
+  B:Alembic Brigade Naqib 2: inaction -0.25 (0 idle, 0 after moving, 1 Overwatch); actions 0/2/1/0/0/4
+Moves undone (the next move took the unit back beside its start, or away from the objective it had moved toward): 5
+  B:Alembic Brigade Carpet-Bomber 1: 1 of 3 moves (0 back, 1 away from an objective), 5 squares lost
+  B:Alembic Brigade Muqatila Troopers: 1 of 3 moves (1 back, 0 away from an objective), 2 squares lost
+  A:Soudarion Cortege St. Barbara Field Gun: 1 of 4 moves (0 back, 1 away from an objective), 2 squares lost
+  A:Soudarion Cortege Covenant Levies 2: 1 of 3 moves (0 back, 1 away from an objective), 1 squares lost
+  B:Alembic Brigade Muqatila Troopers 3: 1 of 4 moves (0 back, 1 away from an objective), 1 squares lost
+Secondary missions:
+  A:Soudarion Cortege LAST STAND (+3 VP): kept R1, completed R4 - At the end of a Battle Round, control an objective that has a friendly unit Below Half-Strength in its Objective Area.
+  A:Soudarion Cortege MAN OF THE HOUR (+4 VP): kept R2, active - Have one friendly unit destroy at least 2 enemy units during this Mission's duration.
+  A:Soudarion Cortege IRON GRIP (+2 VP): kept R3, completed R3 - Maintain a minimum of 7 OC on a single Objective.
+  A:Soudarion Cortege TERRITORIAL SUPERIORITY (+3 VP): kept R4, completed R4 - At the end of a Battle Round, control more Objectives than your opponent.
+  B:Alembic Brigade BAR THE GATES (+2 VP): kept R1, completed R1 - At the end of a Battle Round, have no enemy unit in your half of the battlefield.
+  B:Alembic Brigade FOCUSED FIRE (+2 VP): kept R2, completed R3 - Have at least 3 friendly units target one enemy unit with attacks or abilities in a single Action Phase.
+  B:Alembic Brigade IRON CURTAIN (+2 VP): kept R3, expired R4 - No friendly unit is destroyed during the entire duration of this Mission.
+  B:Alembic Brigade IRON GRIP (+2 VP): kept R4, completed R4 - Maintain a minimum of 7 OC on a single Objective.
