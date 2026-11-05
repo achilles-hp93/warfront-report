@@ -1,0 +1,3642 @@
+{
+ "config": {
+  "name": "Champion League Season 1",
+  "format": "league",
+  "entrants": "all",
+  "size": 48,
+  "map": "CROSSROADS",
+  "bestOf": 3,
+  "doctrine": "none",
+  "notes": "Every preset army. League phase (league.cjs): four pots of twelve, eight battles each - two from every pot, one as Player A and one as Player B - over eight matchdays; no rematches, no two armies of one faction. Then a seeded best-of-3 knockout: 1st-8th to the round of 16, 9th-24th in the play-off. Vanilla: no doctrine. Each Day is looked at, and bugs or AI issues fixed, before the next.",
+  "mapRotation": [
+   "CROSSROADS",
+   "ACROPOLIS",
+   "TRIPLE HILLS"
+  ]
+ },
+ "seed": 460653000,
+ "drawnAt": "2026-10-28T02:48:21.953Z",
+ "entrants": [
+  {
+   "faction": "atashid_empire",
+   "formation": "preset:flamebringer_immortals",
+   "name": "Flamewrought Company"
+  },
+  {
+   "faction": "atashid_empire",
+   "formation": "preset:spahbed_host",
+   "name": "Mihran Spah"
+  },
+  {
+   "faction": "british_liberation_front",
+   "formation": "preset:caerfyrddin_fencibles",
+   "name": "Caerfyrddin Fencibles"
+  },
+  {
+   "faction": "british_liberation_front",
+   "formation": "preset:merlin_army",
+   "name": "Knights of Camelot"
+  },
+  {
+   "faction": "caliphate_of_the_two_sanctuaries",
+   "formation": "preset:alembic_brigade",
+   "name": "Alembic Brigade"
+  },
+  {
+   "faction": "caliphate_of_the_two_sanctuaries",
+   "formation": "preset:horns_of_hattin",
+   "name": "Horns of Hattin"
+  },
+  {
+   "faction": "caliphate_of_the_two_sanctuaries",
+   "formation": "preset:saladin_army",
+   "name": "Sword of Allah"
+  },
+  {
+   "faction": "church_of_the_beast",
+   "formation": "preset:herald_army",
+   "name": "Wolfshead Pack"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:brazen_tower_battery",
+   "name": "Belfry Battery"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:chonae_wing",
+   "name": "Chonae Wing"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:dragonslayer_lances",
+   "name": "Cappadocian Riders"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:penitent_crusade",
+   "name": "Miserere Column"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:popinjay_guild",
+   "name": "Popinjay Guild"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:soudarion_cortege",
+   "name": "Soudarion Cortege"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:true_cross_host",
+   "name": "Martyrs' Legion"
+  },
+  {
+   "faction": "covenant_of_new_jerusalem",
+   "formation": "preset:weeping_veil_host",
+   "name": "Akathist Convent"
+  },
+  {
+   "faction": "duat_dominion",
+   "formation": "preset:ramesses_army",
+   "name": "March of the Restless Dead"
+  },
+  {
+   "faction": "empire_of_nihon",
+   "formation": "preset:taichou_army",
+   "name": "Kishomon Company"
+  },
+  {
+   "faction": "euskal_herria",
+   "formation": "preset:zumalakarregi_army",
+   "name": "Oak of Gernika"
+  },
+  {
+   "faction": "golden_khaganate",
+   "formation": "preset:genghis_army",
+   "name": "Golden Tumen"
+  },
+  {
+   "faction": "grand_duchy_of_albion",
+   "formation": "preset:cosan_si_host",
+   "name": "Cosán Sí Host"
+  },
+  {
+   "faction": "grand_duchy_of_albion",
+   "formation": "preset:finvarra_army",
+   "name": "Summer Rade"
+  },
+  {
+   "faction": "grand_duchy_of_albion",
+   "formation": "preset:glandore_breakers",
+   "name": "Glandore Breakers"
+  },
+  {
+   "faction": "great_cossack_host",
+   "formation": "preset:sirko_army",
+   "name": "Bulava of the Rada"
+  },
+  {
+   "faction": "infernal_congregations",
+   "formation": "preset:chairman_army",
+   "name": "Bailiffs of Petra"
+  },
+  {
+   "faction": "infernal_congregations",
+   "formation": "preset:dawn_king_army",
+   "name": "Lightbearers of Antioch"
+  },
+  {
+   "faction": "infernal_congregations",
+   "formation": "preset:hegemon_army",
+   "name": "Murderhost of Halfa"
+  },
+  {
+   "faction": "infernal_congregations",
+   "formation": "preset:high_admiral_army",
+   "name": "Ghosts of Lemesos"
+  },
+  {
+   "faction": "infernal_congregations",
+   "formation": "preset:plague_monarch_army",
+   "name": "Sineaters of Damascus"
+  },
+  {
+   "faction": "infernal_congregations",
+   "formation": "preset:pontifex_procession",
+   "name": "Procession of Ugarit"
+  },
+  {
+   "faction": "infernal_congregations",
+   "formation": "preset:veiled_court",
+   "name": "Veiled Court"
+  },
+  {
+   "faction": "iron_imperium",
+   "formation": "preset:alea_iacta",
+   "name": "Alea Iacta"
+  },
+  {
+   "faction": "iron_imperium",
+   "formation": "preset:armoured_cohort",
+   "name": "Armoured Cohort"
+  },
+  {
+   "faction": "iron_imperium",
+   "formation": "preset:artificer_forge",
+   "name": "Blaze of Etna"
+  },
+  {
+   "faction": "iron_imperium",
+   "formation": "preset:celeritas_squadron",
+   "name": "Celeritas Squadron"
+  },
+  {
+   "faction": "iron_imperium",
+   "formation": "preset:legatus_legion",
+   "name": "Legio XIII"
+  },
+  {
+   "faction": "iron_imperium",
+   "formation": "preset:palatine_guard",
+   "name": "Protectores Divini Lateris"
+  },
+  {
+   "faction": "iron_imperium",
+   "formation": "preset:scorpion_shields",
+   "name": "Scorpion Shields"
+  },
+  {
+   "faction": "jade_mandate",
+   "formation": "preset:five_banner_army",
+   "name": "Longwu Army"
+  },
+  {
+   "faction": "kalevan_kansa",
+   "formation": "preset:vainamoinen_army",
+   "name": "Sampo's Song"
+  },
+  {
+   "faction": "kingdom_of_hayk",
+   "formation": "preset:andranik_army",
+   "name": "Vigil of Masis"
+  },
+  {
+   "faction": "mat_akkadi",
+   "formation": "preset:gilgamesh_army",
+   "name": "Walls of Uruk"
+  },
+  {
+   "faction": "panhellenic_league",
+   "formation": "preset:heron_army",
+   "name": "Mouseion Contingent"
+  },
+  {
+   "faction": "polish_lithuanian_ruthenian_commonwealth",
+   "formation": "preset:kosciuszko_army",
+   "name": "Oath of Kraków"
+  },
+  {
+   "faction": "principality_of_novgorod",
+   "formation": "preset:opoki_hundred",
+   "name": "Opoki Hundred"
+  },
+  {
+   "faction": "principality_of_novgorod",
+   "formation": "preset:rurik_army",
+   "name": "Winter Host"
+  },
+  {
+   "faction": "runeforge_directorate",
+   "formation": "preset:magdeburg_warhost",
+   "name": "Magdeburg Warhost"
+  },
+  {
+   "faction": "runeforge_directorate",
+   "formation": "preset:valkyrie_army",
+   "name": "Judgement of Odin"
+  }
+ ],
+ "pots": [
+  [
+   {
+    "faction": "iron_imperium",
+    "formation": "preset:legatus_legion",
+    "name": "Legio XIII"
+   },
+   {
+    "faction": "runeforge_directorate",
+    "formation": "preset:valkyrie_army",
+    "name": "Judgement of Odin"
+   },
+   {
+    "faction": "british_liberation_front",
+    "formation": "preset:merlin_army",
+    "name": "Knights of Camelot"
+   },
+   {
+    "faction": "caliphate_of_the_two_sanctuaries",
+    "formation": "preset:horns_of_hattin",
+    "name": "Horns of Hattin"
+   },
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:weeping_veil_host",
+    "name": "Akathist Convent"
+   },
+   {
+    "faction": "duat_dominion",
+    "formation": "preset:ramesses_army",
+    "name": "March of the Restless Dead"
+   },
+   {
+    "faction": "panhellenic_league",
+    "formation": "preset:heron_army",
+    "name": "Mouseion Contingent"
+   },
+   {
+    "faction": "kalevan_kansa",
+    "formation": "preset:vainamoinen_army",
+    "name": "Sampo's Song"
+   },
+   {
+    "faction": "infernal_congregations",
+    "formation": "preset:hegemon_army",
+    "name": "Murderhost of Halfa"
+   },
+   {
+    "faction": "grand_duchy_of_albion",
+    "formation": "preset:finvarra_army",
+    "name": "Summer Rade"
+   },
+   {
+    "faction": "iron_imperium",
+    "formation": "preset:scorpion_shields",
+    "name": "Scorpion Shields"
+   },
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:brazen_tower_battery",
+    "name": "Belfry Battery"
+   }
+  ],
+  [
+   {
+    "faction": "infernal_congregations",
+    "formation": "preset:veiled_court",
+    "name": "Veiled Court"
+   },
+   {
+    "faction": "euskal_herria",
+    "formation": "preset:zumalakarregi_army",
+    "name": "Oak of Gernika"
+   },
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:soudarion_cortege",
+    "name": "Soudarion Cortege"
+   },
+   {
+    "faction": "caliphate_of_the_two_sanctuaries",
+    "formation": "preset:saladin_army",
+    "name": "Sword of Allah"
+   },
+   {
+    "faction": "great_cossack_host",
+    "formation": "preset:sirko_army",
+    "name": "Bulava of the Rada"
+   },
+   {
+    "faction": "iron_imperium",
+    "formation": "preset:artificer_forge",
+    "name": "Blaze of Etna"
+   },
+   {
+    "faction": "iron_imperium",
+    "formation": "preset:armoured_cohort",
+    "name": "Armoured Cohort"
+   },
+   {
+    "faction": "infernal_congregations",
+    "formation": "preset:dawn_king_army",
+    "name": "Lightbearers of Antioch"
+   },
+   {
+    "faction": "principality_of_novgorod",
+    "formation": "preset:rurik_army",
+    "name": "Winter Host"
+   },
+   {
+    "faction": "polish_lithuanian_ruthenian_commonwealth",
+    "formation": "preset:kosciuszko_army",
+    "name": "Oath of Kraków"
+   },
+   {
+    "faction": "atashid_empire",
+    "formation": "preset:spahbed_host",
+    "name": "Mihran Spah"
+   },
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:popinjay_guild",
+    "name": "Popinjay Guild"
+   }
+  ],
+  [
+   {
+    "faction": "iron_imperium",
+    "formation": "preset:palatine_guard",
+    "name": "Protectores Divini Lateris"
+   },
+   {
+    "faction": "atashid_empire",
+    "formation": "preset:flamebringer_immortals",
+    "name": "Flamewrought Company"
+   },
+   {
+    "faction": "principality_of_novgorod",
+    "formation": "preset:opoki_hundred",
+    "name": "Opoki Hundred"
+   },
+   {
+    "faction": "infernal_congregations",
+    "formation": "preset:high_admiral_army",
+    "name": "Ghosts of Lemesos"
+   },
+   {
+    "faction": "grand_duchy_of_albion",
+    "formation": "preset:cosan_si_host",
+    "name": "Cosán Sí Host"
+   },
+   {
+    "faction": "empire_of_nihon",
+    "formation": "preset:taichou_army",
+    "name": "Kishomon Company"
+   },
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:penitent_crusade",
+    "name": "Miserere Column"
+   },
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:dragonslayer_lances",
+    "name": "Cappadocian Riders"
+   },
+   {
+    "faction": "kingdom_of_hayk",
+    "formation": "preset:andranik_army",
+    "name": "Vigil of Masis"
+   },
+   {
+    "faction": "golden_khaganate",
+    "formation": "preset:genghis_army",
+    "name": "Golden Tumen"
+   },
+   {
+    "faction": "infernal_congregations",
+    "formation": "preset:chairman_army",
+    "name": "Bailiffs of Petra"
+   },
+   {
+    "faction": "iron_imperium",
+    "formation": "preset:celeritas_squadron",
+    "name": "Celeritas Squadron"
+   }
+  ],
+  [
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:true_cross_host",
+    "name": "Martyrs' Legion"
+   },
+   {
+    "faction": "caliphate_of_the_two_sanctuaries",
+    "formation": "preset:alembic_brigade",
+    "name": "Alembic Brigade"
+   },
+   {
+    "faction": "iron_imperium",
+    "formation": "preset:alea_iacta",
+    "name": "Alea Iacta"
+   },
+   {
+    "faction": "church_of_the_beast",
+    "formation": "preset:herald_army",
+    "name": "Wolfshead Pack"
+   },
+   {
+    "faction": "british_liberation_front",
+    "formation": "preset:caerfyrddin_fencibles",
+    "name": "Caerfyrddin Fencibles"
+   },
+   {
+    "faction": "infernal_congregations",
+    "formation": "preset:plague_monarch_army",
+    "name": "Sineaters of Damascus"
+   },
+   {
+    "faction": "jade_mandate",
+    "formation": "preset:five_banner_army",
+    "name": "Longwu Army"
+   },
+   {
+    "faction": "covenant_of_new_jerusalem",
+    "formation": "preset:chonae_wing",
+    "name": "Chonae Wing"
+   },
+   {
+    "faction": "grand_duchy_of_albion",
+    "formation": "preset:glandore_breakers",
+    "name": "Glandore Breakers"
+   },
+   {
+    "faction": "infernal_congregations",
+    "formation": "preset:pontifex_procession",
+    "name": "Procession of Ugarit"
+   },
+   {
+    "faction": "mat_akkadi",
+    "formation": "preset:gilgamesh_army",
+    "name": "Walls of Uruk"
+   },
+   {
+    "faction": "runeforge_directorate",
+    "formation": "preset:magdeburg_warhost",
+    "name": "Magdeburg Warhost"
+   }
+  ]
+ ],
+ "days": [
+  {
+   "index": 0,
+   "label": "Matchday 1",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D1-M01",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "seed": 460703101,
+     "result": {
+      "winner": 0,
+      "vp": [
+       38,
+       25
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m01",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M02",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "seed": 460703102,
+     "result": {
+      "winner": 0,
+      "vp": [
+       31,
+       17
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m02",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M03",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "seed": 460703103,
+     "result": {
+      "winner": 0,
+      "vp": [
+       32,
+       32
+      ],
+      "round": 6,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m03",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M04",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "seed": 460703104,
+     "result": {
+      "winner": 1,
+      "vp": [
+       14,
+       32
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m04",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M05",
+     "a": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "seed": 460703105,
+     "result": {
+      "winner": 1,
+      "vp": [
+       21,
+       34
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m05",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M06",
+     "a": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "seed": 460703106,
+     "result": {
+      "winner": 0,
+      "vp": [
+       32,
+       18
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m06",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M07",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "b": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "seed": 460703107,
+     "result": {
+      "winner": 1,
+      "vp": [
+       15,
+       30
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m07",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M08",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "seed": 460703108,
+     "result": {
+      "winner": 1,
+      "vp": [
+       7,
+       35
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m08",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M09",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "seed": 460703109,
+     "result": {
+      "winner": 0,
+      "vp": [
+       31,
+       25
+      ],
+      "round": 6,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m09",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M10",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "b": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "seed": 460703110,
+     "result": {
+      "winner": 1,
+      "vp": [
+       21,
+       30
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m10",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M11",
+     "a": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "seed": 460703111,
+     "result": {
+      "winner": 1,
+      "vp": [
+       18,
+       34
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m11",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M12",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "seed": 460703112,
+     "result": {
+      "winner": 1,
+      "vp": [
+       9,
+       37
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m12",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M13",
+     "a": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "seed": 460703113,
+     "result": {
+      "winner": 0,
+      "vp": [
+       32,
+       30
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m13",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M14",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "b": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "seed": 460703114,
+     "result": {
+      "winner": 1,
+      "vp": [
+       25,
+       31
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m14",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M15",
+     "a": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "seed": 460703115,
+     "result": {
+      "winner": 1,
+      "vp": [
+       19,
+       35
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m15",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M16",
+     "a": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "b": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "seed": 460703116,
+     "result": {
+      "winner": 1,
+      "vp": [
+       18,
+       32
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m16",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M17",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "seed": 460703117,
+     "result": {
+      "winner": 1,
+      "vp": [
+       18,
+       30
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m17",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M18",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "b": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "seed": 460703118,
+     "result": {
+      "winner": 0,
+      "vp": [
+       32,
+       15
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m18",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M19",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "seed": 460703119,
+     "result": {
+      "winner": 1,
+      "vp": [
+       21,
+       30
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m19",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M20",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "seed": 460703120,
+     "result": {
+      "winner": 0,
+      "vp": [
+       30,
+       9
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m20",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M21",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "seed": 460703121,
+     "result": {
+      "winner": 1,
+      "vp": [
+       27,
+       33
+      ],
+      "round": 5,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m21",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M22",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "seed": 460703122,
+     "result": {
+      "winner": 0,
+      "vp": [
+       32,
+       10
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m22",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M23",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "b": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "seed": 460703123,
+     "result": {
+      "winner": 1,
+      "vp": [
+       30,
+       32
+      ],
+      "round": 6,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m23",
+      "map": "CROSSROADS"
+     }
+    },
+    {
+     "id": "D1-M24",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "seed": 460703124,
+     "result": {
+      "winner": 1,
+      "vp": [
+       15,
+       35
+      ],
+      "round": 4,
+      "reason": "VP",
+      "errors": 0,
+      "doctrines": [
+       null,
+       null
+      ],
+      "report": "cl-s1-d1-d1-m24",
+      "map": "CROSSROADS"
+     }
+    }
+   ]
+  },
+  {
+   "index": 1,
+   "label": "Matchday 2",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D2-M01",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "seed": 460703201
+    },
+    {
+     "id": "D2-M02",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "seed": 460703202
+    },
+    {
+     "id": "D2-M03",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "b": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "seed": 460703203
+    },
+    {
+     "id": "D2-M04",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "b": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "seed": 460703204
+    },
+    {
+     "id": "D2-M05",
+     "a": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "seed": 460703205
+    },
+    {
+     "id": "D2-M06",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "seed": 460703206
+    },
+    {
+     "id": "D2-M07",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "seed": 460703207
+    },
+    {
+     "id": "D2-M08",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "seed": 460703208
+    },
+    {
+     "id": "D2-M09",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "seed": 460703209
+    },
+    {
+     "id": "D2-M10",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "seed": 460703210
+    },
+    {
+     "id": "D2-M11",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "seed": 460703211
+    },
+    {
+     "id": "D2-M12",
+     "a": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "seed": 460703212
+    },
+    {
+     "id": "D2-M13",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "b": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "seed": 460703213
+    },
+    {
+     "id": "D2-M14",
+     "a": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "seed": 460703214
+    },
+    {
+     "id": "D2-M15",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "seed": 460703215
+    },
+    {
+     "id": "D2-M16",
+     "a": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "seed": 460703216
+    },
+    {
+     "id": "D2-M17",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "seed": 460703217
+    },
+    {
+     "id": "D2-M18",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "b": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "seed": 460703218
+    },
+    {
+     "id": "D2-M19",
+     "a": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "seed": 460703219
+    },
+    {
+     "id": "D2-M20",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "b": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "seed": 460703220
+    },
+    {
+     "id": "D2-M21",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "seed": 460703221
+    },
+    {
+     "id": "D2-M22",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "seed": 460703222
+    },
+    {
+     "id": "D2-M23",
+     "a": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "seed": 460703223
+    },
+    {
+     "id": "D2-M24",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "b": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "seed": 460703224
+    }
+   ]
+  },
+  {
+   "index": 2,
+   "label": "Matchday 3",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D3-M01",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "seed": 460703301
+    },
+    {
+     "id": "D3-M02",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "seed": 460703302
+    },
+    {
+     "id": "D3-M03",
+     "a": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "b": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "seed": 460703303
+    },
+    {
+     "id": "D3-M04",
+     "a": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "b": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "seed": 460703304
+    },
+    {
+     "id": "D3-M05",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "seed": 460703305
+    },
+    {
+     "id": "D3-M06",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "seed": 460703306
+    },
+    {
+     "id": "D3-M07",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "seed": 460703307
+    },
+    {
+     "id": "D3-M08",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "b": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "seed": 460703308
+    },
+    {
+     "id": "D3-M09",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "seed": 460703309
+    },
+    {
+     "id": "D3-M10",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "seed": 460703310
+    },
+    {
+     "id": "D3-M11",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "seed": 460703311
+    },
+    {
+     "id": "D3-M12",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "seed": 460703312
+    },
+    {
+     "id": "D3-M13",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "seed": 460703313
+    },
+    {
+     "id": "D3-M14",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "seed": 460703314
+    },
+    {
+     "id": "D3-M15",
+     "a": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "seed": 460703315
+    },
+    {
+     "id": "D3-M16",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "seed": 460703316
+    },
+    {
+     "id": "D3-M17",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "b": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "seed": 460703317
+    },
+    {
+     "id": "D3-M18",
+     "a": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "seed": 460703318
+    },
+    {
+     "id": "D3-M19",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "seed": 460703319
+    },
+    {
+     "id": "D3-M20",
+     "a": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "seed": 460703320
+    },
+    {
+     "id": "D3-M21",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "seed": 460703321
+    },
+    {
+     "id": "D3-M22",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "seed": 460703322
+    },
+    {
+     "id": "D3-M23",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "b": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "seed": 460703323
+    },
+    {
+     "id": "D3-M24",
+     "a": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "b": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "seed": 460703324
+    }
+   ]
+  },
+  {
+   "index": 3,
+   "label": "Matchday 4",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D4-M01",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "b": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "seed": 460703401
+    },
+    {
+     "id": "D4-M02",
+     "a": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "b": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "seed": 460703402
+    },
+    {
+     "id": "D4-M03",
+     "a": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "b": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "seed": 460703403
+    },
+    {
+     "id": "D4-M04",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "seed": 460703404
+    },
+    {
+     "id": "D4-M05",
+     "a": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "seed": 460703405
+    },
+    {
+     "id": "D4-M06",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "seed": 460703406
+    },
+    {
+     "id": "D4-M07",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "seed": 460703407
+    },
+    {
+     "id": "D4-M08",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "seed": 460703408
+    },
+    {
+     "id": "D4-M09",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "seed": 460703409
+    },
+    {
+     "id": "D4-M10",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "b": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "seed": 460703410
+    },
+    {
+     "id": "D4-M11",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "seed": 460703411
+    },
+    {
+     "id": "D4-M12",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "seed": 460703412
+    },
+    {
+     "id": "D4-M13",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "seed": 460703413
+    },
+    {
+     "id": "D4-M14",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "seed": 460703414
+    },
+    {
+     "id": "D4-M15",
+     "a": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "seed": 460703415
+    },
+    {
+     "id": "D4-M16",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "b": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "seed": 460703416
+    },
+    {
+     "id": "D4-M17",
+     "a": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "seed": 460703417
+    },
+    {
+     "id": "D4-M18",
+     "a": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "b": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "seed": 460703418
+    },
+    {
+     "id": "D4-M19",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "seed": 460703419
+    },
+    {
+     "id": "D4-M20",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "seed": 460703420
+    },
+    {
+     "id": "D4-M21",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "seed": 460703421
+    },
+    {
+     "id": "D4-M22",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "seed": 460703422
+    },
+    {
+     "id": "D4-M23",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "seed": 460703423
+    },
+    {
+     "id": "D4-M24",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "seed": 460703424
+    }
+   ]
+  },
+  {
+   "index": 4,
+   "label": "Matchday 5",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D5-M01",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "seed": 460703501
+    },
+    {
+     "id": "D5-M02",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "seed": 460703502
+    },
+    {
+     "id": "D5-M03",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "seed": 460703503
+    },
+    {
+     "id": "D5-M04",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "seed": 460703504
+    },
+    {
+     "id": "D5-M05",
+     "a": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "seed": 460703505
+    },
+    {
+     "id": "D5-M06",
+     "a": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "b": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "seed": 460703506
+    },
+    {
+     "id": "D5-M07",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "seed": 460703507
+    },
+    {
+     "id": "D5-M08",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "seed": 460703508
+    },
+    {
+     "id": "D5-M09",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "b": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "seed": 460703509
+    },
+    {
+     "id": "D5-M10",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "seed": 460703510
+    },
+    {
+     "id": "D5-M11",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "seed": 460703511
+    },
+    {
+     "id": "D5-M12",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "b": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "seed": 460703512
+    },
+    {
+     "id": "D5-M13",
+     "a": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "b": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "seed": 460703513
+    },
+    {
+     "id": "D5-M14",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "b": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "seed": 460703514
+    },
+    {
+     "id": "D5-M15",
+     "a": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "seed": 460703515
+    },
+    {
+     "id": "D5-M16",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "seed": 460703516
+    },
+    {
+     "id": "D5-M17",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "seed": 460703517
+    },
+    {
+     "id": "D5-M18",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "seed": 460703518
+    },
+    {
+     "id": "D5-M19",
+     "a": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "seed": 460703519
+    },
+    {
+     "id": "D5-M20",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "seed": 460703520
+    },
+    {
+     "id": "D5-M21",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "seed": 460703521
+    },
+    {
+     "id": "D5-M22",
+     "a": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "seed": 460703522
+    },
+    {
+     "id": "D5-M23",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "seed": 460703523
+    },
+    {
+     "id": "D5-M24",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "b": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "seed": 460703524
+    }
+   ]
+  },
+  {
+   "index": 5,
+   "label": "Matchday 6",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D6-M01",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "seed": 460703601
+    },
+    {
+     "id": "D6-M02",
+     "a": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "seed": 460703602
+    },
+    {
+     "id": "D6-M03",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "b": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "seed": 460703603
+    },
+    {
+     "id": "D6-M04",
+     "a": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "seed": 460703604
+    },
+    {
+     "id": "D6-M05",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "b": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "seed": 460703605
+    },
+    {
+     "id": "D6-M06",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "b": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "seed": 460703606
+    },
+    {
+     "id": "D6-M07",
+     "a": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "b": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "seed": 460703607
+    },
+    {
+     "id": "D6-M08",
+     "a": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "seed": 460703608
+    },
+    {
+     "id": "D6-M09",
+     "a": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "seed": 460703609
+    },
+    {
+     "id": "D6-M10",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "seed": 460703610
+    },
+    {
+     "id": "D6-M11",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "seed": 460703611
+    },
+    {
+     "id": "D6-M12",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "seed": 460703612
+    },
+    {
+     "id": "D6-M13",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "seed": 460703613
+    },
+    {
+     "id": "D6-M14",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "seed": 460703614
+    },
+    {
+     "id": "D6-M15",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "b": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "seed": 460703615
+    },
+    {
+     "id": "D6-M16",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "seed": 460703616
+    },
+    {
+     "id": "D6-M17",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "b": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "seed": 460703617
+    },
+    {
+     "id": "D6-M18",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "seed": 460703618
+    },
+    {
+     "id": "D6-M19",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "seed": 460703619
+    },
+    {
+     "id": "D6-M20",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "seed": 460703620
+    },
+    {
+     "id": "D6-M21",
+     "a": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "seed": 460703621
+    },
+    {
+     "id": "D6-M22",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "seed": 460703622
+    },
+    {
+     "id": "D6-M23",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "seed": 460703623
+    },
+    {
+     "id": "D6-M24",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "seed": 460703624
+    }
+   ]
+  },
+  {
+   "index": 6,
+   "label": "Matchday 7",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D7-M01",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "seed": 460703701
+    },
+    {
+     "id": "D7-M02",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "seed": 460703702
+    },
+    {
+     "id": "D7-M03",
+     "a": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "b": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "seed": 460703703
+    },
+    {
+     "id": "D7-M04",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "b": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "seed": 460703704
+    },
+    {
+     "id": "D7-M05",
+     "a": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "seed": 460703705
+    },
+    {
+     "id": "D7-M06",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "seed": 460703706
+    },
+    {
+     "id": "D7-M07",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "seed": 460703707
+    },
+    {
+     "id": "D7-M08",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "seed": 460703708
+    },
+    {
+     "id": "D7-M09",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "seed": 460703709
+    },
+    {
+     "id": "D7-M10",
+     "a": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "seed": 460703710
+    },
+    {
+     "id": "D7-M11",
+     "a": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "seed": 460703711
+    },
+    {
+     "id": "D7-M12",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "b": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "seed": 460703712
+    },
+    {
+     "id": "D7-M13",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "seed": 460703713
+    },
+    {
+     "id": "D7-M14",
+     "a": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "seed": 460703714
+    },
+    {
+     "id": "D7-M15",
+     "a": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "seed": 460703715
+    },
+    {
+     "id": "D7-M16",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "seed": 460703716
+    },
+    {
+     "id": "D7-M17",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "seed": 460703717
+    },
+    {
+     "id": "D7-M18",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "seed": 460703718
+    },
+    {
+     "id": "D7-M19",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "seed": 460703719
+    },
+    {
+     "id": "D7-M20",
+     "a": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "seed": 460703720
+    },
+    {
+     "id": "D7-M21",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "b": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "seed": 460703721
+    },
+    {
+     "id": "D7-M22",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "b": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "seed": 460703722
+    },
+    {
+     "id": "D7-M23",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "b": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "seed": 460703723
+    },
+    {
+     "id": "D7-M24",
+     "a": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "b": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "seed": 460703724
+    }
+   ]
+  },
+  {
+   "index": 7,
+   "label": "Matchday 8",
+   "kind": "league",
+   "matches": [
+    {
+     "id": "D8-M01",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:horns_of_hattin",
+      "name": "Horns of Hattin"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:weeping_veil_host",
+      "name": "Akathist Convent"
+     },
+     "seed": 460703801
+    },
+    {
+     "id": "D8-M02",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:chonae_wing",
+      "name": "Chonae Wing"
+     },
+     "b": {
+      "faction": "jade_mandate",
+      "formation": "preset:five_banner_army",
+      "name": "Longwu Army"
+     },
+     "seed": 460703802
+    },
+    {
+     "id": "D8-M03",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:celeritas_squadron",
+      "name": "Celeritas Squadron"
+     },
+     "b": {
+      "faction": "kingdom_of_hayk",
+      "formation": "preset:andranik_army",
+      "name": "Vigil of Masis"
+     },
+     "seed": 460703803
+    },
+    {
+     "id": "D8-M04",
+     "a": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:finvarra_army",
+      "name": "Summer Rade"
+     },
+     "b": {
+      "faction": "kalevan_kansa",
+      "formation": "preset:vainamoinen_army",
+      "name": "Sampo's Song"
+     },
+     "seed": 460703804
+    },
+    {
+     "id": "D8-M05",
+     "a": {
+      "faction": "duat_dominion",
+      "formation": "preset:ramesses_army",
+      "name": "March of the Restless Dead"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:legatus_legion",
+      "name": "Legio XIII"
+     },
+     "seed": 460703805
+    },
+    {
+     "id": "D8-M06",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:hegemon_army",
+      "name": "Murderhost of Halfa"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:valkyrie_army",
+      "name": "Judgement of Odin"
+     },
+     "seed": 460703806
+    },
+    {
+     "id": "D8-M07",
+     "a": {
+      "faction": "golden_khaganate",
+      "formation": "preset:genghis_army",
+      "name": "Golden Tumen"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:cosan_si_host",
+      "name": "Cosán Sí Host"
+     },
+     "seed": 460703807
+    },
+    {
+     "id": "D8-M08",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:brazen_tower_battery",
+      "name": "Belfry Battery"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:scorpion_shields",
+      "name": "Scorpion Shields"
+     },
+     "seed": 460703808
+    },
+    {
+     "id": "D8-M09",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:artificer_forge",
+      "name": "Blaze of Etna"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:veiled_court",
+      "name": "Veiled Court"
+     },
+     "seed": 460703809
+    },
+    {
+     "id": "D8-M10",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:dawn_king_army",
+      "name": "Lightbearers of Antioch"
+     },
+     "b": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:rurik_army",
+      "name": "Winter Host"
+     },
+     "seed": 460703810
+    },
+    {
+     "id": "D8-M11",
+     "a": {
+      "faction": "iron_imperium",
+      "formation": "preset:armoured_cohort",
+      "name": "Armoured Cohort"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:spahbed_host",
+      "name": "Mihran Spah"
+     },
+     "seed": 460703811
+    },
+    {
+     "id": "D8-M12",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:chairman_army",
+      "name": "Bailiffs of Petra"
+     },
+     "b": {
+      "faction": "atashid_empire",
+      "formation": "preset:flamebringer_immortals",
+      "name": "Flamewrought Company"
+     },
+     "seed": 460703812
+    },
+    {
+     "id": "D8-M13",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:true_cross_host",
+      "name": "Martyrs' Legion"
+     },
+     "b": {
+      "faction": "grand_duchy_of_albion",
+      "formation": "preset:glandore_breakers",
+      "name": "Glandore Breakers"
+     },
+     "seed": 460703813
+    },
+    {
+     "id": "D8-M14",
+     "a": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:penitent_crusade",
+      "name": "Miserere Column"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:palatine_guard",
+      "name": "Protectores Divini Lateris"
+     },
+     "seed": 460703814
+    },
+    {
+     "id": "D8-M15",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:high_admiral_army",
+      "name": "Ghosts of Lemesos"
+     },
+     "b": {
+      "faction": "empire_of_nihon",
+      "formation": "preset:taichou_army",
+      "name": "Kishomon Company"
+     },
+     "seed": 460703815
+    },
+    {
+     "id": "D8-M16",
+     "a": {
+      "faction": "great_cossack_host",
+      "formation": "preset:sirko_army",
+      "name": "Bulava of the Rada"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:soudarion_cortege",
+      "name": "Soudarion Cortege"
+     },
+     "seed": 460703816
+    },
+    {
+     "id": "D8-M17",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:alembic_brigade",
+      "name": "Alembic Brigade"
+     },
+     "b": {
+      "faction": "runeforge_directorate",
+      "formation": "preset:magdeburg_warhost",
+      "name": "Magdeburg Warhost"
+     },
+     "seed": 460703817
+    },
+    {
+     "id": "D8-M18",
+     "a": {
+      "faction": "church_of_the_beast",
+      "formation": "preset:herald_army",
+      "name": "Wolfshead Pack"
+     },
+     "b": {
+      "faction": "infernal_congregations",
+      "formation": "preset:plague_monarch_army",
+      "name": "Sineaters of Damascus"
+     },
+     "seed": 460703818
+    },
+    {
+     "id": "D8-M19",
+     "a": {
+      "faction": "british_liberation_front",
+      "formation": "preset:merlin_army",
+      "name": "Knights of Camelot"
+     },
+     "b": {
+      "faction": "panhellenic_league",
+      "formation": "preset:heron_army",
+      "name": "Mouseion Contingent"
+     },
+     "seed": 460703819
+    },
+    {
+     "id": "D8-M20",
+     "a": {
+      "faction": "polish_lithuanian_ruthenian_commonwealth",
+      "formation": "preset:kosciuszko_army",
+      "name": "Oath of Kraków"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:popinjay_guild",
+      "name": "Popinjay Guild"
+     },
+     "seed": 460703820
+    },
+    {
+     "id": "D8-M21",
+     "a": {
+      "faction": "mat_akkadi",
+      "formation": "preset:gilgamesh_army",
+      "name": "Walls of Uruk"
+     },
+     "b": {
+      "faction": "iron_imperium",
+      "formation": "preset:alea_iacta",
+      "name": "Alea Iacta"
+     },
+     "seed": 460703821
+    },
+    {
+     "id": "D8-M22",
+     "a": {
+      "faction": "infernal_congregations",
+      "formation": "preset:pontifex_procession",
+      "name": "Procession of Ugarit"
+     },
+     "b": {
+      "faction": "british_liberation_front",
+      "formation": "preset:caerfyrddin_fencibles",
+      "name": "Caerfyrddin Fencibles"
+     },
+     "seed": 460703822
+    },
+    {
+     "id": "D8-M23",
+     "a": {
+      "faction": "caliphate_of_the_two_sanctuaries",
+      "formation": "preset:saladin_army",
+      "name": "Sword of Allah"
+     },
+     "b": {
+      "faction": "euskal_herria",
+      "formation": "preset:zumalakarregi_army",
+      "name": "Oak of Gernika"
+     },
+     "seed": 460703823
+    },
+    {
+     "id": "D8-M24",
+     "a": {
+      "faction": "principality_of_novgorod",
+      "formation": "preset:opoki_hundred",
+      "name": "Opoki Hundred"
+     },
+     "b": {
+      "faction": "covenant_of_new_jerusalem",
+      "formation": "preset:dragonslayer_lances",
+      "name": "Cappadocian Riders"
+     },
+     "seed": 460703824
+    }
+   ]
+  }
+ ],
+ "knockout": []
+}
