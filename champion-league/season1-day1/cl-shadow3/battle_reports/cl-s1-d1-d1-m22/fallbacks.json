@@ -1,0 +1,1034 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 223,
+  "uid": 28,
+  "name": "Jordanite Hospitallers 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 1,
+   "row": 10
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 10
+  },
+  "parts": {
+   "stay": -1.75,
+   "fallBack": 0.65,
+   "stayCore": 4.12,
+   "fight": 0.13,
+   "taken": 5.9,
+   "tieUp": 1.01,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 3.78,
+   "lostVp": 0,
+   "gainedVp": 1,
+   "followed": 2.97,
+   "fallBackDeathChance": 0.98,
+   "fallBackDeath": 3.93,
+   "lossPenalty": 2.22,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 1,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Naqib 2",
+     "hp": 25,
+     "dealt": 2.93,
+     "taken": 0.02
+    },
+    {
+     "uid": 39,
+     "name": "Muqatila Troopers 2",
+     "hp": 25,
+     "dealt": 2.97,
+     "taken": 0.11
+    }
+   ],
+   "threat": 5.9,
+   "shotAt": {
+    "stay": 0.67,
+    "dest": 2.01
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.62,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.2,
+     "objective_risk": 6.55,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 0.83,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.42,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.29,
+     "threats_raw": 2.44
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -2.37,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.61,
+     "objective_risk": 0.09,
+     "missive": 2.17,
+     "obj_hold": -1.54,
+     "capture_blocker": 0.34,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.09,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 5.41,
+     "threats_raw": 1.13
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Covenant Levies",
+    "Covenant Levies"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 5.9 expected melee damage against 3 HP",
+   "leaving opens 2 shot(s) at its enemies; 0 taken",
+   "where it lands, enemy guns expect 2.01 damage on it"
+  ],
+  "q": {
+   "danger": 1.9666666666666668,
+   "threat": 5.9,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 2.01,
+   "screen": 0,
+   "dealing": 0.13,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 226,
+  "uid": 31,
+  "name": "Covenant Levies 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 10
+  },
+  "test": {
+   "need": 4,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 10
+  },
+  "parts": {
+   "stay": -1.49,
+   "fallBack": 2.29,
+   "stayCore": 3.45,
+   "fight": 2.52,
+   "taken": 15.55,
+   "tieUp": 4.55,
+   "stayDeathChance": 1,
+   "stayDeath": 8,
+   "destCore": 3.29,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Naqib 1",
+     "hp": 24,
+     "dealt": 3.77,
+     "taken": 0.07
+    },
+    {
+     "uid": 37,
+     "name": "Muqatila Troopers 1",
+     "hp": 24,
+     "dealt": 4,
+     "taken": 0.44
+    },
+    {
+     "uid": 40,
+     "name": "Rammal Geomancer",
+     "hp": 15,
+     "dealt": 0.33,
+     "taken": 1.11
+    },
+    {
+     "uid": 41,
+     "name": "Muqatila Troopers 3",
+     "hp": 15,
+     "dealt": 3.56,
+     "taken": 0.44
+    },
+    {
+     "uid": 42,
+     "name": "Muqatila Troopers 4",
+     "hp": 16,
+     "dealt": 3.89,
+     "taken": 0.44
+    }
+   ],
+   "threat": 15.55,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.78
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.56,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.48,
+     "objective_risk": 15.68,
+     "missive": 3,
+     "obj_hold": 0.66,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.87,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.95,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.39,
+     "threats_raw": 2.91
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.52,
+     "range": 1.88,
+     "offensive": 0.98,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.19,
+     "objective_risk": 1,
+     "missive": 0.87,
+     "obj_hold": -2.06,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.08,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.62,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.93,
+     "threats_raw": 1.44
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Covenant Levies 3"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 15.55 expected melee damage against 4 HP; its death would score the enemy 1 VP",
+   "where it lands, enemy guns expect 0.78 damage on it"
+  ],
+  "q": {
+   "danger": 3.8875,
+   "threat": 15.55,
+   "hp": 4,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.78,
+   "screen": 0.79,
+   "dealing": 2.5,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 231,
+  "uid": 30,
+  "name": "Covenant Levies 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 11
+  },
+  "test": {
+   "need": 4,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 11
+  },
+  "parts": {
+   "stay": -4.08,
+   "fallBack": 2.77,
+   "stayCore": 4.23,
+   "fight": 6.91,
+   "taken": 16.11,
+   "tieUp": 2.78,
+   "stayDeathChance": 1,
+   "stayDeath": 8,
+   "destCore": 3.77,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Naqib 1",
+     "hp": 24,
+     "dealt": 5.57,
+     "taken": 0.25
+    },
+    {
+     "uid": 37,
+     "name": "Muqatila Troopers 1",
+     "hp": 24,
+     "dealt": 6.93,
+     "taken": 1.48
+    },
+    {
+     "uid": 40,
+     "name": "Rammal Geomancer",
+     "hp": 15,
+     "dealt": 0.28,
+     "taken": 3.7
+    },
+    {
+     "uid": 41,
+     "name": "Muqatila Troopers 3",
+     "hp": 15,
+     "dealt": 3.33,
+     "taken": 1.48
+    }
+   ],
+   "threat": 16.11,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.29,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.6,
+     "objective_risk": 14.56,
+     "missive": 3,
+     "obj_hold": 0.66,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.71,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.48,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.75,
+     "threats_raw": 4.28
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 3.24,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.96,
+     "objective_risk": 0,
+     "missive": 0.75,
+     "obj_hold": -2.41,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.67,
+     "safety": 1.5,
+     "obj_drift": 0,
+     "role": 0.92,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.25,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 16.11 expected melee damage against 10 HP; its death would score the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 1.611,
+   "threat": 16.11,
+   "hp": 10,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.04,
+   "dealing": 6.91,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 329,
+  "uid": 42,
+  "name": "Muqatila Troopers 4",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 7
+  },
+  "parts": {
+   "stay": 8.45,
+   "fallBack": 7.03,
+   "stayCore": 7.48,
+   "fight": 0.97,
+   "taken": 2.67,
+   "tieUp": 0.67,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.36,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Covenant Levies 3",
+     "hp": 18,
+     "dealt": 2.67,
+     "taken": 3.89
+    }
+   ],
+   "threat": 2.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.18,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.84,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 14.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.07,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.64,
+     "threats_raw": 0.67
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.17,
+     "range": 2.03,
+     "offensive": 2.45,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.84,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 16.11,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.13,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 30.8,
+     "threats_raw": 0.62
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.67 expected melee damage against 12 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.2225,
+   "threat": 2.67,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.7899999999999991,
+   "dealing": 3.89,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 325,
+  "uid": 37,
+  "name": "Muqatila Troopers 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 7,
+   "row": 6
+  },
+  "test": {
+   "need": 3,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 7,
+   "row": 6
+  },
+  "parts": {
+   "stay": 6.58,
+   "fallBack": 7.13,
+   "stayCore": 7.74,
+   "fight": 1.66,
+   "taken": 11.27,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.29,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 24,
+   "maxHp": 26,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Lazarite Prelate 1",
+     "hp": 21,
+     "dealt": 2.37,
+     "taken": 2.09
+    },
+    {
+     "uid": 25,
+     "name": "Sepulchre Guard 1",
+     "hp": 21,
+     "dealt": 8.9,
+     "taken": 0.29
+    }
+   ],
+   "threat": 11.27,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.38,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.27,
+     "objective_risk": 0.42,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 19.05,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.52,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 32.06,
+     "threats_raw": 0.72
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.35,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.69,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.43,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.24,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.75,
+     "threats_raw": 0.67
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Royal Alchemist"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 11.27 expected melee damage against 24 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.4695833333333333,
+   "threat": 11.27,
+   "hp": 24,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 10.620000000000001,
+   "dealing": 2.38,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 332,
+  "uid": 32,
+  "name": "Covenant Levies 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 18,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 40,
+     "name": "Rammal Geomancer",
+     "hp": 15,
+     "dealt": 0.28,
+     "taken": 6.67
+    },
+    {
+     "uid": 41,
+     "name": "Muqatila Troopers 3",
+     "hp": 15,
+     "dealt": 3.89,
+     "taken": 2.67
+    },
+    {
+     "uid": 42,
+     "name": "Muqatila Troopers 4",
+     "hp": 12,
+     "dealt": 3.89,
+     "taken": 2.67
+    }
+   ],
+   "threat": 8.06,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.77,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.94,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.66,
+     "threats_raw": 2.94
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 9,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 8.06 expected melee damage against 18 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.44777777777777783,
+   "threat": 8.06,
+   "hp": 18,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 12.01,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

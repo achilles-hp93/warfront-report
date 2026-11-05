@@ -1,0 +1,529 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Opoki Hundred",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 164,
+  "uid": 38,
+  "name": "Veche Levy 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 13,
+   "row": 4
+  },
+  "test": {
+   "need": 3,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 4
+  },
+  "parts": {
+   "stay": -3.6,
+   "fallBack": 3.51,
+   "stayCore": 4.27,
+   "fight": 0.83,
+   "taken": 7.36,
+   "tieUp": 0.29,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 4.17,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Winter Captain",
+     "hp": 25,
+     "dealt": 2.42,
+     "taken": 0.5
+    },
+    {
+     "uid": 23,
+     "name": "Peijaiset Wardens",
+     "hp": 25,
+     "dealt": 4.94,
+     "taken": 0.33
+    }
+   ],
+   "threat": 7.36,
+   "shotAt": {
+    "stay": 0.58,
+    "dest": 4.53
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.23,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.97,
+     "objective_risk": 2.09,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 1.77,
+     "leader_attach": 0,
+     "screen": 8.1,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.98,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.08,
+     "threats_raw": 1.85
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.06,
+     "range": 2.19,
+     "offensive": 2.12,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.22,
+     "objective_risk": 0.03,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 1.85,
+     "leader_attach": 0,
+     "screen": 0.42,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.65,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.85,
+     "threats_raw": 0.88
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 7.36 expected melee damage against 5 HP",
+   "where it lands, enemy guns expect 4.53 damage on it"
+  ],
+  "q": {
+   "danger": 1.472,
+   "threat": 7.36,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4.53,
+   "screen": 7.68,
+   "dealing": 0.8300000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Opoki Hundred",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 168,
+  "uid": 31,
+  "name": "Koscheyan Troopers 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 12,
+   "row": 8
+  },
+  "test": {
+   "need": 4,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 12,
+   "row": 8
+  },
+  "parts": {
+   "stay": 2.82,
+   "fallBack": 3.27,
+   "stayCore": 4.56,
+   "fight": 7.76,
+   "taken": 9.66,
+   "tieUp": 0.22,
+   "stayDeathChance": 0.02,
+   "stayDeath": 0.07,
+   "destCore": 4.27,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 12,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 19,
+   "maxHp": 23,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Winter Captain",
+     "hp": 25,
+     "dealt": 1.75,
+     "taken": 2.27
+    },
+    {
+     "uid": 23,
+     "name": "Peijaiset Wardens",
+     "hp": 25,
+     "dealt": 7.9,
+     "taken": 2.03
+    }
+   ],
+   "threat": 9.65,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.69
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.14,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 75.4,
+     "objective_risk": 35.75,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 5,
+     "leader_attach": 0,
+     "screen": 5.56,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.52,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 88.84,
+     "threats_raw": 1.5
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.59,
+     "range": 2.29,
+     "offensive": 4.15,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 110.53,
+     "objective_risk": 0.62,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 5.25,
+     "leader_attach": 0,
+     "screen": 9.63,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.65,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 135.41,
+     "threats_raw": 1.23
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 9.65 expected melee damage against 19 HP",
+   "where it lands, enemy guns expect 0.69 damage on it"
+  ],
+  "q": {
+   "danger": 0.5078947368421053,
+   "threat": 9.65,
+   "hp": 19,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.69,
+   "screen": -4.070000000000001,
+   "dealing": 4.3,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Opoki Hundred",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 245,
+  "uid": 36,
+  "name": "Veche Levy 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 6
+  },
+  "parts": {
+   "stay": 18.63,
+   "fallBack": 5,
+   "stayCore": 5.38,
+   "fight": 13.91,
+   "taken": 3.44,
+   "tieUp": 0.19,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.17,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Nostovaki Militia 2",
+     "hp": 14,
+     "dealt": 3.11,
+     "taken": 1.56
+    },
+    {
+     "uid": 27,
+     "name": "Tietaja",
+     "hp": 4,
+     "dealt": 0.33,
+     "taken": 2.78
+    }
+   ],
+   "threat": 3.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": 3.5
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.28,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 465.02,
+     "objective_risk": 27.39,
+     "missive": 4.5,
+     "obj_hold": 0.7,
+     "capture_blocker": 4.32,
+     "leader_attach": 0,
+     "screen": 3.18,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 478.45,
+     "threats_raw": 1.95
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.51,
+     "range": 2.03,
+     "offensive": 2.93,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": -2.21,
+     "capture_blocker": 4.54,
+     "leader_attach": 0,
+     "screen": 1.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.04,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.61,
+     "threats_raw": 1.68
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 5,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.44 expected melee damage against 14 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.24571428571428572,
+   "threat": 3.44,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 3.5,
+   "screen": 1.86,
+   "dealing": 4.34,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

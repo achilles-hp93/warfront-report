@@ -1,0 +1,1371 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 89,
+  "uid": 20,
+  "name": "Muqatila Troopers 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 9
+  },
+  "test": {
+   "need": 6,
+   "roll": 5,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": -45.71,
+   "fallBack": 3.2,
+   "stayCore": 4.77,
+   "fight": 3.52,
+   "taken": 27.63,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 32,
+   "destCore": 4.87,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 22,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Assault Lycanthropes",
+     "hp": 20,
+     "dealt": 19.59,
+     "taken": 2
+    },
+    {
+     "uid": 31,
+     "name": "Weretiger Stalkers",
+     "hp": 12,
+     "dealt": 8.04,
+     "taken": 1.33
+    }
+   ],
+   "threat": 27.63,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.5
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.81,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.59,
+     "objective_risk": 9.88,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 10.29,
+     "leader_attach": 0,
+     "screen": 6.22,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.08,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 41.87,
+     "threats_raw": 0.39
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.28,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.64,
+     "objective_risk": 0.11,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 10.29,
+     "leader_attach": 0,
+     "screen": 8.7,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.9,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 43.04,
+     "threats_raw": 0.61
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Muqatila Troopers 3",
+    "Muqatila Troopers 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 27.63 expected melee damage against 22 HP; its death would score the enemy 7 VP",
+   "where it lands, enemy guns expect 2.5 damage on it"
+  ],
+  "q": {
+   "danger": 1.2559090909090909,
+   "threat": 27.63,
+   "hp": 22,
+   "killVp": 7,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.5,
+   "screen": -2.4799999999999995,
+   "dealing": 3.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 92,
+  "uid": 22,
+  "name": "Muqatila Troopers 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Assault Lycanthropes",
+     "hp": 20,
+     "dealt": 18.57,
+     "taken": 2.59
+    }
+   ],
+   "threat": 18.57,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.15,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 770.54,
+     "objective_risk": 437.54,
+     "missive": 4.5,
+     "obj_hold": 0.7,
+     "capture_blocker": 13.29,
+     "leader_attach": 0,
+     "screen": 8.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.13,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 798.48,
+     "threats_raw": 0.29
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 14,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 18.57 expected melee damage against 20 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.9285,
+   "threat": 18.57,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 2.59,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 157,
+  "uid": 22,
+  "name": "Muqatila Troopers 3",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 10
+  },
+  "test": {
+   "need": 5,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 10
+  },
+  "parts": {
+   "stay": -15.82,
+   "fallBack": 4.96,
+   "stayCore": 5.02,
+   "fight": 0.78,
+   "taken": 5.94,
+   "tieUp": 0,
+   "stayDeathChance": 0.98,
+   "stayDeath": 15.68,
+   "destCore": 6.29,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Assault Lycanthropes",
+     "hp": 18,
+     "dealt": 5.94,
+     "taken": 0.78
+    }
+   ],
+   "threat": 5.94,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.18,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 69.4,
+     "objective_risk": 66.63,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 4.09,
+     "leader_attach": 0,
+     "screen": 6.74,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.71,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 85.91,
+     "threats_raw": 0.33
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 78.78,
+     "objective_risk": 0.08,
+     "missive": 2.17,
+     "obj_hold": -2.06,
+     "capture_blocker": 4.09,
+     "leader_attach": 0,
+     "screen": 6.32,
+     "safety": 2.94,
+     "obj_drift": -1.8,
+     "role": 0.5,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 93.66,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Muqatila Troopers 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 5.94 expected melee damage against 6 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 0.9900000000000001,
+   "threat": 5.94,
+   "hp": 6,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0.41999999999999993,
+   "dealing": 0.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 162,
+  "uid": 21,
+  "name": "Muqatila Troopers 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": 0.78,
+   "fallBack": -0.61,
+   "stayCore": 5.08,
+   "fight": 1.04,
+   "taken": 5.33,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.72,
+   "lostVp": 1,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 31,
+     "name": "Weretiger Stalkers",
+     "hp": 11,
+     "dealt": 5.33,
+     "taken": 1.04
+    }
+   ],
+   "threat": 5.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.27,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 167.69,
+     "objective_risk": 79.93,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 7.48,
+     "leader_attach": 0,
+     "screen": 9.51,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.85,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 190.41,
+     "threats_raw": 0.48
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 140.32,
+     "objective_risk": 0.11,
+     "missive": 2.17,
+     "obj_hold": -2.06,
+     "capture_blocker": 7.48,
+     "leader_attach": 0,
+     "screen": 8.44,
+     "safety": 0.96,
+     "obj_drift": -1.8,
+     "role": 0.6,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 158.97,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 12,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Assault Lycanthropes",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 5.33 expected melee damage against 12 HP"
+  ],
+  "q": {
+   "danger": 0.44416666666666665,
+   "threat": 5.33,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.0700000000000003,
+   "dealing": 1.04,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 166,
+  "uid": 31,
+  "name": "Weretiger Stalkers",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 11,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Muqatila Troopers 2",
+     "hp": 12,
+     "dealt": 1.04,
+     "taken": 5.33
+    }
+   ],
+   "threat": 1.04,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.2,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 44.37,
+     "objective_risk": 0.17,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 10.1,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.16,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -0.93,
+     "formation": 0,
+     "total": 57.41,
+     "threats_raw": 1.05
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.04 expected melee damage against 11 HP",
+   "it was winning the fight: 5.33 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.09454545454545454,
+   "threat": 1.04,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 5.33,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 227,
+  "uid": 29,
+  "name": "Wildling Acolytes",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 30,
+   "maxHp": 30,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Muqatila Troopers 1",
+     "hp": 6,
+     "dealt": 0.65,
+     "taken": 4.65
+    },
+    {
+     "uid": 24,
+     "name": "Rammal Geomancer",
+     "hp": 6,
+     "dealt": 0.28,
+     "taken": 6
+    }
+   ],
+   "threat": 0.93,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -2.01,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 52.41,
+     "objective_risk": 0.17,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 14.39,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 72.11,
+     "threats_raw": 1.66
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.93 expected melee damage against 30 HP",
+   "it was winning the fight: 10.65 expected damage dealt, enough to destroy an engager"
+  ],
+  "q": {
+   "danger": 0.031000000000000003,
+   "threat": 0.93,
+   "hp": 30,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 10.65,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 229,
+  "uid": 20,
+  "name": "Muqatila Troopers 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 11
+  },
+  "test": {
+   "need": 6,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 11
+  },
+  "parts": {
+   "stay": -20.04,
+   "fallBack": -3.44,
+   "stayCore": 4.66,
+   "fight": 1.3,
+   "taken": 10.45,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 7.34,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 12.78,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 4,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Assault Lycanthropes",
+     "hp": 16,
+     "dealt": 5.8,
+     "taken": 0.26
+    },
+    {
+     "uid": 29,
+     "name": "Wildling Acolytes",
+     "hp": 30,
+     "dealt": 4.65,
+     "taken": 0.65
+    }
+   ],
+   "threat": 10.45,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.79,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13,
+     "objective_risk": 28.2,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0.95,
+     "leader_attach": 0,
+     "screen": 5.7,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.5,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.32,
+     "threats_raw": 0.37
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 33.66,
+     "objective_risk": 1.41,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0.95,
+     "leader_attach": 0,
+     "screen": 4.1,
+     "safety": 4.86,
+     "obj_drift": -1.8,
+     "role": 0.3,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 46.28,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Muqatila Troopers 3"
+   ],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 10.45 expected melee damage against 6 HP; its death would score the enemy 4 VP",
+   "leaving opens 2 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 1.7416666666666665,
+   "threat": 10.45,
+   "hp": 6,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 1.6000000000000005,
+   "dealing": 0.91,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 298,
+  "uid": 19,
+  "name": "Abna al-Dawla Guard",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 8
+  },
+  "parts": {
+   "stay": 10.55,
+   "fallBack": 5.62,
+   "stayCore": 6.04,
+   "fight": 5.54,
+   "taken": 4.14,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.95,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 24,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Wildling Acolytes",
+     "hp": 30,
+     "dealt": 4.14,
+     "taken": 11.67
+    }
+   ],
+   "threat": 4.14,
+   "shotAt": {
+    "stay": 1.25,
+    "dest": 1.25
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.24,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 554.44,
+     "objective_risk": 65.5,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 20.21,
+     "leader_attach": 0,
+     "screen": 11.59,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.48,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 592.94,
+     "threats_raw": 0.91
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.24,
+     "range": 2.34,
+     "offensive": 3.53,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 610.91,
+     "objective_risk": 9.03,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 21.27,
+     "leader_attach": 0,
+     "screen": 5.02,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.39,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 649.67,
+     "threats_raw": 0.91
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.14 expected melee damage against 24 HP; its death would score the enemy 7 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 11.67 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.1725,
+   "threat": 4.14,
+   "hp": 24,
+   "killVp": 7,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.25,
+   "screen": 6.57,
+   "dealing": 11.67,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 304,
+  "uid": 34,
+  "name": "Wendigo Manreaver",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 7,
+   "row": 10
+  },
+  "test": {
+   "need": 3,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 7,
+   "row": 10
+  },
+  "parts": {
+   "stay": 2.46,
+   "fallBack": 4.21,
+   "stayCore": 3.45,
+   "fight": 0.22,
+   "taken": 5.19,
+   "tieUp": 0.09,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.38,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Bounded Ifrit",
+     "hp": 9,
+     "dealt": 5.19,
+     "taken": 0.89
+    }
+   ],
+   "threat": 5.19,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.72,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.54,
+     "objective_risk": 0.03,
+     "missive": 1.05,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.8,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.79,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.26,
+     "threats_raw": 1.37
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.42,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.68,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 6.79,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 5.19 expected melee damage against 18 HP; its death would score the enemy 4 VP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.28833333333333333,
+   "threat": 5.19,
+   "hp": 18,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.6199999999999999,
+   "dealing": 0.89,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

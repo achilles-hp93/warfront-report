@@ -1,0 +1,2855 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 104,
+  "uid": 37,
+  "name": "Cultist Troopers 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 4
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 4
+  },
+  "parts": {
+   "stay": -16.8,
+   "fallBack": 3.21,
+   "stayCore": 4.31,
+   "fight": 1.11,
+   "taken": 15.56,
+   "tieUp": 0,
+   "stayDeathChance": 0.56,
+   "stayDeath": 6.67,
+   "destCore": 4.21,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Hersir",
+     "hp": 18,
+     "dealt": 3.89,
+     "taken": 0.56
+    },
+    {
+     "uid": 25,
+     "name": "Odin's Einherjar",
+     "hp": 18,
+     "dealt": 11.67,
+     "taken": 0.56
+    }
+   ],
+   "threat": 15.56,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.89,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 247.03,
+     "objective_risk": 144.19,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 7.16,
+     "leader_attach": 0,
+     "screen": 2.94,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.7,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 261.82,
+     "threats_raw": 2.53
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 214.77,
+     "objective_risk": 1.07,
+     "missive": 2.17,
+     "obj_hold": -1.22,
+     "capture_blocker": 7.16,
+     "leader_attach": 0,
+     "screen": 0.55,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 227.51,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 15.56 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 0.778,
+   "threat": 15.56,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.3899999999999997,
+   "dealing": 1.12,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 109,
+  "uid": 36,
+  "name": "Cultist Troopers 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": -11.17,
+   "fallBack": 4.32,
+   "stayCore": 4.94,
+   "fight": 2.22,
+   "taken": 15.56,
+   "tieUp": 3.89,
+   "stayDeathChance": 0.56,
+   "stayDeath": 6.67,
+   "destCore": 5.32,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Corporaider Squad 2",
+     "hp": 10,
+     "dealt": 15.56,
+     "taken": 2.22
+    }
+   ],
+   "threat": 15.56,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.29,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 457.45,
+     "objective_risk": 206.77,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 8.57,
+     "leader_attach": 0,
+     "screen": 0.77,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.72,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 470.09,
+     "threats_raw": 4.28
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -2.18,
+     "range": 2.03,
+     "offensive": 3.76,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 397.39,
+     "objective_risk": 11.36,
+     "missive": 2.65,
+     "obj_hold": -0.44,
+     "capture_blocker": 8.57,
+     "leader_attach": 0,
+     "screen": 1.53,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.95,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 417.55,
+     "threats_raw": 2.46
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 15.56 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 0.778,
+   "threat": 15.56,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.76,
+   "dealing": 2.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 189,
+  "uid": 27,
+  "name": "Corporaider Squad 3",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 9
+  },
+  "test": {
+   "need": 3,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 9
+  },
+  "parts": {
+   "stay": -11.8,
+   "fallBack": 5.62,
+   "stayCore": 5.27,
+   "fight": 2.38,
+   "taken": 8.74,
+   "tieUp": 0.56,
+   "stayDeathChance": 1,
+   "stayDeath": 12,
+   "destCore": 6.28,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "The High Admiral",
+     "hp": 22,
+     "dealt": 4,
+     "taken": 1.19
+    },
+    {
+     "uid": 31,
+     "name": "Knight of Tehom 1",
+     "hp": 22,
+     "dealt": 4.74,
+     "taken": 1.19
+    }
+   ],
+   "threat": 8.74,
+   "shotAt": {
+    "stay": 0.56,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -6.61,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.68,
+     "objective_risk": 5.25,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 13.25,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.29,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 21.87,
+     "threats_raw": 3.15
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 2.05,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.39,
+     "objective_risk": 0.04,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 14.56,
+     "safety": 0.24,
+     "obj_drift": -1.8,
+     "role": 1.09,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 34.52,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Odin's Einherjar",
+    "Odin's Einherjar"
+   ],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 8.74 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 1.0925,
+   "threat": 8.74,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.3100000000000005,
+   "dealing": 2.38,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 200,
+  "uid": 32,
+  "name": "Knight of Tehom 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 10,
+   "row": 6
+  },
+  "parts": {
+   "stay": 16.98,
+   "fallBack": 4.3,
+   "stayCore": 6.23,
+   "fight": 12.03,
+   "taken": 1.46,
+   "tieUp": 0.18,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.64,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 22,
+   "maxHp": 22,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Corporaider Squad 2",
+     "hp": 10,
+     "dealt": 1.46,
+     "taken": 7.57
+    }
+   ],
+   "threat": 1.46,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -1.63,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 263.35,
+     "objective_risk": 0.22,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 19.34,
+     "leader_attach": 0,
+     "screen": 1.59,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 289.6,
+     "threats_raw": 0.78
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.1,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 237.17,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 12.43,
+     "leader_attach": 0,
+     "screen": 5.13,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.95,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 262.55,
+     "threats_raw": 0.52
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.46 expected melee damage against 22 HP",
+   "it was winning the fight: 7.57 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.06636363636363636,
+   "threat": 1.46,
+   "hp": 22,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -3.54,
+   "dealing": 7.57,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 200,
+  "uid": 25,
+  "name": "Odin's Einherjar",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "The High Admiral",
+     "hp": 22,
+     "dealt": 6.44,
+     "taken": 4.75
+    },
+    {
+     "uid": 31,
+     "name": "Knight of Tehom 1",
+     "hp": 22,
+     "dealt": 2.69,
+     "taken": 6.25
+    }
+   ],
+   "threat": 9.13,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": null,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.3,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 65.29,
+     "objective_risk": 4.54,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 19.83,
+     "leader_attach": 0,
+     "screen": 18.4,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.91,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 108.04,
+     "threats_raw": 2.05
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 8,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 9.13 expected melee damage against 18 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.5072222222222222,
+   "threat": 9.13,
+   "hp": 18,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 11,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 200,
+  "uid": 24,
+  "name": "Corporaider Squad 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 5
+  },
+  "parts": {
+   "stay": -5.88,
+   "fallBack": -27.14,
+   "stayCore": 6.4,
+   "fight": 7.85,
+   "taken": 20.56,
+   "tieUp": 1.88,
+   "stayDeathChance": 1,
+   "stayDeath": 12,
+   "destCore": 5.86,
+   "lostVp": 8,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "The High Admiral",
+     "hp": 22,
+     "dealt": 5.33,
+     "taken": 2.46
+    },
+    {
+     "uid": 31,
+     "name": "Knight of Tehom 1",
+     "hp": 22,
+     "dealt": 6.32,
+     "taken": 2.46
+    },
+    {
+     "uid": 32,
+     "name": "Knight of Tehom 2",
+     "hp": 22,
+     "dealt": 7.57,
+     "taken": 1.46
+    },
+    {
+     "uid": 34,
+     "name": "Tide Captain",
+     "hp": 22,
+     "dealt": 1.33,
+     "taken": 1.46
+    }
+   ],
+   "threat": 20.55,
+   "shotAt": {
+    "stay": 0.42,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -7.5,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 87.45,
+     "objective_risk": 64.65,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 32.95,
+     "leader_attach": 0,
+     "screen": 17.74,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.82,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 139.06,
+     "threats_raw": 3.57
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -3.44,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 94.59,
+     "objective_risk": 1.26,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 32.95,
+     "leader_attach": 0,
+     "screen": 7.05,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.68,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 140.16,
+     "threats_raw": 1.64
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 10,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Knight of Tehom 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Odin's Einherjar",
+    "Odin's Einherjar",
+    "Odin's Einherjar"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held to the end",
+  "why": [
+   "danger 20.55 expected melee damage against 10 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 2.055,
+   "threat": 20.55,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 10.689999999999998,
+   "dealing": 7.84,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 290,
+  "uid": 25,
+  "name": "Odin's Einherjar",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 10,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "The High Admiral",
+     "hp": 19,
+     "dealt": 2.43,
+     "taken": 1.81
+    },
+    {
+     "uid": 31,
+     "name": "Knight of Tehom 1",
+     "hp": 19,
+     "dealt": 2.1,
+     "taken": 2.33
+    },
+    {
+     "uid": 32,
+     "name": "Knight of Tehom 2",
+     "hp": 22,
+     "dealt": 3.31,
+     "taken": 2.33
+    },
+    {
+     "uid": 34,
+     "name": "Tide Captain",
+     "hp": 22,
+     "dealt": 1.81,
+     "taken": 2.33
+    }
+   ],
+   "threat": 9.65,
+   "shotAt": {
+    "stay": 1.83,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.36,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 44.51,
+     "objective_risk": 67.08,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 9.99,
+     "leader_attach": 0,
+     "screen": 19.97,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.83,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 78.22,
+     "threats_raw": 3.14
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 5,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Odin's Einherjar",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 9.65 expected melee damage against 10 HP"
+  ],
+  "q": {
+   "danger": 0.9650000000000001,
+   "threat": 9.65,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 8.8,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 287,
+  "uid": 40,
+  "name": "Runesmith #2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 9
+  },
+  "parts": {
+   "stay": -1.73,
+   "fallBack": 3.71,
+   "stayCore": 4.21,
+   "fight": 1.5,
+   "taken": 5.6,
+   "tieUp": 0.56,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 4.71,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 4,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "The High Admiral",
+     "hp": 19,
+     "dealt": 2.49,
+     "taken": 0.5
+    },
+    {
+     "uid": 31,
+     "name": "Knight of Tehom 1",
+     "hp": 19,
+     "dealt": 3.1,
+     "taken": 1
+    }
+   ],
+   "threat": 5.59,
+   "shotAt": {
+    "stay": 0.79,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.45,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 15.24,
+     "objective_risk": 2.75,
+     "missive": 1.78,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.31,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.74,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 25.22,
+     "threats_raw": 1.64
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -2.21,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 17.92,
+     "objective_risk": 0.06,
+     "missive": 1.78,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.13,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.67,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 30.69,
+     "threats_raw": 1.05
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Odin's Einherjar",
+    "Odin's Einherjar"
+   ],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 5.59 expected melee damage against 4 HP"
+  ],
+  "q": {
+   "danger": 1.3975,
+   "threat": 5.59,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.1799999999999997,
+   "dealing": 1.5,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 290,
+  "uid": 31,
+  "name": "Knight of Tehom 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 10,
+   "row": 9
+  },
+  "parts": {
+   "stay": 8.48,
+   "fallBack": 5.3,
+   "stayCore": 5.18,
+   "fight": 8.3,
+   "taken": 5,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.63,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 19,
+   "maxHp": 25,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Hersir",
+     "hp": 10,
+     "dealt": 2.67,
+     "taken": 2.1
+    },
+    {
+     "uid": 25,
+     "name": "Odin's Einherjar",
+     "hp": 10,
+     "dealt": 2.33,
+     "taken": 2.1
+    }
+   ],
+   "threat": 5,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.07,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.33,
+     "objective_risk": 0.19,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 5.92,
+     "leader_attach": 0,
+     "screen": 0.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.8,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.31,
+     "threats_raw": 0.51
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.88,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.19,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 3.64,
+     "leader_attach": 0,
+     "screen": 6.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.74,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 26.14,
+     "threats_raw": 0.42
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Knight of Tehom 2"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5 expected melee damage against 19 HP"
+  ],
+  "q": {
+   "danger": 0.2631578947368421,
+   "threat": 5,
+   "hp": 19,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -5.29,
+   "dealing": 4.2,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 290,
+  "uid": 38,
+  "name": "Cultist Troopers 4",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 12,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Valkyrie",
+     "hp": 10,
+     "dealt": 5,
+     "taken": 0.11
+    },
+    {
+     "uid": 21,
+     "name": "Shieldmaidens",
+     "hp": 10,
+     "dealt": 2.67,
+     "taken": 0.83
+    },
+    {
+     "uid": 27,
+     "name": "Corporaider Squad 3",
+     "hp": 6,
+     "dealt": 8,
+     "taken": 1.22
+    }
+   ],
+   "threat": 15.67,
+   "shotAt": {
+    "stay": 6,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.02,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.81,
+     "objective_risk": 1.85,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.82,
+     "leader_attach": 0,
+     "screen": 6.71,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.31,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.93,
+     "threats_raw": 3.83
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 12,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Corporaider Squad 3",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 15.67 expected melee damage against 12 HP"
+  ],
+  "q": {
+   "danger": 1.3058333333333334,
+   "threat": 15.67,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 2.16,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 290,
+  "uid": 32,
+  "name": "Knight of Tehom 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 5
+  },
+  "parts": {
+   "stay": 12.03,
+   "fallBack": -30.2,
+   "stayCore": 7.22,
+   "fight": 9.81,
+   "taken": 5,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.13,
+   "lostVp": 9,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 22,
+   "maxHp": 22,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Hersir",
+     "hp": 10,
+     "dealt": 2.67,
+     "taken": 3.31
+    },
+    {
+     "uid": 25,
+     "name": "Odin's Einherjar",
+     "hp": 10,
+     "dealt": 2.33,
+     "taken": 3.31
+    }
+   ],
+   "threat": 5,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.04,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 14.7,
+     "objective_risk": 0.16,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 8.6,
+     "leader_attach": 0,
+     "screen": 4.69,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.96,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 35.2,
+     "threats_raw": 0.49
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.83,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 9.14,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 5.49,
+     "leader_attach": 0,
+     "screen": 7.6,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.71,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 30.77,
+     "threats_raw": 0.39
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5 expected melee damage against 22 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.22727272727272727,
+   "threat": 5,
+   "hp": 22,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -2.9099999999999993,
+   "dealing": 6.62,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 290,
+  "uid": 21,
+  "name": "Shieldmaidens",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 4
+  },
+  "parts": {
+   "stay": 8.58,
+   "fallBack": 2.48,
+   "stayCore": -0.2,
+   "fight": 8.78,
+   "taken": 0.83,
+   "tieUp": 0.83,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.48,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Cultist Troopers 4",
+     "hp": 12,
+     "dealt": 0.83,
+     "taken": 2.67
+    }
+   ],
+   "threat": 0.83,
+   "shotAt": {
+    "stay": 2.22,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.92,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 87.89,
+     "objective_risk": 10.21,
+     "missive": 0.58,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.53,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.12,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 87.5,
+     "threats_raw": 1.39
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 2.78,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 85.52,
+     "objective_risk": 2.43,
+     "missive": 0.55,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.1,
+     "safety": 0.67,
+     "obj_drift": 0,
+     "role": 1.28,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 97.38,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.83 expected melee damage against 10 HP",
+   "it was winning the fight: 2.67 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.08299999999999999,
+   "threat": 0.83,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -2.5700000000000003,
+   "dealing": 2.67,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 375,
+  "uid": 31,
+  "name": "Knight of Tehom 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 9
+  },
+  "test": {
+   "need": 5,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 9
+  },
+  "parts": {
+   "stay": 6.4,
+   "fallBack": 6.63,
+   "stayCore": 5.62,
+   "fight": 1.29,
+   "taken": 2,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.96,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 19,
+   "maxHp": 25,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Hersir",
+     "hp": 6,
+     "dealt": 2,
+     "taken": 2.37
+    }
+   ],
+   "threat": 2,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.48,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 6.19,
+     "leader_attach": 0,
+     "screen": 8.05,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.64,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.86,
+     "threats_raw": 0.91
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.43,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 4.02,
+     "leader_attach": 0,
+     "screen": 8.4,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.63,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 21.89,
+     "threats_raw": 0.82
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers #2"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 2 expected melee damage against 19 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.10526315789473684,
+   "threat": 2,
+   "hp": 19,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.34999999999999964,
+   "dealing": 2.37,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 384,
+  "uid": 22,
+  "name": "Hersir",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 8
+  },
+  "parts": {
+   "stay": 7.05,
+   "fallBack": 6.68,
+   "stayCore": 6.69,
+   "fight": 1.67,
+   "taken": 4.78,
+   "tieUp": 0.47,
+   "stayDeathChance": 0.59,
+   "stayDeath": 0.59,
+   "destCore": 7.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Knight of Tehom 2",
+     "hp": 19,
+     "dealt": 3.02,
+     "taken": 2
+    },
+    {
+     "uid": 34,
+     "name": "Tide Captain",
+     "hp": 19,
+     "dealt": 1.39,
+     "taken": 2
+    },
+    {
+     "uid": 42,
+     "name": "Cultist Troopers #2",
+     "hp": 20,
+     "dealt": 0.37,
+     "taken": 2.67
+    }
+   ],
+   "threat": 4.78,
+   "shotAt": {
+    "stay": 0.67,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.63,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.12,
+     "objective_risk": 9.11,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 6.58,
+     "leader_attach": 0.18,
+     "screen": 16.2,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.64,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 49.68,
+     "threats_raw": 2.34
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.34,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": -0.6,
+     "capture_blocker": 4.27,
+     "leader_attach": 0.45,
+     "screen": 15.04,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.24,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 25.6,
+     "threats_raw": 0.89
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 4.78 expected melee damage against 6 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.7966666666666667,
+   "threat": 4.78,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.1600000000000001,
+   "dealing": 6.67,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 384,
+  "uid": 26,
+  "name": "Runesmith",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 14,
+   "row": 7
+  },
+  "parts": {
+   "stay": 4.58,
+   "fallBack": 4.1,
+   "stayCore": 4.88,
+   "fight": 0.11,
+   "taken": 2.06,
+   "tieUp": 0.14,
+   "stayDeathChance": 0.03,
+   "stayDeath": 0.03,
+   "destCore": 4.97,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.06,
+   "fallBackDeathChance": 0.03,
+   "fallBackDeath": 0.03,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 14,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 4,
+   "engagers": [
+    {
+     "uid": 33,
+     "name": "Evil-Eye Serpent",
+     "hp": 14,
+     "dealt": 2.06,
+     "taken": 0.44
+    }
+   ],
+   "threat": 2.06,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.4
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.42,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 10.05,
+     "objective_risk": 2.12,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 1.29,
+     "leader_attach": 0,
+     "screen": 2.55,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.24,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.01,
+     "threats_raw": 1.57
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.3,
+     "range": 2.5,
+     "offensive": 1.81,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.93,
+     "objective_risk": 0.25,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 1.35,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.3,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 22.89,
+     "threats_raw": 1.12
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 2.06 expected melee damage against 4 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.515,
+   "threat": 2.06,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.4,
+   "screen": 2.55,
+   "dealing": 0.44,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 384,
+  "uid": 32,
+  "name": "Knight of Tehom 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 5
+  },
+  "parts": {
+   "stay": 8.77,
+   "fallBack": -16.75,
+   "stayCore": 7.7,
+   "fight": 1.57,
+   "taken": 2,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.59,
+   "lostVp": 6,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 19,
+   "maxHp": 22,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Hersir",
+     "hp": 6,
+     "dealt": 2,
+     "taken": 3.02
+    }
+   ],
+   "threat": 2,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.75
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.52,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 223.35,
+     "objective_risk": 3.7,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 7.62,
+     "leader_attach": 0,
+     "screen": 7.31,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.92,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 245.98,
+     "threats_raw": 0.99
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.44,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 7.62,
+     "leader_attach": 0,
+     "screen": 8.29,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.78,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.9,
+     "threats_raw": 0.84
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers #2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2 expected melee damage against 19 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.10526315789473684,
+   "threat": 2,
+   "hp": 19,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.75,
+   "screen": -0.9799999999999995,
+   "dealing": 3.02,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Ghosts of Lemesos",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 384,
+  "uid": 33,
+  "name": "Evil-Eye Serpent",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 12,
+   "row": 6
+  },
+  "parts": {
+   "stay": 7.95,
+   "fallBack": 7.12,
+   "stayCore": 7.43,
+   "fight": 0.54,
+   "taken": 0.44,
+   "tieUp": 0.08,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.15,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.44,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0.25,
+   "bestDest": {
+    "col": 12,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 14,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Runesmith",
+     "hp": 4,
+     "dealt": 0.44,
+     "taken": 2.06
+    }
+   ],
+   "threat": 0.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.67
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.24,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.38,
+     "objective_risk": 0.05,
+     "missive": 4.5,
+     "obj_hold": 0.47,
+     "capture_blocker": 3.47,
+     "leader_attach": 0,
+     "screen": 16.02,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 53.59,
+     "threats_raw": 0.84
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.16,
+     "range": 2.29,
+     "offensive": 2.17,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.42,
+     "objective_risk": 0.01,
+     "missive": 4.5,
+     "obj_hold": 0.47,
+     "capture_blocker": 3.65,
+     "leader_attach": 0,
+     "screen": 9.75,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 51.79,
+     "threats_raw": 0.56
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.44 expected melee damage against 14 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 2.06 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.03142857142857143,
+   "threat": 0.44,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0.67,
+   "screen": 6.27,
+   "dealing": 2.06,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Judgement of Odin",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 384,
+  "uid": 27,
+  "name": "Corporaider Squad 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 8
+  },
+  "parts": {
+   "stay": 8.09,
+   "fallBack": 5.89,
+   "stayCore": 6.26,
+   "fight": 2,
+   "taken": 2.04,
+   "tieUp": 0.34,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.14,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Cultist Troopers #2",
+     "hp": 20,
+     "dealt": 2.04,
+     "taken": 8
+    }
+   ],
+   "threat": 2.04,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.37,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 441.9,
+     "objective_risk": 12.42,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 14.82,
+     "leader_attach": 0,
+     "screen": 21.58,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.45,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 485.14,
+     "threats_raw": 1.38
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.37,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 449,
+     "objective_risk": 5.33,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 15.59,
+     "leader_attach": 0,
+     "screen": 18.41,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.39,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 492.11,
+     "threats_raw": 1.39
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.04 expected melee damage against 6 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 8 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.34,
+   "threat": 2.04,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.169999999999998,
+   "dealing": 8,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

@@ -1,0 +1,710 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mouseion Contingent",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 71,
+  "uid": 19,
+  "name": "Argyraspides 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 10
+  },
+  "test": {
+   "need": 6,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 10
+  },
+  "parts": {
+   "stay": -31.66,
+   "fallBack": 4.02,
+   "stayCore": 5.39,
+   "fight": 1.61,
+   "taken": 22,
+   "tieUp": 3.33,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 5.69,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 22,
+   "maxHp": 22,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Palatine Protospatharius",
+     "hp": 19,
+     "dealt": 6,
+     "taken": 0.18
+    },
+    {
+     "uid": 27,
+     "name": "Palatine Custos 1",
+     "hp": 19,
+     "dealt": 8,
+     "taken": 0.69
+    },
+    {
+     "uid": 28,
+     "name": "Palatine Custos 2",
+     "hp": 12,
+     "dealt": 8,
+     "taken": 0.74
+    }
+   ],
+   "threat": 22,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -7.53,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 432.17,
+     "objective_risk": 439.81,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 9.19,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.01,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 441.81,
+     "threats_raw": 4.91
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 484.91,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 9.19,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.23,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 498.73,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 22 expected melee damage against 22 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 22,
+   "hp": 22,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 1.6099999999999999,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mouseion Contingent",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 69,
+  "uid": 23,
+  "name": "Argyraspides 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 9
+  },
+  "test": {
+   "need": 6,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 9
+  },
+  "parts": {
+   "stay": -45.27,
+   "fallBack": -39.46,
+   "stayCore": 5.58,
+   "fight": 1.82,
+   "taken": 24,
+   "tieUp": 3.33,
+   "stayDeathChance": 1,
+   "stayDeath": 36,
+   "destCore": 6.21,
+   "lostVp": 11,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Palatine Protospatharius",
+     "hp": 19,
+     "dealt": 6,
+     "taken": 0.18
+    },
+    {
+     "uid": 27,
+     "name": "Palatine Custos 1",
+     "hp": 19,
+     "dealt": 9,
+     "taken": 0.69
+    },
+    {
+     "uid": 28,
+     "name": "Palatine Custos 2",
+     "hp": 12,
+     "dealt": 9,
+     "taken": 0.74
+    }
+   ],
+   "threat": 24,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.51,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 196.91,
+     "objective_risk": 50.25,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 9.19,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.63,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 207.83,
+     "threats_raw": 3.1
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.72,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 138.99,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 9.19,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.54,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 154.31,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 24 expected melee damage against 20 HP; its death would score the enemy 6 VP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 1.2,
+   "threat": 24,
+   "hp": 20,
+   "killVp": 6,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 1.6099999999999999,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mouseion Contingent",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 172,
+  "uid": 19,
+  "name": "Argyraspides 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 10,
+   "row": 8
+  },
+  "parts": {
+   "stay": 1.65,
+   "fallBack": 0.44,
+   "stayCore": 5.23,
+   "fight": 0.07,
+   "taken": 7.85,
+   "tieUp": 0.17,
+   "stayDeathChance": 0.21,
+   "stayDeath": 1.86,
+   "destCore": 4.59,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 7.85,
+   "fallBackDeathChance": 0.21,
+   "fallBackDeath": 1.86,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 22,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Palatine Custos 2",
+     "hp": 12,
+     "dealt": 7.85,
+     "taken": 0.3
+    }
+   ],
+   "threat": 7.85,
+   "shotAt": {
+    "stay": 1.33,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -1.58,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 62.07,
+     "objective_risk": 63.7,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.96,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.56,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 68.25,
+     "threats_raw": 3.01
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 107.44,
+     "objective_risk": 6.14,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.15,
+     "safety": 0.54,
+     "obj_drift": -1.1,
+     "role": 0.9,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 113.96,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 7.85 expected melee damage against 13 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.6038461538461538,
+   "threat": 7.85,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0.81,
+   "dealing": 0.3,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Protectores Divini Lateris",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 175,
+  "uid": 28,
+  "name": "Palatine Custos 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 7,
+   "row": 8
+  },
+  "test": {
+   "need": 3,
+   "roll": 3,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 7,
+   "row": 8
+  },
+  "parts": {
+   "stay": 14.74,
+   "fallBack": 16.84,
+   "stayCore": 8.99,
+   "fight": 5.75,
+   "taken": 0.3,
+   "tieUp": 0.08,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.09,
+   "lostVp": 0,
+   "gainedVp": 3,
+   "followed": 0.3,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 16,
+     "name": "Heron of Alexandria",
+     "hp": 13,
+     "dealt": 0,
+     "taken": 11.35
+    },
+    {
+     "uid": 19,
+     "name": "Argyraspides 1",
+     "hp": 13,
+     "dealt": 0.3,
+     "taken": 7.85
+    }
+   ],
+   "threat": 0.3,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.53,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 42.65,
+     "objective_risk": 0.11,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.38,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.61,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 52.67,
+     "threats_raw": 1
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 65.51,
+     "objective_risk": 0.04,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.74,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.39,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 74.21,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 0.3 expected melee damage against 12 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 19.2 expected damage dealt",
+   "the square it falls back to takes 3 objective VP"
+  ],
+  "q": {
+   "danger": 0.024999999999999998,
+   "threat": 0.3,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 3,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.3600000000000001,
+   "dealing": 19.2,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

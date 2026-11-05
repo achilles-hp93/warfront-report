@@ -1,0 +1,2846 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 88,
+  "uid": 20,
+  "name": "Veche Levy 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": 2.16,
+   "fallBack": -1.69,
+   "stayCore": 4.49,
+   "fight": 0.78,
+   "taken": 5.33,
+   "tieUp": 2.22,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.65,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 5.33,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Sidhe Wardens 3",
+     "hp": 4,
+     "dealt": 5.33,
+     "taken": 0.78
+    }
+   ],
+   "threat": 5.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 15.56
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.98,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1103.3,
+     "objective_risk": 355.86,
+     "missive": 4.5,
+     "obj_hold": 0.69,
+     "capture_blocker": 3.75,
+     "leader_attach": 0,
+     "screen": 4.06,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.36,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 1115.68,
+     "threats_raw": 3.21
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.69,
+     "range": 2.5,
+     "offensive": 3.31,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 869.95,
+     "objective_risk": 31.26,
+     "missive": 2.65,
+     "obj_hold": -0.84,
+     "capture_blocker": 3.93,
+     "leader_attach": 0,
+     "screen": 3.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.15,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 886.6,
+     "threats_raw": 1.95
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 7,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5.33 expected melee damage against 14 HP"
+  ],
+  "q": {
+   "danger": 0.3807142857142857,
+   "threat": 5.33,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 15.56,
+   "screen": 0.7199999999999998,
+   "dealing": 0.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 88,
+  "uid": 26,
+  "name": "Veche Levy 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Morrigan's Chosen",
+     "hp": 4,
+     "dealt": 6.67,
+     "taken": 1.04
+    }
+   ],
+   "threat": 6.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.79,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 301.73,
+     "objective_risk": 87.75,
+     "missive": 4.5,
+     "obj_hold": 0.73,
+     "capture_blocker": 7.8,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.17,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 314.15,
+     "threats_raw": 3.12
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 8,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 6.67 expected melee damage against 14 HP",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.4764285714285714,
+   "threat": 6.67,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.04,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 91,
+  "uid": 32,
+  "name": "Sidhe Wardens 3",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 5
+  },
+  "parts": {
+   "stay": 11.38,
+   "fallBack": 6.3,
+   "stayCore": 6.05,
+   "fight": 5.33,
+   "taken": 0.78,
+   "tieUp": 0.77,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.3,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 8,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Veche Levy 1",
+     "hp": 14,
+     "dealt": 0.78,
+     "taken": 5.33
+    }
+   ],
+   "threat": 0.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.54
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.22,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 16.26,
+     "objective_risk": 3.36,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 9.32,
+     "leader_attach": 0,
+     "screen": 18.36,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 48.67,
+     "threats_raw": 1.53
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.28,
+     "range": 2.25,
+     "offensive": 6.55,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.72,
+     "objective_risk": 0.11,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 9.8,
+     "leader_attach": 0,
+     "screen": 5.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 50.86,
+     "threats_raw": 0.61
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.78 expected melee damage against 4 HP; its death would score the enemy 2 VP",
+   "it was winning the fight: 5.33 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.195,
+   "threat": 0.78,
+   "hp": 4,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 1.54,
+   "screen": 12.899999999999999,
+   "dealing": 5.33,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 154,
+  "uid": 21,
+  "name": "Veche Levy 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 10
+  },
+  "test": {
+   "need": 2,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 10
+  },
+  "parts": {
+   "stay": -5.99,
+   "fallBack": 1.13,
+   "stayCore": 4.48,
+   "fight": 1.67,
+   "taken": 12,
+   "tieUp": 0.67,
+   "stayDeathChance": 0.2,
+   "stayDeath": 0.8,
+   "destCore": 4.13,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.67,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Cliodhna - The Dread Tide",
+     "hp": 11,
+     "dealt": 6.67,
+     "taken": 0.56
+    },
+    {
+     "uid": 29,
+     "name": "Sidhe Wardens 1",
+     "hp": 11,
+     "dealt": 5.33,
+     "taken": 1.11
+    }
+   ],
+   "threat": 12,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.47,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 647.98,
+     "objective_risk": 194.37,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 4.98,
+     "leader_attach": 0,
+     "screen": 4.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.6,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 660.37,
+     "threats_raw": 2.88
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 755.53,
+     "objective_risk": 0.56,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 4.98,
+     "leader_attach": 0,
+     "screen": 5.38,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.27,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 771.42,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 12 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 0.6,
+   "threat": 12,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.04,
+   "dealing": 1.6700000000000002,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 157,
+  "uid": 25,
+  "name": "Bogatyr Thunderguards",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 10
+  },
+  "parts": {
+   "stay": 4.31,
+   "fallBack": 4.19,
+   "stayCore": 4.15,
+   "fight": 2.78,
+   "taken": 3.61,
+   "tieUp": 1,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.86,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 17,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Fey Lord",
+     "hp": 9,
+     "dealt": 0.83,
+     "taken": 1
+    },
+    {
+     "uid": 31,
+     "name": "Sidhe Wardens 2",
+     "hp": 9,
+     "dealt": 2.78,
+     "taken": 1.78
+    }
+   ],
+   "threat": 3.61,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.62,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 116.34,
+     "objective_risk": 9.88,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 4.58,
+     "leader_attach": 0,
+     "screen": 5.37,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.46,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 129.09,
+     "threats_raw": 1.72
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.39,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 113.26,
+     "objective_risk": 0.79,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 4.58,
+     "leader_attach": 0,
+     "screen": 5.64,
+     "safety": 0.67,
+     "obj_drift": 0,
+     "role": 1.33,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 129.72,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Veche Levy 1"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.61 expected melee damage against 13 HP"
+  ],
+  "q": {
+   "danger": 0.2776923076923077,
+   "threat": 3.61,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.2699999999999996,
+   "dealing": 2.7800000000000002,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 157,
+  "uid": 26,
+  "name": "Veche Levy 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 6,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Morrigan's Chosen",
+     "hp": 4,
+     "dealt": 5.48,
+     "taken": 0.22
+    }
+   ],
+   "threat": 5.48,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.81,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 0.36,
+     "obj_hold": 0.69,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.67,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": -0.09,
+     "threats_raw": 2.94
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Morrigan's Chosen",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 5.48 expected melee damage against 6 HP"
+  ],
+  "q": {
+   "danger": 0.9133333333333334,
+   "threat": 5.48,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 157,
+  "uid": 20,
+  "name": "Veche Levy 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 7,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Fey Lord",
+     "hp": 9,
+     "dealt": 1.33,
+     "taken": 0.33
+    },
+    {
+     "uid": 31,
+     "name": "Sidhe Wardens 2",
+     "hp": 9,
+     "dealt": 6.25,
+     "taken": 0.44
+    },
+    {
+     "uid": 32,
+     "name": "Sidhe Wardens 3",
+     "hp": 3,
+     "dealt": 4,
+     "taken": 0.44
+    }
+   ],
+   "threat": 11.58,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.76,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 345.85,
+     "objective_risk": 236.54,
+     "missive": 4.5,
+     "obj_hold": 0.69,
+     "capture_blocker": 2.21,
+     "leader_attach": 0,
+     "screen": 6.61,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.01,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 359.1,
+     "threats_raw": 2.87
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 7,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Sidhe Wardens 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 11.58 expected melee damage against 7 HP"
+  ],
+  "q": {
+   "danger": 1.6542857142857144,
+   "threat": 11.58,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.21,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 157,
+  "uid": 23,
+  "name": "Rynda Guard",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 8
+  },
+  "parts": {
+   "stay": 23.11,
+   "fallBack": 3.84,
+   "stayCore": 5.11,
+   "fight": 18,
+   "taken": 0.17,
+   "tieUp": 0.17,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.17,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 21,
+   "maxHp": 27,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Briton Yeomen 2",
+     "hp": 6,
+     "dealt": 0.17,
+     "taken": 5.36
+    }
+   ],
+   "threat": 0.17,
+   "shotAt": {
+    "stay": 1.33,
+    "dest": 1.67
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.35,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 107.1,
+     "objective_risk": 0.15,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 11.27,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.22,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 122.73,
+     "threats_raw": 0.65
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.14,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 107.17,
+     "objective_risk": 0.08,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 7.27,
+     "leader_attach": 0,
+     "screen": 3.4,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.11,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 122.32,
+     "threats_raw": 0.54
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.17 expected melee damage against 21 HP; its death would score the enemy 2 VP",
+   "it was winning the fight: 5.36 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.008095238095238096,
+   "threat": 0.17,
+   "hp": 21,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.67,
+   "screen": -3.4,
+   "dealing": 5.36,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 157,
+  "uid": 35,
+  "name": "Briton Yeomen 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 1,
+   "row": 3
+  },
+  "test": {
+   "need": 4,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 3
+  },
+  "parts": {
+   "stay": -13.91,
+   "fallBack": -11.74,
+   "stayCore": 6.69,
+   "fight": 0.33,
+   "taken": 8.69,
+   "tieUp": 1.07,
+   "stayDeathChance": 1,
+   "stayDeath": 16,
+   "destCore": 6.97,
+   "lostVp": 1,
+   "gainedVp": 0,
+   "followed": 4.69,
+   "fallBackDeathChance": 0.56,
+   "fallBackDeath": 9.02,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 1,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Rurik the Deathless",
+     "hp": 21,
+     "dealt": 3.33,
+     "taken": 0.17
+    },
+    {
+     "uid": 23,
+     "name": "Rynda Guard",
+     "hp": 21,
+     "dealt": 5.36,
+     "taken": 0.17
+    }
+   ],
+   "threat": 8.69,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.63,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 47.46,
+     "objective_risk": 43.23,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 0.83,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.63,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 53.95,
+     "threats_raw": 1.85
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.19,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 47.73,
+     "objective_risk": 0.45,
+     "missive": 1.88,
+     "obj_hold": -1.7,
+     "capture_blocker": 0.87,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 2.94,
+     "obj_drift": -2.2,
+     "role": 0.35,
+     "posture": 1.2,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 53.85,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 8.69 expected melee damage against 6 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 1.4483333333333333,
+   "threat": 8.69,
+   "hp": 6,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.34,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 160,
+  "uid": 36,
+  "name": "Morrigan's Chosen",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 13,
+   "row": 6
+  },
+  "parts": {
+   "stay": 16.07,
+   "fallBack": 6.03,
+   "stayCore": 7.28,
+   "fight": 8.79,
+   "taken": 0.22,
+   "tieUp": 0.22,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.92,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.22,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 4,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Veche Levy 3",
+     "hp": 6,
+     "dealt": 0.22,
+     "taken": 5.48
+    }
+   ],
+   "threat": 0.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.44
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.41,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.21,
+     "objective_risk": 0.01,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.27,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.15,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.51,
+     "threats_raw": 0.67
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.9,
+     "range": 1.67,
+     "offensive": 1.22,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.22,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.75,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.99,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.04,
+     "threats_raw": 0.43
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.22 expected melee damage against 4 HP; its death would score the enemy 6 VP",
+   "it was winning the fight: 5.48 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.055,
+   "threat": 0.22,
+   "hp": 4,
+   "killVp": 6,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.44,
+   "screen": -0.4800000000000004,
+   "dealing": 5.48,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 160,
+  "uid": 32,
+  "name": "Sidhe Wardens 3",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 9
+  },
+  "parts": {
+   "stay": 11.46,
+   "fallBack": 2.16,
+   "stayCore": 6.89,
+   "fight": 4.57,
+   "taken": 0.44,
+   "tieUp": 0.44,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.16,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 5,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Veche Levy 1",
+     "hp": 7,
+     "dealt": 0.44,
+     "taken": 4
+    }
+   ],
+   "threat": 0.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.46,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.8,
+     "objective_risk": 0.63,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 7.03,
+     "leader_attach": 0,
+     "screen": 14.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.21,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 54.32,
+     "threats_raw": 0.7
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 16.85,
+     "objective_risk": 0.02,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 7.39,
+     "leader_attach": 0,
+     "screen": 12.72,
+     "safety": 0.96,
+     "obj_drift": -1.8,
+     "role": 1.25,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 44.19,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.44 expected melee damage against 3 HP; its death would score the enemy 2 VP",
+   "it was winning the fight: 4 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.14666666666666667,
+   "threat": 0.44,
+   "hp": 3,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.4299999999999997,
+   "dealing": 4,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 217,
+  "uid": 25,
+  "name": "Bogatyr Thunderguards",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 10
+  },
+  "parts": {
+   "stay": 6.24,
+   "fallBack": 5.81,
+   "stayCore": 6.47,
+   "fight": 1.52,
+   "taken": 6.8,
+   "tieUp": 0.19,
+   "stayDeathChance": 0.24,
+   "stayDeath": 0.24,
+   "destCore": 5.56,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0.5,
+   "bestDest": {
+    "col": 9,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 17,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Cliodhna - The Dread Tide",
+     "hp": 8,
+     "dealt": 3.74,
+     "taken": 0.52
+    },
+    {
+     "uid": 29,
+     "name": "Sidhe Wardens 1",
+     "hp": 8,
+     "dealt": 0.56,
+     "taken": 2.67
+    },
+    {
+     "uid": 30,
+     "name": "Fey Lord",
+     "hp": 7,
+     "dealt": 0.83,
+     "taken": 1.01
+    },
+    {
+     "uid": 31,
+     "name": "Sidhe Wardens 2",
+     "hp": 7,
+     "dealt": 1.67,
+     "taken": 1.87
+    }
+   ],
+   "threat": 6.8,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.89,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 107,
+     "objective_risk": 66.19,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.66,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.72,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 115.78,
+     "threats_raw": 1.7
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.56,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 114.59,
+     "objective_risk": 41.51,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.78,
+     "safety": 0.38,
+     "obj_drift": 0,
+     "role": 1.49,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 125.49,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 5,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Veche Levy 2",
+    "Veche Levy 2",
+    "Winter Witch"
+   ],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 6.8 expected melee damage against 11 HP",
+   "Player B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.6181818181818182,
+   "threat": 6.8,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": -1.1199999999999997,
+   "dealing": 6.07,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 220,
+  "uid": 31,
+  "name": "Sidhe Wardens 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 6
+  },
+  "parts": {
+   "stay": 9.34,
+   "fallBack": 1.62,
+   "stayCore": 7.01,
+   "fight": 2.79,
+   "taken": 2.98,
+   "tieUp": 0.28,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.76,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 5.14,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Veche Levy 2",
+     "hp": 20,
+     "dealt": 1.11,
+     "taken": 4
+    },
+    {
+     "uid": 24,
+     "name": "Winter Witch",
+     "hp": 11,
+     "dealt": 0,
+     "taken": 2.5
+    },
+    {
+     "uid": 25,
+     "name": "Bogatyr Thunderguards",
+     "hp": 11,
+     "dealt": 1.87,
+     "taken": 1.67
+    }
+   ],
+   "threat": 2.98,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.72,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 34.13,
+     "objective_risk": 7.95,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.31,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.17,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 47.86,
+     "threats_raw": 1.38
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.32,
+     "range": 1.63,
+     "offensive": 2.12,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 45.7,
+     "objective_risk": 0.16,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.88,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 62.53,
+     "threats_raw": 0.6
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.98 expected melee damage against 7 HP; its death would score the enemy 4 VP",
+   "Player B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "it was winning the fight: 8.17 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.4257142857142857,
+   "threat": 2.98,
+   "hp": 7,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0.8499999999999996,
+   "dealing": 8.17,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 287,
+  "uid": 21,
+  "name": "Veche Levy 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 10
+  },
+  "parts": {
+   "stay": 5.53,
+   "fallBack": 5.23,
+   "stayCore": 6.26,
+   "fight": 0.68,
+   "taken": 6.67,
+   "tieUp": 0.26,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.44,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.17,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 17,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Fey Lord",
+     "hp": 5,
+     "dealt": 1.33,
+     "taken": 0.75
+    },
+    {
+     "uid": 31,
+     "name": "Sidhe Wardens 2",
+     "hp": 5,
+     "dealt": 1.33,
+     "taken": 1
+    },
+    {
+     "uid": 32,
+     "name": "Sidhe Wardens 3",
+     "hp": 3,
+     "dealt": 4,
+     "taken": 0.99
+    }
+   ],
+   "threat": 6.66,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.82
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.7,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.91,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.57,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.73,
+     "threats_raw": 2.33
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.45,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.27,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.32,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.1,
+     "threats_raw": 1.5
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 6.66 expected melee damage against 17 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.39176470588235296,
+   "threat": 6.66,
+   "hp": 17,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.82,
+   "screen": 2.64,
+   "dealing": 2.74,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Winter Host",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 282,
+  "uid": 24,
+  "name": "Winter Witch",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 10
+  },
+  "test": {
+   "need": 4,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": 2.46,
+   "fallBack": 3.72,
+   "stayCore": 4.32,
+   "fight": 0,
+   "taken": 5.28,
+   "tieUp": 0.15,
+   "stayDeathChance": 1,
+   "stayDeath": 1,
+   "destCore": 3.97,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Cliodhna - The Dread Tide",
+     "hp": 8,
+     "dealt": 2.78,
+     "taken": 0
+    },
+    {
+     "uid": 29,
+     "name": "Sidhe Wardens 1",
+     "hp": 8,
+     "dealt": 0.83,
+     "taken": 0
+    },
+    {
+     "uid": 30,
+     "name": "Fey Lord",
+     "hp": 5,
+     "dealt": 0.83,
+     "taken": 0
+    },
+    {
+     "uid": 31,
+     "name": "Sidhe Wardens 2",
+     "hp": 5,
+     "dealt": 0.83,
+     "taken": 0
+    }
+   ],
+   "threat": 5.27,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.67
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.83,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 3.05,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.5,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.12,
+     "threats_raw": 1.58
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.62,
+     "range": 2.29,
+     "offensive": 0.27,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 2.87,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": -0.4,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.23,
+     "threats_raw": 1.18
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Veche Levy",
+    "Veche Levy 2",
+    "Veche Levy",
+    "Veche Levy 2"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 5.27 expected melee damage against 4 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 1.67 damage on it"
+  ],
+  "q": {
+   "danger": 1.3175,
+   "threat": 5.27,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.67,
+   "screen": 0.17999999999999972,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 288,
+  "uid": 31,
+  "name": "Sidhe Wardens 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 6
+  },
+  "parts": {
+   "stay": 6.91,
+   "fallBack": -8.19,
+   "stayCore": 6.4,
+   "fight": 0.67,
+   "taken": 1,
+   "tieUp": 0.09,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.18,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 14.38,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Veche Levy 2",
+     "hp": 17,
+     "dealt": 1,
+     "taken": 1.33
+    }
+   ],
+   "threat": 1,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.45,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.73,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 10.19,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 16.4,
+     "threats_raw": 0.86
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.37,
+     "range": 1.63,
+     "offensive": 1.36,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.57,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.63,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.72,
+     "threats_raw": 0.71
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Sidhe Wardens 3"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1 expected melee damage against 5 HP; its death would score the enemy 4 VP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.2,
+   "threat": 1,
+   "hp": 5,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 9.62,
+   "dealing": 1.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 287,
+  "uid": 37,
+  "name": "Sidhe Wardens",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 11
+  },
+  "test": {
+   "need": 5,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 2
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 11
+  },
+  "parts": {
+   "stay": -2.14,
+   "fallBack": 2.72,
+   "stayCore": 7.09,
+   "fight": 0.17,
+   "taken": 2.95,
+   "tieUp": 0.11,
+   "stayDeathChance": 1,
+   "stayDeath": 9,
+   "destCore": 7.05,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 4.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Rurik the Deathless",
+     "hp": 20,
+     "dealt": 1.29,
+     "taken": 0.22
+    },
+    {
+     "uid": 23,
+     "name": "Rynda Guard",
+     "hp": 20,
+     "dealt": 1.66,
+     "taken": 0.44
+    }
+   ],
+   "threat": 2.95,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.44,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.16,
+     "objective_risk": 6.72,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 1.02,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.87,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.27,
+     "threats_raw": 1.16
+    },
+    "dest": {
+     "cover": 2.6,
+     "threat": -0.2,
+     "range": 1.88,
+     "offensive": 2.55,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.88,
+     "obj_hold": -1.7,
+     "capture_blocker": 1.06,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -2.2,
+     "role": 1.09,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.55,
+     "threats_raw": 0.38
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 2.95 expected melee damage against 2 HP; its death would score the enemy 2 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "staying, its death (100% by the AI's reckoning) would have scored the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 1.475,
+   "threat": 2.95,
+   "hp": 2,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5,
+   "dealing": 0.66,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Glandore Breakers",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 288,
+  "uid": 29,
+  "name": "Sidhe Wardens 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 7
+  },
+  "parts": {
+   "stay": 9.16,
+   "fallBack": -10.79,
+   "stayCore": 7.16,
+   "fight": 2,
+   "taken": 1.11,
+   "tieUp": 0.28,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.91,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 17.71,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Veche Levy",
+     "hp": 20,
+     "dealt": 1.11,
+     "taken": 1.33
+    }
+   ],
+   "threat": 1.11,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.25,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.82,
+     "objective_risk": 0.15,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 11.6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.8,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.58,
+     "threats_raw": 0.47
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.18,
+     "range": 2,
+     "offensive": 1.22,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.93,
+     "objective_risk": 0.04,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.19,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 0.7,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.15,
+     "threats_raw": 0.35
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.11 expected melee damage against 8 HP; its death would score the enemy 5 VP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.13875,
+   "threat": 1.11,
+   "hp": 8,
+   "killVp": 5,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 7.409999999999999,
+   "dealing": 1.33,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

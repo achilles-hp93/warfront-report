@@ -1,0 +1,1422 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Longwu Army",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 126,
+  "uid": 39,
+  "name": "Commandery Bannermen 4",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 6
+  },
+  "test": {
+   "need": 5,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 6
+  },
+  "parts": {
+   "stay": 3.28,
+   "fallBack": 3.76,
+   "stayCore": 5.32,
+   "fight": 1.11,
+   "taken": 3.56,
+   "tieUp": 0.41,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.09,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Seraph of Evolution",
+     "hp": 11,
+     "dealt": 3.56,
+     "taken": 1.11
+    }
+   ],
+   "threat": 3.56,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.59
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.88,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 42.93,
+     "objective_risk": 2.78,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 4.22,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 51.75,
+     "threats_raw": 2.03
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.35,
+     "range": 1.88,
+     "offensive": 4.48,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 45.08,
+     "objective_risk": 0.63,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 4.22,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 60.58,
+     "threats_raw": 1.66
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Commandery Bannermen"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 3.56 expected melee damage against 10 HP; its death would score the enemy 1 VP",
+   "where it lands, enemy guns expect 2.59 damage on it"
+  ],
+  "q": {
+   "danger": 0.356,
+   "threat": 3.56,
+   "hp": 10,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.59,
+   "screen": 0,
+   "dealing": 1.11,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Lightbearers of Antioch",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 212,
+  "uid": 29,
+  "name": "Ashen Chirurgeon 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 1,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Terracotta Vanguard",
+     "hp": 9,
+     "dealt": 0.83,
+     "taken": 1.3
+    }
+   ],
+   "threat": 0.83,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.21,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.55,
+     "objective_risk": 31.62,
+     "missive": 1.05,
+     "obj_hold": 0.49,
+     "capture_blocker": 0,
+     "leader_attach": 0.18,
+     "screen": 27.96,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.42,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 44.74,
+     "threats_raw": 1.13
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 0.83 expected melee damage against 1 HP"
+  ],
+  "q": {
+   "danger": 0.83,
+   "threat": 0.83,
+   "hp": 1,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.3,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Lightbearers of Antioch",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 212,
+  "uid": 25,
+  "name": "Seraph of Evolution",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 47,
+     "name": "Commandery Bannermen",
+     "hp": 6,
+     "dealt": 0.67,
+     "taken": 2.67
+    }
+   ],
+   "threat": 0.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.98,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 223.77,
+     "objective_risk": 55.2,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 6.7,
+     "leader_attach": 0,
+     "screen": 20.75,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.35,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 256.88,
+     "threats_raw": 1.85
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 13,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.67 expected melee damage against 12 HP",
+   "it was winning the fight: 2.67 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.05583333333333334,
+   "threat": 0.67,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 2.67,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Longwu Army",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 213,
+  "uid": 47,
+  "name": "Commandery Bannermen",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 10,
+   "row": 5
+  },
+  "parts": {
+   "stay": 3.96,
+   "fallBack": -48.94,
+   "stayCore": 5.55,
+   "fight": 0.67,
+   "taken": 2.67,
+   "tieUp": 0.41,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": -9.27,
+   "lostVp": 10,
+   "gainedVp": 0,
+   "followed": 1.33,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 3,
+   "bestDest": {
+    "col": 10,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Seraph of Evolution",
+     "hp": 12,
+     "dealt": 2.67,
+     "taken": 0.67
+    }
+   ],
+   "threat": 2.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 3,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.11,
+     "objective_risk": 1.38,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 2.59,
+     "leader_attach": 0,
+     "screen": 11.45,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.16,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 22.6,
+     "threats_raw": 2.12
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0.4,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3,
+     "objective_risk": 0.03,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 2.59,
+     "leader_attach": 0,
+     "screen": 6.61,
+     "safety": 0.96,
+     "obj_drift": -2.2,
+     "role": 0.95,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": -15.85,
+     "total": 3.63,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Seraph of Evolution",
+   "destroyedNext": false,
+   "shotsAtEngagers": 3,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held to the end",
+  "why": [
+   "danger 2.67 expected melee damage against 6 HP; its death would score the enemy 1 VP",
+   "it held 3 objective VP that leaving gives up",
+   "leaving opens 3 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.445,
+   "threat": 2.67,
+   "hp": 6,
+   "killVp": 1,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 3,
+   "shotAfter": 0,
+   "screen": 4.839999999999999,
+   "dealing": 0.67,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Longwu Army",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 213,
+  "uid": 42,
+  "name": "Terracotta Vanguard",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 5
+  },
+  "parts": {
+   "stay": 5.53,
+   "fallBack": -51.82,
+   "stayCore": 3.37,
+   "fight": 3.46,
+   "taken": 1.3,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": -12.49,
+   "lostVp": 10,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 7,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 9,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Ashen Chirurgeon 2",
+     "hp": 1,
+     "dealt": 1.3,
+     "taken": 0.83
+    }
+   ],
+   "threat": 1.3,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.63,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.32,
+     "objective_risk": 1.16,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 2.03,
+     "leader_attach": 0,
+     "screen": 11.2,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.7,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.92,
+     "threats_raw": 2.21
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.18,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.36,
+     "objective_risk": 0.02,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 1.6,
+     "leader_attach": 0,
+     "screen": 8.33,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.3,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": -15.85,
+     "total": -0.3,
+     "threats_raw": 1.04
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.3 expected melee damage against 9 HP; its death would score the enemy 1 VP",
+   "it held 3 objective VP that leaving gives up",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.14444444444444446,
+   "threat": 1.3,
+   "hp": 9,
+   "killVp": 1,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 2.869999999999999,
+   "dealing": 0.83,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Lightbearers of Antioch",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 313,
+  "uid": 29,
+  "name": "Ashen Chirurgeon 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 1,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Terracotta Vanguard",
+     "hp": 5,
+     "dealt": 0.82,
+     "taken": 1.67
+    }
+   ],
+   "threat": 0.82,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.2,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.3,
+     "objective_risk": 3.04,
+     "missive": 1.05,
+     "obj_hold": 0.52,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 16.56,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.45,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 22.44,
+     "threats_raw": 0.8
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Vermillion Rocket Battery 1",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 0.82 expected melee damage against 1 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 1.67 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.82,
+   "threat": 0.82,
+   "hp": 1,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.67,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Lightbearers of Antioch",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 313,
+  "uid": 24,
+  "name": "The Dawn King",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 4,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Commandery Bannermen 3",
+     "hp": 10,
+     "dealt": 0.86,
+     "taken": 2.22
+    },
+    {
+     "uid": 42,
+     "name": "Terracotta Vanguard",
+     "hp": 5,
+     "dealt": 0.49,
+     "taken": 2.53
+    }
+   ],
+   "threat": 1.35,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.25,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 59.26,
+     "objective_risk": 3.33,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 9.86,
+     "leader_attach": 0,
+     "screen": 9.6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.9,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 86.69,
+     "threats_raw": 1.01
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.35 expected melee damage against 4 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 4.75 expected damage dealt",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.3375,
+   "threat": 1.35,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 4.75,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Longwu Army",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 313,
+  "uid": 40,
+  "name": "Commandery Bannermen 5",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 6
+  },
+  "parts": {
+   "stay": 7.3,
+   "fallBack": 6.22,
+   "stayCore": 6.6,
+   "fight": 1.07,
+   "taken": 1.48,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.39,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Ashen Chirurgeon 1",
+     "hp": 1,
+     "dealt": 1.48,
+     "taken": 0.92
+    }
+   ],
+   "threat": 1.48,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.67
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.29,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.96,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.81,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.13,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.41,
+     "threats_raw": 0.82
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.3,
+     "range": 2.03,
+     "offensive": 1.96,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.96,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 11.38,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.13,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.66,
+     "threats_raw": 0.85
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.48 expected melee damage against 4 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.37,
+   "threat": 1.48,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.67,
+   "screen": -3.570000000000001,
+   "dealing": 0.92,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Longwu Army",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 313,
+  "uid": 39,
+  "name": "Commandery Bannermen 4",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 5,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Seraph of Evolution",
+     "hp": 4,
+     "dealt": 3.04,
+     "taken": 0.78
+    },
+    {
+     "uid": 28,
+     "name": "Ashen Chirurgeon 1",
+     "hp": 1,
+     "dealt": 0.99,
+     "taken": 0.98
+    }
+   ],
+   "threat": 4.03,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.4,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 162.65,
+     "objective_risk": 33.48,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 9.46,
+     "leader_attach": 0,
+     "screen": 9.28,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.42,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 189,
+     "threats_raw": 1.58
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Terracotta Vanguard"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 4.03 expected melee damage against 5 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.806,
+   "threat": 4.03,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.76,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Longwu Army",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 313,
+  "uid": 42,
+  "name": "Terracotta Vanguard",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": 8.43,
+   "fallBack": 7.59,
+   "stayCore": 8.02,
+   "fight": 1.98,
+   "taken": 10.01,
+   "tieUp": 0.68,
+   "stayDeathChance": 1,
+   "stayDeath": 1,
+   "destCore": 7.5,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 0.5,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "The Dawn King",
+     "hp": 4,
+     "dealt": 2.53,
+     "taken": 0.49
+    },
+    {
+     "uid": 25,
+     "name": "Seraph of Evolution",
+     "hp": 4,
+     "dealt": 4.15,
+     "taken": 0.72
+    },
+    {
+     "uid": 28,
+     "name": "Ashen Chirurgeon 1",
+     "hp": 1,
+     "dealt": 1.67,
+     "taken": 0.82
+    },
+    {
+     "uid": 29,
+     "name": "Ashen Chirurgeon 2",
+     "hp": 1,
+     "dealt": 1.67,
+     "taken": 0.82
+    }
+   ],
+   "threat": 10.02,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.81,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.92,
+     "objective_risk": 23.15,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 5.46,
+     "leader_attach": 0,
+     "screen": 11.04,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.01,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 51.21,
+     "threats_raw": 2.18
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.45,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": -0.35,
+     "capture_blocker": 4.73,
+     "leader_attach": 0,
+     "screen": 11.13,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.51,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 21.72,
+     "threats_raw": 1.03
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 10.02 expected melee damage against 5 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 2.004,
+   "threat": 10.02,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": -0.09000000000000163,
+   "dealing": 2.8499999999999996,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

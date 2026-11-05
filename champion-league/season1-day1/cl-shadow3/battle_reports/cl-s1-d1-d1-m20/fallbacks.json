@@ -1,0 +1,1389 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alea Iacta",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 182,
+  "uid": 38,
+  "name": "Ironthunder Vanguard 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 6
+  },
+  "parts": {
+   "stay": 16.08,
+   "fallBack": 2.82,
+   "stayCore": 4.07,
+   "fight": 12,
+   "taken": 0.07,
+   "tieUp": 0.09,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.22,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.07,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 43,
+     "name": "Covenant Levies",
+     "hp": 8,
+     "dealt": 0.07,
+     "taken": 8
+    }
+   ],
+   "threat": 0.07,
+   "shotAt": {
+    "stay": 4.2,
+    "dest": 4.37
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.55,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.07,
+     "objective_risk": 0.39,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.86,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.84,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 44.72,
+     "threats_raw": 1.21
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.13,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.28,
+     "objective_risk": 0.18,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.63,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 43.18,
+     "threats_raw": 1.01
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 12,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Silver Arrow Brethren 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 0.07 expected melee damage against 12 HP",
+   "it was winning the fight: 8 expected damage dealt, enough to destroy an engager"
+  ],
+  "q": {
+   "danger": 0.005833333333333334,
+   "threat": 0.07,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4.37,
+   "screen": 0.86,
+   "dealing": 8,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Popinjay Guild",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 188,
+  "uid": 43,
+  "name": "Covenant Levies",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 1,
+   "row": 10
+  },
+  "test": {
+   "need": 3,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 10
+  },
+  "parts": {
+   "stay": -2.88,
+   "fallBack": 2.07,
+   "stayCore": 9.04,
+   "fight": 0.07,
+   "taken": 8,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 6.73,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 4,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 1,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Ironthunder Vanguard 2",
+     "hp": 12,
+     "dealt": 8,
+     "taken": 0.07
+    }
+   ],
+   "threat": 8,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.29,
+     "objective_risk": 3.93,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 0.97,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 2.16,
+     "obj_drift": 0,
+     "role": 0.58,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.67,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0.19,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.35,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 1.01,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 2.16,
+     "obj_drift": -1.8,
+     "role": 0.41,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.22,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 8 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 8,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.07,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Popinjay Guild",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 190,
+  "uid": 29,
+  "name": "Covenant Levies 4",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 8
+  },
+  "test": {
+   "need": 3,
+   "roll": 3,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 8
+  },
+  "parts": {
+   "stay": -2.32,
+   "fallBack": 5.46,
+   "stayCore": 6.8,
+   "fight": 0.22,
+   "taken": 11.92,
+   "tieUp": 0.67,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 6.13,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Caesar - Divus Imperator",
+     "hp": 20,
+     "dealt": 5.92,
+     "taken": 0.17
+    },
+    {
+     "uid": 37,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 20,
+     "dealt": 6,
+     "taken": 0.06
+    }
+   ],
+   "threat": 11.92,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.33
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.34,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.29,
+     "objective_risk": 4.53,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 1.06,
+     "leader_attach": 0,
+     "screen": 8.56,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.74,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.96,
+     "threats_raw": 1.75
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.78,
+     "range": 1.47,
+     "offensive": 0.43,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.69,
+     "objective_risk": 0.02,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 1.11,
+     "leader_attach": 0,
+     "screen": 11.97,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.66,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.68,
+     "threats_raw": 0.74
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 5,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 11.92 expected melee damage against 6 HP",
+   "where it lands, enemy guns expect 1.33 damage on it"
+  ],
+  "q": {
+   "danger": 1.9866666666666666,
+   "threat": 11.92,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.33,
+   "screen": -3.41,
+   "dealing": 0.23,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Popinjay Guild",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 196,
+  "uid": 27,
+  "name": "Covenant Levies 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 9
+  },
+  "test": {
+   "need": 3,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 9
+  },
+  "parts": {
+   "stay": -14.21,
+   "fallBack": 4.54,
+   "stayCore": 7.33,
+   "fight": 0.46,
+   "taken": 23.33,
+   "tieUp": 2,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 5.21,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Caesar - Divus Imperator",
+     "hp": 20,
+     "dealt": 8.33,
+     "taken": 0.28
+    },
+    {
+     "uid": 37,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 20,
+     "dealt": 15,
+     "taken": 0.19
+    }
+   ],
+   "threat": 23.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.22,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 304.21,
+     "objective_risk": 209.1,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 3.18,
+     "leader_attach": 0,
+     "screen": 11.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.88,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 324.18,
+     "threats_raw": 2.89
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.47,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 286.96,
+     "objective_risk": 0.05,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 3.34,
+     "leader_attach": 0,
+     "screen": 12.15,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.74,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 306.19,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 5,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 23.33 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 1.1664999999999999,
+   "threat": 23.33,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.9800000000000004,
+   "dealing": 0.47000000000000003,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Popinjay Guild",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 265,
+  "uid": 24,
+  "name": "Silver Arrow Brethren 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 10
+  },
+  "test": {
+   "need": 6,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 10
+  },
+  "parts": {
+   "stay": -8.58,
+   "fallBack": 6.36,
+   "stayCore": 8.29,
+   "fight": 0.51,
+   "taken": 14.33,
+   "tieUp": 0.61,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 8.03,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 14,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Caesar - Divus Imperator",
+     "hp": 16,
+     "dealt": 8.33,
+     "taken": 0.28
+    },
+    {
+     "uid": 37,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 16,
+     "dealt": 6,
+     "taken": 0.19
+    }
+   ],
+   "threat": 14.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.32,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.74,
+     "objective_risk": 0.55,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.27,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.76,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.54,
+     "threats_raw": 2.06
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.79,
+     "range": 1.88,
+     "offensive": 1.37,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.06,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.67,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.42,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.4,
+     "threats_raw": 0.85
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 4,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 14.33 expected melee damage against 14 HP"
+  ],
+  "q": {
+   "danger": 1.0235714285714286,
+   "threat": 14.33,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5.6,
+   "dealing": 0.47000000000000003,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Popinjay Guild",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 268,
+  "uid": 25,
+  "name": "Sniper Hesychast",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 11,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 11,
+   "row": 9
+  },
+  "parts": {
+   "stay": -4.51,
+   "fallBack": 5.99,
+   "stayCore": 3.82,
+   "fight": 0.05,
+   "taken": 9.92,
+   "tieUp": 0.63,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 2.99,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 4,
+   "bestDest": {
+    "col": 11,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Caesar - Divus Imperator",
+     "hp": 16,
+     "dealt": 4.99,
+     "taken": 0.03
+    },
+    {
+     "uid": 37,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 16,
+     "dealt": 4.93,
+     "taken": 0.02
+    }
+   ],
+   "threat": 9.92,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 4,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.75,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.05,
+     "objective_risk": 0.06,
+     "missive": 1.74,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.19,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.98,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -1.99,
+     "formation": 0,
+     "total": 8.04,
+     "threats_raw": 2.26
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.22,
+     "range": 1.25,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.09,
+     "objective_risk": 0,
+     "missive": 1.74,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.65,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.57,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 2.69,
+     "threats_raw": 0.58
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 4,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 9.92 expected melee damage against 5 HP",
+   "leaving opens 4 shot(s) at its enemies; 4 taken"
+  ],
+  "q": {
+   "danger": 1.984,
+   "threat": 9.92,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 4,
+   "shotAfter": 0,
+   "screen": 7.539999999999999,
+   "dealing": 0.05,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Popinjay Guild",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 342,
+  "uid": 26,
+  "name": "Covenant Levies 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 5
+  },
+  "test": {
+   "need": 3,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 5
+  },
+  "parts": {
+   "stay": -17.36,
+   "fallBack": -16.66,
+   "stayCore": 7.89,
+   "fight": 0.24,
+   "taken": 21.39,
+   "tieUp": 0.5,
+   "stayDeathChance": 1,
+   "stayDeath": 21,
+   "destCore": 7.5,
+   "lostVp": 6,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Caesar - Divus Imperator",
+     "hp": 14,
+     "dealt": 9.72,
+     "taken": 0.56
+    },
+    {
+     "uid": 37,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 14,
+     "dealt": 11.67,
+     "taken": 0.42
+    }
+   ],
+   "threat": 21.39,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.47,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 123.26,
+     "objective_risk": 10.56,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 6.21,
+     "leader_attach": 0,
+     "screen": 3,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.29,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 139.89,
+     "threats_raw": 1.8
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.21,
+     "range": 1.34,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 6.53,
+     "leader_attach": 0,
+     "screen": 1.33,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.25,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.4,
+     "threats_raw": 0.79
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 4,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 21.39 expected melee damage against 20 HP; its death would score the enemy 3 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it held 3 objective VP that leaving gives up",
+   "staying, its death (100% by the AI's reckoning) would have scored the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1.0695000000000001,
+   "threat": 21.39,
+   "hp": 20,
+   "killVp": 3,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.67,
+   "dealing": 0.98,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Popinjay Guild",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 344,
+  "uid": 23,
+  "name": "Silver Arrow Brethren 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 8
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 8
+  },
+  "parts": {
+   "stay": -17.11,
+   "fallBack": 6.91,
+   "stayCore": 6.74,
+   "fight": 1.18,
+   "taken": 17.08,
+   "tieUp": 0.22,
+   "stayDeathChance": 1,
+   "stayDeath": 21,
+   "destCore": 6.66,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0.5,
+   "bestDest": {
+    "col": 4,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 17,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Caesar - Divus Imperator",
+     "hp": 14,
+     "dealt": 10.08,
+     "taken": 0.14
+    },
+    {
+     "uid": 37,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 14,
+     "dealt": 7,
+     "taken": 0.19
+    }
+   ],
+   "threat": 17.08,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.19,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 153.8,
+     "objective_risk": 167.52,
+     "missive": 3,
+     "obj_hold": 0.29,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.34,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 159.64,
+     "threats_raw": 3.18
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.47,
+     "offensive": 4.61,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": -0.91,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.06,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 10.04,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 4,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 17.08 expected melee damage against 17 HP; its death would score the enemy 3 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 2 shot(s) at its enemies; 4 taken",
+   "staying, its death (100% by the AI's reckoning) would have scored the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1.0047058823529411,
+   "threat": 17.08,
+   "hp": 17,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.33,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

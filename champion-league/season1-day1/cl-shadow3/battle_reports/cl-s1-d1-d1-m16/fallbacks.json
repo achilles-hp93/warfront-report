@@ -1,0 +1,649 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Golden Tumen",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 116,
+  "uid": 36,
+  "name": "Stormrider",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 0,
+   "row": 6
+  },
+  "test": {
+   "need": 5,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 0,
+   "row": 6
+  },
+  "parts": {
+   "stay": 4.87,
+   "fallBack": 8.06,
+   "stayCore": 4.2,
+   "fight": 2.33,
+   "taken": 1.67,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 9.39,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 25,
+   "maxHp": 25,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Skeletal Spearman 1",
+     "hp": 10,
+     "dealt": 1.67,
+     "taken": 2.22
+    }
+   ],
+   "threat": 1.67,
+   "shotAt": {
+    "stay": 3.33,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.89,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.07,
+     "objective_risk": 0.39,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.79,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.99,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 50.07,
+     "threats_raw": 0.9
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.23,
+     "range": 2.5,
+     "offensive": 2.66,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.45,
+     "objective_risk": 0.01,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.81,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 49.79,
+     "threats_raw": 0.58
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 1.67 expected melee damage against 25 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 0.0668,
+   "threat": 1.67,
+   "hp": 25,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5.79,
+   "dealing": 2.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "March of the Restless Dead",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 199,
+  "uid": 32,
+  "name": "Skeletal Archer 3",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 9
+  },
+  "parts": {
+   "stay": 3.64,
+   "fallBack": 5.46,
+   "stayCore": 3.78,
+   "fight": 0,
+   "taken": 1.11,
+   "tieUp": 0.14,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.03,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 1.3,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 9,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Tamga-Bound Troops 1",
+     "hp": 9,
+     "dealt": 1.11,
+     "taken": 0
+    }
+   ],
+   "threat": 1.11,
+   "shotAt": {
+    "stay": 7.33,
+    "dest": 11.22
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.57,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 169.19,
+     "objective_risk": 22.1,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.39,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.33,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 177.29,
+     "threats_raw": 2.18
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.51,
+     "range": 2.29,
+     "offensive": 6.75,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 178.19,
+     "objective_risk": 13.11,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.09,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.27,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 200.32,
+     "threats_raw": 1.95
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Canopic Priest"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 1.11 expected melee damage against 9 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 11.22 damage on it"
+  ],
+  "q": {
+   "danger": 0.12333333333333335,
+   "threat": 1.11,
+   "hp": 9,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 11.22,
+   "screen": -2.7,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "March of the Restless Dead",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 206,
+  "uid": 24,
+  "name": "Akhguard",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 11
+  },
+  "parts": {
+   "stay": 14.12,
+   "fallBack": 4.07,
+   "stayCore": 3.63,
+   "fight": 10.5,
+   "taken": 0.5,
+   "tieUp": 0.12,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.15,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0.25,
+   "bestDest": {
+    "col": 5,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 19,
+   "maxHp": 19,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Nerge Outriders",
+     "hp": 6,
+     "dealt": 0.5,
+     "taken": 6
+    }
+   ],
+   "threat": 0.5,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.68,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 478.89,
+     "objective_risk": 3.34,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 12.9,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.03,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 495.32,
+     "threats_raw": 1.29
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 479.79,
+     "objective_risk": 2.43,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 17.4,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.97,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 501.34,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.5 expected melee damage against 19 HP; its death would score the enemy 4 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 6 expected damage dealt, enough to destroy an engager",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.02631578947368421,
+   "threat": 0.5,
+   "hp": 19,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": -4.499999999999998,
+   "dealing": 6,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "March of the Restless Dead",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 206,
+  "uid": 26,
+  "name": "Skeletal Spearman 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 8
+  },
+  "parts": {
+   "stay": 5.94,
+   "fallBack": 5.85,
+   "stayCore": 5.81,
+   "fight": 0.28,
+   "taken": 1.03,
+   "tieUp": 0.11,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.1,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Tamga-Bound Troops 3",
+     "hp": 7,
+     "dealt": 1.03,
+     "taken": 1.11
+    }
+   ],
+   "threat": 1.03,
+   "shotAt": {
+    "stay": 5.43,
+    "dest": 7.37
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.28,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 21.06,
+     "objective_risk": 8.49,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 2.59,
+     "leader_attach": 0,
+     "screen": 17.19,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.58,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 47.3,
+     "threats_raw": 2.09
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.31,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.37,
+     "objective_risk": 2.82,
+     "missive": 2.65,
+     "obj_hold": -0.81,
+     "capture_blocker": 1.71,
+     "leader_attach": 0,
+     "screen": 13.06,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.45,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 33.42,
+     "threats_raw": 1.66
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Skeletal Archer 3"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.03 expected melee damage against 4 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.2575,
+   "threat": 1.03,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 7.37,
+   "screen": 4.130000000000001,
+   "dealing": 1.11,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

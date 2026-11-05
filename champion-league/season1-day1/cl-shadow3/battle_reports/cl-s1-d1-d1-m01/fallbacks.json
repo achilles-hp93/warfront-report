@@ -1,0 +1,1943 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 111,
+  "uid": 28,
+  "name": "Sagdid Hound-Keepers",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 0,
+   "row": 7
+  },
+  "test": {
+   "need": 4,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 0,
+   "row": 7
+  },
+  "parts": {
+   "stay": -0.97,
+   "fallBack": 5.16,
+   "stayCore": 5.74,
+   "fight": 1.33,
+   "taken": 5.16,
+   "tieUp": 0,
+   "stayDeathChance": 0.72,
+   "stayDeath": 2.88,
+   "destCore": 6.16,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Hellkin",
+     "hp": 20,
+     "dealt": 5.16,
+     "taken": 1.33
+    }
+   ],
+   "threat": 5.16,
+   "shotAt": {
+    "stay": 0,
+    "dest": 5.24
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -0.75,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 38.25,
+     "objective_risk": 19.48,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 3.59,
+     "leader_attach": 0,
+     "screen": 2.93,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.87,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -1.08,
+     "formation": 0,
+     "total": 51.04,
+     "threats_raw": 0.75
+    },
+    "dest": {
+     "cover": -0.6,
+     "threat": -0.74,
+     "range": 2.5,
+     "offensive": 2.6,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 57.32,
+     "objective_risk": 0.4,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 3.77,
+     "leader_attach": 0,
+     "screen": 2.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.48,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": -1.08,
+     "formation": 0,
+     "total": 75.77,
+     "threats_raw": 0.74
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 5.16 expected melee damage against 6 HP",
+   "where it lands, enemy guns expect 5.24 damage on it"
+  ],
+  "q": {
+   "danger": 0.86,
+   "threat": 5.16,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 5.24,
+   "screen": 0.050000000000000266,
+   "dealing": 1.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Procession of Ugarit",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 113,
+  "uid": 41,
+  "name": "Cultist Troopers 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 4
+  },
+  "test": {
+   "need": 5,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 2
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 4
+  },
+  "parts": {
+   "stay": -8.91,
+   "fallBack": 3.73,
+   "stayCore": 4.49,
+   "fight": 0.15,
+   "taken": 3,
+   "tieUp": 1.46,
+   "stayDeathChance": 1,
+   "stayDeath": 12,
+   "destCore": 7.73,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 4,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Aswaran 2",
+     "hp": 12,
+     "dealt": 3,
+     "taken": 0.15
+    }
+   ],
+   "threat": 3,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.02,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 29.65,
+     "objective_risk": 69.19,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 1.15,
+     "leader_attach": 0,
+     "screen": 3.29,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.77,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 38.99,
+     "threats_raw": 1.9
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 17.5,
+     "objective_risk": 40.84,
+     "missive": 2.17,
+     "obj_hold": -2.06,
+     "capture_blocker": 1.15,
+     "leader_attach": 0,
+     "screen": 4.22,
+     "safety": 4.33,
+     "obj_drift": 0,
+     "role": 0.54,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 31.04,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 3 expected melee damage against 3 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 3,
+   "hp": 3,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.9299999999999997,
+   "dealing": 0.15,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 213,
+  "uid": 27,
+  "name": "Shieldbearers 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 2,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "The Pontifex of Acedia",
+     "hp": 15,
+     "dealt": 0.79,
+     "taken": 0.05
+    }
+   ],
+   "threat": 0.79,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -1.98,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.32,
+     "objective_risk": 1.74,
+     "missive": 0.53,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.69,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.1,
+     "threats_raw": 0.94
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.79 expected melee damage against 2 HP"
+  ],
+  "q": {
+   "danger": 0.395,
+   "threat": 0.79,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.05,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 213,
+  "uid": 43,
+  "name": "Sagdid Hound-Keepers #2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 3,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "The Pontifex of Acedia",
+     "hp": 15,
+     "dealt": 1.09,
+     "taken": 0.01
+    }
+   ],
+   "threat": 1.09,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 1.4,
+     "threat": -1.71,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 14,
+     "objective_risk": 0.42,
+     "missive": 1.53,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.43,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.28,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.02,
+     "threats_raw": 0.81
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.09 expected melee damage against 3 HP"
+  ],
+  "q": {
+   "danger": 0.36333333333333334,
+   "threat": 1.09,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.01,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 213,
+  "uid": 30,
+  "name": "Javidan Immortals 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 12,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "The Pontifex of Acedia",
+     "hp": 15,
+     "dealt": 0.22,
+     "taken": 0.89
+    }
+   ],
+   "threat": 0.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -1.74,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 17.83,
+     "objective_risk": 0.04,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 2.13,
+     "leader_attach": 0,
+     "screen": 5.26,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.2,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 30.37,
+     "threats_raw": 0.83
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.22 expected melee damage against 12 HP"
+  ],
+  "q": {
+   "danger": 0.018333333333333333,
+   "threat": 0.22,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.89,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 202,
+  "uid": 29,
+  "name": "Aswaran 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 9,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 40,
+     "name": "Cultist Troopers 2",
+     "hp": 18,
+     "dealt": 0.78,
+     "taken": 14
+    }
+   ],
+   "threat": 0.78,
+   "shotAt": {
+    "stay": 1.51,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -1.37,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 99.37,
+     "objective_risk": 2.87,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 31.82,
+     "leader_attach": 0,
+     "screen": 12.16,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.04,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 150.25,
+     "threats_raw": 1.37
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.78 expected melee damage against 9 HP; its death would score the enemy 1 VP",
+   "it was winning the fight: 14 expected damage dealt",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.08666666666666667,
+   "threat": 0.78,
+   "hp": 9,
+   "killVp": 1,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 14,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 202,
+  "uid": 28,
+  "name": "Sagdid Hound-Keepers",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 8
+  },
+  "test": {
+   "need": 4,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 8
+  },
+  "parts": {
+   "stay": -0.83,
+   "fallBack": 5.38,
+   "stayCore": 5.87,
+   "fight": 1.33,
+   "taken": 5.16,
+   "tieUp": 0,
+   "stayDeathChance": 0.72,
+   "stayDeath": 2.88,
+   "destCore": 6.38,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Hellkin",
+     "hp": 20,
+     "dealt": 5.16,
+     "taken": 1.33
+    }
+   ],
+   "threat": 5.16,
+   "shotAt": {
+    "stay": 0,
+    "dest": 5.24
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -0.66,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 38.95,
+     "objective_risk": 18.78,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 4.05,
+     "leader_attach": 0,
+     "screen": 2.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.9,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -1.08,
+     "formation": 0,
+     "total": 52.27,
+     "threats_raw": 0.66
+    },
+    "dest": {
+     "cover": -0.6,
+     "threat": -0.68,
+     "range": 2.5,
+     "offensive": 2.6,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 57.48,
+     "objective_risk": 0.24,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 4.25,
+     "leader_attach": 0,
+     "screen": 2.89,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.64,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": -1.08,
+     "formation": 0,
+     "total": 76.63,
+     "threats_raw": 0.68
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 5.16 expected melee damage against 6 HP",
+   "where it lands, enemy guns expect 5.24 damage on it"
+  ],
+  "q": {
+   "danger": 0.86,
+   "threat": 5.16,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 5.24,
+   "screen": -0.010000000000000231,
+   "dealing": 1.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Procession of Ugarit",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 204,
+  "uid": 40,
+  "name": "Cultist Troopers 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 6
+  },
+  "test": {
+   "need": 5,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 6
+  },
+  "parts": {
+   "stay": -12.24,
+   "fallBack": 4.07,
+   "stayCore": 5.03,
+   "fight": 0.78,
+   "taken": 14,
+   "tieUp": 2.62,
+   "stayDeathChance": 0.56,
+   "stayDeath": 6.67,
+   "destCore": 5.4,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Aswaran 2",
+     "hp": 9,
+     "dealt": 14,
+     "taken": 0.78
+    }
+   ],
+   "threat": 14,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.11,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 266.18,
+     "objective_risk": 141.21,
+     "missive": 4.5,
+     "obj_hold": 0.7,
+     "capture_blocker": 4.74,
+     "leader_attach": 0,
+     "screen": 8.48,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.5,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 283.99,
+     "threats_raw": 4.22
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.36,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 252.68,
+     "objective_risk": 1.23,
+     "missive": 2.65,
+     "obj_hold": -0.86,
+     "capture_blocker": 4.74,
+     "leader_attach": 0,
+     "screen": 3.27,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.43,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 267.19,
+     "threats_raw": 1.85
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers 4"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 14 expected melee damage against 18 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 0.7777777777777778,
+   "threat": 14,
+   "hp": 18,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5.210000000000001,
+   "dealing": 0.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Procession of Ugarit",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 210,
+  "uid": 38,
+  "name": "Cultist Troopers 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 14,
+   "row": 7
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 14,
+   "row": 7
+  },
+  "parts": {
+   "stay": -12.45,
+   "fallBack": 4.17,
+   "stayCore": 5.1,
+   "fight": 0.26,
+   "taken": 7.33,
+   "tieUp": 2.19,
+   "stayDeathChance": 1,
+   "stayDeath": 16,
+   "destCore": 5.17,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 14,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Spahbed",
+     "hp": 14,
+     "dealt": 3.33,
+     "taken": 0.04
+    },
+    {
+     "uid": 23,
+     "name": "Aswaran 1",
+     "hp": 14,
+     "dealt": 4,
+     "taken": 0.22
+    }
+   ],
+   "threat": 7.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.46,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 19.2,
+     "objective_risk": 28.97,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 0.99,
+     "leader_attach": 0,
+     "screen": 2.55,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.73,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 27.17,
+     "threats_raw": 2.72
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1,
+     "range": 2.5,
+     "offensive": 1.18,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 37.31,
+     "objective_risk": 10.87,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 1.04,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.78,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 46.97,
+     "threats_raw": 1.86
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 7.33 expected melee damage against 4 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 1.8325,
+   "threat": 7.33,
+   "hp": 4,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.55,
+   "dealing": 0.26,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 296,
+  "uid": 27,
+  "name": "Shieldbearers 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 2,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "The Pontifex of Acedia",
+     "hp": 14,
+     "dealt": 0.55,
+     "taken": 0.11
+    }
+   ],
+   "threat": 0.55,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -0.46,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.64,
+     "objective_risk": 0.06,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 1.84,
+     "leader_attach": 0,
+     "screen": 4.56,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.61,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.89,
+     "threats_raw": 0.87
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Cultist Mortar Squad",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 0.55 expected melee damage against 2 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.275,
+   "threat": 0.55,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.11,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 296,
+  "uid": 43,
+  "name": "Sagdid Hound-Keepers #2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 3,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "The Pontifex of Acedia",
+     "hp": 14,
+     "dealt": 1.09,
+     "taken": 0.01
+    }
+   ],
+   "threat": 1.09,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 1.4,
+     "threat": -0.49,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 0.9,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.25,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.72,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -0.27,
+     "formation": 0,
+     "total": 8.61,
+     "threats_raw": 0.93
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.09 expected melee damage against 3 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.36333333333333334,
+   "threat": 1.09,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.01,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 296,
+  "uid": 28,
+  "name": "Sagdid Hound-Keepers",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Hellkin",
+     "hp": 6,
+     "dealt": 2.64,
+     "taken": 1.33
+    }
+   ],
+   "threat": 2.64,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -0.35,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.47,
+     "objective_risk": 0.59,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.57,
+     "leader_attach": 0,
+     "screen": 2.89,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.68,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -0.22,
+     "formation": 0,
+     "total": 15.75,
+     "threats_raw": 0.66
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.64 expected melee damage against 6 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.44,
+   "threat": 2.64,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 296,
+  "uid": 30,
+  "name": "Javidan Immortals 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 12,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "The Pontifex of Acedia",
+     "hp": 14,
+     "dealt": 0.22,
+     "taken": 0.89
+    }
+   ],
+   "threat": 0.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -0.46,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.65,
+     "objective_risk": 0.01,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 7.36,
+     "leader_attach": 0,
+     "screen": 13.23,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.06,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 30.54,
+     "threats_raw": 0.88
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.22 expected melee damage against 12 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.018333333333333333,
+   "threat": 0.22,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.89,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Procession of Ugarit",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 296,
+  "uid": 32,
+  "name": "The Pontifex of Acedia",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 6
+  },
+  "test": {
+   "need": 6,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 6
+  },
+  "parts": {
+   "stay": 2.37,
+   "fallBack": 7.39,
+   "stayCore": 2.13,
+   "fight": 0.46,
+   "taken": 1.01,
+   "tieUp": 0.03,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.56,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 2.25,
+   "bestDest": {
+    "col": 10,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Shieldbearers 2",
+     "hp": 2,
+     "dealt": 0.11,
+     "taken": 0.55
+    },
+    {
+     "uid": 30,
+     "name": "Javidan Immortals 2",
+     "hp": 12,
+     "dealt": 0.89,
+     "taken": 0.22
+    },
+    {
+     "uid": 43,
+     "name": "Sagdid Hound-Keepers #2",
+     "hp": 3,
+     "dealt": 0.01,
+     "taken": 1.09
+    }
+   ],
+   "threat": 1.01,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.33
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 9,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.36,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": -4.26,
+     "prefTerr": 0,
+     "objective": 181.14,
+     "objective_risk": 2.19,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 3.39,
+     "leader_attach": 0.45,
+     "screen": 11.74,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.74,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 198.82,
+     "threats_raw": 1.36
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.64,
+     "range": 2.36,
+     "offensive": 5.14,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": -1.54,
+     "capture_blocker": 3.39,
+     "leader_attach": 0.18,
+     "screen": 4.57,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.51,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.44,
+     "threats_raw": 1.23
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [
+    "Cultist Troopers 2",
+    "Cultist Troopers 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 1.01 expected melee damage against 14 HP; its death would score the enemy 6 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 9 shot(s) at its enemies; 2 taken",
+   "where it lands, enemy guns expect 0.33 damage on it"
+  ],
+  "q": {
+   "danger": 0.07214285714285715,
+   "threat": 1.01,
+   "hp": 14,
+   "killVp": 6,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 9,
+   "shotAfter": 0.33,
+   "screen": 7.17,
+   "dealing": 1.86,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

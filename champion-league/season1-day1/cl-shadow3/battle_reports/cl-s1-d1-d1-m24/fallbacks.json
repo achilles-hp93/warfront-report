@@ -1,0 +1,969 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Scorpion Shields",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 172,
+  "uid": 22,
+  "name": "Praetorian Gunners 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": 3.42,
+   "fallBack": -14.31,
+   "stayCore": 6,
+   "fight": 1.76,
+   "taken": 4.34,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.36,
+   "lostVp": 5,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Golgothic Paladins",
+     "hp": 15,
+     "dealt": 4.34,
+     "taken": 0.44
+    }
+   ],
+   "threat": 4.34,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.95,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 205.32,
+     "objective_risk": 32.54,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 24,
+     "leader_attach": 0,
+     "screen": 6.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.65,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 241.93,
+     "threats_raw": 1.31
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 148.42,
+     "objective_risk": 1.17,
+     "missive": 2.65,
+     "obj_hold": -0.35,
+     "capture_blocker": 24,
+     "leader_attach": 0,
+     "screen": 0.95,
+     "safety": 0.3,
+     "obj_drift": -1.1,
+     "role": 1.41,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 180.77,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [
+    "Praetorian Gunners 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.34 expected melee damage against 13 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.33384615384615385,
+   "threat": 4.34,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5.37,
+   "dealing": 0.44,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Miserere Column",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 173,
+  "uid": 30,
+  "name": "Covenant Levies 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 4
+  },
+  "test": {
+   "need": 6,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 4
+  },
+  "parts": {
+   "stay": -6.52,
+   "fallBack": 2.24,
+   "stayCore": 2.77,
+   "fight": 0.71,
+   "taken": 10,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.91,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 24,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Praetorian Strikers 2",
+     "hp": 4,
+     "dealt": 10,
+     "taken": 0.66
+    }
+   ],
+   "threat": 10,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.93,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.6,
+     "objective_risk": 0.14,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.75,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.83,
+     "threats_raw": 0.92
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.19,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.02,
+     "objective_risk": 0.02,
+     "missive": 1.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.55,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.54,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 10.67,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 10 expected melee damage against 24 HP"
+  ],
+  "q": {
+   "danger": 0.4166666666666667,
+   "threat": 10,
+   "hp": 24,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.91,
+   "dealing": 0.66,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Scorpion Shields",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 248,
+  "uid": 22,
+  "name": "Praetorian Gunners 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 10
+  },
+  "parts": {
+   "stay": 3.97,
+   "fallBack": -13.89,
+   "stayCore": 6.54,
+   "fight": 1.76,
+   "taken": 4.34,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.78,
+   "lostVp": 5,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 9,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Golgothic Paladins",
+     "hp": 15,
+     "dealt": 4.34,
+     "taken": 0.44
+    }
+   ],
+   "threat": 4.34,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.45,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 153.79,
+     "objective_risk": 75.72,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 22.94,
+     "leader_attach": 0,
+     "screen": 6.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.69,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 190.25,
+     "threats_raw": 1.45
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 124.58,
+     "objective_risk": 2.05,
+     "missive": 2.17,
+     "obj_hold": -1.65,
+     "capture_blocker": 22.94,
+     "leader_attach": 0,
+     "screen": 5.9,
+     "safety": 0.3,
+     "obj_drift": 0,
+     "role": 1.32,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 160.04,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.34 expected melee damage against 13 HP",
+   "it held 3 objective VP that leaving gives up",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.33384615384615385,
+   "threat": 4.34,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 0.5599999999999996,
+   "dealing": 0.44,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Miserere Column",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 252,
+  "uid": 34,
+  "name": "Golgothic Paladins",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 6
+  },
+  "parts": {
+   "stay": 9.63,
+   "fallBack": 6.61,
+   "stayCore": 3.96,
+   "fight": 6.02,
+   "taken": 1.76,
+   "tieUp": 1.41,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.53,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.59,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 4,
+   "bestDest": {
+    "col": 9,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Praetorian Tribune 2",
+     "hp": 13,
+     "dealt": 1.32,
+     "taken": 1.69
+    },
+    {
+     "uid": 22,
+     "name": "Praetorian Gunners 1",
+     "hp": 13,
+     "dealt": 0.44,
+     "taken": 4.34
+    }
+   ],
+   "threat": 1.76,
+   "shotAt": {
+    "stay": 2.81,
+    "dest": 3.48
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 4,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.23,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.18,
+     "objective_risk": 0.52,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.98,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.83,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.51,
+     "threats_raw": 2.01
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -2.3,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.63,
+     "objective_risk": 0.07,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.98,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.75,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.46,
+     "threats_raw": 1.09
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.76 expected melee damage against 15 HP",
+   "it was winning the fight: 6.03 expected damage dealt",
+   "leaving opens 4 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.11733333333333333,
+   "threat": 1.76,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 4,
+   "shotAfter": 3.48,
+   "screen": -1,
+   "dealing": 6.029999999999999,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Scorpion Shields",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 317,
+  "uid": 22,
+  "name": "Praetorian Gunners 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 9
+  },
+  "parts": {
+   "stay": 6.97,
+   "fallBack": 6.45,
+   "stayCore": 7.61,
+   "fight": 0.44,
+   "taken": 4.34,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.91,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.17,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0.25,
+   "bestDest": {
+    "col": 6,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Golgothic Paladins",
+     "hp": 12,
+     "dealt": 4.34,
+     "taken": 0.44
+    }
+   ],
+   "threat": 4.34,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.39,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 361.53,
+     "objective_risk": 178.35,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 21.52,
+     "leader_attach": 0,
+     "screen": 6.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.7,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 397.61,
+     "threats_raw": 1.44
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.66,
+     "range": 2.19,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 323.55,
+     "objective_risk": 11.96,
+     "missive": 2.65,
+     "obj_hold": -0.6,
+     "capture_blocker": 21.52,
+     "leader_attach": 0,
+     "screen": 6.21,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.52,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 359.77,
+     "threats_raw": 1.75
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.34 expected melee damage against 13 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.33384615384615385,
+   "threat": 4.34,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 0.25,
+   "dealing": 0.44,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Miserere Column",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 318,
+  "uid": 34,
+  "name": "Golgothic Paladins",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 6
+  },
+  "test": {
+   "need": 5,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 6
+  },
+  "parts": {
+   "stay": 6.61,
+   "fallBack": 6.86,
+   "stayCore": 5.29,
+   "fight": 1.51,
+   "taken": 1.78,
+   "tieUp": 0.26,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.84,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.59,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 1.5,
+   "bestDest": {
+    "col": 9,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Praetorian Tribune 2",
+     "hp": 13,
+     "dealt": 1.33,
+     "taken": 1.69
+    },
+    {
+     "uid": 22,
+     "name": "Praetorian Gunners 1",
+     "hp": 13,
+     "dealt": 0.44,
+     "taken": 4.34
+    }
+   ],
+   "threat": 1.77,
+   "shotAt": {
+    "stay": 2.1,
+    "dest": 2.54
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 6,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.99,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 50.52,
+     "objective_risk": 2.97,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.28,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.62,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 64.49,
+     "threats_raw": 1.88
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.52,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 53.3,
+     "objective_risk": 0.19,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 10.28,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.53,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 69.29,
+     "threats_raw": 0.99
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [
+    "Covenant Levies"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 1.77 expected melee damage against 12 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "it was winning the fight: 6.03 expected damage dealt",
+   "leaving opens 6 shot(s) at its enemies; 1 taken",
+   "where it lands, enemy guns expect 2.54 damage on it"
+  ],
+  "q": {
+   "danger": 0.1475,
+   "threat": 1.77,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 6,
+   "shotAfter": 2.54,
+   "screen": -1,
+   "dealing": 6.029999999999999,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

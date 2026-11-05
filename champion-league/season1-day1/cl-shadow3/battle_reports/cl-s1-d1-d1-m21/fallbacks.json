@@ -1,0 +1,985 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Belfry Battery",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 193,
+  "uid": 45,
+  "name": "Covenant Levies",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 14,
+   "row": 8
+  },
+  "test": {
+   "need": 5,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 14,
+   "row": 8
+  },
+  "parts": {
+   "stay": -3.31,
+   "fallBack": 7.68,
+   "stayCore": 4.61,
+   "fight": 0.07,
+   "taken": 4,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 9.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 14,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Javidan Immortals 2",
+     "hp": 15,
+     "dealt": 4,
+     "taken": 0.07
+    }
+   ],
+   "threat": 4,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 36,
+     "objective_risk": 15.72,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 0.83,
+     "leader_attach": 0,
+     "screen": 9.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.71,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 51.44,
+     "threats_raw": 1.12
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 51.41,
+     "objective_risk": 0.31,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 0.87,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 3.84,
+     "obj_drift": 0,
+     "role": 0.67,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 64.45,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 4 expected melee damage against 4 HP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 4,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 9.34,
+   "dealing": 0.07,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Flamewrought Company",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 203,
+  "uid": 42,
+  "name": "Javidan Immortals 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 14,
+   "row": 6
+  },
+  "parts": {
+   "stay": 15.01,
+   "fallBack": 5.94,
+   "stayCore": 6.96,
+   "fight": 7.59,
+   "taken": 0.15,
+   "tieUp": 0.6,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.75,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.15,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 14,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Master Gunner",
+     "hp": 5,
+     "dealt": 0.15,
+     "taken": 4.46
+    }
+   ],
+   "threat": 0.15,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.21
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.48,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 100.77,
+     "objective_risk": 0.63,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 8.95,
+     "leader_attach": 0,
+     "screen": 14.36,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.58,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 129.48,
+     "threats_raw": 1.18
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.86,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 101.21,
+     "objective_risk": 0.19,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 5.79,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.33,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 112.56,
+     "threats_raw": 0.89
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.15 expected melee damage against 15 HP; its death would score the enemy 2 VP",
+   "it was winning the fight: 4.46 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.01,
+   "threat": 0.15,
+   "hp": 15,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.21,
+   "screen": 14.36,
+   "dealing": 4.46,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Belfry Battery",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 204,
+  "uid": 28,
+  "name": "Master Gunner",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 13,
+   "row": 10
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 10
+  },
+  "parts": {
+   "stay": -2.11,
+   "fallBack": -0.07,
+   "stayCore": 5.34,
+   "fight": 0.15,
+   "taken": 4.46,
+   "tieUp": 0,
+   "stayDeathChance": 0.78,
+   "stayDeath": 3.13,
+   "destCore": 3.49,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.23,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Javidan Immortals 2",
+     "hp": 15,
+     "dealt": 4.46,
+     "taken": 0.15
+    }
+   ],
+   "threat": 4.46,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 15.89,
+     "objective_risk": 7.14,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 2.5,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.84,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.21,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.29,
+     "offensive": 4.35,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.7,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": -1.54,
+     "capture_blocker": 2.62,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.64,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 22.12,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 4.46 expected melee damage against 5 HP"
+  ],
+  "q": {
+   "danger": 0.892,
+   "threat": 4.46,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.15,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Belfry Battery",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 209,
+  "uid": 30,
+  "name": "Covenant Levies 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 10
+  },
+  "test": {
+   "need": 6,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 10
+  },
+  "parts": {
+   "stay": -3.58,
+   "fallBack": 6.15,
+   "stayCore": 4.14,
+   "fight": 0.28,
+   "taken": 9.28,
+   "tieUp": 1,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 7.81,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Ardashir - The Flamebringer",
+     "hp": 19,
+     "dealt": 4.42,
+     "taken": 0.07
+    },
+    {
+     "uid": 35,
+     "name": "Javidan Immortals 1",
+     "hp": 19,
+     "dealt": 4.86,
+     "taken": 0.15
+    }
+   ],
+   "threat": 9.28,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 41.77,
+     "objective_risk": 93.73,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 2.31,
+     "leader_attach": 0,
+     "screen": 12.22,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.09,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 60.56,
+     "threats_raw": 2.43
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 29.04,
+     "objective_risk": 45.72,
+     "missive": 2.17,
+     "obj_hold": -2.06,
+     "capture_blocker": 2.31,
+     "leader_attach": 0,
+     "screen": 8.57,
+     "safety": 3.84,
+     "obj_drift": 0,
+     "role": 0.82,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 48.02,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Ardashir - The Flamebringer",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "St. Barbara Field Gun 2",
+    "Cantor-Preceptor"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 9.28 expected melee damage against 5 HP"
+  ],
+  "q": {
+   "danger": 1.8559999999999999,
+   "threat": 9.28,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.6500000000000004,
+   "dealing": 0.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Flamewrought Company",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 278,
+  "uid": 41,
+  "name": "Sagdid Hound-Keepers 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 10
+  },
+  "test": {
+   "need": 5,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": 5.16,
+   "fallBack": 6.91,
+   "stayCore": 7.35,
+   "fight": 0.18,
+   "taken": 10.14,
+   "tieUp": 0.14,
+   "stayDeathChance": 1,
+   "stayDeath": 1,
+   "destCore": 5.75,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 1.5,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Archistrategos",
+     "hp": 22,
+     "dealt": 4.25,
+     "taken": 0.5
+    },
+    {
+     "uid": 24,
+     "name": "Knight-Apostle Squad",
+     "hp": 22,
+     "dealt": 5.89,
+     "taken": 0.21
+    }
+   ],
+   "threat": 10.14,
+   "shotAt": {
+    "stay": 1.11,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 6,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -1.29,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.87,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.03,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -0.57,
+     "formation": 0,
+     "total": 7.14,
+     "threats_raw": 2.46
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0.82,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.12,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": -0.57,
+     "formation": 0,
+     "total": 11.52,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Sagdid Hound-Keepers 3",
+    "Javidan Immortals 1"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 10.14 expected melee damage against 6 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 6 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 1.6900000000000002,
+   "threat": 10.14,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 6,
+   "shotAfter": 0,
+   "screen": -1.5899999999999999,
+   "dealing": 0.71,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Flamewrought Company",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 289,
+  "uid": 35,
+  "name": "Javidan Immortals 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 19,
+   "maxHp": 25,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Archistrategos",
+     "hp": 22,
+     "dealt": 1.56,
+     "taken": 2
+    },
+    {
+     "uid": 24,
+     "name": "Knight-Apostle Squad",
+     "hp": 22,
+     "dealt": 3.25,
+     "taken": 1.48
+    },
+    {
+     "uid": 29,
+     "name": "Petard Bearer",
+     "hp": 5,
+     "dealt": 0.32,
+     "taken": 4.15
+    }
+   ],
+   "threat": 5.13,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.81,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 151.72,
+     "objective_risk": 15,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 6.32,
+     "leader_attach": 0,
+     "screen": 8.6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.66,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 174.11,
+     "threats_raw": 1.53
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Sagdid Hound-Keepers 3"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5.13 expected melee damage against 19 HP; its death would score the enemy 2 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.27,
+   "threat": 5.13,
+   "hp": 19,
+   "killVp": 2,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 7.630000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

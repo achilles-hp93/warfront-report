@@ -1,0 +1,1134 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oak of Gernika",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 168,
+  "uid": 25,
+  "name": "Etxe Riflemen 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 6
+  },
+  "parts": {
+   "stay": 1.19,
+   "fallBack": -2.4,
+   "stayCore": 5.57,
+   "fight": 3.31,
+   "taken": 6.96,
+   "tieUp": 0.33,
+   "stayDeathChance": 0.27,
+   "stayDeath": 1.06,
+   "destCore": 5.62,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 6.96,
+   "fallBackDeathChance": 0.27,
+   "fallBackDeath": 1.06,
+   "lossPenalty": 1,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 9,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 31,
+     "name": "Beast of Contagion",
+     "hp": 2,
+     "dealt": 6.96,
+     "taken": 1.18
+    }
+   ],
+   "threat": 6.96,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.25
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.27,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 136.9,
+     "objective_risk": 63.83,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 140.82,
+     "threats_raw": 2.71
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -2.22,
+     "range": 2.5,
+     "offensive": 6.2,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 199.88,
+     "objective_risk": 0.85,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.41,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 213.61,
+     "threats_raw": 1.84
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 11,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Beast of Contagion",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 6.96 expected melee damage against 11 HP",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.6327272727272727,
+   "threat": 6.96,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 1.25,
+   "screen": 0,
+   "dealing": 1.18,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sineaters of Damascus",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 168,
+  "uid": 31,
+  "name": "Beast of Contagion",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 11
+  },
+  "parts": {
+   "stay": 8.68,
+   "fallBack": 3.24,
+   "stayCore": 3.32,
+   "fight": 8.02,
+   "taken": 1.18,
+   "tieUp": 0.65,
+   "stayDeathChance": 0.18,
+   "stayDeath": 2.13,
+   "destCore": 8.24,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 5,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Etxe Riflemen 3",
+     "hp": 11,
+     "dealt": 1.18,
+     "taken": 6.96
+    }
+   ],
+   "threat": 1.18,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.62,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.78,
+     "objective_risk": 0.36,
+     "missive": 1.05,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 11.14,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.53,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.68,
+     "threats_raw": 1.25
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0.82,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.54,
+     "objective_risk": 0.03,
+     "missive": 1.21,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.06,
+     "safety": 4.51,
+     "obj_drift": 0,
+     "role": 0.92,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.16,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 1.18 expected melee damage against 2 HP; its death would score the enemy 2 VP",
+   "it was winning the fight: 6.96 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.59,
+   "threat": 1.18,
+   "hp": 2,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 8.08,
+   "dealing": 6.96,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oak of Gernika",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "seq": 163,
+  "uid": 20,
+  "name": "Etxe Riflemen 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 10
+  },
+  "test": {
+   "need": 6,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": -10.88,
+   "fallBack": 5.97,
+   "stayCore": 4.01,
+   "fight": 12.72,
+   "taken": 28.94,
+   "tieUp": 0.39,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 4.64,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 3,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 24,
+   "maxHp": 27,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "The Plague Monarch",
+     "hp": 29,
+     "dealt": 1.36,
+     "taken": 1
+    },
+    {
+     "uid": 30,
+     "name": "Poxknight",
+     "hp": 29,
+     "dealt": 12.04,
+     "taken": 1.5
+    },
+    {
+     "uid": 32,
+     "name": "Mawkin 1",
+     "hp": 20,
+     "dealt": 15.55,
+     "taken": 3
+    }
+   ],
+   "threat": 28.95,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 3,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.25,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 42.67,
+     "objective_risk": 47.9,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.45,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.37,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 48.03,
+     "threats_raw": 1.55
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 81.82,
+     "objective_risk": 0.2,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.56,
+     "safety": 0.14,
+     "obj_drift": -1.1,
+     "role": 1.05,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 95.8,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 28.95 expected melee damage against 24 HP",
+   "leaving opens 3 shot(s) at its enemies; 1 taken"
+  ],
+  "q": {
+   "danger": 1.20625,
+   "threat": 28.95,
+   "hp": 24,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 3,
+   "shotAfter": 0,
+   "screen": -6.11,
+   "dealing": 5.5,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sineaters of Damascus",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 235,
+  "uid": 35,
+  "name": "Hellkin",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 6
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 6
+  },
+  "parts": {
+   "stay": 0.04,
+   "fallBack": 4.21,
+   "stayCore": 6.92,
+   "fight": 0.67,
+   "taken": 4.38,
+   "tieUp": 0.31,
+   "stayDeathChance": 0.75,
+   "stayDeath": 6.76,
+   "destCore": 6.65,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.91,
+   "fallBackDeathChance": 0.16,
+   "fallBackDeath": 1.46,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Foral Captain",
+     "hp": 26,
+     "dealt": 1.47,
+     "taken": 0.89
+    },
+    {
+     "uid": 22,
+     "name": "Etxe Riflemen 2",
+     "hp": 26,
+     "dealt": 2.91,
+     "taken": 1.78
+    }
+   ],
+   "threat": 4.38,
+   "shotAt": {
+    "stay": 0.3,
+    "dest": 6.21
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.95,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 37.23,
+     "objective_risk": 25.12,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 4.17,
+     "leader_attach": 0,
+     "screen": 12.69,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.14,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 60.85,
+     "threats_raw": 2.49
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.69,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 56.35,
+     "objective_risk": 6,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 2.72,
+     "leader_attach": 0,
+     "screen": 10.5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.94,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 76.19,
+     "threats_raw": 1.79
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 5,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Foral Captain",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 4.38 expected melee damage against 5 HP; its death would score the enemy 2 VP",
+   "Player B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 6.21 damage on it",
+   "staying, its death (75% by the AI's reckoning) would have scored the enemy 1.5 VP"
+  ],
+  "q": {
+   "danger": 0.876,
+   "threat": 4.38,
+   "hp": 5,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 6.21,
+   "screen": 2.1899999999999995,
+   "dealing": 2.67,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oak of Gernika",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "seq": 301,
+  "uid": 40,
+  "name": "Etxe Riflemen #2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 3,
+   "row": 11
+  },
+  "test": {
+   "need": 6,
+   "roll": 5,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 3,
+   "row": 11
+  },
+  "parts": {
+   "stay": 2.68,
+   "fallBack": 3.44,
+   "stayCore": 5.57,
+   "fight": 0.53,
+   "taken": 15.18,
+   "tieUp": 0.08,
+   "stayDeathChance": 1,
+   "stayDeath": 1,
+   "destCore": 3.36,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 0.5,
+   "bestDest": {
+    "col": 3,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 31,
+     "name": "Beast of Contagion",
+     "hp": 6,
+     "dealt": 7.38,
+     "taken": 0.74
+    },
+    {
+     "uid": 32,
+     "name": "Mawkin 1",
+     "hp": 14,
+     "dealt": 7.8,
+     "taken": 1.39
+    }
+   ],
+   "threat": 15.18,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.85,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.35,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.73,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.29,
+     "threats_raw": 2.82
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0.38,
+     "obj_drift": -1.1,
+     "role": 0.51,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.76,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Etxe Riflemen"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 15.18 expected melee damage against 10 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "leaving opens 2 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 1.518,
+   "threat": 15.18,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 3.3499999999999996,
+   "dealing": 2.13,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oak of Gernika",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "seq": 360,
+  "uid": 38,
+  "name": "Etxe Riflemen",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 11
+  },
+  "test": {
+   "need": 5,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 11
+  },
+  "parts": {
+   "stay": 1.49,
+   "fallBack": 3.64,
+   "stayCore": 5.29,
+   "fight": 0.49,
+   "taken": 8.13,
+   "tieUp": 0,
+   "stayDeathChance": 0.25,
+   "stayDeath": 2.25,
+   "destCore": 3.72,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0.25,
+   "bestDest": {
+    "col": 2,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Mawkin 1",
+     "hp": 14,
+     "dealt": 8.13,
+     "taken": 1.94
+    }
+   ],
+   "threat": 8.13,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.55,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 10.6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.77,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.89,
+     "threats_raw": 1.81
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 2.05,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.4,
+     "safety": 0.18,
+     "obj_drift": -1.8,
+     "role": 0.57,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.4,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Etxe Riflemen #3"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 8.13 expected melee damage against 13 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 1 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 0.6253846153846154,
+   "threat": 8.13,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 7.199999999999999,
+   "dealing": 1.94,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oak of Gernika",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "seq": 368,
+  "uid": 20,
+  "name": "Etxe Riflemen 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 2,
+   "row": 12
+  },
+  "parts": {
+   "stay": 4.08,
+   "fallBack": 2.68,
+   "stayCore": 2.72,
+   "fight": 3.11,
+   "taken": 7,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 12
+   }
+  },
+  "board": {
+   "hp": 22,
+   "maxHp": 27,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Mawkin 1",
+     "hp": 12,
+     "dealt": 7,
+     "taken": 3.33
+    }
+   ],
+   "threat": 7,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.61,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.42,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.85,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 10.13,
+     "threats_raw": 1.16
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.19,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 1.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.4,
+     "safety": 0.09,
+     "obj_drift": -1.1,
+     "role": 0.64,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.5,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Etxe Riflemen #3"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 7 expected melee damage against 22 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.3181818181818182,
+   "threat": 7,
+   "hp": 22,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 4.02,
+   "dealing": 3.33,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

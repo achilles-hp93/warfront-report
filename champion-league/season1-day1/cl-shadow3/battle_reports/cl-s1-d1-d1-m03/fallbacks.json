@@ -1,0 +1,643 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "seq": 73,
+  "uid": 24,
+  "name": "Covenant Levies 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 9
+  },
+  "test": {
+   "need": 5,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 9
+  },
+  "parts": {
+   "stay": 1.34,
+   "fallBack": 5.89,
+   "stayCore": 4.55,
+   "fight": 4.33,
+   "taken": 7.15,
+   "tieUp": 0,
+   "stayDeathChance": 0.1,
+   "stayDeath": 0.4,
+   "destCore": 7.22,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 25,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Retiarius Squad 1",
+     "hp": 15,
+     "dealt": 7.15,
+     "taken": 1.78
+    }
+   ],
+   "threat": 7.15,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.16,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 163.39,
+     "objective_risk": 44.38,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 2.95,
+     "leader_attach": 0,
+     "screen": 4.69,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.82,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 175.94,
+     "threats_raw": 2.06
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.72,
+     "offensive": 1.79,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 115.81,
+     "objective_risk": 2.63,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 3.1,
+     "leader_attach": 0,
+     "screen": 2.48,
+     "safety": 2.16,
+     "obj_drift": -1.8,
+     "role": 0.7,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 129.19,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Covenant Levies 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 7.15 expected melee damage against 13 HP"
+  ],
+  "q": {
+   "danger": 0.55,
+   "threat": 7.15,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.2100000000000004,
+   "dealing": 1.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Celeritas Squadron",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 211,
+  "uid": 33,
+  "name": "Legionnaire Squad",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 1,
+   "row": 4
+  },
+  "test": {
+   "need": 5,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 4
+  },
+  "parts": {
+   "stay": 0.13,
+   "fallBack": 4.7,
+   "stayCore": 5.23,
+   "fight": 0.1,
+   "taken": 2.99,
+   "tieUp": 0,
+   "stayDeathChance": 0.5,
+   "stayDeath": 4.46,
+   "destCore": 4.78,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0.25,
+   "bestDest": {
+    "col": 1,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Seven-Sword Intercessor",
+     "hp": 8,
+     "dealt": 2.99,
+     "taken": 0.42
+    }
+   ],
+   "threat": 2.99,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.5
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.32,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.69,
+     "objective_risk": 4.47,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 4,
+     "leader_attach": 0,
+     "screen": 4.18,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.04,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.75,
+     "threats_raw": 1.18
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.43,
+     "range": 2.34,
+     "offensive": 4.17,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.77,
+     "objective_risk": 0.04,
+     "missive": 2.17,
+     "obj_hold": -2.06,
+     "capture_blocker": 4,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.74,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.2,
+     "threats_raw": 0.82
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Legionnaire Squad #2"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 2.99 expected melee damage against 4 HP; its death would score the enemy 2 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 1 shot(s) at its enemies; 0 taken",
+   "where it lands, enemy guns expect 2.5 damage on it",
+   "staying, its death (50% by the AI's reckoning) would have scored the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 0.7475,
+   "threat": 2.99,
+   "hp": 4,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 2.5,
+   "screen": 4.18,
+   "dealing": 0.42,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Celeritas Squadron",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 214,
+  "uid": 30,
+  "name": "Palatine Custos (Mounted)",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 24,
+   "maxHp": 28,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Abbatissa Dolorosa",
+     "hp": 13,
+     "dealt": 0.89,
+     "taken": 2.34
+    },
+    {
+     "uid": 19,
+     "name": "Maphorion Nuns",
+     "hp": 13,
+     "dealt": 3.56,
+     "taken": 3.13
+    }
+   ],
+   "threat": 4.45,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.29,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 865.06,
+     "objective_risk": 91.42,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 12.62,
+     "leader_attach": 0,
+     "screen": 5.54,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.75,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 889.67,
+     "threats_raw": 1.07
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.45 expected melee damage against 24 HP; its death would score the enemy 2 VP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.18541666666666667,
+   "threat": 4.45,
+   "hp": 24,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 5.47,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "seq": 215,
+  "uid": 19,
+  "name": "Maphorion Nuns",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 8
+  },
+  "parts": {
+   "stay": 7.98,
+   "fallBack": 4.98,
+   "stayCore": 7.32,
+   "fight": 1.94,
+   "taken": 5.45,
+   "tieUp": 0.08,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.52,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 3.13,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0.5,
+   "bestDest": {
+    "col": 7,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 17,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Caesar - Divus Imperator (Mounted)",
+     "hp": 24,
+     "dealt": 2.31,
+     "taken": 2.67
+    },
+    {
+     "uid": 30,
+     "name": "Palatine Custos (Mounted)",
+     "hp": 24,
+     "dealt": 3.13,
+     "taken": 3.56
+    }
+   ],
+   "threat": 5.44,
+   "shotAt": {
+    "stay": 0.64,
+    "dest": 0.64
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.25,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.49,
+     "objective_risk": 20.21,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.73,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.44,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 54.55,
+     "threats_raw": 2.39
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.69,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 60.56,
+     "objective_risk": 0.14,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.22,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.43,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 71.81,
+     "threats_raw": 1.31
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5.44 expected melee damage against 13 HP; its death would score the enemy 1 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.4184615384615385,
+   "threat": 5.44,
+   "hp": 13,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0.64,
+   "screen": 1.5100000000000007,
+   "dealing": 6.23,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]
