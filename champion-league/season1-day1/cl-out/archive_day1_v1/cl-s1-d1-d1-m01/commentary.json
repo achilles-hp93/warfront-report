@@ -1,0 +1,64 @@
+{
+  "title": "Mihran Spah vs Procession of Ugarit",
+  "armies": [
+    { "name": "Mihran Spah", "faction": "Ātashid Empire" },
+    { "name": "Procession of Ugarit", "faction": "Infernal Congregations" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "<p>Mihran Spah won 31-15 on Victory Points at the end of Battle Round 5, crossing the 30 VP target with all three objectives and DEEP REACH in the last Cleanup Phase.</p><p>The Procession of Ugarit scored objectives only in the first two rounds: once Hellkin walked off the centre in Round 2, the Spah held every objective but one tied round from Round 3 on, 19 of its 25 objective VP.</p>",
+  "result_line": "Mihran Spah win 31-15 on Victory Points in Battle Round 5",
+  "deployment": "<p>Central Faceoff on CROSSROADS, three objectives on row 7: the 3 VP centre at (7,7) and 2 VP flanks at (1,7) and (13,7). <b>Mihran Spah</b> lined up along row 12 in front of its HQ at (7,13), its two cavalry squads on the wings, Aswaran 2 at (3,12) for the left objective and Aswaran 1 with the Spahbed at (11,12) for the right, with the Javidan Immortals, Shieldbearers and Sagdid Hound-Keepers between them. <b>The Procession of Ugarit</b> set up in its back rows around the HQ at (7,1): both Morphean Engines on the home line at (3,1) and (9,0), Hellkin at (6,1), The Pontifex of Acedia at (9,2), and the Somniferous Engine at (11,1) carrying the Cultist Troopers, with the Algedonic Taskmaster leading the Cultist Mortar Squad beside it. The set-up put the Spah's fast horse on both flank objectives from the first move, against an army whose guns would fire from home and whose objective units were few and slow (the Pontifex has MOVE 2). The Procession had Priority with fewer units on the battlefield (8 to 10).</p>",
+  "rounds": {
+    "1": {
+      "title": "Shieldbearers 2 sprint into the guns",
+      "feed": [
+        { "phase": "Command", "text": "Primaries revealed: ERADICATE THE FOE for the Spah, BREAK THEIR HOLD for the Procession. Secondaries kept: MAN OF THE HOUR and BAR THE GATES. The Spah spent 1 of its 3 CP on Double Time for Shieldbearers 2." },
+        { "phase": "Movement", "text": "Hellkin advanced 6,1 to 6,7, onto the edge of the centre objective. Shieldbearers 2 used the Double Time to reach 8,8, the other side of the same Objective Area. Aswaran 2 rode to 2,7 and Aswaran 1 with the Spahbed to 12,8: both flank objectives taken at once." },
+        { "phase": "Action", "text": "Aswaran 2 shot Hellkin for 3 (20 to 17). The Cultist Troopers disembarked from the Somniferous Engine at 9,6 and put 7 into Shieldbearers 2 (Desperate Worship failed on a 1); Morphean Engine 1 finished them from 9,0 with 3 more (+1 HIT from Let Them Come). <b>Shieldbearers 2 destroyed</b>, 17 RP, and the Double Time that put them there bought nothing. The Spah passed with eight units that had no legal action. Drive the Column moved the Cultist Mortar Squad up to 9,4." },
+        { "phase": "Cleanup", "text": "Hellkin took the centre alone (OC 5 vs 0, 3 VP); the Spah scored both flanks (2 + 2). BAR THE GATES completed for the Procession, +2. <b>4-5.</b>" }
+      ]
+    },
+    "2": {
+      "title": "The Pontifex walks onto the right flank",
+      "feed": [
+        { "phase": "Command", "text": "The Spah spent 4 CP: Double Time on Shieldbearers 1 (1) and Troop Requisition (3), which placed a second Sagdid Hound-Keepers at 8,12. The Procession spent 2 CP on Double Time for The Pontifex of Acedia. New secondaries: PROBING STRIKE and OMNIPRESENCE." },
+        { "phase": "Movement", "text": "The Pontifex went 10,3 to 13,6 and the Cultist Troopers 9,6 to 12,6, both into the right objective's area beside Aswaran 1 and the Spahbed. Hellkin left the centre for 7,3, the move the digest marks as undone. Six Overwatch shots, all without damage; the Spahbed's never rolled a die (its FREE weapon was marked used and then skipped)." },
+        { "phase": "Action", "text": "The Cultist Troopers passed Desperate Worship for +1 FR at the cost of 3 damage to themselves and put 3 into Aswaran 1 (12 to 9); Aswaran 1 answered with 3 (17 to 14). Both Morphean Engines, the Pontifex and the Mortar all missed." },
+        { "phase": "Cleanup", "text": "The Procession won the right objective on OC 10 vs 9 (2 VP) and BREAK THEIR HOLD paid 3, because the Spah had held it at the start of the round. The Spah kept the left (2). Nobody held the centre. <b>6-10.</b>" }
+      ]
+    },
+    "3": {
+      "title": "The Spah take all three",
+      "feed": [
+        { "phase": "Command", "text": "The Procession spent 3 CP on Troop Requisition: a second Cultist Troopers at 6,2. Secondaries kept: FORWARD PRESENCE and DEEP REACH; PROBING STRIKE expired for the Spah." },
+        { "phase": "Movement", "text": "Hellkin went further away, to 2,4, losing a model to Aswaran 2's Overwatch. Sagdid Hound-Keepers walked into the empty centre at 6,8. The Pontifex attached to the Cultist Troopers at 12,6, and Vessel of Agares held the Spahbed, Aswaran 1, the Mobad and Javidan Immortals 1 still, denying two CHARGEs." },
+        { "phase": "Action", "text": "The Spahbed's Go to Ground (1 CP) on Aswaran 1 turned the Cultist Troopers' volley into 0 hits from 14 dice. Sagdid Hound-Keepers used Spot &amp; Mark to raise the Cultist Troopers and the Pontifex to MARKED, and the Spah poured fire into the Troopers: Sagdid Hound-Keepers 4, Aswaran 1 3, the Spahbed's Firebreath 2 and BURNED on both, then 4 more from BURNED, 14 HP down to 1. Morphean Engine 2 hit Aswaran 1 for 4 (9 to 5). The Mobad channelled Mana." },
+        { "phase": "Cleanup", "text": "The Spah scored all three objectives: the centre on OC 3 vs 0, the left, and the right back on OC 7 vs 4, 7 VP. BREAK THEIR HOLD paid the Procession 1. <b>13-11.</b>" }
+      ]
+    },
+    "4": {
+      "title": "Two Cultist Troopers burn; Hellkin crashes into Aswaran 2",
+      "feed": [
+        { "phase": "Command", "text": "The Procession spent 2 CP on Double Time for its new Cultist Troopers. The 1 HP Cultist Troopers with the Pontifex failed their Morale Test and were SUPPRESSED, which put the pair's OC to 0. Secondaries kept: ASSASSINATION and PROBING STRIKE." },
+        { "phase": "Movement", "text": "The requisitioned Cultist Troopers ran 3,3 to 7,6 into the centre and met Shieldbearers 1's Overwatch for 8 (20 to 12). Hellkin charged Aswaran 2 on the left objective from 2,4. Go to Ground again on Aswaran 1 (1 CP) against the Somniferous Engine's Overwatch." },
+        { "phase": "Action", "text": "Shieldbearers 1 hit the centre Troopers for 8 more (12 to 4); Morphean Engine 2 answered with 4 on Shieldbearers 1. In the melee Hellkin struck first (INI 8 +3 for the charge) for 4 on Aswaran 2, which gave back 2 (16 to 14). The Mobad cast Sunburst for 6 Mana at 11,8: no damage, a BURNING FIELD that later added 1 BURNED. The Pontifex hit Aswaran 1 for 3 (5 to 2), Aswaran 1 shot the 1 HP Troopers dead, and BURNED finished the centre Troopers: <b>two Cultist Troopers destroyed</b>, both in Objective Areas." },
+        { "phase": "Cleanup", "text": "The Spah held the centre (OC 7 vs 0) and the right (OC 5 vs 0: the SUPPRESSED Pontifex counted nothing), 5 VP; the left was tied 4 vs 4 with Hellkin in it. ERADICATE THE FOE paid 3 for the two kills. BREAK THEIR HOLD paid the Procession 3, the left objective no longer the Spah's. <b>21-14.</b>" }
+      ]
+    },
+    "5": {
+      "title": "Hellkin breaks away and the Spah reach 31",
+      "feed": [
+        { "phase": "Command", "text": "Both sides spent on Troop Requisition (3 CP each): Cultist Troopers at 10,2 and Sagdid Hound-Keepers at 6,12. The Spah also bought Secure Objective (3 CP, +1 OC) for Aswaran 2 and Rally Cry (1 CP) for Aswaran 1, which passed its Morale Test; neither the Requisition nor the Secure Objective changed anything. MAN OF THE HOUR and PROBING STRIKE expired; DEEP REACH and KING OF THE HILL kept." },
+        { "phase": "Movement", "text": "Hellkin passed its Fall Back test on a 6 and left Aswaran 2 for 4,4. Javidan Immortals 2 and 1 stepped onto the centre at 8,7 and 8,6, and Aswaran 2 to 2,7." },
+        { "phase": "Action", "text": "Drive the Column pushed the new Cultist Troopers to 6,5. Morphean Engine 2 rolled four 6s on Javidan Immortals 2 for 9 (15 to 6, three Javidan). The Mobad's Fireball (2 Mana) took 6 off the Cultist Troopers. Everything else missed." },
+        { "phase": "Cleanup", "text": "The Spah held all three objectives (the centre on OC 21 vs 0), 7 VP, and DEEP REACH completed for 3. BREAK THEIR HOLD paid the Procession 1. <b>31-15</b>, the Spah past 30." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p><b>Mihran Spah</b> took 25 of its 31 VP from objectives, 3 from ERADICATE THE FOE (Round 4's two kills) and 3 from DEEP REACH. <b>The Procession of Ugarit</b> scored 5 objective VP, all in Rounds 1 and 2, 8 from BREAK THEIR HOLD and 2 from BAR THE GATES. Its Primary was its main source, and that Primary pays only while the enemy holds what you contest: it scored 3, 1, 3 and 1 across Rounds 2 to 5 without ever winning an objective back after Round 2.</p>{{chart:objectives}}<h3>What the key units did</h3><p>The Spah's cavalry did the scoring. Aswaran 2 sat on the left objective all battle for 8.1 VP, every one of its 8 objective VP hinged on it, and it stayed through Hellkin's charge (the objective tied in Round 4). Aswaran 1 with the Spahbed held or retook the right (5.1 and 4.1 VP) and took one of the two kills that paid ERADICATE THE FOE. The 10 RP Sagdid Hound-Keepers walked into the empty centre in Round 3 (4.5 VP, 45 per 100 RP) and its Spot &amp; Mark set up the focus fire that burned the first Cultist Troopers down. Shieldbearers 1 did the most damage on its side, 16, all of it into the second Cultist Troopers.</p><p>For the Procession, Morphean Engine 2 was the best gun on the table, 17 damage from its home line, and all 24 of the two Engines' damage came on attacks with +1 HIT from Let Them Come. The Pontifex of Acedia did 3 damage for 75 RP, but Vessel of Agares held four Spah units still in Rounds 3 to 5 and Effluvium of Inanition cut the Spah's reach every round (Aswaran 1 down to 7 squares from 20-21 in Rounds 4 and 5). It slowed the Spah without taking ground from it: an army that holds the objectives already loses nothing by being held still.</p>{{chart:attrition}}<h3>What the Procession could not do</h3><p>It never had enough bodies on the objectives. Its OC came from Hellkin, the Pontifex and the Cultist Troopers (the starting squad and two more bought with Troop Requisition for 6 CP); the first two Troopers were burned down by Round 4 and Hellkin was pushed off the left. The Pontifex attached to Cultist Troopers that failed Morale in Round 4, and the SUPPRESSED pair held 0 OC on the right objective for the last two rounds. OMNIPRESENCE (2 OC on every objective) and DEEP REACH were never in reach for an army that controlled nothing after Round 2.</p>{{chart:rp-trade}}<h3>The AI, not the army</h3><ul><li><b>Round 1, Shieldbearers 2:</b> the Spah's AI spent Double Time to put 17 RP of infantry at 8,8 in front of a transport about to unload and two howitzers with clear shots. The unit died that Action Phase and the record prices the command at nothing.</li><li><b>Round 2, Hellkin:</b> after scoring the centre alone in Round 1 it walked back to 7,3 and then 2,4, 8 squares the digest marks as undone. The centre went to the Spah in Round 3 and paid it 3 VP a round to the end, 9 VP.</li><li><b>Javidan Immortals 1 and 2</b> (60 RP) took no action in five rounds, and Javidan Immortals 1 spent three of them held by Vessel of Agares. Their whole contribution was standing on the centre in Round 5.</li><li><b>Round 5, Hellkin's Fall Back:</b> the Fall Back record calls it sound (5.19 expected melee damage against 14 HP, and its death was worth 6 VP to the Spah), but it gave up the tie on the left objective. Those 2 VP took the Spah from 29 to 31 and ended the battle that round, not the next.</li><li>The Mobad's 6 Mana Sunburst at 11,8 did no damage and 1 BURNED later; the Spah's last 6 CP (a Troop Requisition and Secure Objective in Round 5) changed nothing.</li></ul><p>The result looks like the army more than the AI: the Spah's fast OC on both wings against a slow army whose damage stays at home. The Procession's AI made it worse by giving back the centre in Round 2, but even with the centre it had no answer for the two flanks.</p>"
+  },
+  "closing_title": "Horse on the wings",
+  "closing": "<p>The Spah's cavalry held the flanks from Battle Round 1, its 10 RP hound-keepers took the centre that Hellkin left, and the Procession had no way to win ground back. Its Morphean Engines and the Pontifex's auras hurt and slowed the Spah, but they could not stop it scoring.</p>"
+}

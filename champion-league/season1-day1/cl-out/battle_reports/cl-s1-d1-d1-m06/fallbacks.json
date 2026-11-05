@@ -1,0 +1,1512 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Martyrs' Legion",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 37,
+  "name": "Covenant Levies",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Tadeusz Kosciuszko",
+     "hp": 16,
+     "dealt": 7.78,
+     "taken": 0.74
+    },
+    {
+     "uid": 20,
+     "name": "Silesian Hammerguards",
+     "hp": 16,
+     "dealt": 6.22,
+     "taken": 1.48
+    }
+   ],
+   "threat": 14,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.58,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 742.56,
+     "objective_risk": 27.93,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 10.87,
+     "leader_attach": 0,
+     "screen": 4.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.63,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 764.58,
+     "threats_raw": 1.08
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Golgothic Paladins"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 14 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 0.7,
+   "threat": 14,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 2.2199999999999998,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Martyrs' Legion",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 31,
+  "name": "Golgothic Paladins",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Tadeusz Kosciuszko",
+     "hp": 16,
+     "dealt": 1.15,
+     "taken": 4.16
+    },
+    {
+     "uid": 20,
+     "name": "Silesian Hammerguards",
+     "hp": 16,
+     "dealt": 2.15,
+     "taken": 5.7
+    }
+   ],
+   "threat": 3.3,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.31,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 397.61,
+     "objective_risk": 0.92,
+     "missive": 3.75,
+     "obj_hold": 0.49,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.57,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.03,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 409.74,
+     "threats_raw": 0.29
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.3 expected melee damage against 15 HP",
+   "it was winning the fight: 9.86 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.22,
+   "threat": 3.3,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 9.86,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oath of Kraków",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Commonwealth Fusiliers 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 9
+  },
+  "test": {
+   "need": 5,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 2
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 9
+  },
+  "parts": {
+   "stay": -16.08,
+   "fallBack": -10.31,
+   "stayCore": 2.35,
+   "fight": 2.72,
+   "taken": 16.47,
+   "tieUp": 0.85,
+   "stayDeathChance": 1,
+   "stayDeath": 8,
+   "destCore": 6.18,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 10.8,
+   "fallBackDeathChance": 0.54,
+   "fallBackDeath": 4.35,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Archistrategos",
+     "hp": 22,
+     "dealt": 5.67,
+     "taken": 0.32
+    },
+    {
+     "uid": 29,
+     "name": "Knight-Apostle Squad",
+     "hp": 22,
+     "dealt": 10.8,
+     "taken": 0.18
+    }
+   ],
+   "threat": 16.47,
+   "shotAt": {
+    "stay": 1.7,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.19,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.34,
+     "objective_risk": 2.42,
+     "missive": 3,
+     "obj_hold": 0.36,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.61,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.14,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 5.07,
+     "threats_raw": 4.03
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.49,
+     "objective_risk": 2.44,
+     "missive": 3,
+     "obj_hold": -1.13,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.72,
+     "safety": 0.06,
+     "obj_drift": -1.8,
+     "role": 0.92,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.48,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 9,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Knight-Apostle Squad",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Tri-Banner Chaplain"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 16.47 expected melee damage against 14 HP"
+  ],
+  "q": {
+   "danger": 1.1764285714285714,
+   "threat": 16.47,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.89,
+   "dealing": 0.5,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oath of Kraków",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Tri-Banner Chaplain",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 10
+  },
+  "parts": {
+   "stay": 1.37,
+   "fallBack": -2.64,
+   "stayCore": 5.84,
+   "fight": 2.22,
+   "taken": 5.36,
+   "tieUp": 0.31,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 6.39,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.95,
+   "fallBackDeathChance": 0.97,
+   "fallBackDeath": 3.86,
+   "lossPenalty": 2.22,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Archistrategos",
+     "hp": 22,
+     "dealt": 2.41,
+     "taken": 1.06
+    },
+    {
+     "uid": 29,
+     "name": "Knight-Apostle Squad",
+     "hp": 22,
+     "dealt": 2.95,
+     "taken": 1.16
+    }
+   ],
+   "threat": 5.36,
+   "shotAt": {
+    "stay": 0.62,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.62,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.13,
+     "objective_risk": 8.42,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.53,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.18,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.77,
+     "threats_raw": 2.2
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 15.4,
+     "objective_risk": 0.14,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.05,
+     "safety": 0.96,
+     "obj_drift": 0,
+     "role": 1.13,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.84,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 5.36 expected melee damage against 3 HP"
+  ],
+  "q": {
+   "danger": 1.7866666666666668,
+   "threat": 5.36,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.4800000000000004,
+   "dealing": 2.2199999999999998,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oath of Kraków",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Consecrated Hussars 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 10
+  },
+  "parts": {
+   "stay": 2.2,
+   "fallBack": -10.7,
+   "stayCore": 5.98,
+   "fight": 1.23,
+   "taken": 5.01,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.47,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 2.5,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 31,
+     "name": "Golgothic Paladins",
+     "hp": 15,
+     "dealt": 5.01,
+     "taken": 1.23
+    }
+   ],
+   "threat": 5.01,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": null,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.28,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 137.64,
+     "objective_risk": 27.19,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 6.76,
+     "leader_attach": 0,
+     "screen": 6.72,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.66,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 157.62,
+     "threats_raw": 1.28
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 94.03,
+     "objective_risk": 0.66,
+     "missive": 2.17,
+     "obj_hold": -1.65,
+     "capture_blocker": 4.39,
+     "leader_attach": 0,
+     "screen": 2.56,
+     "safety": 0.04,
+     "obj_drift": -1.8,
+     "role": 0.67,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 104.5,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5.01 expected melee damage against 11 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.45545454545454545,
+   "threat": 5.01,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 4.16,
+   "dealing": 1.23,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Martyrs' Legion",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Knight-Apostle Squad",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 7,
+   "row": 6
+  },
+  "test": {
+   "need": 3,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 7,
+   "row": 6
+  },
+  "parts": {
+   "stay": 8.21,
+   "fallBack": 16.24,
+   "stayCore": 2.38,
+   "fight": 7,
+   "taken": 1.16,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.91,
+   "lostVp": 0,
+   "gainedVp": 3,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 22,
+   "maxHp": 22,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Tri-Banner Chaplain",
+     "hp": 3,
+     "dealt": 1.16,
+     "taken": 2.95
+    }
+   ],
+   "threat": 1.16,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.01,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 24.08,
+     "objective_risk": 0.26,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 10.63,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.13,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 37.09,
+     "threats_raw": 1.91
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.82,
+     "range": 2.19,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 21.38,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 12.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.92,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.93,
+     "threats_raw": 0.39
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 1.16 expected melee damage against 22 HP",
+   "it was winning the fight: 2.95 expected damage dealt",
+   "the square it falls back to takes 3 objective VP"
+  ],
+  "q": {
+   "danger": 0.05272727272727273,
+   "threat": 1.16,
+   "hp": 22,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 3,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.83,
+   "dealing": 2.95,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Martyrs' Legion",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 35,
+  "name": "Covenant Levies 4",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 13,
+   "row": 4
+  },
+  "test": {
+   "need": 5,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 4
+  },
+  "parts": {
+   "stay": 5.83,
+   "fallBack": 6.89,
+   "stayCore": 10.43,
+   "fight": 0.02,
+   "taken": 1,
+   "tieUp": 0.38,
+   "stayDeathChance": 1,
+   "stayDeath": 3.99,
+   "destCore": 10.22,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 3.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 1,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Consecrated Hussars 2",
+     "hp": 8,
+     "dealt": 1,
+     "taken": 0.02
+    }
+   ],
+   "threat": 1,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.75,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.07,
+     "objective_risk": 9.15,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 0.82,
+     "leader_attach": 0,
+     "screen": 2.89,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.52,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.43,
+     "threats_raw": 1
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.05,
+     "range": 2.34,
+     "offensive": 0.03,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 10.18,
+     "objective_risk": 4.01,
+     "missive": 2.17,
+     "obj_hold": -1.22,
+     "capture_blocker": 0.85,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.34,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.15,
+     "threats_raw": 1
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 1 expected melee damage against 1 HP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 1,
+   "hp": 1,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.89,
+   "dealing": 0.02,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Martyrs' Legion",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 31,
+  "name": "Golgothic Paladins",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 10
+  },
+  "parts": {
+   "stay": 11.47,
+   "fallBack": -8.69,
+   "stayCore": 5.92,
+   "fight": 6.07,
+   "taken": 1.23,
+   "tieUp": 0.71,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.06,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 9.4,
+   "fallBackDeathChance": 0.25,
+   "fallBackDeath": 1.02,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Consecrated Hussars 1",
+     "hp": 11,
+     "dealt": 1.23,
+     "taken": 5.83
+    }
+   ],
+   "threat": 1.23,
+   "shotAt": {
+    "stay": 1.43,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.51,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 16.51,
+     "objective_risk": 0.1,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 13.34,
+     "leader_attach": 0,
+     "screen": 6.83,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.12,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.09,
+     "threats_raw": 1.19
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 16.61,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 8.59,
+     "leader_attach": 0,
+     "screen": 2.68,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.9,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 30.94,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.23 expected melee damage against 15 HP",
+   "it was winning the fight: 5.83 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.082,
+   "threat": 1.23,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 4.15,
+   "dealing": 5.83,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Oath of Kraków",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Consecrated Hussars 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 8,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 31,
+     "name": "Golgothic Paladins",
+     "hp": 15,
+     "dealt": 5.74,
+     "taken": 0.85
+    }
+   ],
+   "threat": 5.74,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.48,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 150.82,
+     "objective_risk": 70.23,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 5.02,
+     "leader_attach": 0,
+     "screen": 8.74,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.9,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 170.09,
+     "threats_raw": 1.24
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 5.74 expected melee damage against 8 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.7175,
+   "threat": 5.74,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.85,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Martyrs' Legion",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 31,
+  "name": "Golgothic Paladins",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 6
+  },
+  "parts": {
+   "stay": 9.63,
+   "fallBack": 5.57,
+   "stayCore": 7.85,
+   "fight": 1.87,
+   "taken": 0.85,
+   "tieUp": 0.12,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.55,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 6.6,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Consecrated Hussars 1",
+     "hp": 8,
+     "dealt": 0.85,
+     "taken": 5.74
+    }
+   ],
+   "threat": 0.85,
+   "shotAt": {
+    "stay": 0.97,
+    "dest": 0.97
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.52,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 16.55,
+     "objective_risk": 0.06,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 12.78,
+     "leader_attach": 0,
+     "screen": 7.33,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.25,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 44,
+     "threats_raw": 0.99
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.15,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 16.61,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 8.23,
+     "leader_attach": 0,
+     "screen": 7.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.15,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 39.4,
+     "threats_raw": 0.28
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.85 expected melee damage against 15 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 5.74 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.056666666666666664,
+   "threat": 0.85,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.97,
+   "screen": 0.17999999999999972,
+   "dealing": 5.74,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

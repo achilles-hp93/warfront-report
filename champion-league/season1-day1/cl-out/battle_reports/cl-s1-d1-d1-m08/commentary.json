@@ -1,0 +1,151 @@
+{
+ "title": "Legio XIII vs Bailiffs of Petra",
+ "armies": [
+  {
+   "name": "Legio XIII",
+   "faction": "Iron Imperium"
+  },
+  {
+   "name": "Bailiffs of Petra",
+   "faction": "Infernal Congregations"
+  }
+ ],
+ "mode_name": "Seize the Ground",
+ "lede": "<p>Legio XIII beat the Bailiffs of Petra 33-27 on Victory Points in Battle Round 6, from 23-27 down after Round 5.</p><p>The Bailiffs' RAISE THE STANDARD was spent by Round 4, and their objective holders then failed Morale one after another: SUPPRESSED at OC 0, they gave up both objectives they still stood on and fed COORDINATED SUPPRESSION, and Legio XIII's last round hit the 10 VP cap while the Bailiffs scored nothing.</p>",
+ "result_line": "Legio XIII win 33-27 on Victory Points in Battle Round 6",
+ "deployment": "<p>Central Faceoff on CROSSROADS: the 3 VP centre at (7,7), 2 VP flanks at (1,7) and (13,7). <b>Legio XIII</b> set up on rows 12 and 13 around its HQ at (7,13): Legionnaire Squad 2 at (3,12), the Earthshaker Mortar at (5,13), the Speculatores at (7,12), Ironthunder Vanguard 2 at (8,12), the Fulminator Squad at (9,12), the Legatus leading Ironthunder Vanguard 1 at (10,12) and the Augur leading Legionnaire Squad 1 at (11,12). <b>The Bailiffs of Petra</b> filled row 2 in front of their HQ at (7,1): the Forsaken at (3,2), Cultist Troopers 3 at (4,2), the Master of Coin leading Rapacious Crusader 2 at (5,2), Cultist Troopers 4 at (6,2), the Stygian Actuary leading Rapacious Crusader 3 at (7,2), Cultist Troopers 1 at (9,2), Cultist Troopers 2 at (10,2) and The Chairman of the Chamber leading Rapacious Crusader 1 at (11,2).</p><p>Legio XIII had Priority, 8 units to 9 with joined pairs counted as one. The Bailiffs had three COMMAND units to Legio XIII's two (3 CP a round to 2 until the Master of Coin died) and Tithe of Torment, which pays them Mana for the HP their own non-DEMON units lose.</p>",
+ "rounds": {
+  "1": {
+   "title": "The Bailiffs plant the standard and take the centre",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Primaries revealed: COORDINATED SUPPRESSION for Legio XIII, RAISE THE STANDARD for the Bailiffs, who planted the standard at (4,8), in Legio XIII's half. Secondaries kept: BREAK CONTACT and FOCUSED FIRE. Legio XIII chose Tactica Mercurii (it bought nothing). The Bailiffs spent all 3 CP on Troop Requisition: a fresh Cultist Troopers at (8,2)."
+    },
+    {
+     "phase": "Movement",
+     "text": "The Bailiffs flooded the middle: Cultist Troopers 1 to 6,7, The Chairman and Rapacious Crusader 1 to 7,6, the Master of Coin and Rapacious Crusader 2 to 8,6, Cultist Troopers 4 beside the standard at 3,7 and the new Cultist Troopers onto the right objective at 12,6. Legio XIII came up to rows 8 and 9: Ironthunder Vanguard 2 at 8,8, Legionnaire Squad 2 at 7,9, Legionnaire Squad 1 at 9,9, Ironthunder Vanguard 1 at 10,9."
+    },
+    {
+     "phase": "Action",
+     "text": "The Earthshaker Mortar's SWEEP shell rolled 11 dice into Cultist Troopers 1, hit 7 times and did <b>14 damage</b>, seven models; Tithe of Torment paid the Bailiffs its 10 Mana cap for it. The Speculatores' sniper took 3 off The Chairman of the Chamber."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Bailiffs held the centre on OC 20 vs 6 and the right on 10 vs 0 (5 VP), and RAISE THE STANDARD paid 2. <b>0-7.</b>"
+    }
+   ]
+  },
+  "2": {
+   "title": "Overwatch kills the Speculatores; Ironthunder Vanguard 2 takes the centre",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The Bailiffs spent 3 CP on Secure Objective for Cultist Troopers 1, which bought nothing. Secondaries kept: ASSASSINATION and TAKE UP THE GAUNTLET (Legio XIII gave the Bailiffs the right objective)."
+    },
+    {
+     "phase": "Movement",
+     "text": "Ironthunder Vanguard 1 and the Legatus charged onto the right objective at 13,7; the requisitioned Cultist Troopers broke away to 10,6, losing 4 HP to the Fulminators' Overwatch. The Speculatores moved to 5,9 and Rapacious Crusader 2's Overwatch, 15 dice with SUSTAINED ATTACK, killed all three: <b>Speculatores destroyed</b>, 18 RP. Go to Ground (1 CP) covered Legionnaire Squad 1 to 8,9; Legionnaire Squad 2 lost a model to the Master of Coin's Overwatch on the way to 9,8. Ironthunder Vanguard 2 charged 8,8 to 6,8 into Cultist Troopers 1, 2 and 4. Rapacious Crusader 3 and the Stygian Actuary went onto the left objective at 2,7."
+    },
+    {
+     "phase": "Action",
+     "text": "Ironthunder Vanguard 2 hit Cultist Troopers 2 eight times for 16, eight models. Legionnaire Squad 1, at BS 3+, hit Rapacious Crusader 2 seven times of eight: <b>Rapacious Crusader 2 destroyed</b>, 30 RP, the Master of Coin left alone. Rapacious Crusader 1 hit the Legatus 12 times and his bodyguard saved 11. Suppressing Barrage from the Fulminators took a model off Rapacious Crusader 1. The Master of Coin fired into the melee, strayed, and killed his own Cultist Troopers 2. The Stygian Actuary's Gaze of the Abyss (2 Mana) gave Legionnaire Squad 2 MS -1 and BS -1; The Chairman's Margin Call on the Legatus bought nothing; the Augur's Sacrificium paid 2 Mana."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "Legio XIII took the centre on OC 6 vs 2 and the right on 7 vs 0 (5 VP); Rapacious Crusader 3 held the left on 6 vs 0 (2) and RAISE THE STANDARD paid 3. <b>5-12.</b>"
+    }
+   ]
+  },
+  "3": {
+   "title": "ASSASSINATION on the Master of Coin; two more Cultist squads gone",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Legio XIII spent 3 CP on Secure Objective for Ironthunder Vanguard 1 and 2 on Double Time for the Fulminator Squad; the Bailiffs 3 on a second Troop Requisition (Cultist Troopers #2 at 8,2). Both kept COORDINATED PUSH."
+    },
+    {
+     "phase": "Movement",
+     "text": "Cultist Troopers 1 broke away from the Vanguard onto the left objective at 2,8. Ironthunder Vanguard 1 left the right objective, Secure Objective and all, to charge Cultist Troopers #2 at 11,4, which failed its Morale Test. Cultist Troopers 4 fell back from Ironthunder Vanguard 2, failed the test (3 True Damage, a model), and Ironthunder Vanguard 2 charged it and the first requisitioned Cultist Troopers at 6,7; Cultist Troopers 4 failed Morale too. Rapacious Crusader 3 stepped off the left objective to 4,6, Rapacious Crusader 1 and The Chairman went to 9,7 and the Forsaken to 4,9 by the standard."
+    },
+    {
+     "phase": "Action",
+     "text": "Ironthunder Vanguard 2 hit nine times for 16: <b>Cultist Troopers destroyed</b>. Ironthunder Vanguard 1 did 16 to Cultist Troopers #2 and the Legatus the last 2: <b>Cultist Troopers #2 destroyed</b>. Rapacious Crusader 1 and the Master of Coin shot Legionnaire Squad 2 for 4 each: <b>Legionnaire Squad 2 destroyed</b>, 20 RP. The Fulminators' Suppressing Barrage did 2 and then 4 to the Master of Coin: <b>Master of Coin destroyed</b>, 35 RP, ASSASSINATION +4; in the same attack Rapacious Crusader 1 failed a Morale Test on a natural 1 and was SUPPRESSED with The Chairman. The Augur's Iudicium (2 Mana) EXPOSED The Chairman and the Mortar missed him."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "Legio XIII held the centre on OC 6 vs 0 (3 VP); Cultist Troopers 1 held the left on 3 vs 0 (2); nobody held the right. COORDINATED SUPPRESSION paid 2 (The Chairman's pair and Cultist Troopers 4) and RAISE THE STANDARD 3, the Forsaken by the standard. BREAK CONTACT expired. <b>14-17.</b>"
+    }
+   ]
+  },
+  "4": {
+   "title": "The standard pays out its last; Legionnaire Squad 1 shreds Cultist Troopers 3",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Legio XIII switched to Tactica Martis. The Chairman's Rally Cry (2 CP) carried Rapacious Crusader 1 through its Morale Test; Cultist Troopers 1 failed on a natural 1 and was SUPPRESSED, and Cultist Troopers 4 failed again. Both kept MAN OF THE HOUR."
+    },
+    {
+     "phase": "Movement",
+     "text": "Ironthunder Vanguard 1 went back to the right objective at 12,6. Cultist Troopers 3 took the centre at 8,7, and its Overwatch on the Fulminators was saved after a Go to Ground (1 CP). Rapacious Crusader 3 returned to the left objective at 2,7; Cultist Troopers 4 fell back from the Vanguard again, failed again (2 True Damage, a model). The Forsaken charged the Fulminators and the Mortar at 5,10, and with that charge the Bailiffs had moved four units closer to Legio XIII's HQ: COORDINATED PUSH +2 VP, +1 CP."
+    },
+    {
+     "phase": "Action",
+     "text": "Legionnaire Squad 1 hit Cultist Troopers 3 nine times for <b>18 damage</b>, nine models. Rapacious Crusader 1 took three Legionnaires (6) in return and Rapacious Crusader 3 hit Ironthunder Vanguard 2 twelve times for 3 after saves. The Fulminators and the Forsaken traded 2 for 1. The Augur channelled 5 Mana; the Stygian Actuary's Whisper of Despair (3 Mana) on Ironthunder Vanguard 2 bought nothing, nor did Margin Call on the Augur."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "Legio XIII held the centre on OC 11 vs 6 and the right on 7 vs 0 (5 VP); Rapacious Crusader 3 held the left (2). COORDINATED SUPPRESSION 2, RAISE THE STANDARD 2, which reached its 10 VP total. <b>21-23.</b>"
+    }
+   ]
+  },
+  "5": {
+   "title": "Legio XIII leaves both its objectives",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Secondaries kept: TAKE UP THE GAUNTLET, on the left objective the Bailiffs chose, and SECURE THE FLANKS. Legio XIII spent 3 CP on Secure Objective for Legionnaire Squad 1, the Bailiffs 3 on a third Troop Requisition (Cultist Troopers #3). Cultist Troopers 3 failed Morale and was SUPPRESSED; Cultist Troopers 4 failed again."
+    },
+    {
+     "phase": "Movement",
+     "text": "Legionnaire Squad 1 walked off the centre to 5,7, toward the Gauntlet objective. Ironthunder Vanguard 1 charged from the right objective into The Chairman's pair and Cultist Troopers 3 at 9,7, and Ironthunder Vanguard 2 from the centre into the Actuary's pair at 3,7; all three enemy units broke away, Rapacious Crusader 3 to 1,8 on the left objective."
+    },
+    {
+     "phase": "Action",
+     "text": "The Augur's Ira Iovis (4 Mana) on the Stygian Actuary took two models off Rapacious Crusader 3 (5 HP). The Mortar did 10 to Cultist Troopers #3. The Chairman's Dividend Engine hit Legionnaire Squad 1 three times: <b>Legionnaire Squad 1 destroyed</b>, 20 RP, and the Augur down to 2 HP. Gaze of the Abyss (2 Mana) on the squad bought nothing."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "Nobody held the centre, where the SUPPRESSED Cultist Troopers 3 stood on the objective square at OC 0, or the right; the Bailiffs kept the left on OC 2 vs 0 (2 VP) and SECURE THE FLANKS paid 2 and 1 CP through Rapacious Crusader 3 at 1,8. COORDINATED SUPPRESSION 2. <b>23-27.</b>"
+    }
+   ]
+  },
+  "6": {
+   "title": "The Bailiffs' holders break, Legio XIII hits the cap",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Secondaries kept: DEEP REACH and FORWARD DEPLOYMENT. The Chairman's Rally Cry (2 CP) saved Rapacious Crusader 1 again, but Cultist Troopers 1 and Rapacious Crusader 3 failed their Morale Tests and were SUPPRESSED, and Cultist Troopers 4 failed again."
+    },
+    {
+     "phase": "Movement",
+     "text": "Ironthunder Vanguard 2 charged the SUPPRESSED Actuary's pair at 2,8, which broke away to 0,8. Ironthunder Vanguard 1 charged Cultist Troopers 3 at 8,7; it failed the Fall Back test and its last model died: <b>Cultist Troopers 3 destroyed</b>. Cultist Troopers #3 and Cultist Troopers 1 charged the Fulminators and the Augur; the Augur broke away to 6,5."
+    },
+    {
+     "phase": "Action",
+     "text": "The Forsaken finished the Fulminator Squad after the Cultists' counterattack: <b>Fulminator Squad destroyed</b>, 20 RP. Cultist Troopers 4 shot the Augur dead at 6,5: <b>Augur destroyed</b>. The Mortar did 5 to Cultist Troopers 4. Whisper of Despair (3 Mana) forced a Morale Test on Ironthunder Vanguard 2, which a Rally Cry (2 CP) passed."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "Legio XIII held the centre on OC 7 vs 5 and the left on 6 vs 0, the SUPPRESSED Rapacious Crusader 3 standing at 0,8 with OC 0 (5 VP). COORDINATED SUPPRESSION paid 3 and DEEP REACH 2, its third point and all 3 of TAKE UP THE GAUNTLET held back by the 10 VP round cap. The Bailiffs scored nothing. <b>33-27.</b>"
+    }
+   ]
+  }
+ },
+ "analysis": {
+  "title": "Why it went this way",
+  "html": "<h3>Where the VP came from</h3><p><b>Legio XIII</b> scored 18 VP from objectives, 9 from COORDINATED SUPPRESSION (0, 0, 2, 2, 2, 3 by round) and 6 from secondaries: ASSASSINATION 4 and DEEP REACH 2. Its Round 6 was capped at 10, which withheld 4 more (DEEP REACH 1, TAKE UP THE GAUNTLET 3). <b>The Bailiffs of Petra</b> scored 13 from objectives, 10 from RAISE THE STANDARD and 4 from secondaries (COORDINATED PUSH 2, SECURE THE FLANKS 2). They led for four rounds, but their Primary was spent at the end of Round 4, and from then on they scored 4 VP to Legio XIII's 12.</p>{{chart:objectives}}<h3>What the key units did</h3><p><b>Ironthunder Vanguard 2</b> (35 RP) scored 10.3 VP, 11 objective VP hinged on it, holding the centre from Round 2 to Round 4, and did 32 damage, destroying the first requisitioned Cultist Troopers. The <b>Earthshaker Mortar</b> did 31 and <b>Legionnaire Squad 1</b> 26 (BS 3+ now), killing Rapacious Crusader 2. The <b>Fulminator Squad</b>'s Suppressing Barrage killed the Master of Coin for ASSASSINATION's 4. For the Bailiffs, <b>Rapacious Crusader 3</b> (7.3 VP) held the left objective most of the battle, and the 10 RP <b>Cultist Troopers 1</b> (5.6) and 7 RP <b>Forsaken</b> (4.1) paid RAISE THE STANDARD. Legio XIII dealt 141 damage to 42 and destroyed 105 RP to 95; the 105 includes two requisitioned Cultist squads and Cultist Troopers 2, which the Master of Coin shot himself.</p>{{chart:attrition}}<h3>What the Bailiffs could not do</h3><p>They could not stay steady. Their holders were Cultist squads at Below Half-Strength, and from Round 3 they failed Morale Tests every round (Cultist Troopers 4 in all four), each failure SUPPRESSED at OC 0 and a point for COORDINATED SUPPRESSION. In Round 6 that left Rapacious Crusader 3 on the left objective counting nothing. Their Mana did not help: Tithe of Torment paid 57 over the battle, and the one caster, the Stygian Actuary, spent 10 on two Gaze of the Abyss and two Whisper of Despair, three of which bought nothing; they ended on 47.</p>{{chart:rp-trade}}<h3>The AI, not the army</h3><ul><li><b>Secure Objective twice on a unit that then left the objective.</b> Round 3: Ironthunder Vanguard 1 (3 CP) charged off the right objective to 11,4 and nobody scored the right. Round 5: Legionnaire Squad 1 (3 CP) walked off the centre to 5,7 and died there. With Ironthunder Vanguard 2 also charging off the centre that round, Legio XIII scored no objective in Round 5.</li><li><b>Round 2, the Speculatores</b> moved to 5,9 into Rapacious Crusader 2's Overwatch and were destroyed before they could act that round.</li><li><b>The Master of Coin's friendly fire</b> in Round 2 killed Cultist Troopers 2: a shot into melee that strayed (rolled 2).</li><li><b>Ironthunder Vanguard 1 and the Legatus</b> were idle five rounds of six by the activity record: three of their four charges drove the target away before the fight (Rounds 2 and 5) or killed it in the Fall Back (Round 6).</li></ul><p>The result is mostly the armies: Legio XIII's guns and Vanguard out-traded the Bailiffs three to one in damage, and the Cultist holders' Morale decided the last two rounds. The AI's two wasted Secure Objectives kept it closer than it needed to be.</p><h3>Against the first playing</h3><p>Legio XIII also won the first playing, 32-14 in Round 6. The Bailiffs were far closer this time because of their Primary: they planted the standard at (4,8), in Legio XIII's half, and RAISE THE STANDARD paid its full 10, where the first playing planted it at (0,0) and scored 1. Their preset now carries a fourth Cultist Troopers and The Chairman costs 60 RP, not 70; their CP went to three Troop Requisitions, Secure Objective and Rally Cry instead of Double Time. Legio XIII completed two secondaries (it completed none before) and its last round was capped at 10.</p>"
+ },
+ "closing_title": "Morale settled it",
+ "closing": "<p>The Bailiffs built a lead from a standard planted in the enemy half and held it for four rounds; when the standard had paid all it could, their Cultist holders broke, and Legio XIII's last round took the battle with VP to spare under the cap.</p>"
+}

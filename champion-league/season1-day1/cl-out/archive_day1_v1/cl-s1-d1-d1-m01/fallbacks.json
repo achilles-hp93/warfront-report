@@ -1,0 +1,956 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Aswaran 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 2,
+   "row": 8
+  },
+  "parts": {
+   "stay": 6.05,
+   "fallBack": -0.55,
+   "stayCore": 2.28,
+   "fight": 5.99,
+   "taken": 2.22,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.34,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.22,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Hellkin",
+     "hp": 17,
+     "dealt": 2.22,
+     "taken": 5.99
+    }
+   ],
+   "threat": 2.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.17
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -2.2,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 101.43,
+     "objective_risk": 2.9,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 11.98,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.67,
+     "posture": -0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 115.97,
+     "threats_raw": 1.47
+    },
+    "dest": {
+     "cover": -0.6,
+     "threat": -2.2,
+     "range": 1.88,
+     "offensive": 2.52,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 104.3,
+     "objective_risk": 0.02,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.04,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.73,
+     "posture": -0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 120.36,
+     "threats_raw": 1.47
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.22 expected melee damage against 12 HP",
+   "it was winning the fight: 5.99 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.18500000000000003,
+   "threat": 2.22,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.17,
+   "screen": 2.9400000000000013,
+   "dealing": 5.99,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Javidan Immortals 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 11
+  },
+  "parts": {
+   "stay": 7.5,
+   "fallBack": 3.75,
+   "stayCore": 2.36,
+   "fight": 5.83,
+   "taken": 0.69,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.11,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.69,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 6,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Hellkin",
+     "hp": 17,
+     "dealt": 0.69,
+     "taken": 5.83
+    }
+   ],
+   "threat": 0.69,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 1.4,
+     "threat": -3.95,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.94,
+     "objective_risk": 0.01,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.35,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.94,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.64,
+     "threats_raw": 1.88
+    },
+    "dest": {
+     "cover": -0.18,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.76,
+     "objective_risk": 0,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.81,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 11.47,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.69 expected melee damage against 15 HP",
+   "it was winning the fight: 5.83 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.046,
+   "threat": 0.69,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": -1.25,
+   "dealing": 5.83,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 37,
+  "name": "Sagdid Hound-Keepers",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 11
+  },
+  "parts": {
+   "stay": -5.46,
+   "fallBack": -5.36,
+   "stayCore": -1.81,
+   "fight": 1.67,
+   "taken": 3.99,
+   "tieUp": 0,
+   "stayDeathChance": 0.33,
+   "stayDeath": 1.32,
+   "destCore": 0.95,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 3.99,
+   "fallBackDeathChance": 0.33,
+   "fallBackDeath": 1.32,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Hellkin",
+     "hp": 17,
+     "dealt": 3.99,
+     "taken": 1.67
+    }
+   ],
+   "threat": 3.99,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 1.4,
+     "threat": -4.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.82,
+     "objective_risk": 0.26,
+     "missive": 1.06,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.21,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.5,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -1.97,
+     "formation": 0,
+     "total": 0.22,
+     "threats_raw": 2.19
+    },
+    "dest": {
+     "cover": -0.18,
+     "threat": 0,
+     "range": 2.29,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.18,
+     "objective_risk": 0,
+     "missive": 1.18,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.75,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.3,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": -2.25,
+     "formation": 0,
+     "total": 7.18,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 3.99 expected melee damage against 6 HP"
+  ],
+  "q": {
+   "danger": 0.665,
+   "threat": 3.99,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.54,
+   "dealing": 1.67,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Aswaran 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 7
+  },
+  "parts": {
+   "stay": 8.64,
+   "fallBack": 1.67,
+   "stayCore": 2.64,
+   "fight": 7.78,
+   "taken": 1.78,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.33,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Hellkin",
+     "hp": 16,
+     "dealt": 1.78,
+     "taken": 7.78
+    }
+   ],
+   "threat": 1.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 3.73
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -3.53,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 96.91,
+     "objective_risk": 2.54,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 19.59,
+     "leader_attach": 0,
+     "screen": 6.72,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.47,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 126.16,
+     "threats_raw": 2.36
+    },
+    "dest": {
+     "cover": -0.6,
+     "threat": -3.53,
+     "range": 1.88,
+     "offensive": 2.45,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 99.31,
+     "objective_risk": 0.15,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 12.59,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.36,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 118.84,
+     "threats_raw": 2.36
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.78 expected melee damage against 12 HP",
+   "it was winning the fight: 7.78 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.14833333333333334,
+   "threat": 1.78,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 3.73,
+   "screen": 6.72,
+   "dealing": 7.78,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Procession of Ugarit",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 32,
+  "name": "Hellkin",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 4
+  },
+  "test": {
+   "need": 5,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 4
+  },
+  "parts": {
+   "stay": 0.23,
+   "fallBack": 5.06,
+   "stayCore": 2.86,
+   "fight": 1.78,
+   "taken": 5.19,
+   "tieUp": 0.78,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.72,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.32,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 3,
+   "bestDest": {
+    "col": 4,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Aswaran 2",
+     "hp": 8,
+     "dealt": 5.19,
+     "taken": 1.78
+    }
+   ],
+   "threat": 5.19,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 3,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.76,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 66.45,
+     "objective_risk": 10.06,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 4.7,
+     "leader_attach": 0,
+     "screen": 15.29,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.12,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 89.83,
+     "threats_raw": 2.76
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 42.13,
+     "objective_risk": 0.08,
+     "missive": 2.17,
+     "obj_hold": -1.65,
+     "capture_blocker": 1.06,
+     "leader_attach": 0,
+     "screen": 11.59,
+     "safety": 0.54,
+     "obj_drift": 0,
+     "role": 1.01,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 56.84,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 5.19 expected melee damage against 14 HP; its death would score the enemy 6 VP",
+   "leaving opens 3 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 0.3707142857142857,
+   "threat": 5.19,
+   "hp": 14,
+   "killVp": 6,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 3,
+   "shotAfter": 0,
+   "screen": 3.6999999999999993,
+   "dealing": 1.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Mihran Spah",
+  "round": 5,
+  "phase": "COMMAND",
+  "uid": 26,
+  "name": "Aswaran 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 7
+  },
+  "parts": {
+   "stay": 6.53,
+   "fallBack": 2.17,
+   "stayCore": 3.12,
+   "fight": 5.19,
+   "taken": 1.78,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.84,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Hellkin",
+     "hp": 14,
+     "dealt": 1.78,
+     "taken": 5.19
+    }
+   ],
+   "threat": 1.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 3.73
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": null,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": -0.6,
+     "threat": -2.88,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 64.85,
+     "objective_risk": 3.31,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 13.11,
+     "leader_attach": 0,
+     "screen": 6.72,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.3,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 88.1,
+     "threats_raw": 1.93
+    },
+    "dest": {
+     "cover": -0.6,
+     "threat": -2.88,
+     "range": 1.88,
+     "offensive": 2.02,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 68.04,
+     "objective_risk": 0.12,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 8.45,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.23,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 83.5,
+     "threats_raw": 1.93
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.78 expected melee damage against 8 HP; its death would score the enemy 3 VP",
+   "it was winning the fight: 5.19 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.2225,
+   "threat": 1.78,
+   "hp": 8,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 3.73,
+   "screen": 6.72,
+   "dealing": 5.19,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

@@ -1,0 +1,4539 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Assault Lycanthropes",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 10
+  },
+  "parts": {
+   "stay": 6.9,
+   "fallBack": 4.9,
+   "stayCore": -1.13,
+   "fight": 8.89,
+   "taken": 2.22,
+   "tieUp": 1.36,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.57,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 9,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Muqatila Troopers 3",
+     "hp": 20,
+     "dealt": 2.22,
+     "taken": 8.89
+    }
+   ],
+   "threat": 2.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.97,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 104.83,
+     "objective_risk": 7.11,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 22.93,
+     "leader_attach": 0,
+     "screen": 0.66,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 127.56,
+     "threats_raw": 4.55
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 57.44,
+     "objective_risk": 1.36,
+     "missive": 1.88,
+     "obj_hold": -1.69,
+     "capture_blocker": 4.71,
+     "leader_attach": 0,
+     "screen": 13.57,
+     "safety": 0.24,
+     "obj_drift": -2.2,
+     "role": 1.76,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 76.39,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.22 expected melee damage against 16 HP",
+   "it was winning the fight: 8.89 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.13875,
+   "threat": 2.22,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": -12.91,
+   "dealing": 8.89,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Marrowstring Centaur",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 9
+  },
+  "parts": {
+   "stay": -24.9,
+   "fallBack": 2.01,
+   "stayCore": -7.99,
+   "fight": 0,
+   "taken": 17.59,
+   "tieUp": 2.09,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 3.67,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 24,
+     "dealt": 8.67,
+     "taken": 0
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 24,
+     "dealt": 8.91,
+     "taken": 0
+    }
+   ],
+   "threat": 17.58,
+   "shotAt": {
+    "stay": 2,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -11.54,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 10.06,
+     "objective_risk": 2.56,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.76,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.9,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 4.83,
+     "threats_raw": 5.5
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.22,
+     "offensive": 6.26,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.56,
+     "objective_risk": 0.06,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.66,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.02,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 32.38,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Wildling Acolytes",
+    "Wildling Acolytes"
+   ],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 17.58 expected melee damage against 15 HP"
+  ],
+  "q": {
+   "danger": 1.172,
+   "threat": 17.58,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -4.9,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Muqatila Troopers 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 5
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": -9.91,
+   "fallBack": -8.01,
+   "stayCore": 5.09,
+   "fight": 5.56,
+   "taken": 14.06,
+   "tieUp": 0,
+   "stayDeathChance": 0.41,
+   "stayDeath": 6.49,
+   "destCore": 5.33,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Wildling Acolytes",
+     "hp": 30,
+     "dealt": 14.06,
+     "taken": 5.56
+    }
+   ],
+   "threat": 14.06,
+   "shotAt": {
+    "stay": 2.42,
+    "dest": 2.42
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.81,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 341.65,
+     "objective_risk": 31.84,
+     "missive": 4.5,
+     "obj_hold": 0.7,
+     "capture_blocker": 12.22,
+     "leader_attach": 0,
+     "screen": 10.79,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 370.44,
+     "threats_raw": 1.55
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.2,
+     "range": 2.5,
+     "offensive": 2.13,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 231.84,
+     "objective_risk": 1.21,
+     "missive": 2.65,
+     "obj_hold": -0.86,
+     "capture_blocker": 12.22,
+     "leader_attach": 0,
+     "screen": 8.25,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.28,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 260.29,
+     "threats_raw": 1.55
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "costly",
+  "why": [
+   "danger 14.06 expected melee damage against 20 HP; its death would score the enemy 3 VP",
+   "it held 3 objective VP that leaving gives up",
+   "where it lands, enemy guns expect 2.42 damage on it"
+  ],
+  "q": {
+   "danger": 0.7030000000000001,
+   "threat": 14.06,
+   "hp": 20,
+   "killVp": 3,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.42,
+   "screen": 2.539999999999999,
+   "dealing": 5.56,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Bounded Ifrit",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 10
+  },
+  "test": {
+   "need": 6,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 10
+  },
+  "parts": {
+   "stay": -24.01,
+   "fallBack": 0.6,
+   "stayCore": -0.05,
+   "fight": 5.04,
+   "taken": 11.05,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 2.26,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 9,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Herald of Feral Affliction",
+     "hp": 10,
+     "dealt": 4.96,
+     "taken": 0.79
+    },
+    {
+     "uid": 29,
+     "name": "Wildling Acolytes",
+     "hp": 30,
+     "dealt": 6.09,
+     "taken": 4.25
+    }
+   ],
+   "threat": 11.05,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.84,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.11,
+     "objective_risk": 4.76,
+     "missive": 1.01,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.04,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.49,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 21.1,
+     "threats_raw": 1.35
+    },
+    "dest": {
+     "cover": -0.18,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.89,
+     "objective_risk": 0.05,
+     "missive": 0.92,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.55,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.25,
+     "posture": -0.03,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 29.21,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 11.05 expected melee damage against 9 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 1.2277777777777779,
+   "threat": 11.05,
+   "hp": 9,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.4899999999999993,
+   "dealing": 5.04,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 19,
+  "name": "Abna al-Dawla Guard",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": 10.34,
+   "fallBack": 5.58,
+   "stayCore": 6.01,
+   "fight": 7.66,
+   "taken": 3.33,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.91,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 24,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Herald of Feral Affliction",
+     "hp": 10,
+     "dealt": 3.33,
+     "taken": 2.78
+    }
+   ],
+   "threat": 3.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -2.42,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 137.98,
+     "objective_risk": 2.96,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 17.91,
+     "leader_attach": 0,
+     "screen": 10.33,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.68,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 172.23,
+     "threats_raw": 1.15
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 140.24,
+     "objective_risk": 0.7,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 17.91,
+     "leader_attach": 0,
+     "screen": 8.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.76,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 175.71,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.33 expected melee damage against 24 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 0.13875,
+   "threat": 3.33,
+   "hp": 24,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.1799999999999997,
+   "dealing": 2.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 30,
+  "name": "Mongrel Supplicants",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 5
+  },
+  "test": {
+   "need": 6,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 5
+  },
+  "parts": {
+   "stay": -14.87,
+   "fallBack": -8.01,
+   "stayCore": 0.51,
+   "fight": 0.79,
+   "taken": 16.67,
+   "tieUp": 3.17,
+   "stayDeathChance": 0.67,
+   "stayDeath": 2.67,
+   "destCore": 5.66,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 24,
+     "dealt": 10,
+     "taken": 0.09
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 24,
+     "dealt": 6.67,
+     "taken": 0.7
+    }
+   ],
+   "threat": 16.67,
+   "shotAt": {
+    "stay": 1.33,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 99.93,
+     "objective_risk": 15.61,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 2.81,
+     "leader_attach": 0,
+     "screen": 7.07,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.01,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 110.32,
+     "threats_raw": 5.89
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 72.72,
+     "objective_risk": 0.63,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0.88,
+     "leader_attach": 0,
+     "screen": 0.99,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.01,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 79.15,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Wildling Acolytes",
+    "Wildling Acolytes"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "costly",
+  "why": [
+   "danger 16.67 expected melee damage against 20 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.8335000000000001,
+   "threat": 16.67,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 6.08,
+   "dealing": 0.7899999999999999,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Wendigo Manreaver",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 0,
+   "row": 2
+  },
+  "parts": {
+   "stay": -21.67,
+   "fallBack": 2.09,
+   "stayCore": -4.66,
+   "fight": 1.92,
+   "taken": 18,
+   "tieUp": 3.07,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 1.76,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 0,
+    "row": 2
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 24,
+     "dealt": 8,
+     "taken": 0.67
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 24,
+     "dealt": 10,
+     "taken": 1.25
+    }
+   ],
+   "threat": 18,
+   "shotAt": {
+    "stay": 2.67,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -8.23,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 53.31,
+     "objective_risk": 32.06,
+     "missive": 2.1,
+     "obj_hold": 0.27,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.95,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.48,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 54.87,
+     "threats_raw": 5.37
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 41.71,
+     "objective_risk": 0.39,
+     "missive": 0.86,
+     "obj_hold": -1.69,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -2.2,
+     "role": 0.9,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 39.58,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Wildling Acolytes",
+    "Wildling Acolytes"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 18 expected melee damage against 18 HP",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 18,
+   "hp": 18,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 5.95,
+   "dealing": 1.92,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Zamburak Camel-Artillery",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 12
+  },
+  "parts": {
+   "stay": -7.05,
+   "fallBack": -10.54,
+   "stayCore": 3.09,
+   "fight": 0.67,
+   "taken": 8.89,
+   "tieUp": 0,
+   "stayDeathChance": 0.48,
+   "stayDeath": 1.93,
+   "destCore": 3.57,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 10.67,
+   "fallBackDeathChance": 0.78,
+   "fallBackDeath": 3.11,
+   "lossPenalty": 1.33,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 9,
+    "row": 12
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Assault Lycanthropes",
+     "hp": 16,
+     "dealt": 8.89,
+     "taken": 0.67
+    }
+   ],
+   "threat": 8.89,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 0,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.29,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 3.09,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.36,
+     "offensive": 2.75,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0,
+     "objective_risk": 0,
+     "missive": 0,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.97,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.58,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 12,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Assault Lycanthropes",
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 8.89 expected melee damage against 12 HP",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.7408333333333333,
+   "threat": 8.89,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.67,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 19,
+  "name": "Abna al-Dawla Guard",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 4
+  },
+  "parts": {
+   "stay": 8.41,
+   "fallBack": 3.52,
+   "stayCore": 3.37,
+   "fight": 43.03,
+   "taken": 20.42,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 7.22,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.03,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Herald of Feral Affliction",
+     "hp": 10,
+     "dealt": 7.56,
+     "taken": 1.67
+    },
+    {
+     "uid": 29,
+     "name": "Wildling Acolytes",
+     "hp": 15,
+     "dealt": 1.62,
+     "taken": 6
+    },
+    {
+     "uid": 30,
+     "name": "Mongrel Supplicants",
+     "hp": 19,
+     "dealt": 8.3,
+     "taken": 2.44
+    },
+    {
+     "uid": 31,
+     "name": "Weretiger Stalkers",
+     "hp": 12,
+     "dealt": 2.94,
+     "taken": 1.9
+    }
+   ],
+   "threat": 20.42,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.92,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.99,
+     "objective_risk": 2.34,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 9.62,
+     "leader_attach": 0,
+     "screen": 12.78,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.7,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 44.76,
+     "threats_raw": 2.35
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0.82,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.7,
+     "objective_risk": 0.06,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 9.94,
+     "leader_attach": 0,
+     "screen": 9.77,
+     "safety": 0.96,
+     "obj_drift": 0,
+     "role": 1.59,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 41.95,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Muqatila Troopers 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 20.42 expected melee damage against 18 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 1.1344444444444446,
+   "threat": 20.42,
+   "hp": 18,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.01,
+   "dealing": 12.01,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 20,
+  "name": "Muqatila Troopers 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 9
+  },
+  "parts": {
+   "stay": -2.22,
+   "fallBack": -13.8,
+   "stayCore": 0.55,
+   "fight": 2.35,
+   "taken": 5.11,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 0.75,
+   "lostVp": 2,
+   "gainedVp": 0,
+   "followed": 4.89,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Beast-Monk",
+     "hp": 7,
+     "dealt": 1.78,
+     "taken": 1.3
+    },
+    {
+     "uid": 34,
+     "name": "Wendigo Manreaver",
+     "hp": 16,
+     "dealt": 3.33,
+     "taken": 0.86
+    }
+   ],
+   "threat": 5.11,
+   "shotAt": {
+    "stay": 0,
+    "dest": 5
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.7,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 45.32,
+     "objective_risk": 9.77,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 1.97,
+     "leader_attach": 0,
+     "screen": 6.67,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.74,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 54.51,
+     "threats_raw": 2.24
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -4.7,
+     "range": 1.88,
+     "offensive": 1.99,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 32.03,
+     "objective_risk": 0.11,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 2.07,
+     "leader_attach": 0,
+     "screen": 10.79,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.69,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 47.71,
+     "threats_raw": 2.24
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Rammal Geomancer"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5.11 expected melee damage against 14 HP; its death would score the enemy 7 VP",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.36500000000000005,
+   "threat": 5.11,
+   "hp": 14,
+   "killVp": 7,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 5,
+   "screen": -4.119999999999999,
+   "dealing": 2.16,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 32,
+  "name": "Beast-Monk",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 7,
+   "maxHp": 7,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Muqatila Troopers 1",
+     "hp": 14,
+     "dealt": 1.3,
+     "taken": 1.78
+    },
+    {
+     "uid": 24,
+     "name": "Rammal Geomancer",
+     "hp": 14,
+     "dealt": 0.11,
+     "taken": 2.78
+    }
+   ],
+   "threat": 1.41,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.66,
+     "objective_risk": 0.37,
+     "missive": 3,
+     "obj_hold": 0.49,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.14,
+     "threats_raw": 3.74
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.41 expected melee damage against 7 HP",
+   "it was winning the fight: 4.56 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.20142857142857143,
+   "threat": 1.41,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 4.56,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Wildling Acolytes",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 15,
+   "maxHp": 30,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 18,
+     "dealt": 7.73,
+     "taken": 0.05
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 18,
+     "dealt": 6,
+     "taken": 0.86
+    }
+   ],
+   "threat": 13.73,
+   "shotAt": {
+    "stay": 2,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.5,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.11,
+     "objective_risk": 1.3,
+     "missive": 0.94,
+     "obj_hold": 0.66,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 11.67,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.51,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 26.18,
+     "threats_raw": 5.69
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Mongrel Supplicants"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 13.73 expected melee damage against 15 HP"
+  ],
+  "q": {
+   "danger": 0.9153333333333333,
+   "threat": 13.73,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.91,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Wendigo Manreaver",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 16,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Muqatila Troopers 1",
+     "hp": 14,
+     "dealt": 0.86,
+     "taken": 3.33
+    },
+    {
+     "uid": 24,
+     "name": "Rammal Geomancer",
+     "hp": 14,
+     "dealt": 0.07,
+     "taken": 4
+    }
+   ],
+   "threat": 0.93,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 38.77,
+     "objective_risk": 0.2,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 7.69,
+     "leader_attach": 0,
+     "screen": 15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.26,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 64.71,
+     "threats_raw": 4.49
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.93 expected melee damage against 16 HP",
+   "it was winning the fight: 7.33 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.058125,
+   "threat": 0.93,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 7.33,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 19,
+  "name": "Abna al-Dawla Guard",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 4
+  },
+  "parts": {
+   "stay": 31.26,
+   "fallBack": -7.35,
+   "stayCore": 4.74,
+   "fight": 30.89,
+   "taken": 4.38,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.57,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 1.25,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 17,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Herald of Feral Affliction",
+     "hp": 10,
+     "dealt": 3.36,
+     "taken": 1.67
+    },
+    {
+     "uid": 29,
+     "name": "Wildling Acolytes",
+     "hp": 15,
+     "dealt": 0.86,
+     "taken": 6
+    },
+    {
+     "uid": 30,
+     "name": "Mongrel Supplicants",
+     "hp": 3,
+     "dealt": 0.15,
+     "taken": 2.44
+    }
+   ],
+   "threat": 4.37,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.49,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 62.84,
+     "objective_risk": 6.99,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 9.45,
+     "leader_attach": 0,
+     "screen": 13.22,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.64,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 90.26,
+     "threats_raw": 1.66
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0.82,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.96,
+     "objective_risk": 0.19,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 9.94,
+     "leader_attach": 0,
+     "screen": 10.35,
+     "safety": 1.31,
+     "obj_drift": 0,
+     "role": 1.6,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 72.14,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.37 expected melee damage against 17 HP; its death would score the enemy 4 VP",
+   "it was winning the fight: 10.11 expected damage dealt",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.2570588235294118,
+   "threat": 4.37,
+   "hp": 17,
+   "killVp": 4,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.870000000000001,
+   "dealing": 10.11,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 20,
+  "name": "Muqatila Troopers 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 9
+  },
+  "parts": {
+   "stay": -0.5,
+   "fallBack": -12.64,
+   "stayCore": 3.57,
+   "fight": 1.48,
+   "taken": 5.11,
+   "tieUp": 0,
+   "stayDeathChance": 0.02,
+   "stayDeath": 0.44,
+   "destCore": 2.01,
+   "lostVp": 2,
+   "gainedVp": 0,
+   "followed": 4.98,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Beast-Monk",
+     "hp": 7,
+     "dealt": 1.78,
+     "taken": 0.78
+    },
+    {
+     "uid": 34,
+     "name": "Wendigo Manreaver",
+     "hp": 17,
+     "dealt": 3.33,
+     "taken": 0.52
+    }
+   ],
+   "threat": 5.11,
+   "shotAt": {
+    "stay": 0,
+    "dest": 5.03
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.43,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 34.06,
+     "objective_risk": 20.19,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 1.24,
+     "leader_attach": 0,
+     "screen": 6.67,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.71,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 45.91,
+     "threats_raw": 2.24
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -4.71,
+     "range": 1.88,
+     "offensive": 1.18,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 31.88,
+     "objective_risk": 0.55,
+     "missive": 2.17,
+     "obj_hold": -1.14,
+     "capture_blocker": 1.3,
+     "leader_attach": 0,
+     "screen": 10.79,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.66,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 47.89,
+     "threats_raw": 2.24
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Beast-Monk",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Rammal Geomancer",
+    "Rammal Geomancer"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held to the end",
+  "why": [
+   "danger 5.11 expected melee damage against 10 HP; its death would score the enemy 4 VP",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.511,
+   "threat": 5.11,
+   "hp": 10,
+   "killVp": 4,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 5.03,
+   "screen": -4.119999999999999,
+   "dealing": 1.3,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Muqatila Troopers 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 4
+  },
+  "parts": {
+   "stay": 6.9,
+   "fallBack": -7.46,
+   "stayCore": 5.44,
+   "fight": 7.44,
+   "taken": 5.98,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.2,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Herald of Feral Affliction",
+     "hp": 10,
+     "dealt": 5.37,
+     "taken": 0.44
+    },
+    {
+     "uid": 30,
+     "name": "Mongrel Supplicants",
+     "hp": 3,
+     "dealt": 0.61,
+     "taken": 3
+    }
+   ],
+   "threat": 5.98,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.42,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 91.07,
+     "objective_risk": 2.53,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 7.4,
+     "leader_attach": 0,
+     "screen": 10.48,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.26,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 114.39,
+     "threats_raw": 2.2
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0.82,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 54.05,
+     "objective_risk": 0.22,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 7.4,
+     "leader_attach": 0,
+     "screen": 7.02,
+     "safety": 0.24,
+     "obj_drift": 0,
+     "role": 1.3,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 77.98,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5.98 expected melee damage against 16 HP",
+   "it was winning the fight: 3.44 expected damage dealt, enough to destroy an engager",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.37375,
+   "threat": 5.98,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.460000000000001,
+   "dealing": 3.44,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 22,
+  "name": "Muqatila Troopers 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 12,
+   "row": 7
+  },
+  "parts": {
+   "stay": -13.87,
+   "fallBack": -15.77,
+   "stayCore": 5.69,
+   "fight": 0.44,
+   "taken": 4,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 16,
+   "destCore": 5.57,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 4,
+   "fallBackDeathChance": 1,
+   "fallBackDeath": 16,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 12,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Assault Lycanthropes",
+     "hp": 11,
+     "dealt": 4,
+     "taken": 0.44
+    }
+   ],
+   "threat": 4,
+   "shotAt": {
+    "stay": 0,
+    "dest": 4
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": null,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.24,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.79,
+     "objective_risk": 19.95,
+     "missive": 4.5,
+     "obj_hold": 0.59,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.72,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.63,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.78,
+     "threats_raw": 2
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.24,
+     "range": 2.03,
+     "offensive": 1.22,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 44.82,
+     "objective_risk": 1.92,
+     "missive": 4.5,
+     "obj_hold": 0.59,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.72,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.71,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 62.94,
+     "threats_raw": 2
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Assault Lycanthropes",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 4 expected melee damage against 4 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 4,
+   "hp": 4,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4,
+   "screen": -1.0000000000000009,
+   "dealing": 0.44,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 30,
+  "name": "Mongrel Supplicants",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 3,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 17,
+     "dealt": 3,
+     "taken": 0.02
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 17,
+     "dealt": 2.44,
+     "taken": 0.15
+    },
+    {
+     "uid": 21,
+     "name": "Muqatila Troopers 2",
+     "hp": 16,
+     "dealt": 3,
+     "taken": 0.61
+    }
+   ],
+   "threat": 8.44,
+   "shotAt": {
+    "stay": 0.67,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.22,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.38,
+     "objective_risk": 5.44,
+     "missive": 0,
+     "obj_hold": 0.66,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 11.03,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.43,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.27,
+     "threats_raw": 3.78
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Muqatila Troopers 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Herald of Feral Affliction",
+    "Wildling Acolytes"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 8.44 expected melee damage against 3 HP"
+  ],
+  "q": {
+   "danger": 2.813333333333333,
+   "threat": 8.44,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 32,
+  "name": "Beast-Monk",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 7,
+   "maxHp": 7,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Muqatila Troopers 1",
+     "hp": 10,
+     "dealt": 0.78,
+     "taken": 1.78
+    },
+    {
+     "uid": 24,
+     "name": "Rammal Geomancer",
+     "hp": 10,
+     "dealt": 0.11,
+     "taken": 2.78
+    }
+   ],
+   "threat": 0.89,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.64,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.65,
+     "objective_risk": 0.25,
+     "missive": 3.75,
+     "obj_hold": 0.52,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.2,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.48,
+     "threats_raw": 3.65
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.89 expected melee damage against 7 HP; its death would score the enemy 4 VP",
+   "it was winning the fight: 4.56 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.12714285714285714,
+   "threat": 0.89,
+   "hp": 7,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 4.56,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Wildling Acolytes",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 15,
+   "maxHp": 30,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 17,
+     "dealt": 7.73,
+     "taken": 0.05
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 17,
+     "dealt": 6,
+     "taken": 0.86
+    }
+   ],
+   "threat": 13.73,
+   "shotAt": {
+    "stay": 2,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.11,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.79,
+     "objective_risk": 1.02,
+     "missive": 3,
+     "obj_hold": 0.66,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 13.29,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.64,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 27.26,
+     "threats_raw": 5.05
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Herald of Feral Affliction"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 13.73 expected melee damage against 15 HP"
+  ],
+  "q": {
+   "danger": 0.9153333333333333,
+   "threat": 13.73,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.91,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Assault Lycanthropes",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 11,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Muqatila Troopers 3",
+     "hp": 4,
+     "dealt": 0.44,
+     "taken": 4
+    }
+   ],
+   "threat": 0.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.69,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.98,
+     "objective_risk": 0.04,
+     "missive": 0.63,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.3,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 0.23,
+     "threats_raw": 2.71
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.44 expected melee damage against 11 HP",
+   "it was winning the fight: 4 expected damage dealt, enough to destroy an engager"
+  ],
+  "q": {
+   "danger": 0.04,
+   "threat": 0.44,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 4,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Herald of Feral Affliction",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 10,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 17,
+     "dealt": 3.7,
+     "taken": 0.79
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 17,
+     "dealt": 1.67,
+     "taken": 3.36
+    },
+    {
+     "uid": 21,
+     "name": "Muqatila Troopers 2",
+     "hp": 16,
+     "dealt": 0.44,
+     "taken": 5.37
+    }
+   ],
+   "threat": 5.81,
+   "shotAt": {
+    "stay": 1.78,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.9,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 72.03,
+     "objective_risk": 2.36,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 11.49,
+     "leader_attach": 0,
+     "screen": 15.26,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.8,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 102.69,
+     "threats_raw": 2.7
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Mongrel Supplicants",
+    "Wildling Acolytes"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 5.81 expected melee damage against 10 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 0.581,
+   "threat": 5.81,
+   "hp": 10,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 9.52,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Wendigo Manreaver",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 17,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Muqatila Troopers 1",
+     "hp": 10,
+     "dealt": 0.52,
+     "taken": 3.33
+    },
+    {
+     "uid": 24,
+     "name": "Rammal Geomancer",
+     "hp": 10,
+     "dealt": 0.07,
+     "taken": 4
+    }
+   ],
+   "threat": 0.59,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.43,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 31.18,
+     "objective_risk": 0.12,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 7.45,
+     "leader_attach": 0,
+     "screen": 15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.28,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 55.51,
+     "threats_raw": 4.44
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.59 expected melee damage against 17 HP; its death would score the enemy 4 VP",
+   "it was winning the fight: 7.33 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.03470588235294118,
+   "threat": 0.59,
+   "hp": 17,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 7.33,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 19,
+  "name": "Abna al-Dawla Guard",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 10
+  },
+  "parts": {
+   "stay": 37.55,
+   "fallBack": -12.31,
+   "stayCore": 5.02,
+   "fight": 35.78,
+   "taken": 3.25,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.96,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 4.6,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Herald of Feral Affliction",
+     "hp": 6,
+     "dealt": 2.56,
+     "taken": 1.67
+    },
+    {
+     "uid": 29,
+     "name": "Wildling Acolytes",
+     "hp": 12,
+     "dealt": 0.69,
+     "taken": 6
+    }
+   ],
+   "threat": 3.25,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.33,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 155.19,
+     "objective_risk": 27.38,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 11.09,
+     "leader_attach": 0,
+     "screen": 12.46,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.55,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 184.28,
+     "threats_raw": 1.34
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 100.54,
+     "objective_risk": 0.18,
+     "missive": 2.17,
+     "obj_hold": -1.65,
+     "capture_blocker": 11.67,
+     "leader_attach": 0,
+     "screen": 8.77,
+     "safety": 1.71,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 127.32,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.25 expected melee damage against 16 HP",
+   "it was winning the fight: 7.67 expected damage dealt",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.203125,
+   "threat": 3.25,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.6900000000000013,
+   "dealing": 7.67,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Muqatila Troopers 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 8
+  },
+  "test": {
+   "need": 6,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 8
+  },
+  "parts": {
+   "stay": -11.51,
+   "fallBack": 2.34,
+   "stayCore": 1.92,
+   "fight": 1.63,
+   "taken": 12.7,
+   "tieUp": 0,
+   "stayDeathChance": 0.59,
+   "stayDeath": 2.35,
+   "destCore": 4.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Herald of Feral Affliction",
+     "hp": 6,
+     "dealt": 5.37,
+     "taken": 0.44
+    },
+    {
+     "uid": 31,
+     "name": "Weretiger Stalkers",
+     "hp": 12,
+     "dealt": 7.33,
+     "taken": 1.19
+    }
+   ],
+   "threat": 12.7,
+   "shotAt": {
+    "stay": 0,
+    "dest": 4.83
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.42,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 19.63,
+     "objective_risk": 4.74,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.96,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.04,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 31.51,
+     "threats_raw": 2.2
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -2.42,
+     "range": 1.88,
+     "offensive": 2.63,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.05,
+     "objective_risk": 0.03,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.25,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 35.81,
+     "threats_raw": 2.2
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 12.7 expected melee damage against 16 HP",
+   "where it lands, enemy guns expect 4.83 damage on it"
+  ],
+  "q": {
+   "danger": 0.79375,
+   "threat": 12.7,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4.83,
+   "screen": 0.7100000000000009,
+   "dealing": 1.63,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Rammal Geomancer",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 9
+  },
+  "parts": {
+   "stay": -18.12,
+   "fallBack": -21.37,
+   "stayCore": 1.69,
+   "fight": 0.19,
+   "taken": 6.76,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 16,
+   "destCore": 0.3,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 5.69,
+   "fallBackDeathChance": 1,
+   "fallBackDeath": 16,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 4,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Beast-Monk",
+     "hp": 7,
+     "dealt": 2.78,
+     "taken": 0.11
+    },
+    {
+     "uid": 34,
+     "name": "Wendigo Manreaver",
+     "hp": 18,
+     "dealt": 3.98,
+     "taken": 0.07
+    }
+   ],
+   "threat": 6.76,
+   "shotAt": {
+    "stay": 0,
+    "dest": 4
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.13,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.11,
+     "objective_risk": 9.62,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 0.71,
+     "leader_attach": 0.18,
+     "screen": 6.67,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.86,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.68,
+     "threats_raw": 2
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -4.2,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.05,
+     "objective_risk": 0.23,
+     "missive": 2.17,
+     "obj_hold": -1.55,
+     "capture_blocker": 0.34,
+     "leader_attach": 0.45,
+     "screen": 7.01,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.72,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.14,
+     "threats_raw": 2
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Wendigo Manreaver",
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 6.76 expected melee damage against 4 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1.69,
+   "threat": 6.76,
+   "hp": 4,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4,
+   "screen": -0.33999999999999986,
+   "dealing": 0.18,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Wildling Acolytes",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 12,
+   "maxHp": 30,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 16,
+     "dealt": 7.73,
+     "taken": 0.04
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 16,
+     "dealt": 6,
+     "taken": 0.69
+    }
+   ],
+   "threat": 13.73,
+   "shotAt": {
+    "stay": 2,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.64,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 9.6,
+     "objective_risk": 2.26,
+     "missive": 3,
+     "obj_hold": 0.39,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 12.57,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.43,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 25.14,
+     "threats_raw": 4.24
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Herald of Feral Affliction"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 13.73 expected melee damage against 12 HP"
+  ],
+  "q": {
+   "danger": 1.1441666666666668,
+   "threat": 13.73,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.73,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 32,
+  "name": "Beast-Monk",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 7,
+   "maxHp": 7,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Rammal Geomancer",
+     "hp": 4,
+     "dealt": 0.11,
+     "taken": 2.78
+    }
+   ],
+   "threat": 0.11,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.03,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.34,
+     "objective_risk": 0.1,
+     "missive": 3.75,
+     "obj_hold": 0.26,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.16,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.27,
+     "threats_raw": 3.22
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.11 expected melee damage against 7 HP; its death would score the enemy 4 VP",
+   "it was winning the fight: 2.78 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.015714285714285715,
+   "threat": 0.11,
+   "hp": 7,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 2.78,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Wendigo Manreaver",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Rammal Geomancer",
+     "hp": 4,
+     "dealt": 0.07,
+     "taken": 3.98
+    }
+   ],
+   "threat": 0.07,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.57,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.38,
+     "objective_risk": 0.05,
+     "missive": 4.5,
+     "obj_hold": 0.26,
+     "capture_blocker": 7.42,
+     "leader_attach": 0,
+     "screen": 15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.15,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 49.94,
+     "threats_raw": 4.21
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.07 expected melee damage against 18 HP; its death would score the enemy 4 VP",
+   "it was winning the fight: 3.98 expected damage dealt",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.003888888888888889,
+   "threat": 0.07,
+   "hp": 18,
+   "killVp": 4,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 3.98,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Wolfshead Pack",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Herald of Feral Affliction",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 6,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Saladin - Al-Malik al-Nasir",
+     "hp": 16,
+     "dealt": 3.52,
+     "taken": 0.47
+    },
+    {
+     "uid": 19,
+     "name": "Abna al-Dawla Guard",
+     "hp": 16,
+     "dealt": 1.67,
+     "taken": 2.56
+    }
+   ],
+   "threat": 5.19,
+   "shotAt": {
+    "stay": 1.78,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.65,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 48.75,
+     "objective_risk": 6.54,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 6.23,
+     "leader_attach": 0,
+     "screen": 14.59,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.47,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 73.98,
+     "threats_raw": 2.45
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Wildling Acolytes"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 5.19 expected melee damage against 6 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 0.8650000000000001,
+   "threat": 5.19,
+   "hp": 6,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 3.0300000000000002,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Sword of Allah",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 17,
+  "name": "HQ",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 33,
+     "name": "Marrowstring Centaur",
+     "hp": 15,
+     "dealt": 0,
+     "taken": 0
+    }
+   ],
+   "threat": 0,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.64,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.34,
+     "objective_risk": 1.07,
+     "missive": 0,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -5.94,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": -6.27,
+     "threats_raw": 2.69
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Muqatila Troopers 2"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 0,
+   "threat": 0,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

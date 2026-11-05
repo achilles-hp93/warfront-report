@@ -1,0 +1,1738 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cappadocian Riders",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Covenant Levies",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 9
+  },
+  "parts": {
+   "stay": 1.13,
+   "fallBack": -8.26,
+   "stayCore": 1.62,
+   "fight": 2.22,
+   "taken": 4.17,
+   "tieUp": 1.46,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 0.4,
+   "lostVp": 2,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 17,
+     "name": "Muqatila Troopers",
+     "hp": 20,
+     "dealt": 4.17,
+     "taken": 2.22
+    }
+   ],
+   "threat": 4.17,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.51,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 111.55,
+     "objective_risk": 2.04,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 10.54,
+     "leader_attach": 0,
+     "screen": 3,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 126.71,
+     "threats_raw": 5.24
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -6.43,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 64.07,
+     "objective_risk": 0.35,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 11.08,
+     "leader_attach": 0,
+     "screen": 3.44,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.97,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 80.87,
+     "threats_raw": 6.12
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.17 expected melee damage against 20 HP",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.2085,
+   "threat": 4.17,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.43999999999999995,
+   "dealing": 2.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cappadocian Riders",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Crimson Knights 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 1,
+   "row": 7
+  },
+  "parts": {
+   "stay": 7.56,
+   "fallBack": 4.29,
+   "stayCore": -0.29,
+   "fight": 8,
+   "taken": 0.37,
+   "tieUp": 0.23,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.96,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 1,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 17,
+     "name": "Muqatila Troopers",
+     "hp": 20,
+     "dealt": 0.37,
+     "taken": 8
+    }
+   ],
+   "threat": 0.37,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.89,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.91,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.7,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.95,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 6.32,
+     "threats_raw": 1.85
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.41,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.1,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.87,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 5.26,
+     "threats_raw": 0.67
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.37 expected melee damage against 15 HP",
+   "it was winning the fight: 8 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.024666666666666667,
+   "threat": 0.37,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 4.7,
+   "dealing": 8,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cappadocian Riders",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 20,
+  "name": "Crimson Knights 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 7
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 7
+  },
+  "parts": {
+   "stay": -0.18,
+   "fallBack": -0.18,
+   "stayCore": 1.45,
+   "fight": 8.73,
+   "taken": 10.61,
+   "tieUp": 0.25,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 1.16,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 27,
+   "maxHp": 27,
+   "engagers": [
+    {
+     "uid": 15,
+     "name": "Isfahsalar",
+     "hp": 25,
+     "dealt": 2.33,
+     "taken": 1.66
+    },
+    {
+     "uid": 16,
+     "name": "Khassakiyya Guard 2",
+     "hp": 25,
+     "dealt": 8.28,
+     "taken": 2.63
+    }
+   ],
+   "threat": 10.61,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.72,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 234.92,
+     "objective_risk": 78.58,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 5.61,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.57,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 242.26,
+     "threats_raw": 4.5
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -6.72,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 313.03,
+     "objective_risk": 0.47,
+     "missive": 4.5,
+     "obj_hold": -0.17,
+     "capture_blocker": 3.64,
+     "leader_attach": 0,
+     "screen": 5.4,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.48,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 321.96,
+     "threats_raw": 4.5
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 10.61 expected melee damage against 27 HP"
+  ],
+  "q": {
+   "danger": 0.39296296296296296,
+   "threat": 10.61,
+   "hp": 27,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -5.4,
+   "dealing": 4.29,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cappadocian Riders",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 22,
+  "name": "Dragoon Brethren",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 6
+  },
+  "test": {
+   "need": 6,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 6
+  },
+  "parts": {
+   "stay": -21.51,
+   "fallBack": 3.46,
+   "stayCore": -6.65,
+   "fight": 0.14,
+   "taken": 14.29,
+   "tieUp": 1,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": -6.87,
+   "lostVp": 0,
+   "gainedVp": 3,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 13,
+     "name": "Saladin - Al-Malik al-Nasir (Mounted)",
+     "hp": 24,
+     "dealt": 5.56,
+     "taken": 0.03
+    },
+    {
+     "uid": 14,
+     "name": "Khassakiyya Guard 1",
+     "hp": 24,
+     "dealt": 8.73,
+     "taken": 0.11
+    }
+   ],
+   "threat": 14.29,
+   "shotAt": {
+    "stay": 1.67,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": false,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -10.17,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 14.17,
+     "objective_risk": 3.24,
+     "missive": 0.95,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.47,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.52,
+     "threats_raw": 4.84
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -10.17,
+     "range": 2.29,
+     "offensive": 0.67,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 24.76,
+     "objective_risk": 0.02,
+     "missive": 0.8,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.59,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.84,
+     "threats_raw": 4.84
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Covenant Levies",
+    "Covenant Levies"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 14.29 expected melee damage against 12 HP",
+   "the square it falls back to takes 3 objective VP"
+  ],
+  "q": {
+   "danger": 1.1908333333333332,
+   "threat": 14.29,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 3,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.14,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Horns of Hattin",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 17,
+  "name": "Muqatila Troopers",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 6
+  },
+  "parts": {
+   "stay": -0.9,
+   "fallBack": -6.3,
+   "stayCore": 3.51,
+   "fight": 0.59,
+   "taken": 3.75,
+   "tieUp": 1,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 3.58,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 3.75,
+   "fallBackDeathChance": 1,
+   "fallBackDeath": 4,
+   "lossPenalty": 3.89,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Crimson Knights 2",
+     "hp": 15,
+     "dealt": 2,
+     "taken": 0.04
+    },
+    {
+     "uid": 24,
+     "name": "Covenant Levies",
+     "hp": 20,
+     "dealt": 1.75,
+     "taken": 0.56
+    }
+   ],
+   "threat": 3.75,
+   "shotAt": {
+    "stay": 0,
+    "dest": 4
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.61,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.23,
+     "objective_risk": 24.64,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 1.17,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.62,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.26,
+     "threats_raw": 2
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.61,
+     "range": 2.34,
+     "offensive": 0.92,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.6,
+     "objective_risk": 2.26,
+     "missive": 4.5,
+     "obj_hold": -0.21,
+     "capture_blocker": 1.22,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 0.69,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 47.36,
+     "threats_raw": 2
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Muqatila Troopers",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 3.75 expected melee damage against 2 HP"
+  ],
+  "q": {
+   "danger": 1.875,
+   "threat": 3.75,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4,
+   "screen": 0,
+   "dealing": 0.6000000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cappadocian Riders",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Crimson Knights 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": 12.05,
+   "fallBack": 5.21,
+   "stayCore": 6.05,
+   "fight": 6,
+   "taken": 0.04,
+   "tieUp": 0.03,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.87,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 17,
+     "name": "Muqatila Troopers",
+     "hp": 2,
+     "dealt": 0.04,
+     "taken": 2
+    }
+   ],
+   "threat": 0.04,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.15,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 15.53,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 5.25,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.9,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 31.83,
+     "threats_raw": 0.55
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.32,
+     "objective_risk": 0,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 1.17,
+     "leader_attach": 0,
+     "screen": 5.03,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 29.39,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Covenant Levies"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.04 expected melee damage against 15 HP",
+   "it was winning the fight: 2 expected damage dealt, enough to destroy an engager",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.0026666666666666666,
+   "threat": 0.04,
+   "hp": 15,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": -0.03000000000000025,
+   "dealing": 2,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cappadocian Riders",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Covenant Levies",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 17,
+     "name": "Muqatila Troopers",
+     "hp": 2,
+     "dealt": 0.56,
+     "taken": 1.75
+    }
+   ],
+   "threat": 0.56,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.41,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 23.22,
+     "objective_risk": 0.09,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 4.03,
+     "leader_attach": 0,
+     "screen": 4.94,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.02,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 36.11,
+     "threats_raw": 3.25
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.56 expected melee damage against 20 HP",
+   "it was winning the fight: 1.75 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.028000000000000004,
+   "threat": 0.56,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.75,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Horns of Hattin",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 14,
+  "name": "Khassakiyya Guard 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 12,
+   "row": 6
+  },
+  "test": {
+   "need": 6,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 12,
+   "row": 6
+  },
+  "parts": {
+   "stay": -1.47,
+   "fallBack": 8.51,
+   "stayCore": 2.9,
+   "fight": 6.47,
+   "taken": 10.84,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.18,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 12,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 24,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Archistrategos (Mounted)",
+     "hp": 27,
+     "dealt": 2.29,
+     "taken": 1
+    },
+    {
+     "uid": 20,
+     "name": "Crimson Knights 1",
+     "hp": 27,
+     "dealt": 8.55,
+     "taken": 1
+    }
+   ],
+   "threat": 10.84,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.42
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.03,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 73.28,
+     "objective_risk": 23.49,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.49,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.33,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 81.67,
+     "threats_raw": 0.97
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.67,
+     "range": 2.5,
+     "offensive": 2.2,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 74.86,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.85,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 81.74,
+     "threats_raw": 0.8
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 10.84 expected melee damage against 24 HP",
+   "the square it falls back to takes 2 objective VP",
+   "where it lands, enemy guns expect 0.42 damage on it"
+  ],
+  "q": {
+   "danger": 0.45166666666666666,
+   "threat": 10.84,
+   "hp": 24,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 0.42,
+   "screen": 5.49,
+   "dealing": 2,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Horns of Hattin",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 16,
+  "name": "Khassakiyya Guard 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 6
+  },
+  "parts": {
+   "stay": 8.9,
+   "fallBack": -3.8,
+   "stayCore": 6.75,
+   "fight": 7.06,
+   "taken": 4.92,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.42,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 8.55,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 25,
+   "maxHp": 25,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Archistrategos (Mounted)",
+     "hp": 27,
+     "dealt": 2.29,
+     "taken": 1.98
+    },
+    {
+     "uid": 20,
+     "name": "Crimson Knights 1",
+     "hp": 27,
+     "dealt": 2.63,
+     "taken": 1.49
+    }
+   ],
+   "threat": 4.92,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.49,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 264.66,
+     "objective_risk": 22.24,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 6.72,
+     "leader_attach": 0,
+     "screen": 7.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 286,
+     "threats_raw": 1.5
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.49,
+     "range": 2.5,
+     "offensive": 5.74,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 286.77,
+     "objective_risk": 0.12,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 6.72,
+     "leader_attach": 0,
+     "screen": 13.43,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.22,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 322.11,
+     "threats_raw": 1.5
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.92 expected melee damage against 25 HP"
+  ],
+  "q": {
+   "danger": 0.1968,
+   "threat": 4.92,
+   "hp": 25,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1,
+   "screen": -6.09,
+   "dealing": 3.4699999999999998,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cappadocian Riders",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Akritic Outriders",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 12,
+   "row": 6
+  },
+  "parts": {
+   "stay": -17.53,
+   "fallBack": 1.23,
+   "stayCore": -7.15,
+   "fight": 0.13,
+   "taken": 13.22,
+   "tieUp": 2.5,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 5.9,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 9,
+   "fallBackDeathChance": 1,
+   "fallBackDeath": 4,
+   "lossPenalty": 1.67,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 12,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 9,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 13,
+     "name": "Saladin - Al-Malik al-Nasir (Mounted)",
+     "hp": 21,
+     "dealt": 7.73,
+     "taken": 0.01
+    },
+    {
+     "uid": 14,
+     "name": "Khassakiyya Guard 1",
+     "hp": 21,
+     "dealt": 5.5,
+     "taken": 0.11
+    }
+   ],
+   "threat": 13.23,
+   "shotAt": {
+    "stay": 2,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -9.09,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.45,
+     "objective_risk": 10.91,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.35,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.99,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": -1.22,
+     "formation": 0,
+     "total": 7.65,
+     "threats_raw": 4.33
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.29,
+     "offensive": 3.56,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 36.48,
+     "objective_risk": 0.64,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.33,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": -0.93,
+     "formation": 0,
+     "total": 48.57,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 13.23 expected melee damage against 9 HP",
+   "the square it falls back to takes 2 objective VP",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 1.47,
+   "threat": 13.23,
+   "hp": 9,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 3.0100000000000002,
+   "dealing": 0.12,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Horns of Hattin",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 12,
+  "name": "HQ",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Crimson Knights 2",
+     "hp": 15,
+     "dealt": 2,
+     "taken": 0
+    }
+   ],
+   "threat": 2,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.42,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.45,
+     "objective_risk": 0.2,
+     "missive": 0,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -4.72,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": -5.9,
+     "threats_raw": 2.11
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 0.25,
+   "threat": 2,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

@@ -1,0 +1,73 @@
+{
+  "title": "Popinjay Guild vs Alea Iacta",
+  "armies": [
+    { "name": "Popinjay Guild", "faction": "Covenant of New Jerusalem" },
+    { "name": "Alea Iacta", "faction": "Iron Imperium" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Popinjay Guild beat Alea Iacta 35-21 on Victory Points in Battle Round 6. The Silver Arrow Brethren shot four of Alea Iacta's seven starting units dead in the first two rounds, and the Imperium's surviving Ironthunder Vanguard could hold the centre but never outscore a Covenant army that sat on both flanks for six rounds.",
+  "result_line": "Popinjay Guild win 35-21 on Victory Points in Battle Round 6",
+  "deployment": "<p>Popinjay Guild (Player A, south edge, 250 RP) is a shooting line: two Silver Arrow Brethren squads (the Knight-Commander with the first at (7,12), the Cantor-Preceptor with the second at (3,12)), a Sniper Hesychast, Akritic Outriders, two St. Barbara Field Guns and five Covenant Levies spread along row 12. Alea Iacta (Player B, north edge, 246 RP, initiative) is small and elite: Caesar - Divus Imperator with Ironthunder Vanguard 1 at (5,2), Ironthunder Vanguard 2 at (3,2), the Champion of Mars at (10,2), two Legionnaire Squads and Speculatores. Seven units against thirteen on a three-objective map.</p><p>The Primaries pulled opposite ways. Alea Iacta's IMPENETRABLE FORTRESS pays for keeping units healthy outside its deployment zone, which means walking a small army into the Covenant's guns. Popinjay Guild's DEBT OF BLOOD pays 3 VP for killing a marked unit, and the AI marked an Ironthunder Vanguard every round it could.</p>",
+  "rounds": {
+    "1": {
+      "title": "Two Imperial units shot dead before they fire",
+      "feed": [
+        { "phase": "Command", "text": "Alea Iacta opened with Tactica Mercurii, Double Time (1 CP) on Ironthunder Vanguard 2 and a 0 CP Scouting Order on Speculatores; the record says none of the three bought anything. Popinjay Guild's Double Time (2 CP) on the Sniper Hesychast did: it is the only way the Sniper reached the east objective this round." },
+        { "phase": "Movement", "text": "Ironthunder Vanguard 2 ran to (6,6) and the Champion of Mars to (7,6), both on the centre's edge; Speculatores went out east to (12,6). Popinjay Guild walked its Levies up to row 9 and 10, the Akritic Outriders to (8,8) and the Sniper Hesychast to (12,8)." },
+        { "phase": "Action", "text": "Akritic Outriders used Spot &amp; Mark to make the Champion of Mars MARKED. Silver Arrow Brethren 2 then shot it for 8 and destroyed it through a 0 CP Go to Ground. Silver Arrow Brethren 1 destroyed Speculatores (6). Covenant Levies 1 put 4 into Ironthunder Vanguard 1 and the Sniper Hesychast 2 into Ironthunder Vanguard 2; Rally Cry (1 CP) kept Ironthunder Vanguard 2 steady." },
+        { "phase": "Cleanup", "text": "Ironthunder Vanguard 2 held the centre on OC 6 against 3 (3 VP); the Sniper Hesychast held the east alone (2 VP). 2-3." }
+      ]
+    },
+    "2": {
+      "title": "The Legionnaires go the same way",
+      "feed": [
+        { "phase": "Command", "text": "Popinjay Guild requisitioned a sixth Covenant Levies at (7,12) for 3 CP. Alea Iacta gave Legionnaire Squad 2 Double Time (1 CP). DEBT OF BLOOD marked Ironthunder Vanguard 2." },
+        { "phase": "Movement", "text": "Legionnaire Squad 2 ran to (2,6) and opened Overwatch on Covenant Levies 1 (4 damage); Silver Arrow Brethren 2 shot back and destroyed it (10 damage, 15 hits from 20 dice). That was its second kill: MAN OF THE HOUR, +4 VP and +1 CP. Caesar with Ironthunder Vanguard 1 charged the Akritic Outriders at (8,7), who broke away in disorder to (11,9); Ironthunder Vanguard 2 charged Covenant Levies 4 at (6,7). Rally Cry from the HQ (2 CP) passed Covenant Levies 4's Morale Test." },
+        { "phase": "Action", "text": "Ironthunder Vanguard 2 cut 14 off Covenant Levies 4. Legionnaire Squad 1 shot St. Barbara Field Gun 1 for 4 and Silver Arrow Brethren 1's Return Volley destroyed it (8). St. Barbara Field Gun 1, with Blessing of St. Barbara's reroll, put 4 into Ironthunder Vanguard 1. The Cantor-Preceptor cast Agnus Dei (6 Mana) on Covenant Levies 1. Covenant Levies 2 shot at Ironthunder Vanguard 2 and hit Covenant Levies 4 instead (5 HP of friendly fire)." },
+        { "phase": "Cleanup", "text": "Popinjay Guild 8 (west 2 with Covenant Levies 5, east 2, MAN OF THE HOUR 4) for 10. Alea Iacta 5 (centre 3, IMPENETRABLE FORTRESS 1, STRONGPOINT 1) for 8. Four of Alea Iacta's seven starting units were gone." }
+      ]
+    },
+    "3": {
+      "title": "Ironthunder Vanguard hold the middle alone",
+      "feed": [
+        { "phase": "Command", "text": "Alea Iacta spent 5 CP on Troop Requisition for a new Legionnaire Squad at (6,2). Popinjay Guild's Benediction healed St. Barbara Field Gun 1 for 2 and Double Time (2 CP) sent Covenant Levies 5 from the west to (7,9). Alea Iacta kept COMMAND AUTHORITY." },
+        { "phase": "Movement", "text": "Caesar and Ironthunder Vanguard 1 charged at (9,8); Silver Arrow Brethren 1 fell back clean to (6,10), Covenant Levies 3 broke away in disorder (3 HP) to (11,6), and Covenant Levies 4, on 1 HP, was destroyed trying to Fall Back from Ironthunder Vanguard 2." },
+        { "phase": "Action", "text": "Agnus Dei went on Silver Arrow Brethren 2 (6 Mana, +1 DMG), which shot Ironthunder Vanguard 2 for 4 through a Go to Ground; Covenant Levies 5 added 2. Caesar shot Covenant Levies 2 for 2. Three other Popinjay Guild attacks did nothing." },
+        { "phase": "Cleanup", "text": "Ironthunder Vanguard 2 kept the centre on OC 4 against 0. Popinjay Guild held both flanks (4) and completed STRONGPOINT (1) for 15; Alea Iacta 4 (centre 3, IMPENETRABLE FORTRESS 1) for 12, and reached Pietas Tier IV." }
+      ]
+    },
+    "4": {
+      "title": "Popinjay Guild takes the centre and shoots its own west",
+      "feed": [
+        { "phase": "Command", "text": "Alea Iacta switched to Tactica Martis (+6.06 expected HP over 26 attacks) and gave Caesar Double Time (1 CP) in the enemy half, which completed COMMAND AUTHORITY for 2 VP. Popinjay Guild put Secure Objective (4 CP) on Covenant Levies 1 on the west objective; it decided nothing. Ironthunder Vanguard 1's charge failed after a 1 CP Rally Cry." },
+        { "phase": "Movement", "text": "The requisitioned Legionnaire Squad charged Covenant Levies 1 at (1,6). Ironthunder Vanguard 2 charged Covenant Levies 2, ending at (7,6), and the requisitioned Covenant Levies stepped to (7,8)." },
+        { "phase": "Action", "text": "Ironthunder Vanguard 2 did 14 to Covenant Levies 2. The Legionnaire Squad did 7 to Covenant Levies 1 and took 2 back. Then both Silver Arrow Brethren squads fired into that melee and both shots strayed into Covenant Levies 1 (5 and 4 HP): the second destroyed it. Agnus Dei had been spent on it after the first stray, yet it stayed at 4 HP. Caesar shot the requisitioned Levies for 4 and PARALYZED it. Gloria (4 Mana) went on Silver Arrow Brethren 1." },
+        { "phase": "Cleanup", "text": "Popinjay Guild took the centre on OC 10 against 4 (3 VP) and the east (2) and completed DEEP REACH (3): 8 for 23. Alea Iacta took the west with the Legionnaire Squad on OC 8 (2), IMPENETRABLE FORTRESS 1 and COMMAND AUTHORITY 2: 5 for 17." }
+      ]
+    },
+    "5": {
+      "title": "Alea Iacta's HQ falls and its score stops",
+      "feed": [
+        { "phase": "Command", "text": "Popinjay Guild, at 23, was within 10 VP of the target. Both sides spent 2 CP on Double Time: Alea Iacta on the Legionnaire Squad, Popinjay Guild on Covenant Levies 5. Popinjay Guild kept IRON CURTAIN (no friendly unit destroyed)." },
+        { "phase": "Movement", "text": "Caesar and Ironthunder Vanguard 1 charged the requisitioned Levies at (8,7); a 2 CP Rally Cry from the HQ held it. The Knight-Commander and Silver Arrow Brethren 1 came forward to (6,8) and Silver Arrow Brethren 2 to (5,8)." },
+        { "phase": "Action", "text": "Ironthunder Vanguard 2 destroyed Covenant Levies 2, breaking IRON CURTAIN in its first round. The Legionnaire Squad shot Silver Arrow Brethren 1 for 4 and Silver Arrow Brethren 2's Return Volley destroyed it (8). Silver Arrow Brethren 2 then shot Alea Iacta's HQ for 7 and destroyed it. Caesar and Ironthunder Vanguard 1 took 6 each off the requisitioned Levies, and stray shots from the Sniper Hesychast and the Akritic Outriders (2 each) finished it." },
+        { "phase": "Cleanup", "text": "Popinjay Guild held the centre on OC 5 against 4 and the east: 5 for 28. Alea Iacta scored nothing: no objective, and IMPENETRABLE FORTRESS counted only one healthy unit outside its zone. 28-17." }
+      ]
+    },
+    "6": {
+      "title": "Both Ironthunder Vanguard die, Debt of Blood pays at last",
+      "feed": [
+        { "phase": "Command", "text": "Popinjay Guild's 3 CP Troop Requisition (Covenant Levies #2) bought nothing. DEBT OF BLOOD marked Ironthunder Vanguard 1. Alea Iacta, its HQ gone, got 1 CP from COMMAND and spent it on another Rally Cry for Ironthunder Vanguard 1, whose charge failed again." },
+        { "phase": "Movement", "text": "Ironthunder Vanguard 2 charged at (6,7) and Covenant Levies 3 charged into the same fight at (6,6). Silver Arrow Brethren 2 fell back to (6,9)." },
+        { "phase": "Action", "text": "Ironthunder Vanguard 2 destroyed Covenant Levies 3 (13), its second kill, so Alea Iacta completed MAN OF THE HOUR (+4). Caesar shot St. Barbara Field Gun 1 dead (3). Then the Knight-Commander, with Exaltation on the target, destroyed Ironthunder Vanguard 2 in melee (4), and St. Barbara Field Gun 2 destroyed the marked Ironthunder Vanguard 1 (2) through Go to Ground." },
+        { "phase": "Cleanup", "text": "The centre tied on OC 5 against 5. Popinjay Guild held both flanks (4) and scored DEBT OF BLOOD (3): 7 for 35. Alea Iacta's MAN OF THE HOUR took it to 21. Caesar - Divus Imperator was its last unit standing." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p>Popinjay Guild's 35: objectives 24, secondaries 8 (MAN OF THE HOUR 4, DEEP REACH 3, STRONGPOINT 1) and DEBT OF BLOOD 3. The east objective was its every round: the Sniper Hesychast held it alone in Rounds 1, 2 and 6 and with the Akritic Outriders in between (9.7 VP, the most of any Popinjay unit, 48.7 per 100 RP). Covenant Levies held the west in three rounds. Alea Iacta's 21: the centre in Rounds 1 to 3 (9), the west in Round 4 (2), IMPENETRABLE FORTRESS 3 (1 a round in Rounds 2 to 4, then nothing once its army was too small and battered to count) and secondaries 7 (MAN OF THE HOUR 4, COMMAND AUTHORITY 2, STRONGPOINT 1). It scored 0 in Round 5.</p>{{chart:objectives}}<h3>What the key units did</h3><p><b>Silver Arrow Brethren 2</b> (35 RP, with the Cantor-Preceptor) decided the battle: 38 damage and four kills (the Champion of Mars, Legionnaire Squad 2, the requisitioned Legionnaire Squad and Alea Iacta's HQ), and MAN OF THE HOUR by Round 2. <b>Silver Arrow Brethren 1</b> added Speculatores and Legionnaire Squad 1. Return Volley fired three times for the Brethren (twice for Silver Arrow Brethren 2, once for Silver Arrow Brethren 1), and the two in the Action Phase each destroyed a Legionnaire Squad. The Cantor-Preceptor, new in this preset, cast in every round from Round 2 (Agnus Dei twice, Gloria three times).</p><p>For Alea Iacta, <b>Ironthunder Vanguard 2</b> (35 RP) was the best unit on the table: 45 damage, two kills, 12.8 VP, the centre almost single-handed. <b>Caesar - Divus Imperator</b> did 17 damage and scored COMMAND AUTHORITY. The other 146 RP did very little: the Champion of Mars (48 RP) and Speculatores died in Round 1 without attacking, Legionnaire Squad 1 and 2 in Round 2 for 12 damage between them, and Ironthunder Vanguard 1 was idle in four rounds with two failed charges.</p>{{chart:rp-trade}}<h3>The army or the AI?</h3><p>Mostly the army and the matchup. Alea Iacta's seven units cannot cover three objectives against thirteen, and its cheap infantry and the Champion of Mars walked into range of two Silver Arrow Brethren squads whose Return Volley punishes anything that shoots first. That is a real problem for an elite preset with a Primary that needs healthy units outside its zone.</p><p>The AI choices that cost VP were on the winning side. In Round 4 both Silver Arrow Brethren shot into the melee around Covenant Levies 1 and both shots strayed into it, destroying the unit the AI had just spent 4 CP on Secure Objective for (the Legionnaire Squad then took the west on OC 8 against 0). In Round 5 two more stray shots finished the requisitioned Covenant Levies, in the round the AI had kept IRON CURTAIN (already broken by Covenant Levies 2's death). Popinjay Guild's own fire took 18 HP off its Levies over the battle and destroyed two of them. Alea Iacta's opening Command Phase (Tactica Mercurii, Double Time, Scouting Order) bought nothing, and Popinjay Guild's last Troop Requisition (3 CP, Round 6) bought nothing.</p>{{chart:attrition}}<h3>Against the first playing</h3><p>The first playing was the other way round: Alea Iacta won 32-6 in Round 4. There, Popinjay Guild sent Silver Arrow Brethren 2 forward on Double Time and Ironthunder Vanguard 2 destroyed it in melee in Round 2; Alea Iacta held the centre and scored 12 VP in Round 4 alone, which the 10 VP round cap now forbids. This time Silver Arrow Brethren 2 stayed back with the Cantor-Preceptor (added to the preset, with a fifth Covenant Levies in place of the second Sniper Hesychast, and St. Barbara Field Guns at 18 RP instead of 25) and shot the Imperium's lighter units to pieces before they fired. IMPENETRABLE FORTRESS fell from 7 VP to 3, and Popinjay Guild's MAN OF THE HOUR, unfinished in the first playing, paid 4 VP in Round 2.</p>"
+  },
+  "closing_title": "Shot out before the fight",
+  "closing": "<p>Alea Iacta's elite core fought well when it reached a target, and Ironthunder Vanguard 2 alone kept the score close for three rounds. But the Imperium lost 106 RP of its starting army in the first two rounds to two archer squads it barely scratched, and a seven-unit army that loses four of them cannot hold a three-objective map. Popinjay Guild won despite shooting two of its own Levies off the table.</p>"
+}

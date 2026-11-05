@@ -1,0 +1,1687 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 40,
+  "name": "Covenant Levies",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": -17.78,
+   "fallBack": -13.01,
+   "stayCore": 4.34,
+   "fight": 1.39,
+   "taken": 23.33,
+   "tieUp": 0.49,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 6.43,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 15.56,
+   "fallBackDeathChance": 0.56,
+   "fallBackDeath": 2.22,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Ivan Sirko (Mounted)",
+     "hp": 29,
+     "dealt": 7.78,
+     "taken": 0.46
+    },
+    {
+     "uid": 21,
+     "name": "Terek Shashka Riders 1",
+     "hp": 29,
+     "dealt": 15.56,
+     "taken": 0.93
+    }
+   ],
+   "threat": 23.34,
+   "shotAt": {
+    "stay": 0.97,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.71,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 254.3,
+     "objective_risk": 56.35,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 13.04,
+     "leader_attach": 0,
+     "screen": 2.52,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.3,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 274.2,
+     "threats_raw": 3.54
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 310.62,
+     "objective_risk": 0.03,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 13.04,
+     "leader_attach": 0,
+     "screen": 2.99,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.28,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 335.43,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Covenant Levies 4",
+    "Covenant Levies 1"
+   ],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 23.34 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 1.167,
+   "threat": 23.34,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.4700000000000002,
+   "dealing": 1.3900000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bulava of the Rada",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Terek Shashka Riders 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 9
+  },
+  "parts": {
+   "stay": 5.95,
+   "fallBack": 3.71,
+   "stayCore": -1.92,
+   "fight": 8,
+   "taken": 0.19,
+   "tieUp": 0.05,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.38,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 29,
+   "maxHp": 29,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Covenant Levies 4",
+     "hp": 4,
+     "dealt": 0.19,
+     "taken": 4
+    }
+   ],
+   "threat": 0.19,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.7,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 213.53,
+     "objective_risk": 0.98,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.61,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.83,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 214.22,
+     "threats_raw": 3.19
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 213.72,
+     "objective_risk": 0.79,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.96,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.73,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 221.06,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.19 expected melee damage against 29 HP",
+   "it was winning the fight: 4 expected damage dealt, enough to destroy an engager"
+  ],
+  "q": {
+   "danger": 0.006551724137931035,
+   "threat": 0.19,
+   "hp": 29,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.3500000000000001,
+   "dealing": 4,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bulava of the Rada",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Host Sotnia 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 14,
+   "row": 6
+  },
+  "parts": {
+   "stay": -13.19,
+   "fallBack": -14.65,
+   "stayCore": -0.34,
+   "fight": 0.26,
+   "taken": 5.22,
+   "tieUp": 1,
+   "stayDeathChance": 0.74,
+   "stayDeath": 8.89,
+   "destCore": 0.8,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 5.22,
+   "fallBackDeathChance": 0.74,
+   "fallBackDeath": 8.89,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 14,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 33,
+     "name": "Saint-Militant",
+     "hp": 7,
+     "dealt": 5.22,
+     "taken": 0.26
+    }
+   ],
+   "threat": 5.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": null,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.47,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 21.63,
+     "objective_risk": 19.81,
+     "missive": 4.5,
+     "obj_hold": 0.44,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.13,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.34,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 25.86,
+     "threats_raw": 4.63
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -3.98,
+     "range": 2.34,
+     "offensive": 3.04,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 33.39,
+     "objective_risk": 8.04,
+     "missive": 4.5,
+     "obj_hold": 0.44,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.28,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.02,
+     "threats_raw": 3.37
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Saint-Militant",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 5.22 expected melee damage against 6 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 0.87,
+   "threat": 5.22,
+   "hp": 6,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2,
+   "screen": 4.13,
+   "dealing": 0.26,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Saint-Militant",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 8
+  },
+  "parts": {
+   "stay": 14.77,
+   "fallBack": 4.87,
+   "stayCore": 0.53,
+   "fight": 14.11,
+   "taken": 0.26,
+   "tieUp": 0.39,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.67,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.13,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 7,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Host Sotnia 3",
+     "hp": 6,
+     "dealt": 0.26,
+     "taken": 5.22
+    }
+   ],
+   "threat": 0.26,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.19,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 25.4,
+     "objective_risk": 0.8,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.1,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.62,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 29.03,
+     "threats_raw": 2.47
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 22.22,
+     "objective_risk": 0.04,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.46,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.97,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 33.43,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.26 expected melee damage against 7 HP",
+   "it was winning the fight: 5.22 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.037142857142857144,
+   "threat": 0.26,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -2.36,
+   "dealing": 5.22,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Covenant Levies 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 12,
+   "row": 3
+  },
+  "test": {
+   "need": 6,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 12,
+   "row": 3
+  },
+  "parts": {
+   "stay": -9.46,
+   "fallBack": 4.14,
+   "stayCore": 3.37,
+   "fight": 0.69,
+   "taken": 17.78,
+   "tieUp": 0.47,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 5.81,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 12,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Ivan Sirko (Mounted)",
+     "hp": 29,
+     "dealt": 7.78,
+     "taken": 0.23
+    },
+    {
+     "uid": 21,
+     "name": "Terek Shashka Riders 1",
+     "hp": 29,
+     "dealt": 10,
+     "taken": 0.46
+    }
+   ],
+   "threat": 17.78,
+   "shotAt": {
+    "stay": 0.94,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.56,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.82,
+     "objective_risk": 1.79,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.18,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.67,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.37,
+     "threats_raw": 3.39
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.07,
+     "objective_risk": 0,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 1.5,
+     "obj_drift": -1.1,
+     "role": 0.43,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 11.66,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 17.78 expected melee damage against 10 HP"
+  ],
+  "q": {
+   "danger": 1.778,
+   "threat": 17.78,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5.18,
+   "dealing": 0.6900000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 37,
+  "name": "Covenant Levies 4",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 13,
+   "row": 3
+  },
+  "test": {
+   "need": 6,
+   "roll": 5,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 3
+  },
+  "parts": {
+   "stay": -3.77,
+   "fallBack": 6.17,
+   "stayCore": 3.48,
+   "fight": 0.28,
+   "taken": 8,
+   "tieUp": 0.47,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 7.84,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Ivan Sirko (Mounted)",
+     "hp": 29,
+     "dealt": 4,
+     "taken": 0.09
+    },
+    {
+     "uid": 21,
+     "name": "Terek Shashka Riders 1",
+     "hp": 29,
+     "dealt": 4,
+     "taken": 0.19
+    }
+   ],
+   "threat": 8,
+   "shotAt": {
+    "stay": 0.94,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -2.92,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.94,
+     "objective_risk": 2.54,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.67,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.43,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.09,
+     "threats_raw": 2.78
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.04,
+     "objective_risk": 0.02,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 3.84,
+     "obj_drift": -1.1,
+     "role": 0.32,
+     "posture": 1.2,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.66,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 8 expected melee damage against 4 HP"
+  ],
+  "q": {
+   "danger": 2,
+   "threat": 8,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.67,
+   "dealing": 0.28,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 32,
+  "name": "Michaelite Brethren 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 22,
+   "maxHp": 22,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Terek Shashka Riders 2",
+     "hp": 12,
+     "dealt": 2.28,
+     "taken": 6.67
+    }
+   ],
+   "threat": 2.28,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.81,
+     "objective_risk": 0.19,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 19.15,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 31.65,
+     "threats_raw": 0
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.28 expected melee damage against 22 HP",
+   "it was winning the fight: 6.67 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.10363636363636362,
+   "threat": 2.28,
+   "hp": 22,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 6.67,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 36,
+  "name": "Covenant Levies 3",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 16,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Terek Shashka Riders 2",
+     "hp": 12,
+     "dealt": 8,
+     "taken": 1.78
+    }
+   ],
+   "threat": 8,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.85,
+     "objective_risk": 0.84,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 7.85,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0.24,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.27,
+     "threats_raw": 0
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Michaelite Brethren 2"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 8 expected melee damage against 16 HP"
+  ],
+  "q": {
+   "danger": 0.5,
+   "threat": 8,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 1.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Covenant Levies 5",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 7,
+   "row": 6
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 7,
+   "row": 6
+  },
+  "parts": {
+   "stay": -1,
+   "fallBack": 5.66,
+   "stayCore": 4.78,
+   "fight": 2.22,
+   "taken": 8,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.99,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Terek Shashka Riders 2",
+     "hp": 12,
+     "dealt": 8,
+     "taken": 2.22
+    }
+   ],
+   "threat": 8,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": false,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -2.02,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.66,
+     "objective_risk": 0.54,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.49,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 10.93,
+     "threats_raw": 1.93
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.34,
+     "offensive": 0.82,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.56,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.25,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.89,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 22.96,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Michaelite Brethren 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 8 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 0.4,
+   "threat": 8,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -4.76,
+   "dealing": 2.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Covenant Levies 5",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 5
+  },
+  "test": {
+   "need": 6,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": -17.7,
+   "fallBack": 3.77,
+   "stayCore": 4.13,
+   "fight": 1.39,
+   "taken": 23.33,
+   "tieUp": 0.78,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 5.43,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Ivan Sirko (Mounted)",
+     "hp": 29,
+     "dealt": 7.78,
+     "taken": 0.46
+    },
+    {
+     "uid": 21,
+     "name": "Terek Shashka Riders 1",
+     "hp": 29,
+     "dealt": 15.56,
+     "taken": 0.93
+    }
+   ],
+   "threat": 23.34,
+   "shotAt": {
+    "stay": 1.56,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.17,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.62,
+     "objective_risk": 0.52,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.33,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 16.09,
+     "threats_raw": 3.02
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 5.63,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 3.5,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.78,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.06,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Michaelite Brethren 1",
+    "Michaelite Brethren 1"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 23.34 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 1.167,
+   "threat": 23.34,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 1.3900000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Chonae Wing",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 40,
+  "name": "Covenant Levies",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 8
+  },
+  "test": {
+   "need": 6,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 8
+  },
+  "parts": {
+   "stay": -17.62,
+   "fallBack": 2.38,
+   "stayCore": 4.22,
+   "fight": 1.39,
+   "taken": 23.33,
+   "tieUp": 0.78,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 4.05,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Ivan Sirko (Mounted)",
+     "hp": 29,
+     "dealt": 7.78,
+     "taken": 0.46
+    },
+    {
+     "uid": 21,
+     "name": "Terek Shashka Riders 1",
+     "hp": 29,
+     "dealt": 15.56,
+     "taken": 0.93
+    }
+   ],
+   "threat": 23.34,
+   "shotAt": {
+    "stay": 1.56,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.17,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 104.67,
+     "objective_risk": 10.87,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.33,
+     "leader_attach": 0,
+     "screen": 3.24,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.09,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 115.46,
+     "threats_raw": 3.02
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -3.17,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 115.52,
+     "objective_risk": 0.01,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.5,
+     "leader_attach": 0,
+     "screen": 3.24,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.12,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 128.34,
+     "threats_raw": 3.02
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Michaelite Brethren 1",
+    "Michaelite Brethren 1"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 23.34 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 1.167,
+   "threat": 23.34,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 1.3900000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

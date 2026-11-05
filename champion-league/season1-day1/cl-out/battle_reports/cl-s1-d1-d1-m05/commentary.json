@@ -1,0 +1,72 @@
+{
+  "title": "Sampo's Song vs Opoki Hundred",
+  "armies": [
+    { "name": "Sampo's Song", "faction": "Kalevan Kansa" },
+    { "name": "Opoki Hundred", "faction": "Principality of Novgorod" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "<p>Sampo's Song won 31-24 on Victory Points in Battle Round 6, after trailing 12-21 at the end of Round 3.</p><p>The Peijaiset Wardens held the right objective in all five rounds that were scored, and once the Opoki Hundred's Koscheyan Troopers 2, Ushkuynik Marines and two Veche Levies were destroyed, the Hundred had nobody left to hold the left and the centre: it scored 3 VP in the last three rounds.</p>",
+  "result_line": "Sampo's Song win 31-24 on Victory Points in Battle Round 6",
+  "deployment": "<p>Central Faceoff on CROSSROADS, three objectives on row 7: the 3 VP centre at (7,7) and the 2 VP flanks at (1,7) and (13,7). <b>Sampo's Song</b> set up along row 12 in front of its HQ at (7,13): Nostovaki Militia 2 (3,12) and Vainamoinen with Nostovaki Militia 1 (4,12) on the left, the Tietaja (5,12), Nostovaki Militia 3 (8,12), the Ukko Thunder-Sledge (9,12), the Erankavijat Recons (10,12) and the Winter Captain with the Peijaiset Wardens (11,12) on the right. <b>The Opoki Hundred</b> set up on row 2 around its HQ at (7,1): Veche Levy 2 (3,2), Tysyatsky 2 with the Ushkuynik Marines (4,2), Veche Levy 1 (6,2), Tysyatsky 1 with Koscheyan Troopers 1 (9,2), Veche Levy 3 (10,2) and Koscheyan Troopers 2 (11,2), with the Leshen Besieger at (9,0). Two even lines of ten units; Sampo's Song won the Roll Off for Priority.</p>",
+  "rounds": {
+    "1": {
+      "title": "The Wardens take the right, a Veche Levy the centre",
+      "feed": [
+        { "phase": "Command", "text": "Primaries revealed: BREAK THEIR HOLD for the Song, STRATEGICAL DISRUPTION for the Hundred. Secondaries kept: BAR THE GATES and KING OF THE HILL. The Hundred spent 2 CP on Double Time for Koscheyan Troopers 2, which the record says bought nothing." },
+        { "phase": "Movement", "text": "The Peijaiset Wardens with the Winter Captain advanced to 12,7 on the right objective, and Koscheyan Troopers 2 met them at 14,6. Veche Levy 2 reached the centre at 6,6 and the Erankavijat Recons 7,8, inside the same area. The Leshen Besieger used Earthfast Stance (MOVE 0, +2 range, +1 FR)." },
+        { "phase": "Action", "text": "The Ukko Thunder-Sledge shot Veche Levy 2 for 8 and the Recons added 2 (20 to 10). Nostovaki Militia 3 took the Ushkuynik Marines from 10 to 5. The Leshen Besieger fired at the Wardens through the Song's Go to Ground (1 CP) and missed." },
+        { "phase": "Cleanup", "text": "The Hundred took the centre on OC 5 vs 3 (3 VP); the Song took the right on OC 11 vs 5 (2 VP), BREAK THEIR HOLD 1 for the Recons in the centre, and BAR THE GATES 2. <b>5-3.</b>" }
+      ]
+    },
+    "2": {
+      "title": "The Tietaja and the Recons die; the Hundred hits the cap",
+      "feed": [
+        { "phase": "Command", "text": "The Song spent 2 CP on Double Time for Nostovaki Militia 2 and 3 CP on Secure Objective for the Erankavijat Recons, which bought nothing. Secondaries kept: IRON GRIP and SECURE THE FLANKS." },
+        { "phase": "Movement", "text": "The Tietaja walked to 1,8, into the left objective's area, and Veche Levy 1's Overwatch from 2,6 destroyed it: KING OF THE HILL completed for the Hundred, +3. Nostovaki Militia 3 walked to 8,7 through 3 HP of Overwatch, and the Ushkuynik Marines with Tysyatsky 2 charged it and the Recons at 7,7. The Hundred's Countercharge (3 CP) for Veche Levy 2 against the Wardens failed and it did not move. The Wardens charged Koscheyan Troopers 2 at 13,6." },
+        { "phase": "Action", "text": "The Ushkuynik Marines' Shot and Steel destroyed the Erankavijat Recons. The Wardens put 12 into Koscheyan Troopers 2 (15 to 3). Tysyatsky 2 hit Nostovaki Militia 3 for 5. The Thunder-Sledge shot Veche Levy 3 for 8, Nostovaki Militia 1 Veche Levy 2 for 5, and Koscheyan Troopers 1, moved by Ring the Advance, shot Nostovaki Militia 1 for 5." },
+        { "phase": "Cleanup", "text": "The Hundred held the centre on a 6-6 OC tie by units and the left (OC 10 vs 0), 5 VP, STRATEGICAL DISRUPTION 1 and SECURE THE FLANKS 1: the round's 10 VP, with SECURE THE FLANKS' second VP withheld by the cap. The Song held the right (OC 11 vs 7), took BREAK THEIR HOLD 1 and IRON GRIP 2 and 1 CP. <b>10-13.</b>" }
+      ]
+    },
+    "3": {
+      "title": "Three units die and the Hundred leads by 9",
+      "feed": [
+        { "phase": "Command", "text": "Both sides spent 1 CP on Scouting Order and 3 on Secure Objective (the Song for Nostovaki Militia 3, the Hundred for the Ushkuynik Marines); neither Secure Objective bought anything. Veche Levy 2 failed Morale and was SUPPRESSED. Secondaries kept: OMNIPRESENCE and IRON CURTAIN." },
+        { "phase": "Movement", "text": "Koscheyan Troopers 1 with Tysyatsky 1 charged Nostovaki Militia 3 at 9,6. Vainamoinen and Nostovaki Militia 1 moved up to 9,8; Veche Levy 2 to 6,8 and Veche Levy 3 to 12,8." },
+        { "phase": "Action", "text": "The Wardens destroyed Koscheyan Troopers 2 and Koscheyan Troopers 1 destroyed Nostovaki Militia 3 (12). Nostovaki Militia 2 shot the last Ushkuynik Marines and put 2 into Tysyatsky 2; Vainamoinen's fire and BURNED and Nostovaki Militia 1 took the Tysyatsky to 2 HP. The Thunder-Sledge put 6 more into Veche Levy 3. Ring the Advance moved Koscheyan Troopers 1 twice, to 11,7 beside the right objective." },
+        { "phase": "Cleanup", "text": "Tysyatsky 2 alone held the centre (OC 4 vs 0) and Veche Levy 1 the left (OC 20 vs 0), 5 VP, and STRATEGICAL DISRUPTION paid 3: the Song's Primary scored nothing and Nostovaki Militia 3 died in an Objective Area. The Song held the right on OC 11 vs 3. <b>12-21.</b>" }
+      ]
+    },
+    "4": {
+      "title": "The left empties, and the Song's comeback starts",
+      "feed": [
+        { "phase": "Command", "text": "The Song spent 2 CP on Double Time for the Winter Captain, which completed COMMAND AUTHORITY (+2). The Hundred spent 2 CP on Rally Cry for Veche Levy 3. Secondaries kept: COMMAND AUTHORITY and FOCUSED FIRE; IRON CURTAIN expired." },
+        { "phase": "Movement", "text": "Nostovaki Militia 2 charged Tysyatsky 2 at 8,8. The Wardens charged Veche Levy 3, which broke away to 14,8. Veche Levy 1 left the left objective for 5,6, and Ring the Advance took it on to 6,6 on the centre. Tysyatsky 2 then attached to Veche Levy 2 at 6,8, out of Nostovaki Militia 2's reach." },
+        { "phase": "Action", "text": "Nostovaki Militia 1 destroyed Veche Levy 2 through its Go to Ground (1 CP). The Thunder-Sledge put 8 into Veche Levy 1 (20 to 12) and Vainamoinen 4 and BURNED into Veche Levy 3. Koscheyan Troopers 1 shot the Wardens for 4." },
+        { "phase": "Cleanup", "text": "Veche Levy 1 held the centre for the Hundred on OC 15 vs 9 (3 VP). The Song held the right (OC 9 vs 2), and the left, the Hundred's at the start of the round, was empty: BREAK THEIR HOLD paid the Song 3. <b>19-24.</b>" }
+      ]
+    },
+    "5": {
+      "title": "The centre falls; the cap holds the Song at 29",
+      "feed": [
+        { "phase": "Command", "text": "The Song spent 3 CP on Secure Objective for Nostovaki Militia 2 (nothing) and the Hundred 3 CP on Double Time for Veche Levy 3. Both kept DEEP REACH; FOCUSED FIRE expired." },
+        { "phase": "Movement", "text": "Vainamoinen and Nostovaki Militia 1 charged Veche Levy 1 on the centre at 7,6. The Wardens charged Koscheyan Troopers 1 and Tysyatsky 1 at 12,6; the Troopers failed their Fall Back test and broke away in disorder to 9,6." },
+        { "phase": "Action", "text": "Nostovaki Militia 2 shot Koscheyan Troopers 1 for 4. Veche Levy 1 attacked Nostovaki Militia 1 and lost 6. The Leshen Besieger hit the Wardens for 5. Both Tysyatsky used The Bell Carries, which bought nothing. BURNED destroyed Veche Levy 3." },
+        { "phase": "Cleanup", "text": "The Song took the centre on OC 30 vs 7 and held the right (OC 7 vs 0), 5 VP, BREAK THEIR HOLD 3 for the centre and DEEP REACH 2, its third VP withheld by the 10 VP round cap. The Hundred scored nothing. <b>29-24</b>, one short of the target." }
+      ]
+    },
+    "6": {
+      "title": "A charge ends it",
+      "feed": [
+        { "phase": "Command", "text": "The Song spent 3 CP on Secure Objective for the Wardens, the Hundred 2 CP on Rally Cry for Veche Levy 1. Secondaries kept: INTO THE FRAY and BREAK CONTACT." },
+        { "phase": "Movement", "text": "The Wardens and the Winter Captain charged Koscheyan Troopers 1 and Tysyatsky 1 at 10,5 and completed INTO THE FRAY, +2: <b>31-24</b>, the Song past 30. Veche Levy 1 broke away from Nostovaki Militia 1 to 5,9." },
+        { "phase": "Action", "text": "The Leshen Besieger fired at Vainamoinen and missed, and the battle ended." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p><b>Sampo's Song</b> scored 13 objective VP (the right in Rounds 1 to 5, the centre in Round 5), 8 from BREAK THEIR HOLD (3 each in Rounds 4 and 5 for the flank and the centre it took from the Hundred) and 10 from five secondaries: BAR THE GATES, IRON GRIP, COMMAND AUTHORITY, DEEP REACH and INTO THE FRAY, 2 each. <b>The Opoki Hundred</b> scored 16 objective VP, all in Rounds 1 to 4 (the centre in all four, the left in Rounds 2 and 3), STRATEGICAL DISRUPTION 4 and KING OF THE HILL and SECURE THE FLANKS 4. The round cap held back 1 VP from each side.</p>{{chart:objectives}}<h3>What the key units did</h3><p>The Peijaiset Wardens with the Winter Captain were the battle's scorers, 12.1 VP: they stood on the right objective from the first Movement Phase to the end, destroyed Koscheyan Troopers 2 there, and completed IRON GRIP and, with the charge that ended the battle, INTO THE FRAY. The Ukko Thunder-Sledge did the most damage, 30, from its deployment square at 9,12, four volleys of 6 to 8 into the Veche Levies. For the Hundred, Veche Levy 1 (15 RP) scored 11.5 VP: the left in Rounds 2 and 3, the centre in Round 4, and the Overwatch kill that completed KING OF THE HILL. Koscheyan Troopers 1 did 21 damage and destroyed Nostovaki Militia 3.</p>{{chart:attrition}}<h3>What the Hundred could not do</h3><p>It could not keep units on the objectives it held. Koscheyan Troopers 2 and the Ushkuynik Marines died in Round 3, Veche Levy 2 in Round 4 and Veche Levy 3 in Round 5: 100 RP lost to the Song's 57, four units that held OC. By Round 5 its OC was Veche Levy 1, Tysyatsky 2 on 1 HP and Koscheyan Troopers 1 with Tysyatsky 1, with the Leshen Besieger at home, and the Song put 30 OC on the centre. The Leshen Besieger (45 RP) did 5 damage and spent two rounds rooted by Earthfast Stance.</p>{{chart:rp-trade}}<h3>The AI, not the army</h3><ul><li><b>Round 4, Veche Levy 1</b> walked off the left objective it had held for two rounds (Ring the Advance carried it to the centre). Nobody held the left at the end of the round and BREAK THEIR HOLD paid the Song 3 for it, the first of the Song's two 3 VP rounds.</li><li><b>Round 2, the Tietaja</b> (4 HP) walked into the left objective's area beside Veche Levy 1 and died to its Overwatch, completing KING OF THE HILL for the Hundred, +3.</li><li><b>Secure Objective</b> bought nothing in all five uses: four by the Song (Rounds 2, 3, 5 and 6, 12 CP) and one by the Hundred. The Hundred's Round 2 Countercharge (3 CP) failed its charge.</li><li><b>Round 4, Tysyatsky 2</b>, charged by Nostovaki Militia 2 at 7,7, attached to Veche Levy 2 at 6,8 in the same Movement Phase and left the fight without a Fall Back test; Nostovaki Militia 2 then had nothing to attack. The core rules' Attach requires an adjacent squad that has not moved and says nothing about engagement, so this looks like a rules gap rather than an AI choice.</li></ul><p>The army shaped the battle and the AI's mistakes decided where: the Hundred's cheap Veche Levies and Koscheyan Troopers won the first three rounds, then ran out, and its AI gave the left away before it had to.</p><h3>Against the first playing</h3><p>The first playing went to Sampo's Song 33-26 in Round 5, with the same shape: the Hundred ahead after Round 3 (18-13 then, 21-12 now) and the Song's big Round 5. The 10 VP round cap is the difference in length: the Song scored 11 in Round 5 of the first playing and reached 33; this time the cap withheld 1 VP of DEEP REACH, left it on 29, and the battle went to a sixth round that INTO THE FRAY ended in the Movement Phase. Vainamoinen cost 10 RP less, which topped up Nostovaki Militia 3 and the Erankavijat Recons; the Hundred's list was unchanged.</p>"
+  },
+  "closing_title": "The right flank never moved",
+  "closing": "<p>The Hundred won the first half with cheap bodies on the centre and the left; the Song won the second because its Wardens never left the right and its Thunder-Sledge kept thinning the Veche Levies. When the Hundred's AI walked its last left-flank unit to the centre, the Song took both.</p>"
+}

@@ -1,0 +1,4481 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Oni Samurai",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "The Blooded Hegemon",
+     "hp": 18,
+     "dealt": 5.69,
+     "taken": 2
+    },
+    {
+     "uid": 21,
+     "name": "Furyforged Berserkers 1",
+     "hp": 18,
+     "dealt": 6.42,
+     "taken": 5
+    },
+    {
+     "uid": 24,
+     "name": "Hounds of Satan 1",
+     "hp": 10,
+     "dealt": 1.25,
+     "taken": 6
+    },
+    {
+     "uid": 25,
+     "name": "Hounds of Satan 2",
+     "hp": 10,
+     "dealt": 1.25,
+     "taken": 6
+    }
+   ],
+   "threat": 14.61,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.2,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.65,
+     "objective_risk": 2.47,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 18.59,
+     "leader_attach": 0,
+     "screen": 15.83,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.54,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 51.22,
+     "threats_raw": 2
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 14.61 expected melee damage against 18 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 0.8116666666666666,
+   "threat": 14.61,
+   "hp": 18,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 19,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 31,
+  "name": "Ashigaru Riflemen 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 24,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Hounds of Satan 1",
+     "hp": 10,
+     "dealt": 5.56,
+     "taken": 1.48
+    },
+    {
+     "uid": 25,
+     "name": "Hounds of Satan 2",
+     "hp": 10,
+     "dealt": 5.56,
+     "taken": 1.48
+    },
+    {
+     "uid": 26,
+     "name": "Cultist Zealots 1",
+     "hp": 14,
+     "dealt": 13.61,
+     "taken": 3.47
+    },
+    {
+     "uid": 28,
+     "name": "Cultist Zealots 3",
+     "hp": 20,
+     "dealt": 19.17,
+     "taken": 3.47
+    }
+   ],
+   "threat": 43.9,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.85,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 125.17,
+     "objective_risk": 1.34,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 4.91,
+     "leader_attach": 0,
+     "screen": 9.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.29,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 140.48,
+     "threats_raw": 2.31
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 20,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Cultist Zealots 1",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "War Onmyoji"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "held to the end",
+  "why": [
+   "danger 43.9 expected melee damage against 24 HP; its death would score the enemy 6 VP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 1.8291666666666666,
+   "threat": 43.9,
+   "hp": 24,
+   "killVp": 6,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 9.9,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Cultist Zealots 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 10
+  },
+  "test": {
+   "need": 2,
+   "roll": 2,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 10
+  },
+  "parts": {
+   "stay": -7.15,
+   "fallBack": 2.24,
+   "stayCore": -2.15,
+   "fight": 1.67,
+   "taken": 6.67,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.57,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Armored Gashadokuro",
+     "hp": 16,
+     "dealt": 6.67,
+     "taken": 1.67
+    }
+   ],
+   "threat": 6.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.03,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.49,
+     "objective_risk": 0.68,
+     "missive": 0.56,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.14,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.32,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 5.49,
+     "threats_raw": 3.83
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.57,
+     "objective_risk": 0.02,
+     "missive": 0.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.38,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.2,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 11.52,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 6.67 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 0.3335,
+   "threat": 6.67,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.24,
+   "dealing": 1.67,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "HQ",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Hounds of Satan 1",
+     "hp": 10,
+     "dealt": 1.11,
+     "taken": 0
+    }
+   ],
+   "threat": 1.11,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.32,
+     "objective_risk": 0.07,
+     "missive": 0,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.01,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.3,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.02,
+     "threats_raw": 0
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.11 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 0.13875,
+   "threat": 1.11,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 3,
+  "phase": "COMMAND",
+  "uid": 23,
+  "name": "Avatar of Wrath",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 8
+  },
+  "parts": {
+   "stay": 3.35,
+   "fallBack": 7.89,
+   "stayCore": -2.1,
+   "fight": 5.6,
+   "taken": 0.56,
+   "tieUp": 0.41,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 0.56,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Ashigaru Riflemen 3",
+     "hp": 10,
+     "dealt": 0.56,
+     "taken": 5.33
+    }
+   ],
+   "threat": 0.56,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.48
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.72,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 19.5,
+     "objective_risk": 0.75,
+     "missive": 1.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.99,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.68,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.4,
+     "threats_raw": 2.25
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.97,
+     "range": 2.19,
+     "offensive": 1.2,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 32.9,
+     "objective_risk": 0.01,
+     "missive": 2.79,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.44,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 38.16,
+     "threats_raw": 1.42
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.56 expected melee damage against 11 HP",
+   "it was winning the fight: 5.33 expected damage dealt",
+   "the square it falls back to takes 2 objective VP"
+  ],
+  "q": {
+   "danger": 0.05090909090909091,
+   "threat": 0.56,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 1.48,
+   "screen": 4.67,
+   "dealing": 5.33,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Hounds of Satan 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 8
+  },
+  "test": {
+   "need": 5,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 8
+  },
+  "parts": {
+   "stay": -6.58,
+   "fallBack": 2.31,
+   "stayCore": 3.92,
+   "fight": 6.53,
+   "taken": 15.21,
+   "tieUp": 0.97,
+   "stayDeathChance": 1,
+   "stayDeath": 8,
+   "destCore": 3.64,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 18,
+     "dealt": 3.56,
+     "taken": 0.83
+    },
+    {
+     "uid": 32,
+     "name": "Ashigaru Riflemen 2",
+     "hp": 20,
+     "dealt": 1.85,
+     "taken": 4.44
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 18,
+     "dealt": 9.8,
+     "taken": 1.25
+    }
+   ],
+   "threat": 15.21,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.22
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.12,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 94.69,
+     "objective_risk": 35.72,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 8.72,
+     "leader_attach": 0,
+     "screen": 7,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.55,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 114.85,
+     "threats_raw": 2.13
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.12,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 127.42,
+     "objective_risk": 2.98,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 2.08,
+     "leader_attach": 0,
+     "screen": 7.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.27,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 140.83,
+     "threats_raw": 2.13
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Zealots 1",
+    "Cultist Zealots 3"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 15.21 expected melee damage against 10 HP; its death would score the enemy 1 VP",
+   "where it lands, enemy guns expect 2.22 damage on it"
+  ],
+  "q": {
+   "danger": 1.5210000000000001,
+   "threat": 15.21,
+   "hp": 10,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.22,
+   "screen": -0.15000000000000036,
+   "dealing": 6.5200000000000005,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Cultist Zealots 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 4
+  },
+  "parts": {
+   "stay": 9.35,
+   "fallBack": -0.47,
+   "stayCore": 4.94,
+   "fight": 22.3,
+   "taken": 19.79,
+   "tieUp": 0.12,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 0.86,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 18,
+     "dealt": 5.56,
+     "taken": 0.78
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 18,
+     "dealt": 14,
+     "taken": 0.52
+    },
+    {
+     "uid": 36,
+     "name": "War Onmyoji",
+     "hp": 1,
+     "dealt": 0.23,
+     "taken": 1
+    }
+   ],
+   "threat": 19.79,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.48
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -2.8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.35,
+     "objective_risk": 1.07,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.77,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.68,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.05,
+     "threats_raw": 2.67
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.95,
+     "objective_risk": 0,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.52,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.56,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.34,
+     "threats_raw": 2.67
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 14,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Oni Samurai",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Zealots 3"
+   ],
+   "objectives": []
+  },
+  "verdict": "should have left",
+  "why": [
+   "danger 19.79 expected melee damage against 14 HP"
+  ],
+  "q": {
+   "danger": 1.4135714285714285,
+   "threat": 19.79,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.48,
+   "screen": -0.75,
+   "dealing": 2.3,
+   "canKill": true,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Cultist Zealots 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 4
+  },
+  "parts": {
+   "stay": 1.62,
+   "fallBack": -0.59,
+   "stayCore": 2.54,
+   "fight": 22.85,
+   "taken": 22.45,
+   "tieUp": 0.23,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 0.74,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 18,
+     "dealt": 5.56,
+     "taken": 1.11
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 18,
+     "dealt": 16.67,
+     "taken": 0.74
+    },
+    {
+     "uid": 36,
+     "name": "War Onmyoji",
+     "hp": 1,
+     "dealt": 0.23,
+     "taken": 1
+    }
+   ],
+   "threat": 22.46,
+   "shotAt": {
+    "stay": 0,
+    "dest": 4.17
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.99,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.6,
+     "objective_risk": 0.82,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 12.07,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.77,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.2,
+     "threats_raw": 2.85
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.99,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.95,
+     "objective_risk": 0,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.52,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.63,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.12,
+     "threats_raw": 2.85
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Zealots 1"
+   ],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 22.46 expected melee damage against 20 HP"
+  ],
+  "q": {
+   "danger": 1.123,
+   "threat": 22.46,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4.17,
+   "screen": 2.5500000000000007,
+   "dealing": 2.85,
+   "canKill": true,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Oni Samurai",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "The Blooded Hegemon",
+     "hp": 16,
+     "dealt": 5.69,
+     "taken": 4.17
+    },
+    {
+     "uid": 21,
+     "name": "Furyforged Berserkers 1",
+     "hp": 16,
+     "dealt": 10.26,
+     "taken": 8
+    },
+    {
+     "uid": 26,
+     "name": "Cultist Zealots 1",
+     "hp": 14,
+     "dealt": 1.17,
+     "taken": 14
+    },
+    {
+     "uid": 28,
+     "name": "Cultist Zealots 3",
+     "hp": 20,
+     "dealt": 1.67,
+     "taken": 16.67
+    }
+   ],
+   "threat": 18.79,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 153.55,
+     "objective_risk": 55.62,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 34,
+     "leader_attach": 0,
+     "screen": 12.58,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.48,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 207.7,
+     "threats_raw": 0
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Ashigaru Riflemen 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 18.79 expected melee damage against 18 HP; its death would score the enemy 4 VP",
+   "it was winning the fight: 42.84 expected damage dealt, enough to destroy an engager",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 1.0438888888888889,
+   "threat": 18.79,
+   "hp": 18,
+   "killVp": 4,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 42.84,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 36,
+  "name": "War Onmyoji",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 1,
+   "maxHp": 4,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "The Blooded Hegemon",
+     "hp": 16,
+     "dealt": 1,
+     "taken": 0.03
+    },
+    {
+     "uid": 21,
+     "name": "Furyforged Berserkers 1",
+     "hp": 16,
+     "dealt": 1,
+     "taken": 0.08
+    },
+    {
+     "uid": 26,
+     "name": "Cultist Zealots 1",
+     "hp": 14,
+     "dealt": 1,
+     "taken": 0.23
+    },
+    {
+     "uid": 27,
+     "name": "Cultist Zealots 2",
+     "hp": 20,
+     "dealt": 1,
+     "taken": 0.23
+    },
+    {
+     "uid": 28,
+     "name": "Cultist Zealots 3",
+     "hp": 20,
+     "dealt": 1,
+     "taken": 0.23
+    }
+   ],
+   "threat": 5,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.81,
+     "objective_risk": 9.58,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 1.16,
+     "leader_attach": 0.18,
+     "screen": 6.82,
+     "safety": 3.38,
+     "obj_drift": 0,
+     "role": -0.77,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 27.67,
+     "threats_raw": 0
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Ashigaru Riflemen 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 5 expected melee damage against 1 HP; its death would score the enemy 4 VP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 5,
+   "threat": 5,
+   "hp": 1,
+   "killVp": 4,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.8,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Ashigaru Riflemen 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 3
+  },
+  "test": {
+   "need": 5,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 3
+  },
+  "parts": {
+   "stay": -1.05,
+   "fallBack": 6.1,
+   "stayCore": 2.33,
+   "fight": 0.56,
+   "taken": 5.33,
+   "tieUp": 1.67,
+   "stayDeathChance": 0.07,
+   "stayDeath": 0.27,
+   "destCore": 5.43,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 9,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Avatar of Wrath",
+     "hp": 11,
+     "dealt": 5.33,
+     "taken": 0.56
+    }
+   ],
+   "threat": 5.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.79,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.71,
+     "objective_risk": 1.35,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.2,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.67,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.24,
+     "threats_raw": 2.31
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.11,
+     "objective_risk": 0,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.86,
+     "safety": 1.5,
+     "obj_drift": -1.8,
+     "role": 0.46,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.63,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 7,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Kitsune Shinobi"
+   ],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 5.33 expected melee damage against 10 HP",
+   "leaving opens 2 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 0.533,
+   "threat": 5.33,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": -3.66,
+   "dealing": 0.56,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Oni Samurai",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 7
+  },
+  "parts": {
+   "stay": 18.27,
+   "fallBack": 6.28,
+   "stayCore": 7.61,
+   "fight": 11.11,
+   "taken": 0.44,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.61,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Hounds of Satan 1",
+     "hp": 8,
+     "dealt": 0.44,
+     "taken": 4
+    }
+   ],
+   "threat": 0.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 47.75,
+     "objective_risk": 0.36,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 10.15,
+     "leader_attach": 0,
+     "screen": 12.48,
+     "safety": 1.5,
+     "obj_drift": 0,
+     "role": 1.31,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 77.99,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 47.97,
+     "objective_risk": 0.15,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 6.55,
+     "leader_attach": 0,
+     "screen": 8.06,
+     "safety": 1.5,
+     "obj_drift": 0,
+     "role": 1.31,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 70.18,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.44 expected melee damage against 12 HP; its death would score the enemy 6 VP",
+   "it was winning the fight: 4 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.03666666666666667,
+   "threat": 0.44,
+   "hp": 12,
+   "killVp": 6,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 4.42,
+   "dealing": 4,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 35,
+  "name": "Kitsune Shinobi",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 13,
+   "row": 8
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 8
+  },
+  "parts": {
+   "stay": -4.5,
+   "fallBack": 1.67,
+   "stayCore": 4.22,
+   "fight": 3.78,
+   "taken": 8,
+   "tieUp": 1.5,
+   "stayDeathChance": 1,
+   "stayDeath": 8,
+   "destCore": 4.67,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Avatar of Wrath",
+     "hp": 11,
+     "dealt": 2,
+     "taken": 1
+    },
+    {
+     "uid": 27,
+     "name": "Cultist Zealots 2",
+     "hp": 20,
+     "dealt": 6,
+     "taken": 2.78
+    }
+   ],
+   "threat": 8,
+   "shotAt": {
+    "stay": 0,
+    "dest": 3
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.65,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 21.69,
+     "objective_risk": 20.39,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 3.83,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.57,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -1,
+     "formation": 0,
+     "total": 30.01,
+     "threats_raw": 1.73
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.65,
+     "range": 2.08,
+     "offensive": 4.01,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 41.87,
+     "objective_risk": 0.2,
+     "missive": 4.5,
+     "obj_hold": -0.16,
+     "capture_blocker": 4.03,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 2.22,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": -1,
+     "formation": 0,
+     "total": 60.4,
+     "threats_raw": 1.73
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 8 expected melee damage against 6 HP; its death would score the enemy 1 VP",
+   "where it lands, enemy guns expect 3 damage on it"
+  ],
+  "q": {
+   "danger": 1.3333333333333333,
+   "threat": 8,
+   "hp": 6,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 3,
+   "screen": -5,
+   "dealing": 3.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 36,
+  "name": "War Onmyoji",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 3
+  },
+  "test": {
+   "need": 6,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 3
+  },
+  "parts": {
+   "stay": -11.03,
+   "fallBack": -10.58,
+   "stayCore": 9.39,
+   "fight": 0.58,
+   "taken": 2,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 6.92,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 17.5,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 1,
+   "maxHp": 4,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Cultist Zealots 2",
+     "hp": 20,
+     "dealt": 1,
+     "taken": 0.23
+    },
+    {
+     "uid": 28,
+     "name": "Cultist Zealots 3",
+     "hp": 14,
+     "dealt": 1,
+     "taken": 0.35
+    }
+   ],
+   "threat": 2,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.21,
+     "objective_risk": 3.31,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 1.14,
+     "leader_attach": 0.18,
+     "screen": 12.66,
+     "safety": 3.38,
+     "obj_drift": 0,
+     "role": -0.77,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 26.68,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.29,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.23,
+     "objective_risk": 0.04,
+     "missive": 1.88,
+     "obj_hold": -1.36,
+     "capture_blocker": 1.14,
+     "leader_attach": 0.45,
+     "screen": 5.91,
+     "safety": 3.38,
+     "obj_drift": 0,
+     "role": -0.38,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.12,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 2 expected melee damage against 1 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 2,
+   "threat": 2,
+   "hp": 1,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 6.75,
+   "dealing": 0.58,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 22,
+  "name": "Furyforged Berserkers 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 9
+  },
+  "test": {
+   "need": 5,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": -1.42,
+   "fallBack": 4,
+   "stayCore": 3.6,
+   "fight": 10.32,
+   "taken": 7.78,
+   "tieUp": 0,
+   "stayDeathChance": 0.94,
+   "stayDeath": 7.56,
+   "destCore": 5.34,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 12,
+     "dealt": 4.44,
+     "taken": 4.32
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 12,
+     "dealt": 3.33,
+     "taken": 6
+    }
+   ],
+   "threat": 7.77,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.32,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.95,
+     "objective_risk": 1.61,
+     "missive": 3,
+     "obj_hold": 0.52,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.73,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.92,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.8,
+     "threats_raw": 1.32
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.43,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": -0.64,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.12,
+     "safety": 0.24,
+     "obj_drift": 0,
+     "role": 1.41,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 11.23,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 7.77 expected melee damage against 8 HP; its death would score the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 0.97125,
+   "threat": 7.77,
+   "hp": 8,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.6100000000000003,
+   "dealing": 10.32,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 4,
+  "phase": "COMMAND",
+  "uid": 23,
+  "name": "Avatar of Wrath",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 13,
+   "row": 2
+  },
+  "parts": {
+   "stay": 5.27,
+   "fallBack": 1.01,
+   "stayCore": 3.52,
+   "fight": 2,
+   "taken": 1,
+   "tieUp": 0.75,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.34,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 2
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Kitsune Shinobi",
+     "hp": 6,
+     "dealt": 1,
+     "taken": 2
+    }
+   ],
+   "threat": 1,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.76,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 27.38,
+     "objective_risk": 0.44,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 8.7,
+     "leader_attach": 0,
+     "screen": 9.52,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.48,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 49.64,
+     "threats_raw": 1.75
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.72,
+     "objective_risk": 0,
+     "missive": 1.68,
+     "obj_hold": -1.8,
+     "capture_blocker": 1.68,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0.04,
+     "obj_drift": -2.2,
+     "role": 0.62,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.24,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1 expected melee damage against 11 HP; its death would score the enemy 1 VP",
+   "it was winning the fight: 2 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.09090909090909091,
+   "threat": 1,
+   "hp": 11,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 9.52,
+   "dealing": 2,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Cultist Zealots 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 9
+  },
+  "parts": {
+   "stay": 20.55,
+   "fallBack": 1.68,
+   "stayCore": -0.45,
+   "fight": 21,
+   "taken": 0.23,
+   "tieUp": 0.23,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.35,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "War Onmyoji",
+     "hp": 1,
+     "dealt": 0.23,
+     "taken": 1
+    }
+   ],
+   "threat": 0.23,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.42,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.56,
+     "objective_risk": 0.01,
+     "missive": 0.47,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.54,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.51,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.65,
+     "threats_raw": 2.31
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.56,
+     "objective_risk": 0,
+     "missive": 0.47,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.23,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.14,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.23 expected melee damage against 20 HP",
+   "it was winning the fight: 1 expected damage dealt, enough to destroy an engager"
+  ],
+  "q": {
+   "danger": 0.0115,
+   "threat": 0.23,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.6900000000000013,
+   "dealing": 1,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Cultist Zealots 3",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 4
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 4
+  },
+  "parts": {
+   "stay": -13.05,
+   "fallBack": 3.35,
+   "stayCore": 3.02,
+   "fight": 1.75,
+   "taken": 13.89,
+   "tieUp": 0,
+   "stayDeathChance": 0.98,
+   "stayDeath": 3.94,
+   "destCore": 4.68,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 12,
+     "dealt": 5.56,
+     "taken": 1.17
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 12,
+     "dealt": 8.33,
+     "taken": 0.58
+    }
+   ],
+   "threat": 13.89,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.17,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.89,
+     "objective_risk": 0.52,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.44,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.41,
+     "threats_raw": 2.06
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.31,
+     "objective_risk": 0,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.83,
+     "safety": 0.54,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.82,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 13.89 expected melee damage against 14 HP"
+  ],
+  "q": {
+   "danger": 0.9921428571428572,
+   "threat": 13.89,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -4.33,
+   "dealing": 1.75,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Avatar of Wrath",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 12,
+   "row": 7
+  },
+  "parts": {
+   "stay": 7.13,
+   "fallBack": 3.82,
+   "stayCore": 6.04,
+   "fight": 1.25,
+   "taken": 0.67,
+   "tieUp": 0.5,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.82,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.67,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 12,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Kitsune Shinobi",
+     "hp": 3,
+     "dealt": 0.67,
+     "taken": 1.25
+    }
+   ],
+   "threat": 0.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.06,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 24.2,
+     "objective_risk": 0.14,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 4.37,
+     "leader_attach": 0,
+     "screen": 8.51,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.51,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 43.62,
+     "threats_raw": 1
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.06,
+     "range": 2.5,
+     "offensive": 2.03,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 24.34,
+     "objective_risk": 0.01,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 2.85,
+     "leader_attach": 0,
+     "screen": 10.4,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.49,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 48.43,
+     "threats_raw": 1
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.67 expected melee damage against 11 HP; its death would score the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 0.06090909090909091,
+   "threat": 0.67,
+   "hp": 11,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1,
+   "screen": -1.8900000000000006,
+   "dealing": 1.25,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Cultist Zealots 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 11,
+   "row": 9
+  },
+  "parts": {
+   "stay": 11.18,
+   "fallBack": 2.05,
+   "stayCore": 4.99,
+   "fight": 7,
+   "taken": 1.85,
+   "tieUp": 1.04,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.23,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 1.85,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 11,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Kitsune Shinobi",
+     "hp": 3,
+     "dealt": 1.85,
+     "taken": 3
+    }
+   ],
+   "threat": 1.85,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.85,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.64,
+     "objective_risk": 0.03,
+     "missive": 3,
+     "obj_hold": 0.44,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 17.82,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.04,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 26.89,
+     "threats_raw": 1.44
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.72,
+     "objective_risk": 0,
+     "missive": 3,
+     "obj_hold": -0.54,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.06,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.47,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.85 expected melee damage against 20 HP; its death would score the enemy 1 VP",
+   "it was winning the fight: 3 expected damage dealt, enough to destroy an engager"
+  ],
+  "q": {
+   "danger": 0.0925,
+   "threat": 1.85,
+   "hp": 20,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 16.76,
+   "dealing": 3,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 19,
+  "name": "HQ",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Kitsune Shinobi",
+     "hp": 3,
+     "dealt": 0.44,
+     "taken": 0
+    }
+   ],
+   "threat": 0.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.97,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.58,
+     "objective_risk": 0.2,
+     "missive": 0,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -3.27,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 0.14,
+     "threats_raw": 1.41
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.44 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 0.055,
+   "threat": 0.44,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Furyforged Berserkers 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 5
+  },
+  "parts": {
+   "stay": 1.27,
+   "fallBack": 0.68,
+   "stayCore": 5.51,
+   "fight": 10.43,
+   "taken": 12.44,
+   "tieUp": 0,
+   "stayDeathChance": 0.56,
+   "stayDeath": 2.22,
+   "destCore": 6.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 4,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 15,
+     "dealt": 4.44,
+     "taken": 1.88
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 15,
+     "dealt": 8,
+     "taken": 3.96
+    }
+   ],
+   "threat": 12.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 19.32,
+     "objective_risk": 19.2,
+     "missive": 1.21,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.92,
+     "safety": 0.24,
+     "obj_drift": 0,
+     "role": 1.66,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 27.75,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 34.53,
+     "objective_risk": 0.01,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.54,
+     "safety": 0.24,
+     "obj_drift": 0,
+     "role": 1.47,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 47.08,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 8,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Taichou",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "should have left",
+  "why": [
+   "danger 12.44 expected melee damage against 16 HP"
+  ],
+  "q": {
+   "danger": 0.7775,
+   "threat": 12.44,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -3.62,
+   "dealing": 5.84,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 22,
+  "name": "Furyforged Berserkers 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 10
+  },
+  "parts": {
+   "stay": 10.2,
+   "fallBack": 4.68,
+   "stayCore": 7.46,
+   "fight": 3.85,
+   "taken": 1.11,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Armored Gashadokuro",
+     "hp": 16,
+     "dealt": 1.11,
+     "taken": 3.85
+    }
+   ],
+   "threat": 1.11,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.35,
+     "objective_risk": 0.06,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.27,
+     "safety": 0.96,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.08,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.16,
+     "objective_risk": 0,
+     "missive": 0.87,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.48,
+     "safety": 0.96,
+     "obj_drift": 0,
+     "role": 0.98,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.64,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.11 expected melee damage against 6 HP",
+   "it was winning the fight: 3.85 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.18500000000000003,
+   "threat": 1.11,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 6.789999999999999,
+   "dealing": 3.85,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Hounds of Satan 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 6
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 6
+  },
+  "parts": {
+   "stay": -10.07,
+   "fallBack": 3.53,
+   "stayCore": 5.04,
+   "fight": 0.89,
+   "taken": 11.56,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 8,
+   "destCore": 4.87,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 15,
+     "dealt": 3.56,
+     "taken": 0.44
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 15,
+     "dealt": 8,
+     "taken": 0.44
+    }
+   ],
+   "threat": 11.56,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": null,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.55,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 78.63,
+     "objective_risk": 15.27,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 3.3,
+     "leader_attach": 0,
+     "screen": 7.65,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.09,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 95.15,
+     "threats_raw": 0.55
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.55,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 93.58,
+     "objective_risk": 0.31,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 3.3,
+     "leader_attach": 0,
+     "screen": 7.65,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.91,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 109.93,
+     "threats_raw": 0.55
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Furyforged Berserkers 1",
+    "Furyforged Berserkers 1"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 11.56 expected melee damage against 8 HP; its death would score the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 1.445,
+   "threat": 11.56,
+   "hp": 8,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.88,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Cultist Zealots 3",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 3,
+   "row": 5
+  },
+  "parts": {
+   "stay": -8.56,
+   "fallBack": 4.23,
+   "stayCore": 5.33,
+   "fight": 1.11,
+   "taken": 15.59,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 5.56,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 3,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 15,
+     "dealt": 4.59,
+     "taken": 0.67
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 15,
+     "dealt": 11,
+     "taken": 0.44
+    }
+   ],
+   "threat": 15.59,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.22,
+     "objective_risk": 0.51,
+     "missive": 0.38,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.83,
+     "safety": 1.21,
+     "obj_drift": 0,
+     "role": 1.33,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.38,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.34,
+     "objective_risk": 0.01,
+     "missive": 1.71,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.82,
+     "safety": 1.21,
+     "obj_drift": 0,
+     "role": 1.03,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.72,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Furyforged Berserkers 1",
+    "Furyforged Berserkers 1"
+   ],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 15.59 expected melee damage against 11 HP"
+  ],
+  "q": {
+   "danger": 1.4172727272727272,
+   "threat": 15.59,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.0099999999999998,
+   "dealing": 1.11,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 35,
+  "name": "Kitsune Shinobi",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 11
+  },
+  "parts": {
+   "stay": 0.44,
+   "fallBack": 2.99,
+   "stayCore": 3.98,
+   "fight": 2.52,
+   "taken": 4.25,
+   "tieUp": 0.94,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 5.28,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.63,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Avatar of Wrath",
+     "hp": 11,
+     "dealt": 1.25,
+     "taken": 0.67
+    },
+    {
+     "uid": 27,
+     "name": "Cultist Zealots 2",
+     "hp": 20,
+     "dealt": 3,
+     "taken": 1.85
+    }
+   ],
+   "threat": 4.25,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.1,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 24.03,
+     "objective_risk": 5.88,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 3.95,
+     "leader_attach": 0,
+     "screen": 5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.58,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 37.23,
+     "threats_raw": 1.37
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 17.54,
+     "objective_risk": 0.19,
+     "missive": 1.88,
+     "obj_hold": -1.28,
+     "capture_blocker": 2.75,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 1.5,
+     "obj_drift": -2.2,
+     "role": 1.21,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.59,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Cultist Zealots 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "should have left",
+  "why": [
+   "danger 4.25 expected melee damage against 3 HP"
+  ],
+  "q": {
+   "danger": 1.4166666666666667,
+   "threat": 4.25,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5,
+   "dealing": 2.52,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Oni Samurai",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 7,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "The Blooded Hegemon",
+     "hp": 5,
+     "dealt": 5.1,
+     "taken": 1.33
+    },
+    {
+     "uid": 24,
+     "name": "Hounds of Satan 1",
+     "hp": 8,
+     "dealt": 1,
+     "taken": 4
+    }
+   ],
+   "threat": 6.1,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 63.42,
+     "objective_risk": 40.91,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 10.71,
+     "leader_attach": 0,
+     "screen": 10.17,
+     "safety": 1.5,
+     "obj_drift": 0,
+     "role": 1.42,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 92.54,
+     "threats_raw": 0
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "The Blooded Hegemon",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held to the end",
+  "why": [
+   "danger 6.1 expected melee damage against 7 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.8714285714285713,
+   "threat": 6.1,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 5.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Murderhost of Halfa",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 20,
+  "name": "The Blooded Hegemon",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 6
+  },
+  "parts": {
+   "stay": 11.34,
+   "fallBack": 4.46,
+   "stayCore": 7.31,
+   "fight": 6.23,
+   "taken": 2.2,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.12,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 1.66,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Taichou",
+     "hp": 7,
+     "dealt": 0.87,
+     "taken": 1
+    },
+    {
+     "uid": 33,
+     "name": "Oni Samurai",
+     "hp": 7,
+     "dealt": 1.33,
+     "taken": 4.31
+    }
+   ],
+   "threat": 2.2,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 48.99,
+     "objective_risk": 6.3,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 10.92,
+     "leader_attach": 0.45,
+     "screen": 0.57,
+     "safety": 0.84,
+     "obj_drift": 0,
+     "role": 1.52,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 68.08,
+     "threats_raw": 0
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 55.29,
+     "objective_risk": 0,
+     "missive": 4.5,
+     "obj_hold": -0.17,
+     "capture_blocker": 7.04,
+     "leader_attach": 0.45,
+     "screen": 4.71,
+     "safety": 0.84,
+     "obj_drift": 0,
+     "role": 1.32,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 74,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.2 expected melee damage against 5 HP; its death would score the enemy 1 VP",
+   "it was winning the fight: 5.31 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.44000000000000006,
+   "threat": 2.2,
+   "hp": 5,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -4.14,
+   "dealing": 5.31,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Kishomon Company",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Armored Gashadokuro",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 3,
+   "row": 11
+  },
+  "parts": {
+   "stay": 12.08,
+   "fallBack": 0.62,
+   "stayCore": 4.08,
+   "fight": 8,
+   "taken": 0.83,
+   "tieUp": 0.83,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.71,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.42,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 3,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 16,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Cultist Troopers",
+     "hp": 20,
+     "dealt": 0.83,
+     "taken": 8
+    }
+   ],
+   "threat": 0.83,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.38,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 78.84,
+     "objective_risk": 0.86,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 18.25,
+     "leader_attach": 0,
+     "screen": 11.45,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.96,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 113.11,
+     "threats_raw": 1.29
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 39.45,
+     "objective_risk": 0.4,
+     "missive": 1.88,
+     "obj_hold": -1.8,
+     "capture_blocker": 3.77,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 44.13,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.83 expected melee damage against 16 HP",
+   "it was winning the fight: 8 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.051875,
+   "threat": 0.83,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 11.45,
+   "dealing": 8,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

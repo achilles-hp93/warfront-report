@@ -1,0 +1,55 @@
+{
+  "title": "Armoured Cohort vs Magdeburg Warhost",
+  "armies": [
+    { "name": "Armoured Cohort", "faction": "Iron Imperium" },
+    { "name": "Magdeburg Warhost", "faction": "Runeforge Directorate" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Magdeburg Warhost beat Armoured Cohort 37-9 on Victory Points in Battle Round 4 without losing a single unit. Its infantry reached the objective line first and won the close fighting there: the Black Huskarls destroyed Legionnaire Squad 2 in one charge, the Legionnaire Squads gave ground with Fall Backs, and from Round 3 the Warhost held all three objectives while the Cohort's two Chiron Battle Tanks and its Equites Igniferi did 10 damage between them.",
+  "result_line": "Magdeburg Warhost win 37-9 on Victory Points in Battle Round 4",
+  "deployment": "<p>Central Faceoff on CROSSROADS: the centre objective (7,7) is worth 3 VP, the flanks (1,7) and (13,7) 2 each. <strong>Armoured Cohort</strong> deployed on the south edge (HQ 7,13) in a line: Legionnaire Squad 2 (4,12), Legionnaire Squad 1 with the Centurion (9,12) and Legionnaire Squad 3 (10,12) as the infantry, the Praetorian Fireteam with the Augur (8,12) and the Equites Igniferi (6,13) behind them, and a Chiron Battle Tank on each wing (3,12 and 11,12).</p><p><strong>Magdeburg Warhost</strong>, with the initiative, deployed on row 2 (HQ 7,1): Otto of Saxony leading Odin's Einherjar (3,2) and the Black Huskarls (5,2) on the west, the three Corporaider Squads across the centre (6,2, 8,2, 11,2), the Grey Huskarls (9,2) and the Runesmith (10,2). Both armies were 249 RP; the Warhost's was almost all infantry that wants to fight on the objectives, the Cohort's was split between infantry, two tanks and cavalry.</p><p>Primaries: the Cohort took BREAK THEIR HOLD (1 VP per enemy-held objective it contests, 3 for flipping one); the Warhost took STRATEGICAL DISRUPTION (from Round 2, 1 VP for a SUPPRESSED or destroyed enemy unit on an objective, 2 VP when the Cohort's Primary scores nothing).</p>",
+  "rounds": {
+    "1": {
+      "title": "The Warhost reaches the line first",
+      "feed": [
+        { "phase": "Command", "text": "The Cohort set Tactica Mercurii and both sides spent their 2 CP on Double Time (Legionnaire Squad 3, Black Huskarls); neither move needed it. The Warhost kept TAKE UP THE GAUNTLET and the Cohort's AI picked (7,7) as its objective; the Cohort kept BAR THE GATES." },
+        { "phase": "Movement", "text": "The Black Huskarls ran to 2,8 on the west objective and Corporaider Squad 2 to 6,7 on the centre, with Otto of Saxony and Odin's Einherjar behind at 5,5. The Cohort put Legionnaire Squad 3 on the centre at 8,7, Legionnaire Squad 2 at 4,7 and Chiron Battle Tank 1 on (13,7); Chiron Battle Tank 2 went to the far west at 0,9." },
+        { "phase": "Action", "text": "Only the Grey Huskarls had a target: 2 damage and one Legionnaire off Legionnaire Squad 3. Every other unit had no legal action." },
+        { "phase": "Cleanup", "text": "The Warhost took (7,7) at OC 10 vs 8 and (1,7) at 5 vs 0 for 5 VP, and TAKE UP THE GAUNTLET (+3). Chiron Battle Tank 1 held (13,7) for the Cohort (2 VP) and BREAK THEIR HOLD paid 1. The Cohort's Pietas reached Tier II. <strong>3-8.</strong>" }
+      ]
+    },
+    "2": {
+      "title": "The Black Huskarls break Legionnaire Squad 2",
+      "feed": [
+        { "phase": "Command", "text": "Double Time again on both sides: the Praetorian Fireteam for the Cohort, Corporaider Squad 2 for the Warhost; both bought nothing. The Cohort kept TAKE UP THE GAUNTLET, and the Warhost's AI handed it (1,7); the Warhost kept DEEP REACH." },
+        { "phase": "Movement", "text": "Corporaider Squad 2 and Odin's Einherjar charged Legionnaire Squad 3 and it fell back from 8,7 to 10,9, leaving the centre. The Black Huskarls charged Legionnaire Squad 2, which had moved onto the west objective at 2,6. Corporaider Squad 1's Overwatch hit the Praetorian Fireteam for 2." },
+        { "phase": "Action", "text": "The Black Huskarls destroyed Legionnaire Squad 2 in one melee, 10 damage. The Cohort's reply went into Odin's Einherjar: Chiron Battle Tank 1's Overpressure Shell put 4 on the Einherjar and 4 on Corporaider Squad 1, Legionnaire Squad 1 added 4 and the Praetorian Fireteam 2, leaving the Einherjar on 2 HP. The Centurion's Move Order put Legionnaire Squad 3 back to 8,9; the Augur's Sacrificium gave 2 Mana and nothing else." },
+        { "phase": "Cleanup", "text": "The Warhost held the centre at OC 11 vs 0 and (1,7) for 5 VP, scored STRATEGICAL DISRUPTION 3 (a kill on an objective, and the Cohort's Primary scored nothing) and DEEP REACH (+3). The Cohort kept (13,7) (2 VP) and completed BAR THE GATES (+2). Its Act of Pietas was blocked by Legionnaire Squad 3's Fall Back. <strong>7-19.</strong>" }
+      ]
+    },
+    "3": {
+      "title": "Three objectives for the Warhost",
+      "feed": [
+        { "phase": "Command", "text": "Otto of Saxony's Mint Privilege turned 3 Loots into 2 CP; the Warhost spent its 4 CP on Double Time for Corporaider Squad 1 and a Rally Cry that passed Odin's Einherjar's Morale Test. The Cohort's Double Time sent the Praetorian Fireteam and Augur west, 6,9 to 1,9." },
+        { "phase": "Movement", "text": "Corporaider Squad 1 charged the Centurion and Legionnaire Squads 1 and 3: both squads fell back in disorder (3 and 1 damage). Odin's Einherjar charged Legionnaire Squad 3 again, Corporaider Squad 3 charged Chiron Battle Tank 1 on the east objective, and the Black Huskarls charged the Praetorian Fireteam and Augur. Corporaider Squad 2 and the Grey Huskarls filled the centre." },
+        { "phase": "Action", "text": "Otto's Mining Baron gave six Warhost units +1 AP (3.38 expected HP), and Otto destroyed Legionnaire Squad 3 (5 damage). The Praetorian Fireteam traded with the Black Huskarls (3 lost, 2 dealt); Chiron Battle Tank 1 attacked Corporaider Squad 3 and lost 4 HP for nothing. Two Plunders added 4 Loots." },
+        { "phase": "Cleanup", "text": "The Warhost held all three objectives, (7,7) at OC 19 vs 0, (1,7) at 4 vs 0 and (13,7) at 10 vs 2, for 7 VP. Chiron Battle Tank 1 still stood in the (13,7) area for 1 VP of BREAK THEIR HOLD, which also kept STRATEGICAL DISRUPTION at 0. The Cohort's Pietas was blocked by Fall Backs again. <strong>8-26.</strong>" }
+      ]
+    },
+    "4": {
+      "title": "A Fall Back test destroys the Praetorians",
+      "feed": [
+        { "phase": "Command", "text": "The Cohort switched to Tactica Martis and used Double Time on Legionnaire Squad 1. Mint Privilege paid the Warhost 2 more CP: Double Time on the Runesmith and a second Rally Cry for Odin's Einherjar. New secondaries: LAST STAND for the Cohort, KING OF THE HILL for the Warhost." },
+        { "phase": "Movement", "text": "Legionnaire Squad 1 and the Centurion marched onto the centre at 6,6. Odin's Einherjar charged Chiron Battle Tank 1, which fell back in disorder (1 damage) to 14,10, leaving the east objective. Engaged by the Black Huskarls, the Praetorian Fireteam failed its Fall Back test and the 3 True Damage destroyed it; the Augur fell back in disorder (2 damage) to 1,11. Chiron Battle Tank 2 charged the Grey Huskarls." },
+        { "phase": "Action", "text": "Legionnaire Squad 1 raised Shield Wall, and Corporaider Squad 2 shot it apart anyway: 6 of 8 hits, 9 damage, destroyed inside the centre objective for KING OF THE HILL (+3 VP, 29). Chiron Battle Tank 2 took 2 off the Grey Huskarls, the Centurion 3 off Corporaider Squad 2 (and 2 more from Burning), and the Runesmith shot the Cohort HQ for 3." },
+        { "phase": "Cleanup", "text": "The Warhost took all three objectives again, (7,7) at OC 14 vs 3, for 7 VP and 36, past the 30-VP target, and STRATEGICAL DISRUPTION added 1. BREAK THEIR HOLD gave the Cohort 1. <strong>9-37.</strong>" }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p>The Warhost's 37: 24 from objectives (5, 5, 7, 7), 4 from STRATEGICAL DISRUPTION and 9 from secondaries (TAKE UP THE GAUNTLET, DEEP REACH and KING OF THE HILL, 3 each; LAST STAND still open). The Cohort's 9: 4 objective VP, all from Chiron Battle Tank 1 on (13,7) in Rounds 1 and 2, 3 from BREAK THEIR HOLD and 2 from BAR THE GATES; its TAKE UP THE GAUNTLET, FORWARD PRESENCE and LAST STAND never came close. It never scored the centre or the west objective.</p>{{chart:objectives}}<h3>What the units did</h3><p><strong>Warhost:</strong> Corporaider Squad 2 led the scoring record with 12.5 VP: it took the centre in Round 1 for TAKE UP THE GAUNTLET and destroyed Legionnaire Squad 1 on it for KING OF THE HILL. The Black Huskarls (10.7 VP, 8 objective VP that hinged on them) held (1,7) all four rounds and did the most damage, 13, most of it the 10-damage melee that removed Legionnaire Squad 2. Otto of Saxony scored little himself (1.3 VP) but killed Legionnaire Squad 3, gave the army +1 AP with Mining Baron and, through Mint Privilege, turned 6 Loots into 4 CP. Odin's Einherjar charged three times and never attacked itself (inaction 4): its targets fell back, and in Round 3 it was Otto who struck.</p><p><strong>Cohort:</strong> Chiron Battle Tank 1 did nearly everything (5.0 VP, 8 damage). Chiron Battle Tank 2 (2 damage, idle three rounds) and the Equites Igniferi (idle all four rounds, no attack) were 65 RP that took no part. The three Legionnaire Squads were destroyed one per round, and the army destroyed no enemy unit at all.</p>{{chart:attrition}}{{chart:rp-trade}}<h3>The AI and the army</h3><p>The Warhost's infantry was better at this fight: on Round 1 it had OC 10 to the Cohort's 8 on the centre, and both of its melees against Legionnaire Squads destroyed them. But the Cohort's AI made it worse. It fell back six times; two of those the Fall Back record calls doubtful, and in Round 4 the Praetorian Fireteam (3 expected damage against 7 HP where it stood) failed its Fall Back test and died to the disorder damage. Each Fall Back also blocked its Pietas, which was stuck at Tier II from Round 1. The Equites Igniferi, heavy cavalry, never charged in four rounds and Chiron Battle Tank 2 was idle for three rounds, its best option scoring 0. Both sides spent CP on Double Times that bought nothing (the Cohort 4 of its 8 CP, the Warhost 6 of its 12). This is one battle; the 28-VP margin is too large to be only AI play, but with 65 RP idle and its infantry falling back off the objectives, the Cohort never tested what the army could do.</p>"
+  },
+  "closing_title": "No unit lost",
+  "closing": "<p>The Magdeburg Warhost took the objective line in Round 1, won the fights there, and finished the battle in Round 4 with all eight of its units on the board. The Armoured Cohort's tanks and cavalry spent the battle short of the fighting.</p>"
+}

@@ -1,0 +1,2820 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 37,
+  "name": "Azat Lancers 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 6
+  },
+  "parts": {
+   "stay": -2.36,
+   "fallBack": 8.32,
+   "stayCore": -1.62,
+   "fight": 3.33,
+   "taken": 4.07,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 0.06,
+   "lostVp": 0,
+   "gainedVp": 3,
+   "followed": 4.07,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 8,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Redcap Reivers",
+     "hp": 10,
+     "dealt": 4.07,
+     "taken": 3.33
+    }
+   ],
+   "threat": 4.07,
+   "shotAt": {
+    "stay": 0,
+    "dest": 9.48
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": false,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -8.39,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 45.48,
+     "objective_risk": 2.09,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 27.59,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.73,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 71.45,
+     "threats_raw": 4
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -8.39,
+     "range": 2.5,
+     "offensive": 4.71,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 43.8,
+     "objective_risk": 0.15,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 30.43,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.75,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 81.49,
+     "threats_raw": 4
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.07 expected melee damage against 20 HP; its death would score the enemy 2 VP",
+   "the square it falls back to takes 3 objective VP",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.20350000000000001,
+   "threat": 4.07,
+   "hp": 20,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 3,
+   "opensFire": 1,
+   "shotAfter": 9.48,
+   "screen": -2.84,
+   "dealing": 3.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 39,
+  "name": "Parsawor Grenadiers",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 5
+  },
+  "test": {
+   "need": 3,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 5
+  },
+  "parts": {
+   "stay": -19.8,
+   "fallBack": 3.71,
+   "stayCore": -1.8,
+   "fight": 0,
+   "taken": 6,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 12,
+   "destCore": 4.38,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Redcap Reivers",
+     "hp": 10,
+     "dealt": 6,
+     "taken": 0
+    }
+   ],
+   "threat": 6,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.71,
+     "objective_risk": 8.66,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.04,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.2,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.95,
+     "threats_raw": 3.81
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 3.95,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.49,
+     "objective_risk": 0.18,
+     "missive": 1.82,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.24,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.27,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 35.56,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 6 expected melee damage against 6 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 6,
+   "hp": 6,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -2.2,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Azat Lancers 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 9
+  },
+  "test": {
+   "need": 5,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": -20.84,
+   "fallBack": 2.29,
+   "stayCore": -5.81,
+   "fight": 0.46,
+   "taken": 12.5,
+   "tieUp": 0,
+   "stayDeathChance": 0.25,
+   "stayDeath": 3,
+   "destCore": 3.62,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Moonless Veilblades",
+     "hp": 3,
+     "dealt": 12.5,
+     "taken": 0.46
+    }
+   ],
+   "threat": 12.5,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -9.57,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 73.27,
+     "objective_risk": 23.48,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.6,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 67.46,
+     "threats_raw": 4.56
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 87.52,
+     "objective_risk": 0.66,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.35,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.44,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 97.99,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 12.5 expected melee damage against 20 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 0.625,
+   "threat": 12.5,
+   "hp": 20,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -4.35,
+   "dealing": 0.46,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Sidhe Wardens 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 3
+  },
+  "parts": {
+   "stay": -0.45,
+   "fallBack": 3.26,
+   "stayCore": -1.83,
+   "fight": 2.69,
+   "taken": 1.85,
+   "tieUp": 0.56,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.26,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Azat Lancers 1",
+     "hp": 20,
+     "dealt": 1.85,
+     "taken": 2.69
+    }
+   ],
+   "threat": 1.85,
+   "shotAt": {
+    "stay": 1.11,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -7.56,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.45,
+     "objective_risk": 1.03,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 11.89,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.22,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.51,
+     "threats_raw": 3.6
+    },
+    "dest": {
+     "cover": 0.78,
+     "threat": 0,
+     "range": 2.38,
+     "offensive": 6.01,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.52,
+     "objective_risk": 0.22,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.49,
+     "posture": 0.12,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.17,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Sidhe Wardens 1"
+   ],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.85 expected melee damage against 5 HP"
+  ],
+  "q": {
+   "danger": 0.37,
+   "threat": 1.85,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 11.89,
+   "dealing": 2.69,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Blackflint Archers",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 11
+  },
+  "parts": {
+   "stay": -5.26,
+   "fallBack": 1.95,
+   "stayCore": -3.97,
+   "fight": 0,
+   "taken": 1.85,
+   "tieUp": 0.56,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.62,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Azat Lancers 1",
+     "hp": 20,
+     "dealt": 1.85,
+     "taken": 0
+    }
+   ],
+   "threat": 1.85,
+   "shotAt": {
+    "stay": 1.11,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -7.56,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.3,
+     "objective_risk": 0.28,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.93,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.2,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": -0.61,
+     "formation": 0,
+     "total": 3.27,
+     "threats_raw": 3.6
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.14,
+     "offensive": 5.15,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.83,
+     "objective_risk": 0.09,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.79,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": -1.87,
+     "formation": 0,
+     "total": 11.75,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Sidhe Wardens 1"
+   ],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.85 expected melee damage against 5 HP"
+  ],
+  "q": {
+   "danger": 0.37,
+   "threat": 1.85,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 4.93,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 22,
+  "name": "Sidhe Wardens 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 4
+  },
+  "parts": {
+   "stay": 5.32,
+   "fallBack": 4.79,
+   "stayCore": 2,
+   "fight": 4.99,
+   "taken": 2.22,
+   "tieUp": 0.56,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.79,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 13,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Azat Lancers 1",
+     "hp": 20,
+     "dealt": 2.22,
+     "taken": 2.69
+    }
+   ],
+   "threat": 2.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.72,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 980.94,
+     "objective_risk": 302.86,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 11.73,
+     "leader_attach": 0,
+     "screen": 4.42,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.43,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 999.46,
+     "threats_raw": 3.73
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.19,
+     "offensive": 5.88,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 670.89,
+     "objective_risk": 41.23,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 11.73,
+     "leader_attach": 0,
+     "screen": 6.63,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.42,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 700.17,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.22 expected melee damage against 13 HP"
+  ],
+  "q": {
+   "danger": 0.17076923076923078,
+   "threat": 2.22,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -2.21,
+   "dealing": 2.69,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Sidhe Wardens 3",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 9
+  },
+  "parts": {
+   "stay": 2.22,
+   "fallBack": 4.4,
+   "stayCore": 1.13,
+   "fight": 2.75,
+   "taken": 2.22,
+   "tieUp": 0.56,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.4,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Azat Lancers 1",
+     "hp": 20,
+     "dealt": 2.22,
+     "taken": 2.69
+    }
+   ],
+   "threat": 2.22,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.38,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 423.83,
+     "objective_risk": 72.24,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 11.73,
+     "leader_attach": 0,
+     "screen": 8.45,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.21,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 445.52,
+     "threats_raw": 4.27
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2,
+     "offensive": 4.09,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 250.48,
+     "objective_risk": 26.95,
+     "missive": 2.17,
+     "obj_hold": -1.22,
+     "capture_blocker": 11.73,
+     "leader_attach": 0,
+     "screen": 8.66,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.04,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 279.35,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Sidhe Wardens 1"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 2.22 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 0.2775,
+   "threat": 2.22,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.21000000000000085,
+   "dealing": 2.69,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 36,
+  "name": "Vishap Harpooners",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 5
+  },
+  "parts": {
+   "stay": 0.23,
+   "fallBack": 5,
+   "stayCore": 1.47,
+   "fight": 3.33,
+   "taken": 4.58,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 15,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Redcap Reivers",
+     "hp": 10,
+     "dealt": 4.58,
+     "taken": 0
+    }
+   ],
+   "threat": 4.58,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -6.02,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 39.1,
+     "objective_risk": 2.64,
+     "missive": 2.41,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.04,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.69,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 46.61,
+     "threats_raw": 2.87
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.56,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 44.25,
+     "objective_risk": 0.13,
+     "missive": 2.41,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 12.76,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.79,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 64.57,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.58 expected melee damage against 15 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 0.30533333333333335,
+   "threat": 4.58,
+   "hp": 15,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -6.72,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 39,
+  "name": "Parsawor Grenadiers",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 5
+  },
+  "test": {
+   "need": 3,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 5
+  },
+  "parts": {
+   "stay": -19.41,
+   "fallBack": 4.72,
+   "stayCore": -1.41,
+   "fight": 0,
+   "taken": 6,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 12,
+   "destCore": 5.39,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Redcap Reivers",
+     "hp": 10,
+     "dealt": 6,
+     "taken": 0
+    }
+   ],
+   "threat": 6,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -8.41,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 19.7,
+     "objective_risk": 13.02,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.82,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.09,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.12,
+     "threats_raw": 4
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 4.68,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 34.13,
+     "objective_risk": 0.57,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.48,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 53.18,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 5,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 6 expected melee damage against 6 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 6,
+   "hp": 6,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.6600000000000001,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 37,
+  "name": "Azat Lancers 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": -0.45,
+   "fallBack": 3.54,
+   "stayCore": -0.82,
+   "fight": 1.48,
+   "taken": 2.78,
+   "tieUp": 1.67,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.54,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 23,
+     "name": "Sidhe Wardens 2",
+     "hp": 5,
+     "dealt": 2.78,
+     "taken": 1.48
+    }
+   ],
+   "threat": 2.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.79,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 287.94,
+     "objective_risk": 25.04,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 2.7,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.47,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 290.2,
+     "threats_raw": 4.55
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 192.6,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": -1.08,
+     "capture_blocker": 2.83,
+     "leader_attach": 0,
+     "screen": 2.5,
+     "safety": 0.54,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 203.89,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 2.78 expected melee damage against 14 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 0.19857142857142857,
+   "threat": 2.78,
+   "hp": 14,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -2.5,
+   "dealing": 1.48,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Azat Lancers 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 8,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 28,
+     "name": "Moonless Veilblades",
+     "hp": 3,
+     "dealt": 8,
+     "taken": 0.19
+    }
+   ],
+   "threat": 8,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.01,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 83.56,
+     "objective_risk": 56.72,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 1.49,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.14,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 87.34,
+     "threats_raw": 3.74
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 8,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Moonless Veilblades",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 8 expected melee damage against 8 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 8,
+   "hp": 8,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.19,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Sidhe Wardens 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 11
+  },
+  "parts": {
+   "stay": -3.11,
+   "fallBack": 2.86,
+   "stayCore": 1.24,
+   "fight": 0.28,
+   "taken": 0.97,
+   "tieUp": 0.13,
+   "stayDeathChance": 0.95,
+   "stayDeath": 3.79,
+   "destCore": 7.36,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 1,
+   "fallBackDeathChance": 1,
+   "fallBackDeath": 4,
+   "lossPenalty": 2.5,
+   "fireBonus": 3,
+   "bestDest": {
+    "col": 1,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 1,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Azat Lancers 1",
+     "hp": 12,
+     "dealt": 0.97,
+     "taken": 0.28
+    }
+   ],
+   "threat": 0.97,
+   "shotAt": {
+    "stay": 0.27,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 3,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.83,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.11,
+     "objective_risk": 0.07,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 16.39,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.61,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.74,
+     "threats_raw": 1.82
+    },
+    "dest": {
+     "cover": 0.78,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 2.99,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.17,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 3.84,
+     "obj_drift": -2.2,
+     "role": 0.45,
+     "posture": 0.12,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 10.82,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Parsawor Grenadiers",
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 0.97 expected melee damage against 1 HP",
+   "leaving opens 3 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.97,
+   "threat": 0.97,
+   "hp": 1,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 3,
+   "shotAfter": 0,
+   "screen": 16.39,
+   "dealing": 0.28,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Moonless Veilblades",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 2,
+   "row": 11
+  },
+  "parts": {
+   "stay": 15.11,
+   "fallBack": 5.07,
+   "stayCore": 3.14,
+   "fight": 12,
+   "taken": 0.28,
+   "tieUp": 0.25,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.51,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.33,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.11,
+   "fireBonus": 3,
+   "bestDest": {
+    "col": 2,
+    "row": 11
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 3,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Azat Lancers 1",
+     "hp": 12,
+     "dealt": 0.28,
+     "taken": 8
+    }
+   ],
+   "threat": 0.28,
+   "shotAt": {
+    "stay": 0.5,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 3,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.63,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 45.08,
+     "objective_risk": 2.22,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 20.65,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.27,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 69.16,
+     "threats_raw": 1.76
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.1,
+     "objective_risk": 0.33,
+     "missive": 1.88,
+     "obj_hold": -1.36,
+     "capture_blocker": 4.25,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.95,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 32.5,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.28 expected melee damage against 3 HP",
+   "it was winning the fight: 8 expected damage dealt",
+   "leaving opens 3 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.09333333333333334,
+   "threat": 0.28,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 3,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 8,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Blackflint Archers",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 10
+  },
+  "test": {
+   "need": 3,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": -1.63,
+   "fallBack": 8.24,
+   "stayCore": 0.23,
+   "fight": 0,
+   "taken": 1.67,
+   "tieUp": 0.25,
+   "stayDeathChance": 0.11,
+   "stayDeath": 0.44,
+   "destCore": 7.35,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.11,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Azat Lancers 1",
+     "hp": 12,
+     "dealt": 1.67,
+     "taken": 0
+    }
+   ],
+   "threat": 1.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.48,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 31.41,
+     "objective_risk": 9.43,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.69,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.01,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -1.1,
+     "formation": 0,
+     "total": 32.34,
+     "threats_raw": 2.61
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.9,
+     "offensive": 5.38,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.07,
+     "objective_risk": 0.78,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.29,
+     "safety": 0.96,
+     "obj_drift": 0,
+     "role": 1.59,
+     "posture": 1.2,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 57.99,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 1.67 expected melee damage against 3 HP",
+   "leaving opens 2 shot(s) at its enemies; 2 taken"
+  ],
+  "q": {
+   "danger": 0.5566666666666666,
+   "threat": 1.67,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": -2.6,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Pahak Riflemen 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": 3.36,
+   "fallBack": -4.3,
+   "stayCore": 3.41,
+   "fight": 0.44,
+   "taken": 1,
+   "tieUp": 0.5,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 9.7,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 14,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Wild Hunt Riders",
+     "hp": 10,
+     "dealt": 1,
+     "taken": 0.3
+    }
+   ],
+   "threat": 1,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.43,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 57.06,
+     "objective_risk": 52.41,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 0.96,
+     "leader_attach": 0,
+     "screen": 14.49,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.75,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 76.58,
+     "threats_raw": 2.27
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 58.12,
+     "objective_risk": 12.51,
+     "missive": 2.65,
+     "obj_hold": -0.81,
+     "capture_blocker": 1.01,
+     "leader_attach": 0,
+     "screen": 13.03,
+     "safety": 5.42,
+     "obj_drift": -1.1,
+     "role": 0.64,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 81.98,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Parsawor Grenadiers",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 1 expected melee damage against 5 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 0.2,
+   "threat": 1,
+   "hp": 5,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.4600000000000009,
+   "dealing": 0.3,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 43,
+  "name": "Pahak Riflemen",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 13,
+   "row": 2
+  },
+  "test": {
+   "need": 3,
+   "roll": 3,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 13,
+   "row": 2
+  },
+  "parts": {
+   "stay": -18.68,
+   "fallBack": -9.96,
+   "stayCore": -3.01,
+   "fight": 0.33,
+   "taken": 4,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 12,
+   "destCore": 5.7,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 4,
+   "fallBackDeathChance": 1,
+   "fallBackDeath": 12,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 13,
+    "row": 2
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Redcap Reivers",
+     "hp": 10,
+     "dealt": 4,
+     "taken": 0.33
+    }
+   ],
+   "threat": 4,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.05,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 15.07,
+     "objective_risk": 14.08,
+     "missive": 1.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.36,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.06,
+     "threats_raw": 4.18
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 24.87,
+     "objective_risk": 1.98,
+     "missive": 1.53,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 3.84,
+     "obj_drift": 0,
+     "role": 0.33,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 33.07,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 4 expected melee damage against 4 HP; its death would score the enemy 2 VP",
+   "leaving opens 1 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 4,
+   "hp": 4,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Summer Rade",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Redcap Reivers",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 14,
+   "row": 6
+  },
+  "parts": {
+   "stay": 15.08,
+   "fallBack": 11.69,
+   "stayCore": -1,
+   "fight": 16,
+   "taken": 0.33,
+   "tieUp": 0.42,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.03,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 14,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 43,
+     "name": "Pahak Riflemen",
+     "hp": 4,
+     "dealt": 0.33,
+     "taken": 4
+    }
+   ],
+   "threat": 0.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.07,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.38,
+     "objective_risk": 0.29,
+     "missive": 0.94,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.83,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.33,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 25.21,
+     "threats_raw": 2.42
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 37.04,
+     "objective_risk": 0.08,
+     "missive": 0.86,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.41,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.97,
+     "posture": 1.2,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.48,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.33 expected melee damage against 10 HP",
+   "it was winning the fight: 4 expected damage dealt, enough to destroy an engager",
+   "the square it falls back to takes 2 objective VP",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.033,
+   "threat": 0.33,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 5.42,
+   "dealing": 4,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Vigil of Masis",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 40,
+  "name": "Pahak Riflemen 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 1,
+   "row": 3
+  },
+  "test": {
+   "need": 4,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 3
+  },
+  "parts": {
+   "stay": -5.83,
+   "fallBack": 5.51,
+   "stayCore": 2.84,
+   "fight": 0.67,
+   "taken": 3.98,
+   "tieUp": 1.77,
+   "stayDeathChance": 0.59,
+   "stayDeath": 7.13,
+   "destCore": 6.51,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 1,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Sidhe Wardens",
+     "hp": 4,
+     "dealt": 3.98,
+     "taken": 0.67
+    }
+   ],
+   "threat": 3.98,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.64,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 46.16,
+     "objective_risk": 33.55,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 2.05,
+     "leader_attach": 0,
+     "screen": 5.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.98,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 57.02,
+     "threats_raw": 4.29
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.19,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 34.39,
+     "objective_risk": 5.46,
+     "missive": 1.88,
+     "obj_hold": -2.41,
+     "capture_blocker": 2.15,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 3.38,
+     "obj_drift": -2.2,
+     "role": 0.57,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.63,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Azat Lancers 1"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 3.98 expected melee damage against 5 HP; its death would score the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 0.796,
+   "threat": 3.98,
+   "hp": 5,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5.32,
+   "dealing": 0.67,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

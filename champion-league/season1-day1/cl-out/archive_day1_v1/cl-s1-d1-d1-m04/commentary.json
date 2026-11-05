@@ -1,0 +1,55 @@
+{
+  "title": "Blaze of Etna vs Caerfyrddin Fencibles",
+  "armies": [
+    { "name": "Blaze of Etna", "faction": "Iron Imperium" },
+    { "name": "Caerfyrddin Fencibles", "faction": "British Liberation Front" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Caerfyrddin Fencibles beat Blaze of Etna 36-12 on Victory Points in Battle Round 4 without losing the fighting: the Blaze destroyed Parish Militia 3 and the Knight-Bulwarks and lost no unit. The Fencibles won on ground: from Round 2 their cheap Parish Militia and the Eire Pathfinders sat on both flank objectives, which the Blaze, all six of its units massed on the centre, never once contested.",
+  "result_line": "Caerfyrddin Fencibles win 36-12 on Victory Points in Battle Round 4",
+  "deployment": "<p>Central Faceoff on CROSSROADS: the centre objective (7,7) is worth 3 VP, the flanks (1,7) and (13,7) 2 each. <strong>Blaze of Etna</strong> brought six units beside its HQ (7,13), every one of them heavy: the Artificer-General leading the Cyclopean Ferricants (11,12), the Artificer-Captain leading the Briarean Ferricants (9,12), the Enceladan Ferricants (3,12) and the T.A.L.O.S Warcolossus (5,13). Its best OC was concentrated, and it had too few units to stand on three objectives at once.</p><p><strong>Caerfyrddin Fencibles</strong> spread ten units across row 2 (HQ 7,1): four 10-model Parish Militia (4,2, 7,2, 10,2, 11,2), the Knight-Constable leading the Knight-Bulwarks (3,2), the Alba Highlanders (5,2), the Eire Pathfinders (8,2), the House of Glass Arcanist (9,2) and the Prydain Field Gun on the back row (11,0). The width put a unit within reach of every objective.</p><p>Primaries: the Blaze took BREAK THEIR HOLD (1 VP per enemy-held objective it contests, 3 for flipping one); the Fencibles took IMPENETRABLE FORTRESS (1 VP per 2 healthy units outside their deployment zone, up to 3).</p>",
+  "rounds": {
+    "1": {
+      "title": "Militia on every objective but one",
+      "feed": [
+        { "phase": "Command", "text": "The Hymns of the Anvil gave Pyracmon Hymn to the Briarean, Enceladan and Cyclopean Ferricants and the Artificer-Captain. Both sides spent 2 CP on a Double Time that bought nothing (Briarean Ferricants, Parish Militia 1). Secondaries kept: STRONGPOINT for the Blaze, IRON GRIP for the Fencibles." },
+        { "phase": "Movement", "text": "Parish Militia 1 (7,6) and 4 (6,6) walked onto the centre, the Alba Highlanders onto the west objective at 2,7, and the Knights followed to 6,5. The Blaze advanced the Briarean Ferricants to 8,8 and the Enceladan Ferricants to 6,8, both inside the centre's area, with the Cyclopean Ferricants (9,10) and T.A.L.O.S Warcolossus (7,10) behind." },
+        { "phase": "Action", "text": "No unit on either side had a legal attack." },
+        { "phase": "Cleanup", "text": "The Fencibles held the centre at OC 20 vs 7 and (1,7) at 5 vs 0 for 5 VP, and IRON GRIP (+2 VP, +1 CP). The Blaze scored 1 VP of BREAK THEIR HOLD and STRONGPOINT (+1 VP, +1 CP), and its Pietas reached Tier II. <strong>2-7.</strong>" }
+      ]
+    },
+    "2": {
+      "title": "The Knights charge the Warcolossus",
+      "feed": [
+        { "phase": "Command", "text": "The Blaze spent 5 CP on a Troop Requisition, a Legionnaire Squad at (7,12), and gave the T.A.L.O.S Warcolossus the Sevenfold Shield Hymn. The Fencibles spent 3 CP on Double Time for the Alba Highlanders. Secondaries: FORWARD DEPLOYMENT and ASSASSINATION." },
+        { "phase": "Movement", "text": "The Knight-Bulwarks and Knight-Constable charged into the centre, engaging the Artificer-Captain, the Briarean and Enceladan Ferricants and the Warcolossus. The Briarean and Enceladan Ferricants fell back in disorder (1 and 2 damage) to 10,9 and 8,10. Four Fencible Overwatch shots at the Warcolossus and three Blaze Overwatch shots all missed. The Highlanders double-timed off the west objective to 3,11 to charge the new Legionnaire Squad; Parish Militia 2 replaced them on (1,7) at 2,6 and the Eire Pathfinders moved onto (13,7) at 12,6." },
+        { "phase": "Action", "text": "The Knight-Bulwarks (3) and the Knight-Constable (5) took 8 of the Warcolossus's 16 HP; its counterattack did 4 to the Knight-Bulwarks and killed one. The Highlanders did 6 to the Legionnaire Squad, three Legionnaires. The Artificer-General's Instrument Calibration and the Captain's Vetustate Conlapsum (1 HP healed) were the Blaze's only other actions; the House of Glass Arcanist channelled 9 Mana." },
+        { "phase": "Cleanup", "text": "The Fencibles held all three objectives, the centre at OC 9 vs 2, (1,7) at 10 vs 0 and (13,7) at 3 vs 0, for 7 VP, and IMPENETRABLE FORTRESS paid 3. The Warcolossus in the centre's area kept BREAK THEIR HOLD at 1. The Blaze's Act of Pietas was blocked by its Fall Backs. <strong>3-17.</strong>" }
+      ]
+    },
+    "3": {
+      "title": "Storm of Bullets takes back the centre",
+      "feed": [
+        { "phase": "Command", "text": "Double Time on both sides: the Legionnaire Squad (bought nothing) and Parish Militia 4 (paid off). Secondaries: OMNIPRESENCE for the Blaze, DEEP REACH for the Fencibles." },
+        { "phase": "Movement", "text": "The Cyclopean Ferricants and Artificer-General charged the Knight-Constable and Knight-Bulwarks at 8,8, and the Knight-Bulwarks fell back in disorder (2 damage) to 8,5. The Highlanders charged the Enceladan Ferricants, which fell back in disorder (1 damage, one model) to 10,9; the Legionnaire Squad fell back in disorder too (2 damage). Parish Militia 3 and 4 came into the centre at 7,6 and 8,6, Parish Militia 1 onto (13,7) at 12,7." },
+        { "phase": "Action", "text": "The Briarean Ferricants' Storm of Bullets (+4.84 expected HP) put 16 damage on Parish Militia 3, and the Warcolossus finished it (4). The Artificer-Captain (4) and Artificer-General (2) shot Parish Militia 4, and Burning took 3 more. The Fencibles' answer was light: the Eire Pathfinders' Spot &amp; Mark MARKED the Warcolossus, the Prydain Field Gun missed it, and the Arcanist's Glamourbane (2 Mana) on the Enceladan Ferricants did nothing." },
+        { "phase": "Cleanup", "text": "The Blaze took the centre at OC 9 vs 6 (3 VP) and BREAK THEIR HOLD paid 3 for flipping it. The Fencibles kept both flanks, (1,7) at 10 vs 0 and (13,7) at 14 vs 0, for 4 VP, plus IMPENETRABLE FORTRESS 3 and DEEP REACH (+3). Pietas was blocked again. <strong>9-27.</strong>" }
+      ]
+    },
+    "4": {
+      "title": "The flanks finish it",
+      "feed": [
+        { "phase": "Command", "text": "The Blaze double-timed the Briarean Ferricants and paid 2 CP for a Rally Cry that passed the Legionnaire Squad's Morale Test; the Fencibles spent 1 CP on Go to Ground for the Knight-Bulwarks. FORWARD DEPLOYMENT expired; new secondaries FORWARD PRESENCE and BAR THE GATES." },
+        { "phase": "Movement", "text": "The Warcolossus and the Cyclopean Ferricants charged the Knight-Constable, Knight-Bulwarks and Parish Militia 4; the Militia fell back to 10,5. The Briarean Ferricants (9,8 to 5,8) and the Legionnaire Squad (2,10) finally turned west, but neither reached the (1,7) objective area." },
+        { "phase": "Action", "text": "The Cyclopean Ferricants did 5 to the Knight-Bulwarks for 3 back, and the Artificer-General destroyed them (1). The Warcolossus did nothing to the Knight-Constable, and the Arcanist's Glamourbane (2 Mana) on it changed nothing. Burning took 3 more off Parish Militia 4." },
+        { "phase": "Cleanup", "text": "The Blaze held the centre at OC 7 vs 3 (3 VP) but contested no Fencible objective, so BREAK THEIR HOLD paid nothing. The Fencibles' flanks, (1,7) at 10 vs 0 and (13,7) at 11 vs 0, took them to 31 and past the 30-VP target; IMPENETRABLE FORTRESS (+3) and BAR THE GATES (+2) made it 36. <strong>12-36.</strong>" }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p>The Fencibles' 36: 20 objective VP, 14 of them from the two flank objectives (the west one held all four rounds, the east one from Round 2), 9 from IMPENETRABLE FORTRESS and 7 from secondaries (IRON GRIP 2, DEEP REACH 3, BAR THE GATES 2; ASSASSINATION open). The Blaze's 12: 6 objective VP from the centre in Rounds 3 and 4, 5 from BREAK THEIR HOLD and 1 from STRONGPOINT. FORWARD DEPLOYMENT expired, and OMNIPRESENCE (2 OC on every objective) and FORWARD PRESENCE never came close, because no Blaze unit ever stood on a flank objective.</p>{{chart:objectives}}<h3>What the units did</h3><p><strong>Fencibles:</strong> Parish Militia 2, a 13-RP unit, led the scoring record (7.2 VP, 55.5 per 100 RP) by sitting on (1,7) from Round 2; Parish Militia 1 (5.4) and the Eire Pathfinders (3.9) did the same on the east. The army's fighting was the Knights' Round 2 charge (8 damage to the Warcolossus) and the Alba Highlanders' 6 on the Legionnaire Squad. After that the Highlanders charged once more (the Enceladan Ferricants fell back) and otherwise sat idle behind the Blaze's line, and the Prydain Field Gun fired once and missed.</p><p><strong>Blaze:</strong> it won the damage race, 44 to 25. The Briarean Ferricants' 16 damage in one Storm of Bullets was the battle's biggest attack, the Warcolossus did 8 and the kill on Parish Militia 3, and the Cyclopean Ferricants (6.3 VP) held the centre at the end. It destroyed 54 RP and lost none.</p>{{chart:attrition}}{{chart:rp-trade}}<h3>The AI and the army</h3><p>The army set the ceiling: six units, two of them leaders joined to squads, against ten cannot hold three objectives, and the Fencibles had more units outside their zone every round for IMPENETRABLE FORTRESS. The AI then kept all six on the centre for four rounds: the Briarean Ferricants and the Legionnaire Squad only moved west in Round 4, too late to reach (1,7). Its CP went mostly into the requisitioned Legionnaire Squad (5 for the Troop Requisition, 2 for a Double Time that bought nothing, 2 for a Rally Cry) for a unit that scored nothing. Its four Fall Backs were sound by the Fall Back record, but each one blocked its Pietas, stuck at Tier II from Round 1. On the Fencibles' side the AI's Highlanders charge took them off a flank for good, an error the Blaze never punished. This is one battle; a 24-VP margin with the loser ahead on damage and RP says this matchup is decided by the objective count, not the fighting.</p>"
+  },
+  "closing_title": "Ground over damage",
+  "closing": "<p>The Blaze of Etna won the fight in the middle and lost the battle on the wings. The Caerfyrddin Fencibles never had to beat the Ferricants: they only had to stand on the two objectives nobody came to take.</p>"
+}

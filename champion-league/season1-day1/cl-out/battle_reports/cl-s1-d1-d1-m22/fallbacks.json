@@ -1,0 +1,2017 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Sepulchre Guard 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 9
+  },
+  "parts": {
+   "stay": 32.23,
+   "fallBack": 5.03,
+   "stayCore": 8.5,
+   "fight": 23.83,
+   "taken": 0.1,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.46,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.1,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 21,
+   "maxHp": 21,
+   "engagers": [
+    {
+     "uid": 40,
+     "name": "Rammal Geomancer",
+     "hp": 16,
+     "dealt": 0,
+     "taken": 10
+    },
+    {
+     "uid": 41,
+     "name": "Muqatila Troopers 3",
+     "hp": 16,
+     "dealt": 0.1,
+     "taken": 6.67
+    }
+   ],
+   "threat": 0.1,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.06
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -1.8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 98.18,
+     "objective_risk": 0.05,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.03,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 114.14,
+     "threats_raw": 0.86
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.43,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 98.23,
+     "objective_risk": 0,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 10.82,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.14,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 115.45,
+     "threats_raw": 0.68
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [
+    "Sepulchre Guard 2"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.1 expected melee damage against 21 HP",
+   "it was winning the fight: 16.67 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.004761904761904762,
+   "threat": 0.1,
+   "hp": 21,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.06,
+   "screen": -2.9400000000000004,
+   "dealing": 16.67,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 41,
+  "name": "Muqatila Troopers 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 8
+  },
+  "test": {
+   "need": 3,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 8
+  },
+  "parts": {
+   "stay": -6.14,
+   "fallBack": 16.61,
+   "stayCore": 1.79,
+   "fight": 1.18,
+   "taken": 8.44,
+   "tieUp": 0,
+   "stayDeathChance": 0.06,
+   "stayDeath": 0.67,
+   "destCore": 1.28,
+   "lostVp": 0,
+   "gainedVp": 4,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 24,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Lazarite Prelate 1",
+     "hp": 21,
+     "dealt": 1.78,
+     "taken": 1
+    },
+    {
+     "uid": 25,
+     "name": "Sepulchre Guard 1",
+     "hp": 21,
+     "dealt": 6.67,
+     "taken": 0.1
+    }
+   ],
+   "threat": 8.45,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.85,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 14.83,
+     "objective_risk": 5.21,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.75,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.18,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.37,
+     "threats_raw": 0.88
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.85,
+     "range": 2.19,
+     "offensive": 1.32,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 31.61,
+     "objective_risk": 0.09,
+     "missive": 1.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 13.01,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.15,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 49.41,
+     "threats_raw": 0.88
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 8.45 expected melee damage against 16 HP",
+   "the square it falls back to takes 2 objective VP",
+   "where it lands, enemy guns expect 1 damage on it"
+  ],
+  "q": {
+   "danger": 0.528125,
+   "threat": 8.45,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 1,
+   "screen": -6.26,
+   "dealing": 1.1,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 39,
+  "name": "Muqatila Troopers 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 12,
+   "maxHp": 26,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Lazarite Prelate 2",
+     "hp": 21,
+     "dealt": 1.78,
+     "taken": 0.58
+    },
+    {
+     "uid": 27,
+     "name": "Sepulchre Guard 2",
+     "hp": 21,
+     "dealt": 7.23,
+     "taken": 0.06
+    }
+   ],
+   "threat": 9.01,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.88,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 30.75,
+     "objective_risk": 31.85,
+     "missive": 4.5,
+     "obj_hold": 0.7,
+     "capture_blocker": 1.31,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.75,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 37.43,
+     "threats_raw": 0.88
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 6,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Sepulchre Guard 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Naqib 2"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held to the end",
+  "why": [
+   "danger 9.01 expected melee damage against 12 HP",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.7508333333333334,
+   "threat": 9.01,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0.6399999999999999,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 43,
+  "name": "Royal Alchemist",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 14,
+   "row": 6
+  },
+  "parts": {
+   "stay": 3.57,
+   "fallBack": 2.02,
+   "stayCore": 3.13,
+   "fight": 0.89,
+   "taken": 0.44,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.13,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.44,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 14,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Jordanite Hospitallers 2",
+     "hp": 9,
+     "dealt": 0.44,
+     "taken": 0.89
+    }
+   ],
+   "threat": 0.44,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.71,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 17.13,
+     "objective_risk": 0.58,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 1.65,
+     "leader_attach": 0,
+     "screen": 5.25,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.66,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 27.65,
+     "threats_raw": 0.67
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.71,
+     "range": 2.08,
+     "offensive": 2.23,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 17.56,
+     "objective_risk": 0.15,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 1.73,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.66,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 27.22,
+     "threats_raw": 0.67
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.44 expected melee damage against 4 HP"
+  ],
+  "q": {
+   "danger": 0.11,
+   "threat": 0.44,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 5.25,
+   "dealing": 0.89,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Jordanite Hospitallers 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 10,
+   "row": 9
+  },
+  "parts": {
+   "stay": 3.94,
+   "fallBack": 3.26,
+   "stayCore": 4.16,
+   "fight": 0.44,
+   "taken": 0.89,
+   "tieUp": 0.22,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.49,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.89,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 9,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 43,
+     "name": "Royal Alchemist",
+     "hp": 4,
+     "dealt": 0.89,
+     "taken": 0.44
+    }
+   ],
+   "threat": 0.89,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.24,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.98,
+     "objective_risk": 0.16,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0.77,
+     "leader_attach": 0,
+     "screen": 7.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.17,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.55,
+     "threats_raw": 1.54
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.16,
+     "objective_risk": 0.06,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0.32,
+     "leader_attach": 0,
+     "screen": 5.99,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.72,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.96,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.89 expected melee damage against 9 HP; its death would score the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 0.09888888888888889,
+   "threat": 0.89,
+   "hp": 9,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.33,
+   "dealing": 0.44,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Sepulchre Guard 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 2,
+   "row": 6
+  },
+  "parts": {
+   "stay": 21.17,
+   "fallBack": 5.59,
+   "stayCore": 7.45,
+   "fight": 14.2,
+   "taken": 0.56,
+   "tieUp": 0.08,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.98,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.06,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 21,
+   "maxHp": 21,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Naqib 2",
+     "hp": 12,
+     "dealt": 0.5,
+     "taken": 3.04
+    },
+    {
+     "uid": 39,
+     "name": "Muqatila Troopers 2",
+     "hp": 12,
+     "dealt": 0.06,
+     "taken": 7.23
+    }
+   ],
+   "threat": 0.56,
+   "shotAt": {
+    "stay": 0.09,
+    "dest": 0.16
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.05,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 311.09,
+     "objective_risk": 0.5,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 15.15,
+     "leader_attach": 0,
+     "screen": 6.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.41,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 339.9,
+     "threats_raw": 1.06
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.69,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 311.56,
+     "objective_risk": 0.03,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 11.83,
+     "leader_attach": 0,
+     "screen": 11.42,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.48,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 342.23,
+     "threats_raw": 0.69
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.56 expected melee damage against 21 HP; its death would score the enemy 1 VP",
+   "it was winning the fight: 10.27 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.02666666666666667,
+   "threat": 0.56,
+   "hp": 21,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.16,
+   "screen": -5.25,
+   "dealing": 10.27,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 37,
+  "name": "Muqatila Troopers 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 4
+  },
+  "test": {
+   "need": 3,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 4
+  },
+  "parts": {
+   "stay": 1.43,
+   "fallBack": 4.86,
+   "stayCore": 5.05,
+   "fight": 5.57,
+   "taken": 8.47,
+   "tieUp": 0,
+   "stayDeathChance": 0.06,
+   "stayDeath": 0.71,
+   "destCore": 5.53,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 26,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Lazarite Prelate 1",
+     "hp": 21,
+     "dealt": 1.78,
+     "taken": 1.16
+    },
+    {
+     "uid": 25,
+     "name": "Sepulchre Guard 1",
+     "hp": 21,
+     "dealt": 6.7,
+     "taken": 0.16
+    }
+   ],
+   "threat": 8.48,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.94,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 226.16,
+     "objective_risk": 12.95,
+     "missive": 4.5,
+     "obj_hold": 0.66,
+     "capture_blocker": 6.5,
+     "leader_attach": 0,
+     "screen": 6.91,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 245.28,
+     "threats_raw": 0.88
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 131.37,
+     "objective_risk": 0.56,
+     "missive": 2.17,
+     "obj_hold": -2.06,
+     "capture_blocker": 6.5,
+     "leader_attach": 0,
+     "screen": 3.83,
+     "safety": 1.5,
+     "obj_drift": 0,
+     "role": 0.87,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 147.51,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 8.48 expected melee damage against 16 HP"
+  ],
+  "q": {
+   "danger": 0.53,
+   "threat": 8.48,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.08,
+   "dealing": 1.3199999999999998,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 46,
+  "name": "Abna al-Dawla Guard",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 6
+  },
+  "test": {
+   "need": 3,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 6
+  },
+  "parts": {
+   "stay": 2.96,
+   "fallBack": 6.63,
+   "stayCore": 6.89,
+   "fight": 1.03,
+   "taken": 4.3,
+   "tieUp": 0,
+   "stayDeathChance": 0.43,
+   "stayDeath": 3.89,
+   "destCore": 6.8,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Lazarite Prelate 1",
+     "hp": 21,
+     "dealt": 0.43,
+     "taken": 3.02
+    },
+    {
+     "uid": 25,
+     "name": "Sepulchre Guard 1",
+     "hp": 21,
+     "dealt": 3.86,
+     "taken": 1.08
+    }
+   ],
+   "threat": 4.29,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.22
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.22,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.45,
+     "objective_risk": 0.75,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 17.64,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.52,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 64.98,
+     "threats_raw": 0.43
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.22,
+     "range": 2.5,
+     "offensive": 2.24,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 37.81,
+     "objective_risk": 0.01,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 12.17,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.42,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 60.42,
+     "threats_raw": 0.43
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Muqatila Troopers 1",
+    "Muqatila Troopers 1"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 4.29 expected melee damage against 6 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 0.22 damage on it"
+  ],
+  "q": {
+   "danger": 0.715,
+   "threat": 4.29,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.22,
+   "screen": 5.470000000000001,
+   "dealing": 4.1,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Jordanite Hospitallers 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 12,
+   "row": 8
+  },
+  "parts": {
+   "stay": 6.36,
+   "fallBack": 6.03,
+   "stayCore": 6.45,
+   "fight": 0.07,
+   "taken": 0.89,
+   "tieUp": 0.06,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.34,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.89,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0.25,
+   "bestDest": {
+    "col": 12,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 9,
+   "engagers": [
+    {
+     "uid": 43,
+     "name": "Royal Alchemist",
+     "hp": 4,
+     "dealt": 0.89,
+     "taken": 0.3
+    }
+   ],
+   "threat": 0.89,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.44
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.34,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.49,
+     "objective_risk": 0.39,
+     "missive": 4.5,
+     "obj_hold": 0.47,
+     "capture_blocker": 0.64,
+     "leader_attach": 0,
+     "screen": 7.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.23,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.23,
+     "threats_raw": 1.23
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.25,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.82,
+     "objective_risk": 0.06,
+     "missive": 4.5,
+     "obj_hold": 0.47,
+     "capture_blocker": 0.31,
+     "leader_attach": 0,
+     "screen": 5.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.14,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 21.08,
+     "threats_raw": 0.88
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.89 expected melee damage against 5 HP; its death would score the enemy 1 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.178,
+   "threat": 0.89,
+   "hp": 5,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0.44,
+   "screen": 2.1500000000000004,
+   "dealing": 0.3,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Sepulchre Guard 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 21,
+   "maxHp": 21,
+   "engagers": [
+    {
+     "uid": 36,
+     "name": "Naqib 1",
+     "hp": 16,
+     "dealt": 0.53,
+     "taken": 3
+    },
+    {
+     "uid": 37,
+     "name": "Muqatila Troopers 1",
+     "hp": 16,
+     "dealt": 0.11,
+     "taken": 6.7
+    }
+   ],
+   "threat": 0.64,
+   "shotAt": {
+    "stay": 0.09,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.65,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 94.89,
+     "objective_risk": 0.54,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 14.3,
+     "leader_attach": 0,
+     "screen": 9.33,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.44,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 126.9,
+     "threats_raw": 1.25
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.64 expected melee damage against 21 HP; its death would score the enemy 1 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 9.7 expected damage dealt",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.030476190476190476,
+   "threat": 0.64,
+   "hp": 21,
+   "killVp": 1,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 9.7,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Soudarion Cortege",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Sepulchre Guard 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 2,
+   "row": 6
+  },
+  "parts": {
+   "stay": 9.08,
+   "fallBack": 7,
+   "stayCore": 7.88,
+   "fight": 1.31,
+   "taken": 0.5,
+   "tieUp": 0.01,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.46,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.5,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 21,
+   "maxHp": 21,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Naqib 2",
+     "hp": 4,
+     "dealt": 0.5,
+     "taken": 2.93
+    }
+   ],
+   "threat": 0.5,
+   "shotAt": {
+    "stay": 0.09,
+    "dest": 0.21
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.21,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 359.45,
+     "objective_risk": 0.47,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 12.63,
+     "leader_attach": 0,
+     "screen": 6.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.36,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 386.5,
+     "threats_raw": 0.77
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.13,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 359.88,
+     "objective_risk": 0.03,
+     "missive": 4.5,
+     "obj_hold": 0.49,
+     "capture_blocker": 12.63,
+     "leader_attach": 0,
+     "screen": 11.42,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.47,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 391.86,
+     "threats_raw": 0.49
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Lazarite Prelate 2"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.5 expected melee damage against 21 HP; its death would score the enemy 1 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 2.93 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.023809523809523808,
+   "threat": 0.5,
+   "hp": 21,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.21,
+   "screen": -5.25,
+   "dealing": 2.93,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 43,
+  "name": "Royal Alchemist",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 13,
+   "row": 4
+  },
+  "parts": {
+   "stay": 3.83,
+   "fallBack": 3.48,
+   "stayCore": 3.68,
+   "fight": 0.22,
+   "taken": 0.3,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.72,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.3,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 13,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Jordanite Hospitallers 2",
+     "hp": 5,
+     "dealt": 0.3,
+     "taken": 0.89
+    }
+   ],
+   "threat": 0.3,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.16,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.69,
+     "objective_risk": 0.52,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 1.57,
+     "leader_attach": 0,
+     "screen": 6.63,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.66,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 33.1,
+     "threats_raw": 0.63
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.3,
+     "range": 2.5,
+     "offensive": 1.28,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 14.1,
+     "objective_risk": 0.1,
+     "missive": 2.17,
+     "obj_hold": -1.65,
+     "capture_blocker": 1.64,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": -0.44,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.8,
+     "threats_raw": 0.58
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.3 expected melee damage against 4 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.075,
+   "threat": 0.3,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 6.63,
+   "dealing": 0.89,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Alembic Brigade",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Naqib 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 4,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Lazarite Prelate 2",
+     "hp": 21,
+     "dealt": 0.15,
+     "taken": 2.97
+    },
+    {
+     "uid": 27,
+     "name": "Sepulchre Guard 2",
+     "hp": 21,
+     "dealt": 2.93,
+     "taken": 0.5
+    }
+   ],
+   "threat": 3.08,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.26,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.5,
+     "objective_risk": 5.37,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0.05,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.29,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.63,
+     "threats_raw": 0.49
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Naqib 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 3.08 expected melee damage against 4 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.77,
+   "threat": 3.08,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 3.47,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

@@ -1,0 +1,147 @@
+{
+ "title": "Summer Rade vs Vigil of Masis",
+ "armies": [
+  {
+   "name": "Summer Rade",
+   "faction": "Grand Duchy of Albion"
+  },
+  {
+   "name": "Vigil of Masis",
+   "faction": "Kingdom of Hayk"
+  }
+ ],
+ "mode_name": "Seize the Ground",
+ "lede": "<p>The Summer Rade beat the Vigil of Masis 31-18 on Victory Points, finishing it in the Action Phase of Battle Round 6 when the Redcap Reivers' kill on the centre completed KING OF THE HILL.</p><p>The Rade won it in the first two rounds: it held all three objectives in both, led 19-2, and the Vigil's comeback in Round 4 (a capped 10 VP round) came too late to catch it.</p>",
+ "result_line": "Summer Rade win 31-18 on Victory Points in Battle Round 6",
+ "deployment": "<p>Central Faceoff on CROSSROADS: the 3 VP centre at (7,7), 2 VP flanks at (1,7) and (13,7). <b>The Summer Rade</b> set up on row 12 around its HQ at (7,13): the Sidhe Druid leading Sidhe Wardens 3 at (3,12), the Wild Hunt Riders at (4,12), the Moonless Veilblades at (5,12), the Redcap Reivers at (8,12), High King Finvarra leading Sidhe Wardens 1 at (9,12), Sidhe Wardens 2 at (10,12) and the Blackflint Archers at (11,12). <b>The Vigil of Masis</b> set up on rows 1 and 2 around its HQ at (7,1): Azat Lancers 2 at (3,1), Pahak Riflemen 3 at (4,2), the Dream-Reader of Tir leading Pahak Riflemen 2 at (5,2), the Reedfire Champion leading the Vishap Harpooners at (7,2), Andranik Ozanian leading Pahak Riflemen 1 at (9,2), Azat Lancers 1 at (11,1) and the Parsawor Grenadiers at (11,2).</p><p>Both sides counted 8 units, joined pairs as one; the Rade won the Roll Off for Priority. The Vigil had four COMMAND units to the Rade's two, 4 CP a round to 2.</p>",
+ "rounds": {
+  "1": {
+   "title": "The Rade takes all three objectives",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Primaries revealed: BLEED THEM WHITE for the Rade, IMPENETRABLE FORTRESS for the Vigil. Secondaries kept: SECURE THE FLANKS and PUSH FORWARD. Archfey of Knock Ma let the Rade roll two dice for the Flow of Magic and keep Tree. VAHAGN'S QUARRY named the Wild Hunt Riders. The Rade's Double Time (2 CP) on Sidhe Wardens 2 bought nothing."
+    },
+    {
+     "phase": "Movement",
+     "text": "The Rade spread across the board: Sidhe Wardens 2 onto the centre at 8,6 and the Wild Hunt Riders beside them at 8,7, Finvarra and Sidhe Wardens 1 onto the right objective at 13,7, the Druid and Sidhe Wardens 3 onto the left at 2,6, the Veilblades to 4,8 and the Archers to 11,8. The Vigil came up to rows 3 to 6, Azat Lancers 2 at 6,6 by the centre and the three Pahak Riflemen squads around it."
+    },
+    {
+     "phase": "Action",
+     "text": "The Blackflint Archers took 6 off Azat Lancers 2 through a Go to Ground (1 CP), a model."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Rade held all three: the centre on OC 15 vs 8, the left on 11 vs 0, the right on 15 vs 0 (7 VP). SECURE THE FLANKS paid 2 and 1 CP through the Druid's pair at 2,6. <b>9-0.</b>"
+    }
+   ]
+  },
+  "2": {
+   "title": "A requisitioned squad runs into the Rade and dies",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The Flow rolled Surge. Secondaries kept: TERRITORIAL SUPERIORITY and IRON GRIP. The Vigil spent 5 CP on Troop Requisition, a fresh Pahak Riflemen at 8,2, and 2 more on Double Time for it."
+    },
+    {
+     "phase": "Movement",
+     "text": "The new Pahak Riflemen ran 8,2 to 12,5 at the right flank; five Overwatch reactions from Finvarra, three Wardens squads and the Wild Hunt Riders took 6 HP, and the Redcap Reivers and Sidhe Wardens 1 charged it. The Archers moved onto the centre at 7,8 under a Go to Ground (1 CP) and lost 2 to Overwatch. The Moonless Veilblades charged the Dream-Reader's pair and Pahak Riflemen 3 at 4,6; both squads fell back and failed the test (1 True Damage each). The Wild Hunt Riders charged the Parsawor Grenadiers at 11,7."
+    },
+    {
+     "phase": "Action",
+     "text": "The Wild Hunt Riders hit the Grenadiers for 6: <b>Parsawor Grenadiers destroyed</b>, 20 RP. The Redcap Reivers, DUAL WIELD doubling their dice, did 14: <b>Pahak Riflemen destroyed</b>, the squad bought that Command Phase. Azat Lancers 1 shot two Redcaps (4). The Archers and two Wardens squads put 10 into Azat Lancers 2, three models. The Dream-Reader channelled 6 Mana and Finvarra 5; the Druid's Feth Fiada (1 Mana under Surge) on the Veilblades bought nothing."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Rade held all three again: the centre on OC 13 vs 2, the left on 11 vs 0, the right on 18 vs 0 (7 VP), and BLEED THEM WHITE paid 3 for two kills and no losses. TERRITORIAL SUPERIORITY completed but paid nothing: the round had reached the 10 VP cap. IMPENETRABLE FORTRESS paid the Vigil 2. <b>19-2.</b>"
+    }
+   ]
+  },
+  "3": {
+   "title": "Trades in the middle, the Rade keeps both flanks",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The Vigil took Priority (7 units to 8). The Rade spent 3 CP on Double Time for the Veilblades, which bought nothing; the Vigil 2 on Double Time for Pahak Riflemen 3 and 2 on a Rally Cry for Azat Lancers 2. Secondaries kept: OBJECTIVE RELAY and FOCUSED FIRE; PUSH FORWARD expired."
+    },
+    {
+     "phase": "Movement",
+     "text": "Pahak Riflemen 3 went to 1,5 and the Veilblades charged it at 2,6. The Redcap Reivers charged Azat Lancers 1 at 11,6; the Lancers fell back to 5,5, failing (1 True Damage). The Wild Hunt Riders moved onto the right objective at 12,7, Sidhe Wardens 1 to 12,6, the Archers off the centre to 9,6; Pahak Riflemen 1 and Andranik came to 7,5. Azat Lancers 2's charge failed."
+    },
+    {
+     "phase": "Action",
+     "text": "The Dream-Reader's Name the Weakness (3 Mana) put SAVE -1 on Sidhe Wardens 2, and Pahak Riflemen 2 shot them dead: <b>Sidhe Wardens 2 destroyed</b>. Finvarra's Beltane Ember (2 Mana) made the Wild Hunt Riders' weapons ABLAZE and +1 AP, and they finished Azat Lancers 2: <b>Azat Lancers 2 destroyed</b>, 30 RP. The Veilblades did 13 to Pahak Riflemen 3, seven models, and lost two of their three. The Reedfire Champion's Name the Quarry moved VAHAGN'S QUARRY to Sidhe Wardens 1 and the Harpooners shot it for 3."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Rade held the left on OC 12 vs 0 and the right on 12 vs 0 (4 VP); nobody was on the centre. One kill each, so BLEED THEM WHITE paid nothing; IMPENETRABLE FORTRESS paid 2. <b>23-4.</b>"
+    }
+   ]
+  },
+  "4": {
+   "title": "The Vigil's 10 VP round",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The Flow rolled Stone. The Rade spent 3 CP on Secure Objective for the Wild Hunt Riders, which bought nothing; the Vigil 2 on Double Time for the Harpooners. Sidhe Wardens 1 failed Morale on a natural 1 and was SUPPRESSED, and so was Pahak Riflemen 3. Secondaries kept: VIGILANT WATCH and INTO THE FRAY."
+    },
+    {
+     "phase": "Movement",
+     "text": "The Archers came back onto the centre at 6,7 and Pahak Riflemen 1 with Andranik charged them at 6,6: INTO THE FRAY +2. The Moonless Veilblades fell back from the SUPPRESSED Pahak Riflemen 3, failed the test and died: <b>Moonless Veilblades destroyed</b>, 30 RP. The Wild Hunt Riders left the right objective for the centre at 7,8, which completed OBJECTIVE RELAY (+2, +1 CP); Sidhe Wardens 1 and Finvarra went to 10,5 and the Redcaps to 8,6, leaving the right objective empty. Azat Lancers 1 and Pahak Riflemen 3 took the left at 0,6 and 0,7."
+    },
+    {
+     "phase": "Action",
+     "text": "Pahak Riflemen 1 cut down the Archers in melee: <b>Blackflint Archers destroyed</b>, 30 RP. Name the Weakness (3 Mana) went on Sidhe Wardens 3; Pahak Riflemen 2 shot four of them and Pahak Riflemen 3 the last: <b>Sidhe Wardens 3 destroyed</b>, and Azat Lancers 1 shot the Druid: <b>Sidhe Druid destroyed</b>. Andranik's Second Watch put VIGIL on the Wild Hunt Riders. Sidhe Wardens 3 took a Lancer (4) before it died."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Vigil took the centre on OC 19 vs 12 and the left on 8 vs 0 (5 VP); IMPENETRABLE FORTRESS 2 and IRON GRIP 1, its second point held back by the 10 VP cap. Four Rade units lost for none. <b>25-14.</b>"
+    }
+   ]
+  },
+  "5": {
+   "title": "The Rade retakes the centre",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The Flow rolled Surge. The Vigil spent 5 CP on a second Troop Requisition (Pahak Riflemen #2 at 7,2); Finvarra's Rally Cry (2 CP) passed the Redcaps' test, and Sidhe Wardens 1 and Pahak Riflemen 3 shed SUPPRESSED on natural 6s. Secondaries kept: COORDINATED PUSH and OMNIPRESENCE."
+    },
+    {
+     "phase": "Movement",
+     "text": "Finvarra and Sidhe Wardens 1 came onto the centre at 8,8 and the Redcaps to 8,7. Azat Lancers 1 stepped to 2,7 on the left; the rest of the Vigil shuffled in its own half."
+    },
+    {
+     "phase": "Action",
+     "text": "The Wild Hunt Riders hit Pahak Riflemen 1 for 8, and Sidhe Wardens 1, Finvarra and BURNED took 4 more, leaving it on 3 HP. Pahak Riflemen 1 and 2 used the VIGIL rerolls on the Wild Hunt Riders for 1 each."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Rade held the centre on OC 13 vs 7 (3 VP); the Vigil the left on 8 vs 0 (2) and IMPENETRABLE FORTRESS 2. <b>28-18.</b>"
+    }
+   ]
+  },
+  "6": {
+   "title": "KING OF THE HILL ends it in the Action Phase",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Both sides bought Secure Objective, the Rade for the Wild Hunt Riders (3 CP) and the Vigil for Azat Lancers 1 (4 CP); neither came to scoring. Sidhe Wardens 1 failed Morale again. Secondaries kept: KING OF THE HILL and PROBING STRIKE."
+    },
+    {
+     "phase": "Movement",
+     "text": "The Redcap Reivers charged Andranik and Pahak Riflemen 1 at 6,7, inside the centre's Objective Area; the Reedfire Champion and the Harpooners charged the Wild Hunt Riders at 8,7."
+    },
+    {
+     "phase": "Action",
+     "text": "The Redcaps killed the last of Pahak Riflemen 1: <b>Pahak Riflemen 1 destroyed</b>, and KING OF THE HILL paid 3 for a kill from an Objective Area, taking the Rade to 31. The Reedfire Champion still struck the Wild Hunt Riders for 4, two models, before the battle closed. <b>31-18.</b>"
+    }
+   ]
+  }
+ },
+ "analysis": {
+  "title": "Why it went this way",
+  "html": "<h3>Where the VP came from</h3><p><b>The Summer Rade</b> scored 21 VP from objectives, 3 from BLEED THEM WHITE and 7 from secondaries (SECURE THE FLANKS 2, OBJECTIVE RELAY 2, KING OF THE HILL 3); TERRITORIAL SUPERIORITY's 3 were held back by the round cap in Round 2. <b>The Vigil of Masis</b> scored 7 from objectives, 8 from IMPENETRABLE FORTRESS (2 a round from Round 2) and 3 from secondaries (INTO THE FRAY 2, IRON GRIP 1). Fourteen of the Rade's objective VP came in Rounds 1 and 2, when it held all three objectives; after that the two sides scored objectives 7-7.</p>{{chart:objectives}}<h3>What the key units did</h3><p>The <b>Redcap Reivers</b> scored 7.9 VP and made the two kills that bracket the battle: the requisitioned Pahak Riflemen in Round 2 and Pahak Riflemen 1 for KING OF THE HILL in Round 6. The <b>Wild Hunt Riders</b> did the most damage (22) and destroyed the Parsawor Grenadiers and Azat Lancers 2. <b>Sidhe Wardens 2</b> held the centre for the first two rounds (4.5 VP). For the Vigil, <b>Azat Lancers 1</b> (6.5 VP) and <b>Pahak Riflemen 1</b> (6.2) took the left and the centre back in Round 4, and Pahak Riflemen 2 and 3 shot down two Wardens squads after Name the Weakness. The Rade lost more than it destroyed, 112 RP to 85, and still won: its points were banked early.</p>{{chart:attrition}}<h3>What the Vigil could not do</h3><p>It could not reach the objectives in the first two rounds: its units came up to rows 3 to 6 while the Rade's faster Sidhe took all three, and by the time its rifles and Lancers had killed four Rade units in Round 4 it was 25-14 down. Its four COMMAND units gave it 25 CP to the Rade's 14, but 10 went on two Troop Requisitions, and the first of them died in the round it arrived.</p>{{chart:rp-trade}}<h3>The AI, not the army</h3><ul><li><b>Round 2, Troop Requisition plus Double Time</b> (7 CP) sent the new Pahak Riflemen from 8,2 to 12,5, into five Overwatch reactions and two charges; it was destroyed that round, and its loss and the Grenadiers' paid BLEED THEM WHITE 3.</li><li><b>Round 4, the Rade left the right objective empty.</b> It had held it on OC 12 vs 0, with no Vigil unit near; the Wild Hunt Riders moved to the centre for OBJECTIVE RELAY (+2) and Sidhe Wardens 1 and the Redcaps followed. Nobody scored the right in Rounds 4 and 5, 4 VP the Rade did not take, and it needed until Round 6 to reach 30.</li><li><b>Round 4, the Moonless Veilblades</b> fell back from a fight they were winning, against 0.21 expected melee damage (the Fall Back record rates it doubtful), failed the test and died.</li><li><b>Double Time bought nothing for the Rade twice</b> (Sidhe Wardens 2 in Round 1, the Veilblades for 3 CP in Round 3), and its Secure Objectives in Rounds 4 and 6 bought nothing.</li></ul><p>The result is the Rade's speed more than the AI: it held every objective while the Vigil was still advancing, and the AI's two costly calls (the Vigil's requisition run, the Rade's empty flank) roughly cancel.</p><h3>Against the first playing</h3><p>The Rade also won the first playing, 43-19 in Round 6, with a 14 VP last round. This time the 10 VP round cap held back 3 VP in Round 2, and the Rade's Primary paid 3, not 7: it destroyed four units for five lost, where the first playing destroyed seven for two. The Vigil's best round was 10 VP (Round 4, capped); in the first playing it was 8. Finvarra (60 RP) and Andranik Ozanian (45 RP) each cost 10 less; the presets were topped up, the Wild Hunt Riders, Sidhe Wardens 1 and Pahak Riflemen 2 and 3 each costing 5 more.</p>"
+ },
+ "closing_title": "Banked early",
+ "closing": "<p>Two rounds of every objective gave the Summer Rade a 17-point cushion. The Vigil out-traded it from Round 3 on and had the round of the battle in Round 4, but the Rade only needed five more points and the Redcap Reivers found the last three on the centre.</p>"
+}

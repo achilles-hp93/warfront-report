@@ -1,0 +1,55 @@
+{
+  "title": "Scorpion Shields vs Miserere Column",
+  "armies": [
+    { "name": "Scorpion Shields", "faction": "Iron Imperium" },
+    { "name": "Miserere Column", "faction": "Covenant of New Jerusalem" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Miserere Column beat Scorpion Shields 34-13 on Victory Points in Battle Round 4 without losing a single unit. The turn came in Round 2, when a 3 CP Countercharge sent the Golgothic Paladins into Praetorian Tribune 1 and Praetorian Strikers 1 and destroyed both; from Round 3 Miserere Column held all three objectives.",
+  "result_line": "Miserere Column win 34-13 on Victory Points in Battle Round 4",
+  "deployment": "<p>Scorpion Shields (Player A, initiative, south edge, 250 RP) is two Praetorian Tribunes and five elite three-model squads: Praetorian Tribune 1 leading Praetorian Strikers 1 at (10,12), Praetorian Tribune 2 leading Praetorian Gunners 1 at (6,12), Praetorian Strikers 2 at (3,12), Praetorian Gunners 2 at (5,12) and the Praetorian Fireteam at (11,12). Miserere Column (Player B, north edge, 246 RP) brought Cain - The First Penitent with a Knight-Apostle Squad at (9,2), the Golgothic Paladins at (11,2), Jordanite Hospitallers, and five Covenant Levies, the first led by a Cantor-Preceptor.</p><p>Ten units against seven on three objectives. Scorpion Shields' Primary, BREAK THEIR HOLD, pays for standing in objectives the enemy holds; Miserere Column's LEAD FROM THE FRONT pays for Cain or the Cantor-Preceptor in an Objective Area or the enemy half, and its Levies could cover all three objectives at once.</p>",
+  "rounds": {
+    "1": {
+      "title": "Scorpion Shields win the opening exchange",
+      "feed": [
+        { "phase": "Command", "text": "Scorpion Shields put all 5 of its CP into Troop Requisition: a Legionnaire Squad at (7,12). Miserere Column's Double Time (2 CP) on Covenant Levies 3 bought nothing. Scorpion Shields kept FOCUSED FIRE, Miserere Column DEEP REACH." },
+        { "phase": "Movement", "text": "The requisitioned Legionnaire Squad walked straight into the centre at (6,7), with Praetorian Strikers 1 and Praetorian Tribune 1 beside it at (8,8). Praetorian Strikers 2 reached the west objective at (2,8), the Praetorian Fireteam the east at (12,8). Miserere Column advanced along its whole line: Covenant Levies 5 to the east objective at (13,6), Cain and the Knight-Apostle Squad to (9,6), the Golgothic Paladins to (8,5)." },
+        { "phase": "Action", "text": "The Knight-Apostle Squad shot Praetorian Strikers 1 for 6 (Providence worth 3.75 expected HP on it), killing two Strikers. Praetorian Gunners 1 hit the Jordanite Hospitallers for 3." },
+        { "phase": "Cleanup", "text": "Scorpion Shields held the centre on OC 14 against 10 (3) and the west (2), and BREAK THEIR HOLD paid 1 for the Fireteam in the east Objective Area Miserere Column held: 6. Miserere Column held the east on OC 10 against 6 and completed DEEP REACH (3): 5." }
+      ]
+    },
+    "2": {
+      "title": "The Countercharge kills the Marshal",
+      "feed": [
+        { "phase": "Command", "text": "Scorpion Shields gave Praetorian Gunners 2 Double Time (2 CP). Scorpion Shields kept FORWARD PRESENCE, Miserere Column OMNIPRESENCE." },
+        { "phase": "Movement", "text": "Praetorian Strikers 1 declared a charge, and Miserere Column answered with a Countercharge from the HQ (3 CP): the Golgothic Paladins charged them first at (7,7) and Praetorian Strikers 1's charge was canceled. Cain and the Knight-Apostle Squad charged into the centre at (7,6), and the Legionnaire Squad broke away in disorder (2 HP) to (5,10), leaving the centre. On the west, Praetorian Strikers 2 charged Covenant Levies 3 at (0,7)." },
+        { "phase": "Action", "text": "The Golgothic Paladins, with Agnus Dei (6 Mana) cast on them, destroyed Praetorian Tribune 1 (6) and Praetorian Strikers 1 (3) in one attack, then moved on to (8,8). Praetorian Strikers 2 cut 16 off Covenant Levies 3. The Fireteam shot Covenant Levies 5 for 6 through Fortitude. Both Praetorian Gunners switched to Marksman Mode (FR -1 for PRECISION), which the record prices at -3.1 expected HP for their own side." },
+        { "phase": "Cleanup", "text": "Miserere Column took the centre on OC 17 against 0 (3) and kept the east (2), with LEAD FROM THE FRONT 2 and OMNIPRESENCE 3 (its fourth VP withheld by the cap): 10 for 15. Scorpion Shields kept the west (2) and BREAK THEIR HOLD 1: 3 for 9." }
+      ]
+    },
+    "3": {
+      "title": "Every objective goes to the Column",
+      "feed": [
+        { "phase": "Command", "text": "Scorpion Shields gave Praetorian Gunners 2 Double Time again (2 CP). Miserere Column's Double Time (2 CP) on the Golgothic Paladins bought nothing; a 2 CP Rally Cry later held Covenant Levies 4. Scorpion Shields kept LAST STAND, Miserere Column COORDINATED PUSH." },
+        { "phase": "Movement", "text": "Eight Miserere Column units moved toward the enemy HQ, completing COORDINATED PUSH (+2 VP, +1 CP). Covenant Levies 2 walked onto the west objective at (2,7) and Covenant Levies 1 with the Cantor-Preceptor joined Covenant Levies 5 on the east. The Golgothic Paladins charged Praetorian Gunners 2 at (8,9) and Cain with the Knight-Apostle Squad charged the Fireteam at (8,7)." },
+        { "phase": "Action", "text": "Praetorian Gunners 1 used Raking Bursts on Covenant Levies 4 (8 HP and LEADERLESS). The Knight-Apostle Squad did 7 to the Fireteam and the Golgothic Paladins 3 to Praetorian Gunners 2, whose own Raking Bursts on the Paladins did nothing. Covenant Levies 4 shot Praetorian Gunners 1 for 3. The Cantor-Preceptor's Sanctus (3 Mana) on Covenant Levies 5 bought nothing." },
+        { "phase": "Cleanup", "text": "Miserere Column held all three objectives (west on OC 10 against 6, east on OC 18 against 0) for 7, with COORDINATED PUSH 2 and LEAD FROM THE FRONT 1 (2 more withheld by the cap): 10 for 25. Scorpion Shields' BREAK THEIR HOLD paid 2 for 11." }
+      ]
+    },
+    "4": {
+      "title": "Three more Praetorian units go",
+      "feed": [
+        { "phase": "Command", "text": "Miserere Column's Secure Objective (4 CP) on Covenant Levies 2 bought nothing. Scorpion Shields paid 2 CP for a Rally Cry for Praetorian Gunners 1 and kept PUSH FORWARD." },
+        { "phase": "Movement", "text": "The Golgothic Paladins charged at (7,8), the Jordanite Hospitallers into the centre at (7,7), and Cain and the Knight-Apostle Squad swept to (5,7). Praetorian Gunners 2 and the Legionnaire Squad both fell back; the Fireteam, on 1 HP, was destroyed breaking away. Praetorian Strikers 2 charged Covenant Levies 2, which broke away in disorder to (0,8)." },
+        { "phase": "Action", "text": "Praetorian Gunners 1's Raking Bursts took 1 off the Golgothic Paladins. Praetorian Tribune 2 attacked the Paladins and the counterattack destroyed Praetorian Gunners 1 (3). The Knight-Apostle Squad caught the Legionnaire Squad and destroyed it (8); Cain's attack on Praetorian Tribune 2 did nothing." },
+        { "phase": "Cleanup", "text": "Miserere Column held all three again (7) with LEAD FROM THE FRONT 2: 9 for 34. Scorpion Shields scored BREAK THEIR HOLD 2 for 13, and finished having destroyed no enemy unit." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p>Miserere Column's 34: objectives 21 (all three objectives in Rounds 3 and 4), secondaries 8 (DEEP REACH 3, OMNIPRESENCE 3, COORDINATED PUSH 2) and LEAD FROM THE FRONT 5. The cap withheld 3 VP from it over Rounds 2 and 3. Scorpion Shields' 13: objectives 7 (the centre and west in Round 1, the west in Round 2) and BREAK THEIR HOLD 6. It completed none of its four secondaries: FOCUSED FIRE expired, and FORWARD PRESENCE, LAST STAND and PUSH FORWARD were still open when the battle ended.</p>{{chart:objectives}}<h3>What the key units did</h3><p>The <b>Golgothic Paladins</b> (60 RP) were the decisive unit: 15 damage and three kills, Praetorian Tribune 1 and Praetorian Strikers 1 off the Round 2 Countercharge and Praetorian Gunners 1 off a Round 4 counterattack. The <b>Knight-Apostle Squad</b> with Cain did the most damage (21) and destroyed the Legionnaire Squad. The Levies did the scoring: <b>Covenant Levies 5</b> (10 RP) held the east for all four rounds and scored 8.4 VP, 84.3 per 100 RP; Covenant Levies 2 held the west in Rounds 3 and 4.</p><p>For Scorpion Shields, <b>Praetorian Strikers 2</b> was the only unit that did much: 16 damage, all of it into Covenant Levies 3 in Round 2, and 6.0 VP from the west objective and BREAK THEIR HOLD. Its army dealt 37 damage in four rounds, destroyed nothing, and lost five units worth 170 RP.</p>{{chart:rp-trade}}<h3>The army or the AI?</h3><p>Partly the army: seven units, five of them three-model squads, cannot cover three objectives against ten, and Miserere Column's cheap Levies took hits and held ground the Praetorians could not shift (Covenant Levies 3 survived 16 damage in one melee). But the AI handed over a lot. The Round 1 Troop Requisition spent all 5 CP on a Legionnaire Squad that held the centre for one round, fell back from it in Round 2 and was destroyed in Round 4. Praetorian Strikers 1's Round 2 charge ran into a Countercharge from a unit three times its RP. Marksman Mode on both Praetorian Gunners cost their own side 3.1 expected HP over 12 attacks for no gain, and Praetorian Tribune 2 was idle in three rounds (its best action, Bane of Usurper, scored 0). In Round 4, with nothing left to save, Scorpion Shields fell back with three units; the Fireteam died breaking away and the Legionnaire Squad was caught anyway.</p><p>Miserere Column's misses were cheap by comparison: Double Time in Rounds 1 and 3 and a 4 CP Secure Objective in Round 4 bought nothing, and Covenant Levies 1 spent four rounds idle beside the Cantor-Preceptor.</p>{{chart:attrition}}<h3>Against the first playing</h3><p>The first playing was the closest battle of this group: Miserere Column 31-28 in Round 6. There Scorpion Shields spent Round 1 on a Double Time, kept CP back, and led 11-6 after Round 2 (Praetorian Strikers 1 destroyed Covenant Levies 3 that round). This time it spent its Round 1 CP on the Legionnaire Squad, and in Round 2 the Golgothic Paladins' Countercharge took out its Marshal pair before it struck. Miserere Column led 15-9 after Round 2 and never looked back. Its preset gained a fifth Covenant Levies (the one that held the east all battle) and Cain fell to 65 RP (was 75); the round cap held back 3 of its VP.</p>"
+  },
+  "closing_title": "No kills, no ground",
+  "closing": "<p>Scorpion Shields won Round 1 and then lost every exchange that mattered. A single 3 CP Countercharge removed its Marshal and best melee squad, and Miserere Column's Levies did the rest by standing still. An elite army that destroys nothing in four rounds cannot win a map with three objectives.</p>"
+}

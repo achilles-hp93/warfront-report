@@ -1,0 +1,2916 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 44,
+  "name": "Cultist Troopers",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 10,
+   "row": 6
+  },
+  "test": {
+   "need": 4,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 10,
+   "row": 6
+  },
+  "parts": {
+   "stay": -16.94,
+   "fallBack": -11.73,
+   "stayCore": 6.32,
+   "fight": 0.74,
+   "taken": 24.88,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 5.27,
+   "lostVp": 4,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Legatus",
+     "hp": 18,
+     "dealt": 7.78,
+     "taken": 0.56
+    },
+    {
+     "uid": 23,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 18,
+     "dealt": 17.1,
+     "taken": 0.19
+    }
+   ],
+   "threat": 24.88,
+   "shotAt": {
+    "stay": 0,
+    "dest": 16.5
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.14,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 116.95,
+     "objective_risk": 97.26,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 4.46,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.16,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 128.12,
+     "threats_raw": 1.52
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.6,
+     "range": 1.88,
+     "offensive": 5.87,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 119.58,
+     "objective_risk": 1.1,
+     "missive": 2.17,
+     "obj_hold": -1.22,
+     "capture_blocker": 4.68,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.1,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 134.26,
+     "threats_raw": 1.52
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 24.88 expected melee damage against 20 HP",
+   "it held 2 objective VP that leaving gives up",
+   "where it lands, enemy guns expect 16.5 damage on it"
+  ],
+  "q": {
+   "danger": 1.244,
+   "threat": 24.88,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 16.5,
+   "screen": 0,
+   "dealing": 0.75,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 37,
+  "name": "Cultist Troopers 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 8
+  },
+  "test": {
+   "need": 3,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 8
+  },
+  "parts": {
+   "stay": -4.99,
+   "fallBack": 7.59,
+   "stayCore": 4.95,
+   "fight": 0.06,
+   "taken": 6,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 8.25,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Ironthunder Vanguard 2",
+     "hp": 12,
+     "dealt": 6,
+     "taken": 0.06
+    }
+   ],
+   "threat": 6,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -1.2,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 9.28,
+     "objective_risk": 2.91,
+     "missive": 1.37,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.06,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.98,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.28,
+     "threats_raw": 1.15
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.34,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.31,
+     "objective_risk": 0.19,
+     "missive": 3.29,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.25,
+     "safety": 2.94,
+     "obj_drift": -2.2,
+     "role": 0.82,
+     "posture": 1.2,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 21.95,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 6 expected melee damage against 6 HP"
+  ],
+  "q": {
+   "danger": 1,
+   "threat": 6,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.1900000000000004,
+   "dealing": 0.06,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Legio XIII",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Ironthunder Vanguard 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 8
+  },
+  "parts": {
+   "stay": 22.4,
+   "fallBack": 4.61,
+   "stayCore": 5.21,
+   "fight": 17,
+   "taken": 0.19,
+   "tieUp": 0.37,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.13,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.19,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 7,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Cultist Troopers 4",
+     "hp": 20,
+     "dealt": 0.19,
+     "taken": 15
+    }
+   ],
+   "threat": 0.19,
+   "shotAt": {
+    "stay": 5.89,
+    "dest": 6.63
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.21,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 109.25,
+     "objective_risk": 2.33,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 31.69,
+     "leader_attach": 0,
+     "screen": 9.31,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.19,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 155.3,
+     "threats_raw": 1.44
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.83,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 110.47,
+     "objective_risk": 1.12,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 22.71,
+     "leader_attach": 0,
+     "screen": 10.5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.1,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 149.03,
+     "threats_raw": 1.19
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.19 expected melee damage against 12 HP",
+   "it was winning the fight: 15 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.015833333333333335,
+   "threat": 0.19,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 6.63,
+   "screen": -1.1899999999999995,
+   "dealing": 15,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 42,
+  "name": "Cultist Troopers 4",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 6
+  },
+  "test": {
+   "need": 3,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 6
+  },
+  "parts": {
+   "stay": -10.5,
+   "fallBack": 12.03,
+   "stayCore": 6.32,
+   "fight": 0.19,
+   "taken": 15,
+   "tieUp": 0,
+   "stayDeathChance": 0.5,
+   "stayDeath": 2,
+   "destCore": 5.7,
+   "lostVp": 0,
+   "gainedVp": 6,
+   "followed": 15,
+   "fallBackDeathChance": 0.5,
+   "fallBackDeath": 2,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Ironthunder Vanguard 2",
+     "hp": 12,
+     "dealt": 15,
+     "taken": 0.19
+    }
+   ],
+   "threat": 15,
+   "shotAt": {
+    "stay": 0,
+    "dest": 10.56
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": false,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -1.55,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.6,
+     "objective_risk": 3.59,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.41,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.07,
+     "threats_raw": 1.47
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.55,
+     "range": 2.03,
+     "offensive": 4.38,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.84,
+     "objective_risk": 0.14,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.15,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 31.29,
+     "threats_raw": 1.47
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 15 expected melee damage against 20 HP",
+   "the square it falls back to takes 3 objective VP",
+   "where it lands, enemy guns expect 10.56 damage on it"
+  ],
+  "q": {
+   "danger": 0.75,
+   "threat": 15,
+   "hp": 20,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 3,
+   "opensFire": 0,
+   "shotAfter": 10.56,
+   "screen": 3.8100000000000005,
+   "dealing": 0.19,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Legio XIII",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Ironthunder Vanguard 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 7,
+   "row": 9
+  },
+  "parts": {
+   "stay": 23.7,
+   "fallBack": 2.45,
+   "stayCore": 4.97,
+   "fight": 18.73,
+   "taken": 0.17,
+   "tieUp": 0.17,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.95,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.17,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 7,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 42,
+     "name": "Cultist Troopers 4",
+     "hp": 17,
+     "dealt": 0.17,
+     "taken": 15.46
+    }
+   ],
+   "threat": 0.17,
+   "shotAt": {
+    "stay": 3.09,
+    "dest": 3.14
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.25,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 29.81,
+     "objective_risk": 0.19,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 28.2,
+     "leader_attach": 0,
+     "screen": 13.62,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.06,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 76.24,
+     "threats_raw": 1.07
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.94,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 26.81,
+     "objective_risk": 0.08,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 28.2,
+     "leader_attach": 0,
+     "screen": 8.94,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.89,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 65.75,
+     "threats_raw": 0.93
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.17 expected melee damage against 12 HP",
+   "it was winning the fight: 15.46 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 0.014166666666666668,
+   "threat": 0.17,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 3.14,
+   "screen": 4.68,
+   "dealing": 15.46,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 42,
+  "name": "Cultist Troopers 4",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 5
+  },
+  "test": {
+   "need": 3,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 5
+  },
+  "parts": {
+   "stay": -13.96,
+   "fallBack": -2.54,
+   "stayCore": 4.61,
+   "fight": 0.17,
+   "taken": 15.46,
+   "tieUp": 0,
+   "stayDeathChance": 0.82,
+   "stayDeath": 3.27,
+   "destCore": 5.85,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 7.73,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 17,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Ironthunder Vanguard 2",
+     "hp": 12,
+     "dealt": 15.46,
+     "taken": 0.17
+    }
+   ],
+   "threat": 15.46,
+   "shotAt": {
+    "stay": 0,
+    "dest": 17.31
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.17,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.49,
+     "objective_risk": 4.37,
+     "missive": 3,
+     "obj_hold": 0.39,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.98,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.82,
+     "threats_raw": 1.57
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -1.38,
+     "range": 1.88,
+     "offensive": 4.3,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.41,
+     "objective_risk": 0.09,
+     "missive": 3,
+     "obj_hold": -0.48,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.42,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.39,
+     "threats_raw": 1.57
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 15.46 expected melee damage against 17 HP",
+   "where it lands, enemy guns expect 17.31 damage on it"
+  ],
+  "q": {
+   "danger": 0.9094117647058824,
+   "threat": 15.46,
+   "hp": 17,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 17.31,
+   "screen": -0.07999999999999996,
+   "dealing": 0.17,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Legio XIII",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Fulminator Squad",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 8
+  },
+  "parts": {
+   "stay": 6.93,
+   "fallBack": 6.53,
+   "stayCore": 6.9,
+   "fight": 0.36,
+   "taken": 1.33,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.7,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Forsaken",
+     "hp": 8,
+     "dealt": 1.33,
+     "taken": 1.46
+    }
+   ],
+   "threat": 1.33,
+   "shotAt": {
+    "stay": 1.81,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.46,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 30.77,
+     "objective_risk": 1.48,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.69,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.46,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 42.36,
+     "threats_raw": 0.88
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.46,
+     "range": 0.83,
+     "offensive": 1.48,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 31.81,
+     "objective_risk": 0.44,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.56,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 45.14,
+     "threats_raw": 0.88
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.33 expected melee damage against 5 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.266,
+   "threat": 1.33,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0.3700000000000001,
+   "dealing": 1.46,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 41,
+  "name": "Cultist Troopers 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 7,
+   "row": 7
+  },
+  "test": {
+   "need": 4,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 7,
+   "row": 7
+  },
+  "parts": {
+   "stay": 5.28,
+   "fallBack": 5.98,
+   "stayCore": 6.76,
+   "fight": 0.02,
+   "taken": 4,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 1,
+   "destCore": 6.56,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.58,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 7,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Legatus",
+     "hp": 17,
+     "dealt": 2,
+     "taken": 0.06
+    },
+    {
+     "uid": 23,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 17,
+     "dealt": 2,
+     "taken": 0.02
+    }
+   ],
+   "threat": 4,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.98
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": null
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.19,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.53,
+     "objective_risk": 3.56,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.84,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.64,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 12.13,
+     "threats_raw": 0.71
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.19,
+     "range": 2.19,
+     "offensive": 0.44,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.45,
+     "objective_risk": 0.27,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.29,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.65,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 15.93,
+     "threats_raw": 0.71
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 4 expected melee damage against 2 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 2.98 damage on it"
+  ],
+  "q": {
+   "danger": 2,
+   "threat": 4,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.98,
+   "screen": 2.55,
+   "dealing": 0.08,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Rapacious Crusader 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 8,
+   "row": 10
+  },
+  "test": {
+   "need": 4,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 10
+  },
+  "parts": {
+   "stay": 3.88,
+   "fallBack": 6.22,
+   "stayCore": 7.41,
+   "fight": 0.23,
+   "taken": 19.01,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 1,
+   "destCore": 6.81,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.58,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Legatus",
+     "hp": 17,
+     "dealt": 8.24,
+     "taken": 0.06
+    },
+    {
+     "uid": 23,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 17,
+     "dealt": 10.77,
+     "taken": 0.02
+    }
+   ],
+   "threat": 19.01,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.67
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.37,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 47.8,
+     "objective_risk": 103.99,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 6.47,
+     "leader_attach": 0,
+     "screen": 2.8,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.48,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 64.76,
+     "threats_raw": 0.99
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.52,
+     "range": 2.5,
+     "offensive": 5.16,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 49.99,
+     "objective_risk": 37.49,
+     "missive": 2.17,
+     "obj_hold": -0.91,
+     "capture_blocker": 6.47,
+     "leader_attach": 0,
+     "screen": 2.97,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.56,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 71.2,
+     "threats_raw": 0.99
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 19.01 expected melee damage against 11 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 2.67 damage on it"
+  ],
+  "q": {
+   "danger": 1.7281818181818183,
+   "threat": 19.01,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.67,
+   "screen": -0.17000000000000037,
+   "dealing": 0.08,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Legio XIII",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Earthshaker Mortar",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 12
+  },
+  "parts": {
+   "stay": 7.04,
+   "fallBack": 1.1,
+   "stayCore": 7.42,
+   "fight": 0.04,
+   "taken": 1.67,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 1.52,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 12
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Forsaken",
+     "hp": 8,
+     "dealt": 1.67,
+     "taken": 0.16
+    }
+   ],
+   "threat": 1.67,
+   "shotAt": {
+    "stay": 4.09,
+    "dest": 4.09
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.65,
+     "range": 1.75,
+     "offensive": 3.93,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.47,
+     "objective_risk": 1.17,
+     "missive": 0.62,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.08,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.76,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 22.97,
+     "threats_raw": 1.23
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.65,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.14,
+     "objective_risk": 0.5,
+     "missive": 0.62,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.54,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 16.56,
+     "threats_raw": 1.23
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.67 expected melee damage against 6 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.2783333333333333,
+   "threat": 1.67,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 4.09,
+   "screen": 0.08000000000000007,
+   "dealing": 0.16,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Forsaken",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 1,
+   "row": 10
+  },
+  "parts": {
+   "stay": 7.03,
+   "fallBack": 5.04,
+   "stayCore": 6.39,
+   "fight": 0.75,
+   "taken": 1.62,
+   "tieUp": 0.29,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.46,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.02,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 1,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Fulminator Squad",
+     "hp": 5,
+     "dealt": 1.46,
+     "taken": 1.33
+    },
+    {
+     "uid": 27,
+     "name": "Earthshaker Mortar",
+     "hp": 6,
+     "dealt": 0.16,
+     "taken": 1.67
+    }
+   ],
+   "threat": 1.62,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.61
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.55,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.4,
+     "objective_risk": 1.1,
+     "missive": 1.21,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 8.06,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.54,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.47,
+     "threats_raw": 2.09
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.23,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.7,
+     "objective_risk": 0.02,
+     "missive": 1.05,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -2.2,
+     "role": 1.17,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.89,
+     "threats_raw": 0.89
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers #3"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.62 expected melee damage against 8 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.2025,
+   "threat": 1.62,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.61,
+   "screen": 8.06,
+   "dealing": 3,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 39,
+  "name": "Rapacious Crusader 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 1,
+   "row": 8
+  },
+  "test": {
+   "need": 3,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 8
+  },
+  "parts": {
+   "stay": 4.32,
+   "fallBack": 6.92,
+   "stayCore": 7.31,
+   "fight": 0.02,
+   "taken": 9.61,
+   "tieUp": 0,
+   "stayDeathChance": 0.6,
+   "stayDeath": 0.6,
+   "destCore": 7.08,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.17,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 1,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Ironthunder Vanguard 2",
+     "hp": 9,
+     "dealt": 9.61,
+     "taken": 0.06
+    }
+   ],
+   "threat": 9.61,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.5
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.52,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.37,
+     "objective_risk": 8.32,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.13,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.53,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.82,
+     "threats_raw": 1
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.52,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 14.71,
+     "objective_risk": 0.28,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.44,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.51,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 28.74,
+     "threats_raw": 1
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 5,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 9.61 expected melee damage against 12 HP",
+   "Player A and B began the round within 10 VP of the 30 VP target, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 0.5 damage on it"
+  ],
+  "q": {
+   "danger": 0.8008333333333333,
+   "threat": 9.61,
+   "hp": 12,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.5,
+   "screen": -0.3100000000000005,
+   "dealing": 0.06,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Legio XIII",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 30,
+  "name": "Augur",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 5
+  },
+  "test": {
+   "need": 4,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 5
+  },
+  "parts": {
+   "stay": 2.44,
+   "fallBack": 3.94,
+   "stayCore": 2.33,
+   "fight": 0.05,
+   "taken": 0.54,
+   "tieUp": 0.2,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.53,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.58,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 4,
+   "engagers": [
+    {
+     "uid": 46,
+     "name": "Cultist Troopers #3",
+     "hp": 10,
+     "dealt": 0.54,
+     "taken": 0.19
+    }
+   ],
+   "threat": 0.54,
+   "shotAt": {
+    "stay": 1.39,
+    "dest": 1.39
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.75,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 31.17,
+     "objective_risk": 17.58,
+     "missive": 2.08,
+     "obj_hold": 0,
+     "capture_blocker": 0.82,
+     "leader_attach": 0.18,
+     "screen": 5.91,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.06,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.07,
+     "threats_raw": 1.44
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.64,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.19,
+     "objective_risk": 6.71,
+     "missive": 2.08,
+     "obj_hold": 0,
+     "capture_blocker": 0.38,
+     "leader_attach": 0.05,
+     "screen": 8.27,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.08,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 33.31,
+     "threats_raw": 1.22
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Cultist Troopers 4",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 0.54 expected melee damage against 2 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 1.39 damage on it"
+  ],
+  "q": {
+   "danger": 0.27,
+   "threat": 0.54,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.39,
+   "screen": -2.3599999999999994,
+   "dealing": 0.19,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 39,
+  "name": "Rapacious Crusader 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 0,
+   "row": 8
+  },
+  "test": {
+   "need": 3,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 0,
+   "row": 8
+  },
+  "parts": {
+   "stay": 4.61,
+   "fallBack": 6.41,
+   "stayCore": 7.06,
+   "fight": 0.01,
+   "taken": 6.46,
+   "tieUp": 0,
+   "stayDeathChance": 0.85,
+   "stayDeath": 0.85,
+   "destCore": 6.82,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 12,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Ironthunder Vanguard 2",
+     "hp": 9,
+     "dealt": 6.46,
+     "taken": 0.02
+    }
+   ],
+   "threat": 6.46,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.25
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.23,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.53,
+     "objective_risk": 7.69,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 0.99,
+     "leader_attach": 0,
+     "screen": 3,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.99,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.85,
+     "threats_raw": 0.6
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.23,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 10.36,
+     "objective_risk": 0.86,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 1.03,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.95,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.98,
+     "threats_raw": 0.6
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 6.46 expected melee damage against 7 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "where it lands, enemy guns expect 0.25 damage on it"
+  ],
+  "q": {
+   "danger": 0.9228571428571428,
+   "threat": 6.46,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.25,
+   "screen": 3,
+   "dealing": 0.02,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Legio XIII",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Earthshaker Mortar",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 12
+  },
+  "parts": {
+   "stay": 4.19,
+   "fallBack": -0.17,
+   "stayCore": 4.51,
+   "fight": 0.04,
+   "taken": 1.46,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 0.25,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 12
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 38,
+     "name": "Forsaken",
+     "hp": 7,
+     "dealt": 1.46,
+     "taken": 0.16
+    }
+   ],
+   "threat": 1.46,
+   "shotAt": {
+    "stay": 6.61,
+    "dest": 6.61
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.64,
+     "range": 1.83,
+     "offensive": 2.2,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 24.91,
+     "objective_risk": 1.98,
+     "missive": 0.49,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.63,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 32.43,
+     "threats_raw": 1.23
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.62,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 23.7,
+     "objective_risk": 0.68,
+     "missive": 0.58,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.04,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.28,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 25.99,
+     "threats_raw": 1.18
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Fulminator Squad"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.46 expected melee damage against 6 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.24333333333333332,
+   "threat": 1.46,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 6.61,
+   "screen": 0.96,
+   "dealing": 0.16,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Legio XIII",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Fulminator Squad",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 3,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 37,
+     "name": "Cultist Troopers 1",
+     "hp": 6,
+     "dealt": 0.5,
+     "taken": 0.97
+    },
+    {
+     "uid": 38,
+     "name": "Forsaken",
+     "hp": 7,
+     "dealt": 1.67,
+     "taken": 0.97
+    },
+    {
+     "uid": 46,
+     "name": "Cultist Troopers #3",
+     "hp": 10,
+     "dealt": 1.23,
+     "taken": 0.97
+    }
+   ],
+   "threat": 3.4,
+   "shotAt": {
+    "stay": 3.2,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.83,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 18.74,
+     "objective_risk": 11.26,
+     "missive": 2.38,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.81,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.5,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 32.19,
+     "threats_raw": 1.58
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Forsaken",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "could not escape",
+  "why": [
+   "danger 3.4 expected melee damage against 3 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 1.1333333333333333,
+   "threat": 3.4,
+   "hp": 3,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 2.91,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 41,
+  "name": "Cultist Troopers 3",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 9
+  },
+  "parts": {
+   "stay": 3.9,
+   "fallBack": 4.57,
+   "stayCore": 5.38,
+   "fight": 0.02,
+   "taken": 4,
+   "tieUp": 0,
+   "stayDeathChance": 1,
+   "stayDeath": 1,
+   "destCore": 5.15,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.58,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 22,
+     "name": "Legatus",
+     "hp": 17,
+     "dealt": 2,
+     "taken": 0.06
+    },
+    {
+     "uid": 23,
+     "name": "Ironthunder Vanguard 1",
+     "hp": 17,
+     "dealt": 2,
+     "taken": 0.02
+    }
+   ],
+   "threat": 4,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.1,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.75,
+     "objective_risk": 10.5,
+     "missive": 3,
+     "obj_hold": 0.39,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.29,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.68,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.81,
+     "threats_raw": 0.54
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.14,
+     "range": 1.88,
+     "offensive": 0.03,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12,
+     "objective_risk": 0.18,
+     "missive": 0.87,
+     "obj_hold": -1.82,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.72,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.95,
+     "threats_raw": 0.54
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 4 expected melee damage against 2 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 2,
+   "threat": 4,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -3.43,
+   "dealing": 0.08,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Bailiffs of Petra",
+  "round": 6,
+  "phase": "MOVEMENT",
+  "uid": 38,
+  "name": "Forsaken",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": 6.72,
+   "fallBack": 5.11,
+   "stayCore": 5.91,
+   "fight": 0.89,
+   "taken": 1.13,
+   "tieUp": 0.2,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.57,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.16,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.42,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 26,
+     "name": "Fulminator Squad",
+     "hp": 3,
+     "dealt": 0.97,
+     "taken": 1.67
+    },
+    {
+     "uid": 27,
+     "name": "Earthshaker Mortar",
+     "hp": 6,
+     "dealt": 0.16,
+     "taken": 1.46
+    }
+   ],
+   "threat": 1.13,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -0.38,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.05,
+     "objective_risk": 0.45,
+     "missive": 0.45,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.58,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.52,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.04,
+     "threats_raw": 1.46
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.16,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 7.49,
+     "objective_risk": 0.01,
+     "missive": 0.45,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.14,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.38,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.9,
+     "threats_raw": 0.59
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Cultist Troopers #3",
+    "Cultist Troopers 4"
+   ],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.13 expected melee damage against 7 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 3.13 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.16142857142857142,
+   "threat": 1.13,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0.4400000000000004,
+   "dealing": 3.13,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

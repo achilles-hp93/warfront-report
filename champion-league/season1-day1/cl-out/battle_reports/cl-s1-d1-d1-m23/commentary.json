@@ -1,0 +1,55 @@
+{
+  "title": "Lightbearers of Antioch vs Longwu Army",
+  "armies": [
+    { "name": "Lightbearers of Antioch", "faction": "Infernal Congregations" },
+    { "name": "Longwu Army", "faction": "Great Tang Empire" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "Longwu Army beat Lightbearers of Antioch 33-16 on Victory Points in Battle Round 4, scoring the 10 VP maximum in each of the last three rounds. Its two Vermillion Rocket Batteries burned away every Cultist screen the Lightbearers fielded, 84 damage between them, and ten squads of Commandery Bannermen then stood on objectives that the three surviving Infernal CHARACTERS could not hold alone.",
+  "result_line": "Longwu Army win 33-16 on Victory Points in Battle Round 4",
+  "deployment": "<p>Lightbearers of Antioch (Player A, initiative, south edge, 249 RP) is three big CHARACTERS and a small screen: The Dawn King at (4,12), the Seraph of Evolution at (11,13), the Goetic Ophanim (its caster) at (9,13), Lucent Exemplars and Cultist Troopers 1 each led by an Ashen Chirurgeon, and Cultist Troopers 2. Longwu Army (Player B, north edge, 250 RP) is the opposite: seven squads of Commandery Bannermen, the Five-Banner Marshal leading the White Pole Guard at (9,2), the War-Taoist with Commandery Bannermen 1, Terracotta Vanguard, Azure Banner Braves and two Vermillion Rocket Batteries on the back row at (4,0) and (10,0).</p><p>Longwu Army's Primary, IMPENETRABLE FORTRESS, pays up to 3 VP for healthy units outside its deployment zone, which a fourteen-unit army scores just by walking forward. The Lightbearers' BREAK THEIR HOLD needs its units inside objectives Longwu holds, so its CHARACTERS had to go and stand among the Bannermen.</p>",
+  "rounds": {
+    "1": {
+      "title": "Rockets on the screen",
+      "feed": [
+        { "phase": "Command", "text": "Longwu Army spent all 3 CP on Commandery Bannermen 7, Double Time and a Scouting Order; the record says neither bought anything. The Lightbearers kept INTO THE FRAY, Longwu Army PUSH FORWARD." },
+        { "phase": "Movement", "text": "Longwu Army flooded the middle: Commandery Bannermen 4, 6 and 7 round the centre objective, the rest on row 4 to 6, Azure Banner Braves to (4,6). The Lightbearers' screen (Lucent Exemplars, Cultist Troopers 1 and 2) lined up on row 8, the Seraph of Evolution reached (8,7) and The Dawn King (2,7) on the west objective." },
+        { "phase": "Action", "text": "Vermillion Rocket Battery 1 (with SPARE ROCKET CRATES, +1 FR) and Vermillion Rocket Battery 2 fired into the packed screen: 18 damage spread over Cultist Troopers 1 and 2 and the Lucent Exemplars, then 14 more from BURNED; 13 Cultists and a Lucent Exemplar died. A 1 CP Go to Ground covered Cultist Troopers 1. Tithe of Torment paid the Lightbearers Mana for those losses (to its 10-a-round limit) and the Goetic Ophanim channelled 6: 16 Mana banked." },
+        { "phase": "Cleanup", "text": "Longwu Army held the centre on OC 30 against 13 (3 VP); BREAK THEIR HOLD paid the Lightbearers 1 for standing in it. 1-3." }
+      ]
+    },
+    "2": {
+      "title": "Fractured Horizon answers, but Longwu takes all three",
+      "feed": [
+        { "phase": "Command", "text": "The Lightbearers requisitioned Cultist Troopers at (7,12) for 3 CP. Longwu Army gave Commandery Bannermen 5 Double Time (2 CP), which put it on the west objective. The Lightbearers kept DEEP REACH, Longwu Army OBJECTIVE RELAY." },
+        { "phase": "Movement", "text": "The Dawn King left the west for the centre at (7,7), shrugging off five Overwatch shots; the Goetic Ophanim moved to (2,8) and took 2 from Overwatch. The Seraph of Evolution charged Commandery Bannermen 7 at (6,7) for INTO THE FRAY (+2). The White Pole Guard's charge failed; later, in the Action Phase, the Five-Banner Marshal's To Formation! carried it to (5,5)." },
+        { "phase": "Action", "text": "The Goetic Ophanim cast Fractured Horizon (5 Mana) at (3,5): 10 HP off Commandery Bannermen 1 and 5 and the Azure Banner Braves. Longwu Army's reply was worse. The Azure Banner Braves destroyed the Lucent Exemplars, and Vermillion Rocket Battery 2's blast hit five units at once, destroying Cultist Troopers 1; its BURNED then finished Cultist Troopers 2 and took 6 off the requisitioned Cultist Troopers. The Seraph, with Demonic Essence Injection (MS +1, BS +1), did 6 to Commandery Bannermen 7, and Commandery Bannermen 6 hit it for 4." },
+        { "phase": "Cleanup", "text": "Longwu Army took all three objectives (centre on OC 24 against 6), IMPENETRABLE FORTRESS 3: 10 for 13. The Lightbearers scored BREAK THEIR HOLD 2 and INTO THE FRAY 2 for 5. Their screen was gone in two rounds." }
+      ]
+    },
+    "3": {
+      "title": "Both sides hit the cap",
+      "feed": [
+        { "phase": "Command", "text": "Longwu Army's Secure Objective (3 CP) on Commandery Bannermen 5 decided nothing. The Lightbearers paid 2 CP for a Rally Cry for the requisitioned Cultist Troopers and kept STRONGPOINT; Longwu Army kept DEEP REACH." },
+        { "phase": "Movement", "text": "The White Pole Guard and the Five-Banner Marshal charged the Seraph of Evolution at (5,6). Terracotta Vanguard and Commandery Bannermen 1 with the War-Taoist closed up behind them at (5,5) and (3,6)." },
+        { "phase": "Action", "text": "Fractured Horizon (5 Mana) at (4,6) took 17 HP off the White Pole Guard, Commandery Bannermen 1, Terracotta Vanguard and the Azure Banner Braves, the biggest single blow Longwu Army took. The White Pole Guard then did 5 to the Seraph and took 2. Two Profane Surgery uses healed the Seraph for 9. Commandery Bannermen 2, the rockets and BURNED killed the requisitioned Cultist Troopers, the last of the screen." },
+        { "phase": "Cleanup", "text": "The Lightbearers took the centre on a tie, OC 10 against 10, with The Dawn King, the Seraph and both Ashen Chirurgeons in it, and scored 10: centre 3, BREAK THEIR HOLD 3, DEEP REACH 3 and STRONGPOINT 1, for 15. Longwu Army kept the flanks (4), IMPENETRABLE FORTRESS 3 and DEEP REACH 3: 10 for 23." }
+      ]
+    },
+    "4": {
+      "title": "The Bannermen come back to the middle",
+      "feed": [
+        { "phase": "Command", "text": "The Lightbearers requisitioned Cultist Troopers #2 (3 CP). Longwu Army's third Secure Objective (3 CP, Commandery Bannermen 4) bought nothing. The Lightbearers kept FOCUSED FIRE, Longwu Army BAR THE GATES." },
+        { "phase": "Movement", "text": "Commandery Bannermen 2 charged into the centre at (8,8); Commandery Bannermen 7 fell back. Commandery Bannermen 1 with the War-Taoist and Commandery Bannermen 5 crowded the west objective, Commandery Bannermen 3 the east." },
+        { "phase": "Action", "text": "Fractured Horizon (5 Mana) at (7,5) did 10 more, destroying Commandery Bannermen 7. The Seraph of Evolution destroyed the White Pole Guard (3) and put 3 into the Five-Banner Marshal. Vermillion Rocket Battery 2 hit The Dawn King and Cultist Troopers #2 again, and BURNED killed Ashen Chirurgeon 2." },
+        { "phase": "Cleanup", "text": "Longwu Army took the centre back on OC 27 against 10 and held all three objectives (7) with IMPENETRABLE FORTRESS 3: 10 for 33. BAR THE GATES completed, but its 2 VP were withheld by the cap. The Lightbearers' BREAK THEIR HOLD paid 1 for 16." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p>Longwu Army's 33: objectives 21, IMPENETRABLE FORTRESS 9 (the 3 VP maximum in every round it could score) and DEEP REACH 3. It scored exactly 10 in each of Rounds 2, 3 and 4, and the cap withheld BAR THE GATES's 2 in the last. The Lightbearers' 16: BREAK THEIR HOLD 7, secondaries 6 (DEEP REACH 3, INTO THE FRAY 2, STRONGPOINT 1) and a single objective-round, the Round 3 centre (3).</p>{{chart:objectives}}<h3>What the key units did</h3><p><b>Vermillion Rocket Battery 2</b> (22 RP) did 62 damage and two kills, the most damage of any unit in these six battles, almost all of it into the Cultist and Lucent screen and the Ashen Chirurgeons; <b>Vermillion Rocket Battery 1</b> (28 RP) added 22 and two kills. Their blasts hit several packed units at once and left BURNED behind. The Commandery Bannermen did the scoring: Commandery Bannermen 3 held the east for three rounds (7.7 VP, 76.6 per 100 RP) and Commandery Bannermen 5 the west (6.3 VP).</p><p>For the Lightbearers, the <b>Goetic Ophanim</b> did 37 damage with three Fractured Horizon casts and destroyed Commandery Bannermen 7. The <b>Seraph of Evolution</b> (70 RP) scored the most VP (5.0) and destroyed the White Pole Guard. The three big CHARACTERS (175 RP) all survived, with Ashen Chirurgeon 1 and the last requisitioned Cultist Troopers, but the Lucent Exemplars, Ashen Chirurgeon 2 and three Cultist squads were destroyed: 72 RP lost against 51 for Longwu Army.</p>{{chart:rp-trade}}<h3>The army or the AI?</h3><p>The army. Three CHARACTERS cannot out-OC ten Bannermen squads on three objectives, and the Lightbearers' screen (two Cultist squads and the Lucent Exemplars) was exactly what massed rockets are best at: dense units in a line. Both Cultist requisitions died or bled to the rockets. Longwu Army's IMPENETRABLE FORTRESS was close to free: it needs six healthy units outside the deployment zone, and Longwu had seven or more there in every round from Round 2.</p><p>The AI's misses were small and on both sides. Longwu Army spent 3 CP in Round 1 on a Double Time and a Scouting Order that bought nothing and 6 CP on two Secure Objective commands that changed no objective; its Terracotta Vanguard was idle in all four rounds. The Lightbearers' Insidious Acheiropoieton bought nothing both times, and the army ended with 28 Mana unspent: Tithe of Torment filled the pool faster than one caster at 5 Mana a round could empty it.</p>{{chart:attrition}}<h3>Against the first playing</h3><p>The first playing was close, Longwu Army 34-30 in Round 5, and this one was not. The new Tithe of Torment rule shows plainly: in the first playing the Lightbearers never held more than 5 Mana and the Goetic Ophanim cast Fractured Horizon once and did 11 damage all battle; this time it had 16 Mana after Round 1 and cast it in Rounds 2, 3 and 4 for 37. That did not save the screen. Longwu Army's rockets did 33 damage in the first playing and 84 in this one, now 22 and 28 RP (were 30 each), and the preset gained Commandery Bannermen 7, while the Lightbearers gained a second Cultist Troopers and The Dawn King fell to 60 RP (was 70). The first playing's Lightbearers led 16-10 after Round 2; this time Longwu Army led 13-5. The cap cut Longwu Army's last round to 10 (its first-playing finish was 13).</p>"
+  },
+  "closing_title": "Screens are fuel",
+  "closing": "<p>Longwu Army's plan needed nothing clever: walk ten cheap squads forward, let the rockets burn whatever stands in front, and score IMPENETRABLE FORTRESS for being there. The Lightbearers' CHARACTERS fought well and none of them died, but the army behind them was gone by Round 3, and big models alone do not hold three objectives.</p>"
+}

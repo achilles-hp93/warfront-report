@@ -1,0 +1,130 @@
+{
+ "title": "Oak of Gernika vs Sineaters of Damascus",
+ "armies": [
+  {
+   "name": "Oak of Gernika",
+   "faction": "Euskal Herria"
+  },
+  {
+   "name": "Sineaters of Damascus",
+   "faction": "Infernal Congregations"
+  }
+ ],
+ "mode_name": "Seize the Ground",
+ "lede": "<p>The Sineaters of Damascus beat the Oak of Gernika 36-7 on Victory Points in Battle Round 5, and the Oak scored nothing after Round 2.</p><p>The Sineaters' melee charged the Etxe Riflemen off the centre in Round 2 and then held all three objectives for three rounds; the Oak destroyed no enemy unit all battle, so ERADICATE THE FOE, its Primary, never paid.</p>",
+ "result_line": "Sineaters of Damascus win 36-7 on Victory Points in Battle Round 5",
+ "deployment": "<p>Central Faceoff on CROSSROADS: the 3 VP centre at (7,7), 2 VP flanks at (1,7) and (13,7). <b>The Oak of Gernika</b> set up on rows 12 and 13 around its HQ at (7,13): the Sugaar Gun at (3,12), the Foral Captain leading Etxe Riflemen 2 at (4,12), Tomas Zumalakarregi leading Etxe Riflemen 1 at (5,12), the Sorgin leading the Mikelete Marksmen at (7,12), the Basajaun Smith at (9,13) and Etxe Riflemen 3 at (10,12). <b>The Sineaters of Damascus</b> set up on rows 1 and 2 around their HQ at (7,1): the Hellkin at (3,1), Cultist Troopers 2 at (3,2), the Beast of Contagion at (5,2), starting in the air, Mawkin 2 at (7,2), The Plague Monarch leading the Poxknight at (9,2), Cultist Troopers 1 at (10,2) and Mawkin 1 at (11,2).</p><p>The Oak had Priority, 7 units to 8 with joined pairs counted as one. It is a rifle army with one big gun; the Sineaters are melee plague-bearers whose PESTILENCE spreads each Command Phase and whose rolled PLAGUE hurts every AFFLICTED enemy.</p>",
+ "rounds": {
+  "1": {
+   "title": "The Oak takes the centre and the right",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "Primaries revealed: ERADICATE THE FOE for the Oak, WIDE SWEEP for the Sineaters. The PLAGUE rolled Glutton's Maw (1 True Damage to each AFFLICTED unit at the end of Movement). Secondaries kept: FOCUSED FIRE and KING OF THE HILL. The Mikelete Marksmen set a Trip Marker on the centre. The Oak spent 1 CP on a Scouting Order for the Basajaun Smith and 2 on Double Time for Etxe Riflemen 3, the Sineaters 1 on a Scouting Order for the Beast; none of the three bought anything."
+    },
+    {
+     "phase": "Movement",
+     "text": "Etxe Riflemen 3 ran onto the centre at 8,7 and the Basajaun Smith onto the right objective at 12,8. The Sineaters closed up behind the centre: Mawkin 2 at 6,7, the Hellkin at 6,6, Cultist Troopers 1 at 7,5, the Poxknight and the Monarch at 9,5; the Beast of Contagion, still in the air, moved onto the objective square at 7,7."
+    },
+    {
+     "phase": "Action",
+     "text": "The Sugaar Gun hit Mawkin 2 for 2 and PARALYZED it; the Mikelete Marksmen took 3 off the Beast. The Sorgin channelled 5 Mana."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Oak held the centre on OC 10 vs 5 and the right on 2 vs 0 (5 VP). <b>5-0.</b>"
+    }
+   ]
+  },
+  "2": {
+   "title": "Etxe Riflemen 3 is broken off the centre and killed",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "PESTILENCE spread to Mawkin 2 and Cultist Troopers 1. Secondaries kept: FORWARD PRESENCE and PROBING STRIKE. The Sineaters spent 3 CP on Troop Requisition, a fresh Cultist Troopers at (3,2)."
+    },
+    {
+     "phase": "Movement",
+     "text": "Etxe Riflemen 2 moved onto the left objective at 2,8 under a Go to Ground (1 CP); Cultist Troopers 2's Overwatch hit it for 2 and AFFLICTED it, and Cultist Troopers 2 then walked to 1,6 through four Overwatch shots that took 10 HP. The Poxknight and the Monarch charged Etxe Riflemen 3 on the centre; it failed its Fall Back test (1 True Damage) and landed at 6,9, where Mawkin 1, the Hellkin and Mawkin 2 charged it. The Beast of Contagion landed on a charge into the Foral Captain's pair at 2,7, taking 8 from Etxe Riflemen 1's SIGNAL CRY."
+    },
+    {
+     "phase": "Action",
+     "text": "Etxe Riflemen 2 attacked the Beast and its DUAL WIELD counterattack took 11 off them. Mawkin 1 hit Etxe Riflemen 3 for 15 from 7,8, in the centre's Objective Area: <b>Etxe Riflemen 3 destroyed</b>, KING OF THE HILL +3. The Sugaar Gun did 12 to the Hellkin and PARALYZED it. The Sorgin cast Sugaar's Hail (4 Mana) at 6,9; it CHILLED Mawkin 1, Mawkin 2 and the Hellkin and took 2 HP off them, and also hit the Sorgin's own pair, 3 HP off the Mikelete Marksmen. The Monarch's Benediction of Beelzebub AFFLICTED the Foral Captain's pair."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Sineaters took the centre on OC 16 vs 0 and the left on 7 vs 4 (5 VP); the Basajaun Smith kept the right on 2 vs 0 (2). FOCUSED FIRE expired. <b>7-8.</b>"
+    }
+   ]
+  },
+  "3": {
+   "title": "Charges everywhere; the Sineaters hold all three",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The Oak spent 5 CP on Troop Requisition, an Etxe Riflemen at (5,12); the Sineaters 2 on Double Time for Cultist Troopers 1. Secondaries kept: DEEP REACH and STRONGPOINT."
+    },
+    {
+     "phase": "Movement",
+     "text": "Cultist Troopers 1 ran onto the right objective at 14,7 and the Basajaun Smith charged it from 13,8. Tomas Zumalakarregi and Etxe Riflemen 1 pushed forward to 5,6, into the Sineaters' half, and were charged there by the Poxknight's pair from 6,7 and by Mawkin 1 from 6,5. Etxe Riflemen 2 broke away from the Beast to 4,10 and the Beast charged it again at 3,10; Mawkin 2 charged the new Etxe Riflemen at 6,10. Glutton's Maw took the Mikelete Marksmen's last HP at the end of the phase: <b>Mikelete Marksmen destroyed</b>."
+    },
+    {
+     "phase": "Action",
+     "text": "Etxe Riflemen 1 and Mawkin 1 traded 7 for 5, and the Poxknight did 9 more to Etxe Riflemen 1 and POISONED it and Tomas. The Beast finished Etxe Riflemen 2: <b>Etxe Riflemen 2 destroyed</b>. Mawkin 2 did 9 to the new Etxe Riflemen and the Monarch took the Sorgin 4 HP to 1. The Basajaun Smith did 8 to Cultist Troopers 1 and the Sugaar Gun 4 to the Hellkin, which survived on 4 HP."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Sineaters held all three: the centre on OC 13 vs 0, the left on 4 vs 0, the right on 6 vs 2 (7 VP), and STRONGPOINT paid 1 and 1 CP. <b>7-16.</b>"
+    }
+   ]
+  },
+  "4": {
+   "title": "Etxe Riflemen 1 and the Sorgin die falling back",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The PLAGUE turned to Blurring Buzz. The Basajaun Smith's Burdinola Forge gave Tomas +1 AP, which bought nothing. Tomas's Rally Cry (2 CP) carried the Sorgin's test; the Beast failed and was SUPPRESSED. The Sineaters spent 2 CP on Double Time for the requisitioned Cultist Troopers. Secondaries kept: SECURE THE FLANKS and DEEP REACH."
+    },
+    {
+     "phase": "Movement",
+     "text": "Most engaged Oak units tried to leave. The new Etxe Riflemen failed its test (2 True Damage) and went to 2,12. Etxe Riflemen 1 failed and died in the attempt: <b>Etxe Riflemen 1 destroyed</b>; Tomas broke away to 3,4 and the Sorgin to 4,5, where Glutton's Maw killed it: <b>Sorgin destroyed</b>. Mawkin 2 charged the Foral Captain at 5,10, and the Cultist Troopers walked onto the centre at 7,6."
+    },
+    {
+     "phase": "Action",
+     "text": "The Foral Captain took 4 off Mawkin 2 and lost 3 HP to it and the Beast. The Sugaar Gun missed Cultist Troopers 2. POISONED took another HP off Tomas."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Sineaters held all three again: the centre on OC 23 vs 0, the left on 4 vs 0, the right on 6 vs 2 (7 VP), and DEEP REACH paid 3. <b>7-26.</b>"
+    }
+   ]
+  },
+  "5": {
+   "title": "OMNIPRESENCE takes the Sineaters past 30",
+   "feed": [
+    {
+     "phase": "Command",
+     "text": "The Oak spent 2 CP on Double Time for the new Etxe Riflemen and 2 on a Rally Cry for the Foral Captain; the Monarch's Rally Cry (2) carried the Beast. The Hellkin, Cultist Troopers 2 and the new Etxe Riflemen failed Morale and were SUPPRESSED. Secondaries kept: KING OF THE HILL and OMNIPRESENCE."
+    },
+    {
+     "phase": "Movement",
+     "text": "The Etxe Riflemen went back to 6,13 beside the Oak's HQ. Tomas's charge failed, and so did Mawkin 1's. The Beast broke away onto the left objective at 1,8; the Poxknight's pair and the Cultist Troopers stood on the centre."
+    },
+    {
+     "phase": "Action",
+     "text": "The Foral Captain attacked Mawkin 2 and died to its counterattack: <b>Foral Captain destroyed</b>, 22 RP. The Sugaar Gun missed the Beast and then failed a Morale Test. Cultist Troopers 1 attacked the Basajaun Smith for 1 and took 2 back. The Monarch's Benediction on the Etxe Riflemen bought nothing."
+    },
+    {
+     "phase": "Cleanup",
+     "text": "The Sineaters held the centre on OC 22 vs 0, the left on 2 vs 0 and the right on 5 vs 2 (7 VP), and OMNIPRESENCE paid 3, its fourth point held back by the 10 VP cap. <b>7-36.</b>"
+    }
+   ]
+  }
+ },
+ "analysis": {
+  "title": "Why it went this way",
+  "html": "<h3>Where the VP came from</h3><p><b>The Sineaters of Damascus</b> scored 26 VP from objectives (all three objectives in Rounds 3, 4 and 5) and 10 from secondaries (KING OF THE HILL 3, STRONGPOINT 1, DEEP REACH 3, OMNIPRESENCE 3). Their Primary, WIDE SWEEP, scored nothing: it wants units in three of the board's quarters, and the army fought in a block through the middle (at most two quarters any round). <b>The Oak of Gernika</b> scored 7, all objective VP in Rounds 1 and 2: the centre once, the right twice. ERADICATE THE FOE pays for enemy units destroyed in an Objective Area, and the Oak destroyed none anywhere; none of its secondaries completed either.</p>{{chart:objectives}}<h3>What the key units did</h3><p><b>Mawkin 1</b> did 22 damage and destroyed Etxe Riflemen 3 for KING OF THE HILL; the <b>Beast of Contagion</b> did 21, destroyed Etxe Riflemen 2 and healed itself every round. The 10 RP <b>Cultist Troopers 1 and 2</b> scored 7.4 and 6.1 VP, 12 objective VP hinged on them, holding the two flanks from Round 3. For the Oak, the <b>Sugaar Gun</b> did 18 and PARALYZED the Hellkin twice, but its damage was spread: the Hellkin finished on 4 HP, the Beast on 7, Cultist Troopers 1 on 10. The <b>Basajaun Smith</b> (4.0 VP) held the right for two rounds, then fought Cultist Troopers 1 on it from Round 3 and was out-counted on OC, 6 vs 2.</p>{{chart:attrition}}<h3>What the Oak could not do</h3><p>It could not hold ground against charges or kill what charged it. Six Oak units died (113 RP) for none; four of them died in or straight after melee they could not leave, and two (the Mikelete Marksmen and the Sorgin) to Glutton's Maw on their last HP. Damage dealt was 100 to 69, but the Sineaters' healing (Lord of the Swarm, Glutton's Feast, Corpse-Eater) and Feel No Pain kept every wounded unit alive.</p>{{chart:rp-trade}}<h3>The AI, not the army</h3><ul><li><b>Round 2, Sugaar's Hail</b> was cast at 6,9 with the Sorgin's own pair inside the blast: 3 HP off the Mikelete Marksmen and CHILLED on both, for 2 HP off the enemy. The Marksmen died to Glutton's Maw on their last HP the next round.</li><li><b>Round 3, Tomas and Etxe Riflemen 1</b> advanced to 5,6, off every objective and into reach of the Poxknight's pair and Mawkin 1; Etxe Riflemen 1 was destroyed falling back the next round.</li><li><b>Round 5, Double Time</b> (2 CP) took the requisitioned Etxe Riflemen to 6,13, beside its own HQ and away from every objective.</li><li><b>The Sineaters' Mana went unused.</b> Tithe of Torment paid them 28 and the preset has no MAGIC_CASTER to spend it: that is the army, not the AI.</li></ul><p>This was the armies: the Sineaters' melee and self-healing beat the Oak's rifles at close quarters, and the Oak's only killing tool, the Sugaar Gun, never finished a target.</p><h3>Against the first playing</h3><p>The Sineaters also won the first playing, 34-20 in Round 6. The Oak was further behind this time: there, the Basajaun Smith stood on the right objective all battle and scored it every round from Round 2, and the Oak killed one unit for ERADICATE THE FOE's 2; here the Sineaters sent Cultist Troopers 1 onto the right in Round 3 and out-counted it, and the Oak killed nothing. The Sineaters' preset gained Cultist Troopers 2 (it held the left from Round 2) and The Plague Monarch costs 60 RP, not 70; Tomas Zumalakarregi costs 55, not 65. WIDE SWEEP, which paid 4 in the first playing, paid nothing.</p>"
+ },
+ "closing_title": "A clean sweep",
+ "closing": "<p>After Round 2 the Sineaters held every objective and the Oak held nothing; six Oak units died for none, and the battle ended a round early.</p>"
+}

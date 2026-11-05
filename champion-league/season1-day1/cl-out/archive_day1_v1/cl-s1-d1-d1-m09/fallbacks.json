@@ -1,0 +1,4296 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Sidhe Wardens 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 4
+  },
+  "parts": {
+   "stay": 6.76,
+   "fallBack": 3.61,
+   "stayCore": 3.96,
+   "fight": 3.83,
+   "taken": 1.78,
+   "tieUp": 0.75,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.28,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 16,
+     "dealt": 0.89,
+     "taken": 2.22
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 16,
+     "dealt": 0.89,
+     "taken": 1.48
+    }
+   ],
+   "threat": 1.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.7,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 170.15,
+     "objective_risk": 14.98,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.51,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.21,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 176.62,
+     "threats_raw": 1.76
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.13,
+     "offensive": 5.4,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 165.87,
+     "objective_risk": 0.1,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.23,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.91,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 179.9,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.78 expected melee damage against 8 HP",
+   "it was winning the fight: 3.7 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.2225,
+   "threat": 1.78,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.2799999999999998,
+   "dealing": 3.7,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Sidhe Wardens 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 12,
+   "row": 8
+  },
+  "parts": {
+   "stay": 12.03,
+   "fallBack": 9.47,
+   "stayCore": 4.91,
+   "fight": 8.15,
+   "taken": 1.78,
+   "tieUp": 0.75,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.03,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 0.89,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 12,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 11,
+   "maxHp": 11,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 16,
+     "dealt": 0.89,
+     "taken": 2.22
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 16,
+     "dealt": 0.89,
+     "taken": 1.48
+    }
+   ],
+   "threat": 1.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -2.8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 203.01,
+     "objective_risk": 17.31,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.57,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.26,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 208.49,
+     "threats_raw": 1.33
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 5.4,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 163.56,
+     "objective_risk": 0.1,
+     "missive": 1.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.15,
+     "posture": 1.2,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 175.49,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 5,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "an effect",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Sidhe Wardens 2",
+    "Sidhe Wardens 2"
+   ],
+   "objectives": [
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 1.78 expected melee damage against 11 HP",
+   "it was winning the fight: 3.7 expected damage dealt",
+   "the square it falls back to takes 2 objective VP"
+  ],
+  "q": {
+   "danger": 0.16181818181818183,
+   "threat": 1.78,
+   "hp": 11,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0.57,
+   "dealing": 3.7,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Knights of Camelot",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Knight-Excisors",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 8
+  },
+  "parts": {
+   "stay": 6.27,
+   "fallBack": 1.44,
+   "stayCore": 2.94,
+   "fight": 4,
+   "taken": 1.52,
+   "tieUp": 0.85,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.77,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 27,
+     "name": "Sidhe Druid",
+     "hp": 8,
+     "dealt": 0.04,
+     "taken": 1.11
+    },
+    {
+     "uid": 28,
+     "name": "Sidhe Wardens 2",
+     "hp": 8,
+     "dealt": 1.48,
+     "taken": 0.89
+    }
+   ],
+   "threat": 1.52,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.82,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 255.07,
+     "objective_risk": 3.66,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 7.51,
+     "leader_attach": 0,
+     "screen": 2.84,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.26,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 268.65,
+     "threats_raw": 1.89
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.82,
+     "range": 1.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 257.78,
+     "objective_risk": 0.95,
+     "missive": 4.5,
+     "obj_hold": 0.29,
+     "capture_blocker": 7.51,
+     "leader_attach": 0,
+     "screen": 0.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.09,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 270.19,
+     "threats_raw": 1.89
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.52 expected melee damage against 16 HP"
+  ],
+  "q": {
+   "danger": 0.095,
+   "threat": 1.52,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.5,
+   "dealing": 2,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Knights of Camelot",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Knight-Excisors",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": 7.33,
+   "fallBack": 1.96,
+   "stayCore": 2.4,
+   "fight": 7.53,
+   "taken": 3.3,
+   "tieUp": 0.7,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.77,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 2.15,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Waymarshal",
+     "hp": 4,
+     "dealt": 1.78,
+     "taken": 0.22
+    },
+    {
+     "uid": 27,
+     "name": "Sidhe Druid",
+     "hp": 5,
+     "dealt": 0.04,
+     "taken": 1.11
+    },
+    {
+     "uid": 28,
+     "name": "Sidhe Wardens 2",
+     "hp": 5,
+     "dealt": 0.59,
+     "taken": 0.89
+    },
+    {
+     "uid": 30,
+     "name": "Barghest",
+     "hp": 7,
+     "dealt": 0.89,
+     "taken": 0.67
+    }
+   ],
+   "threat": 3.3,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.43,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 16.27,
+     "objective_risk": 2.01,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.19,
+     "leader_attach": 0,
+     "screen": 2.94,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.33,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.8,
+     "threats_raw": 1.63
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.22,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.23,
+     "objective_risk": 0.02,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 3.36,
+     "leader_attach": 0,
+     "screen": 1.51,
+     "safety": 1.5,
+     "obj_drift": -1.1,
+     "role": 0.93,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 21.99,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Merlin - Wizard of Avalon",
+    "Merlin - Wizard of Avalon",
+    "Merlin - Wizard of Avalon"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.3 expected melee damage against 14 HP"
+  ],
+  "q": {
+   "danger": 0.2357142857142857,
+   "threat": 3.3,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.43,
+   "dealing": 2.89,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Sidhe Wardens 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 10,
+   "row": 5
+  },
+  "parts": {
+   "stay": 2.72,
+   "fallBack": 1.73,
+   "stayCore": 1.86,
+   "fight": 1.61,
+   "taken": 1.78,
+   "tieUp": 1.03,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.62,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 3.89,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 10,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 14,
+     "dealt": 0.89,
+     "taken": 0.89
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 14,
+     "dealt": 0.89,
+     "taken": 0.59
+    }
+   ],
+   "threat": 1.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.47,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 245.36,
+     "objective_risk": 33.61,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 4.66,
+     "leader_attach": 0,
+     "screen": 3.35,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.83,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 255.59,
+     "threats_raw": 2.26
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.25,
+     "offensive": 2.85,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 149.76,
+     "objective_risk": 4.16,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 4.66,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 2.16,
+     "obj_drift": 0,
+     "role": 0.61,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 164.01,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Barghest"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.78 expected melee damage against 5 HP"
+  ],
+  "q": {
+   "danger": 0.356,
+   "threat": 1.78,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.35,
+   "dealing": 1.48,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Rootwall Dryads 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 5
+  },
+  "test": {
+   "need": 6,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": 0.81,
+   "fallBack": 1.93,
+   "stayCore": 0.6,
+   "fight": 1.65,
+   "taken": 5.33,
+   "tieUp": 3.89,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.6,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 14,
+     "dealt": 4,
+     "taken": 1.19
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 14,
+     "dealt": 1.33,
+     "taken": 0.46
+    }
+   ],
+   "threat": 5.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.01,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 252.27,
+     "objective_risk": 2.79,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 2.96,
+     "leader_attach": 0,
+     "screen": 7.9,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.11,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 264.01,
+     "threats_raw": 3.27
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 156.52,
+     "objective_risk": 0.44,
+     "missive": 2.65,
+     "obj_hold": -0.33,
+     "capture_blocker": 1.95,
+     "leader_attach": 0,
+     "screen": 5.71,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.95,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 167.44,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Barghest"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 5.33 expected melee damage against 18 HP"
+  ],
+  "q": {
+   "danger": 0.2961111111111111,
+   "threat": 5.33,
+   "hp": 18,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.1900000000000004,
+   "dealing": 1.65,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Rootwall Dryads 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 0,
+   "row": 3
+  },
+  "test": {
+   "need": 6,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 0,
+   "row": 3
+  },
+  "parts": {
+   "stay": -28.09,
+   "fallBack": 1.73,
+   "stayCore": -7.18,
+   "fight": 0.34,
+   "taken": 22.5,
+   "tieUp": 0.75,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 1.4,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 0,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 7.5,
+     "taken": 0.18
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 15,
+     "taken": 0.15
+    }
+   ],
+   "threat": 22.5,
+   "shotAt": {
+    "stay": 1.5,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -8.95,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 37.57,
+     "objective_risk": 29.55,
+     "missive": 0.68,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.09,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 30.39,
+     "threats_raw": 4.26
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 62.02,
+     "objective_risk": 0.19,
+     "missive": 0.63,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.77,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 61.62,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 22.5 expected melee damage against 18 HP",
+   "leaving opens 2 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 1.25,
+   "threat": 22.5,
+   "hp": 18,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.32999999999999996,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Blackflint Archers",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 6
+  },
+  "parts": {
+   "stay": -3.52,
+   "fallBack": 6.62,
+   "stayCore": 2.39,
+   "fight": 0,
+   "taken": 3.49,
+   "tieUp": 0.09,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 1.74,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 3.11,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 1,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 1.5,
+     "taken": 0
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 2,
+     "taken": 0
+    }
+   ],
+   "threat": 3.5,
+   "shotAt": {
+    "stay": 0.19,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -3.8,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 20.65,
+     "objective_risk": 10.23,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.38,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -2,
+     "formation": 0,
+     "total": 23.04,
+     "threats_raw": 1.81
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -3.8,
+     "range": 1.67,
+     "offensive": 2.12,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 30.72,
+     "objective_risk": 0.15,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.94,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": -1,
+     "formation": 0,
+     "total": 36.24,
+     "threats_raw": 1.81
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 3.5 expected melee damage against 2 HP",
+   "the square it falls back to takes 2 objective VP"
+  ],
+  "q": {
+   "danger": 1.75,
+   "threat": 3.5,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Waymarshal",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 12,
+   "row": 7
+  },
+  "parts": {
+   "stay": -2.94,
+   "fallBack": 10.63,
+   "stayCore": 3.19,
+   "fight": 1.62,
+   "taken": 4.65,
+   "tieUp": 0.25,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 3.63,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 12,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 1.71,
+     "taken": 0.58
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 2.93,
+     "taken": 1.04
+    }
+   ],
+   "threat": 4.64,
+   "shotAt": {
+    "stay": 0.5,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    },
+    {
+     "col": 13,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.29,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 134.72,
+     "objective_risk": 11.94,
+     "missive": 3,
+     "obj_hold": 0.27,
+     "capture_blocker": 0,
+     "leader_attach": 0.18,
+     "screen": 0.57,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.5,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 138.75,
+     "threats_raw": 2.15
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 71.3,
+     "objective_risk": 0.36,
+     "missive": 0.92,
+     "obj_hold": -1.69,
+     "capture_blocker": 0,
+     "leader_attach": 0.05,
+     "screen": 0,
+     "safety": 0.67,
+     "obj_drift": 0,
+     "role": 1,
+     "posture": 1,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 73.74,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    },
+    {
+     "at": "(13,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 4.64 expected melee damage against 4 HP",
+   "the square it falls back to takes 2 objective VP"
+  ],
+  "q": {
+   "danger": 1.16,
+   "threat": 4.64,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0.57,
+   "dealing": 1.62,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Knights of Camelot",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Knight-Excisors",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 8
+  },
+  "parts": {
+   "stay": 10.98,
+   "fallBack": -13.96,
+   "stayCore": 2.07,
+   "fight": 12.64,
+   "taken": 4.53,
+   "tieUp": 0.8,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 2.3,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 2.59,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Waymarshal",
+     "hp": 2,
+     "dealt": 2.22,
+     "taken": 0.22
+    },
+    {
+     "uid": 27,
+     "name": "Sidhe Druid",
+     "hp": 5,
+     "dealt": 0.06,
+     "taken": 1.11
+    },
+    {
+     "uid": 28,
+     "name": "Sidhe Wardens 2",
+     "hp": 5,
+     "dealt": 0.37,
+     "taken": 0.89
+    },
+    {
+     "uid": 30,
+     "name": "Barghest",
+     "hp": 7,
+     "dealt": 1.19,
+     "taken": 0.67
+    },
+    {
+     "uid": 34,
+     "name": "Rootwall Dryads 2",
+     "hp": 18,
+     "dealt": 0.7,
+     "taken": 1.33
+    }
+   ],
+   "threat": 4.54,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.59
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.75,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 58.37,
+     "objective_risk": 14.76,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 10.54,
+     "leader_attach": 0,
+     "screen": 5.55,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.32,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 76.53,
+     "threats_raw": 1.79
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -3.75,
+     "range": 1.22,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 44.91,
+     "objective_risk": 0.09,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 11.08,
+     "leader_attach": 0,
+     "screen": 2.38,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 61.9,
+     "threats_raw": 1.79
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Merlin - Wizard of Avalon",
+    "Merlin - Wizard of Avalon"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 4.54 expected melee damage against 14 HP; its death would score the enemy 4 VP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.3242857142857143,
+   "threat": 4.54,
+   "hp": 14,
+   "killVp": 4,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.59,
+   "screen": 3.17,
+   "dealing": 4.220000000000001,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Waymarshal",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 4
+  },
+  "parts": {
+   "stay": 6.61,
+   "fallBack": 5.5,
+   "stayCore": 1.89,
+   "fight": 4.44,
+   "taken": 0.64,
+   "tieUp": 0.92,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.83,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 2.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 14,
+     "dealt": 0.42,
+     "taken": 2.67
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 14,
+     "dealt": 0.22,
+     "taken": 1.78
+    }
+   ],
+   "threat": 0.64,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 101.76,
+     "objective_risk": 9.83,
+     "missive": 3,
+     "obj_hold": 0.27,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 7.37,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.43,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 111.29,
+     "threats_raw": 1.95
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 60.3,
+     "objective_risk": 1.27,
+     "missive": 3,
+     "obj_hold": -0.85,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 0.92,
+     "safety": 2.67,
+     "obj_drift": 0,
+     "role": 1.03,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 70.71,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.64 expected melee damage against 2 HP",
+   "it was winning the fight: 4.45 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.32,
+   "threat": 0.64,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 6.45,
+   "dealing": 4.45,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 28,
+  "name": "Sidhe Wardens 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 5
+  },
+  "parts": {
+   "stay": 2.05,
+   "fallBack": 1.8,
+   "stayCore": 1.94,
+   "fight": 0.87,
+   "taken": 1.78,
+   "tieUp": 1.03,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.69,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 3.89,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 5,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 14,
+     "dealt": 0.89,
+     "taken": 0.44
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 14,
+     "dealt": 0.89,
+     "taken": 0.3
+    }
+   ],
+   "threat": 1.78,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -3.37,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 14.86,
+     "objective_risk": 3.54,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 3.53,
+     "leader_attach": 0,
+     "screen": 3.97,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.8,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 24.66,
+     "threats_raw": 2.2
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.25,
+     "offensive": 4.15,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.06,
+     "objective_risk": 0.3,
+     "missive": 2.17,
+     "obj_hold": -1.13,
+     "capture_blocker": 3.53,
+     "leader_attach": 0,
+     "screen": 0.94,
+     "safety": 2.16,
+     "obj_drift": 0,
+     "role": 0.67,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.48,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Sidhe Wardens 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Waymarshal"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "should have left",
+  "why": [
+   "danger 1.78 expected melee damage against 5 HP"
+  ],
+  "q": {
+   "danger": 0.356,
+   "threat": 1.78,
+   "hp": 5,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.0300000000000002,
+   "dealing": 0.74,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 30,
+  "name": "Barghest",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 9
+  },
+  "test": {
+   "need": 4,
+   "roll": 5,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 9
+  },
+  "parts": {
+   "stay": -6.25,
+   "fallBack": 2.36,
+   "stayCore": -1.3,
+   "fight": 3.34,
+   "taken": 13,
+   "tieUp": 2.71,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 3.36,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 7,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 14,
+     "dealt": 2,
+     "taken": 1.78
+    },
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 3.61,
+     "taken": 0.37
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 6.73,
+     "taken": 0.31
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 14,
+     "dealt": 0.67,
+     "taken": 0.89
+    }
+   ],
+   "threat": 13.01,
+   "shotAt": {
+    "stay": 0.75,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.62,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.51,
+     "objective_risk": 4.81,
+     "missive": 3.75,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 10.32,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.57,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.53,
+     "threats_raw": 3.15
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.29,
+     "objective_risk": 0.07,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.26,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 13.8,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Waymarshal"
+   ],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 13.01 expected melee damage against 7 HP"
+  ],
+  "q": {
+   "danger": 1.8585714285714285,
+   "threat": 13.01,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 8.17,
+   "dealing": 3.35,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Rootwall Dryads 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 1,
+   "row": 1
+  },
+  "parts": {
+   "stay": -25.09,
+   "fallBack": 3.98,
+   "stayCore": -4.17,
+   "fight": 0.34,
+   "taken": 22.5,
+   "tieUp": 0.75,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 3.65,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 2,
+   "bestDest": {
+    "col": 1,
+    "row": 1
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 7.5,
+     "taken": 0.18
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 15,
+     "taken": 0.15
+    }
+   ],
+   "threat": 22.5,
+   "shotAt": {
+    "stay": 1.5,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 2,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -8.84,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 11.5,
+     "objective_risk": 9.03,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.99,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 7.33,
+     "threats_raw": 4.21
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 22.1,
+     "objective_risk": 0.05,
+     "missive": 1.53,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.72,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 25.75,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 22.5 expected melee damage against 18 HP",
+   "leaving opens 2 shot(s) at its enemies"
+  ],
+  "q": {
+   "danger": 1.25,
+   "threat": 22.5,
+   "hp": 18,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 2,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 0.32999999999999996,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 29,
+  "name": "Blackflint Archers",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 6
+  },
+  "parts": {
+   "stay": -4.05,
+   "fallBack": 5.66,
+   "stayCore": 1.86,
+   "fight": 0,
+   "taken": 3.49,
+   "tieUp": 0.09,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 0.77,
+   "lostVp": 0,
+   "gainedVp": 2,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 3.11,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 5,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 1.5,
+     "taken": 0
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 2,
+     "taken": 0
+    }
+   ],
+   "threat": 3.5,
+   "shotAt": {
+    "stay": 0.18,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": null,
+     "ifLeaves": null,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 29.73,
+     "objective_risk": 8.39,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.66,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": -2,
+     "formation": 0,
+     "total": 34.18,
+     "threats_raw": 2.19
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -4.6,
+     "range": 1.9,
+     "offensive": 2.41,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 32.66,
+     "objective_risk": 0.24,
+     "missive": 3,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.77,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": -1,
+     "formation": 0,
+     "total": 37.74,
+     "threats_raw": 2.19
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": null
+    }
+   ]
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 3.5 expected melee damage against 2 HP",
+   "the square it falls back to takes 2 objective VP"
+  ],
+  "q": {
+   "danger": 1.75,
+   "threat": 3.5,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.6,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 31,
+  "name": "Coblynau Sappers 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 4
+  },
+  "parts": {
+   "stay": -13.23,
+   "fallBack": 2.26,
+   "stayCore": -4.18,
+   "fight": 0.53,
+   "taken": 10.16,
+   "tieUp": 0.42,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 3.93,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 4.17,
+     "taken": 0.25
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 5.99,
+     "taken": 0.28
+    }
+   ],
+   "threat": 10.16,
+   "shotAt": {
+    "stay": 0.83,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -7.52,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 33.98,
+     "objective_risk": 9.86,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.4,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.33,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 33.21,
+     "threats_raw": 3.58
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 47.73,
+     "objective_risk": 0.64,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.99,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.44,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 59.65,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 10.16 expected melee damage against 6 HP"
+  ],
+  "q": {
+   "danger": 1.6933333333333334,
+   "threat": 10.16,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -4.59,
+   "dealing": 0.53,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Rootwall Dryads 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 4
+  },
+  "parts": {
+   "stay": -24.14,
+   "fallBack": 3.11,
+   "stayCore": -2.88,
+   "fight": 0.34,
+   "taken": 22.5,
+   "tieUp": 0.4,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 4.77,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 7.5,
+     "taken": 0.18
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 15,
+     "taken": 0.15
+    }
+   ],
+   "threat": 22.5,
+   "shotAt": {
+    "stay": 0.81,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -8.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 131.32,
+     "objective_risk": 35.45,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 18.59,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.27,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 147.02,
+     "threats_raw": 4.1
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 149.35,
+     "objective_risk": 0.17,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.73,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.01,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 158.86,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 22.5 expected melee damage against 18 HP"
+  ],
+  "q": {
+   "danger": 1.25,
+   "threat": 22.5,
+   "hp": 18,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 13.86,
+   "dealing": 0.32999999999999996,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Knights of Camelot",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Parish Militia",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 10
+  },
+  "parts": {
+   "stay": 2.43,
+   "fallBack": -8.77,
+   "stayCore": 2.66,
+   "fight": 1.78,
+   "taken": 2,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.9,
+   "lostVp": 3,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Rootwall Dryads 2",
+     "hp": 18,
+     "dealt": 2,
+     "taken": 1.78
+    }
+   ],
+   "threat": 2,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.99,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 72.85,
+     "objective_risk": 0.27,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 4.54,
+     "leader_attach": 0,
+     "screen": 7.6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.14,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 87.65,
+     "threats_raw": 2.71
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.03,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 40.32,
+     "objective_risk": 0.03,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 4.54,
+     "leader_attach": 0,
+     "screen": 0.92,
+     "safety": 0.24,
+     "obj_drift": -1.8,
+     "role": 0.81,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 49.92,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2 expected melee damage against 16 HP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.125,
+   "threat": 2,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 6.68,
+   "dealing": 1.78,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Knights of Camelot",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Knight-Excisors",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 8
+  },
+  "parts": {
+   "stay": 8.33,
+   "fallBack": -0.17,
+   "stayCore": 2.97,
+   "fight": 8.64,
+   "taken": 3.55,
+   "tieUp": 0.28,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.16,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 1.67,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Waymarshal",
+     "hp": 2,
+     "dealt": 1.67,
+     "taken": 0.22
+    },
+    {
+     "uid": 30,
+     "name": "Barghest",
+     "hp": 7,
+     "dealt": 1.19,
+     "taken": 0.67
+    },
+    {
+     "uid": 34,
+     "name": "Rootwall Dryads 2",
+     "hp": 18,
+     "dealt": 0.7,
+     "taken": 1.33
+    }
+   ],
+   "threat": 3.56,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0.56
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "ASSASSINATION",
+      "vp": 4
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.71,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 22.26,
+     "objective_risk": 2.12,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 7.29,
+     "leader_attach": 0,
+     "screen": 5.07,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.18,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 37.57,
+     "threats_raw": 1.29
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -2.71,
+     "range": 1.41,
+     "offensive": 1.32,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 15,
+     "objective_risk": 0,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 7.66,
+     "leader_attach": 0,
+     "screen": 0.34,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.92,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 28.89,
+     "threats_raw": 1.29
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [
+    "Merlin - Wizard of Avalon"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.56 expected melee damage against 14 HP; its death would score the enemy 4 VP"
+  ],
+  "q": {
+   "danger": 0.2542857142857143,
+   "threat": 3.56,
+   "hp": 14,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.56,
+   "screen": 4.73,
+   "dealing": 2.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Waymarshal",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 6,
+   "row": 4
+  },
+  "parts": {
+   "stay": 5.54,
+   "fallBack": 1.38,
+   "stayCore": 1.92,
+   "fight": 3.33,
+   "taken": 0.64,
+   "tieUp": 0.92,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.72,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 6.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 6,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 6,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 14,
+     "dealt": 0.42,
+     "taken": 2
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 14,
+     "dealt": 0.22,
+     "taken": 1.33
+    }
+   ],
+   "threat": 0.64,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.55,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 12.95,
+     "objective_risk": 2.26,
+     "missive": 3,
+     "obj_hold": 0.27,
+     "capture_blocker": 0,
+     "leader_attach": 0.18,
+     "screen": 2.9,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.29,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 18.05,
+     "threats_raw": 1.66
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.39,
+     "objective_risk": 0.2,
+     "missive": 3,
+     "obj_hold": -0.85,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 4.32,
+     "safety": 2.67,
+     "obj_drift": 0,
+     "role": 0.91,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 20.09,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Rootwall Dryads 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.64 expected melee damage against 2 HP; its death would score the enemy 3 VP",
+   "it was winning the fight: 3.33 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.32,
+   "threat": 0.64,
+   "hp": 2,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -1.4200000000000004,
+   "dealing": 3.33,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 27,
+  "name": "Sidhe Druid",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 4
+  },
+  "test": {
+   "need": 6,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 4
+  },
+  "parts": {
+   "stay": -19.55,
+   "fallBack": -4.89,
+   "stayCore": -2.62,
+   "fight": 0.13,
+   "taken": 3.52,
+   "tieUp": 1.94,
+   "stayDeathChance": 1,
+   "stayDeath": 16,
+   "destCore": 1.22,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 6.11,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 3,
+   "engagers": [
+    {
+     "uid": 18,
+     "name": "Merlin - Wizard of Avalon",
+     "hp": 14,
+     "dealt": 2.41,
+     "taken": 0.09
+    },
+    {
+     "uid": 21,
+     "name": "Knight-Excisors",
+     "hp": 14,
+     "dealt": 1.11,
+     "taken": 0.04
+    }
+   ],
+   "threat": 3.52,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -4.9,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 9.8,
+     "objective_risk": 6.2,
+     "missive": 3,
+     "obj_hold": 0.27,
+     "capture_blocker": 0,
+     "leader_attach": 0.05,
+     "screen": 10.11,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.77,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.56,
+     "threats_raw": 3.2
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.08,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.07,
+     "objective_risk": 0.4,
+     "missive": 0.87,
+     "obj_hold": -0.85,
+     "capture_blocker": 0,
+     "leader_attach": 0.18,
+     "screen": 1.23,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.51,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 11.76,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Rootwall Dryads 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 3.52 expected melee damage against 3 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1.1733333333333333,
+   "threat": 3.52,
+   "hp": 3,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 8.879999999999999,
+   "dealing": 0.13,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 30,
+  "name": "Barghest",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 5
+  },
+  "parts": {
+   "stay": -27.35,
+   "fallBack": -21.41,
+   "stayCore": -1.4,
+   "fight": 0.68,
+   "taken": 10.34,
+   "tieUp": 0.38,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 4.79,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 6.73,
+   "fallBackDeathChance": 0.92,
+   "fallBackDeath": 18.47,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 7,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 3.61,
+     "taken": 0.37
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 6.73,
+     "taken": 0.31
+    }
+   ],
+   "threat": 10.34,
+   "shotAt": {
+    "stay": 0.75,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -6.62,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 4.23,
+     "objective_risk": 4.24,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.32,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 4.98,
+     "threats_raw": 3.15
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 8.38,
+     "objective_risk": 0.08,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.08,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.09,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.25,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 10.34 expected melee damage against 7 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1.477142857142857,
+   "threat": 10.34,
+   "hp": 7,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -3.93,
+   "dealing": 0.6799999999999999,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Rootwall Dryads 2",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 3
+  },
+  "parts": {
+   "stay": -40.12,
+   "fallBack": 2.47,
+   "stayCore": -2.85,
+   "fight": 0.34,
+   "taken": 22.5,
+   "tieUp": 0.4,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 4.14,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 7.5,
+     "taken": 0.18
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 15,
+     "taken": 0.15
+    }
+   ],
+   "threat": 22.5,
+   "shotAt": {
+    "stay": 0.81,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -8.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 103.5,
+     "objective_risk": 81.58,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.3,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 106.65,
+     "threats_raw": 4.1
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 151.71,
+     "objective_risk": 0.26,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.33,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 0.86,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 156.38,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 22.5 expected melee damage against 18 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1.25,
+   "threat": 22.5,
+   "hp": 18,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.67,
+   "dealing": 0.32999999999999996,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Cosán Sí Host",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 33,
+  "name": "Rootwall Dryads 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 3,
+   "row": 3
+  },
+  "parts": {
+   "stay": -41.92,
+   "fallBack": -26.41,
+   "stayCore": -4.66,
+   "fight": 0.34,
+   "taken": 22.5,
+   "tieUp": 0.4,
+   "stayDeathChance": 1,
+   "stayDeath": 20,
+   "destCore": 3.59,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 15,
+   "fallBackDeathChance": 0.67,
+   "fallBackDeath": 13.33,
+   "lossPenalty": 1.67,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 3,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 18,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Knight-Banneret",
+     "hp": 17,
+     "dealt": 7.5,
+     "taken": 0.18
+    },
+    {
+     "uid": 20,
+     "name": "Knight-Ascendants",
+     "hp": 17,
+     "dealt": 15,
+     "taken": 0.15
+    }
+   ],
+   "threat": 22.5,
+   "shotAt": {
+    "stay": 0.81,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -8.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 53.89,
+     "objective_risk": 42.06,
+     "missive": 1.05,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 53.39,
+     "threats_raw": 4.1
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 103.97,
+     "objective_risk": 0.18,
+     "missive": 1.05,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 6.17,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.94,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 113.72,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "risky hold",
+  "why": [
+   "danger 22.5 expected melee damage against 18 HP; its death would score the enemy 3 VP"
+  ],
+  "q": {
+   "danger": 1.25,
+   "threat": 22.5,
+   "hp": 18,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -2.0199999999999996,
+   "dealing": 0.32999999999999996,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Knights of Camelot",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 23,
+  "name": "Parish Militia",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": true,
+  "plannedDest": {
+   "col": 8,
+   "row": 10
+  },
+  "parts": {
+   "stay": 1.22,
+   "fallBack": 2.39,
+   "stayCore": 3.22,
+   "fight": 1.33,
+   "taken": 3.33,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.72,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 30,
+     "name": "Barghest",
+     "hp": 7,
+     "dealt": 3.33,
+     "taken": 1.33
+    }
+   ],
+   "threat": 3.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.2,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 23.61,
+     "objective_risk": 0.77,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.15,
+     "leader_attach": 0,
+     "screen": 13.54,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.92,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 43.51,
+     "threats_raw": 2
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 13.45,
+     "objective_risk": 0,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 3.15,
+     "leader_attach": 0,
+     "screen": 0.92,
+     "safety": 0.24,
+     "obj_drift": 0,
+     "role": 0.63,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.13,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 1,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.33 expected melee damage against 16 HP"
+  ],
+  "q": {
+   "danger": 0.208125,
+   "threat": 3.33,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 12.62,
+   "dealing": 1.33,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Knights of Camelot",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 17,
+  "name": "HQ",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": null,
+  "parts": {},
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Coblynau Sappers 2",
+     "hp": 6,
+     "dealt": 0.5,
+     "taken": 0
+    }
+   ],
+   "threat": 0.5,
+   "shotAt": {
+    "stay": 0,
+    "dest": null
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.4,
+     "objective_risk": 0.01,
+     "missive": 0,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 3.51,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": -0.3,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 5.61,
+     "threats_raw": 0
+    },
+    "dest": null
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.5 expected melee damage against 8 HP"
+  ],
+  "q": {
+   "danger": 0.0625,
+   "threat": 0.5,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": null,
+   "screen": 0,
+   "dealing": 0,
+   "canKill": false,
+   "winning": false
+  }
+ }
+]

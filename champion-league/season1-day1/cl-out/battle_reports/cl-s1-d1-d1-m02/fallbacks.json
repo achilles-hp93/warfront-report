@@ -1,0 +1,1671 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Armoured Cohort",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 20,
+  "name": "Legionnaire Squad 1",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 10
+  },
+  "test": {
+   "need": 5,
+   "roll": 3,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": -7.85,
+   "fallBack": 3.63,
+   "stayCore": 4.16,
+   "fight": 5.38,
+   "taken": 14.52,
+   "tieUp": 0.39,
+   "stayDeathChance": 0.81,
+   "stayDeath": 3.26,
+   "destCore": 4.97,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 16,
+   "maxHp": 16,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Otto of Saxony",
+     "hp": 22,
+     "dealt": 5.19,
+     "taken": 0.81
+    },
+    {
+     "uid": 30,
+     "name": "Odin's Einherjar",
+     "hp": 22,
+     "dealt": 9.33,
+     "taken": 1.53
+    }
+   ],
+   "threat": 14.52,
+   "shotAt": {
+    "stay": 0.78,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.49,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 115.84,
+     "objective_risk": 43.58,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 18.94,
+     "leader_attach": 0,
+     "screen": 4.08,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.15,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 142.07,
+     "threats_raw": 2.14
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 142.75,
+     "objective_risk": 1.01,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 18.94,
+     "leader_attach": 0,
+     "screen": 1.49,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.81,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 170.64,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 10,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Black Huskarls",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 14.52 expected melee damage against 16 HP"
+  ],
+  "q": {
+   "danger": 0.9075,
+   "threat": 14.52,
+   "hp": 16,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.59,
+   "dealing": 2.34,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Armoured Cohort",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Praetorian Fireteam",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 8
+  },
+  "test": {
+   "need": 5,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 3,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 8
+  },
+  "parts": {
+   "stay": -7.16,
+   "fallBack": 24.39,
+   "stayCore": 5.52,
+   "fight": 3.02,
+   "taken": 12.31,
+   "tieUp": 0.17,
+   "stayDeathChance": 0.89,
+   "stayDeath": 3.57,
+   "destCore": 1.73,
+   "lostVp": 0,
+   "gainedVp": 6,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 13,
+   "maxHp": 13,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Otto of Saxony",
+     "hp": 22,
+     "dealt": 6.22,
+     "taken": 1.04
+    },
+    {
+     "uid": 30,
+     "name": "Odin's Einherjar",
+     "hp": 22,
+     "dealt": 6.08,
+     "taken": 1.94
+    }
+   ],
+   "threat": 12.3,
+   "shotAt": {
+    "stay": 0.34,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": false,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -5.74,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 157.96,
+     "objective_risk": 152.63,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 18.62,
+     "leader_attach": 0,
+     "screen": 4.18,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.33,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 182.9,
+     "threats_raw": 2.74
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.9,
+     "range": 2.29,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 227.47,
+     "objective_risk": 3.25,
+     "missive": 1.68,
+     "obj_hold": 0,
+     "capture_blocker": 18.62,
+     "leader_attach": 0,
+     "screen": 4.5,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 253.67,
+     "threats_raw": 1.38
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 12.3 expected melee damage against 13 HP",
+   "the square it falls back to takes 2 objective VP"
+  ],
+  "q": {
+   "danger": 0.9461538461538462,
+   "threat": 12.3,
+   "hp": 13,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 2,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.3200000000000003,
+   "dealing": 2.98,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Magdeburg Warhost",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Corporaider Squad 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 2,
+   "row": 3
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 2,
+   "row": 3
+  },
+  "parts": {
+   "stay": 4.43,
+   "fallBack": 4.57,
+   "stayCore": 6.36,
+   "fight": 3.89,
+   "taken": 4.58,
+   "tieUp": 0,
+   "stayDeathChance": 0.31,
+   "stayDeath": 1.24,
+   "destCore": 5.57,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 2,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Equites Igniferi",
+     "hp": 20,
+     "dealt": 4.58,
+     "taken": 3.89
+    }
+   ],
+   "threat": 4.58,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 197.43,
+     "objective_risk": 68.94,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 16.13,
+     "leader_attach": 0,
+     "screen": 4.82,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.66,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 225.13,
+     "threats_raw": 1.07
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.34,
+     "offensive": 4.96,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 135.2,
+     "objective_risk": 0.78,
+     "missive": 1.88,
+     "obj_hold": -1.82,
+     "capture_blocker": 16.13,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0.54,
+     "obj_drift": -2.2,
+     "role": 1.15,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 160.17,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 4.58 expected melee damage against 7 HP"
+  ],
+  "q": {
+   "danger": 0.6542857142857142,
+   "threat": 4.58,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 4.82,
+   "dealing": 3.89,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Armoured Cohort",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Legionnaire Squad 2",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 6,
+   "row": 3
+  },
+  "test": {
+   "need": 4,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 6,
+   "row": 3
+  },
+  "parts": {
+   "stay": -1.55,
+   "fallBack": 5.49,
+   "stayCore": 3.81,
+   "fight": 0.69,
+   "taken": 3.53,
+   "tieUp": 0.54,
+   "stayDeathChance": 0.77,
+   "stayDeath": 3.06,
+   "destCore": 5.49,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 6,
+    "row": 3
+   }
+  },
+  "board": {
+   "hp": 4,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Corporaider Squad 3",
+     "hp": 8,
+     "dealt": 3.53,
+     "taken": 0.69
+    }
+   ],
+   "threat": 3.53,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.72,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 6.69,
+     "objective_risk": 5.47,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.36,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.44,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 10.73,
+     "threats_raw": 2.25
+    },
+    "dest": {
+     "cover": 0,
+     "threat": 0,
+     "range": 2.08,
+     "offensive": 0.82,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 9.06,
+     "objective_risk": 1.38,
+     "missive": 1.88,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 1.55,
+     "safety": 2.16,
+     "obj_drift": 0,
+     "role": 1.46,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Otto of Saxony",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 3.53 expected melee damage against 4 HP",
+   "leaving opens 1 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 0.8825,
+   "threat": 3.53,
+   "hp": 4,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 0.8099999999999998,
+   "dealing": 0.69,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Magdeburg Warhost",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 31,
+  "name": "Black Huskarls",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 6
+  },
+  "test": {
+   "need": 4,
+   "roll": 1,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 6
+  },
+  "parts": {
+   "stay": 4.18,
+   "fallBack": 5.45,
+   "stayCore": 7.41,
+   "fight": 2.89,
+   "taken": 4.41,
+   "tieUp": 0.17,
+   "stayDeathChance": 0.47,
+   "stayDeath": 1.88,
+   "destCore": 6.45,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 6,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 19,
+     "name": "Centurion",
+     "hp": 2,
+     "dealt": 4.13,
+     "taken": 1.16
+    },
+    {
+     "uid": 27,
+     "name": "Chiron Battle Tank 2",
+     "hp": 10,
+     "dealt": 0.28,
+     "taken": 1.11
+    }
+   ],
+   "threat": 4.41,
+   "shotAt": {
+    "stay": 0.33,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 2,
+     "threat": -4.67,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 35.14,
+     "objective_risk": 19.89,
+     "missive": 1.21,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 14.85,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.43,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 51.77,
+     "threats_raw": 2.22
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 58,
+     "objective_risk": 2.17,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 7.19,
+     "safety": 0.96,
+     "obj_drift": 0,
+     "role": 1.19,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 71.64,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Grey Huskarls",
+    "Grey Huskarls"
+   ],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 4.41 expected melee damage against 6 HP"
+  ],
+  "q": {
+   "danger": 0.735,
+   "threat": 4.41,
+   "hp": 6,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 7.659999999999999,
+   "dealing": 2.27,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Armoured Cohort",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Equites Igniferi",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 6
+  },
+  "parts": {
+   "stay": 4.28,
+   "fallBack": 3.4,
+   "stayCore": 4.57,
+   "fight": 1.04,
+   "taken": 2.67,
+   "tieUp": 1.33,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 4.4,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Corporaider Squad 3",
+     "hp": 8,
+     "dealt": 2.67,
+     "taken": 1.04
+    }
+   ],
+   "threat": 2.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.67
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.53,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 96.85,
+     "objective_risk": 0.65,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.38,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 103.85,
+     "threats_raw": 1.21
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -2.04,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 97.32,
+     "objective_risk": 0.18,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 3.38,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.18,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 103.53,
+     "threats_raw": 0.97
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.67 expected melee damage against 20 HP; its death would score the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 0.1335,
+   "threat": 2.67,
+   "hp": 20,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.67,
+   "screen": 0,
+   "dealing": 1.04,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Armoured Cohort",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Praetorian Fireteam",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 10
+  },
+  "parts": {
+   "stay": 6.69,
+   "fallBack": 4.42,
+   "stayCore": 5.07,
+   "fight": 2.57,
+   "taken": 1.9,
+   "tieUp": 0.95,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.42,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 10
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 13,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Corporaider Squad 3",
+     "hp": 8,
+     "dealt": 1.9,
+     "taken": 2.5
+    }
+   ],
+   "threat": 1.9,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.6,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 19.87,
+     "objective_risk": 1.3,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 6.61,
+     "leader_attach": 0,
+     "screen": 2.55,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.57,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 33.1,
+     "threats_raw": 1.24
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 23.26,
+     "objective_risk": 0.67,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 6.95,
+     "leader_attach": 0,
+     "screen": 2.65,
+     "safety": 0.67,
+     "obj_drift": 0,
+     "role": 1.3,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 40.79,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": true,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 0
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.9 expected melee damage against 10 HP; its death would score the enemy 1 VP"
+  ],
+  "q": {
+   "danger": 0.19,
+   "threat": 1.9,
+   "hp": 10,
+   "killVp": 1,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -0.10000000000000009,
+   "dealing": 2.5,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Armoured Cohort",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Praetorian Fireteam",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 8
+  },
+  "parts": {
+   "stay": 7.78,
+   "fallBack": 5.65,
+   "stayCore": 6.36,
+   "fight": 1.79,
+   "taken": 2.87,
+   "tieUp": 0.36,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.99,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 13,
+   "engagers": [
+    {
+     "uid": 34,
+     "name": "Corporaider Squad 2",
+     "hp": 6,
+     "dealt": 1.44,
+     "taken": 3.82
+    },
+    {
+     "uid": 35,
+     "name": "Corporaider Squad 3",
+     "hp": 7,
+     "dealt": 1.44,
+     "taken": 1.88
+    }
+   ],
+   "threat": 2.88,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.41,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 86.56,
+     "objective_risk": 17.77,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 6.14,
+     "leader_attach": 0,
+     "screen": 3.15,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.54,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 102.6,
+     "threats_raw": 1.66
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.22,
+     "range": 2.5,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 101.25,
+     "objective_risk": 3.07,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 6.46,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.3,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 116.62,
+     "threats_raw": 0.89
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 4,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Corporaider Squad 2",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Augur",
+    "Augur"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "should have left",
+  "why": [
+   "danger 2.88 expected melee damage against 8 HP; its death would score the enemy 4 VP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.36,
+   "threat": 2.88,
+   "hp": 8,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.15,
+   "dealing": 5.699999999999999,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Armoured Cohort",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Equites Igniferi",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 0,
+   "row": 6
+  },
+  "parts": {
+   "stay": 5.92,
+   "fallBack": 5.48,
+   "stayCore": 5.95,
+   "fight": 0.3,
+   "taken": 2.67,
+   "tieUp": 0.33,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.73,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 0,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 20,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 35,
+     "name": "Corporaider Squad 3",
+     "hp": 7,
+     "dealt": 2.67,
+     "taken": 1.22
+    }
+   ],
+   "threat": 2.67,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 1,
+    "cards": [
+     {
+      "name": "KING OF THE HILL",
+      "vp": 3
+     }
+    ]
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.31,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 102.98,
+     "objective_risk": 1.34,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 3.93,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.35,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 113.28,
+     "threats_raw": 1.25
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.26,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 103.78,
+     "objective_risk": 0.55,
+     "missive": 4.5,
+     "obj_hold": -0.3,
+     "capture_blocker": 2.14,
+     "leader_attach": 0,
+     "screen": 0,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 1.13,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 110.19,
+     "threats_raw": 1.05
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Augur"
+   ],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 2.67 expected melee damage against 20 HP; its death would score the enemy 4 VP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.1335,
+   "threat": 2.67,
+   "hp": 20,
+   "killVp": 4,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 0,
+   "dealing": 1.22,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Magdeburg Warhost",
+  "round": 4,
+  "phase": "MOVEMENT",
+  "uid": 35,
+  "name": "Corporaider Squad 3",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 4,
+   "row": 6
+  },
+  "parts": {
+   "stay": 24.74,
+   "fallBack": 1.93,
+   "stayCore": 7.67,
+   "fight": 17.56,
+   "taken": 3.17,
+   "tieUp": 0.31,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.86,
+   "lostVp": 1,
+   "gainedVp": 0,
+   "followed": 2.38,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 4,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 10,
+   "engagers": [
+    {
+     "uid": 24,
+     "name": "Equites Igniferi",
+     "hp": 20,
+     "dealt": 1.22,
+     "taken": 2.67
+    },
+    {
+     "uid": 25,
+     "name": "Praetorian Fireteam",
+     "hp": 8,
+     "dealt": 1.88,
+     "taken": 1.44
+    },
+    {
+     "uid": 26,
+     "name": "Augur",
+     "hp": 8,
+     "dealt": 0.08,
+     "taken": 7.45
+    }
+   ],
+   "threat": 3.18,
+   "shotAt": {
+    "stay": 2.46,
+    "dest": 0.28
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 1,
+     "row": 7,
+     "vp": 2,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.42,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 293.03,
+     "objective_risk": 25.51,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 11.53,
+     "leader_attach": 0,
+     "screen": 8.19,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.44,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 320.45,
+     "threats_raw": 1.12
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.31,
+     "range": 2.34,
+     "offensive": 2.85,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 177.95,
+     "objective_risk": 0.29,
+     "missive": 2.17,
+     "obj_hold": -1.22,
+     "capture_blocker": 12.13,
+     "leader_attach": 0,
+     "screen": 7.19,
+     "safety": 0,
+     "obj_drift": -1.8,
+     "role": 1.19,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 206.1,
+     "threats_raw": 0.58
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 3,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(1,7)",
+     "vp": 2,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 3.18 expected melee damage against 7 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 11.56 expected damage dealt",
+   "it held 2 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 0.4542857142857143,
+   "threat": 3.18,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 2,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0.28,
+   "screen": 0.9999999999999991,
+   "dealing": 11.559999999999999,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]

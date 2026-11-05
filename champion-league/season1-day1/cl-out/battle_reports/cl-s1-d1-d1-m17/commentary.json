@@ -1,0 +1,73 @@
+{
+  "title": "Winter Host vs Glandore Breakers",
+  "armies": [
+    { "name": "Winter Host", "faction": "Principality of Novgorod" },
+    { "name": "Glandore Breakers", "faction": "Grand Duchy of Albion" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "<p>The Glandore Breakers beat the Winter Host 35-22 in Battle Round 6, after leading 17-2 at the end of Round 2. The Sidhe reached all three objectives in the first move and banked that lead; the Winter Host fought back to win Rounds 4 and 5, but never held more than the west objective, and lost units to its own choices along the way.</p>",
+  "result_line": "Glandore Breakers win 35-22 on Victory Points in Battle Round 6",
+  "deployment": "<p>Central Faceoff on CROSSROADS, objectives at the centre (7,7), the west (1,7) and the east (13,7). The Winter Host deployed on row 12: the Rynda Guard with Rurik the Deathless at (3,12), the Firelance Druzhina at (4,12), Veche Levy 1, 2 and 3 at (5,12), (9,12) and (11,12), and the Bogatyr Thunderguards with the Winter Witch at (10,12). The Glandore Breakers put the Fomorian Tidebreaker at (3,1), Briton Yeomen 2 at (4,2), Sidhe Wardens 2 with the Fey Lord at (5,2), Sidhe Wardens 3 at (7,2), Sidhe Wardens 1 with Cliodhna - The Dread Tide at (9,2), Morrigan's Chosen at (10,2) and Briton Yeomen 1 at (11,2). With fewer units, the Winter Host had Priority in Rounds 1 to 4.</p><p>The Sidhe move far, and the Veche Levy do not: the first move decided who stood on the objectives.</p>",
+  "rounds": {
+    "1": {
+      "title": "The Sidhe take all three in one move",
+      "feed": [
+        { "phase": "Command", "text": "<p>The Winter Host's 2 CP Double Time on the Firelance Druzhina bought nothing. The Flow of Magic gave the Breakers Tree.</p>" },
+        { "phase": "Movement", "text": "<p>The Firelance Druzhina ran to (2,7) beside the west objective, but the Veche Levy only reached rows 9 and 10. The Breakers went straight to the objectives: Sidhe Wardens 3 to the centre at (7,7) with Sidhe Wardens 1 and Cliodhna at (8,7), Sidhe Wardens 2 and the Fey Lord to the west at (0,7), Briton Yeomen 1 to the east at (12,6). The Fomorian Tidebreaker charged the Firelance Druzhina at (2,6).</p>" },
+        { "phase": "Action", "text": "<p>The Fomorian struck first for 2 damage; the Druzhina's counterattack hit it 4 times for 6. The Winter Witch channelled 6 Mana.</p>" },
+        { "phase": "Cleanup", "text": "<p>The Breakers held all three: the centre (OC 25 vs 0), the west (OC 13 vs 4) and the east (OC 10 vs 0), 7 VP. With no Breakers unit in its half, the Winter Host completed BAR THE GATES for 2. <b>2-7.</b></p>" }
+      ]
+    },
+    "2": {
+      "title": "The Firelance Druzhina dies without a swing",
+      "feed": [
+        { "phase": "Command", "text": "<p>The Breakers' 3 CP Secure Objective on Sidhe Wardens 3 bought nothing.</p>" },
+        { "phase": "Movement", "text": "<p>The Rynda Guard moved up to (3,9) under a 1 CP Go to Ground and took 1 damage from four Sidhe Overwatch shots. Morrigan's Chosen charged into the Winter Host's lines at (6,8), and Veche Levy 2 broke away from it in disorder; the Fomorian broke away from the Druzhina the same way. Cliodhna and Sidhe Wardens 1 charged the Firelance Druzhina at (3,7).</p>" },
+        { "phase": "Action", "text": "<p>Rurik's Perun's Arrow did 6 damage to Briton Yeomen 2 and PARALYZED it; the Winter Witch's Hail of Heaven (4 Mana) did 4 to Briton Yeomen 1 and CHILLED it; the Bogatyr Thunderguards put 3 into Morrigan's Chosen through a Go to Ground. But the Firelance Druzhina attacked Sidhe Wardens 1, and Cliodhna (INI 11) and the Wardens (INI 8), both with charge bonuses, struck first and destroyed it. The Fey Lord's Magical Imbuement gave his Wardens MAGICAL shots, and four Breakers units fired on the Bogatyr Thunderguards for FOCUSED FIRE.</p>" },
+        { "phase": "Cleanup", "text": "<p>All three objectives again for 7, FOCUSED FIRE 2 and 1 CP, and IRON CURTAIN 1 and 1 CP, with 1 VP withheld by the 10 VP cap. <b>2-17.</b></p>" }
+      ]
+    },
+    "3": {
+      "title": "The west falls to Rurik, Veche Levy 2 to its own side",
+      "feed": [
+        { "phase": "Command", "text": "<p>Consumed By Blizzard CHILLED seven Breakers units. Cliodhna paid 2 CP for Rally Cry on Morrigan's Chosen.</p>" },
+        { "phase": "Movement", "text": "<p>The Rynda Guard and Rurik charged the Fey Lord and Sidhe Wardens 2 at the west objective, and Veche Levy 1 followed to (2,8). Veche Levy 2 moved to (8,6), and the Fomorian Tidebreaker charged it from the centre. Morrigan's Chosen's charge failed.</p>" },
+        { "phase": "Action", "text": "<p>The Bogatyr Thunderguards fired at the Fomorian through the melee; the shot strayed into Veche Levy 2 for 11 damage and PARALYZED it, and the Fomorian finished the squad. At the west, Sidhe Wardens 2 attacked the Rynda Guard and lost 4 HP to the counterattacks of the Guard and Rurik, who struck first. Veche Levy 1 and 3 traded shots with the Sidhe and the Yeomen.</p>" },
+        { "phase": "Cleanup", "text": "<p>The Winter Host took the west with OC 39 against 8 and completed IRON GRIP for 2 and 1 CP. The Breakers held the centre (OC 8 vs 0) for 3 and BREAK THEIR HOLD paid 1 for their unit in the west. <b>6-21.</b></p>" }
+      ]
+    },
+    "4": {
+      "title": "Morrigan's Chosen and the Fey Lord fall: the Winter Host's round",
+      "feed": [
+        { "phase": "Command", "text": "<p>The Winter Host bought a Troop Requisition (5 CP with the range surcharge): a fresh Veche Levy at (7,12). Cliodhna spent 2 CP on another Rally Cry for Morrigan's Chosen.</p>" },
+        { "phase": "Movement", "text": "<p>Briton Yeomen 1, Morrigan's Chosen and the Fomorian all charged the Winter Witch and the Bogatyr Thunderguards around (9,9). When Veche Levy 3 charged, Cliodhna paid 3 CP for a Countercharge by Sidhe Wardens 3, which canceled it.</p>" },
+        { "phase": "Action", "text": "<p>The Bogatyr Thunderguards, on 5 HP, attacked the Fomorian, which struck first and destroyed them. Morrigan's Chosen rolled 10 hits on Veche Levy 3 for 10 damage, and Veche Levy 3's counterattack killed it: ASSASSINATION, 4 VP. The Rynda Guard destroyed Sidhe Wardens 2 and Rurik killed the Fey Lord. The Winter Witch's Morana's Judgement (6 Mana) took 4 HP off the Fomorian.</p>" },
+        { "phase": "Cleanup", "text": "<p>The Winter Host held the west (2), ERADICATE THE FOE paid 3 for two or more kills in Objective Areas, and ASSASSINATION 4: 9 VP to the Breakers' 1, from BREAK THEIR HOLD. <b>15-22.</b></p>" }
+      ]
+    },
+    "5": {
+      "title": "The Fomorian Tidebreaker falls",
+      "feed": [
+        { "phase": "Command", "text": "<p>Both sides spent 2 CP on a Rally Cry, the Winter Host for the Winter Witch and the Breakers for Briton Yeomen 2.</p>" },
+        { "phase": "Movement", "text": "<p>Briton Yeomen 1 broke away in disorder to the centre at (8,7), and the Fomorian broke away to the east at (12,7) with 2 HP left. The Rynda Guard and Rurik held the west at (2,7).</p>" },
+        { "phase": "Action", "text": "<p>The requisitioned Veche Levy shot the Fomorian dead in the east Objective Area. Cliodhna's Tonn Chliodhna (3 Mana) hit Veche Levy 1 for 3 and knocked it back to (7,5).</p>" },
+        { "phase": "Cleanup", "text": "<p>The Winter Host held the west (OC 13 vs 0) for 2 and ERADICATE THE FOE paid 2; the Breakers held the centre with Briton Yeomen 1 (OC 6 vs 0) for 3. <b>19-25.</b></p>" }
+      ]
+    },
+    "6": {
+      "title": "Rurik leaves the west, and the Breakers finish",
+      "feed": [
+        { "phase": "Command", "text": "<p>The Winter Host's 2 CP Scouting Order on Veche Levy 1 SPOTTED the Breakers' HQ. Cliodhna spent 2 CP on Rally Cry for Sidhe Wardens 3.</p>" },
+        { "phase": "Movement", "text": "<p>Briton Yeomen 2, which had stood in the west Objective Area when the card was kept, reached the centre at (6,7): OBJECTIVE RELAY, 2 VP and 1 CP. Veche Levy 1 charged it, and so did the Rynda Guard and Rurik, leaving the west objective they had held for three rounds.</p>" },
+        { "phase": "Action", "text": "<p>Cliodhna's Tonn Chliodhna (3 Mana) hit Veche Levy 1 with 5 of 5 dice for 10 damage and destroyed it. The Rynda Guard destroyed Briton Yeomen 2 and took ground at (6,7). The Winter Witch's Hail of Heaven (4 Mana) on (8,7) finished Sidhe Wardens 3 and hit Briton Yeomen 1 for 2.</p>" },
+        { "phase": "Cleanup", "text": "<p>The Breakers held the centre (OC 20 vs 11) for 3, and with the west no longer the Winter Host's, BREAK THEIR HOLD paid 3; STRONGPOINT 1 and IRON GRIP 1 made 10, with 4 VP more withheld (1 of IRON GRIP and all 3 of TERRITORIAL SUPERIORITY). The Winter Host's ERADICATE THE FOE paid 3. <b>22-35.</b></p>" }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p>The Glandore Breakers' 35 was objectives (23), secondaries (7: IRON CURTAIN 1, FOCUSED FIRE 2, OBJECTIVE RELAY 2, STRONGPOINT 1, IRON GRIP 1) and BREAK THEIR HOLD (5). The Winter Host's 22 was ERADICATE THE FOE (8), secondaries (8: BAR THE GATES 2, IRON GRIP 2, ASSASSINATION 4) and the west objective (6). Fourteen of the Breakers' objective VP came in the first two rounds, when they held all three objectives and the Winter Host none.</p>{{chart:objectives}}<h3>Speed, then attrition</h3><p>The Breakers won the battle in its first move: the Sidhe stood on every objective at the end of Round 1 while the Veche Levy were still two rows short. After that the Winter Host traded well. In Rounds 4 and 5 it outscored the Breakers 13-4, with Rurik the Deathless and the Rynda Guard (6.5 VP, the best on their side) holding the west and killing Sidhe Wardens 2 and the Fey Lord, and Veche Levy 3 killing Morrigan's Chosen for ASSASSINATION. On the Breakers' side, Briton Yeomen 1 (15 RP, 8.7 VP) held the east and then the centre, and Cliodhna did 15 damage, 10 of it with one Tonn Chliodhna in Round 6.</p>{{chart:rp-trade}}<h3>What the Winter Host gave away</h3><p>Three of its losses look like AI choices. In Round 2 the Firelance Druzhina attacked Sidhe Wardens 1 and Cliodhna, who strike first at INI 11 and 8 with their charge bonus, and died without a swing; in Round 4 the Bogatyr Thunderguards, on 5 HP, attacked the Fomorian Tidebreaker, which also struck first, and died the same way. In Round 3 the Bogatyr Thunderguards fired into the melee between the Fomorian and Veche Levy 2; the shot strayed, did 11 damage to Veche Levy 2, and the Fomorian finished it. In Round 6, the last round, the Rynda Guard and Rurik left the west objective to charge Briton Yeomen 2: the Winter Host scored no objective and handed the Breakers BREAK THEIR HOLD's 3 VP, though the Breakers would have reached 30 without them. The Breakers' AI wasted less: a Secure Objective and a Shapeshifter in Round 2 that bought nothing.</p>{{chart:attrition}}<h3>Against the first playing</h3><p>The first playing was a 31-14 Breakers win in Round 4, when they scored 13 VP in one round to finish. This time the 10 VP cap held them to 10 in Round 2 and Round 6, and the Winter Host won Round 4 9-1 and Round 5 4-3, so the battle went two rounds longer and the Winter Host scored 22 instead of 14. Rurik the Deathless and Cliodhna each cost 10 RP less, and two Veche Levy and two Sidhe Wardens squads were topped up by 5 RP. In the first playing the Fomorian Tidebreaker died in its own failed Fall Back; this time it was shot dead in the east Objective Area and counted for ERADICATE THE FOE.</p>"
+  },
+  "closing_title": "Fast first, then just enough",
+  "closing": "<p>The Glandore Breakers won on the first two rounds and spent the rest of the battle holding on. The Winter Host had the better middle of the battle and the units to win a slower game; it lost the race to the objectives at the start and three units to fights it should not have picked.</p>"
+}

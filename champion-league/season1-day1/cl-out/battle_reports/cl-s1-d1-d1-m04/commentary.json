@@ -1,0 +1,64 @@
+{
+  "title": "Blaze of Etna vs Caerfyrddin Fencibles",
+  "armies": [
+    { "name": "Blaze of Etna", "faction": "Iron Imperium" },
+    { "name": "Caerfyrddin Fencibles", "faction": "British Liberation Front" }
+  ],
+  "mode_name": "Seize the Ground",
+  "lede": "<p>Caerfyrddin Fencibles won 31-27 on Victory Points at the end of Battle Round 5.</p><p>The Blaze of Etna held the centre from Round 2 to the end, but it never sent a unit to the right objective, where the House of Glass Arcanist, one 5 HP model, stood for four rounds at 2 VP a round.</p>",
+  "result_line": "Caerfyrddin Fencibles win 31-27 on Victory Points in Battle Round 5",
+  "deployment": "<p>Central Faceoff on CROSSROADS, three objectives on row 7: the 3 VP centre at (7,7) and the 2 VP flanks at (1,7) and (13,7). <b>The Blaze of Etna</b> brought six units: Enceladan Ferricants at (3,12) on the left, the T.A.L.O.S Warcolossus at (5,13), and on the right the Briarean Ferricants (9,12), the Legionnaire Squad (10,12) and the Artificer-General with the Cyclopean Ferricants (11,12). <b>Caerfyrddin Fencibles</b> brought ten, along row 2 in front of its HQ at (7,1): the Knight-Constable with the Knight-Bulwarks at (3,2), the Eire Pathfinders (4,2), the Alba Highlanders (5,2), four ten-model Parish Militia at (7,2), (8,2), (10,2) and (11,2), the House of Glass Arcanist (9,2) and the Prydain Field Gun behind at (11,0). The Etna's Ferricants were the heavier hitters; the Fencibles had the numbers for three objectives and for IMPENETRABLE FORTRESS, which pays for units outside the deployment zone. The Etna had Priority every round (fewer units on the battlefield).</p>",
+  "rounds": {
+    "1": {
+      "title": "Thirty Militia OC on the centre",
+      "feed": [
+        { "phase": "Command", "text": "Primaries revealed: BREAK THEIR HOLD for the Etna, IMPENETRABLE FORTRESS for the Fencibles. Secondaries kept: STRONGPOINT and IRON GRIP. Hymns of the Anvil put the Pyracmon Hymn on four Etna units. The Etna spent 2 CP on Double Time for the Cyclopean Ferricants; the record says the move was in reach without it." },
+        { "phase": "Movement", "text": "The Etna went for the centre: the Cyclopean Ferricants with the Artificer-General to 8,8, the Briarean Ferricants to 9,8 and the Legionnaire Squad to 7,8, with the Enceladan Ferricants to 2,8 on the left. Three Parish Militia met them at 7,6, 8,6 and 6,6. The House of Glass Arcanist walked to 12,5, toward the right; Parish Militia 2 moved sideways to 5,2." },
+        { "phase": "Action", "text": "No unit on either side had a legal action." },
+        { "phase": "Cleanup", "text": "The Fencibles took the centre on OC 30 vs 22 (3 VP) and IRON GRIP (+2, +1 CP). The Etna took the left (OC 3 vs 0), BREAK THEIR HOLD 1 for its units in the centre, and STRONGPOINT (+1, +1 CP). <b>4-5.</b>" }
+      ]
+    },
+    "2": {
+      "title": "The Cyclopean Ferricants take the centre",
+      "feed": [
+        { "phase": "Command", "text": "The Etna spent 2 CP on Double Time for the Briarean Ferricants; the Fencibles 2 CP on Double Time for Parish Militia 2 and 3 CP on Secure Objective for Parish Militia 1, which bought nothing. Secondaries kept: PUSH FORWARD and ASSASSINATION." },
+        { "phase": "Movement", "text": "The Briarean Ferricants walked to 6,8 through Overwatch from Parish Militia 3 and 4 (3 HP, a model). The Cyclopean Ferricants and the Artificer-General charged Parish Militia 1 and 3 at 8,7; Parish Militia 3 failed its Fall Back test and broke away in disorder. The Knight-Bulwarks and the Knight-Constable charged the Enceladan Ferricants on the left; the Enceladan broke away to 0,8 and their Overwatch hit the Eire Pathfinders for 4. The Alba Highlanders went to 12,8 and the Arcanist to 13,6, onto the right." },
+        { "phase": "Action", "text": "The Cyclopean Ferricants (10) and the Artificer-General (6) took Parish Militia 1 from 20 to 4. The Briarean Ferricants used Storm of Bullets on Parish Militia 4 for 2. The Eire Pathfinders' Spot &amp; Mark made the Legionnaire Squad MARKED, and Parish Militia 4 and the Arcanist hit it for 2 each through its Shield Wall. The Enceladan Ferricants' BURNED and Phlegraean Fields finished the Eire Pathfinders in Cleanup." },
+        { "phase": "Cleanup", "text": "The Etna took the centre on OC 18 vs 13 (3 VP), and BREAK THEIR HOLD paid 3 for taking it. The Fencibles took the left with the Knights (OC 12 vs 3) and the right with the Highlanders and the Arcanist (OC 6 vs 0), 4 VP, and IMPENETRABLE FORTRESS paid 3. <b>10-12.</b>" }
+      ]
+    },
+    "3": {
+      "title": "Knights take the Enceladan; the Arcanist holds the right alone",
+      "feed": [
+        { "phase": "Command", "text": "The Etna spent 1 CP on Scouting Order for the Artificer-General (it SPOTTED the Arcanist, which nothing else saw) and 1 on Go to Ground for the Legionnaire Squad; the Fencibles 2 CP on Rally Cry for Parish Militia 1. Secondaries kept: OMNIPRESENCE and DEEP REACH." },
+        { "phase": "Movement", "text": "Parish Militia 1 broke away to 4,5. The Cyclopean Ferricants charged Parish Militia 2 and 4 at 6,7, and Parish Militia 4 failed its Fall Back test. The Knights charged the Enceladan Ferricants again at 1,8; Parish Militia 3 charged the Cyclopean pair. The Alba Highlanders left the right for 9,7, leaving the Arcanist alone on it." },
+        { "phase": "Action", "text": "The Knight-Bulwarks destroyed the Enceladan Ferricants (9). The Legionnaire Squad shot the Alba Highlanders for 6. The Cyclopean Ferricants (11) and the Artificer-General (4) took Parish Militia 3 from 19 to 4. The Briarean Ferricants shot the Knight-Bulwarks for 8 and the T.A.L.O.S Warcolossus set BURNED on the Knights, leaving the Bulwarks on 1 HP. The Arcanist channelled 6 Mana and cast Glamourbane on the Legionnaire Squad (2 Mana) to raise it to DESIGNATED." },
+        { "phase": "Cleanup", "text": "The Etna held the centre on OC 13 vs 10 (3 VP). The Fencibles held the left (OC 6 vs 0) and the right on the Arcanist's OC 1 vs 0, 4 VP, IMPENETRABLE FORTRESS 2 and DEEP REACH 3. <b>13-21.</b>" }
+      ]
+    },
+    "4": {
+      "title": "BURNED ends the Knight-Bulwarks",
+      "feed": [
+        { "phase": "Command", "text": "Both sides spent 2 CP on Rally Cry, the Etna for the Legionnaire Squad and the Fencibles for the Knight-Bulwarks; both passed. The Alba Highlanders failed Morale and were SUPPRESSED. Secondaries kept: COMMAND AUTHORITY and PROBING STRIKE; PUSH FORWARD expired." },
+        { "phase": "Movement", "text": "Parish Militia 2 and 3 broke away from the Cyclopean Ferricants. The T.A.L.O.S Warcolossus charged the Knight-Constable and the Knight-Bulwarks at 2,8, and the Briarean Ferricants moved up to 3,7. The Alba Highlanders charged the Legionnaire Squad at 8,7." },
+        { "phase": "Action", "text": "The Artificer-General's Instrument Calibration gave the Briarean Ferricants a reroll, and they hit Parish Militia 4 for 2. The Arcanist cast Light of Dyrnwyn on the Alba Highlanders (4 Mana), and the Highlanders took the Legionnaire Squad to 1 HP and set it BURNED. The T.A.L.O.S lost 5 to the Knights. BURNED destroyed the Knight-Bulwarks at the end of the phase." },
+        { "phase": "Cleanup", "text": "The Etna held the centre on OC 10 vs 7 (3 VP) and BREAK THEIR HOLD paid 1 for the left. The Knight-Constable alone held the left on OC 3 vs 2 and the Arcanist the right, 4 VP, with IMPENETRABLE FORTRESS 2. <b>17-27.</b>" }
+      ]
+    },
+    "5": {
+      "title": "The Etna's best round, and not enough",
+      "feed": [
+        { "phase": "Command", "text": "The Etna spent 3 CP on Secure Objective for the Legionnaire Squad, which BURNED killed before it could count; the Fencibles 2 CP on Rally Cry for Parish Militia 1. Secondaries kept: DEEP REACH and FOCUSED FIRE; COMMAND AUTHORITY and PROBING STRIKE expired." },
+        { "phase": "Movement", "text": "The Cyclopean Ferricants charged the Alba Highlanders and Parish Militia 4 at 7,6; both broke away, Parish Militia 4 in disorder. The Briarean Ferricants moved to 1,6 on the left. Parish Militia 3 joined the Arcanist on the right at 12,6." },
+        { "phase": "Action", "text": "The Briarean Ferricants shot Parish Militia 2 for 4 and took 2 back. The Legionnaire Squad hit Parish Militia 4 for 1 and then died to BURNED. The T.A.L.O.S and the Knight-Constable fought for nothing." },
+        { "phase": "Cleanup", "text": "The Etna took the centre (OC 7 vs 0) and the left (OC 4 vs 3), 5 VP, BREAK THEIR HOLD 3 for the left and DEEP REACH 2, its third VP withheld by the 10 VP round cap. The Fencibles' right objective (OC 3 vs 0) and IMPENETRABLE FORTRESS paid 4. <b>27-31</b>, the Fencibles past 30." }
+      ]
+    }
+  },
+  "analysis": {
+    "title": "Why it went this way",
+    "html": "<h3>Where the VP came from</h3><p><b>Caerfyrddin Fencibles</b> scored 17 objective VP: the centre in Round 1, the left in Rounds 2 to 4 and the right in Rounds 2 to 5. IMPENETRABLE FORTRESS paid 9 (3, 2, 2, 2: its ten units kept enough of themselves outside the deployment zone and above half strength) and IRON GRIP and DEEP REACH 5. <b>The Blaze of Etna</b> scored 16 objective VP: the left in Rounds 1 and 5 and the centre in Rounds 2 to 5. BREAK THEIR HOLD paid 8 and STRONGPOINT and DEEP REACH 3. The difference was the right objective: 8 VP to the Fencibles and nothing to the Etna.</p>{{chart:objectives}}<h3>What the key units did</h3><p>The House of Glass Arcanist (22 RP) was the top scorer on the table, 8.1 VP: it stood on the right objective in all four rounds the Fencibles scored it, alone on OC 1 in Rounds 3 and 4, and cast Glamourbane and Light of Dyrnwyn besides. The Knight-Bulwarks with the Knight-Constable took the left from the Enceladan Ferricants and destroyed them, and the Constable held it alone in Round 4. For the Etna, the Cyclopean Ferricants did 21 damage and held the centre from Round 2 (7.5 VP, 9 hinged), with the Legionnaire Squad beside them (6.3 VP); the Briarean Ferricants did 16 damage and retook the left in Round 5 with the T.A.L.O.S Warcolossus. The losses were even, 63 RP to 59, two units each.</p>{{chart:attrition}}<h3>What the Etna could not do</h3><p>It had six units for three objectives and spent them on two. Its heaviest units ground down Parish Militia 1 and 3 to 4 HP each but destroyed no Militia: the Parish Militia fell back six times rather than stand and die, and kept the Fencibles' unit count up for IMPENETRABLE FORTRESS. OMNIPRESENCE (2 OC on every objective) could not score without a unit on the right, and COMMAND AUTHORITY and PUSH FORWARD expired. The Etna's Round 5 was its best (the round cap held back a VP of DEEP REACH), and it came one round late.</p>{{chart:rp-trade}}<h3>The AI, not the army</h3><ul><li><b>The right objective:</b> no Etna unit stood in the area of (13,7) at the end of any round. The Briarean Ferricants were four squares from it at 9,8 after Round 1 and the Double Time of Round 2 took them toward the centre instead. A 5 HP model on OC 1 held it for two rounds against nobody; that is 4 VP in a battle lost by 4, and the cleanest example in this battle of the AI leaving ground alone.</li><li><b>Round 5, Secure Objective:</b> 3 CP on a Legionnaire Squad on 1 HP and BURNED, which died in the Action Phase before Cleanup. The record prices it at nothing.</li><li><b>Round 1, Double Time</b> on the Cyclopean Ferricants bought nothing (the move was in reach without it), and the Fencibles' Round 2 Secure Objective for Parish Militia 1 bought nothing either.</li><li><b>Parish Militia 2</b> moved sideways and back for two rounds (6 squares lost by the record) before it fought.</li></ul><p>This one looks like the AI more than the army: the Etna's units won the centre and the left, and an uncontested flank decided it.</p><h3>Against the first playing</h3><p>The first playing went to Caerfyrddin Fencibles 36-12 in Round 4. The Blaze of Etna then fielded an Artificer-Captain with the Briarean Ferricants; now it brought a Legionnaire Squad instead, and that squad and the Cyclopean Ferricants held the centre from Round 2, where the first playing's Etna scored objectives only in Rounds 3 and 4 (6 VP to 16 now). The Fencibles' army was the same and its IMPENETRABLE FORTRESS paid 9 both times, but the Etna's extra objective VP made it a five-round battle decided by 4. The 10 VP round cap cost the Etna 1 VP in Round 5; it did not change the result.</p>"
+  },
+  "closing_title": "The flank nobody went to",
+  "closing": "<p>The Etna's Ferricants won every fight they chose, took the centre and retook the left. The battle went the other way on the one objective they never chose: a single Arcanist on the right, 2 VP a round, in a battle decided by 4.</p>"
+}

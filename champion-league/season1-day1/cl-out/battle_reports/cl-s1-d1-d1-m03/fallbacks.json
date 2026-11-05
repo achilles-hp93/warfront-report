@@ -1,0 +1,1886 @@
+[
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Celeritas Squadron",
+  "round": 2,
+  "phase": "MOVEMENT",
+  "uid": 32,
+  "name": "Retiarius Squad 1",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 4,
+   "row": 4
+  },
+  "test": {
+   "need": 3,
+   "roll": 4,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 4,
+   "row": 4
+  },
+  "parts": {
+   "stay": 4.18,
+   "fallBack": 4.31,
+   "stayCore": -0.51,
+   "fight": 4.68,
+   "taken": 1.33,
+   "tieUp": 1.33,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 3.98,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.67,
+   "fireBonus": 1,
+   "bestDest": {
+    "col": 4,
+    "row": 4
+   }
+  },
+  "board": {
+   "hp": 14,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Covenant Levies 2",
+     "hp": 12,
+     "dealt": 1.33,
+     "taken": 4.68
+    }
+   ],
+   "threat": 1.33,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 1,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -5.47,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.7,
+     "objective_risk": 0.39,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 4.33,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.59,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 4.32,
+     "threats_raw": 2.61
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.96,
+     "objective_risk": 0.14,
+     "missive": 2.17,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.49,
+     "safety": 0.03,
+     "obj_drift": 0,
+     "role": 1.1,
+     "posture": 0.09,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 8.42,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Caesar - Divus Imperator (Mounted)"
+   ],
+   "objectives": []
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 1.33 expected melee damage against 14 HP",
+   "it was winning the fight: 4.68 expected damage dealt",
+   "leaving opens 1 shot(s) at its enemies; 0 taken"
+  ],
+  "q": {
+   "danger": 0.095,
+   "threat": 1.33,
+   "hp": 14,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 1,
+   "shotAfter": 0,
+   "screen": 1.8399999999999999,
+   "dealing": 4.68,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Celeritas Squadron",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 30,
+  "name": "Palatine Custos (Mounted)",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 7
+  },
+  "parts": {
+   "stay": 35.24,
+   "fallBack": 3.96,
+   "stayCore": 5.13,
+   "fight": 30,
+   "taken": 0.13,
+   "tieUp": 0.24,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 5.07,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.11,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 28,
+   "maxHp": 28,
+   "engagers": [
+    {
+     "uid": 25,
+     "name": "Covenant Levies 2",
+     "hp": 12,
+     "dealt": 0.11,
+     "taken": 8
+    },
+    {
+     "uid": 26,
+     "name": "Covenant Levies 3",
+     "hp": 2,
+     "dealt": 0.02,
+     "taken": 2
+    }
+   ],
+   "threat": 0.13,
+   "shotAt": {
+    "stay": 0,
+    "dest": 2.67
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.5,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 511.42,
+     "objective_risk": 4.99,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 18.25,
+     "leader_attach": 0,
+     "screen": 4.82,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.92,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 539.94,
+     "threats_raw": 1.5
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -1.34,
+     "range": 1.88,
+     "offensive": 5.59,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 512.97,
+     "objective_risk": 3.43,
+     "missive": 4.5,
+     "obj_hold": 0.52,
+     "capture_blocker": 14.44,
+     "leader_attach": 0,
+     "screen": 8.13,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.86,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 548.55,
+     "threats_raw": 1.35
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.13 expected melee damage against 28 HP; its death would score the enemy 3 VP",
+   "it was winning the fight: 10 expected damage dealt, enough to destroy an engager"
+  ],
+  "q": {
+   "danger": 0.004642857142857143,
+   "threat": 0.13,
+   "hp": 28,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 2.67,
+   "screen": -3.3100000000000005,
+   "dealing": 10,
+   "canKill": true,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 26,
+  "name": "Covenant Levies 3",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 8
+  },
+  "test": {
+   "need": 6,
+   "roll": 5,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 8
+  },
+  "parts": {
+   "stay": -1.34,
+   "fallBack": 0.64,
+   "stayCore": 2.88,
+   "fight": 0.16,
+   "taken": 6,
+   "tieUp": 1.63,
+   "stayDeathChance": 1,
+   "stayDeath": 4,
+   "destCore": 4.53,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 3.89,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 2,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Caesar - Divus Imperator (Mounted)",
+     "hp": 28,
+     "dealt": 2,
+     "taken": 0.03
+    },
+    {
+     "uid": 30,
+     "name": "Palatine Custos (Mounted)",
+     "hp": 28,
+     "dealt": 2,
+     "taken": 0.02
+    },
+    {
+     "uid": 32,
+     "name": "Retiarius Squad 1",
+     "hp": 15,
+     "dealt": 2,
+     "taken": 0.11
+    }
+   ],
+   "threat": 6,
+   "shotAt": {
+    "stay": 3.26,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 0,
+     "atDest": 0
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.1,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.57,
+     "objective_risk": 2.07,
+     "missive": 0.68,
+     "obj_hold": 0.39,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 5.13,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.7,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 9.16,
+     "threats_raw": 1.47
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.62,
+     "range": 1.72,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 0.23,
+     "objective_risk": 0.01,
+     "missive": 0.76,
+     "obj_hold": -0.48,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 9.79,
+     "safety": 0,
+     "obj_drift": -1.1,
+     "role": 0.52,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 14.43,
+     "threats_raw": 0.7
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Covenant Levies 2",
+    "Covenant Levies 2"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 6 expected melee damage against 2 HP"
+  ],
+  "q": {
+   "danger": 3,
+   "threat": 6,
+   "hp": 2,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": -4.659999999999999,
+   "dealing": 0.16,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 3,
+  "phase": "MOVEMENT",
+  "uid": 25,
+  "name": "Covenant Levies 2",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 9
+  },
+  "parts": {
+   "stay": -15.41,
+   "fallBack": -27.09,
+   "stayCore": 6.83,
+   "fight": 0.28,
+   "taken": 14.33,
+   "tieUp": 1.48,
+   "stayDeathChance": 1,
+   "stayDeath": 12,
+   "destCore": 6.25,
+   "lostVp": 8,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 1.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 9
+   }
+  },
+  "board": {
+   "hp": 12,
+   "maxHp": 20,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Caesar - Divus Imperator (Mounted)",
+     "hp": 28,
+     "dealt": 6.33,
+     "taken": 0.17
+    },
+    {
+     "uid": 30,
+     "name": "Palatine Custos (Mounted)",
+     "hp": 28,
+     "dealt": 8,
+     "taken": 0.11
+    }
+   ],
+   "threat": 14.33,
+   "shotAt": {
+    "stay": 2.96,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 0,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -2.85,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 87,
+     "objective_risk": 62.19,
+     "missive": 4.5,
+     "obj_hold": 0.39,
+     "capture_blocker": 4.26,
+     "leader_attach": 0,
+     "screen": 11.53,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.88,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 107.5,
+     "threats_raw": 3.82
+    },
+    "dest": {
+     "cover": 0.6,
+     "threat": 0,
+     "range": 1.72,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 94.91,
+     "objective_risk": 0.1,
+     "missive": 2.65,
+     "obj_hold": -0.48,
+     "capture_blocker": 4.26,
+     "leader_attach": 0,
+     "screen": 7.14,
+     "safety": 0.96,
+     "obj_drift": -1.1,
+     "role": 0.64,
+     "posture": 1.4,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 112.7,
+     "threats_raw": 0
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 12,
+   "destroyed": true,
+   "diedInItsFight": true,
+   "killedBy": "Caesar - Divus Imperator (Mounted)",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held to the end",
+  "why": [
+   "danger 14.33 expected melee damage against 12 HP; its death would score the enemy 2 VP",
+   "it held 3 objective VP that leaving gives up"
+  ],
+  "q": {
+   "danger": 1.1941666666666666,
+   "threat": 14.33,
+   "hp": 12,
+   "killVp": 2,
+   "stake": 3,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 4.39,
+   "dealing": 0.28,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Celeritas Squadron",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 34,
+  "name": "Retiarius Squad 2",
+  "player": 1,
+  "fellBack": true,
+  "dest": {
+   "col": 9,
+   "row": 8
+  },
+  "test": {
+   "need": 5,
+   "roll": 4,
+   "passed": false,
+   "waiver": null,
+   "damage": 1,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 9,
+   "row": 8
+  },
+  "parts": {
+   "stay": -3.27,
+   "fallBack": 3.38,
+   "stayCore": 5.53,
+   "fight": 0.2,
+   "taken": 10.14,
+   "tieUp": 0.75,
+   "stayDeathChance": 1,
+   "stayDeath": 9,
+   "destCore": 5.71,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 2.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 3,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Saint-Militant",
+     "hp": 7,
+     "dealt": 2.89,
+     "taken": 0.19
+    },
+    {
+     "uid": 21,
+     "name": "Myrrhbearer Sisters",
+     "hp": 10,
+     "dealt": 0.28,
+     "taken": 0.11
+    },
+    {
+     "uid": 22,
+     "name": "Seven-Sword Intercessor",
+     "hp": 10,
+     "dealt": 2.89,
+     "taken": 0.01
+    },
+    {
+     "uid": 23,
+     "name": "Field Confessor",
+     "hp": 9,
+     "dealt": 2.32,
+     "taken": 0.07
+    },
+    {
+     "uid": 24,
+     "name": "Covenant Levies 1",
+     "hp": 9,
+     "dealt": 1.77,
+     "taken": 0.43
+    }
+   ],
+   "threat": 10.15,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.02,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 1.86,
+     "objective_risk": 2.58,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 0.93,
+     "leader_attach": 0,
+     "screen": 11.66,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.47,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 19.41,
+     "threats_raw": 1.94
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.76,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.26,
+     "objective_risk": 0.88,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 0.4,
+     "leader_attach": 0,
+     "screen": 8.89,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.2,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.94,
+     "threats_raw": 1.44
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Palatine Custos (Mounted)",
+    "Caesar - Divus Imperator (Mounted)"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "sound",
+  "why": [
+   "danger 10.15 expected melee damage against 3 HP; its death would score the enemy 2 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "staying, its death (100% by the AI's reckoning) would have scored the enemy 2 VP"
+  ],
+  "q": {
+   "danger": 3.3833333333333333,
+   "threat": 10.15,
+   "hp": 3,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 2.7699999999999996,
+   "dealing": 0.81,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Celeritas Squadron",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 32,
+  "name": "Retiarius Squad 1",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 9,
+   "row": 6
+  },
+  "parts": {
+   "stay": -4.46,
+   "fallBack": -4.91,
+   "stayCore": 5.44,
+   "fight": 0.65,
+   "taken": 9.91,
+   "tieUp": 0.45,
+   "stayDeathChance": 1,
+   "stayDeath": 9,
+   "destCore": 5.54,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 7.65,
+   "fallBackDeathChance": 0.91,
+   "fallBackDeath": 8.21,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 9,
+    "row": 6
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 15,
+   "engagers": [
+    {
+     "uid": 20,
+     "name": "Saint-Militant",
+     "hp": 7,
+     "dealt": 6.09,
+     "taken": 0.37
+    },
+    {
+     "uid": 23,
+     "name": "Field Confessor",
+     "hp": 9,
+     "dealt": 2.26,
+     "taken": 0.36
+    },
+    {
+     "uid": 24,
+     "name": "Covenant Levies 1",
+     "hp": 9,
+     "dealt": 1.56,
+     "taken": 1.87
+    }
+   ],
+   "threat": 9.91,
+   "shotAt": {
+    "stay": 0,
+    "dest": 3.56
+   },
+   "killVp": {
+    "primary": 2,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.58,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 2.11,
+     "objective_risk": 2.34,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 5.58,
+     "leader_attach": 0,
+     "screen": 3.88,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.55,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 16.05,
+     "threats_raw": 3
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.89,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 3.4,
+     "objective_risk": 0.74,
+     "missive": 2.65,
+     "obj_hold": 0,
+     "capture_blocker": 2.01,
+     "leader_attach": 0,
+     "screen": 6.82,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.2,
+     "posture": 0.3,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 17.49,
+     "threats_raw": 1.7
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 8,
+   "destroyed": true,
+   "diedInItsFight": false,
+   "killedBy": "Maphorion Nuns",
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [
+    "Palatine Custos (Mounted)",
+    "Caesar - Divus Imperator (Mounted)"
+   ],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "caught by others",
+  "why": [
+   "danger 9.91 expected melee damage against 8 HP; its death would score the enemy 2 VP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 1.23875,
+   "threat": 9.91,
+   "hp": 8,
+   "killVp": 2,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 3.56,
+   "screen": -2.9400000000000004,
+   "dealing": 2.6,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Celeritas Squadron",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 30,
+  "name": "Palatine Custos (Mounted)",
+  "player": 1,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 8,
+   "row": 7
+  },
+  "parts": {
+   "stay": 10.05,
+   "fallBack": 5.76,
+   "stayCore": 6.13,
+   "fight": 4.21,
+   "taken": 1.49,
+   "tieUp": 0.08,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.01,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0.02,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 8,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 24,
+   "maxHp": 28,
+   "engagers": [
+    {
+     "uid": 21,
+     "name": "Myrrhbearer Sisters",
+     "hp": 10,
+     "dealt": 0.02,
+     "taken": 4.48
+    },
+    {
+     "uid": 22,
+     "name": "Seven-Sword Intercessor",
+     "hp": 10,
+     "dealt": 1.47,
+     "taken": 2.3
+    }
+   ],
+   "threat": 1.49,
+   "shotAt": {
+    "stay": 0,
+    "dest": 1.41
+   },
+   "killVp": {
+    "primary": 3,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 0,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.63,
+     "range": 0,
+     "offensive": 0,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 232.69,
+     "objective_risk": 14.1,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 12.56,
+     "leader_attach": 0,
+     "screen": 4.66,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.09,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 255.88,
+     "threats_raw": 1.2
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.51,
+     "range": 2.19,
+     "offensive": 1.83,
+     "support": 0,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 235.6,
+     "objective_risk": 11.19,
+     "missive": 4.5,
+     "obj_hold": 0,
+     "capture_blocker": 12.56,
+     "leader_attach": 0,
+     "screen": 10.13,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.98,
+     "posture": 0,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 268.27,
+     "threats_raw": 0.97
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 1,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.49 expected melee damage against 24 HP; its death would score the enemy 3 VP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 6.78 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.06208333333333333,
+   "threat": 1.49,
+   "hp": 24,
+   "killVp": 3,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 1.41,
+   "screen": -5.470000000000001,
+   "dealing": 6.78,
+   "canKill": false,
+   "winning": true
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 24,
+  "name": "Covenant Levies 1",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 5
+  },
+  "parts": {
+   "stay": 9.52,
+   "fallBack": 7,
+   "stayCore": 7.26,
+   "fight": 2.73,
+   "taken": 1.87,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 7.33,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 5
+   }
+  },
+  "board": {
+   "hp": 9,
+   "maxHp": 25,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Retiarius Squad 1",
+     "hp": 8,
+     "dealt": 1.87,
+     "taken": 1.91
+    }
+   ],
+   "threat": 1.87,
+   "shotAt": {
+    "stay": 0,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.45,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 97.87,
+     "objective_risk": 6.28,
+     "missive": 4.5,
+     "obj_hold": 0.36,
+     "capture_blocker": 4.08,
+     "leader_attach": 0,
+     "screen": 9.69,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.81,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 119.25,
+     "threats_raw": 1.17
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.52,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 67.28,
+     "objective_risk": 0.08,
+     "missive": 2.65,
+     "obj_hold": -0.44,
+     "capture_blocker": 4.28,
+     "leader_attach": 0,
+     "screen": 6.1,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 86.43,
+     "threats_raw": 1.17
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 1.87 expected melee damage against 9 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.20777777777777778,
+   "threat": 1.87,
+   "hp": 9,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.59,
+   "dealing": 1.91,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 21,
+  "name": "Myrrhbearer Sisters",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 8
+  },
+  "test": {
+   "need": 5,
+   "roll": 2,
+   "passed": false,
+   "waiver": null,
+   "damage": 2,
+   "modelsKilled": 1
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 8
+  },
+  "parts": {
+   "stay": 3.61,
+   "fallBack": 7.28,
+   "stayCore": 5.95,
+   "fight": 0.55,
+   "taken": 8.89,
+   "tieUp": 0.1,
+   "stayDeathChance": 0.78,
+   "stayDeath": 0.78,
+   "destCore": 8.06,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.78,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 10,
+   "maxHp": 18,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Caesar - Divus Imperator (Mounted)",
+     "hp": 24,
+     "dealt": 4.4,
+     "taken": 0.03
+    },
+    {
+     "uid": 30,
+     "name": "Palatine Custos (Mounted)",
+     "hp": 24,
+     "dealt": 4.48,
+     "taken": 0.02
+    }
+   ],
+   "threat": 8.88,
+   "shotAt": {
+    "stay": 0.83,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.57,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 17.57,
+     "objective_risk": 35.08,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 2.82,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.79,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 23.82,
+     "threats_raw": 2.98
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.49,
+     "range": 1.88,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 52.58,
+     "objective_risk": 0.06,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0,
+     "screen": 0.87,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 0.8,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 61.93,
+     "threats_raw": 0.94
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 2,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [
+    "Covenant Levies #2",
+    "Covenant Levies #2"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 8.88 expected melee damage against 10 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.8880000000000001,
+   "threat": 8.88,
+   "hp": 10,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 1.9499999999999997,
+   "dealing": 0.05,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 22,
+  "name": "Seven-Sword Intercessor",
+  "player": 0,
+  "fellBack": true,
+  "dest": {
+   "col": 5,
+   "row": 8
+  },
+  "test": {
+   "need": 5,
+   "roll": 6,
+   "passed": true,
+   "waiver": null,
+   "damage": 0,
+   "modelsKilled": 0
+  },
+  "decision": true,
+  "plannedDest": {
+   "col": 5,
+   "row": 8
+  },
+  "parts": {
+   "stay": 4.43,
+   "fallBack": 7.69,
+   "stayCore": 6.19,
+   "fight": 0.75,
+   "taken": 7.24,
+   "tieUp": 0.11,
+   "stayDeathChance": 0.81,
+   "stayDeath": 0.81,
+   "destCore": 8.02,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.33,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 8
+   }
+  },
+  "board": {
+   "hp": 8,
+   "maxHp": 8,
+   "engagers": [
+    {
+     "uid": 29,
+     "name": "Caesar - Divus Imperator (Mounted)",
+     "hp": 24,
+     "dealt": 3.86,
+     "taken": 0.96
+    },
+    {
+     "uid": 30,
+     "name": "Palatine Custos (Mounted)",
+     "hp": 24,
+     "dealt": 3.38,
+     "taken": 2.03
+    }
+   ],
+   "threat": 7.24,
+   "shotAt": {
+    "stay": 0.89,
+    "dest": 0
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -1.41,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.3,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 25.99,
+     "objective_risk": 11.95,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 4.71,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.54,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 35.47,
+     "threats_raw": 2.69
+    },
+    "dest": {
+     "cover": 2,
+     "threat": -0.45,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 37.93,
+     "objective_risk": 0,
+     "missive": 2.1,
+     "obj_hold": 0,
+     "capture_blocker": 0,
+     "leader_attach": 0.45,
+     "screen": 1.45,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.27,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 46.96,
+     "threats_raw": 0.85
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 2,
+   "engagersStruck": [
+    "Covenant Levies #2",
+    "Covenant Levies #2"
+   ],
+   "objectives": []
+  },
+  "verdict": "doubtful",
+  "why": [
+   "danger 7.24 expected melee damage against 8 HP",
+   "the battle ended this round, so surviving it was worth nothing"
+  ],
+  "q": {
+   "danger": 0.905,
+   "threat": 7.24,
+   "hp": 8,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 0,
+   "screen": 3.26,
+   "dealing": 2.9899999999999998,
+   "canKill": false,
+   "winning": false
+  }
+ },
+ {
+  "battle": "report.json",
+  "map": "CROSSROADS",
+  "army": "Akathist Convent",
+  "round": 5,
+  "phase": "MOVEMENT",
+  "uid": 20,
+  "name": "Saint-Militant",
+  "player": 0,
+  "fellBack": false,
+  "dest": null,
+  "test": null,
+  "decision": false,
+  "plannedDest": {
+   "col": 5,
+   "row": 7
+  },
+  "parts": {
+   "stay": 14.73,
+   "fallBack": 6.06,
+   "stayCore": 8.61,
+   "fight": 6.22,
+   "taken": 0.37,
+   "tieUp": 0,
+   "stayDeathChance": 0,
+   "stayDeath": 0,
+   "destCore": 6.31,
+   "lostVp": 0,
+   "gainedVp": 0,
+   "followed": 0,
+   "fallBackDeathChance": 0,
+   "fallBackDeath": 0,
+   "lossPenalty": 0.25,
+   "fireBonus": 0,
+   "bestDest": {
+    "col": 5,
+    "row": 7
+   }
+  },
+  "board": {
+   "hp": 7,
+   "maxHp": 7,
+   "engagers": [
+    {
+     "uid": 32,
+     "name": "Retiarius Squad 1",
+     "hp": 8,
+     "dealt": 0.37,
+     "taken": 6.09
+    }
+   ],
+   "threat": 0.37,
+   "shotAt": {
+    "stay": 0,
+    "dest": 3.29
+   },
+   "killVp": {
+    "primary": 0,
+    "cards": []
+   },
+   "objectives": [
+    {
+     "col": 7,
+     "row": 7,
+     "vp": 3,
+     "here": true,
+     "now": 1,
+     "ifLeaves": 1,
+     "atDest": 1
+    }
+   ],
+   "opensFire": 0,
+   "terms": {
+    "stay": {
+     "cover": 0,
+     "threat": -0.36,
+     "range": 0,
+     "offensive": 0,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 103.63,
+     "objective_risk": 0.52,
+     "missive": 4.5,
+     "obj_hold": 0.27,
+     "capture_blocker": 12.64,
+     "leader_attach": 0,
+     "screen": 13.91,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 2.07,
+     "posture": 1.8,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 139.06,
+     "threats_raw": 0.95
+    },
+    "dest": {
+     "cover": 0,
+     "threat": -0.42,
+     "range": 1.67,
+     "offensive": 4.98,
+     "support": 0.6,
+     "hazard": 0,
+     "prefTerr": 0,
+     "objective": 67.26,
+     "objective_risk": 0.1,
+     "missive": 2.65,
+     "obj_hold": -0.33,
+     "capture_blocker": 13.3,
+     "leader_attach": 0,
+     "screen": 4.28,
+     "safety": 0,
+     "obj_drift": 0,
+     "role": 1.88,
+     "posture": 1.6,
+     "own_marker": 0,
+     "scout_caution": 0,
+     "formation": 0,
+     "total": 97.46,
+     "threats_raw": 0.95
+    }
+   }
+  },
+  "outcome": {
+   "hpLost": 0,
+   "destroyed": false,
+   "diedInItsFight": false,
+   "killedBy": null,
+   "destroyedNext": false,
+   "shotsAtEngagers": 0,
+   "engagersStruck": [],
+   "objectives": [
+    {
+     "at": "(7,7)",
+     "vp": 3,
+     "ownerAtRoundEnd": 1
+    }
+   ]
+  },
+  "verdict": "held",
+  "why": [
+   "danger 0.37 expected melee damage against 7 HP",
+   "the battle ended this round, so surviving it was worth nothing",
+   "it was winning the fight: 6.09 expected damage dealt"
+  ],
+  "q": {
+   "danger": 0.05285714285714286,
+   "threat": 0.37,
+   "hp": 7,
+   "killVp": 0,
+   "stake": 0,
+   "gain": 0,
+   "opensFire": 0,
+   "shotAfter": 3.29,
+   "screen": 9.629999999999999,
+   "dealing": 6.09,
+   "canKill": false,
+   "winning": true
+  }
+ }
+]
